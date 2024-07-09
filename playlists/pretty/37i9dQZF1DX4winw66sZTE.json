@@ -335,22 +335,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
-        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 209104,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
         "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 232333,
       "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
       "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
+        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 209104,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "BERMUDA TRIANGLE",
-        "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "BERMUDA TRIANGLE",
-      "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "/// (You, Clouds, Rain)",
         "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
       },
@@ -1071,22 +1047,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "History",
-      "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -1099,6 +1059,46 @@
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "BERMUDA TRIANGLE",
+        "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "BERMUDA TRIANGLE",
+      "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "History",
+      "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
     },
     {
       "added_at": "2024-04-04 20:15:17",

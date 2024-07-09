@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > blir det en hvit sommer?
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,285 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,295 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 27 | [Harry stil](https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Harry stil](https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy) | 2:41 |
 | 28 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
 | 29 | [FREDAG](https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREDAG](https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46) | 2:48 |
-| 30 | [100 år](https://open.spotify.com/track/593tFoRMihCsur0bA39bru) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [100 år](https://open.spotify.com/album/3aSPBp4BeXQdQyHO0gBPKZ) | 2:09 |
+| 30 | [Helg](https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Helg](https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl) | 2:51 |
 | 31 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
 | 32 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 |
 | 33 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 37 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
 | 38 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 |
 | 39 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
-| 40 | [Helg](https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Helg](https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl) | 2:51 |
+| 40 | [100 år](https://open.spotify.com/track/593tFoRMihCsur0bA39bru) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [100 år](https://open.spotify.com/album/3aSPBp4BeXQdQyHO0gBPKZ) | 2:09 |
 | 41 | [Til deg som alltid er overstadig berusa og aldri kommer inn på konsert \- det får'n aldri se](https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Til deg som alltid er overstadig berusa og aldri kommer inn på konsert \(det får'n aldri se\)](https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm) | 2:47 |
 | 42 | [Øl i kantina](https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Øl i kantina](https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj) | 2:21 |
 | 43 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |

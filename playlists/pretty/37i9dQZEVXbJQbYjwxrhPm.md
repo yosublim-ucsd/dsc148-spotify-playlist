@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Havana](https://open.spotify.com/track/3krDdyri6NeeU7FwTiAniq) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Havana](https://open.spotify.com/album/4Fp1TGVc2iUXRqNN1cExmC) | 2:42 |
 | 50 | [Мама миа](https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мама миа](https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q) | 3:06 |
 
-Snapshot ID: `Lh39mAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lh9PGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,13 +1,29 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 537900,
+  "num_followers": 538045,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAA7+54/asALIwizcPSNyRvS",
+  "snapshot_id": "ZonagAAAAADfFsTR8VmPAtCg7qTL15eC",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
     {
       "added_at": null,
       "album": {
@@ -107,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
         {
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 177986,
-      "name": "Inbetween Days",
-      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
+      "duration_ms": 193200,
+      "name": "Why Can't I Be You?",
+      "url": "https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL"
     },
     {
       "added_at": null,
@@ -135,22 +151,6 @@
       "duration_ms": 248186,
       "name": "Lullaby - Remastered",
       "url": "https://open.spotify.com/track/0ZYdUkAQmKHsaKRmq8tWSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Why Can't I Be You?",
-      "url": "https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448306,
-      "name": "Pictures Of You - Remastered",
-      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Japanese Whispers",
         "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 214160,
       "name": "Let's Go To Bed",
       "url": "https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 448306,
+      "name": "Pictures Of You - Remastered",
+      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+        "name": "Bloodflowers",
+        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 399866,
-      "name": "One Hundred Years",
-      "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+      "duration_ms": 335746,
+      "name": "The Last Day Of Summer",
+      "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "The Hanging Garden",
-      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Head on the Door (Deluxed Edition)",
         "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198506,
       "name": "Six Different Ways - 2006 Remaster",
       "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "The Hanging Garden",
+      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 137066,
-      "name": "Accuracy",
-      "url": "https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF"
+      "duration_ms": 426013,
+      "name": "Homesick - Remastered",
+      "url": "https://open.spotify.com/track/21F3fMG5BEWbUSuwC3dv5I"
     }
   ],
   "unique_name": "This Is The Cure",

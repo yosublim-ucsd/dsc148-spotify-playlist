@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0nmj2KyjW1.md) - [plain]
 
 > Escucha lo mejor de la superstar argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,373 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,486 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0nmj2KyjW1.md) - [plain]
 | 49 | [Sad Song \(feat\. TINI\)](https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Sad Song \(feat\. TINI\)](https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR) | 2:34 |
 | 50 | [Yo Me Escaparé](https://open.spotify.com/track/72UsVVL2PjZPsBYx2iXZpk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI \(Martina Stoessel\)](https://open.spotify.com/album/61gTyHazZlTR61845Icypk) | 4:07 |
 
-Snapshot ID: `Zhf11AAAAAAWSXMfkFGvkkLCFYFwRdRg`
+Snapshot ID: `ZowJRgAAAADiBM6qGlG1Gtx/UuuRePIB`

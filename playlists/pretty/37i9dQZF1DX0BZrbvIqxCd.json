@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544405,
+  "num_followers": 544389,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
+      "added_at": "2024-04-18 19:24:00",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 135541,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Four Year Strong",
@@ -695,22 +711,6 @@
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Afraid of Heights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2kqjqQneZx935suPAhokuj"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Time-Bomb Ticking Away",
-      "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -745,20 +745,20 @@
       "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
-      "added_at": "2024-04-18 19:24:00",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
+        "name": "Afraid of Heights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2kqjqQneZx935suPAhokuj"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
         }
       ],
-      "duration_ms": 135541,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+      "duration_ms": 202533,
+      "name": "Time-Bomb Ticking Away",
+      "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
+      "added_at": "2024-04-18 19:24:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5YO2QzhS2sSpZlkT721pnW"
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
       "artists": [
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 170600,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/14mBmB265dJ0UHPLXbbM6v"
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
     },
     {
-      "added_at": "2024-04-18 19:24:00",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5YO2QzhS2sSpZlkT721pnW"
       },
       "artists": [
         {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
+      "duration_ms": 170600,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/14mBmB265dJ0UHPLXbbM6v"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Hello Exile",
-        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 244564,
-      "name": "Strain Your Memory",
-      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
-    },
-    {
       "added_at": "2024-04-18 19:24:00",
       "album": {
         "name": "Fascist Bob",
@@ -955,6 +939,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Hello Exile",
+        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 244564,
+      "name": "Strain Your Memory",
+      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "A Beautiful Place To Drown",
+        "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        },
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 204470,
       "name": "Stay Awhile",
       "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "A Beautiful Place To Drown",
-        "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        },
-        {
-          "name": "Intervals",
-          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Songs of Armor and Devotion",
-        "url": "https://open.spotify.com/album/5OMrKFXc0bOdWuHIYBG3bN"
-      },
-      "artists": [
-        {
-          "name": "Strung Out",
-          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Daggers",
-      "url": "https://open.spotify.com/track/2a3GKu8pQZrcDN5q4mCgNh"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "In Spite of Me",
         "url": "https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS"
       },
@@ -1639,6 +1623,26 @@
       "duration_ms": 177280,
       "name": "Self Defeated",
       "url": "https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "A Beautiful Place To Drown",
+        "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        },
+        {
+          "name": "Caleb Shomo",
+          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ"
     }
   ],
   "unique_name": "Punk Rock Workout",

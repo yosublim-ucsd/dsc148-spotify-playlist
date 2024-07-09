@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 516765,
+  "num_followers": 517386,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAC3qI6LpQKWolSXlZ3mfA7T",
+  "snapshot_id": "ZonagAAAAAD+anZuTEYex9h/39pOE7D+",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Northern Attitude (with Hozier)",
-        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude (with Hozier)",
-      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -171,74 +151,6 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Would That I",
-      "url": "https://open.spotify.com/track/37zuIvk4KBkAxxLJsxJaHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Jackie and Wilson",
-      "url": "https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "De Selby (Part 2)",
-      "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
     },
     {
       "added_at": null,
@@ -263,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Like Real People Do",
-      "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -295,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Jackie and Wilson",
+      "url": "https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -304,9 +216,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Francesca",
-      "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
+      "duration_ms": 227826,
+      "name": "De Selby (Part 2)",
+      "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
     },
     {
       "added_at": null,
@@ -331,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "From Eden",
-      "url": "https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -363,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Like Real People Do",
+      "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -372,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 233173,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q"
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
     },
     {
       "added_at": null,
@@ -399,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -408,9 +336,41 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 219213,
-      "name": "Angel of Small Death and the Codeine Scene",
-      "url": "https://open.spotify.com/track/6JmSfynzr6E0QllQZNEXEb"
+      "duration_ms": 283466,
+      "name": "From Eden",
+      "url": "https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 178196,
+      "name": "Empire Now",
+      "url": "https://open.spotify.com/track/7bQRGSTZYc8qedKrW9FmYI"
     },
     {
       "added_at": null,
@@ -424,9 +384,25 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+      "duration_ms": 266466,
+      "name": "Wasteland, Baby!",
+      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Angel of Small Death and the Codeine Scene",
+      "url": "https://open.spotify.com/track/6JmSfynzr6E0QllQZNEXEb"
     },
     {
       "added_at": null,
@@ -451,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
       "artists": [
         {
@@ -460,25 +436,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 178196,
-      "name": "Empire Now",
-      "url": "https://open.spotify.com/track/7bQRGSTZYc8qedKrW9FmYI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Sedated",
-      "url": "https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr"
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
     },
     {
       "added_at": null,
@@ -499,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Sedated",
+      "url": "https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -511,22 +487,6 @@
       "duration_ms": 196613,
       "name": "I, Carrion (Icarian)",
       "url": "https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,126 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,125 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 48 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
 | 49 | [Home](https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ) | 4:12 |
 | 50 | [Furniture](https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:14 |
-| 51 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
-| 52 | [Love Is So Easy](https://open.spotify.com/track/2PaUug2coERAmmnhwtQXw0) | [Joel Leggett](https://open.spotify.com/artist/4cbhnqZt1UeqOirvsmzBMt) | [Love Is So Easy](https://open.spotify.com/album/6GjF0VIRKqm7DiCdTCHMVC) | 2:56 |
+| 51 | [Love Is So Easy](https://open.spotify.com/track/2PaUug2coERAmmnhwtQXw0) | [Joel Leggett](https://open.spotify.com/artist/4cbhnqZt1UeqOirvsmzBMt) | [Love Is So Easy](https://open.spotify.com/album/6GjF0VIRKqm7DiCdTCHMVC) | 2:56 |
+| 52 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 | 53 | [Where the Light Is](https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Where the Light Is](https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej) | 3:35 |
 | 54 | [Midnight Moon](https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:43 |
 | 55 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |

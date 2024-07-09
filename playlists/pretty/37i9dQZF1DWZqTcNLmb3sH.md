@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover :  Krishnam Pranaya Sakhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,873 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,869 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Kcpd \(From "Atharva"\) \[KANNADA\]](https://open.spotify.com/track/4YCV1Z033OH1pqikQXEZlt) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [Kcpd \(From "Atharva"\) \[KANNADA\]](https://open.spotify.com/album/78YkxlnCrPiZko0UKkeFjY) | 3:52 |
 | 75 | [Baduku Ondu Ranaranga \(From "Yuva"\)](https://open.spotify.com/track/2dgnWtoFeiBHR5oyVmlXcf) | [Vyasraj Sosale](https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Baduku Ondu Ranaranga \(From "Yuva"\)](https://open.spotify.com/album/4kHv9SPwQHkl7nCaNz0lIz) | 4:27 |
 
-Snapshot ID: `ZogFzAAAAACbKdktCESYsTGzy01BBUpg`
+Snapshot ID: `ZouW8AAAAABajgmrQnT+CF7I7w2oXPh/`

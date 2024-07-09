@@ -4,7 +4,7 @@
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon and more.
 
-230 songs - 14 hr 14 min
+231 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Started From the Bottom](https://open.spotify.com/track/6V2D8Lls36APk0THDjBDfE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt) | 2:54 | 2024-04-12 | 2024-06-26 |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/2vgrRgbwLQEHucQNMXdBwy) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/0Ugwmu29r0H1nqIJJoaL9w) | 2:58 | 2024-06-25 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2023-06-01 |  |
-| [Summer Rain](https://open.spotify.com/track/3sCnC8LTixzL22HZkdcyQT) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 3:20 | 2024-06-25 |  |
+| [Summer Rain](https://open.spotify.com/track/3sCnC8LTixzL22HZkdcyQT) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 3:20 | 2024-06-25 | 2024-07-09 |
 | [Superstar](https://open.spotify.com/track/4EYvuvqzUepdNaUlUZKVve) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Superstar](https://open.spotify.com/album/45ScJwTLqnrTpmsjehHPHM) | 4:08 | 2024-04-12 | 2024-06-26 |
 | [Superstar](https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Superstar](https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm) | 4:08 | 2023-06-01 | 2024-04-19 |
 | [Sway \(feat\. Diddy\)](https://open.spotify.com/track/6Mt8ofwjsYokUcmhhBpEgD) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 3:49 | 2023-06-01 | 2024-06-26 |
@@ -202,6 +202,7 @@
 | [Test What I Know](https://open.spotify.com/track/1bThsxS53qUOGqj7nj3tck) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:34 | 2024-06-25 |  |
 | [Test What I Know](https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Test What I Know](https://open.spotify.com/album/7cvxZYlw5goVjvfwea3mb3) | 2:34 | 2023-07-25 | 2024-06-26 |
 | [That Thang \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:16 | 2023-07-28 | 2024-06-26 |
+| [The Message \- Majid Jordan Remix](https://open.spotify.com/track/5nRNx6Gs12LDlLWbl8dVRq) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Message \(Majid Jordan Remix\)](https://open.spotify.com/album/2XFeeHCCqtklVfPuFysGTB) | 7:12 | 2024-07-08 |  |
 | [THE NEWS](https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 4:27 | 2023-06-01 | 2024-04-19 |
 | [THE NEWS](https://open.spotify.com/track/6VOjT8L5zgRFabrh4kz3YA) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 4:27 | 2024-04-12 | 2024-06-26 |
 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 | 2023-06-01 | 2024-04-13 |

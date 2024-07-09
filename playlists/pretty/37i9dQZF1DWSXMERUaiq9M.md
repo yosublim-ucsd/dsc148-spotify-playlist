@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,090 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,302 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 60 | [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 |
 | 61 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 62 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 |
-| 63 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
-| 64 | [Reach Out](https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Reach Out](https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ) | 2:18 |
+| 63 | [Reach Out](https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Reach Out](https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ) | 2:18 |
+| 64 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
 | 65 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 |
 | 66 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 |
 | 67 | [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 |

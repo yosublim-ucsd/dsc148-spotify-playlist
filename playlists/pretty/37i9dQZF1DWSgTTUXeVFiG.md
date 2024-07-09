@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,810 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,863 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 44 | [Lluvia \- En Vivo](https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Eddie Santiago \(En Vivo\)](https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6) | 6:13 |
 | 45 | [Boranda](https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [45 Aniversario](https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR) | 13:32 |
 | 46 | [Que Manera De Quererte \- Live Version](https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 6:37 |
-| 47 | [Sonido Bestial \- En Vivo](https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX) | [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Un Sonido Bestial El Concierto \(En Vivo\)](https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg) | 6:11 |
-| 48 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
+| 47 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
+| 48 | [Sonido Bestial \- En Vivo](https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX) | [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Un Sonido Bestial El Concierto \(En Vivo\)](https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg) | 6:11 |
 | 49 | [El Menú en Vivo](https://open.spotify.com/track/7dF41Y5HHJHruHkr0QxTQV) | [Gran Combo](https://open.spotify.com/artist/2JJhi6pG6YnyotZIslUMCY) | [Pa Recordar Bailando](https://open.spotify.com/album/1zxqF4M97k9vACCsbkHNK3) | 5:46 |
 | 50 | [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 |
 

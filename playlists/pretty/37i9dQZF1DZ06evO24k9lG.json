@@ -1,12 +1,12 @@
 {
-  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 57063,
+  "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
+  "num_followers": 57081,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAABRmN5FsLS1ULWntj/x0MwZ",
+  "snapshot_id": "ZonagAAAAADfLpTxxzoSOcz+YUdU8N6s",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Cerca De Ti",
-        "url": "https://open.spotify.com/album/6j9PHfD1KPVV8ombMkucdF"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 287582,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6B5GtfkITJ7vrL2OprB6CB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 289293,
       "name": "Dime Como Te Olvido",
       "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/6j9PHfD1KPVV8ombMkucdF"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 287582,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6B5GtfkITJ7vrL2OprB6CB"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Por Lo Alto",
-        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 295653,
-      "name": "Amigo El Corazon",
-      "url": "https://open.spotify.com/track/4N4HpuGlzf9lOmVTvrta2K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Cerca De Ti",
         "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 297920,
       "name": "Y No Regresas",
       "url": "https://open.spotify.com/track/2jnRsLF9SldwnS129Utsqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 295653,
+      "name": "Amigo El Corazon",
+      "url": "https://open.spotify.com/track/4N4HpuGlzf9lOmVTvrta2K"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vallenato sin Fronteras",
-        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 277989,
-      "name": "El Diario",
-      "url": "https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Cerca De Ti",
         "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 281693,
       "name": "Tres Palabras",
       "url": "https://open.spotify.com/track/1PM7WVCkmMmsWnnbh54FqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vallenato sin Fronteras",
+        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 277989,
+      "name": "El Diario",
+      "url": "https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Acuerdate De Mi",
-      "url": "https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Todo Su Esplendor",
         "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 267760,
       "name": "Jam\u00e1s Imagin\u00e9",
       "url": "https://open.spotify.com/track/421cZGDH9uq3gVNOG8zvm2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Acuerdate De Mi",
+      "url": "https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD"
     },
     {
       "added_at": null,

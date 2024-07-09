@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 302200,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0PhU6i6Kei6x0CH3jocvA3"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 248133,
       "name": "Give It To Me Baby",
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
@@ -2686,7 +2686,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 194618,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT"
@@ -3010,10 +3010,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 164653,
       "name": "Let My Love Open The Door",
       "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
+    },
+    {
+      "album": {
+        "name": "Let the Music Play",
+        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214379,
+      "name": "Let the Music Play",
+      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
     },
     {
       "album": {
@@ -3413,7 +3431,7 @@
     },
     {
       "album": {
-        "name": "Like a Virgin (Reissue)",
+        "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 240706,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/7bkyXSi4GtVfD7itZRUR3e"

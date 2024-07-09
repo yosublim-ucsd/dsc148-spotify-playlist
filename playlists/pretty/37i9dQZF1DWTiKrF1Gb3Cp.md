@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,087 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,136 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 41 | [Un Par De Balas](https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Clasificacion C Vol.1](https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ) | 3:48 |
 | 42 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 |
 | 43 | [La Caravana](https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Caravana](https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk) | 2:23 |
-| 44 | [Una Ruedita](https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 2:57 |
-| 45 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 |
+| 44 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 |
+| 45 | [Una Ruedita](https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 2:57 |
 | 46 | [Mi Tío Snoop](https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Mi Tío Snoop](https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW) | 3:23 |
 | 47 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 |
 | 48 | [Cuerno Mio](https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Cuerno Mio](https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY) | 2:47 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 94 | [Malo Es No Hacer Billete](https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Malo Es No Hacer Billete](https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ) | 2:49 |
 | 95 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 | 96 | [7](https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [7](https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl) | 3:26 |
-| 97 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 |
-| 98 | [701](https://open.spotify.com/track/7zgvVthz7Lm7P9Wgm7ePPb) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [701](https://open.spotify.com/album/6FWj9EUKVS0LDqXcGN6GVm) | 2:47 |
+| 97 | [701](https://open.spotify.com/track/7zgvVthz7Lm7P9Wgm7ePPb) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [701](https://open.spotify.com/album/6FWj9EUKVS0LDqXcGN6GVm) | 2:47 |
+| 98 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 |
 | 99 | [Andamos Francos](https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Andamos Francos](https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2) | 2:05 |
 | 100 | [MEXplico](https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [MEXplico](https://open.spotify.com/album/16kWk2uwcbxaAUjs1BwDMO) | 2:13 |
 

@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 188473,
       "name": "Apotoma",
       "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 273573,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
@@ -390,10 +408,36 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 212733,
       "name": "FONOS",
       "url": "https://open.spotify.com/track/0Yc5az5o5z0gNjUwPTTMgh"
+    },
+    {
+      "album": {
+        "name": "REALNESS",
+        "url": "https://open.spotify.com/album/65K3ySIrBLpnLa4FYmLgZP"
+      },
+      "artists": [
+        {
+          "name": "Kanon",
+          "url": "https://open.spotify.com/artist/1ssOY5fx4efqZ0RXZ4M3PJ"
+        },
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Big Nik",
+          "url": "https://open.spotify.com/artist/7plu08fidPCKX1bHMmr7mq"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "FONOS",
+      "url": "https://open.spotify.com/track/6QZnvAqU8qfyjdMWpSEsxl"
     },
     {
       "album": {
@@ -470,7 +514,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
@@ -488,10 +532,28 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "album": {
+        "name": "I Sotiria Tis Psihis",
+        "url": "https://open.spotify.com/album/2roDh8JJKomOG4CvpSJszP"
+      },
+      "artists": [
+        {
+          "name": "Mariza Rizou",
+          "url": "https://open.spotify.com/artist/0YOHWBsXDveoGIFVKHkZ4V"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253272,
+      "name": "I Sotiria Tis Psihis",
+      "url": "https://open.spotify.com/track/0Ch6EvvnZYYPdSm9y4QJcX"
     },
     {
       "album": {
@@ -842,7 +904,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 151573,
       "name": "MYKONOS",
       "url": "https://open.spotify.com/track/4pFoAd8J9FpN7TADclqL3d"
@@ -1045,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Si Ai",
+        "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
+      },
+      "artists": [
+        {
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Si Ai",
+      "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
+    },
+    {
+      "album": {
         "name": "SUMMER ON MY MIND",
         "url": "https://open.spotify.com/album/0guuk2U1ZEMd1jdvjvOR7k"
       },
@@ -1108,6 +1188,50 @@
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
+    },
+    {
+      "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
+    },
+    {
+      "album": {
+        "name": "Till Forever Falls Apart",
+        "url": "https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222860,
+      "name": "Till Forever Falls Apart",
+      "url": "https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp"
     },
     {
       "album": {
@@ -1207,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "\u00c7a Je",
+        "url": "https://open.spotify.com/album/4QGt0WuxrUHToQqaAR1tz5"
+      },
+      "artists": [
+        {
+          "name": "Kidda",
+          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "\u00c7a Je",
+      "url": "https://open.spotify.com/track/4K3mX6c0UTrE2IRmlqYGoN"
+    },
+    {
+      "album": {
         "name": "\u03a4\u03b6\u03bf\u03cd\u03c2",
         "url": "https://open.spotify.com/album/2MBxNlaowiTUKlY5C0pGUZ"
       },
@@ -1226,7 +1368,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 244071,
       "name": "\u0396\u039f\u039d\u03a4\u0399\u0391\u039a",
       "url": "https://open.spotify.com/track/1grVN4ONha0WDAdU081WiQ"

@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Eminem",
-  "num_followers": 27636,
+  "num_followers": 27645,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-07-05 12:01:10",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 127022,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
+    },
+    {
+      "added_at": "2024-07-05 12:01:10",
+      "album": {
         "name": "Let's Go (Remix)",
         "url": "https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-07-05 12:01:10",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1"
-      },
-      "artists": [
-        {
-          "name": "Rushy",
-          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
-        }
-      ],
-      "duration_ms": 164357,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
-    },
-    {
-      "added_at": "2024-07-05 12:01:10",
-      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-07-05 12:01:10",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Rushy",
+          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
         }
       ],
-      "duration_ms": 127022,
-      "name": "911",
-      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
+      "duration_ms": 164357,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
     },
     {
       "added_at": "2024-07-05 12:01:10",

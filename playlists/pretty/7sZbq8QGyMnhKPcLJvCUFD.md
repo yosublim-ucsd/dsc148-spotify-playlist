@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,463 likes - 117 songs - 5 hr 53 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,447 likes - 118 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,6 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 115 | [GODSLAYER](https://open.spotify.com/track/7bgi7XJKdpp9RAfchgh6DR) | [1$K1](https://open.spotify.com/artist/1JGNcpOuWUkY5B6Yb7fHFy) | [GODSLAYER](https://open.spotify.com/album/3mHuyZJZCkFDXconXEDXZ2) | 1:32 |
 | 116 | [Time Of Our Lives](https://open.spotify.com/track/3CCgPjFKM32ixEM9Wpcv6z) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [Time Of Our Lives](https://open.spotify.com/album/3p6bZWLfpenoRaOufvcAWy) | 3:25 |
 | 117 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
+| 118 | [Let's Play](https://open.spotify.com/track/4XoTO4jKYPdvGyfj0cUqVP) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Let's Play](https://open.spotify.com/album/364GIgp0PFkrFr7FaqGP6K) | 2:32 |
 
-Snapshot ID: `AAAWlyqfTuXtvDPEWtktCAj68iWD08BE`
+Snapshot ID: `AAAWmGPfkI+KkhpbqRfRvUxzxUGbixPN`

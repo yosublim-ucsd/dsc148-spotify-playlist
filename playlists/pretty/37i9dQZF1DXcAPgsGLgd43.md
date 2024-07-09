@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,584 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,660 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 65 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 66 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 |
 | 67 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
-| 68 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
-| 69 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 |
+| 68 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 |
+| 69 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
 | 70 | [Viper](https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [4 ON DA FLOOR](https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu) | 2:37 |
 | 71 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
 | 72 | [Tu Sabor](https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT) | [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Pablo Alhach](https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz) | [Tu Sabor](https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku) | 2:55 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 96 | [Tu Camino](https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Tu Camino](https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv) | 2:45 |
 | 97 | [Bad Bongo](https://open.spotify.com/track/20va3aCizGTofhvgwm6cKN) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Bad Bongo EP](https://open.spotify.com/album/5M0NfNz9ywxmSNh7BCtCf4) | 2:45 |
 | 98 | [La Fiesta](https://open.spotify.com/track/437HzuCcsjDaj3hsvOOmZu) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [La Fiesta](https://open.spotify.com/album/2QqAgPddt9ZR57iUDQMByh) | 2:47 |
-| 99 | [Somos Libres](https://open.spotify.com/track/206DRsL52r4kSdbuDmrkDh) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Somos Libres](https://open.spotify.com/album/4pIOINBVEbIBFLMMTWK3QV) | 3:10 |
-| 100 | [Mujer](https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mujer](https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs) | 4:23 |
+| 99 | [Mujer](https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mujer](https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs) | 4:23 |
+| 100 | [Somos Libres](https://open.spotify.com/track/206DRsL52r4kSdbuDmrkDh) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Somos Libres](https://open.spotify.com/album/4pIOINBVEbIBFLMMTWK3QV) | 3:10 |
 
 Snapshot ID: `ZodvwAAAAAAvUdyzQrJ5P4T2wPlpzN9+`

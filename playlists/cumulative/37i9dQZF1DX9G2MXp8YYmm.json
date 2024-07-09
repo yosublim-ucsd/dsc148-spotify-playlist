@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 140526,
       "name": "Dayanamam",
       "url": "https://open.spotify.com/track/3POxcfIStVIT4mU4IZldO6"
@@ -1464,6 +1464,24 @@
       "duration_ms": 203000,
       "name": "Y\u00fcre\u011fim A\u011flar",
       "url": "https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL"
+    },
+    {
+      "album": {
+        "name": "Zombi",
+        "url": "https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Zombi",
+      "url": "https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr"
     },
     {
       "album": {

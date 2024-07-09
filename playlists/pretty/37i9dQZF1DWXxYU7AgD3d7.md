@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,477 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,522 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

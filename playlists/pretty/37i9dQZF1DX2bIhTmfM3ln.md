@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > You're the paracetamol to my headache ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,299 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,324 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 66 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 |
 | 67 | [Different Sides \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:52 |
 | 68 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
-| 69 | [Sunflawa](https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Sunflawa](https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz) | 2:33 |
-| 70 | [2 Hot 2 Handle](https://open.spotify.com/track/15C5fa7gr12ufsvVeYcZ4c) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YP & Azanti, Vol\. 2](https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA) | 2:50 |
+| 69 | [2 Hot 2 Handle](https://open.spotify.com/track/15C5fa7gr12ufsvVeYcZ4c) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YP & Azanti, Vol\. 2](https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA) | 2:50 |
+| 70 | [Sunflawa](https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Sunflawa](https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz) | 2:33 |
 | 71 | [Confirmation \(feat\. Iyanya\)](https://open.spotify.com/track/3ctflWaoyphfupV0M5ATVS) | [Yo Maps](https://open.spotify.com/artist/6ctMiUYEAd4cy0CaH355Hk), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Confirmation \(feat\. Iyanya\)](https://open.spotify.com/album/6EE9T34Fn575k7ydCe1CgG) | 3:17 |
 | 72 | [LOVE OR LAMBA](https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA](https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP) | 2:33 |
-| 73 | [Honey & Spice \- Remix](https://open.spotify.com/track/4oADK0NfY8u1RlW7IKFTFz) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Honey & Spice \(Remix\)](https://open.spotify.com/album/2I7Z3i5s8Ukwl7MRshNquA) | 2:32 |
+| 73 | [My Heart](https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [My Heart](https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz) | 2:36 |
 | 74 | [PIANO](https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [P.Priime](https://open.spotify.com/artist/5wqjeyQhV9mvu43Bv4wiLy) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:47 |
-| 75 | [My Heart](https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [My Heart](https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz) | 2:36 |
+| 75 | [Honey & Spice \- Remix](https://open.spotify.com/track/4oADK0NfY8u1RlW7IKFTFz) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Honey & Spice \(Remix\)](https://open.spotify.com/album/2I7Z3i5s8Ukwl7MRshNquA) | 2:32 |
 | 76 | [Why](https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW) | [Asomacy](https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX) | [Why](https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq) | 2:17 |
 | 77 | [Bodija](https://open.spotify.com/track/3GPZo2tH4a5U2z89a0rRr3) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:45 |
 | 78 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |

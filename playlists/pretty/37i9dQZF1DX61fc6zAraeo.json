@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98803,
+  "num_followers": 98815,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Combo",
         "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 161250,
       "name": "Combo",
       "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
-      },
-      "artists": [
-        {
-          "name": "HEATT",
-          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "To The Floor (Nicky Romero Edit)",
         "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 142857,
       "name": "To The Floor (Nicky Romero Edit)",
       "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
+      },
+      "artists": [
+        {
+          "name": "HEATT",
+          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Don\u2019t Lead Anywhere",
-        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
-      },
-      "artists": [
-        {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
-        }
-      ],
-      "duration_ms": 127413,
-      "name": "Don\u2019t Lead Anywhere",
-      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Watch Me (Radio Edit)",
         "url": "https://open.spotify.com/album/3wV3MUVnC6gvZwWPZRAQMa"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 166451,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Don\u2019t Lead Anywhere",
+        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "duration_ms": 127413,
+      "name": "Don\u2019t Lead Anywhere",
+      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
     },
     {
       "added_at": "2024-07-04 22:00:00",

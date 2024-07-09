@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 8 hr 46 min
+100 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Jealous Boyfriend](https://open.spotify.com/track/1XG6VILmNRRA6yhzsFq90p) | [Son Error](https://open.spotify.com/artist/3IqySbTsU0jxACCSnhNDPc) | [Side Effects](https://open.spotify.com/album/25kUVKA6qkpPEidJELgkvT) | 4:53 | 2024-01-30 |  |
 | [Just Wanna](https://open.spotify.com/track/1Id7VPH48B8gwzH2QdcYFM) | [Hoymans](https://open.spotify.com/artist/1QgxyryOnCBNEsVt3uWubw) | [Just Wanna](https://open.spotify.com/album/2aYjj4zjGTOlWeFkdT45ug) | 3:34 | 2024-01-30 |  |
 | [Let Me Be](https://open.spotify.com/track/5m6dY8ZvU87n4nPnA2jcrR) | [Anna Kost](https://open.spotify.com/artist/3I5IACZdrxcIUHqQnpiItF) | [Let Me Be](https://open.spotify.com/album/5jamu59YhhB6KG5gGjirCb) | 5:25 | 2023-02-21 | 2024-01-31 |
-| [Listen \- Closet Yi Remix](https://open.spotify.com/track/5xPubj4leZ6N4sCFa8OVJv) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Listen & Nisida \(Remixed\) Vol\. 3](https://open.spotify.com/album/4vCcRntNgi0WxcAcj4syYM) | 5:42 | 2024-01-30 |  |
+| [Listen \- Closet Yi Remix](https://open.spotify.com/track/5xPubj4leZ6N4sCFa8OVJv) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Listen & Nisida \(Remixed\) Vol\. 3](https://open.spotify.com/album/4vCcRntNgi0WxcAcj4syYM) | 5:42 | 2024-01-30 | 2024-07-09 |
 | [Lonely Casseopaya \- Album Edit](https://open.spotify.com/track/0lCSvHv3ZhHeoimKBu8sUl) | [L.S.G.](https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA) | [Rendevous in Outer Space](https://open.spotify.com/album/54heHVFTO0DS5f14dN8fRx) | 3:56 | 2024-01-30 |  |
 | [Mauna Kea](https://open.spotify.com/track/2JOF79wdQ8GsyLQvRtgUDp) | [ANF](https://open.spotify.com/artist/0yEUBlEOtPhU1vEUVintkf), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Dust\-e\-1](https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu) | [Mauna Kea](https://open.spotify.com/album/059Mt6wq8kN6J3btJMNw8e) | 6:05 | 2024-01-30 |  |
 | [Maur](https://open.spotify.com/track/2IoOHFIxVQLtMG2KDrTCOM) | [DJ Ibon](https://open.spotify.com/artist/0N7LQYE6ZG0drzW1REL5A4) | [Three Ways](https://open.spotify.com/album/2YVHENi0wOpvXovjyGFYVl) | 6:42 | 2023-02-21 | 2024-01-31 |
@@ -69,6 +69,7 @@
 | [NY\-X](https://open.spotify.com/track/01oggyDMi5e6LAWXoWVsVu) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [Apocalyptic Decadence](https://open.spotify.com/album/0C9ABNbjiWHQsbgOoqNqnW) | 7:07 | 2023-02-21 | 2024-01-31 |
 | [Odyssey](https://open.spotify.com/track/7ouICX1qYLJb60DJ6HdCGH) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Cosmosis](https://open.spotify.com/album/1lKGWnOWANV9a6vp9FfXbg) | 4:39 | 2024-01-30 |  |
 | [Ognuno p''a via soja](https://open.spotify.com/track/64Tb4DxB5W2axD6XgFySKV) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO) | [La Vita Bugiarda Degli Adulti \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0tCgV1ZcCEn77kUoCwpImi) | 4:15 | 2023-02-21 |  |
+| [Origami](https://open.spotify.com/track/1226S07g8abeCX8zt7yLlZ) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Origami](https://open.spotify.com/album/4eGKx1tIA3NGQE91dxAh59) | 3:20 | 2024-07-08 |  |
 | [Orizzonte \- Adiel Remix](https://open.spotify.com/track/6WoTOvMZyBiNr4bPLTjMxd) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [Listen & Nisida \(Remixed\) Vol\. 1](https://open.spotify.com/album/7xnCdS6PmzJXBp670xvSjG) | 6:03 | 2024-01-30 | 2024-04-30 |
 | [Ovule \(feat\. Shygirl\) \- Sega Bodega Remix](https://open.spotify.com/track/1e0lY9vlLsvpjNpj3NgFwQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/67NJcllhirRuOzzC4Ivfvx) | 3:44 | 2023-02-21 | 2024-01-31 |
 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 | 2023-02-21 | 2024-01-12 |

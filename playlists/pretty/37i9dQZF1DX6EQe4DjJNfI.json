@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 169459,
+  "num_followers": 169492,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "S\u00f3 por Hoje",
-        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
-      },
-      "artists": [
-        {
-          "name": "Papu",
-          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "S\u00f3 por Hoje",
-      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -607,26 +587,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Liga\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
+        "name": "S\u00f3 por Hoje",
+        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
       },
       "artists": [
         {
-          "name": "Meraki",
-          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
+          "name": "Papu",
+          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
         },
         {
-          "name": "BlakkLan\u00e7a",
-          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
-        },
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
         }
       ],
-      "duration_ms": 209389,
-      "name": "Liga\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+      "duration_ms": 170666,
+      "name": "S\u00f3 por Hoje",
+      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -667,6 +643,30 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "Liga\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
+      },
+      "artists": [
+        {
+          "name": "Meraki",
+          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
+        },
+        {
+          "name": "BlakkLan\u00e7a",
+          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
+        },
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        }
+      ],
+      "duration_ms": 209389,
+      "name": "Liga\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -691,6 +691,26 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -727,26 +747,6 @@
       "duration_ms": 218048,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
-        "name": "Assome",
-        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 179498,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
     },
     {
       "added_at": "2024-06-28 03:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-06-28 03:01:00",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2024-06-28 03:01:00",
+      "album": {
         "name": "SALVE-SE!",
         "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 193457,
       "name": "Recado dado",
       "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
-    },
-    {
-      "added_at": "2024-06-28 03:01:00",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-06-28 03:01:00",

@@ -3859,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz"
       },
@@ -23320,7 +23338,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 191451,
       "name": "Poison Poison",
       "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"

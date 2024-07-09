@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,199 songs - 3 day 8 hr 35 min
+1,200 songs - 3 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [Skylark](https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD) | [Joseph Lawrence](https://open.spotify.com/artist/0xCOX1rOGhTQ3NOfM32r7z) | [Alone Together](https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9) | 7:18 | 2022-04-14 |  |
 | [Slow Dance](https://open.spotify.com/track/5AbIjlheQPOLLgGanARp5h) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Slow Dance](https://open.spotify.com/album/6UqEbtOPsQfr9dgxNJjSLy) | 3:53 | 2023-09-08 |  |
 | [Slow fox](https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Slow fox](https://open.spotify.com/album/7IUSsZavpXkMkTx19eJaiA) | 3:35 | 2023-09-22 |  |
+| [Slow Run](https://open.spotify.com/track/4DE6ToIg88mUIANOQ0mB7q) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Slow Run](https://open.spotify.com/album/1bSTwMoVB9XnYFw93CQJgD) | 3:38 | 2024-07-01 |  |
 | [Smile](https://open.spotify.com/track/3W7AQiUlT9SVueyv0ZqZ9G) | [Nordic Quartet](https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM) | [Smile](https://open.spotify.com/album/6dAX6IpKq5s9iQtolusSXE) | 3:10 | 2022-08-11 |  |
 | [Smile](https://open.spotify.com/track/491rM2JN8KvmV6p0oDDuJT) | [Peter Appleyard](https://open.spotify.com/artist/4of73tRHotZpKvHKmFzYcM), [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [Sophisticated Ladies](https://open.spotify.com/album/69dcBtgrUwDQZ6fCo5sB8a) | 4:09 | 2022-04-14 | 2022-06-09 |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |
@@ -1019,7 +1020,7 @@
 | [The Midnight Sun Never Sets](https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [The Midnight Sun Never Sets](https://open.spotify.com/album/19ThYZTl9MmtvEvqSGfv3h) | 3:59 | 2024-05-10 |  |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-03-09 |  |
 | [The Moment We Said Goodbye](https://open.spotify.com/track/4StMdVMtMG4IlZF8GmGyb9) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [The Moment We Said Goodbye](https://open.spotify.com/album/71JjX05H3qRf7hoiKzEszO) | 3:52 | 2024-04-17 |  |
-| [The More I See You](https://open.spotify.com/track/4pBClgKkrfAOJuvIn59nlL) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [The More I See You](https://open.spotify.com/album/7G3KKQGJOvw0SyJu4cIQ0Y) | 4:01 | 2022-08-29 |  |
+| [The More I See You](https://open.spotify.com/track/4pBClgKkrfAOJuvIn59nlL) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [The More I See You](https://open.spotify.com/album/7G3KKQGJOvw0SyJu4cIQ0Y) | 4:01 | 2022-08-29 | 2024-07-09 |
 | [The Nearness of You](https://open.spotify.com/track/3MhWFpRMVEyZ9QXGIb5RJK) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Nearness](https://open.spotify.com/album/5JAcKvUBjbNTJ2SY8u8vYU) | 16:44 | 2022-04-14 | 2022-10-08 |
 | [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-09 |  |
 | [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |

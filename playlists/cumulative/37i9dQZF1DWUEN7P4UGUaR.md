@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-106 songs - 9 hr 36 min
+107 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 | 2023-04-06 | 2024-07-06 |
 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 | 2023-04-06 |  |
 | [Only You\(Solo Version\)](https://open.spotify.com/track/591apkzyJMsuqxmtPsUd4R) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Only You\(Solo Version\)](https://open.spotify.com/album/7bBJxUA0uu7CYwcZibH8Hy) | 6:25 | 2024-02-08 | 2024-03-22 |
-| [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 | 2023-04-06 |  |
+| [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 | 2023-04-06 | 2024-07-09 |
 | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ) | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4) | 9:44 | 2023-04-06 |  |
 | [ONYE NWERE](https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [ONYE NWERE](https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI) | 3:38 | 2023-04-06 | 2023-06-10 |
 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 | 2023-04-06 |  |
@@ -108,6 +108,7 @@
 | [Victory Chant](https://open.spotify.com/track/4ubQtD1YBCPCcM3swE129H) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Victory Chant](https://open.spotify.com/album/2DQxNMyBTK6uJ9hULpuMx1) | 5:02 | 2023-04-06 | 2024-02-11 |
 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 | 2023-04-06 |  |
 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 | 2023-04-06 |  |
+| [Wave on Wave](https://open.spotify.com/track/7tAxugE49EdNSzMM4DZtBa) | [Leslie Skye](https://open.spotify.com/artist/5AZX66LDF11JZi7fGkGzun) | [Wave on Wave](https://open.spotify.com/album/5c5L5aWBD5XRmq82nR2RP6) | 3:41 | 2024-07-05 |  |
 | [Who Say God No Dey](https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Who Say God No Dey](https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti) | 2:54 | 2023-04-06 | 2023-06-10 |
 | [Wo Ye \(Live\)](https://open.spotify.com/track/6NrKEvAtPayQpi9iPBF4zL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Wo Ye \(Live\)](https://open.spotify.com/album/1UQpttjQ3N0bzPONAeuN1Y) | 8:32 | 2024-02-23 |  |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2023-04-06 |  |

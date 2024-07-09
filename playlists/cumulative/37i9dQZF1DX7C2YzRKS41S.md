@@ -4,12 +4,13 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-426 songs - 1 day 1 hr 14 min
+428 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Tá\)](https://open.spotify.com/track/1hjqF86jqqXVc9FzmoHFrK) | [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [\(Tá\)](https://open.spotify.com/album/1hqOTtcCm4TRBbL6oWFyuH) | 5:27 | 2021-12-24 | 2022-07-27 |
 | [2 da Manhã](https://open.spotify.com/track/6RFz9gCDHuReBLY2yQNfzO) | [emma's](https://open.spotify.com/artist/3xsjdP29DfhVVr9foYBei2) | [2 da Manhã](https://open.spotify.com/album/0pCcnOLSL2OP6aqsHsZpiQ) | 2:17 | 2022-03-25 | 2022-04-20 |
+| [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-08 |  |
 | [3 da Manhã](https://open.spotify.com/track/3NCpBBT9G5eIDQxTRMacBm) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [3 da Manhã](https://open.spotify.com/album/1cmitdTovHw7ONVeZy9KAF) | 3:02 | 2021-12-24 | 2022-07-15 |
 | [A Encomenda da Minha Vida](https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [A Encomenda da Minha Vida](https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR) | 2:58 | 2021-12-24 | 2022-07-29 |
 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 | 2022-02-18 | 2022-06-25 |
@@ -141,6 +142,7 @@
 | [eu e você](https://open.spotify.com/track/5ISf8VHJdipHYcFwKDqVYA) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [eu e você](https://open.spotify.com/album/23wxiAL2q423z0IdsK1h3D) | 4:25 | 2022-01-21 | 2022-07-22 |
 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Eu Te Amo Demais](https://open.spotify.com/track/3irykMj55KGyq0Y0ESPsnz) | [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Rodrigo Carazo](https://open.spotify.com/artist/0zuCB4mpzbAyPiU4PzuTYv) | [Eu Te Amo Demais](https://open.spotify.com/album/2RwxaLaJ4mHbjrFc2zoskp) | 2:20 | 2021-12-24 | 2022-07-28 |
+| [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-08 |  |
 | [Expectativando](https://open.spotify.com/track/3mT5ozcly6OB2VtftGl00v) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Expectativando](https://open.spotify.com/album/537ABUoiMjWvrt182Egi86) | 2:47 | 2021-12-24 | 2022-07-27 |
 | [Experimente](https://open.spotify.com/track/1pjnbzCFXkaiYMUTdZM27r) | [Corcel](https://open.spotify.com/artist/2rmYEYiyVt1woOjwXsqRIF) | [Experimente](https://open.spotify.com/album/5JbdWlZElMQEPU45MxdoUt) | 3:19 | 2022-02-18 | 2022-06-17 |
 | [Exílio](https://open.spotify.com/track/4N6XSsNsdWHypnbc2zXFM0) | [Bedibê](https://open.spotify.com/artist/43oP2niEQiNNoDhD5MzAlo) | [América](https://open.spotify.com/album/6KaDLQ35p5UKNrFhROmwwz) | 3:49 | 2022-04-06 | 2022-04-21 |
@@ -332,8 +334,8 @@
 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 | 2022-03-25 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-04 | 2024-04-19 |
 | [Risco de Sol](https://open.spotify.com/track/3TV30AcAIHnZGCmlV1M4DJ) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Risco de Sol](https://open.spotify.com/album/6E4V4MB9FvOzHo0ZzyVVLq) | 3:23 | 2022-01-21 | 2022-04-07 |
-| [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 | 2023-11-03 |  |
-| [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 | 2022-03-25 |  |
+| [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 | 2023-11-03 | 2024-07-09 |
+| [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 | 2022-03-25 | 2024-07-09 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2022-03-25 | 2023-11-05 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2023-11-03 | 2024-04-19 |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2023-10-30 |

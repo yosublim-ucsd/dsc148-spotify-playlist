@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,366 likes - 33 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,367 likes - 33 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 26 | [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 |
 | 27 | [Quiet Eyes](https://open.spotify.com/track/2r1pq34i8ddPXyxvfqDBCG) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Past Lives \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn) | 3:37 |
 | 28 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
-| 29 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 |
-| 30 | [Drive](https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB) | [Steven Yeun as Danny from BEEF](https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 4:01 |
+| 29 | [Drive](https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB) | [Steven Yeun as Danny from BEEF](https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 4:01 |
+| 30 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 |
 | 31 | [I Wish This Was Real](https://open.spotify.com/track/7EuyxDSG25VWxaQg0DtOIV) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Dream Scenario \(Original Motion Picture Score\)](https://open.spotify.com/album/5NDIVLocg7KcHXRqMMHpR8) | 1:49 |
 | 32 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
 | 33 | [Main Title](https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 1:23 |

@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 71259,
+  "num_followers": 71311,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,30 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
+        "name": "DALI DALI",
+        "url": "https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc"
+      },
+      "artists": [
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        }
+      ],
+      "duration_ms": 385731,
+      "name": "Moratata (feat. Leemckrazy & TitoM)",
+      "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
         "name": "Funk 55",
         "url": "https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 373821,
       "name": "Funk 55",
       "url": "https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "DALI DALI",
-        "url": "https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc"
-      },
-      "artists": [
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        }
-      ],
-      "duration_ms": 385731,
-      "name": "Moratata (feat. Leemckrazy & TitoM)",
-      "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -1095,34 +1095,6 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Faki Frostan",
-        "url": "https://open.spotify.com/album/7BN3n0xsYkyRLDY3WQRotD"
-      },
-      "artists": [
-        {
-          "name": "MacG",
-          "url": "https://open.spotify.com/artist/6qPPkGBICY50eIP0cOiHqf"
-        },
-        {
-          "name": "Fiso el Musica",
-          "url": "https://open.spotify.com/artist/1oFcgC4c32VaCNNlA9UrGC"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        }
-      ],
-      "duration_ms": 420027,
-      "name": "Faki Frostan",
-      "url": "https://open.spotify.com/track/788JM8h2eYszhoWmCvk8Ij"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5"
       },
@@ -1155,6 +1127,34 @@
       "duration_ms": 378214,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Faki Frostan",
+        "url": "https://open.spotify.com/album/7BN3n0xsYkyRLDY3WQRotD"
+      },
+      "artists": [
+        {
+          "name": "MacG",
+          "url": "https://open.spotify.com/artist/6qPPkGBICY50eIP0cOiHqf"
+        },
+        {
+          "name": "Fiso el Musica",
+          "url": "https://open.spotify.com/artist/1oFcgC4c32VaCNNlA9UrGC"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "duration_ms": 420027,
+      "name": "Faki Frostan",
+      "url": "https://open.spotify.com/track/788JM8h2eYszhoWmCvk8Ij"
     },
     {
       "added_at": "2024-06-06 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Godwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,344 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,355 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [1942 \(feat\. Milar\)](https://open.spotify.com/track/69v07HAZ1Gk5pICKGaaATc) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Milar](https://open.spotify.com/artist/0y96QnuCguhjxEuYgMpC9I) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:26 |
 | 80 | [Sakura](https://open.spotify.com/track/4IxL4tYOGf6Q7jsv20DBgZ) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Sakura](https://open.spotify.com/album/1YnduPt4ggeHQRFwKtuv2C) | 2:44 |
 
-Snapshot ID: `Zoc3vAAAAABBPiO02dCR1doq4QL7Cjos`
+Snapshot ID: `Zou99QAAAAAjP4jdMTmXmI/EKr6C1Ctn`

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "MAGN\u00c9TICO",
+        "url": "https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        },
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "1+1 \u00c9 Pouco",
+      "url": "https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV"
+    },
+    {
+      "album": {
         "name": "18 dias / 13 cm",
         "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
       },
@@ -3460,7 +3486,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 178848,
       "name": "Vampira - Remix",
       "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"

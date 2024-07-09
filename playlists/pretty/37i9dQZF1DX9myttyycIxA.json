@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Been Stellar",
-  "num_followers": 296184,
+  "num_followers": 296206,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zog5UwAAAADXJi/zx59oSMuQW32sAD+d",
+  "snapshot_id": "ZowZbQAAAACmiGSecxir8Af1PwECALHn",
   "tracks": [
     {
       "added_at": "2024-07-05 18:20:03",
@@ -39,6 +39,30 @@
       "duration_ms": 256799,
       "name": "Cockpit",
       "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "added_at": "2024-07-08 16:53:01",
+      "album": {
+        "name": "Good at Love",
+        "url": "https://open.spotify.com/album/4ZSanG1REArpIJZWVcU199"
+      },
+      "artists": [
+        {
+          "name": "Paige Stark",
+          "url": "https://open.spotify.com/artist/1WH9zGefYnqp8IafH0qL0H"
+        },
+        {
+          "name": "Jon Brion",
+          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 280597,
+      "name": "Zombie Brain Drain",
+      "url": "https://open.spotify.com/track/6PSAt4wBVluHaXy4KVwCq4"
     },
     {
       "added_at": "2024-07-05 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: DOE",
-  "num_followers": 58345,
+  "num_followers": 58347,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
-        "name": "BOA",
-        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 154732,
-      "name": "BOA",
-      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
       "added_at": "2024-07-02 21:16:44",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
-    },
-    {
-      "added_at": "2024-07-02 21:16:44",
-      "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 164571,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
+    },
+    {
+      "added_at": "2024-07-02 21:16:44",
+      "album": {
+        "name": "BOA",
+        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "BOA",
+      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
     },
     {
       "added_at": "2024-07-02 21:16:44",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
-        "name": "Can't Be Still",
-        "url": "https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF"
-      },
-      "artists": [
-        {
-          "name": "illuminati hotties",
-          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
-        }
-      ],
-      "duration_ms": 178362,
-      "name": "Can't Be Still",
-      "url": "https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2"
-    },
-    {
-      "added_at": "2024-07-02 21:16:44",
-      "album": {
         "name": "Delphinium Blue",
         "url": "https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 217893,
       "name": "Delphinium Blue",
       "url": "https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR"
+    },
+    {
+      "added_at": "2024-07-02 21:16:44",
+      "album": {
+        "name": "Can't Be Still",
+        "url": "https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "duration_ms": 178362,
+      "name": "Can't Be Still",
+      "url": "https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2"
     },
     {
       "added_at": "2024-07-02 21:16:44",

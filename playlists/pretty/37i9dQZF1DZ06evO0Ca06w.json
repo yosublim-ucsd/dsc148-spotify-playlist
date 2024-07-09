@@ -1,29 +1,13 @@
 {
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
-  "num_followers": 13272,
+  "num_followers": 13278,
   "original_name": "This Is Miriam Makeba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAARX3ksShcIbhLtV+KuMLUz",
+  "snapshot_id": "ZonagAAAAABMw08VlIPyFnIlPNlxZI/S",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pata Pata",
-        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Pata Pata - Stereo Version",
-      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
-    },
     {
       "added_at": null,
       "album": {
@@ -63,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Promise",
-        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Quit It",
-      "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pata Pata",
         "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
       },
@@ -91,6 +59,22 @@
       "duration_ms": 175859,
       "name": "Ha Po Zamani - Stereo Version",
       "url": "https://open.spotify.com/track/0iKkfLyUCwjsX3PXZ1XG2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Quit It",
+      "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
     },
     {
       "added_at": null,
@@ -119,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Click Song",
-        "url": "https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N"
+        "name": "Mama Africa",
+        "url": "https://open.spotify.com/album/7f02rdjxXMl4p6CVCCebmi"
       },
       "artists": [
         {
@@ -128,25 +112,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 153373,
-      "name": "The Click Song",
-      "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le monde de Myriam Makeba",
-        "url": "https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 129933,
-      "name": "Umqokozo",
-      "url": "https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD"
+      "duration_ms": 165236,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
     },
     {
       "added_at": null,
@@ -163,22 +131,6 @@
       "duration_ms": 137186,
       "name": "Click Song Number One - Mono Version",
       "url": "https://open.spotify.com/track/71i4tHW3VZk3Gow2SDkrQW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama Africa",
-        "url": "https://open.spotify.com/album/7f02rdjxXMl4p6CVCCebmi"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 165236,
-      "name": "Orlando",
-      "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
     },
     {
       "added_at": null,
@@ -235,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makeba Sings!",
-        "url": "https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs"
+        "name": "The Magic Of Makeba",
+        "url": "https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf"
       },
       "artists": [
         {
@@ -244,9 +196,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 153013,
-      "name": "Chove-Chuva",
-      "url": "https://open.spotify.com/track/7Bn5A1f0JiT92Fs2IhaMRL"
+      "duration_ms": 121706,
+      "name": "Oxgam",
+      "url": "https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ"
     },
     {
       "added_at": null,
@@ -267,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Magic Of Makeba",
-        "url": "https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf"
+        "name": "Makeba Sings!",
+        "url": "https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs"
       },
       "artists": [
         {
@@ -276,9 +228,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 121706,
-      "name": "Oxgam",
-      "url": "https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ"
+      "duration_ms": 153013,
+      "name": "Chove-Chuva",
+      "url": "https://open.spotify.com/track/7Bn5A1f0JiT92Fs2IhaMRL"
     },
     {
       "added_at": null,
@@ -383,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarafina! The Sound Of Freedom",
-        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
+        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
+        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
       },
       "artists": [
         {
           "name": "Miriam Makeba",
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        },
-        {
-          "name": "Leleti Khumalo",
-          "url": "https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT"
         }
       ],
-      "duration_ms": 264613,
-      "name": "Thank You Mama",
-      "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
+      "duration_ms": 200933,
+      "name": "Can't Cross Over - Remastered 2024",
+      "url": "https://open.spotify.com/track/1bZR5BHm6pGEcpd3gjPLuA"
     },
     {
       "added_at": null,
@@ -419,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
-        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
+        "name": "Sarafina! The Sound Of Freedom",
+        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
       },
       "artists": [
         {
           "name": "Miriam Makeba",
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Leleti Khumalo",
+          "url": "https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Can't Cross Over - Remastered 2024",
-      "url": "https://open.spotify.com/track/1bZR5BHm6pGEcpd3gjPLuA"
+      "duration_ms": 264613,
+      "name": "Thank You Mama",
+      "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
     },
     {
       "added_at": null,
@@ -483,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
-        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
       "artists": [
         {
@@ -492,9 +444,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 169913,
-      "name": "Mayibuye - Remastered 2024",
-      "url": "https://open.spotify.com/track/6Fli1EL3FgkrJFbemIlhVq"
+      "duration_ms": 257040,
+      "name": "Welela",
+      "url": "https://open.spotify.com/track/0HE2ZkTS8s2T8bDKyQncNT"
     },
     {
       "added_at": null,
@@ -515,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
+        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
       },
       "artists": [
         {
@@ -524,9 +476,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 257040,
-      "name": "Welela",
-      "url": "https://open.spotify.com/track/0HE2ZkTS8s2T8bDKyQncNT"
+      "duration_ms": 169913,
+      "name": "Mayibuye - Remastered 2024",
+      "url": "https://open.spotify.com/track/6Fli1EL3FgkrJFbemIlhVq"
     },
     {
       "added_at": null,
@@ -563,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 171001,
+      "name": "Yetentu Tizaleny - Mono Version",
+      "url": "https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
         "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
       },
@@ -572,9 +540,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 81511,
-      "name": "Zenizenabo - Remastered 2024",
-      "url": "https://open.spotify.com/track/3DHjBTlygFzg6nyxqueFK8"
+      "duration_ms": 149253,
+      "name": "Ntjilo Ntjilo (Lullaby To a Child About a Little Canary) - Remastered 2024",
+      "url": "https://open.spotify.com/track/0zMc8pEo1raSrigqE5drpU"
     },
     {
       "added_at": null,
@@ -636,9 +604,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 154097,
-      "name": "Holilili - Remastered 2024",
-      "url": "https://open.spotify.com/track/2JPc66jkgYF11UYvHj3eUV"
+      "duration_ms": 81511,
+      "name": "Zenizenabo - Remastered 2024",
+      "url": "https://open.spotify.com/track/3DHjBTlygFzg6nyxqueFK8"
     },
     {
       "added_at": null,
@@ -675,6 +643,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Sing Me a Song",
+      "url": "https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
+        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 231366,
+      "name": "Maduna - Remastered 2024",
+      "url": "https://open.spotify.com/track/1bQwId7FPMJk6cTzGud3cu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graceland Live - Remastered (Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87)",
+        "url": "https://open.spotify.com/album/66nQdyL3P4u1yfsDu5Y4AT"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Under African Skies - Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87",
+      "url": "https://open.spotify.com/track/0dz7AgLTb30euAIqMQmSKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "African Sunset",
+      "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sound of South Africa",
         "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
       },
@@ -700,45 +736,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 149253,
-      "name": "Ntjilo Ntjilo (Lullaby To a Child About a Little Canary) - Remastered 2024",
-      "url": "https://open.spotify.com/track/0zMc8pEo1raSrigqE5drpU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graceland Live - Remastered (Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87)",
-        "url": "https://open.spotify.com/album/66nQdyL3P4u1yfsDu5Y4AT"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Under African Skies - Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87",
-      "url": "https://open.spotify.com/track/0dz7AgLTb30euAIqMQmSKh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Me a Song",
-        "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Sing Me a Song",
-      "url": "https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ"
+      "duration_ms": 152321,
+      "name": "Amampondo - Remastered 2024",
+      "url": "https://open.spotify.com/track/5zBYCKv8VsEEjN1NRr2Yxf"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
-        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 231366,
-      "name": "Maduna - Remastered 2024",
-      "url": "https://open.spotify.com/track/1bQwId7FPMJk6cTzGud3cu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welela",
         "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
       },
@@ -787,22 +771,6 @@
       "duration_ms": 289200,
       "name": "Aluta Continua",
       "url": "https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "African Sunset",
-      "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
     },
     {
       "added_at": null,
@@ -823,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Djiu de Galinha",
+      "url": "https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sangoma",
         "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
       },
@@ -835,6 +819,26 @@
       "duration_ms": 135693,
       "name": "Baxabene Oxamu",
       "url": "https://open.spotify.com/track/0At7MOFjNWfAXhfbPy63Qe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of (1956 - 1959)",
+        "url": "https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "duration_ms": 153586,
+      "name": "Holili",
+      "url": "https://open.spotify.com/track/7sxYGzMF9SA0BhgLKetv5s"
     }
   ],
   "unique_name": "This Is Miriam Makeba",

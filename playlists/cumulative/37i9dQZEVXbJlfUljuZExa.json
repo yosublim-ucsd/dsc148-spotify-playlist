@@ -9934,7 +9934,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
@@ -13409,6 +13409,24 @@
     },
     {
       "album": {
+        "name": "Salahkan Aku",
+        "url": "https://open.spotify.com/album/7vLyFl8C95jJD3u9Df4lhm"
+      },
+      "artists": [
+        {
+          "name": "Fimie Don",
+          "url": "https://open.spotify.com/artist/1zXDRPtYIB5xIK8oH4Bht0"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195956,
+      "name": "Salahkan Aku",
+      "url": "https://open.spotify.com/track/49scMthrCIQrdoSz5mgyOn"
+    },
+    {
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
@@ -13438,7 +13456,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 266111,
       "name": "Sangkar Derita",
       "url": "https://open.spotify.com/track/7HLTEqi7Kis9SIsEB8Icyy"
@@ -15028,7 +15046,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"

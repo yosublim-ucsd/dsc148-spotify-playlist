@@ -2,7 +2,7 @@
 
 ### [This Is Grupo Los de la O](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GFndC)
 
-> This is Grupo Los de la O\. ಕೇಳಲೇಬೇಕಾದ ಟ್ರ್ಯಾಕ್‌ಗಳು, ಎಲ್ಲವೂ ಒಂದೇ ಪ್ಲೇಲಿಸ್ಟ್‌ನಲ್ಲಿ.
+> This Is Grupo Los de la O\. Los temas esenciales, todos en una lista.
 
 59 songs - 3 hr 0 min
 

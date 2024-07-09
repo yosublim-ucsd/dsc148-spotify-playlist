@@ -1,6 +1,6 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 160983,
+  "num_followers": 160992,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,18 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "\u30d9\u30e9\u30f3\u30c0 feat. \u6226\u6144\u304b\u306a\u306e",
-        "url": "https://open.spotify.com/album/1bPXXUszurgUndYpS540rI"
+        "name": "\u541b\u306e\u540d\u306f\u3002",
+        "url": "https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl"
       },
       "artists": [
         {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        },
-        {
-          "name": "\u6226\u6144\u304b\u306a\u306e",
-          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 208800,
-      "name": "\u30d9\u30e9\u30f3\u30c0 feat. \u6226\u6144\u304b\u306a\u306e",
-      "url": "https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG"
+      "duration_ms": 129186,
+      "name": "\u5922\u706f\u7c60",
+      "url": "https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -923,18 +919,22 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "\u541b\u306e\u540d\u306f\u3002",
-        "url": "https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl"
+        "name": "\u30d9\u30e9\u30f3\u30c0 feat. \u6226\u6144\u304b\u306a\u306e",
+        "url": "https://open.spotify.com/album/1bPXXUszurgUndYpS540rI"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        },
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
         }
       ],
-      "duration_ms": 129186,
-      "name": "\u5922\u706f\u7c60",
-      "url": "https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T"
+      "duration_ms": 208800,
+      "name": "\u30d9\u30e9\u30f3\u30c0 feat. \u6226\u6144\u304b\u306a\u306e",
+      "url": "https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "ANTI ANTI GENERATION",
-        "url": "https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "\u305d\u3063\u3051\u306a\u3044",
-      "url": "https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 201973,
       "name": "\u672c\u5f53\u306f\u306d\u3001",
       "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 389466,
+      "name": "\u305d\u3063\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem"
     },
     {
       "added_at": "2024-07-04 15:00:00",

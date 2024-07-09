@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. COLA REN on cover. Artwork by Thami Nabil",
-  "num_followers": 165806,
+  "num_followers": 165930,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
-    },
-    {
       "added_at": "2024-04-24 04:00:00",
       "album": {
         "name": "Hornworm Metamorphosis",
@@ -91,6 +75,22 @@
       "duration_ms": 104000,
       "name": "Hornworm Metamorphosis",
       "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "Mind Palace Music",
-        "url": "https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr"
+        "name": "jacarandas",
+        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
       },
       "artists": [
         {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
         }
       ],
-      "duration_ms": 72000,
-      "name": "Where'd You Put Me",
-      "url": "https://open.spotify.com/track/3jf2rCDNPvdBrAfjEl3THV"
+      "duration_ms": 138480,
+      "name": "jacarandas",
+      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -263,6 +263,38 @@
       "duration_ms": 155000,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Mind Palace Music",
+        "url": "https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "Where'd You Put Me",
+      "url": "https://open.spotify.com/track/3jf2rCDNPvdBrAfjEl3THV"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/2kAeZjR2sgPdPNYQKtw3b5"
+      },
+      "artists": [
+        {
+          "name": "d'Eon",
+          "url": "https://open.spotify.com/artist/10vxlFO7l4kgOKtsz4HbQp"
+        }
+      ],
+      "duration_ms": 214922,
+      "name": "Rhododendron pt. IV",
+      "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -283,74 +315,6 @@
       "duration_ms": 481160,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/2kAeZjR2sgPdPNYQKtw3b5"
-      },
-      "artists": [
-        {
-          "name": "d'Eon",
-          "url": "https://open.spotify.com/artist/10vxlFO7l4kgOKtsz4HbQp"
-        }
-      ],
-      "duration_ms": 214922,
-      "name": "Rhododendron pt. IV",
-      "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "jacarandas",
-        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
-      },
-      "artists": [
-        {
-          "name": "Joven Tom",
-          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
-        }
-      ],
-      "duration_ms": 138480,
-      "name": "jacarandas",
-      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "At the Door",
-        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
-      },
-      "artists": [
-        {
-          "name": "ILYICH",
-          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
-        },
-        {
-          "name": "Takuya Nakamura",
-          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
-        }
-      ],
-      "duration_ms": 122762,
-      "name": "At the Door",
-      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
-        }
-      ],
-      "duration_ms": 257609,
-      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -375,6 +339,42 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+        }
+      ],
+      "duration_ms": 257609,
+      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "At the Door",
+        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
+      },
+      "artists": [
+        {
+          "name": "ILYICH",
+          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
+        },
+        {
+          "name": "Takuya Nakamura",
+          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
+        }
+      ],
+      "duration_ms": 122762,
+      "name": "At the Door",
+      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-17 04:00:00",
       "album": {
-        "name": "Alt-Mobeat",
-        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 101931,
-      "name": "The Visit",
-      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 208484,
       "name": "Ready to Leave",
       "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Alt-Mobeat",
+        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 101931,
+      "name": "The Visit",
+      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Other Means",
-        "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
-      },
-      "artists": [
-        {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Other Means",
-      "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Other Means",
+        "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Other Means",
+      "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
-      "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 68110,
-      "name": "wearywatergod",
-      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Extinct but Still Alive",
@@ -915,6 +899,22 @@
       "duration_ms": 366000,
       "name": "Rowing High Rowing Low",
       "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
+    },
+    {
+      "added_at": "2024-03-20 13:59:17",
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "duration_ms": 68110,
+      "name": "wearywatergod",
+      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
       "added_at": "2024-04-24 04:00:00",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
     },
     {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Psychedelic Anxiety",
+        "url": "https://open.spotify.com/album/3b1rSDft4AEvV3lVqTZWEf"
+      },
+      "artists": [
+        {
+          "name": "Frances Chang",
+          "url": "https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Spiral in Houston",
+      "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
+    },
+    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "\u98a8\u306e\u3088\u3046\u306b",
@@ -1091,22 +1107,6 @@
       "duration_ms": 270557,
       "name": "MissU",
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "Psychedelic Anxiety",
-        "url": "https://open.spotify.com/album/3b1rSDft4AEvV3lVqTZWEf"
-      },
-      "artists": [
-        {
-          "name": "Frances Chang",
-          "url": "https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe"
-        }
-      ],
-      "duration_ms": 256359,
-      "name": "Spiral in Houston",
-      "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/5m9aliUs9oOoUlII8rbv6U"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "the mould",
-        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Streetcorn",
@@ -1245,28 +1229,20 @@
       "url": "https://open.spotify.com/track/0m3FbejKZ3KVTpZa1KjdmR"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "Spiralis Aurea Trio",
-        "url": "https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl"
+        "name": "the mould",
+        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
       },
       "artists": [
         {
-          "name": "Stefano Pilia",
-          "url": "https://open.spotify.com/artist/4v3YpaAOE8k0271vV6Wg8v"
-        },
-        {
-          "name": "Adrian Utley",
-          "url": "https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA"
-        },
-        {
-          "name": "Alessandra Novaga",
-          "url": "https://open.spotify.com/artist/42BB0rGDAghojUlrJhIJrG"
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
         }
       ],
-      "duration_ms": 366549,
-      "name": "CRUX",
-      "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1299,6 +1275,30 @@
       "duration_ms": 188975,
       "name": "House Below the Forest Floor",
       "url": "https://open.spotify.com/track/2xo8YQCTyfYAQOLdeVioK5"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Spiralis Aurea Trio",
+        "url": "https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl"
+      },
+      "artists": [
+        {
+          "name": "Stefano Pilia",
+          "url": "https://open.spotify.com/artist/4v3YpaAOE8k0271vV6Wg8v"
+        },
+        {
+          "name": "Adrian Utley",
+          "url": "https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA"
+        },
+        {
+          "name": "Alessandra Novaga",
+          "url": "https://open.spotify.com/artist/42BB0rGDAghojUlrJhIJrG"
+        }
+      ],
+      "duration_ms": 366549,
+      "name": "CRUX",
+      "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -1353,24 +1353,20 @@
       "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "I Need Time",
-        "url": "https://open.spotify.com/album/4QGahV929GYxYpHc2rag62"
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
       },
       "artists": [
         {
-          "name": "Melanie Charles",
-          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
-        },
-        {
-          "name": "Rogerst Charles",
-          "url": "https://open.spotify.com/artist/49Mk8uQuSZ7BLKaw5Km5QM"
+          "name": "Nima Khaste",
+          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
         }
       ],
-      "duration_ms": 257091,
-      "name": "I Need Time",
-      "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
+      "duration_ms": 275555,
+      "name": "S1 T3",
+      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1389,20 +1385,24 @@
       "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
+        "name": "I Need Time",
+        "url": "https://open.spotify.com/album/4QGahV929GYxYpHc2rag62"
       },
       "artists": [
         {
-          "name": "Nima Khaste",
-          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
+          "name": "Melanie Charles",
+          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
+        },
+        {
+          "name": "Rogerst Charles",
+          "url": "https://open.spotify.com/artist/49Mk8uQuSZ7BLKaw5Km5QM"
         }
       ],
-      "duration_ms": 275555,
-      "name": "S1 T3",
-      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
+      "duration_ms": 257091,
+      "name": "I Need Time",
+      "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "The 39 Steps",
-        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
-      },
-      "artists": [
-        {
-          "name": "Amina Cyu",
-          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
-        }
-      ],
-      "duration_ms": 288509,
-      "name": "Medio Viva",
-      "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "KAPITA\u0141KA",
         "url": "https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 192000,
       "name": "KAPITA\u0141KA 7",
       "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "The 39 Steps",
+        "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
+      },
+      "artists": [
+        {
+          "name": "Amina Cyu",
+          "url": "https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4"
+        }
+      ],
+      "duration_ms": 288509,
+      "name": "Medio Viva",
+      "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
     },
     {
       "added_at": "2024-04-03 15:21:45",

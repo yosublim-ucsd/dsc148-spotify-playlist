@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 73614,
+  "num_followers": 73620,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Someone To Understand",
-        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
+        "name": "Meteor",
+        "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
       },
       "artists": [
         {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Someone To Understand",
-      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
+      "duration_ms": 220800,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -603,22 +607,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Meteor",
-        "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
+        "name": "Someone To Understand",
+        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
+      "duration_ms": 155076,
+      "name": "Someone To Understand",
+      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN"
       },
       "artists": [
         {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
         }
       ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+      "duration_ms": 192000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN"
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7"
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -827,6 +827,26 @@
       "duration_ms": 201600,
       "name": "Deep In The Underground",
       "url": "https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -863,26 +883,6 @@
       "duration_ms": 161653,
       "name": "DANCEFLOOR SLAYER",
       "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+        "name": "The Oni Retribution",
+        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },
       "artists": [
         {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
         }
       ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+      "duration_ms": 265900,
+      "name": "The Oni Retribution",
+      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 191779,
       "name": "The Protest",
       "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "The Oni Retribution",
-        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        }
-      ],
-      "duration_ms": 265900,
-      "name": "The Oni Retribution",
-      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "RTC is the legacy",
-        "url": "https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b"
-      },
-      "artists": [
-        {
-          "name": "Rotterdam Terror Corps",
-          "url": "https://open.spotify.com/artist/5vivlUC65oZCNqFxTue8rM"
-        },
-        {
-          "name": "G-Town Madness",
-          "url": "https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp"
-        }
-      ],
-      "duration_ms": 372982,
-      "name": "Nobody Harder (2019 Remaster) - G-Town Madness Remix",
-      "url": "https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Number One Thriller",
         "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 192324,
       "name": "Number One Thriller",
       "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "RTC is the legacy",
+        "url": "https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b"
+      },
+      "artists": [
+        {
+          "name": "Rotterdam Terror Corps",
+          "url": "https://open.spotify.com/artist/5vivlUC65oZCNqFxTue8rM"
+        },
+        {
+          "name": "G-Town Madness",
+          "url": "https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp"
+        }
+      ],
+      "duration_ms": 372982,
+      "name": "Nobody Harder (2019 Remaster) - G-Town Madness Remix",
+      "url": "https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1875,18 +1875,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Ruthless For Life",
-        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
+        "name": "Slaves To The Darkness",
+        "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
       },
       "artists": [
         {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        },
+        {
+          "name": "Lin was here",
+          "url": "https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Ruthless For Life",
-      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
+      "duration_ms": 198315,
+      "name": "Slaves To The Darkness",
+      "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

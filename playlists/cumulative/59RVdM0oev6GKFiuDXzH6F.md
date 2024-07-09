@@ -4,13 +4,14 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-694 songs - 1 day 10 hr 37 min
+696 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 | 2023-08-01 | 2023-12-14 |
 | [123 Round Again](https://open.spotify.com/track/79uPlIsoReDVUWIH9aB0YA) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [123 Round Again](https://open.spotify.com/album/0vEbniv3VNZ8wMPSRHUcdm) | 2:03 | 2023-07-13 | 2023-08-02 |
 | [2 Times](https://open.spotify.com/track/2QmHLEbbxW2gxR0iL0vw7I) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [2 Times](https://open.spotify.com/album/7jWUtLC9MYDjWe7v5HnVUh) | 2:57 | 2023-09-25 | 2023-12-14 |
+| [2024 \- ilizo Remix](https://open.spotify.com/track/4owR2KfPn3rXIK0FnUbTHQ) | [chique](https://open.spotify.com/artist/6z0l5ifI5dNo1PHAVpgFEb), [ilizo](https://open.spotify.com/artist/52Yi0rUbNFG61eJnLyUkSq) | [2024 \(ilizo Remix\)](https://open.spotify.com/album/2YFQ1eG7C2tgNHp6dlL4Kg) | 5:10 | 2024-07-08 |  |
 | [5th Symphony](https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [5th Symphony](https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI) | 2:37 | 2023-04-14 | 2023-12-14 |
 | [A Little Bit More](https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd) | [Gaudini](https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX), [KVKI](https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms) | [A Little Bit More](https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo) | 2:25 | 2023-04-14 | 2023-04-28 |
 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 | 2024-02-09 | 2024-02-16 |
@@ -408,6 +409,7 @@
 | [Motha Nature](https://open.spotify.com/track/0hpRss2zMSaUpg7BX4x1Zn) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Motha Nature](https://open.spotify.com/album/4EpACVsH9KMutqV1W5xHYz) | 3:12 | 2023-08-18 | 2023-08-28 |
 | [Move](https://open.spotify.com/track/4fSdNe7SPTkjkKa58Szac7) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Move](https://open.spotify.com/album/0QzpAWffVTLUQHsEeNvtlv) | 3:05 | 2023-11-03 |  |
 | [Move Left Move Right](https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Move Left Move Right](https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp) | 3:36 | 2023-04-14 | 2023-05-02 |
+| [Move To The Beat \- Radio Edit](https://open.spotify.com/track/0nmOC0jAEWcuK8AI3i1fD9) | [HEYDIZ & ZEVS](https://open.spotify.com/artist/1628FkN8QFzeJ07WJtsXdz) | [Move To The Beat](https://open.spotify.com/album/32VNINAFBEp5bWtVPh96Sg) | 3:29 | 2024-07-08 |  |
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-21 | 2023-12-14 |
 | [Murder On The Dancefloor \- Rave Edit](https://open.spotify.com/track/1Nl3LaK2B5X2y3tHJThfSA) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Murder On The Dancefloor \(Rave Edit\)](https://open.spotify.com/album/6ypShOKsNsnWNXSLYo0Qnw) | 2:57 | 2023-02-12 | 2023-04-13 |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-11-24 |  |

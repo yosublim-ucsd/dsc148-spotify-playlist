@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-631 songs - 19 hr 3 min
+634 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All The Colours of the Rainbow](https://open.spotify.com/track/3xlNlZ9aINtMU62GXGxPCx) | [Sienna Hewitt](https://open.spotify.com/artist/6PjnavWTln3VeGwsHZgWPL) | [All The Colours of the Rainbow](https://open.spotify.com/album/6FsVx0Lullz6FaPcjNsJjh) | 1:58 | 2021-10-07 | 2023-05-12 |
 | [All The Joy You Bring](https://open.spotify.com/track/7bkTcd4fUsUdPkmYacuknd) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [All The Joy You Bring](https://open.spotify.com/album/0R13b9eCSz4j2znqTspjfI) | 1:49 | 2021-10-07 |  |
 | [All Through the Night](https://open.spotify.com/track/1tHIBi1xAebtzJCw7hQIwC) | [Hailey West](https://open.spotify.com/artist/4r3z99IOB1pOARTJmUoY5L) | [All Through the Night](https://open.spotify.com/album/3I1WxY8rv9KKHLqZoftLFq) | 2:25 | 2023-05-11 |  |
+| [Alone Under The Stars](https://open.spotify.com/track/3EWc6DiAw1R0KLEtiiehpI) | [Yoni Laurent](https://open.spotify.com/artist/3oNMmoFpVOIq8Ce7tBRDRI) | [Alone Under The Stars](https://open.spotify.com/album/6JDZREAq7cPKOr3AWfc2cW) | 2:04 | 2024-07-08 |  |
 | [Always beside you](https://open.spotify.com/track/4clLkBuNnbkzVT0i0kbYlH) | [Mio Moi](https://open.spotify.com/artist/6RQl4S8pqVOU10Su7Y1R0o) | [Light at Night](https://open.spotify.com/album/4IHJnyc0ZuQvHBUKMUFfjC) | 1:54 | 2022-11-25 |  |
 | [Always By your Side](https://open.spotify.com/track/633Ncfz9y69Or7MGorp4KT) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [Always By Your Side](https://open.spotify.com/album/3I3tkEV6bQHjeibbURN1IO) | 1:37 | 2023-08-10 | 2024-05-24 |
 | [Always By Your Side](https://open.spotify.com/track/6rZghmzRtSrcnfoUsI3HYV) | [Margith Mathiesen](https://open.spotify.com/artist/7FVnh71Z8lhSppYykLnpJh) | [Always By Your Side](https://open.spotify.com/album/7uaZjvfUWtJblAnpjSqMg3) | 2:38 | 2021-10-07 | 2022-10-29 |
@@ -309,6 +310,7 @@
 | [Little Miss Muffet](https://open.spotify.com/track/0nyqo64CI34PQ8ro08xRcf) | [Maureen Dubose](https://open.spotify.com/artist/0LGtUk1yFtNM99TX7JS01N) | [I Had a Little Nut Tree](https://open.spotify.com/album/1CvizaIIDVXxdFSXNkhIuq) | 0:52 | 2021-10-07 | 2022-03-18 |
 | [Little pony](https://open.spotify.com/track/3Qyy4PT4gWJVedjM31t2gE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Little pony](https://open.spotify.com/album/0Grvlj3TuPZu0QZrRxeC9a) | 1:18 | 2024-05-03 |  |
 | [Little Robin Redbreast](https://open.spotify.com/track/6rCqiXs9GaZCG2tvCHxL5E) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [Little Robin Redbreast](https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso) | 1:25 | 2021-10-07 | 2023-01-13 |
+| [Little Spring Song](https://open.spotify.com/track/2AtS0OYVTIBxRRgWGioJrl) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Little Spring Song](https://open.spotify.com/album/6QrQoAvanfAf6HRGxjT7xA) | 2:09 | 2024-07-08 |  |
 | [Little Sweetheart](https://open.spotify.com/track/5CLD2SV9D7MigUOl6r5UO7) | [Olivia Boward](https://open.spotify.com/artist/5qlZWNHgu2oBOjY6hSvfOe) | [Little Sweetheart](https://open.spotify.com/album/3nCtIf8Zrvt9BwdHrUAKA8) | 1:50 | 2021-10-07 | 2024-03-29 |
 | [Little Tiger](https://open.spotify.com/track/1YfOi6EOZxp3zKIXuXTxYA) | [Calista Barrett](https://open.spotify.com/artist/3XfWyEYMiQxHvtAXl3m1ih) | [Little Tiger](https://open.spotify.com/album/6cflbsdLEBdDJQaIyWvSEK) | 1:25 | 2022-02-10 | 2024-05-04 |
 | [London Bridge](https://open.spotify.com/track/3D0h9ZFiwZqL068mV7Fj0X) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [London Bridge](https://open.spotify.com/album/0JlKJ9j505MZXTHt5msDUZ) | 2:12 | 2023-09-08 |  |
@@ -425,6 +427,7 @@
 | [Quand tu t'es endormi](https://open.spotify.com/track/2blrpbBhktqkDVvMRKZH5U) | [Gill Doucet](https://open.spotify.com/artist/2EKkIIIRpn8Jhr9BVXZOXl) | [Quand tu t'es endormi](https://open.spotify.com/album/4dKRtINwcsDqqa6O0Zojcr) | 1:38 | 2021-10-07 | 2023-05-12 |
 | [Quiet Night](https://open.spotify.com/track/5LYbJfH5SvlAxAgQKrv2wu) | [Zuriñe Ilaria](https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx) | [Baby Lullabies](https://open.spotify.com/album/0h1oogrKRSjdKbigLoQFwj) | 1:52 | 2023-08-10 |  |
 | [Rain Rain Go Away](https://open.spotify.com/track/2ZuM1a9EuTX7tAKvKskbfj) | [Lene Terne](https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8) | [Rain Rain Go Away](https://open.spotify.com/album/5hjJMDvt61VSPEPNVda3ek) | 1:49 | 2024-05-24 |  |
+| [Rainbow Bridge](https://open.spotify.com/track/1aNcIynXOBK6VXiG02L8Ix) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Rainbow Bridge](https://open.spotify.com/album/2XyDTjEnzPUPiFoOSXn5QW) | 2:13 | 2024-07-08 |  |
 | [Rainbow dream](https://open.spotify.com/track/1Yfb2ARH13IZ6GJrWceltb) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Rainbow dream](https://open.spotify.com/album/4iN0KOkULPtGoK1uPndsF9) | 1:35 | 2024-05-31 |  |
 | [Rainbow Sky](https://open.spotify.com/track/4svS894AnmwsJboKSF37Gi) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Rainbow Sky](https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n) | 2:06 | 2023-03-17 |  |
 | [Raindrops and Roses](https://open.spotify.com/track/4qhBjg5zm5FhLT1vyd1Nok) | [Daisy Stokes](https://open.spotify.com/artist/6QMA6JrxN306K7jz8oPsSc) | [Raindrops and Roses](https://open.spotify.com/album/4u5rTefoDIN7FAA89A4ske) | 1:30 | 2021-10-07 | 2024-05-24 |

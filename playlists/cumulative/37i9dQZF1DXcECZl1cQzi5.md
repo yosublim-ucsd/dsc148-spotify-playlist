@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-121 songs - 5 hr 47 min
+123 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,15 +16,16 @@
 | [A Lake Almost Still](https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu) | [Adored Swan](https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp) | [A Lake Almost Still](https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq) | 2:17 | 2023-10-23 |  |
 | [Aabha \- Sound Bath](https://open.spotify.com/track/4CGYBCKiaSm5Y5oqn7xZIh) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Aabha \- Sound Bath](https://open.spotify.com/album/5SNx9VaBDuGycrI7lxJnfl) | 2:52 | 2023-10-23 |  |
 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 | 2023-10-23 |  |
+| [Abyss](https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Abyss](https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ) | 2:12 | 2024-07-08 |  |
 | [Aethaerum](https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Aethaerum](https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI) | 3:06 | 2023-10-23 |  |
 | [Atomos Atmos](https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX) | [Claudette Bernard](https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9) | [Atomos Atmos](https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc) | 3:44 | 2023-10-26 |  |
 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-10-23 |  |
-| [Blue Sky \(by the Ocean\) \- Piano](https://open.spotify.com/track/7zrogcxka5pmhoeBhJicES) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ocean Lullaby](https://open.spotify.com/album/7356b9TsGhH8iAxUjWuVEp) | 2:12 | 2024-04-01 |  |
+| [Blue Sky \(by the Ocean\) \- Piano](https://open.spotify.com/track/7zrogcxka5pmhoeBhJicES) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ocean Lullaby](https://open.spotify.com/album/7356b9TsGhH8iAxUjWuVEp) | 2:12 | 2024-04-01 | 2024-07-09 |
 | [Breath](https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-10-23 |  |
 | [Breezing](https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Breezing](https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4) | 2:43 | 2023-10-26 | 2024-05-12 |
 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 | 2023-10-23 |  |
 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 | 2023-10-23 |  |
-| [Calming Waves](https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 2:37 | 2023-10-23 |  |
+| [Calming Waves](https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 2:37 | 2023-10-23 | 2024-07-09 |
 | [Chao Phraya](https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Chao Phraya](https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO) | 2:52 | 2023-10-23 |  |
 | [Circles Above](https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl) | [Hænisson](https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk) | [Circles Above](https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO) | 3:26 | 2024-03-20 | 2024-03-26 |
 | [Close Reach](https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Close Reach](https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo) | 2:45 | 2024-03-20 |  |
@@ -60,6 +61,7 @@
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-23 |  |
 | [Highest Peaks](https://open.spotify.com/track/57cEl0th5hS43eAXY7krXh) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Highest Peaks](https://open.spotify.com/album/5bqLjmTyXSVGls4ocSft2F) | 3:07 | 2024-02-06 | 2024-02-11 |
 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 | 2023-10-26 | 2024-05-08 |
+| [Kallisto Thalassa](https://open.spotify.com/track/0cYX4SJ08CQtEJd63j0PiF) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Kallisto Thalassa](https://open.spotify.com/album/5IzeqmJIDEBtqBnvDlet7j) | 3:15 | 2024-07-08 |  |
 | [Lamenting Tides](https://open.spotify.com/track/1EvV3xSsoomdlynBskfrcU) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Lamenting Tides](https://open.spotify.com/album/1ADt66KybnarDRYzAIYgL5) | 2:47 | 2024-05-01 |  |
 | [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 | 2023-10-23 |  |
 | [Lumen At The Beach](https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Lumen At The Beach](https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL) | 3:01 | 2023-10-26 |  |

@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: BE:FIRST X ATEEZ\)
 
-183 songs - 9 hr 43 min
+185 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-05-26 |  |
 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-06-08 |  |
 | [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-03-05 |  |
+| [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-08 |  |
 | [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T) | 2:43 | 2022-10-25 | 2024-05-18 |
 | [HULA HOOP](https://open.spotify.com/track/2YVzshKzFglQLBXPYNpGI8) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HULA HOOP / StarSeed \~カクセイ\~](https://open.spotify.com/album/7GQdWx1bMvrbVBOtCa829d) | 3:19 | 2021-12-20 | 2022-03-05 |
 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-02 |  |
@@ -130,6 +131,7 @@
 | [RATA\-TAT\-TAT](https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/1Zhm7LxHfqZg8XS143vJtz) | 3:24 | 2022-05-10 | 2024-03-16 |
 | [Ready for the World](https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Ready for the World](https://open.spotify.com/album/4AUH5o7KAs0BpvJwH1Je77) | 3:05 | 2023-12-01 |  |
 | [Real Love Still Exists](https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Real Love Still Exists](https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt) | 3:02 | 2023-03-09 |  |
+| [RISE UP \(Korean ver.\)](https://open.spotify.com/track/1dRjox4xKpbrMHanzC2rNq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \(English & Korean ver.\)](https://open.spotify.com/album/5tUbuoBQvv7bbvDNO6jfP8) | 2:59 | 2024-07-08 |  |
 | [ROCKY \- Boxers Ver.](https://open.spotify.com/track/3Gjdf1Na2LhR6X7tkc4buH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ROCKY \(Boxers Ver.\)](https://open.spotify.com/album/0wJ3JKlcgsAXfzIBkJoYsN) | 3:09 | 2022-05-18 | 2023-02-17 |
 | [Rose \- English Version](https://open.spotify.com/track/2shyarF21wZvWew00TdaP3) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-12-20 | 2022-12-06 |
 | [ROSETTA \(Feat\. MILLI\)](https://open.spotify.com/track/3Kf4pY9LwV1cptb4HDNFyk) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 3:08 | 2023-11-03 |  |

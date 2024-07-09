@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,340 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,400 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 19 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 |
 | 20 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 |
 | 21 | [Affirmations to Immediately Activate Your Inner Power](https://open.spotify.com/track/4LaSJQ7jNWtrEyN7eMmLjO) | [Elita Purcill](https://open.spotify.com/artist/6Y8kwsG8fmuhZV9TAqRDkr) | [Affirmations to Immediately Activate Your Inner Power](https://open.spotify.com/album/0T74waW8QttKPaiQQOJM3U) | 9:18 |
-| 22 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
-| 23 | [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 |
+| 22 | [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 |
+| 23 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
 | 24 | [Calm Serenity Affirmations](https://open.spotify.com/track/3FIcfsWKyVSNtnDWsWMn7S) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Positivity Affirmations](https://open.spotify.com/album/5cnn2170QPvSlXs1x4QZKV) | 2:31 |
 | 25 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 |
 | 26 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 47 | [Emotional Resilience \- 174 Hz](https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Emotional Resilience \- 174 Hz](https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2) | 2:53 |
 | 48 | [Vibrant Energy \- 174 Hz](https://open.spotify.com/track/7zYi5z2q3YlvGgGY4ldY4w) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Vibrant Energy](https://open.spotify.com/album/0upFaesBpyaa1WSmeVRxLU) | 1:55 |
 | 49 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
-| 50 | [My Peaceful Place](https://open.spotify.com/track/2Ob5ISfTg1mv3z7Cw1gKoH) | [Ferdinand Alcindor](https://open.spotify.com/artist/34hLcin0RFl40JtsQ2bzLD) | [My Peaceful Place](https://open.spotify.com/album/3iaHC58x7pJTkc8N3FnTwZ) | 5:24 |
+| 50 | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/track/1geG3OimV05iMnChjbWdyz) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/album/1KWtye7sNbmjGvqyrJVZEj) | 2:20 |
 
 Snapshot ID: `ZdTF8AAAAACakcsTyY9Ey7IXCJ8iPYJa`

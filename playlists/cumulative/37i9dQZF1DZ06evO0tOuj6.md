@@ -2,13 +2,13 @@
 
 ### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
+> This Is Tokyo Ska Paradise Orchestra\. Los temas esenciales, todos en una lista.
 
 73 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [9](https://open.spotify.com/track/3Z9XZr4bCHiDzULCOYQ1W7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 2:42 | 2023-01-14 | 2024-07-05 |
+| [9](https://open.spotify.com/track/3Z9XZr4bCHiDzULCOYQ1W7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 2:42 | 2023-01-14 |  |
 | [ALMIGHTY〜仮面の約束 \- feat.川上洋平 『仮面ライダーセイバー』主題歌](https://open.spotify.com/track/0A2W626CJSt3rw6iJHYL8A) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 4:07 | 2023-01-14 |  |
 | [Blues In The Wind](https://open.spotify.com/track/3h4tEYHzsrlDxC2zCfqgsu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Takuma \(10\-FEET\)](https://open.spotify.com/artist/6MJbQmwV3YSEQnO3EnVsy6) | [Blues In The Wind](https://open.spotify.com/album/2KcZMoEkaGMyRzRLSO6gWB) | 5:03 | 2024-05-08 | 2024-06-04 |
 | [Break into the Light〜約束の帽子〜](https://open.spotify.com/track/58XinNr00MVez9TV323KJZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Break into the Light 〜約束の帽子〜/The Sharing Song 〜トリコのテーマ〜](https://open.spotify.com/album/2JBiEFSXLCs6NKsyktYOaW) | 3:40 | 2023-01-14 | 2023-03-20 |
@@ -54,7 +54,7 @@
 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 | 2023-01-14 |  |
 | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG) | 4:46 | 2024-07-04 |  |
 | [七人だからレインボー \- feat\. てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)](https://open.spotify.com/track/0nJNGvNjuztRFGQWhpnQ7P) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)](https://open.spotify.com/artist/6T10nqb44WT5HRJv0xRsLH) | [七人だからレインボー \[feat\. てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)\]](https://open.spotify.com/album/4pGPV1cUop8ZSr3JQkJqhb) | 1:33 | 2023-02-05 | 2023-09-19 |
-| [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 | 2023-01-14 |  |
+| [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 | 2023-01-14 | 2024-07-09 |
 | [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ TV size](https://open.spotify.com/track/3nc24kllr6K8JAs4tPM7BB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [仮面ライダーセイバー \(『仮面ライダーセイバー』エンディングテーマ TV size\)](https://open.spotify.com/album/1A2JKeO3PaIGLrSnUCXpmp) | 1:19 | 2023-06-24 | 2023-06-26 |
 | [会いたいね。゚\(゚ ́ω\`゚\)゚。 \- feat.長谷川白紙](https://open.spotify.com/track/3jWH0Ydk5PgzHznw2ChALK) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:52 | 2023-12-13 | 2023-12-16 |
 | [北斗七星](https://open.spotify.com/track/39g89cqTVnDGbqt4OVHJRo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 3:54 | 2023-03-19 | 2024-06-09 |

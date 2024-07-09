@@ -1,12 +1,12 @@
 {
-  "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 106533,
+  "description": "This is Isadora Pompeo. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 106575,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAdp27JQ8k9JtS3tdvzOpwc",
+  "snapshot_id": "ZonagAAAAACu4P1Q1ewsbrOHs3TxncNZ",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nem Um Segundo",
-        "url": "https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Pompeo",
-          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 349333,
-      "name": "Nem Um Segundo",
-      "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nem Um Segundo",
+        "url": "https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pompeo",
+          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 349333,
+      "name": "Nem Um Segundo",
+      "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
     },
     {
       "added_at": null,

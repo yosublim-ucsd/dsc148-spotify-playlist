@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop c'est ici\. Cover: Zouhair Bahaoui
 
-130 songs - 7 hr 5 min
+131 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2023-07-07 | 2023-12-01 |
 | [Chkoun Kan Ygoul](https://open.spotify.com/track/5AM9SDedaVbz0hbA4IDNTt) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Chkoun Kan Ygoul](https://open.spotify.com/album/4cQRws3OdhjIszeoHmDNXN) | 3:27 | 2024-03-09 |  |
 | [Cinema](https://open.spotify.com/track/6oCJXqoK6138TxpdB9PYmc) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Cinema](https://open.spotify.com/album/6qL0TJQDp0ifUlPHBjna94) | 2:39 | 2023-08-02 | 2023-11-21 |
+| [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 | 2024-07-08 |  |
 | [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 | 2024-06-14 |  |
 | [Dehka Sefra](https://open.spotify.com/track/7oE850hviq7oJIPoZRBtyi) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dehka Sefra](https://open.spotify.com/album/4ZVGTHPMMIc4zakPmIugvS) | 2:56 | 2024-05-20 |  |
 | [Denia Ya Denia](https://open.spotify.com/track/1p7rp2JnBbcR4YdbH6WRzC) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Denia Ya Denia](https://open.spotify.com/album/1AKmKRx3R2O2hVPGKeuuFk) | 3:05 | 2023-07-07 | 2024-02-06 |
@@ -65,7 +66,7 @@
 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 | 2023-10-05 | 2024-06-01 |
 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 | 2023-12-10 | 2024-04-19 |
 | [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 | 2023-12-21 | 2024-01-27 |
-| [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-07 |  |
+| [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-07 | 2024-07-09 |
 | [jouj wjouh](https://open.spotify.com/track/7og4nJoCVU3AT67bR9l5hL) | [khalil guenich](https://open.spotify.com/artist/3ypFeqG4YdmOcibtlJynvd) | [jouj wjouh](https://open.spotify.com/album/70i2vMQAEKAp6wHqJfALY8) | 2:13 | 2024-04-08 |  |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2023-07-07 | 2023-12-22 |
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2023-07-07 | 2023-10-27 |

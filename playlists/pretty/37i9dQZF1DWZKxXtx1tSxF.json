@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 42674,
+  "num_followers": 42699,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 259063,
+      "name": "Mi Balcon",
+      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 259063,
-      "name": "Mi Balcon",
-      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 194213,
-      "name": "San B\u00e1",
-      "url": "https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE"
+      "duration_ms": 211974,
+      "name": "Una Cumbia Triste",
+      "url": "https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 211974,
-      "name": "Una Cumbia Triste",
-      "url": "https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx"
+      "duration_ms": 194213,
+      "name": "San B\u00e1",
+      "url": "https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Esfuerzo Universal",
-        "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 305813,
-      "name": "Sal a Caminar",
-      "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "\u00daltimos D\u00edas",
         "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 319933,
       "name": "\u00daltimos D\u00edas",
       "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Esfuerzo Universal",
+        "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 305813,
+      "name": "Sal a Caminar",
+      "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -855,38 +855,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Circunvalaci\u00f3n",
-      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "C\u00f3mo Te Hago Entender",
         "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
       },
@@ -899,6 +867,22 @@
       "duration_ms": 159832,
       "name": "C\u00f3mo Te Hago Entender",
       "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
       },
       "artists": [
         {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+      "duration_ms": 234306,
+      "name": "Circunvalaci\u00f3n",
+      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -955,6 +939,22 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -1067,26 +1051,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Eu Quero Tudo",
-        "url": "https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 219470,
-      "name": "Eu Quero Tudo",
-      "url": "https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Am\u00e9rica Vibra",
         "url": "https://open.spotify.com/album/4gzXNuK24CY9voI94eWFmj"
       },
@@ -1107,6 +1071,26 @@
       "duration_ms": 261556,
       "name": "Am\u00e9rica Vibra",
       "url": "https://open.spotify.com/track/72PvkTLkue9YzAltQL2skH"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Eu Quero Tudo",
+        "url": "https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 219470,
+      "name": "Eu Quero Tudo",
+      "url": "https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1139,6 +1123,22 @@
       "duration_ms": 337857,
       "name": "Y Es de D\u00eda",
       "url": "https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2024-06-12 21:02:48",

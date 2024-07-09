@@ -1,18 +1,18 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 7929,
+  "num_followers": 7928,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAA2JlfUHMXd+pcgVliCmK+X",
+  "snapshot_id": "ZonagAAAAAC1apKhK0tk/2iVy0gjh8Vx",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #6: Era uma Vez",
-        "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
+        "name": "Poesia Ac\u00fastica #6 Era uma Vez",
+        "url": "https://open.spotify.com/album/4gQwNkMPadHDhe8yFfJbca"
       },
       "artists": [
         {
@@ -57,8 +57,8 @@
         }
       ],
       "duration_ms": 577819,
-      "name": "Poesia Ac\u00fastica #6: Era uma Vez",
-      "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
+      "name": "Poesia Ac\u00fastica #6 Era uma Vez",
+      "url": "https://open.spotify.com/track/6ZnVSNNryDmF0w1j73Fndd"
     },
     {
       "added_at": null,
@@ -227,14 +227,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #4: Todo Mundo Odeia Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ryuuX89YP2pLjQw6npG1n"
+        "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2LQ9zAze9OSDMMr2Kc9a5f"
       },
       "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
         {
           "name": "Bob do Contra",
           "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
@@ -260,13 +256,21 @@
           "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6ujnZ179RF3lS79ZBAMObr"
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
       "duration_ms": 505482,
-      "name": "Poesia Ac\u00fastica #4: Todo Mundo Odeia Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4nwQ1SG9CsAl4XoKuScF0r"
+      "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Z3m038JhRNlcuqxp49cJs"
     },
     {
       "added_at": null,
@@ -319,30 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OgEMr",
-        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205576,
-      "name": "BRONCA",
-      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encrenqueira",
         "url": "https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu"
       },
@@ -371,6 +351,62 @@
       "duration_ms": 171125,
       "name": "Encrenqueira",
       "url": "https://open.spotify.com/track/2T6s33kOlJhdLpfgAYS5Ey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OgEMr",
+        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "BRONCA",
+      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica Ep. Acabou",
+        "url": "https://open.spotify.com/album/5sENXit6vpwJiumlyKo1Gw"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Poesia Ac\u00fastica Ep. Acabou",
+      "url": "https://open.spotify.com/track/4O70zH7vpNWNZCYtyRkuoJ"
     },
     {
       "added_at": null,
@@ -411,38 +447,6 @@
       "duration_ms": 186947,
       "name": "Priv\u00ea",
       "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poesia Ac\u00fastica Ep. Acabou",
-        "url": "https://open.spotify.com/album/5sENXit6vpwJiumlyKo1Gw"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Poesia Ac\u00fastica Ep. Acabou",
-      "url": "https://open.spotify.com/track/4O70zH7vpNWNZCYtyRkuoJ"
     },
     {
       "added_at": null,
@@ -731,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Minutos",
         "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
@@ -775,6 +763,22 @@
       "duration_ms": 215520,
       "name": "2 Minutos",
       "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     },
     {
       "added_at": null,
@@ -823,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R\u00edmel",
-        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "S\u00e3o Gon\u00e7alo",
-      "url": "https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V\u00cdBORA",
         "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
       },
@@ -867,6 +851,26 @@
       "duration_ms": 205717,
       "name": "V\u00cdBORA",
       "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R\u00edmel",
+        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "S\u00e3o Gon\u00e7alo",
+      "url": "https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq"
     },
     {
       "added_at": null,
@@ -1047,50 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetisas no Topo",
-        "url": "https://open.spotify.com/album/4g0c6MOErI6fhVaCWF4juA"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mariana Mello",
-          "url": "https://open.spotify.com/artist/2J8gdHx26XApnDILGYrAty"
-        },
-        {
-          "name": "NaBrisa",
-          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
-        },
-        {
-          "name": "Karol de Souza",
-          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Souto MC",
-          "url": "https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        }
-      ],
-      "duration_ms": 693750,
-      "name": "Poetisas no Topo",
-      "url": "https://open.spotify.com/track/7M6YvTJfLx3c8hiPlvCwl0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
       },
@@ -1159,26 +1119,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1gua de Bala",
-        "url": "https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP"
+        "name": "Poetisas No Topo",
+        "url": "https://open.spotify.com/album/18Q1qTfrRw9Jm74np2b3p4"
       },
       "artists": [
         {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+          "name": "Mariana Mello",
+          "url": "https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG"
+        },
+        {
+          "name": "NaBrisa",
+          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
+        },
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "DK Prod",
-          "url": "https://open.spotify.com/artist/2kpBtHNUaSnGdessRqOzgq"
+          "name": "Souto",
+          "url": "https://open.spotify.com/artist/2zm6X9AMGSg8BVjUhHe3M4"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 144561,
-      "name": "\u00c1gua de Bala",
-      "url": "https://open.spotify.com/track/64cZXj1jmOOP8cEJhhtjPN"
+      "duration_ms": 693750,
+      "name": "Poetisas No Topo",
+      "url": "https://open.spotify.com/track/5kJ7otQOQrMC5CnkYGZaC9"
     },
     {
       "added_at": null,
@@ -1203,6 +1183,30 @@
       "duration_ms": 243112,
       "name": "Meio Dia",
       "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c1gua de Bala",
+        "url": "https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DK Prod",
+          "url": "https://open.spotify.com/artist/2kpBtHNUaSnGdessRqOzgq"
+        }
+      ],
+      "duration_ms": 144561,
+      "name": "\u00c1gua de Bala",
+      "url": "https://open.spotify.com/track/64cZXj1jmOOP8cEJhhtjPN"
     },
     {
       "added_at": null,
@@ -1263,6 +1267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R\u00edmel",
+        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 104750,
+      "name": "Robocop",
+      "url": "https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 Eu",
         "url": "https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG"
       },
@@ -1295,22 +1315,6 @@
       "duration_ms": 150266,
       "name": "Ctrl Z",
       "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R\u00edmel",
-        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 104750,
-      "name": "Robocop",
-      "url": "https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3"
     }
   ],
   "unique_name": "This Is Azzy",

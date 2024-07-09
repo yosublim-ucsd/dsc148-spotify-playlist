@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Lauren Aquilina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,584 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,759 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 13 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
 | 14 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 | 15 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
-| 16 | [9ARI](https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [9ARI](https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6) | 2:52 |
+| 16 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 17 | [Chanel No.5](https://open.spotify.com/track/5U1dGHnSbt9VaidRSaD46M) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:40 |
-| 18 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 18 | [9ARI](https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [9ARI](https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6) | 2:52 |
 | 19 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |
 | 20 | [the boy is mine](https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 2:53 |
 | 21 | [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 |

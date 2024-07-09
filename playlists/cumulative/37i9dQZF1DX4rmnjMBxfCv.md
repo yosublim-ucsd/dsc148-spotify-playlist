@@ -2,7 +2,7 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> The best dance and electronic songs in the Middle East and North Africa\. Cover: Disclosure
+> The best dance and electronic songs in the Middle East and North Africa\. Cover: Adam Port, Stryv
 
 228 songs - 15 hr 22 min
 

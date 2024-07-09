@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 38976,
+  "num_followers": 39013,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Son Malas (Feat. Jay Park)",
         "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 148640,
       "name": "Son Malas",
       "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2131,6 +2131,30 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/6vko8JQNpg4Hg886cpFbvF"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 191187,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/3rMDfuxGyBLyI46q1xgSoA"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "ENGINE",
         "url": "https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2"
       },
@@ -2319,22 +2343,6 @@
       "duration_ms": 238346,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/3u1lKhxd2XV8f77aZAsRkN"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Everything You Wanted",
-        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209392,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3gdqjIsKs7JqIE76JsNpG4"
     }
   ],
   "unique_name": "This Is Jay Park",

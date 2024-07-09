@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 1999856,
+  "num_followers": 1999882,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-06-07 17:34:57",
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
-    },
-    {
-      "added_at": "2024-06-07 17:34:57",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2024-06-07 17:34:57",
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
     },
     {
       "added_at": "2024-06-07 17:34:57",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-06-07 17:34:57",
       "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
+    },
+    {
+      "added_at": "2024-06-07 17:34:57",
+      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 255573,
       "name": "Rock You Like a Hurricane - 2011",
       "url": "https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"
-    },
-    {
-      "added_at": "2024-06-07 17:34:57",
-      "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
     },
     {
       "added_at": "2024-06-07 17:34:57",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-06-07 17:34:57",
       "album": {
-        "name": "Black Pistol Fire",
-        "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Suffocation Blues",
-      "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
-    },
-    {
-      "added_at": "2024-06-07 17:34:57",
-      "album": {
         "name": "Higher Truth",
         "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 234426,
       "name": "Nearly Forgot My Broken Heart",
       "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
+    },
+    {
+      "added_at": "2024-06-07 17:34:57",
+      "album": {
+        "name": "Black Pistol Fire",
+        "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Suffocation Blues",
+      "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
     },
     {
       "added_at": "2024-06-07 17:34:57",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-06-07 17:34:57",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
-    },
-    {
-      "added_at": "2024-06-07 17:34:57",
-      "album": {
         "name": "The Essential Billy Joel",
         "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 177266,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
+    },
+    {
+      "added_at": "2024-06-07 17:34:57",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
     },
     {
       "added_at": "2024-06-07 17:34:57",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-06-07 17:34:57",
       "album": {
-        "name": "Fallin' With Me",
-        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 161791,
-      "name": "Fallin' With Me",
-      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
-    },
-    {
-      "added_at": "2024-06-07 17:34:57",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2024-06-07 17:34:57",
+      "album": {
+        "name": "Fallin' With Me",
+        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 161791,
+      "name": "Fallin' With Me",
+      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
     },
     {
       "added_at": "2024-06-07 17:34:57",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-06-07 17:34:57",
       "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
-      "added_at": "2024-06-07 17:34:57",
-      "album": {
         "name": "Meeting The Master",
         "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 312200,
       "name": "Meeting The Master",
       "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
+    },
+    {
+      "added_at": "2024-06-07 17:34:57",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2024-06-07 17:34:57",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-06-07 17:34:57",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
-      },
-      "artists": [
-        {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2024-06-07 17:34:57",
-      "album": {
         "name": "Lucifer On The Sofa",
         "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 193369,
       "name": "The Hardest Cut",
       "url": "https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU"
+    },
+    {
+      "added_at": "2024-06-07 17:34:57",
+      "album": {
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
     },
     {
       "added_at": "2024-06-07 17:34:57",

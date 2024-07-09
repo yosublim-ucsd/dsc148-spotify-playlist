@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-11",
-  "description": "This is Weezer. The essential tracks, all in one playlist.",
+  "description": "This Is Weezer. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Weezer",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 196093,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 236346,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4Fj6KslSYYQ1kAbafiKoz0"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 184506,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/2w12ff20EDDeXpsx08CgG5"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 305533,
       "name": "Undone - The Sweater Song",
       "url": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV"

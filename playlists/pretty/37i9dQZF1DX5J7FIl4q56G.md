@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: STARSET
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,336 likes - 34 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,375 likes - 34 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

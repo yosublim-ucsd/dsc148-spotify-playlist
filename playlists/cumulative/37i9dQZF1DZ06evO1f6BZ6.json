@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "This is Toby Keith. The essential tracks, all in one playlist.",
+  "description": "This Is Toby Keith. Los temas esenciales, todos en una lista.",
   "name": "This Is Toby Keith",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 209066,
       "name": "How Do You Like Me Now?!",
       "url": "https://open.spotify.com/track/7rDcULv8vV16vetBjPJhuE"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 335333,
       "name": "I Love This Bar",
       "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 166600,
       "name": "I'm Just Talkin' About Tonight",
       "url": "https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 211306,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"

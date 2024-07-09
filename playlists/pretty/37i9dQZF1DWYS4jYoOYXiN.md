@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,031 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,071 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 24 | [Boogaloo Blues](https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo Blues](https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4) | 6:51 |
 | 25 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
 | 26 | [Dry Coconuts](https://open.spotify.com/track/7tUKJZGKfMgb6VdCyTQIiF) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Dry Coconuts \- Güeita Caimán](https://open.spotify.com/album/3NhmPB7jtHaB7YfcVZ28E6) | 2:33 |
-| 27 | [Columbia's Boogaloo](https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:06 |
+| 27 | [Touch Me](https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Queen Does Her Own Thing](https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD) | 2:25 |
 | 28 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 |
-| 29 | [Touch Me](https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Queen Does Her Own Thing](https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD) | 2:25 |
+| 29 | [Columbia's Boogaloo](https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:06 |
 | 30 | [Cha Cha Cha Con Pachanga](https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31) | [Randy Carlos And His Orchestra](https://open.spotify.com/artist/6OYs6HlGeG4WSmkJYDFX7Y) | [The Best Of](https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1) | 2:27 |
 | 31 | [En Puerta de Tierra](https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g) | [Joe Quijano](https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4) | [Exitos de Oro \(Golden Hits\)](https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH) | 2:27 |
 | 32 | [California Sun](https://open.spotify.com/track/6VZZx248WTQ4mligzYLILP) | [Ricardo Ray Orchestra](https://open.spotify.com/artist/3UmPZOpOL6veEtZ0g0J1jo) | [Let's Get Down To The Real Nitty Gritty](https://open.spotify.com/album/269lCCNvG2Nc91rXWh2ICp) | 2:40 |
-| 33 | [Gentle Rain](https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 3:49 |
+| 33 | [La Pachanga Que No Cansa](https://open.spotify.com/track/0xiThgRoeQilpwuxg5MOTy) | [Manolin Morel Y Sus Charangueros](https://open.spotify.com/artist/49AjAnT2Y4TsKSNqleTT5W), [Wilfredo Figueroa](https://open.spotify.com/artist/6QJbXsvlvNE1vKPMRtfnBl) | [La Rueda\. Pachangas](https://open.spotify.com/album/5PRHaanSDGxhni8mfy46LF) | 3:01 |
 | 34 | [We Got Latin Soul](https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:02 |
-| 35 | [La Pachanga Que No Cansa](https://open.spotify.com/track/0xiThgRoeQilpwuxg5MOTy) | [Manolin Morel Y Sus Charangueros](https://open.spotify.com/artist/49AjAnT2Y4TsKSNqleTT5W), [Wilfredo Figueroa](https://open.spotify.com/artist/6QJbXsvlvNE1vKPMRtfnBl) | [La Rueda\. Pachangas](https://open.spotify.com/album/5PRHaanSDGxhni8mfy46LF) | 3:01 |
-| 36 | [Everything's Gonna Change](https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks) | [Jean Paul "El Troglodita"](https://open.spotify.com/artist/31FPC692u24VnZ5qU8FalR) | [Vudú](https://open.spotify.com/album/0d8hdKL44cTmxslCxB8QLU) | 4:02 |
-| 37 | [Guajira Soul](https://open.spotify.com/track/03HV6ASLKmzXDm68IynJ7R) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Compilación Salsa 1958\-1964](https://open.spotify.com/album/3DBnxpcPAMIz1itLKWx36J) | 1:59 |
+| 35 | [Everything's Gonna Change](https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks) | [Jean Paul "El Troglodita"](https://open.spotify.com/artist/31FPC692u24VnZ5qU8FalR) | [Vudú](https://open.spotify.com/album/0d8hdKL44cTmxslCxB8QLU) | 4:02 |
+| 36 | [Guajira Soul](https://open.spotify.com/track/03HV6ASLKmzXDm68IynJ7R) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Compilación Salsa 1958\-1964](https://open.spotify.com/album/3DBnxpcPAMIz1itLKWx36J) | 1:59 |
+| 37 | [Gentle Rain](https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 3:49 |
 | 38 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
 | 39 | [Tihuanaco](https://open.spotify.com/track/0w1Zn7sPlkIbA9RZ1aLkgF) | [Alfredo Linares](https://open.spotify.com/artist/69cQFJ1QUMfKbGBygF0YCd) | [Vida Musical, Vol\. 1](https://open.spotify.com/album/4R5CqQ6zcAtkWcLua3mFW9) | 3:37 |
 | 40 | [Mambo Rock](https://open.spotify.com/track/5WlSFezblkdRb9PxagXagR) | [Alfredito Linares](https://open.spotify.com/artist/6nk62hgvBZTiWHfJDqQnFi) | [Mi Nuevo Ritmo](https://open.spotify.com/album/7EL9BpPDY9eX3ITD9JfJAd) | 3:35 |

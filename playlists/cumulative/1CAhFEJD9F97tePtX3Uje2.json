@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Crystal Dreams",
+        "url": "https://open.spotify.com/album/39krWY3FoWRS6jCHCkZ2F7"
+      },
+      "artists": [
+        {
+          "name": "Lowx",
+          "url": "https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190654,
+      "name": "Crystal Dreams",
+      "url": "https://open.spotify.com/track/4SoUatn0KvfIJHPPor26vm"
+    },
+    {
+      "album": {
         "name": "Crystvllizx",
         "url": "https://open.spotify.com/album/2jXSGy2YWVBCKofT2Hinh1"
       },

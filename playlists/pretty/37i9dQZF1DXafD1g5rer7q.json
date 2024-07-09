@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 404481,
+  "num_followers": 404586,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn2Q2AAAAADzLzoVxxrEG3+GQ/+qjl4o",
+  "snapshot_id": "ZouiOgAAAABiB6teRur5CVqo+6rwR0OG",
   "tracks": [
     {
       "added_at": "2024-06-27 16:18:32",
@@ -563,22 +563,30 @@
     {
       "added_at": "2024-06-27 16:18:32",
       "album": {
-        "name": "My Girl (with Da Tweekaz)",
-        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
+        "name": "Sorry (with Madonna)",
+        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Darmon",
+          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
         }
       ],
-      "duration_ms": 190525,
-      "name": "My Girl (with Da Tweekaz)",
-      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
+      "duration_ms": 161627,
+      "name": "Sorry (with Madonna)",
+      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
     },
     {
       "added_at": "2024-06-27 16:18:32",
@@ -607,30 +615,22 @@
     {
       "added_at": "2024-06-27 16:18:32",
       "album": {
-        "name": "Sorry (with Madonna)",
-        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
+        "name": "My Girl (with Da Tweekaz)",
+        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Darmon",
-          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
         }
       ],
-      "duration_ms": 161627,
-      "name": "Sorry (with Madonna)",
-      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+      "duration_ms": 190525,
+      "name": "My Girl (with Da Tweekaz)",
+      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
     },
     {
       "added_at": "2024-06-27 16:18:32",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-06-27 16:18:32",
       "album": {
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
+      },
+      "artists": [
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
+    },
+    {
+      "added_at": "2024-06-27 16:18:32",
+      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 168991,
       "name": "Make Your Move",
       "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
-    },
-    {
-      "added_at": "2024-06-27 16:18:32",
-      "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
-      },
-      "artists": [
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2024-06-27 16:18:32",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-06-27 16:18:32",
       "album": {
-        "name": "Thank You [Not So Bad]",
-        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "Thank You [Not So Bad]",
-      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
-    },
-    {
-      "added_at": "2024-06-27 16:18:32",
-      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
+    },
+    {
+      "added_at": "2024-06-27 16:18:32",
+      "album": {
+        "name": "Thank You [Not So Bad]",
+        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "Thank You [Not So Bad]",
+      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
     },
     {
       "added_at": "2024-06-27 16:18:32",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2024-06-27 16:18:32",
       "album": {
-        "name": "Road Runs Out",
-        "url": "https://open.spotify.com/album/6EjfCbuiRraNgaNoQzsEuJ"
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
       },
       "artists": [
         {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "Stephen Puth",
-          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         }
       ],
-      "duration_ms": 146142,
-      "name": "Road Runs Out",
-      "url": "https://open.spotify.com/track/54PD0NYF2Fi9RwQbgToYXs"
+      "duration_ms": 228360,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
     }
   ],
   "unique_name": "EDM Samplings",

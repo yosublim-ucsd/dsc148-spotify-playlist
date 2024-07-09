@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 526800,
+  "num_followers": 526803,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-02-28 01:49:28",
       "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+    },
+    {
+      "added_at": "2024-02-28 01:49:28",
+      "album": {
         "name": "Start My Day",
         "url": "https://open.spotify.com/album/2RWRzcJMnE9iVcnilSp6gs"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 195082,
       "name": "Start My Day",
       "url": "https://open.spotify.com/track/2UvXKCd5cMV3vEKyKcSxCs"
-    },
-    {
-      "added_at": "2024-02-28 01:49:28",
-      "album": {
-        "name": "Bag Of You",
-        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 197427,
-      "name": "Bag Of You",
-      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
       "added_at": "2024-02-28 01:49:28",

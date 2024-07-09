@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Dollypran
 
-435 songs - 22 hr 33 min
+436 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 | 2023-09-05 | 2023-12-11 |
 | [Begad \(Freestyle\)](https://open.spotify.com/track/1qw39Q27vwFzpdic1nQubA) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 2:20 | 2024-01-29 | 2024-02-14 |
 | [BEL 3AKS](https://open.spotify.com/track/6ar3PwuylnywVRKfIFAyJN) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [BEL 3AKS](https://open.spotify.com/album/4ds49GyngSgvVoUt8TEtLE) | 3:50 | 2022-11-28 | 2023-01-12 |
+| [Bella Hadid](https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Decor](https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I) | 2:21 | 2024-07-08 |  |
 | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [R3 \| رع](https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4), [Tayeb Santo](https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD) | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl) | 3:50 | 2024-05-20 |  |
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2022-05-08 | 2022-06-25 |
 | [Blanco](https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 2:26 | 2023-04-01 | 2023-07-04 |
@@ -247,7 +248,7 @@
 | [MORAL](https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [MORAL](https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm) | 3:22 | 2022-05-08 | 2022-08-24 |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-11-28 | 2023-06-01 |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2022-05-08 | 2022-08-24 |
-| [Msayfeen](https://open.spotify.com/track/0VXGvZD6v5ZfE1OwIkSZBB) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Msayfeen](https://open.spotify.com/album/5lOQFnZZbSqj8l8Qfx33vw) | 1:56 | 2024-03-11 |  |
+| [Msayfeen](https://open.spotify.com/track/0VXGvZD6v5ZfE1OwIkSZBB) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Msayfeen](https://open.spotify.com/album/5lOQFnZZbSqj8l8Qfx33vw) | 1:56 | 2024-03-11 | 2024-07-09 |
 | [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-28 | 2023-07-04 |
 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 | 2024-03-11 | 2024-07-01 |
 | [Najem Leil](https://open.spotify.com/track/0XGjH4TgvARhLq5s2tPMHU) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Najem Leil](https://open.spotify.com/album/487keg0yGJnNq6feYj7psr) | 3:25 | 2022-10-04 | 2023-01-12 |

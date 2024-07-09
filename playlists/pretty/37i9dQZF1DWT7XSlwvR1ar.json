@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2080810,
+  "num_followers": 2080972,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZohtFwAAAACs+0bPMLJTkPpot4GGrr7L",
+  "snapshot_id": "ZoxkbwAAAAAPr5nwkZYQjDAy2Fclql+5",
   "tracks": [
     {
       "added_at": "2024-07-05 22:00:55",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Supply And Demand",
+        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 129626,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Supply And Demand",
-        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 129626,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -307,26 +307,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
@@ -339,6 +319,22 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2024-07-08 22:13:03",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 261966,
+      "name": "Save It For Later",
+      "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -355,26 +351,6 @@
       "duration_ms": 237760,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "The Color That Suits You",
-        "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
-      },
-      "artists": [
-        {
-          "name": "Farmer",
-          "url": "https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
-        }
-      ],
-      "duration_ms": 293037,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -463,22 +439,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Tears Run Dry",
-        "url": "https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Alexander",
-          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
-        }
-      ],
-      "duration_ms": 254725,
-      "name": "Tears Run Dry",
-      "url": "https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
       },
@@ -495,18 +455,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Paranoid Cocoon",
-        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
+        "name": "Tears Run Dry",
+        "url": "https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ"
       },
       "artists": [
         {
-          "name": "Cotton Jones",
-          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
         }
       ],
-      "duration_ms": 276333,
-      "name": "Blood Red Sentimental Blues",
-      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
+      "duration_ms": 254725,
+      "name": "Tears Run Dry",
+      "url": "https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -523,6 +483,22 @@
       "duration_ms": 260575,
       "name": "Look At The Time",
       "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Paranoid Cocoon",
+        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
+      },
+      "artists": [
+        {
+          "name": "Cotton Jones",
+          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Blood Red Sentimental Blues",
+      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -655,22 +631,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -687,6 +647,22 @@
       "duration_ms": 167200,
       "name": "Kids in Love",
       "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -739,26 +715,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -807,6 +763,26 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Fresh Roses",
         "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
       },
@@ -819,22 +795,6 @@
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Until You",
-        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -859,6 +819,22 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Until You",
+        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -979,22 +955,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 300487,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -1007,6 +967,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1111,34 +1087,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Amidst the Chaos (Bonus Version)",
-        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 253395,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+      "duration_ms": 193000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1159,6 +1123,38 @@
       "duration_ms": 212760,
       "name": "Problem With It",
       "url": "https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Amidst the Chaos (Bonus Version)",
+        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 253395,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1251,22 +1247,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Talk is Cheap",
-        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 270937,
-      "name": "Talk is Cheap",
-      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -1295,6 +1275,22 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Talk is Cheap",
+        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270937,
+      "name": "Talk is Cheap",
+      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1399,6 +1395,26 @@
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "The Color That Suits You",
+        "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
+      },
+      "artists": [
+        {
+          "name": "Farmer",
+          "url": "https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        }
+      ],
+      "duration_ms": 293037,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Spanish Villager No. 3",
         "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 259607,
       "name": "An Alien In Minneapolis - Edit",
       "url": "https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Love Direction",
         "url": "https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "I Know You Know",
-        "url": "https://open.spotify.com/album/5VFYuCjCIBnYsMz9cTesXX"
-      },
-      "artists": [
-        {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        }
-      ],
-      "duration_ms": 199536,
-      "name": "I Know You Know",
-      "url": "https://open.spotify.com/track/5OQ8VuPNOJm0UR3FGbGo6U"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Love Is Letting Go (feat. Diane Keaton)",
         "url": "https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv"
       },
@@ -1895,6 +1895,22 @@
       "duration_ms": 154865,
       "name": "Love Is Letting Go (feat. Diane Keaton)",
       "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "I Know You Know",
+        "url": "https://open.spotify.com/album/5VFYuCjCIBnYsMz9cTesXX"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        }
+      ],
+      "duration_ms": 199536,
+      "name": "I Know You Know",
+      "url": "https://open.spotify.com/track/5OQ8VuPNOJm0UR3FGbGo6U"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2087,22 +2103,6 @@
       "duration_ms": 196885,
       "name": "Long Limbs",
       "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     }
   ],
   "unique_name": "Totally Stress Free",

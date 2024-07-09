@@ -1,12 +1,12 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6520,
+  "num_followers": 6519,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACZcetrchoFiyXKjTQYtYIWhhCmPv9W",
+  "snapshot_id": "AACZcqcHjkY9GvbUAedP0lk47safjKeS",
   "tracks": [
     {
       "added_at": "2024-07-03 16:01:27",
@@ -2427,6 +2427,22 @@
       "duration_ms": 181341,
       "name": "Tonight (D.I.Y.A)",
       "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
+    },
+    {
+      "added_at": "2024-07-08 18:01:03",
+      "album": {
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/2QrqNM4VSuPTUw7LDOHay4"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 70741,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/1vZ5zOP4tRQupnMwRGFeRe"
     }
   ],
   "unique_name": "Ready for the Weekend (JNSP)",

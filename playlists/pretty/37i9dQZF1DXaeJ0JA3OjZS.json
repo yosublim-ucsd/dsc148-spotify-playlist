@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 125464,
+  "num_followers": 125607,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 177625,
-      "name": "El Quijote De Don Chuy",
-      "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
         "name": "El Profeta Y Otros Caballos Famosos",
         "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 204920,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 177625,
+      "name": "El Quijote De Don Chuy",
+      "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"
     },
     {
       "added_at": "2024-07-03 18:08:34",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 140956,
+      "name": "El Chueco Galindo",
+      "url": "https://open.spotify.com/track/3nEugNej2Gs6GbEnK0wSnu"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
         "name": "El Gato",
         "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 199462,
       "name": "El Gato",
       "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 140956,
-      "name": "El Chueco Galindo",
-      "url": "https://open.spotify.com/track/3nEugNej2Gs6GbEnK0wSnu"
     },
     {
       "added_at": "2024-07-03 18:08:34",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
-        "name": "Qu\u00e9 Barbaridad: Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/4WZlLb4JZKMBTl7EmUX9Yr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "El Chulo",
-      "url": "https://open.spotify.com/track/5hJtSEZbRc7oBBfysp10Cq"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
         "name": "Barquillero",
         "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 243500,
       "name": "El 2 Estados",
       "url": "https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
+        "name": "Qu\u00e9 Barbaridad: Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/4WZlLb4JZKMBTl7EmUX9Yr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "El Chulo",
+      "url": "https://open.spotify.com/track/5hJtSEZbRc7oBBfysp10Cq"
     },
     {
       "added_at": "2024-07-03 18:08:34",

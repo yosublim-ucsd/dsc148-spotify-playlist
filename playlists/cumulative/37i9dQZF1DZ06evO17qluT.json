@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is BK. The essential tracks, all in one playlist.",
+  "description": "This is BK. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is BK",
   "tracks": [
     {
@@ -1404,10 +1404,64 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 471767,
       "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
       "url": "https://open.spotify.com/track/6HaTYIUKd8SzdvGOfutBRD"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
+        "url": "https://open.spotify.com/album/7oQOrbVZ1kzPRcWuAtbCwO"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/3zX1qzXquYYO2AbRoBgHsa"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        },
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Diomedes",
+          "url": "https://open.spotify.com/artist/3DcCt9JGd15ch6wcy2F4iD"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471767,
+      "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/5thI5mpHV3OUTDnObBWaQ0"
     },
     {
       "album": {

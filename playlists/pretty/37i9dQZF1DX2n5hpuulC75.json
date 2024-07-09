@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 1671,
+  "num_followers": 1708,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg"
-      },
-      "artists": [
-        {
-          "name": "Jack Grace",
-          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "EP 2",
@@ -387,6 +371,22 @@
       "duration_ms": 170404,
       "name": "You",
       "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg"
+      },
+      "artists": [
+        {
+          "name": "Jack Grace",
+          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/241mYCg9mXZXgfTAlTsktH"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
+        "name": "Edition",
+        "url": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
       },
       "artists": [
         {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
+      "duration_ms": 115000,
+      "name": "Edition",
+      "url": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -535,22 +551,6 @@
       "duration_ms": 278959,
       "name": "downstate - Ara Koufax Remix",
       "url": "https://open.spotify.com/track/4iYwaMVjH0E0QuSTWZlWg7"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Edition",
-        "url": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Edition",
-      "url": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
     },
     {
       "added_at": "2018-12-11 21:12:31",

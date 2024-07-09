@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,859 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,974 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 40 | [SILHOUETTE](https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [REMNANT](https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV) | 3:53 |
 | 41 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
 | 42 | [Fear of Flying](https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 5:39 |
-| 43 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
-| 44 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
+| 43 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |
+| 44 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
 | 45 | [image no\. 4](https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8), [Image Tapes](https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:05 |
 | 46 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
 | 47 | [The Rhythm Of A Dividing Pair](https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Undivided Five](https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl) | 4:52 |

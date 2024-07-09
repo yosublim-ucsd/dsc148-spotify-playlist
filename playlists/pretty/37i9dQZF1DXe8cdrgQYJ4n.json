@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18231,
+  "num_followers": 18234,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 208571,
-      "name": "Selfish (Feat. Woo)",
-      "url": "https://open.spotify.com/track/6De1dLF23zuUzf5jbh2vI1"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 193790,
       "name": "Missing You (feat. Dvwn)",
       "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "Selfish (Feat. Woo)",
+      "url": "https://open.spotify.com/track/6De1dLF23zuUzf5jbh2vI1"
     },
     {
       "added_at": "2024-03-27 05:45:57",

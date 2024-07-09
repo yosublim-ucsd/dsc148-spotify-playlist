@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This is: Passion. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Passion. The essential tracks, all in one playlist.",
   "name": "This Is Passion",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 381389,
       "name": "All About You - Live From Passion 2023",
       "url": "https://open.spotify.com/track/51bD1BgLvC8ZMSM5nBCHjU"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 309093,
       "name": "Behold The Lamb - Live",
       "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 432106,
       "name": "Bigger Than I Thought - Live",
       "url": "https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 352520,
       "name": "Breakthrough Miracle Power",
       "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 300933,
       "name": "Follow You Anywhere - Live",
       "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 298520,
       "name": "Glorious Day - Live",
       "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 266316,
       "name": "God Really Loves Us - Live From Passion 2022",
       "url": "https://open.spotify.com/track/1jn04FVADgMstxG6WyBbX5"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 291600,
       "name": "How Great Is Our God - Live",
       "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 396666,
       "name": "I Stand Amazed (How Marvelous)",
       "url": "https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "I've Witnessed It - Single Version",
       "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 327586,
       "name": "It Is Finished - Live",
       "url": "https://open.spotify.com/track/6CAEUmlr6iQeJRqgJXkouf"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 239628,
       "name": "One Thing Remains - Radio Version",
       "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 366295,
       "name": "Waiting Here For You - Live",
       "url": "https://open.spotify.com/track/3oSQOGiP2Zl0NukkKJOgwx"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 259756,
       "name": "Who Is Like The Lord - Live From Passion 2023",
       "url": "https://open.spotify.com/track/0oaafO2efqhUqcLZWH6VSw"

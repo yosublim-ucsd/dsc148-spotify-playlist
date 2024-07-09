@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 316455,
+  "num_followers": 316498,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -167,26 +167,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
-      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Telegrama",
         "url": "https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 219375,
       "name": "Telegrama",
       "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
+      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
         "name": "O Amor Venceu",
         "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+        "name": "Caf\u00e9 da MaLu, Vol. 04",
+        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+      "duration_ms": 163076,
+      "name": "P\u00e9 na Areia",
+      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -1011,22 +1027,6 @@
       "duration_ms": 254858,
       "name": "Na Jornada - Remasterizado",
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     },
     {
       "added_at": "2024-07-05 13:48:30",

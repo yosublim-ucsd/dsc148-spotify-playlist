@@ -1999,6 +1999,32 @@
     },
     {
       "album": {
+        "name": "Manjaabi",
+        "url": "https://open.spotify.com/album/6SMtqT2P3YfPZ2BPq4TGJr"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Efy Music",
+          "url": "https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY"
+        },
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291428,
+      "name": "Manjaabi",
+      "url": "https://open.spotify.com/track/28zlLbXJ0EyLJG0GI3JQ2U"
+    },
+    {
+      "album": {
         "name": "MANKA",
         "url": "https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV"
       },

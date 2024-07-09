@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > Con todo el sabor de la vitamina G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,458 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,558 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 99 | [Ebrio de Amor](https://open.spotify.com/track/2h9eJrxNG298kW8ar3Oci9) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Ebrio de Amor](https://open.spotify.com/album/7zaRBfzLrYisxc5092BkLj) | 2:46 |
 | 100 | [En Mi Defensa](https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Mi Defensa](https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W) | 3:06 |
 
-Snapshot ID: `Zlnt2wAAAAA+jcMnnLgmcqHUgTem0L8p`
+Snapshot ID: `Zow8xgAAAAAbUjIFR6Rv6d++aGy3jRNW`

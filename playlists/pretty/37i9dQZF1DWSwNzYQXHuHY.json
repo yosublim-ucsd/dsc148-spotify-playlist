@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9802,
+  "num_followers": 9800,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
+        "name": "Love Diary (Back to You X Lee MinHyuk)",
+        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Love Diary (Back to You X Lee MinHyuk)",
+      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
         "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
         "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 201238,
       "name": "Traffic Accident",
       "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
-        "name": "Love Diary (Back to You X Lee MinHyuk)",
-        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Love Diary (Back to You X Lee MinHyuk)",
-      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
     },
     {
       "added_at": "2024-06-05 03:49:47",

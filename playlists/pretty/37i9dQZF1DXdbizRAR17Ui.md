@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,867 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,911 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 19 | [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 |
 | 20 | [Lay It On The Line](https://open.spotify.com/track/6Vaj44ivQoT7np1gHCFik0) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Lay It On The Line](https://open.spotify.com/album/4rmqHr3NzJTf5krmooYend) | 4:38 |
 | 21 | [MY LOVER'S MIND](https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [MY LOVER'S MIND](https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is) | 3:23 |
-| 22 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
+| 22 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
 | 23 | [Easy](https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:08 |
-| 24 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |
-| 25 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
+| 24 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
+| 25 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |
 | 26 | [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 |
 | 27 | [You Said No](https://open.spotify.com/track/7ys8pYoFuFocTLF6ng80vK) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [You Said No](https://open.spotify.com/album/0tw0AB7jgkvyBMQHN1YLP4) | 3:39 |
-| 28 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
+| 28 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
 | 29 | [Peperuke \(feat\. Nes Mburu\)](https://open.spotify.com/track/0d3MdoK5iKTFOUPQadokKZ) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Peperuke \(feat\. Nes Mburu\)](https://open.spotify.com/album/3PNSiqqwzdFfy1U5Xvkqc0) | 3:36 |
 | 30 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 31 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 37 | [DON'T KNOW WHERE I'M GOING](https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DON’T KNOW WHERE I’M GOING](https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I) | 3:06 |
 | 38 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
 | 39 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
-| 40 | [End Of The Queue](https://open.spotify.com/track/7LxXego9BWbdZmUXe6YZ5Y) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [End Of The Queue](https://open.spotify.com/album/4PoAd5i6oyzaqDvaqO046x) | 3:14 |
+| 40 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
 | 41 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
-| 42 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
+| 42 | [End Of The Queue](https://open.spotify.com/track/7LxXego9BWbdZmUXe6YZ5Y) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [End Of The Queue](https://open.spotify.com/album/4PoAd5i6oyzaqDvaqO046x) | 3:14 |
 | 43 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 44 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
 | 45 | [Need 2](https://open.spotify.com/track/0wkr8bQUqNLdfmbeDUJMqg) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Need 2](https://open.spotify.com/album/79ZaIlw5sTErnWdbgJvFQ0) | 2:05 |

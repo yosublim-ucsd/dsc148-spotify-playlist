@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,356 likes - 125 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,449 likes - 125 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 21 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 |
 | 22 | [Catacea Animals](https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Catacea Animals](https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m) | 2:28 |
 | 23 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 |
-| 24 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 |
-| 25 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 |
+| 24 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 |
+| 25 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 |
 | 26 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 |
 | 27 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 |
 | 28 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 |
-| 29 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 |
-| 30 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 |
+| 29 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 |
+| 30 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 |
 | 31 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 |
 | 32 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 |
 | 33 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 70 | [Cosmic Major](https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Cosmic Major](https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF) | 2:13 |
 | 71 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 |
 | 72 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 |
-| 73 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 |
-| 74 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 |
+| 73 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 |
+| 74 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 |
 | 75 | [October 21st](https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [October 21st](https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC) | 2:24 |
 | 76 | [Da Lat](https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [Da Lat](https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS) | 2:02 |
 | 77 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 92 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 |
 | 93 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 |
 | 94 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 |
-| 95 | [Boundless](https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Boundless](https://open.spotify.com/album/1HjsGOiExaQWXmw4SMTGrh) | 3:07 |
-| 96 | [New Roads](https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:10 |
+| 95 | [New Roads](https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:10 |
+| 96 | [Boundless](https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Boundless](https://open.spotify.com/album/1HjsGOiExaQWXmw4SMTGrh) | 3:07 |
 | 97 | [Balcons Verdoyants](https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Balcons Verdoyants](https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq) | 3:25 |
 | 98 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 |
 | 99 | [Lost](https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lost](https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa) | 3:07 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 119 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 |
 | 120 | [Nonversations](https://open.spotify.com/track/29LiGEmCwtgvIATHl9kpwY) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Nonversations](https://open.spotify.com/album/0LJEhErPCT94DCSflFQuVG) | 4:00 |
 | 121 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 |
-| 122 | [Alheimur Nature](https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Alheimur Nature](https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK) | 2:48 |
-| 123 | [Nota Placidità](https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Nota Placidità](https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC) | 2:31 |
+| 122 | [Nota Placidità](https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Nota Placidità](https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC) | 2:31 |
+| 123 | [Alheimur Nature](https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Alheimur Nature](https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK) | 2:48 |
 | 124 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
 | 125 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 |
 

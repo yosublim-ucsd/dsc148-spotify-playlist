@@ -2,7 +2,7 @@
 
 ### [Habibi Gang Gang](https://open.spotify.com/playlist/37i9dQZF1DX3MGdnF1V53j)
 
-> Inez on the cover of Habibi Gang Gang!
+> L'Algérino & Soolking on the cover of Habibi Gang Gang!
 
 110 songs - 5 hr 19 min
 

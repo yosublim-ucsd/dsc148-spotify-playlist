@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 172137,
       "name": "BERLIN",
       "url": "https://open.spotify.com/track/53m7xHYP22udP4Vsftr48p"
@@ -350,6 +350,24 @@
       "duration_ms": 317369,
       "name": "Code",
       "url": "https://open.spotify.com/track/66F8c3Q3fAIdemuIjAQUKD"
+    },
+    {
+      "album": {
+        "name": "Contrat (Freestyle)",
+        "url": "https://open.spotify.com/album/694G5fatgeyqNZhckry9k9"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186984,
+      "name": "Contrat (Freestyle)",
+      "url": "https://open.spotify.com/track/7mtSlXQIBeNlCUrPGWdZdW"
     },
     {
       "album": {
@@ -1155,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "SOMMET",
+        "url": "https://open.spotify.com/album/5tZPJfcLFCwma2ln8UaOHq"
+      },
+      "artists": [
+        {
+          "name": "EMP1RE",
+          "url": "https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214710,
+      "name": "SOMMET",
+      "url": "https://open.spotify.com/track/0BL3kRwVBhFH8pZ1NgLOIk"
+    },
+    {
+      "album": {
         "name": "Souk",
         "url": "https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2"
       },
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 357209,
       "name": "Wasitkom",
       "url": "https://open.spotify.com/track/3cRvl8WM9Rqn4J92Ud3tSa"

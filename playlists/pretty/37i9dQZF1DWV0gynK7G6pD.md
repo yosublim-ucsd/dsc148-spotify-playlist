@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Joe Hishaishi
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,969 likes - 56 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,011 likes - 56 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

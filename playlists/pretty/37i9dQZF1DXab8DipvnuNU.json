@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 32027,
+  "num_followers": 32053,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZTL1XgAAAABtfOGdSb5NZE7+nG7Pb3Dt",
+  "snapshot_id": "ZoxLbgAAAADE2myKvBSIONHLmHSECG3J",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "I Wanna Be Down",
-      "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Homebase",
@@ -555,6 +539,22 @@
       "duration_ms": 270973,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Right Here - Human Nature Radio Mix",
-      "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Word Up",
@@ -703,6 +687,22 @@
       "duration_ms": 346840,
       "name": "My Boo - Hitman's Club Mix",
       "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 306800,
       "name": "Footsteps in the Dark, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11"
     },
     {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Growing Pains",
@@ -947,22 +963,6 @@
       "duration_ms": 257866,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-06-16 17:58:31",

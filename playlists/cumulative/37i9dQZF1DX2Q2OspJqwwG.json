@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia. Cover: Echipa na\u021bional\u0103 de fotbal a Rom\u00e2niei \u26bd\ufe0f\ud83e\udee1",
+  "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
   "name": "Viral \u00een Rom\u00e2nia",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 150965,
       "name": "Ador, Ador",
       "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "Arielle",
         "url": "https://open.spotify.com/album/2PIJtojIojRlk1U98MUpq9"
       },
@@ -92,10 +118,50 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/6IARxzqav5LIjyqXYIR7Fd"
+    },
+    {
+      "album": {
+        "name": "Amo aller Amos",
+        "url": "https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109081,
+      "name": "Amo aller Amos",
+      "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
+    },
+    {
+      "album": {
+        "name": "Amo, Amo",
+        "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147477,
+      "name": "Amo, Amo",
+      "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
     },
     {
       "album": {
@@ -136,6 +202,28 @@
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
+    },
+    {
+      "album": {
+        "name": "Au!",
+        "url": "https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8"
+      },
+      "artists": [
+        {
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Moza Kaliza",
+          "url": "https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Au!",
+      "url": "https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF"
     },
     {
       "album": {
@@ -602,7 +690,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 153641,
       "name": "Hai, Rom\u00e2nia!",
       "url": "https://open.spotify.com/track/3JW630Ce4LbN0w6kkPyEJG"
@@ -1243,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86983,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
+    },
+    {
+      "album": {
         "name": "No Face",
         "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
       },
@@ -1276,7 +1382,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 153000,
       "name": "Nop\u021bile",
       "url": "https://open.spotify.com/track/1edVyy7z6tX1Bmt0N6W8iL"
@@ -1524,7 +1630,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 170063,
       "name": "Romania Euro 2024",
       "url": "https://open.spotify.com/track/5tyuoJ7Lpu2SRAGpBeOwAG"
@@ -1876,10 +1982,32 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 179861,
       "name": "Vina mea - Acoustic Version",
       "url": "https://open.spotify.com/track/7rg7xtwpidBe1X0YzSVCsW"
+    },
+    {
+      "album": {
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
       "album": {

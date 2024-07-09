@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1048944,
+  "num_followers": 1049036,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Space Waves",
+        "url": "https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD"
+      },
+      "artists": [
+        {
+          "name": "Ben Elson",
+          "url": "https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa"
+        }
+      ],
+      "duration_ms": 168336,
+      "name": "UNIX 82",
+      "url": "https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "A Sea of Stars (Miami Nights 1984 Remix)",
         "url": "https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 211200,
       "name": "A Sea of Stars (Miami Nights 1984 Remix)",
       "url": "https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Space Waves",
-        "url": "https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD"
-      },
-      "artists": [
-        {
-          "name": "Ben Elson",
-          "url": "https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa"
-        }
-      ],
-      "duration_ms": 168336,
-      "name": "UNIX 82",
-      "url": "https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -419,6 +419,26 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "New & Improved",
+        "url": "https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa"
+      },
+      "artists": [
+        {
+          "name": "TWRP",
+          "url": "https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr"
+        },
+        {
+          "name": "Magic Sword",
+          "url": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+        }
+      ],
+      "duration_ms": 308493,
+      "name": "Terraform",
+      "url": "https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Flashbacks (Arcade High Remix)",
         "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 232411,
       "name": "Flashbacks (Arcade High Remix)",
       "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "New & Improved",
-        "url": "https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa"
-      },
-      "artists": [
-        {
-          "name": "TWRP",
-          "url": "https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr"
-        },
-        {
-          "name": "Magic Sword",
-          "url": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-        }
-      ],
-      "duration_ms": 308493,
-      "name": "Terraform",
-      "url": "https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Getting Started",
-        "url": "https://open.spotify.com/album/2ve5ciAj64GM826NChWq6u"
-      },
-      "artists": [
-        {
-          "name": "The Toxic Avenger",
-          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
-        }
-      ],
-      "duration_ms": 358413,
-      "name": "Getting Started",
-      "url": "https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Getting Started",
+        "url": "https://open.spotify.com/album/2ve5ciAj64GM826NChWq6u"
+      },
+      "artists": [
+        {
+          "name": "The Toxic Avenger",
+          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
+        }
+      ],
+      "duration_ms": 358413,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Lost in the Cloud",
         "url": "https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 225000,
       "name": "Lost in the Cloud",
       "url": "https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Floating Point",
+        "url": "https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu"
+      },
+      "artists": [
+        {
+          "name": "Massive Z",
+          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
+        },
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        }
+      ],
+      "duration_ms": 268805,
+      "name": "Floating Point",
+      "url": "https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -671,26 +691,6 @@
       "duration_ms": 181565,
       "name": "Out of Luck - Instrumental",
       "url": "https://open.spotify.com/track/6SjnM6fA2ZEVlaQzK04Tll"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Floating Point",
-        "url": "https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu"
-      },
-      "artists": [
-        {
-          "name": "Massive Z",
-          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
-        },
-        {
-          "name": "Rogue VHS",
-          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
-        }
-      ],
-      "duration_ms": 268805,
-      "name": "Floating Point",
-      "url": "https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Metaversal",
+        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 339333,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Fractal Forms",
         "url": "https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 235862,
       "name": "Fractal Forms",
       "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Metaversal",
-        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
-      },
-      "artists": [
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 339333,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Remoteness",
+        "url": "https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF"
+      },
+      "artists": [
+        {
+          "name": "Donbor",
+          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
+        }
+      ],
+      "duration_ms": 344347,
+      "name": "Remoteness",
+      "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Eleos",
         "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 394999,
       "name": "Eleos",
       "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Remoteness",
-        "url": "https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF"
-      },
-      "artists": [
-        {
-          "name": "Donbor",
-          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
-        }
-      ],
-      "duration_ms": 344347,
-      "name": "Remoteness",
-      "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Third Dimension (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5gVK9yIBFhOh8SN9WtFayk"
-      },
-      "artists": [
-        {
-          "name": "Dreaming Cooper",
-          "url": "https://open.spotify.com/artist/0dD51H4HVOcfotUUZ3piMh"
-        }
-      ],
-      "duration_ms": 463000,
-      "name": "Third Dimension - Remastered 2022",
-      "url": "https://open.spotify.com/track/6vNziom8FQxs0ZJ2s8Rb7k"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
       },
@@ -1723,18 +1707,42 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
-        "url": "https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY"
+        "name": "Third Dimension (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5gVK9yIBFhOh8SN9WtFayk"
       },
       "artists": [
         {
-          "name": "Baldocaster",
-          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+          "name": "Dreaming Cooper",
+          "url": "https://open.spotify.com/artist/0dD51H4HVOcfotUUZ3piMh"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
-      "url": "https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p"
+      "duration_ms": 463000,
+      "name": "Third Dimension - Remastered 2022",
+      "url": "https://open.spotify.com/track/6vNziom8FQxs0ZJ2s8Rb7k"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/5QTDZ9YYznQVSu1RIQHnO6"
+      },
+      "artists": [
+        {
+          "name": "Ampersounds",
+          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        }
+      ],
+      "duration_ms": 363000,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/7oGJe42CJT5sqQOKfilqmW"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1763,26 +1771,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/5QTDZ9YYznQVSu1RIQHnO6"
+        "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
+        "url": "https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY"
       },
       "artists": [
         {
-          "name": "Ampersounds",
-          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
-        },
-        {
-          "name": "Fred Falke",
-          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
-        },
-        {
-          "name": "Zen Freeman",
-          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+          "name": "Baldocaster",
+          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
         }
       ],
-      "duration_ms": 363000,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/7oGJe42CJT5sqQOKfilqmW"
+      "duration_ms": 202886,
+      "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
+      "url": "https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/4spESXBYtw3ZhNL65irFQK"
-      },
-      "artists": [
-        {
-          "name": "PiMO",
-          "url": "https://open.spotify.com/artist/7ADKytIkgNPkHWSJTiqTb0"
-        }
-      ],
-      "duration_ms": 188011,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/62FkSw742wuXEtfQLWc0qr"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Dissolve",
         "url": "https://open.spotify.com/album/2n36QdpXHLs96pWGV9TwOP"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 296410,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/4Ikfp3eIvSzztTVNZO1Mez"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/4spESXBYtw3ZhNL65irFQK"
+      },
+      "artists": [
+        {
+          "name": "PiMO",
+          "url": "https://open.spotify.com/artist/7ADKytIkgNPkHWSJTiqTb0"
+        }
+      ],
+      "duration_ms": 188011,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/62FkSw742wuXEtfQLWc0qr"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2151,18 +2151,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Marble Arch",
-        "url": "https://open.spotify.com/album/001jygWndN8AV9DxVxNrEU"
+        "name": "Wavefinder",
+        "url": "https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu"
       },
       "artists": [
         {
-          "name": "Oberst & Buchner",
-          "url": "https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw"
+          "name": "Makeup And Vanity Set",
+          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
+        },
+        {
+          "name": "Sferro",
+          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
         }
       ],
-      "duration_ms": 414231,
-      "name": "Moving a Mountain",
-      "url": "https://open.spotify.com/track/4Yek2efe39yMj8cXnXPti8"
+      "duration_ms": 148340,
+      "name": "Innercomm",
+      "url": "https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2187,22 +2191,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Wavefinder",
-        "url": "https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu"
+        "name": "Marble Arch",
+        "url": "https://open.spotify.com/album/001jygWndN8AV9DxVxNrEU"
       },
       "artists": [
         {
-          "name": "Makeup And Vanity Set",
-          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
-        },
-        {
-          "name": "Sferro",
-          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
+          "name": "Oberst & Buchner",
+          "url": "https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw"
         }
       ],
-      "duration_ms": 148340,
-      "name": "Innercomm",
-      "url": "https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0"
+      "duration_ms": 414231,
+      "name": "Moving a Mountain",
+      "url": "https://open.spotify.com/track/4Yek2efe39yMj8cXnXPti8"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0412\u0435\u0442\u0440\u0443",
-        "url": "https://open.spotify.com/album/06bV1es0o3jgzdmpbA4RND"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0443\u0447",
-          "url": "https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ"
-        }
-      ],
-      "duration_ms": 195841,
-      "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0432\u0435\u0442\u0440\u0443",
-      "url": "https://open.spotify.com/track/6q3DoBmtW3fV8FXwz6TeSn"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Neonworld EP",
-        "url": "https://open.spotify.com/album/7dm3Znsm6dn0tqHmkaR13a"
+        "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0412\u0435\u0442\u0440\u0443",
+        "url": "https://open.spotify.com/album/06bV1es0o3jgzdmpbA4RND"
       },
       "artists": [
         {
-          "name": "Ingo Herrmann",
-          "url": "https://open.spotify.com/artist/1BmhDaTOi6GpVgiDAHasTX"
+          "name": "\u041b\u0443\u0447",
+          "url": "https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ"
         }
       ],
-      "duration_ms": 166346,
-      "name": "Hawkins",
-      "url": "https://open.spotify.com/track/7q8JOzbjDAh2Ol9DtjkR5U"
+      "duration_ms": 195841,
+      "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0432\u0435\u0442\u0440\u0443",
+      "url": "https://open.spotify.com/track/6q3DoBmtW3fV8FXwz6TeSn"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2455,6 +2439,22 @@
       "duration_ms": 219131,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/2gncVoajwxryoFS3NbAyJD"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Neonworld EP",
+        "url": "https://open.spotify.com/album/7dm3Znsm6dn0tqHmkaR13a"
+      },
+      "artists": [
+        {
+          "name": "Ingo Herrmann",
+          "url": "https://open.spotify.com/artist/1BmhDaTOi6GpVgiDAHasTX"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "Hawkins",
+      "url": "https://open.spotify.com/track/7q8JOzbjDAh2Ol9DtjkR5U"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Infinite Jogger",
-        "url": "https://open.spotify.com/album/5GaaKGIqwuv4yg5NV19aQu"
-      },
-      "artists": [
-        {
-          "name": "Pink Pyramid",
-          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Infinite Jogger",
-      "url": "https://open.spotify.com/track/2zJHMUjk8MTBg1mOpQhujA"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "life support",
         "url": "https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 155227,
       "name": "keep on",
       "url": "https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Infinite Jogger",
+        "url": "https://open.spotify.com/album/5GaaKGIqwuv4yg5NV19aQu"
+      },
+      "artists": [
+        {
+          "name": "Pink Pyramid",
+          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Infinite Jogger",
+      "url": "https://open.spotify.com/track/2zJHMUjk8MTBg1mOpQhujA"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2659,18 +2659,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Ellipse",
-        "url": "https://open.spotify.com/album/34ak2HWS5fLLQoG4QtSbVx"
+        "name": "From The Bottom Of My Heart",
+        "url": "https://open.spotify.com/album/6lFso6UovOAGFR1BtYXfHp"
       },
       "artists": [
         {
-          "name": "XOR Gate",
-          "url": "https://open.spotify.com/artist/57kM3rAXbtSjGfbvfT7YGo"
+          "name": "Leonardus",
+          "url": "https://open.spotify.com/artist/5ap81YY6p3jVUz7efio00j"
         }
       ],
-      "duration_ms": 295310,
-      "name": "Ellipse",
-      "url": "https://open.spotify.com/track/48791UfuvihI3pL5GX05WZ"
+      "duration_ms": 350920,
+      "name": "From The Bottom Of My Heart",
+      "url": "https://open.spotify.com/track/57Plqw6EXfqcQ2AJrdWLOS"
     }
   ],
   "unique_name": "Retrowave // Outrun",

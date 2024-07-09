@@ -6526,7 +6526,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 97500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4k4XSebMs9YTob9EteN0rQ"
@@ -20301,6 +20301,24 @@
     },
     {
       "album": {
+        "name": "Midnight Groove",
+        "url": "https://open.spotify.com/album/4cS4FNN1tFk9sT8avKlsSD"
+      },
+      "artists": [
+        {
+          "name": "Nova Night",
+          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Midnight Groove",
+      "url": "https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB"
+    },
+    {
+      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/7z60Si2DbAvtYKL4jS0pej"
       },
@@ -23995,6 +24013,28 @@
     },
     {
       "album": {
+        "name": "handful",
+        "url": "https://open.spotify.com/album/61InI8u58RhlqAfoYmG1gL"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138766,
+      "name": "Ovinhos",
+      "url": "https://open.spotify.com/track/4EJs8WoephOYOiGcHR7QUQ"
+    },
+    {
+      "album": {
         "name": "Pacific Coast",
         "url": "https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8"
       },
@@ -25264,7 +25304,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 122666,
       "name": "Photograf Of My Room",
       "url": "https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z"

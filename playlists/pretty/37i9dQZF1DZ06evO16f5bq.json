@@ -1,12 +1,12 @@
 {
-  "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 141147,
+  "description": "This is MC Cabelinho. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 141261,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAfc7+dIp3LtlTmIAy46XoY",
+  "snapshot_id": "ZonagAAAAABrM2ALlLF/t9w3CjjMagOJ",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #6: Era uma Vez",
-        "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
+        "name": "Poesia Ac\u00fastica #6 Era uma Vez",
+        "url": "https://open.spotify.com/album/4gQwNkMPadHDhe8yFfJbca"
       },
       "artists": [
         {
@@ -325,8 +325,8 @@
         }
       ],
       "duration_ms": 577819,
-      "name": "Poesia Ac\u00fastica #6: Era uma Vez",
-      "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
+      "name": "Poesia Ac\u00fastica #6 Era uma Vez",
+      "url": "https://open.spotify.com/track/6ZnVSNNryDmF0w1j73Fndd"
     },
     {
       "added_at": null,
@@ -851,54 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "VOC\u00ca&EU",
-      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RICKNELSO",
-        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Leozin",
-          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "Dj Win",
-          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "L\u00e1 no PPG",
-      "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
         "url": "https://open.spotify.com/album/6XzpdOdLfRWWpH1Eh5rra8"
       },
@@ -947,6 +899,54 @@
       "duration_ms": 682816,
       "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
       "url": "https://open.spotify.com/track/0OFWfxaRyyXe3zNUwDf7i8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 198231,
+      "name": "VOC\u00ca&EU",
+      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RICKNELSO",
+        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "L\u00e1 no PPG",
+      "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
     },
     {
       "added_at": null,
@@ -1143,6 +1143,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "GOTHAM",
+      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
       },
@@ -1171,46 +1211,6 @@
       "duration_ms": 174193,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/1pYPtkKcoJpXcqfSNuGjRg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "GOTHAM",
-      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vetin",
-        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
     },
     {
       "added_at": null,
@@ -1387,6 +1387,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "G\u00eanio",
+        "url": "https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "Fe Blindada",
+      "url": "https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -1411,30 +1435,6 @@
       "duration_ms": 160919,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/168LaJOA6hVLqAHJjWwozO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00eanio",
-        "url": "https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 178165,
-      "name": "Fe Blindada",
-      "url": "https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: mrld
 
-254 songs - 14 hr 24 min
+256 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 | 2024-01-26 | 2024-07-02 |
 | [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 |  |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-10-12 | 2023-07-29 |
+| [Galit](https://open.spotify.com/track/34WoMs2Lg6hG2VoeFehBwS) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u) | [Galit](https://open.spotify.com/album/4NpsJCdOhCApSkJEuSzXSJ) | 3:05 | 2024-07-08 |  |
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-08 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-15 | 2024-06-09 |
 | [Gunita](https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Gunita](https://open.spotify.com/album/26WdICKZG6NBoLvCXGtJkA) | 3:56 | 2023-07-13 | 2023-10-26 |
@@ -197,6 +198,7 @@
 | [Play No Games](https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Play No Games](https://open.spotify.com/album/1GFIbb6O9Z7kbR4bXuT6zl) | 2:49 | 2023-07-28 | 2023-10-12 |
 | [Playaz Diary](https://open.spotify.com/track/38aXG1JKhrtwp9W9nY80TI) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Playaz Diary](https://open.spotify.com/album/5IIqgH8FutgMzWsS8AxSUM) | 2:25 | 2024-02-06 |  |
 | [Project 4](https://open.spotify.com/track/0vzeoCC3jhrWsZMRUBCR4m) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Project 4](https://open.spotify.com/album/10B0KRoGVm7Pufn2144epG) | 3:30 | 2024-03-29 |  |
+| [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-08 |  |
 | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/track/3tCYXh7yjlu45fXgq85LmF) | [Swizzy Max](https://open.spotify.com/artist/7cDiSfjL2vCN5RHjDZocrt), [Mojia](https://open.spotify.com/artist/402vcacHfl5PtJLptZ2N8L) | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/album/2JjEzLVaMzJxQkM8vslmYC) | 2:54 | 2022-10-12 | 2023-07-29 |
 | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/track/1RyNTn3xMOxEEKBPPNv26Y) | [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Millennium PH](https://open.spotify.com/artist/0Rqq0FtfXdLCVTMi4iuM0o), [SIK4M1](https://open.spotify.com/artist/1djddcVQAVA3lJTLmzIj7e) | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/album/4RUoQYHy04Sm41QDwB9Tyz) | 3:31 | 2022-10-12 | 2023-07-29 |
 | [RBND](https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs) | [Zachary](https://open.spotify.com/artist/5rqiwyKEa9FZTy78BVNRSc) | [RBND](https://open.spotify.com/album/2IgRAdB7ITP9m0NQAn9mrM) | 2:57 | 2022-12-14 | 2023-08-04 |

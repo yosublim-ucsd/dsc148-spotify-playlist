@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "CHEHRE",
+        "url": "https://open.spotify.com/album/7qA8fbtcZh93BVlzbUeS4J"
+      },
+      "artists": [
+        {
+          "name": "Vipul Singh Verma",
+          "url": "https://open.spotify.com/artist/1gZkFfU1aSn1idsp5XPUhV"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363736,
+      "name": "CHEHRE",
+      "url": "https://open.spotify.com/track/0O46s6kYXJKLlxdtb4CGPE"
+    },
+    {
+      "album": {
         "name": "Delhi Drill",
         "url": "https://open.spotify.com/album/3V0FSvHmc5ObxF1ZodKwYW"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 196923,
       "name": "Ghir Ghir Aayi",
       "url": "https://open.spotify.com/track/1kmabZtXNXA7YjcYnQlSTO"
@@ -3275,6 +3293,28 @@
     },
     {
       "album": {
+        "name": "Mehfil",
+        "url": "https://open.spotify.com/album/13ewHBHrK075I2SZVgzfMD"
+      },
+      "artists": [
+        {
+          "name": "Anjana Ankur Singh",
+          "url": "https://open.spotify.com/artist/3XAfGV9ChPNFOLynwBI2WP"
+        },
+        {
+          "name": "Arpita Chakraborty",
+          "url": "https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207460,
+      "name": "Mehfil",
+      "url": "https://open.spotify.com/track/5vSY2qqbkiz5Wd5CBzhK1i"
+    },
+    {
+      "album": {
         "name": "Mehki",
         "url": "https://open.spotify.com/album/3be5Wwmsm1z3pXzDQnmFzQ"
       },
@@ -3480,7 +3520,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 144641,
       "name": "Na Jaa Re",
       "url": "https://open.spotify.com/track/2jeoBarLHPGSvGzywjhkkH"

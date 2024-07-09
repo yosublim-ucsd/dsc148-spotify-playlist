@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-379 songs - 18 hr 3 min
+380 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Pesadelo Bobo \- Ao Vivo](https://open.spotify.com/track/4UlbyLs9juGaiyQ9rCCrKF) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:56 | 2024-01-29 |  |
 | [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/1xg3EbmhAr1cfNOA55pvKH) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Misturadin 2 \(Ao Vivo\)](https://open.spotify.com/album/66bqfoGm8q3oh9xEOeoX7t) | 2:43 | 2024-01-29 |  |
 | [Petit Gateau \- Ao Vivo](https://open.spotify.com/track/3x3E9rYIFnvtHprtojqShL) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:57 | 2024-03-26 |  |
+| [Pior Solteiro \(Ao Vivo\)](https://open.spotify.com/track/6sBNs72mnSj3SsYuM9LLJe) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Pior Solteiro \(Ao Vivo\)](https://open.spotify.com/album/5KtYUFF5zOttW9euRd9CQf) | 2:35 | 2024-07-08 |  |
 | [Planejei Reticências \- Ao Vivo](https://open.spotify.com/track/5TWOmFxdpcxzi1AcDBs3p5) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:56 | 2024-01-29 |  |
 | [Pode Beber](https://open.spotify.com/track/6f34JbYoEID5lpSm0b9oTq) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Pode Beber](https://open.spotify.com/album/4tyMJKJZMllDDV1wT9cqD8) | 3:00 | 2024-01-29 |  |
 | [Por Baixo dos Panos](https://open.spotify.com/track/5L9Y610Shi3MpcOgNDIpuq) | [Katia Cilene](https://open.spotify.com/artist/73Tzk23OwTSl6b3cUwWQrZ), [Simone e Simaria](https://open.spotify.com/artist/0wO1j9BcD3SWfSJ14ySbvy) | [Por Baixo dos Panos](https://open.spotify.com/album/70QKTMz79m4CaS83oxsBAn) | 3:20 | 2024-01-29 |  |
@@ -269,7 +270,7 @@
 | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/track/6sBvtoUiXy3fhgTvkln643) | [Raquel Carvalho](https://open.spotify.com/artist/5tTn59AuiKbHOo5KhGPUtk) | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/album/2gDRclbyCiPaXZ8A6zfMpc) | 2:40 | 2024-01-29 |  |
 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/6e5byyKtx6R0h66gagelPe) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/2eDXZQ6rgIN3nZ6lwXbONV) | 2:24 | 2024-01-29 |  |
 | [Quando Apaga A Luz \- Ao Vivo Em Recife / 2022](https://open.spotify.com/track/07s1Hh2REW8E72hIVrvSvw) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo Em Recife / 2022\)](https://open.spotify.com/album/7ylStqISbaQpFrTDKnuOcV) | 2:32 | 2024-01-30 | 2024-02-01 |
-| [quanto mais eu tento](https://open.spotify.com/track/11lQJI8QLOSVViDppxUS6g) | [ÁRIES](https://open.spotify.com/artist/7ekqvEncg22oPbTvmPzSl3) | [mero](https://open.spotify.com/album/5NnPwkup9CQ1J1odXq2dvp) | 4:14 | 2024-01-29 | 2024-07-07 |
+| [quanto mais eu tento](https://open.spotify.com/track/11lQJI8QLOSVViDppxUS6g) | [ÁRIES](https://open.spotify.com/artist/7ekqvEncg22oPbTvmPzSl3) | [mero](https://open.spotify.com/album/5NnPwkup9CQ1J1odXq2dvp) | 4:14 | 2024-01-29 |  |
 | [Que Amizade o Que \- Ao Vivo](https://open.spotify.com/track/40vuaFGNaX1A2ZR8I7FOam) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 2:50 | 2024-01-29 |  |
 | [Que Tal](https://open.spotify.com/track/1rOZjJNGL1LXuzRSlEpLpj) | [Imaginasamba](https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB) | [Que Tal](https://open.spotify.com/album/0O2BGw6VdvEJjTVg35umGV) | 2:34 | 2024-01-29 |  |
 | [Quem Pegou, Pegou \- Ao Vivo](https://open.spotify.com/track/6ctOtxi9OMzhEijZOz2jHV) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB) | 3:04 | 2024-01-29 |  |

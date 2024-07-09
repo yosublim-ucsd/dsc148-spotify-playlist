@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 552825,
+  "num_followers": 553001,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Meu Canto - EP",
-        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Me Espera",
-      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Meu Canto - EP",
+        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Me Espera",
+      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Eu",
         "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 301871,
       "name": "Eu",
       "url": "https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2024-06-28 03:00:00",

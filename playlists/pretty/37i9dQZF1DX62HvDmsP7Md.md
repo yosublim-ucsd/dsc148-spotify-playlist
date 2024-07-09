@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,289 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,414 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 3 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 |
 | 4 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 5 | [You Can Do It](https://open.spotify.com/track/4NTn0Yo8hTGW5tbBANBzfh) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ms\. Toi](https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl) | [War & Peace Vol\. 2 \(The Peace Disc\)](https://open.spotify.com/album/5rZuC67lXA5SI6f4n61gEw) | 4:19 |
-| 6 | [When the Last Time](https://open.spotify.com/track/0EXm0iaB0CzqtsB3VaupXj) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:14 |
-| 7 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
-| 8 | [Oochie Wally \- Remix](https://open.spotify.com/track/56DPW47j6NZnRye792oACa) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Bravehearts](https://open.spotify.com/artist/16HCiYXoNdjZDdKPaH03b8) | [The Essential Nas](https://open.spotify.com/album/2iCCHHtCaJkMJllROVYDGo) | 4:57 |
-| 9 | [E.I.](https://open.spotify.com/track/703b51gh4ah7GYTYwKphj5) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv) | 4:45 |
-| 10 | [Oh Boy](https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:24 |
-| 11 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
-| 12 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
+| 6 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
+| 7 | [Oochie Wally \- Remix](https://open.spotify.com/track/56DPW47j6NZnRye792oACa) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Bravehearts](https://open.spotify.com/artist/16HCiYXoNdjZDdKPaH03b8) | [The Essential Nas](https://open.spotify.com/album/2iCCHHtCaJkMJllROVYDGo) | 4:57 |
+| 8 | [E.I.](https://open.spotify.com/track/703b51gh4ah7GYTYwKphj5) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv) | 4:45 |
+| 9 | [Oh Boy](https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:24 |
+| 10 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
+| 11 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
+| 12 | [When the Last Time](https://open.spotify.com/track/0EXm0iaB0CzqtsB3VaupXj) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:14 |
 | 13 | [Hate It Or Love It \- G\-Unit Remix](https://open.spotify.com/track/6TYPoBrn53njY2C0WwdmA1) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Tony Yayo](https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 4:23 |
 | 14 | [Shake Ya Ass \(feat\. Pharrell Williams\)](https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 4:16 |
 | 15 | [Are You That Somebody](https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Are You That Somebody](https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD) | 4:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 64 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 65 | [Breathe, Stretch, Shake \(feat\. P\. Diddy\)](https://open.spotify.com/track/5qjESLw4uzDNvG2V5QIoaS) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Welcome Back](https://open.spotify.com/album/3Mb97a181fWxWHlGQGHTPO) | 3:17 |
 
-Snapshot ID: `Znx7gwAAAADYEs4IXftmmB/9S84X27pV`
+Snapshot ID: `Zovx4AAAAABaE+jSSBo0X7eHN6uxFtJj`

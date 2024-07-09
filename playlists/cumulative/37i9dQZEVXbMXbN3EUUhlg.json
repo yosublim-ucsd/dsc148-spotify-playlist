@@ -13112,7 +13112,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -13330,7 +13330,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 382222,
       "name": "Melhor Dia 13 - Era Uma Vez",
       "url": "https://open.spotify.com/track/0aXHnXG1twZEc7AUGTK4Fo"
@@ -13430,7 +13430,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 341408,
       "name": "Melhor Vibe",
       "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
@@ -19539,6 +19539,28 @@
     },
     {
       "album": {
+        "name": "Se Voc\u00ea Tivesse Cuidado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0VvN2YB5GN2ndsQ3vI1h5e"
+      },
+      "artists": [
+        {
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170664,
+      "name": "Se Voc\u00ea Tivesse Cuidado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2k4zMz55ILi91iGYCWHpVO"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -21677,6 +21699,28 @@
     },
     {
       "album": {
+        "name": "Tigrinho",
+        "url": "https://open.spotify.com/album/05OsrGORxKEKWXziKlgYKV"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        },
+        {
+          "name": "Guerra Neto",
+          "url": "https://open.spotify.com/artist/06BpHz4LyxvDFHPYron5jO"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120714,
+      "name": "Tigrinho",
+      "url": "https://open.spotify.com/track/6fORpZeVACbxNYPILlldfZ"
+    },
+    {
+      "album": {
         "name": "Todo Mundo Ama O Chris (Ao Vivo)",
         "url": "https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX"
       },
@@ -23362,7 +23406,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 243870,
       "name": "Vem Desestressar",
       "url": "https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E"

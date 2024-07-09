@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Mickey Guyton
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,488 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,502 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

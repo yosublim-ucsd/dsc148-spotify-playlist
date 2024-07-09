@@ -1,12 +1,12 @@
 {
-  "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 279311,
+  "description": "This is Skillet. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 279398,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAADaLbHsCaMc4RjaQhtkkDcn",
+  "snapshot_id": "ZonagAAAAAC1phADGZepCfMjWTpe0LuU",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Awake and Alive",
-      "url": "https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3"
+      "duration_ms": 260786,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg"
     },
     {
       "added_at": null,
@@ -167,22 +167,6 @@
       "duration_ms": 213586,
       "name": "Back from the Dead",
       "url": "https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 176706,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Open Wounds",
-      "url": "https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 194773,
+      "name": "Open Wounds",
+      "url": "https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 206182,
       "name": "Shout Your Freedom",
       "url": "https://open.spotify.com/track/4tLvkZX8t5bVltQwe4Cj7P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 208233,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 208233,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 194740,
       "name": "The Defiant",
       "url": "https://open.spotify.com/track/7CS9m4zqBEH2so5yJR1UGC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awake (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Would It Matter",
-      "url": "https://open.spotify.com/track/3yawCOFKiw8TVVdCubX4hu"
     }
   ],
   "unique_name": "This Is Skillet",

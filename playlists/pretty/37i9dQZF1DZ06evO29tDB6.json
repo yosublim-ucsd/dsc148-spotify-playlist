@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 132915,
+  "num_followers": 132937,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAA8q+PTGaSwAbVH4ZNSOp2m",
+  "snapshot_id": "ZonagAAAAAB+jH4jsIKlkZCA0H/HCGiQ",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 342520,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": null,
@@ -295,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Todo sea por el rocanrol",
-      "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 a\u00f1os",
         "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
@@ -327,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -336,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 342893,
-      "name": "Oye cantinero",
-      "url": "https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7"
+      "duration_ms": 284640,
+      "name": "Todo sea por el rocanrol",
+      "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
     },
     {
       "added_at": null,
@@ -439,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clasicas para Rockear",
-        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 311773,
-      "name": "Mar\u00eda Sabina",
-      "url": "https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
       },
@@ -467,6 +419,22 @@
       "duration_ms": 246786,
       "name": "Perro negro - Live",
       "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clasicas para Rockear",
+        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 311773,
+      "name": "Mar\u00eda Sabina",
+      "url": "https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb"
     },
     {
       "added_at": null,
@@ -535,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miguel R\u00edos y las estrellas del Rock latino",
+        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Triste canci\u00f3n de amor (con El Tri)",
+      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -555,26 +543,6 @@
       "duration_ms": 190632,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miguel R\u00edos y las estrellas del Rock latino",
-        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Triste canci\u00f3n de amor (con El Tri)",
-      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
     },
     {
       "added_at": null,
@@ -763,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medio Siglo Rocanroleando",
-        "url": "https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI"
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
       },
       "artists": [
         {
@@ -772,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Que Hueva",
-      "url": "https://open.spotify.com/track/3v9EK2VcxwXfjW9knCEmOW"
+      "duration_ms": 283906,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
     },
     {
       "added_at": null,
@@ -795,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin de siglo",
-        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+        "name": "Medio Siglo Rocanroleando",
+        "url": "https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI"
       },
       "artists": [
         {
@@ -804,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 151933,
-      "name": "No hay pedo",
-      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
+      "duration_ms": 185786,
+      "name": "Que Hueva",
+      "url": "https://open.spotify.com/track/3v9EK2VcxwXfjW9knCEmOW"
     },
     {
       "added_at": null,
@@ -839,6 +807,22 @@
       "duration_ms": 263066,
       "name": "El rey",
       "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fin de siglo",
+        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "No hay pedo",
+      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
       "duration_ms": 221493,
       "name": "Ya estamos hartos",
       "url": "https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Libertad bajo fianza",
+      "url": "https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q"
     }
   ],
   "unique_name": "This Is El Tri",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 ### [This Is Los Cadetes De Linares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0I5DUY)
 
-> This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
+> This Is Los Cadetes De Linares\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,622 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,666 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Mi Primer Amor](https://open.spotify.com/track/1b9pojRX4HOsrthAGDZghA) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:36 |
 | 50 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
 
-Snapshot ID: `ZoiJAAAAAABzzQkwW3UiZohXoPp2VaVY`
+Snapshot ID: `ZonagAAAAAA627MlN0sO5teGeVYpWWEI`

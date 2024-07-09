@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Trio Mio
 
-367 songs - 19 hr 48 min
+368 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [ANAPIGA PIC](https://open.spotify.com/track/2D6A847d0AXOWhIBMGkycc) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [ANAPIGA PIC](https://open.spotify.com/album/2fJiKbGJTmUrOtIRGafMCy) | 4:00 | 2024-03-29 |  |
 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 | 2022-11-24 | 2023-03-25 |
 | [Angela \- Remix](https://open.spotify.com/track/6dsJk2F3gaCFmpHawBAg3t) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Angela \(Remix\)](https://open.spotify.com/album/3R0Izl0KAG58L6RtxvBZ58) | 3:16 | 2023-03-23 |  |
+| [ANGUKA NAYO](https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE) | [From The Hood Music](https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0), [Wadagliz](https://open.spotify.com/artist/09anIildhJurE3DtSp8WLn) | [ANGUKA NAYO](https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm) | 3:15 | 2024-07-08 |  |
 | [Apewe Mic](https://open.spotify.com/track/1ihwva2Geog94pHxDUinYq) | [Seska](https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ) | [Sugarcane](https://open.spotify.com/album/0Uf3m96SQ0l1ZejwD17YDD) | 3:01 | 2022-09-22 | 2023-03-25 |
 | [Aroma](https://open.spotify.com/track/3JUlWwEE1F1sa8aHalyBCH) | [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd) | [Aroma](https://open.spotify.com/album/64YiygXtvR7rw1KmkoMeOd) | 2:47 | 2022-11-17 | 2023-09-01 |
 | [Bad Habit](https://open.spotify.com/track/2N97etKcWdLigGpkwdUvag) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Bad Habit](https://open.spotify.com/album/2oUuU5z4VoTcIqr6kWAGpl) | 2:34 | 2024-04-11 |  |
@@ -353,7 +354,7 @@
 | [WABABA](https://open.spotify.com/track/2yK919ZuJ54CQscoSVCPAQ) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV) | [WABABA](https://open.spotify.com/album/58KeBkiULnEefJysSDnr98) | 3:19 | 2022-04-07 | 2022-11-18 |
 | [Waganis](https://open.spotify.com/track/3Ojg6HbWnavMSobVcHx5FI) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Waganis](https://open.spotify.com/album/2PUEv7rKPnDB5lDCX2iMJk) | 2:57 | 2022-09-01 | 2023-10-07 |
 | [Walevi na Polisi \(Exray, Lil maina\)](https://open.spotify.com/track/3VWsQfBk0QwE9MWhn56ku3) | [Magix Enga](https://open.spotify.com/artist/1tCvSfQztSDLnBzKaxk4TG) | [Walevi na Polisi \(Exray, Lil maina\)](https://open.spotify.com/album/2xVo4uHyOYEFDQOhfDBSHi) | 3:54 | 2021-12-09 | 2022-07-01 |
-| [Wambo](https://open.spotify.com/track/2PrCP14dXcFeBsV4ksFi1C) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR) | [Midas Touch](https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot) | 3:22 | 2023-11-30 |  |
+| [Wambo](https://open.spotify.com/track/2PrCP14dXcFeBsV4ksFi1C) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR) | [Midas Touch](https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot) | 3:22 | 2023-11-30 | 2024-07-09 |
 | [Wanani \- Remix](https://open.spotify.com/track/2xZfO3EFzcTKicztt5RqCG) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8), [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Petra Ssaru](https://open.spotify.com/artist/3zBk3N49TV9ycVzwarPqQh) | [Wanani \(Remix\)](https://open.spotify.com/album/7wiGCVBvuQCwQBa81JiAOA) | 3:57 | 2022-01-20 | 2022-01-28 |
 | [Wangu](https://open.spotify.com/track/31wK7JreVLbopnyTrTVAmZ) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/07yGpAwkxtqb7q4x09Rf5u) | [African Popstar \-the EP](https://open.spotify.com/album/3uskBqIChkh6hoNVZxtN2a) | 3:05 | 2022-01-20 | 2022-01-28 |
 | [Wanjapi](https://open.spotify.com/track/3Axax40ktlCBaoIIEpzsx8) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [UNCO](https://open.spotify.com/album/79jKaEoMWzvohBMW5Dpu3p) | 2:55 | 2022-04-14 | 2022-07-01 |

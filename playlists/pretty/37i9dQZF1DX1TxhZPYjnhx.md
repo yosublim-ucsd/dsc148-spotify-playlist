@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,688 likes - 103 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,689 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

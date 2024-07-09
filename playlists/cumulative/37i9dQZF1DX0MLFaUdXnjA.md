@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Debbii Dawson
 
-1,833 songs - 4 day 2 hr 30 min
+1,834 songs - 4 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [boys \(til i had you\)](https://open.spotify.com/track/0TPJsEpt4Xq3lUq2eqJfjf) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [boys \(til i had you\)](https://open.spotify.com/album/5jxdJRgxBfe5y4WIvYxryc) | 3:03 | 2021-01-15 | 2021-03-19 |
 | [Brainstorm](https://open.spotify.com/track/3VcFoOwKYurSedLtz9nFJC) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Brainstorm](https://open.spotify.com/album/56UlaGuVe8Mpr37CfEk0ZN) | 3:06 | 2020-10-09 | 2021-01-15 |
 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 | 2021-09-11 | 2021-10-02 |
+| [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2024-07-08 |  |
 | [Breathe](https://open.spotify.com/track/16SKS0Na572RmGeajx7ker) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz) | 2:17 | 2021-11-13 | 2022-02-05 |
 | [bro, i like u](https://open.spotify.com/track/2xrKI7IHHCAf6ZlU8djiR0) | [Shalom Margaret](https://open.spotify.com/artist/0G0TyoIwnAuLkDurFQGM5Z) | [bro, i like u](https://open.spotify.com/album/7oKKv0vq38W6VKGbSupqF0) | 2:20 | 2021-07-31 | 2021-08-28 |
 | [Broken](https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE) | 3:15 | 2021-02-06 | 2021-05-15 |
@@ -1256,7 +1257,7 @@
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-05 | 2024-01-20 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 |  |
 | [poison](https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [poison](https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F) | 2:48 | 2023-07-14 | 2023-08-16 |
-| [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2024-01-26 |  |
+| [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2024-01-26 | 2024-07-09 |
 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 | 2022-03-25 | 2022-05-20 |
 | [Postmates](https://open.spotify.com/track/1RtPogfTYqi4r4CUP715fA) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Postmates](https://open.spotify.com/album/5OfvjKaTnPrWanUVC2mjix) | 2:20 | 2021-01-23 | 2021-04-24 |
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-04-26 |  |

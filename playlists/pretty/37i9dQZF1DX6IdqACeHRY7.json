@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152735,
+  "num_followers": 152741,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d"
-      },
-      "artists": [
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Would You",
-      "url": "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Would You",
+      "url": "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "In Between Minds",
         "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 199537,
       "name": "Things You Can't Change",
       "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Keeping Faith",
         "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 172058,
       "name": "Faith's Song",
       "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Hey Ya!",
-        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
-      },
-      "artists": [
-        {
-          "name": "Maygen Lacey",
-          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
-        }
-      ],
-      "duration_ms": 214689,
-      "name": "Hey Ya! - Acoustic",
-      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 251800,
       "name": "Hardest Thing",
       "url": "https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
+      },
+      "artists": [
+        {
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
+        }
+      ],
+      "duration_ms": 214689,
+      "name": "Hey Ya! - Acoustic",
+      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "So Last Year",
-        "url": "https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2"
-      },
-      "artists": [
-        {
-          "name": "Magnus M\u00fcnster",
-          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
-        }
-      ],
-      "duration_ms": 205579,
-      "name": "So Last Year",
-      "url": "https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Mads Langer",
         "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Kuffert Fuld Af Mursten",
-        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
+        "name": "So Last Year",
+        "url": "https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2"
       },
       "artists": [
         {
-          "name": "Claus Hempler",
-          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
+          "name": "Magnus M\u00fcnster",
+          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
         }
       ],
-      "duration_ms": 294506,
-      "name": "Op",
-      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
+      "duration_ms": 205579,
+      "name": "So Last Year",
+      "url": "https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Kuffert Fuld Af Mursten",
+        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
+      },
+      "artists": [
+        {
+          "name": "Claus Hempler",
+          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
+        }
+      ],
+      "duration_ms": 294506,
+      "name": "Op",
+      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Sorry (Live)",
         "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Not That Special - EP",
         "url": "https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212051,
       "name": "Lying To Yourself",
       "url": "https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Too Much To H8",
-        "url": "https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g"
+        "name": "Inner Critic's Choice Awards",
+        "url": "https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
         }
       ],
-      "duration_ms": 172124,
-      "name": "Too Much To H8",
-      "url": "https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ"
+      "duration_ms": 235715,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Inner Critic's Choice Awards",
-        "url": "https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr"
+        "name": "Too Much To H8",
+        "url": "https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g"
       },
       "artists": [
         {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
         }
       ],
-      "duration_ms": 235715,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle"
+      "duration_ms": 172124,
+      "name": "Too Much To H8",
+      "url": "https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q"
-      },
-      "artists": [
-        {
-          "name": "Yehra",
-          "url": "https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 176859,
       "name": "Blame",
       "url": "https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q"
+      },
+      "artists": [
+        {
+          "name": "Yehra",
+          "url": "https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91"
     },
     {
       "added_at": "2024-01-12 09:52:44",

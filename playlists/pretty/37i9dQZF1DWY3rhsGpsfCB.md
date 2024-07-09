@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,059 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,078 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 52 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 |
 | 53 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 |
 | 54 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 |
-| 55 | [Feels Good \- A COLORS SHOW](https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Feels Good \- A COLORS SHOW](https://open.spotify.com/album/1cwSgENMx2F7DOJgVANJ6o) | 2:27 |
-| 56 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 |
+| 55 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 |
+| 56 | [Feels Good \- A COLORS SHOW](https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Feels Good \- A COLORS SHOW](https://open.spotify.com/album/1cwSgENMx2F7DOJgVANJ6o) | 2:27 |
 | 57 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Push \(feat\. Omah Lay\)](https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6) | 2:42 |
 | 58 | [Honey & Spice \- Remix](https://open.spotify.com/track/4oADK0NfY8u1RlW7IKFTFz) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Honey & Spice \(Remix\)](https://open.spotify.com/album/2I7Z3i5s8Ukwl7MRshNquA) | 2:32 |
 | 59 | [Make It Easy \(with Coco Jones\)](https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:19 |

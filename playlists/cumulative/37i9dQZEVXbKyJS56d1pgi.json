@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 155456,
       "name": "Chamadas",
       "url": "https://open.spotify.com/track/3Id1PlGjXzHJRoX1l58WTK"
@@ -7582,6 +7582,24 @@
       "duration_ms": 210200,
       "name": "eternal sunshine",
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+    },
+    {
+      "album": {
+        "name": "iLove the World",
+        "url": "https://open.spotify.com/album/5qtIjON690GnS81Gsql9T1"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Eu Amo Portugal",
+      "url": "https://open.spotify.com/track/0AT44N7Pjf7yW0mS0DJ0O9"
     },
     {
       "album": {
@@ -18918,7 +18936,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/5RTMpECEVHy3H9jtn7HKi5"
@@ -24872,7 +24890,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 160864,
       "name": "Vamo de Pagodin",
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
@@ -25072,6 +25090,28 @@
       "duration_ms": 152690,
       "name": "VERMELHO",
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/2fBNDKu8TOe6HXY5L7gCV5"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175677,
+      "name": "Vida Boa",
+      "url": "https://open.spotify.com/track/21x0bKgMOKazByBUsQBSoB"
     },
     {
       "album": {

@@ -2,14 +2,14 @@
 
 ### [This Is Nothing](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xzS2k)
 
-> This is Nothing\. The essential tracks, all in one playlist.
+> This Is Nothing\. Los temas esenciales, todos en una lista.
 
 64 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Fabricated Life](https://open.spotify.com/track/4yIUZfyWZ5T6NiiV0khwzw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:46 | 2022-09-16 | 2022-10-24 |
-| [A Fabricated Life \- Live](https://open.spotify.com/track/0lmDP77gTpE2ClHBpUfwfn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Auditory Trauma: Nothing Isolation Sessions \(Live\)](https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI) | 5:37 | 2024-06-28 |  |
+| [A Fabricated Life \- Live](https://open.spotify.com/track/0lmDP77gTpE2ClHBpUfwfn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Auditory Trauma: Nothing Isolation Sessions \(Live\)](https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI) | 5:37 | 2024-06-28 | 2024-07-09 |
 | [A.C.D\. \(Abcessive Compulsive Disorder\)](https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:39 | 2022-09-16 |  |
 | [Amber Gambler](https://open.spotify.com/track/08zfkE9pFeDtpW5sTQGNZN) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Amber Gambler](https://open.spotify.com/album/5UvGpxtzmA8xCTW0fCQ3ks) | 3:52 | 2022-09-16 | 2023-11-11 |
 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 | 2022-09-16 |  |

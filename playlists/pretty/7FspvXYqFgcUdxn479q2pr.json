@@ -1,13 +1,61 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Sjaak &amp; YONII",
-  "num_followers": 32553,
+  "num_followers": 32550,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAqt4lzJ7I1qLS59ZbIK2eB8trOn8L/",
+  "snapshot_id": "AAAqvcanESFXBqfdZ4v2G8AQc9KdI07X",
   "tracks": [
+    {
+      "added_at": "2024-07-04 23:37:09",
+      "album": {
+        "name": "My Baby La La",
+        "url": "https://open.spotify.com/album/16UA5lo1OBlXS6qyufcfLm"
+      },
+      "artists": [
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        },
+        {
+          "name": "YONII",
+          "url": "https://open.spotify.com/artist/7H3TyvM3dpW78cru0Oaui9"
+        }
+      ],
+      "duration_ms": 154545,
+      "name": "My Baby La La",
+      "url": "https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB"
+    },
+    {
+      "added_at": "2024-07-04 23:37:09",
+      "album": {
+        "name": "ZENLESS",
+        "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "S\u0101n-Z",
+          "url": "https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "ZENLESS",
+      "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
+    },
     {
       "added_at": "2024-07-04 23:37:09",
       "album": {
@@ -48,34 +96,6 @@
       "added_at": "2024-07-04 23:37:09",
       "album": {
         "name": "ZENLESS",
-        "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        },
-        {
-          "name": "S\u0101n-Z",
-          "url": "https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "ZENLESS",
-      "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
-    },
-    {
-      "added_at": "2024-07-04 23:37:09",
-      "album": {
-        "name": "ZENLESS",
         "url": "https://open.spotify.com/album/4ntjc4RbUVs7TfKUvvTSIA"
       },
       "artists": [
@@ -99,26 +119,6 @@
       "duration_ms": 144374,
       "name": "ZENLESS",
       "url": "https://open.spotify.com/track/3mIouw7V3msMJkm8iqKXXr"
-    },
-    {
-      "added_at": "2024-07-04 23:37:09",
-      "album": {
-        "name": "My Baby La La",
-        "url": "https://open.spotify.com/album/16UA5lo1OBlXS6qyufcfLm"
-      },
-      "artists": [
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        },
-        {
-          "name": "YONII",
-          "url": "https://open.spotify.com/artist/7H3TyvM3dpW78cru0Oaui9"
-        }
-      ],
-      "duration_ms": 154545,
-      "name": "My Baby La La",
-      "url": "https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB"
     },
     {
       "added_at": "2024-07-04 23:37:09",
@@ -179,6 +179,74 @@
       "duration_ms": 202142,
       "name": "Masada",
       "url": "https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC"
+    },
+    {
+      "added_at": "2024-07-08 09:59:34",
+      "album": {
+        "name": "2024 (ilizo Remix)",
+        "url": "https://open.spotify.com/album/2YFQ1eG7C2tgNHp6dlL4Kg"
+      },
+      "artists": [
+        {
+          "name": "chique",
+          "url": "https://open.spotify.com/artist/6z0l5ifI5dNo1PHAVpgFEb"
+        },
+        {
+          "name": "ilizo",
+          "url": "https://open.spotify.com/artist/52Yi0rUbNFG61eJnLyUkSq"
+        }
+      ],
+      "duration_ms": 310882,
+      "name": "2024 - ilizo Remix",
+      "url": "https://open.spotify.com/track/4owR2KfPn3rXIK0FnUbTHQ"
+    },
+    {
+      "added_at": "2024-07-08 12:40:29",
+      "album": {
+        "name": "Emphasis of Illusion",
+        "url": "https://open.spotify.com/album/4Jpg5i3Hp2t3xVG5azlGfI"
+      },
+      "artists": [
+        {
+          "name": "Deroz",
+          "url": "https://open.spotify.com/artist/7ueu2Odbr8LCIomUG45Dh5"
+        }
+      ],
+      "duration_ms": 237142,
+      "name": "Emphasis of Illusion",
+      "url": "https://open.spotify.com/track/7cHM9mao0T6wtCxDKYyns8"
+    },
+    {
+      "added_at": "2024-07-08 12:53:49",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/43NXCMAQNNXt81v2UwsRRF"
+      },
+      "artists": [
+        {
+          "name": "Robaer",
+          "url": "https://open.spotify.com/artist/6W9GI0QPqUZkyhTxBMUAi5"
+        }
+      ],
+      "duration_ms": 181178,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3jQhfY54CWkDy4Pqt2ozAG"
+    },
+    {
+      "added_at": "2024-07-08 13:01:22",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/390Ivb6Tcumox4lrkMXuSl"
+      },
+      "artists": [
+        {
+          "name": "Greg Welsh",
+          "url": "https://open.spotify.com/artist/3RwuZdw5zKqMhspsKibacf"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/6lgNrkHi78NwTrrzEQJGPV"
     }
   ],
   "unique_name": "New Dance Music Friday",

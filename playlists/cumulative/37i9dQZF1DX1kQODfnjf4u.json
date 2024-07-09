@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Sabrina Carpenter",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Pil C, Luca Brassi10x",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -632,6 +632,32 @@
       "duration_ms": 156061,
       "name": "nehled\u00e1 l\u00e1sku",
       "url": "https://open.spotify.com/track/3SDPxc5VPZu05EtU2UhxEX"
+    },
+    {
+      "album": {
+        "name": "VOJNA",
+        "url": "https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "NENI STRE$S",
+      "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
     },
     {
       "album": {

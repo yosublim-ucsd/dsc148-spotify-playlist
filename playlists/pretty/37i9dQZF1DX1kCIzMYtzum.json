@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Swedish House Mafia ",
-  "num_followers": 252159,
+  "num_followers": 252250,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 200970,
+      "name": "Heavenly Hell (ft. Ne-Yo)",
+      "url": "https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Drums (Feat. Kim Petras) [Tiesto Remix]",
         "url": "https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 172500,
       "name": "Drums (Feat. Kim Petras) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 200970,
-      "name": "Heavenly Hell (ft. Ne-Yo)",
-      "url": "https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Run Free (Countdown)",
+        "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Run Free (Countdown)",
+      "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "REBELS NEVER DIE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 136000,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Run Free (Countdown)",
-        "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Run Free (Countdown)",
-      "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -2143,30 +2143,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/0kd0OCzyoqrr0c9n66xjgi"
       },
@@ -2191,30 +2167,46 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
         }
       ],
-      "duration_ms": 279692,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
+      "duration_ms": 131207,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
     }
   ],
   "unique_name": "EDM 2024",

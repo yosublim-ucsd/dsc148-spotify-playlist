@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1475143,
+  "num_followers": 1476196,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAADipuP3zOLazQI7T6G/u8Y8",
+  "snapshot_id": "ZonagAAAAACi10A2j4qDd2P/kz3R4Rf9",
   "tracks": [
     {
       "added_at": null,
@@ -987,30 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FTCU (SLEEZEMIX)",
-        "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 239667,
-      "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
-      "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
+      "duration_ms": 240000,
+      "name": "MAFIA",
+      "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
     },
     {
       "added_at": null,
@@ -1039,18 +1027,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+        "name": "FTCU (SLEEZEMIX)",
+        "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
       },
       "artists": [
         {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 240000,
-      "name": "MAFIA",
-      "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
+      "duration_ms": 239667,
+      "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
+      "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
     },
     {
       "added_at": null,

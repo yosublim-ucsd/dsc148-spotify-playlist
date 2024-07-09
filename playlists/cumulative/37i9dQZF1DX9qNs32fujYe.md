@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-914 songs - 2 day 19 hr 14 min
+915 songs - 2 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 |  |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2022-03-22 | 2022-04-02 |
 | [Back to the Rhythm](https://open.spotify.com/track/6AhyAj8E1JyYcY3VR3K7M2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Back to the Rhythm](https://open.spotify.com/album/6JsuY2qnJQd0QPRiCar8K0) | 4:11 | 2022-04-08 | 2022-07-29 |
+| [Back With A Bang](https://open.spotify.com/track/1F5x8GlQ5XKG29jBzIlSlM) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Back With A Bang](https://open.spotify.com/album/1OFd5G0pxS0BRsWr3HdV6N) | 3:33 | 2024-07-05 |  |
 | [Bad Company](https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 4:22 | 2024-04-05 |  |
 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 | 2023-05-26 | 2024-04-19 |
 | [Bad Company](https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 4:22 | 2022-08-19 | 2023-08-21 |
@@ -185,7 +186,7 @@
 | [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 | 2022-07-08 | 2022-09-24 |
 | [Dark Incarnation \(Mother of the Night\)](https://open.spotify.com/track/1eBaXrKKuV93993Bljd1u2) | [Helstar](https://open.spotify.com/artist/4AqUiufKqVihh6uAMonwCv) | [Dark Incarnation \(Mother of the Night\)](https://open.spotify.com/album/0jmPXk7B7VHyPD8ZzE0sgK) | 6:12 | 2021-12-29 | 2022-04-21 |
 | [Darkbloom](https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/3wJZuEnCzcyFbRM2Q5tZw3) | 3:48 | 2022-07-13 |  |
-| [Darkest Hour](https://open.spotify.com/track/7ybnH1YldJRE2lVyQAl4Tn) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Darkest Hour](https://open.spotify.com/album/6b70Uf4v6jiTPGjLaJN4LC) | 5:31 | 2024-05-31 |  |
+| [Darkest Hour](https://open.spotify.com/track/7ybnH1YldJRE2lVyQAl4Tn) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Darkest Hour](https://open.spotify.com/album/6b70Uf4v6jiTPGjLaJN4LC) | 5:31 | 2024-05-31 | 2024-07-09 |
 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-08-19 |  |
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2021-12-17 |  |
 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 | 2022-11-04 | 2022-11-13 |

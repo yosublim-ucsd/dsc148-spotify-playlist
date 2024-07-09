@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: STAYC",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: (G)I-DLE",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 232040,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/0mvQ0J2oRljP2lcOd3ewgn"
+    },
+    {
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "Accendio",
+      "url": "https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf"
     },
     {
       "album": {
@@ -2863,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
+    },
+    {
+      "album": {
         "name": "FOREVER 1 - The 7th Album",
         "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
       },
@@ -4415,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "I SWAY",
+        "url": "https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "Klaxon",
+      "url": "https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X"
+    },
+    {
+      "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3"
       },
@@ -4756,7 +4810,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 166913,
       "name": "Lose My Breath (Feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca"
@@ -5250,7 +5304,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 187266,
       "name": "Mars",
       "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
@@ -7156,7 +7210,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 147961,
       "name": "Siren",
       "url": "https://open.spotify.com/track/0lCT7dZovwscmIRIltborh"
@@ -7847,6 +7901,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Rush",
+        "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176240,
+      "name": "Strawberry Rush",
+      "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
+    },
+    {
+      "album": {
         "name": "Stuck In The Middle",
         "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"
       },
@@ -8042,7 +8114,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 152186,
       "name": "Super Lady",
       "url": "https://open.spotify.com/track/105qee9D4ARiRZPZDvGDoH"

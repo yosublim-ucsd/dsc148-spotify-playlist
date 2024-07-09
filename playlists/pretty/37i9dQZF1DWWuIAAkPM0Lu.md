@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:0VRj0yCOv2FXJNP47XQnx5">quavo</a> x <a href="spotify:artist:00FQb4jTyendYWaN8pK0wa">lana de rey</a> 🤌
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,668 likes - 67 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,681 likes - 67 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

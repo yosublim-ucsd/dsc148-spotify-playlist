@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560 likes - 186 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 186 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,18 +93,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 83 | [Feels Like](https://open.spotify.com/track/2xW3wiXtNHUsENQLrHf4X0) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:19 |
 | 84 | [omw](https://open.spotify.com/track/4fCURHaPS3CQBcYsnTidvW) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:51 |
 | 85 | [Emotional](https://open.spotify.com/track/6GeivZDEHYIGULXr7lOtrx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:40 |
-| 86 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 |
-| 87 | [Hair](https://open.spotify.com/track/20xJN09dBJBEImfp9NPdGb) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Hair](https://open.spotify.com/album/6aoeLVMwa68Mn1QVYqbSw2) | 2:34 |
+| 86 | [Hair](https://open.spotify.com/track/20xJN09dBJBEImfp9NPdGb) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Hair](https://open.spotify.com/album/6aoeLVMwa68Mn1QVYqbSw2) | 2:34 |
+| 87 | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Altar \(feat\. R.LUM.R\)](https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w) | 3:24 |
 | 88 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
 | 89 | [Fun While It Lasted](https://open.spotify.com/track/6BgOYYhN3yzY3GzaUv3b7T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:26 |
 | 90 | [Used To You Now](https://open.spotify.com/track/2dCTUG5y7ZMKzm2b6ILDcH) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:11 |
-| 91 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 |
-| 92 | [Growing Up is Getting Old](https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:27 |
+| 91 | [Growing Up is Getting Old](https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:27 |
+| 92 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 |
 | 93 | [Rules](https://open.spotify.com/track/5965DWoiOuO2T3jIWLlXyf) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 2:49 |
 | 94 | [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 |
 | 95 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
-| 96 | [Why We Try \(feat\. Chelsea Lankes\)](https://open.spotify.com/track/53rXIdH0u7VGg0Pr1H4EGf) | [Matthew Mayfield](https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq), [Chelsea Lankes](https://open.spotify.com/artist/5JZ7uSAWAzTHHVBICdtAc6) | [Wild Eyes](https://open.spotify.com/album/7tdZFWNwAygaTKb5RmPZEA) | 3:52 |
-| 97 | [Guitars and Drugs](https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Guitars and Drugs](https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V) | 3:12 |
+| 96 | [Guitars and Drugs](https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Guitars and Drugs](https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V) | 3:12 |
+| 97 | [Why We Try \(feat\. Chelsea Lankes\)](https://open.spotify.com/track/53rXIdH0u7VGg0Pr1H4EGf) | [Matthew Mayfield](https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq), [Chelsea Lankes](https://open.spotify.com/artist/5JZ7uSAWAzTHHVBICdtAc6) | [Wild Eyes](https://open.spotify.com/album/7tdZFWNwAygaTKb5RmPZEA) | 3:52 |
 | 98 | [Look at Us Now](https://open.spotify.com/track/0u8yYdOuMq7KyslQ4Chi5z) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:18 |
 | 99 | [Cemetery](https://open.spotify.com/track/68eyW8UBCCKbqZwXP1i19v) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 4:09 |
 | 100 | [Baggage](https://open.spotify.com/track/4fnR2KQNeOhYtiLJgeHxP8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baggage](https://open.spotify.com/album/2fNOpoG64UvSthM69iKCHc) | 3:03 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 132 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 |
 | 133 | [Man In Me](https://open.spotify.com/track/4QP1cDL7DMAMwMwjresOgu) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 4:48 |
 | 134 | [Everything Changes](https://open.spotify.com/track/5qDERSuqkR2swJWGkH2Oox) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everything Changes](https://open.spotify.com/album/3u1603AetS0Vg1TWSRIU1N) | 3:10 |
-| 135 | [Cheating On Myself](https://open.spotify.com/track/7qcGEfPQqwl0lzU5BGucsU) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:53 |
-| 136 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
+| 135 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
+| 136 | [Cheating On Myself](https://open.spotify.com/track/7qcGEfPQqwl0lzU5BGucsU) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:53 |
 | 137 | [Whistle](https://open.spotify.com/track/5xeMp4R5G3oj959064Hfai) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [FIYM](https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc) | 2:56 |
 | 138 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 |
 | 139 | [Dead Weight](https://open.spotify.com/track/20Xmsa6hYHPz9GJP20o33N) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Dead Weight](https://open.spotify.com/album/7lzDHu6RktqEkXkCTZwLql) | 3:04 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 185 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 186 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbWFwAAAAAC9x6XztV8BQSfCK5ec3xwt`
+Snapshot ID: `AbWLYAAAAABEw8YErrS1zAuAf56mBqrs`

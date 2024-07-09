@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: KISS OF LIFE\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-414 songs - 22 hr 48 min
+416 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [HATE ME \(feat\. youra\) \(prod\. WOOGIE\)](https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [유라\(youra\)](https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3](https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA) | 3:09 | 2021-11-21 | 2024-05-10 |
 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 | 2023-07-04 | 2023-10-15 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2024-03-21 | 2024-03-26 |
+| [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-08 |  |
 | [Hide And Seek](https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hide And Seek \(Full Version\)](https://open.spotify.com/album/0Twooiwlv1TjdY9Fe8VfsP) | 2:57 | 2021-11-21 | 2022-07-03 |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-01-19 | 2022-04-21 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-09-19 |
@@ -187,6 +188,7 @@
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-06 | 2022-10-05 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-28 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-04 | 2024-04-19 |
+| [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 | 2024-07-08 |  |
 | [KnoCK \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2XnFNm6N3QOdxvKh97ayfc) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [KnoCK \(Feat\. Yerin Baek\)](https://open.spotify.com/album/5VgIL9xltF6uYKVEefdi4Q) | 3:19 | 2022-03-29 | 2022-04-21 |
 | [L.U.V.](https://open.spotify.com/track/6n8YodbIsmMTqL151At1xy) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 2nd Album 'Time for us'](https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO) | 3:15 | 2022-03-22 | 2022-04-21 |
 | [La La Love](https://open.spotify.com/track/1pXpzhdyeryEw8DqhaVrwe) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:22 | 2022-03-29 | 2022-07-07 |
@@ -276,7 +278,7 @@
 | [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 | 2023-02-27 | 2023-03-14 |
 | [Purple Breeze](https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.5\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/07u6A8DhvM1hTFTQy9qRIw) | 4:11 | 2022-01-19 | 2022-07-29 |
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-31 | 2022-10-13 |
-| [Q&A](https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Attitude](https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj) | 2:45 | 2024-05-14 |  |
+| [Q&A](https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Attitude](https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj) | 2:45 | 2024-05-14 | 2024-07-09 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-06-02 | 2024-04-19 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-11-21 |  |
 | [Rain](https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [Rain](https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4) | 3:36 | 2021-11-21 | 2022-07-29 |
@@ -391,7 +393,7 @@
 | [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 | 2022-07-07 | 2024-03-22 |
 | [WHISTLE](https://open.spotify.com/track/3hfN1wQSiLPa6b1RX5Kfbj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0zlJOlDdsJ6Y14GnPoYGD8) | 3:31 | 2021-11-21 | 2022-07-29 |
 | [Whistle](https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:43 | 2022-07-07 | 2022-07-24 |
-| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-22 |  |
+| [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-22 | 2024-07-09 |
 | [Wind flower](https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [BLUE;S](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) | 3:56 | 2021-11-21 | 2022-07-29 |
 | [Winter Love](https://open.spotify.com/track/2LtD33KK0Mf415JyVgyQ2K) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Winter Love](https://open.spotify.com/album/7KjRxgZTFPafYeoA9JkbJM) | 3:26 | 2021-11-21 | 2022-04-21 |
 | [Wishing Well](https://open.spotify.com/track/76clbQ61WsOS7n7azRQcB7) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Wishing Well](https://open.spotify.com/album/4hfJhyV3vs44VXsyDdxPsr) | 3:32 | 2021-11-21 | 2022-04-19 |

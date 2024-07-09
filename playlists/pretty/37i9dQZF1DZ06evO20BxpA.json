@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1281,
+  "num_followers": 1282,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAA8MOPd9xN+46imzUN8mZ7i",
+  "snapshot_id": "ZonagAAAAAAB3CvXiD8XgQnob+kAsSci",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 137040,
-      "name": "Corals - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg"
+      "duration_ms": 169853,
+      "name": "An Ingenious Technique - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 169853,
-      "name": "An Ingenious Technique - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
+      "duration_ms": 137040,
+      "name": "Corals - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 66933,
-      "name": "A Rich Community Of Life",
-      "url": "https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 174186,
       "name": "You Are Like a Dream I Had",
       "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 66933,
+      "name": "A Rich Community Of Life",
+      "url": "https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Night In Soho (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
-      },
-      "artists": [
-        {
-          "name": "Anya Taylor-Joy",
-          "url": "https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa"
-        },
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 138373,
-      "name": "You're My World - Soho Version",
-      "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wonder Park (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A"
       },
@@ -715,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "Last Night In Soho (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
       },
       "artists": [
+        {
+          "name": "Anya Taylor-Joy",
+          "url": "https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa"
+        },
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 236173,
-      "name": "A Sparrowhawk's Tale",
-      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
+      "duration_ms": 138373,
+      "name": "You're My World - Soho Version",
+      "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 66280,
-      "name": "Beauty Turns Men to Beasts",
-      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+      "duration_ms": 236173,
+      "name": "A Sparrowhawk's Tale",
+      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
     },
     {
       "added_at": null,
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 229733,
-      "name": "All at Sea",
-      "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
+      "duration_ms": 66280,
+      "name": "Beauty Turns Men to Beasts",
+      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
     },
     {
       "added_at": null,
@@ -811,22 +795,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
       "artists": [
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "David Attenborough",
-          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 141026,
-      "name": "We Need To Rewild The World",
-      "url": "https://open.spotify.com/track/2UZLLrJ7o2XJ1qLCwaoLrk"
+      "duration_ms": 229733,
+      "name": "All at Sea",
+      "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "Fueled Up and Headed South",
+      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
     }
   ],
   "unique_name": "This Is Steven Price",

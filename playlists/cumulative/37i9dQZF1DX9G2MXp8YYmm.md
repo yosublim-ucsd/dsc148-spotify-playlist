@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Aleyna Tilki
 
-79 songs - 4 hr 4 min
+80 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cehennemin Dibi](https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Cehennemin Dibi](https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR) | 2:50 | 2024-06-27 |  |
 | [Daha Kötü Ne Olabilir Ki](https://open.spotify.com/track/7ySv3opHwbZNSvehYIVkwN) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Daha Kötü Ne Olabilir Ki](https://open.spotify.com/album/4CeYzfOsE9OQi39hQV5f0i) | 2:53 | 2024-06-27 |  |
 | [Daha Nasıl Sevebilirim](https://open.spotify.com/track/0Wvad2SQsggWOPq6WdCoyI) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Daha Nasıl Sevebilirim](https://open.spotify.com/album/5g0lJUG38dwHss5odOP2aV) | 3:23 | 2024-06-27 |  |
-| [Dayanamam](https://open.spotify.com/track/3POxcfIStVIT4mU4IZldO6) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Dayanamam](https://open.spotify.com/album/73bU2e31seQS19wOtTcv96) | 2:20 | 2024-06-27 |  |
+| [Dayanamam](https://open.spotify.com/track/3POxcfIStVIT4mU4IZldO6) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Dayanamam](https://open.spotify.com/album/73bU2e31seQS19wOtTcv96) | 2:20 | 2024-06-27 | 2024-07-09 |
 | [Dedi Doktorum](https://open.spotify.com/track/7GV3ugDCiKfqBp7aV7MYvW) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Dedi Doktorum](https://open.spotify.com/album/7s6rCp5g4x9ZaeGmqgyexR) | 3:25 | 2024-06-27 |  |
 | [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 |  |
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 |  |
@@ -85,6 +85,7 @@
 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 | 2024-06-27 |  |
 | [Yorulunca](https://open.spotify.com/track/5BLxtcCipwGssYjJdjsV2d) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Yorulunca](https://open.spotify.com/album/6b7vyaK4StuDlyAcrB1ZJk) | 3:40 | 2024-06-27 |  |
 | [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2024-06-27 |  |
+| [Zombi](https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Zombi](https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ) | 2:39 | 2024-07-04 |  |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-27 |  |
 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 | 2024-06-27 |  |
 

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
       },
@@ -92,6 +110,24 @@
       "duration_ms": 187440,
       "name": "365",
       "url": "https://open.spotify.com/track/5ywWzoH8TFmthpebFjCyR3"
+    },
+    {
+      "album": {
+        "name": "4 foot 2",
+        "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154936,
+      "name": "4 foot 2",
+      "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
     },
     {
       "album": {
@@ -532,7 +568,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 240107,
       "name": "Andrew",
       "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
@@ -760,7 +796,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 192701,
       "name": "Back For The Funeral",
       "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
@@ -1050,7 +1086,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
@@ -1980,7 +2016,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
@@ -2182,7 +2218,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 262008,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo"
@@ -3181,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154340,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
+    },
+    {
+      "album": {
         "name": "Boston Accent",
         "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
       },
@@ -4117,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210658,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
+    },
+    {
+      "album": {
         "name": "How Much Longer?",
         "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
       },
@@ -4395,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Fighting For",
+        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285791,
+      "name": "I Figured We'd Go Dancin'",
+      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
       },
@@ -4518,7 +4608,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -4670,6 +4760,24 @@
       "duration_ms": 181269,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/2IAyG4qRTI0FnFiDKiLzut"
+    },
+    {
+      "album": {
+        "name": "I'm Someone New",
+        "url": "https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253400,
+      "name": "I'm Someone New",
+      "url": "https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD"
     },
     {
       "album": {
@@ -5418,6 +5526,24 @@
       "duration_ms": 196266,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/3bMOSKm9avJIHCntMHv7zz"
+    },
+    {
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
     },
     {
       "album": {
@@ -7466,7 +7592,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
@@ -7582,6 +7708,24 @@
       "duration_ms": 198106,
       "name": "Something to Someone",
       "url": "https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U"
+    },
+    {
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
       "album": {

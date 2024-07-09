@@ -23769,6 +23769,32 @@
     },
     {
       "album": {
+        "name": "Good at Love",
+        "url": "https://open.spotify.com/album/4ZSanG1REArpIJZWVcU199"
+      },
+      "artists": [
+        {
+          "name": "Paige Stark",
+          "url": "https://open.spotify.com/artist/1WH9zGefYnqp8IafH0qL0H"
+        },
+        {
+          "name": "Jon Brion",
+          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280597,
+      "name": "Zombie Brain Drain",
+      "url": "https://open.spotify.com/track/6PSAt4wBVluHaXy4KVwCq4"
+    },
+    {
+      "album": {
         "name": "\u200evacation",
         "url": "https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz"
       },

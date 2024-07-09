@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: KISS OF LIFE
+> Future K\-Pop hits! Cover: Xdinary Heroes
 
-1,105 songs - 2 day 12 hr 23 min
+1,106 songs - 2 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [LOSER](https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: LOST](https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni) | 3:30 | 2023-05-30 | 2023-08-17 |
 | [Losing You](https://open.spotify.com/track/4OJJ48xIvpbP3lHaCkEIbA) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Losing You](https://open.spotify.com/album/2pA5upussFvf8eQoMUATmI) | 2:58 | 2020-10-13\* | 2020-11-11 |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-12 | 2022-03-25 |
+| [LOVE and FEAR](https://open.spotify.com/track/3v2fpbBTm5m0uPU15qnQ36) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.2](https://open.spotify.com/album/6eMtWQJJnCKuUrGKugJ1CH) | 3:07 | 2024-07-08 |  |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-08-05 | 2023-04-21 |
 | [Love Effect](https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [LOVE EFFECT](https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz) | 2:52 | 2023-10-05 | 2023-11-08 |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-02 | 2022-05-25 |
@@ -1088,7 +1089,7 @@
 | [Xtra](https://open.spotify.com/track/4btftV9aaDSaw0sPBr5VsZ) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [ReviveR](https://open.spotify.com/album/2M9w0Fjim2sLzuFj0EZ4l8) | 3:00 | 2021-07-02 | 2021-08-11 |
 | [Yeonnam\-dong \(feat\. lIlBOI\)](https://open.spotify.com/track/0A6CcQQ6Sa9MWqgjoSD8dL) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [it’s not your fault](https://open.spotify.com/album/1U0HUoza6VIPzqMIQL2BOw) | 3:32 | 2021-05-05 | 2021-06-09 |
 | [YES](https://open.spotify.com/track/34Lx0rSnk1mCMkbJHMQAJG) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [YES](https://open.spotify.com/album/12ShYc5s4jRTB5V6kFLmF2) | 2:58 | 2020-10-13\* | 2020-11-05 |
-| [YES \(feat\. Jay Park, REDDY\)](https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Diminished](https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO) | 2:46 | 2024-05-01 |  |
+| [YES \(feat\. Jay Park, REDDY\)](https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Diminished](https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO) | 2:46 | 2024-05-01 | 2024-07-09 |
 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-01-19 | 2024-03-26 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-17 | 2023-04-27 |
 | [YG \- Spotify Singles](https://open.spotify.com/track/0QeZDFhBQGIrFgkmaIEko9) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Spotify Singles](https://open.spotify.com/album/0PAZM8z8Xa56Lmp0DZzTSp) | 3:09 | 2023-03-06 | 2023-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 70751,
+  "num_followers": 70761,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAD0GoUx33mwdJzqecGIWuhk",
+  "snapshot_id": "ZonagAAAAAC/7M8e3QLqE4zXvb0U0FNi",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 354853,
-      "name": "\u7f8e\u5f71\u610f\u5fd7",
-      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neo SOUND BEST",
         "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 229253,
-      "name": "AS ONE",
-      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "AS ONE",
+      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 200426,
       "name": "\u767d\u663c\u5922",
       "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Q.E.D.",
+      "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Q.E.D.",
-      "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAMELY",
-        "url": "https://open.spotify.com/album/37U1o22d174FbOHy59LsbK"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "NAMELY",
-      "url": "https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 291600,
       "name": "\u30b7\u30ea\u30a6\u30b9",
       "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAMELY",
+        "url": "https://open.spotify.com/album/37U1o22d174FbOHy59LsbK"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 247880,
+      "name": "NAMELY",
+      "url": "https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ"
     },
     {
       "added_at": null,

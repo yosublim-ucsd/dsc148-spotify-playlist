@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-776 songs - 1 day 18 hr 35 min
+777 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Otra Noche Más](https://open.spotify.com/track/2wZ6EgqdYzUvJPmDHxaHBv) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Pokito Paranoiko](https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag) | [Escaleras Al Cielo](https://open.spotify.com/album/5LOjLR09sxwriEiMm6GIvM) | 2:27 | 2024-05-10 | 2024-05-18 |
 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-06-21 | 2024-06-29 |
 | [Outubro](https://open.spotify.com/track/0fEIearbFkOnbvKWHA88fA) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Outubro](https://open.spotify.com/album/2irn9XaU4vnKfEmxpvpHjO) | 5:17 | 2024-05-17 | 2024-05-25 |
+| [Overture](https://open.spotify.com/track/1vZ5zOP4tRQupnMwRGFeRe) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Overture](https://open.spotify.com/album/2QrqNM4VSuPTUw7LDOHay4) | 1:10 | 2024-07-08 |  |
 | [PACMAN](https://open.spotify.com/track/2rDWy96Bn32g9BcSmbLdxq) | [JayCandy](https://open.spotify.com/artist/47bMMoWR7A36BNr0SH10Rq), [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [PACMAN](https://open.spotify.com/album/7p9ZmeYNLi6Cx7968yDyix) | 3:07 | 2024-06-21 | 2024-06-29 |
 | [pacto\_bonus\_track](https://open.spotify.com/track/1brzr0qgELat2wblkMjYKV) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [sistema de entretenimiento](https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv) | [pacto\_bonus\_track](https://open.spotify.com/album/6Zok5UUSaBUufeKpc1EsjL) | 2:08 | 2024-04-26 | 2024-05-10 |
 | [Papa Was A Rolling Stone feat\. Demi Lovato](https://open.spotify.com/track/3KnOS3OzkdWXI7eWgzVNGk) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Papa Was A Rolling Stone feat\. Demi Lovato](https://open.spotify.com/album/2WfOgJEkZPSniHWW7gnuc0) | 7:52 | 2024-05-17 | 2024-05-25 |

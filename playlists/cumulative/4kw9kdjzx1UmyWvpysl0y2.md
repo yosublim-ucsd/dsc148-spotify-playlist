@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-766 songs - 1 day 20 hr 1 min
+767 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Losing Control](https://open.spotify.com/track/2UsEuBZl1HRTe8BLfApoMt) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:42 | 2022-11-19 | 2022-11-22 |
 | [Losing My Mind](https://open.spotify.com/track/0YYghi9h8fntXyNlOfbMJl) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Avrii Castle](https://open.spotify.com/artist/0UqWEQATGeW7cOGCg1bVO8) | [Losing My Mind](https://open.spotify.com/album/4ZCJtrMnf06BuEeFJT5E7l) | 2:48 | 2022-09-23 | 2022-11-29 |
 | [Lost & Found](https://open.spotify.com/track/5ids0N0UPvFHDYDtvDgVCl) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Lost & Found](https://open.spotify.com/album/1Qpo82QvvoXCawctSQfNNJ) | 3:57 | 2022-02-21 | 2022-05-03 |
-| [Lost Call](https://open.spotify.com/track/3zpbvOJzNlCm6BsDmegds3) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Lost Call / Underwater](https://open.spotify.com/album/3NIN1m1TRqzS3H28lE1jeV) | 4:37 | 2024-04-18 |  |
+| [Lost Call](https://open.spotify.com/track/3zpbvOJzNlCm6BsDmegds3) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Lost Call / Underwater](https://open.spotify.com/album/3NIN1m1TRqzS3H28lE1jeV) | 4:37 | 2024-04-18 | 2024-07-09 |
 | [Lost My Way](https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Lost My Way](https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7) | 3:06 | 2023-11-03 | 2024-02-16 |
 | [Lotus](https://open.spotify.com/track/3phEyCMH5CW7e21bSfTJpx) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Lotus](https://open.spotify.com/album/06AIpflCIvYljD1FPbrU8J) | 3:24 | 2024-04-23 |  |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
@@ -583,6 +583,7 @@
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |
 | [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-19 | 2022-10-01 |
+| [See What I See](https://open.spotify.com/track/2J7Gdy5GzfdbPoHvpl3qfB) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [See What I See](https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7) | 2:26 | 2024-07-08 |  |
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 | 2024-05-23 |
 | [Sell Your Soul](https://open.spotify.com/track/2FePeEwAsqh7tspWUV2Ui6) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 2:47 | 2022-11-19 | 2022-11-22 |
 | [Sell Your Soul](https://open.spotify.com/track/5IwjMN4NyKLbPzLbgUbSEt) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Sell Your Soul](https://open.spotify.com/album/1xVPfRWBXIb5d5FXFYSWYC) | 2:47 | 2022-09-26 | 2022-11-29 |

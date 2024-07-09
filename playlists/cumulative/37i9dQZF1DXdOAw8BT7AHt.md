@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Speed
 
-351 songs - 17 hr 41 min
+352 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,10 +321,11 @@
 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 | 2023-06-20 | 2023-09-22 |
 | [Those Days](https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Those Days](https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN) | 2:26 | 2024-01-19 | 2024-03-06 |
 | [Til' The Wheels Fall Off](https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Til' The Wheels Fall Off](https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI) | 3:06 | 2023-03-20 | 2023-12-11 |
+| [To Be Young](https://open.spotify.com/track/2Pzv6KG655tzUQQPhcVzGR) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [To Be Young](https://open.spotify.com/album/1VS08p1cNWDOkb3v1AHBoe) | 2:15 | 2024-07-05 |  |
 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 | 2023-01-18 | 2024-06-01 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:25 | 2023-06-08 | 2024-06-01 |
 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 | 2024-01-19 | 2024-06-28 |
-| [Total Eclipse of the Heart](https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 2:10 | 2024-05-31 |  |
+| [Total Eclipse of the Heart](https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 2:10 | 2024-05-31 | 2024-07-09 |
 | [Totally Fine](https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:43 | 2022-12-02 | 2023-11-11 |
 | [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 | 2023-04-21 | 2024-06-01 |
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-12-02 | 2023-03-03 |

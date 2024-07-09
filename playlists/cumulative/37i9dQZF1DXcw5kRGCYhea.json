@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 187826,
       "name": "BLUE LOVE",
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 181750,
       "name": "Dorouf",
       "url": "https://open.spotify.com/track/4SboVJybgfRxp2Z6M1zUxr"
@@ -991,6 +991,28 @@
     },
     {
       "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
+    },
+    {
+      "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
       },
@@ -1487,6 +1509,28 @@
     },
     {
       "album": {
+        "name": "Rom\u00e9o",
+        "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
+      },
+      "artists": [
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192256,
+      "name": "Rom\u00e9o",
+      "url": "https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4"
+    },
+    {
+      "album": {
         "name": "S7aba",
         "url": "https://open.spotify.com/album/1USAkcnuETLU0G7pdOXe6v"
       },
@@ -1794,7 +1838,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"

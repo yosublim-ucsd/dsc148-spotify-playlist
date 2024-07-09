@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "140 (Not Your Type)",
+        "url": "https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ"
+      },
+      "artists": [
+        {
+          "name": "Badal",
+          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
+        },
+        {
+          "name": "GD 47",
+          "url": "https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173239,
+      "name": "140 - Not Your Type",
+      "url": "https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5"
+    },
+    {
+      "album": {
         "name": "21.22",
         "url": "https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM"
       },
@@ -792,7 +818,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 184349,
       "name": "Bhadak",
       "url": "https://open.spotify.com/track/6upU8Uzp33gRSOdQC7K2ao"
@@ -814,7 +840,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 206197,
       "name": "Bhaichara",
       "url": "https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz"
@@ -949,6 +975,32 @@
     },
     {
       "album": {
+        "name": "Chalti Me",
+        "url": "https://open.spotify.com/album/4SmKOWBv94q1B7An6xp8Ng"
+      },
+      "artists": [
+        {
+          "name": "Diler Kharkiya",
+          "url": "https://open.spotify.com/artist/5d6sKB0JbbWKiWoPDTLPj0"
+        },
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "Jaizeey",
+          "url": "https://open.spotify.com/artist/3rRnHP3oovLW15T7TKXWaD"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157285,
+      "name": "Chalti Me",
+      "url": "https://open.spotify.com/track/77CgnV5VgsRWakI6bvooR7"
+    },
+    {
+      "album": {
         "name": "Chhore Zeher",
         "url": "https://open.spotify.com/album/2Tnf5mOhd2JOZLewsRyIKG"
       },
@@ -1078,7 +1130,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 144000,
       "name": "Chore Albadi - From \"Incomparable\"",
       "url": "https://open.spotify.com/track/0ivHqJTvof0LaIaJCM1jXu"
@@ -1240,7 +1292,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 257088,
       "name": "Concentrate Drill",
       "url": "https://open.spotify.com/track/7BRxPnK4rwOf01MMCUljSI"
@@ -3886,7 +3938,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 208941,
       "name": "OG'S",
       "url": "https://open.spotify.com/track/590sD11WvgSeUZkFx7qdO1"
@@ -4044,6 +4096,24 @@
       "duration_ms": 182571,
       "name": "Pinball - Mafioso Chapter 1",
       "url": "https://open.spotify.com/track/05JB6RkfwfQcS9zUqCJ28V"
+    },
+    {
+      "album": {
+        "name": "Piss Off",
+        "url": "https://open.spotify.com/album/0qdzbWCmQVLLh039LdDpPW"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184225,
+      "name": "Piss Off",
+      "url": "https://open.spotify.com/track/5JCgRXzPQLVSKQ49ssnsJs"
     },
     {
       "album": {

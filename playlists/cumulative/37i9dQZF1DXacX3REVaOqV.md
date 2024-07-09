@@ -4,7 +4,7 @@
 
 > The best in house music
 
-455 songs - 1 day 7 hr 11 min
+456 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-07-20 | 2024-03-01 |
 | [Friendly Pressure \- Into The Sunshine Edit](https://open.spotify.com/track/2u1KZIchGsTN0Beas9mlaU) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Sunship Remixes\)](https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl) | 3:49 | 2024-04-26 |  |
 | [Friends](https://open.spotify.com/track/1IbNYr8ByXsgwGbmOxLBXP) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Friends](https://open.spotify.com/album/4THASIy2X16riMpZINnTTz) | 9:07 | 2022-07-28 | 2022-09-16 |
+| [Friends Around \(Set It Off\)](https://open.spotify.com/track/02jOuqt9tjSlAP7xPiW7ej) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Friends Around \(Set It Off\)](https://open.spotify.com/album/162dFJsHE63Hs7do2jbTZm) | 2:35 | 2024-07-08 |  |
 | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj) | 3:01 | 2023-01-27 |  |
 | [Gently](https://open.spotify.com/track/5AvukMTsiC7b12MJW2wXwE) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Gently](https://open.spotify.com/album/0B2JXdbYYbnwQcSCLfceX7) | 6:16 | 2022-04-20 | 2022-07-29 |
 | [Get Me High](https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Get Me High](https://open.spotify.com/album/1yvjNoutqvda6wMMVSp2sN) | 2:25 | 2023-08-24 | 2024-06-11 |
@@ -414,7 +415,7 @@
 | [To The Edge](https://open.spotify.com/track/3NXQNu3prstzuveOGaZ5SG) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [To The Edge](https://open.spotify.com/album/2goO9zUUcVVarJaIaJ7b4r) | 2:12 | 2024-04-25 |  |
 | [Tondo](https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:29 | 2022-04-14 | 2024-03-01 |
 | [Trapped \- Club Mix](https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Hotswing](https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe) | [Trapped](https://open.spotify.com/album/0Hxtes4PBdDwW22sgGf9Z0) | 2:33 | 2024-06-04 |  |
-| [Tribute \- Prunk Remix](https://open.spotify.com/track/7dQtVt43DfcgiEGeXd1aFe) | [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Tribute \(Prunk Remix\)](https://open.spotify.com/album/5o2xhnFyr57FHI10D1zaz3) | 3:30 | 2024-02-23 |  |
+| [Tribute \- Prunk Remix](https://open.spotify.com/track/7dQtVt43DfcgiEGeXd1aFe) | [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Tribute \(Prunk Remix\)](https://open.spotify.com/album/5o2xhnFyr57FHI10D1zaz3) | 3:30 | 2024-02-23 | 2024-07-09 |
 | [Trip](https://open.spotify.com/track/7J42jTDbEHWipS0rdrviIZ) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Trip](https://open.spotify.com/album/79FOIDw0PEQTqy6mVm1ysI) | 3:24 | 2024-04-09 |  |
 | [Try Again \- David Penn Remix](https://open.spotify.com/track/4sUNETrVRQx5pNNMIiLBzA) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Try Again \(David Penn Remix\)](https://open.spotify.com/album/4Kmbp37GhFOiqlG5TAcQgf) | 3:05 | 2024-04-09 |  |
 | [Tunnel](https://open.spotify.com/track/4Q9NKKycjy7cEDETJfE2EJ) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 5:10 | 2022-04-14 | 2022-07-29 |

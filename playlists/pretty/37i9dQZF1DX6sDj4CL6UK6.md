@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,848 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,857 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 48 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 |
 | 49 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 |
 | 50 | [I’m On Your Side](https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [I’m On Your Side](https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE) | 2:43 |
-| 51 | [Diana](https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX) | [Derek & The Cats](https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Diana](https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0) | 4:06 |
+| 51 | [Peace Lily](https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc) | 3:45 |
 | 52 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
-| 53 | [Peace Lily](https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc) | 3:45 |
+| 53 | [Diana](https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX) | [Derek & The Cats](https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Diana](https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0) | 4:06 |
 | 54 | [The Hills Know Of You](https://open.spotify.com/track/0iDuVPiWspI7lcWRrFJ9LC) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/7bmnGlu7dJtSgACtv2cZNA) | 3:18 |
-| 55 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
-| 56 | [Until You See](https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ), [Toymob](https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Until You See](https://open.spotify.com/album/4PgsGuOKhE9SPSnkaaDZqX) | 3:39 |
+| 55 | [Until You See](https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ), [Toymob](https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Until You See](https://open.spotify.com/album/4PgsGuOKhE9SPSnkaaDZqX) | 3:39 |
+| 56 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
 | 57 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 |
 | 58 | [all over again](https://open.spotify.com/track/55Mzg7JvuRJsn9FoGuU0Kn) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Falze](https://open.spotify.com/artist/0S6ds2b08hBdYvGDO0LQ9T) | [all over again](https://open.spotify.com/album/5TwKDLEVzSf3FReatuvlu1) | 2:43 |
 | 59 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |

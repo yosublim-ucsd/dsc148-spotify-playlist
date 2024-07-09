@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 107327,
+  "num_followers": 107377,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAACfX3G5DPXdfRqHxh9Xgqgz",
+  "snapshot_id": "ZonagAAAAAAv9nZjuMhLvuucSP62ZCgN",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Escapatoria",
-        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
       "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 205060,
-      "name": "Sin Escapatoria",
-      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
     },
     {
       "added_at": null,
@@ -455,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+        "name": "Sin Escapatoria",
+        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
       },
       "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
+      "duration_ms": 205060,
+      "name": "Sin Escapatoria",
+      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
     },
     {
       "added_at": null,

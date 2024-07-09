@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "2024 (ilizo Remix)",
+        "url": "https://open.spotify.com/album/2YFQ1eG7C2tgNHp6dlL4Kg"
+      },
+      "artists": [
+        {
+          "name": "chique",
+          "url": "https://open.spotify.com/artist/6z0l5ifI5dNo1PHAVpgFEb"
+        },
+        {
+          "name": "ilizo",
+          "url": "https://open.spotify.com/artist/52Yi0rUbNFG61eJnLyUkSq"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310882,
+      "name": "2024 - ilizo Remix",
+      "url": "https://open.spotify.com/track/4owR2KfPn3rXIK0FnUbTHQ"
+    },
+    {
+      "album": {
         "name": "5th Symphony",
         "url": "https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI"
       },
@@ -8318,6 +8340,24 @@
       "duration_ms": 216562,
       "name": "Move Left Move Right",
       "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
+    },
+    {
+      "album": {
+        "name": "Move To The Beat",
+        "url": "https://open.spotify.com/album/32VNINAFBEp5bWtVPh96Sg"
+      },
+      "artists": [
+        {
+          "name": "HEYDIZ & ZEVS",
+          "url": "https://open.spotify.com/artist/1628FkN8QFzeJ07WJtsXdz"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Move To The Beat - Radio Edit",
+      "url": "https://open.spotify.com/track/0nmOC0jAEWcuK8AI3i1fD9"
     },
     {
       "album": {

@@ -1157,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "Bo Bom (Alan Dixon Remix)",
+        "url": "https://open.spotify.com/album/3CXIxPdrZNb9clvMXlHQxU"
+      },
+      "artists": [
+        {
+          "name": "Moeaike",
+          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339582,
+      "name": "Bo Bom - Alan Dixon Remix",
+      "url": "https://open.spotify.com/track/1iLQ6TLiUWa91dvELYujTh"
+    },
+    {
+      "album": {
         "name": "Brainscan",
         "url": "https://open.spotify.com/album/1okD2gCvgwRcMxdSDVJ2Tz"
       },

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Sabrina Carpenter
+> 50 nejžhavějších hitů v České republice\. Cover: Pil C, Luca Brassi10x
 
-50 songs - 2 hr 19 min
+51 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,12 +35,13 @@
 | [Letná](https://open.spotify.com/track/7JLiGPvaKNNrYJHfzfANe5) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Letná](https://open.spotify.com/album/71pgnbzr7VB04NEUGQsU6F) | 2:16 | 2024-07-01 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 |  |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-07-09 |
 | [MMA](https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [ZVÍŘE](https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf) | 3:04 | 2024-07-01 |  |
 | [MONA LISA](https://open.spotify.com/track/7K9hPmzDGuo9WxKG5B1X1Y) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [MONA LISA](https://open.spotify.com/album/0e60PL1Bp0RMNWAeqWJuqC) | 2:39 | 2024-07-01 |  |
 | [moonlight](https://open.spotify.com/track/73b9g7mz0PGG7NrwZm9xly) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [moonlight](https://open.spotify.com/album/11YiuP5u4DIIzrUWj61VDG) | 3:03 | 2024-07-01 |  |
 | [Narcos](https://open.spotify.com/track/1OWQtElgSSmAcIT6fZLJ6R) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Narcos](https://open.spotify.com/album/5RFUeH46MDwQ1PSIPJM6s5) | 3:11 | 2024-07-01 |  |
 | [nehledá lásku](https://open.spotify.com/track/3SDPxc5VPZu05EtU2UhxEX) | [Renne Dang](https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i) | [nehledá lásku](https://open.spotify.com/album/7Cd1hKXCgCiv0ErYNO0WLW) | 2:36 | 2024-07-01 |  |
+| [NENI STRE$S](https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [VOJNA](https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ) | 2:49 | 2024-07-08 |  |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-07-01 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 |  |
 | [Pondělí až neděle \- Sped Up](https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6) | [Totally Nothin](https://open.spotify.com/artist/4esOzxPLunJ597xOtRt0A1), [DJ Kadr](https://open.spotify.com/artist/1GFQTS0zSjX2tLhV37rFkU) | [Waves](https://open.spotify.com/album/7aGS901TtaEwj4PzRQxeGy) | 3:27 | 2024-07-01 |  |

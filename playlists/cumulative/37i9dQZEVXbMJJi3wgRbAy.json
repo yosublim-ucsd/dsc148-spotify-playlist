@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 244093,
       "name": "Cielo De Un Solo Color",
       "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
@@ -5912,7 +5912,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 185241,
       "name": "FLECHAZO EN EL CENTRO",
       "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
@@ -10363,6 +10363,24 @@
     },
     {
       "album": {
+        "name": "Muevelo",
+        "url": "https://open.spotify.com/album/0w4JnXtWCYWByt6ZJ3MMr4"
+      },
+      "artists": [
+        {
+          "name": "La Deskarga",
+          "url": "https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180822,
+      "name": "Muevelo",
+      "url": "https://open.spotify.com/track/0lY8BvO7CmINsGiG0gc8O2"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -10614,7 +10632,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 158535,
       "name": "Ni Una Ni Dos",
       "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"

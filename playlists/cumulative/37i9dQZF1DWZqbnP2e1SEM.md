@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-364 songs - 19 hr 36 min
+365 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-06-14 |  |
 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 | 2024-07-05 |  |
 | [Ladbroke Grove](https://open.spotify.com/track/7b4ky1LlQLFhXHmhZkFgqV) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [AJ Tracey](https://open.spotify.com/album/0vrKGjXSGcTsxNGxQdXT5p) | 3:10 | 2021-07-09 | 2022-05-11 |
-| [Ladybug](https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj) | [Düzer](https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ) | [Ladybug](https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R) | 2:06 | 2023-09-11 |  |
+| [Ladybug](https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj) | [Düzer](https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ) | [Ladybug](https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R) | 2:06 | 2023-09-11 | 2024-07-09 |
 | [Let Me Love You \- Club Mix](https://open.spotify.com/track/7EUIv0ygwh1Z10Km2z1Jbo) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Let Me Love You \(Club Mix\)](https://open.spotify.com/album/7ll9skDp7tYCUwUt5uFPd7) | 3:30 | 2021-07-09 | 2022-05-11 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-05-16 |  |
 | [Lies](https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/2hvJIyjOG3bn3hNRS2za58) | 3:16 | 2021-07-09 | 2022-07-29 |
@@ -281,6 +281,7 @@
 | [Runnin](https://open.spotify.com/track/1UohCjO8pinVHaIYsLRY82) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Runnin](https://open.spotify.com/album/1AQAGfzhC4TDeEhf29rqrU) | 3:40 | 2021-07-09 | 2022-05-11 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-06-20 | 2024-07-05 |
 | [Sambuca \- Original Mix \(Radio Edit\) \[feat\. Dennis G\]](https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G](https://open.spotify.com/artist/6WYJfdKmpyNmKTiqAlR6bb) | [Sambuca](https://open.spotify.com/album/0mN3UsfFUA1JZFsWX8i3kg) | 3:24 | 2021-07-09 | 2022-05-11 |
+| [SAVE ME](https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [SAVE ME](https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l) | 3:36 | 2024-07-05 |  |
 | [Secrets](https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/5gz0manw16JDHq1wwJDZl7) | 2:56 | 2021-07-09 | 2023-09-12 |
 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-05-10 | 2024-06-14 |
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-06-14 |  |

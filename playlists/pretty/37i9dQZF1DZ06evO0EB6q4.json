@@ -1,12 +1,12 @@
 {
-  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
-  "num_followers": 217973,
+  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
+  "num_followers": 218067,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAACSNVpyaoXV31kMBb883q55",
+  "snapshot_id": "ZonagAAAAAAwUigUulBNAsGvmaCmBx0p",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Look",
         "url": "https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 169010,
       "name": "Tu Look",
       "url": "https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
     },
     {
       "added_at": null,

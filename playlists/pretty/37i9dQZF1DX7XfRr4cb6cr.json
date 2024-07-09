@@ -1,6 +1,6 @@
 {
   "description": "Hymns for darker hours.",
-  "num_followers": 199229,
+  "num_followers": 199362,
   "original_name": "Dark Ambient",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "A Shimmer in the Void",
+        "url": "https://open.spotify.com/album/573u28okxfMLC50wzehOWy"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "all i feel is an empty void",
+      "url": "https://open.spotify.com/track/7Fy7wF7CcszlAss8kUVq7D"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -175,26 +191,6 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 187863,
-      "name": "Fantas Morbida",
-      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -235,6 +231,26 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 187863,
+      "name": "Fantas Morbida",
+      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "Mystical Spirit",
         "url": "https://open.spotify.com/album/49uh2JKUhUT03aw0z2ceFt"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "A Shimmer in the Void",
-        "url": "https://open.spotify.com/album/573u28okxfMLC50wzehOWy"
-      },
-      "artists": [
-        {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "all i feel is an empty void",
-      "url": "https://open.spotify.com/track/7Fy7wF7CcszlAss8kUVq7D"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Vaara",
         "url": "https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Fen",
-        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
-      },
-      "artists": [
-        {
-          "name": "Wac\u0142aw Zimpel",
-          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "Fen",
-      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "OTVR",
         "url": "https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 521375,
       "name": "><\u22c3\u2283\u2283\u2211",
       "url": "https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Fen",
+        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
+      },
+      "artists": [
+        {
+          "name": "Wac\u0142aw Zimpel",
+          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "Fen",
+      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 123003,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "That Light, As the Door Closed",
         "url": "https://open.spotify.com/album/4XUsuXNUUuuCTIDjeUhjNL"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 123003,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "this feels like the beginning",
         "url": "https://open.spotify.com/album/5SOdDcqDqIjugvKJcMdztD"
       },
@@ -683,26 +683,6 @@
       "duration_ms": 264000,
       "name": "this feels like the beginning",
       "url": "https://open.spotify.com/track/2SslDUGBv2etZLquEm0OIX"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l"
-      },
-      "artists": [
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 366825,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -735,6 +715,26 @@
       "duration_ms": 308000,
       "name": "River Whispering Run",
       "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l"
+      },
+      "artists": [
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 366825,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "132,480 minutes",
-        "url": "https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm"
-      },
-      "artists": [
-        {
-          "name": "58918012",
-          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
-        }
-      ],
-      "duration_ms": 197875,
-      "name": "North",
-      "url": "https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "In Light Of Blues",
         "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 187245,
       "name": "Melancholy Movement",
       "url": "https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "132,480 minutes",
+        "url": "https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm"
+      },
+      "artists": [
+        {
+          "name": "58918012",
+          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+        }
+      ],
+      "duration_ms": 197875,
+      "name": "North",
+      "url": "https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "132,480 minutes",
-        "url": "https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm"
+        "name": "Alt:01",
+        "url": "https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs"
       },
       "artists": [
         {
-          "name": "58918012",
-          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+          "name": "Carbon Based Lifeforms",
+          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
         }
       ],
-      "duration_ms": 300000,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg"
+      "duration_ms": 170000,
+      "name": "Cube",
+      "url": "https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Alt:01",
-        "url": "https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs"
-      },
-      "artists": [
-        {
-          "name": "Carbon Based Lifeforms",
-          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Cube",
-      "url": "https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 267871,
       "name": "Enerhodar",
       "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "132,480 minutes",
+        "url": "https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm"
+      },
+      "artists": [
+        {
+          "name": "58918012",
+          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "A Body Turns To Eden",
-        "url": "https://open.spotify.com/album/3gYajjdwhAWF8Pzbl0xKAm"
-      },
-      "artists": [
-        {
-          "name": "Body Sculptures",
-          "url": "https://open.spotify.com/artist/71XkAfWI8OWbuXBrsdJnAt"
-        }
-      ],
-      "duration_ms": 202779,
-      "name": "A Collection Of Ceramic Vases (Yves Saint Laurent Buried In The Garden Of His Marrakesh Home)",
-      "url": "https://open.spotify.com/track/1MwAwmw5LXeV2N5AtG9mYi"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 196634,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "A Body Turns To Eden",
+        "url": "https://open.spotify.com/album/3gYajjdwhAWF8Pzbl0xKAm"
+      },
+      "artists": [
+        {
+          "name": "Body Sculptures",
+          "url": "https://open.spotify.com/artist/71XkAfWI8OWbuXBrsdJnAt"
+        }
+      ],
+      "duration_ms": 202779,
+      "name": "A Collection Of Ceramic Vases (Yves Saint Laurent Buried In The Garden Of His Marrakesh Home)",
+      "url": "https://open.spotify.com/track/1MwAwmw5LXeV2N5AtG9mYi"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Little One",
-      "url": "https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 152213,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Little One",
+      "url": "https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
+        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amara",
+          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
+        }
+      ],
+      "duration_ms": 188875,
+      "name": "Piano II",
+      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "Far Within Reach",
         "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
-        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amara",
-          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
-        }
-      ],
-      "duration_ms": 188875,
-      "name": "Piano II",
-      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Time Travel",
         "url": "https://open.spotify.com/album/0YcPJToykCH6HMPk9R0gPm"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 192500,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/5uFH2z81nnknaxof1PwWyq"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "4-Track Guitar Music",
         "url": "https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Beyond Entropia",
-        "url": "https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr"
+        "name": "Cast Of Mind",
+        "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
       },
       "artists": [
         {
-          "name": "Shunkan Idou",
-          "url": "https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 457142,
-      "name": "Beyond Entropia",
-      "url": "https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea"
+      "duration_ms": 435276,
+      "name": "Bondage To Formula",
+      "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Cast Of Mind",
-        "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
+        "name": "Beyond Entropia",
+        "url": "https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr"
       },
       "artists": [
         {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+          "name": "Shunkan Idou",
+          "url": "https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs"
         }
       ],
-      "duration_ms": 435276,
-      "name": "Bondage To Formula",
-      "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
+      "duration_ms": 457142,
+      "name": "Beyond Entropia",
+      "url": "https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Dokkaebi",
-        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
+        "name": "Folding, A Study",
+        "url": "https://open.spotify.com/album/6wiGtb9WnjxZWTe2XFq3Bk"
       },
       "artists": [
         {
-          "name": "Ben Bertrand",
-          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
+          "name": "Innesti",
+          "url": "https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE"
         }
       ],
-      "duration_ms": 498573,
-      "name": "The Nixe of John Cage's River",
-      "url": "https://open.spotify.com/track/6oq6jkurHXr3q9RhAeEkQ7"
+      "duration_ms": 307656,
+      "name": "Disregarding Time",
+      "url": "https://open.spotify.com/track/6z5Wi1WMciQrg9v9J1Wz9X"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Folding, A Study",
-        "url": "https://open.spotify.com/album/6wiGtb9WnjxZWTe2XFq3Bk"
+        "name": "Dokkaebi",
+        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
       },
       "artists": [
         {
-          "name": "Innesti",
-          "url": "https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE"
+          "name": "Ben Bertrand",
+          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
         }
       ],
-      "duration_ms": 307656,
-      "name": "Disregarding Time",
-      "url": "https://open.spotify.com/track/6z5Wi1WMciQrg9v9J1Wz9X"
+      "duration_ms": 498573,
+      "name": "The Nixe of John Cage's River",
+      "url": "https://open.spotify.com/track/6oq6jkurHXr3q9RhAeEkQ7"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1783,38 +1783,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/4ihYSzyNbJ2Xk5XgmdyFtS"
-      },
-      "artists": [
-        {
-          "name": "Port Salut",
-          "url": "https://open.spotify.com/artist/1IoFjHa1ryRDvckLz1bD7r"
-        }
-      ],
-      "duration_ms": 152279,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/6ghDVCa0ybhPsQVtj9DxF0"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Tonality Number Two",
-        "url": "https://open.spotify.com/album/5oBgqdlZD5hLoSHnXZRRGo"
-      },
-      "artists": [
-        {
-          "name": "Mike Lazarev",
-          "url": "https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc"
-        }
-      ],
-      "duration_ms": 399681,
-      "name": "Tonality Number Two",
-      "url": "https://open.spotify.com/track/4lfuGnhMu24Gt96e0JYVI0"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Breakdown",
         "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
       },
@@ -1827,6 +1795,22 @@
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4ihYSzyNbJ2Xk5XgmdyFtS"
+      },
+      "artists": [
+        {
+          "name": "Port Salut",
+          "url": "https://open.spotify.com/artist/1IoFjHa1ryRDvckLz1bD7r"
+        }
+      ],
+      "duration_ms": 152279,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/6ghDVCa0ybhPsQVtj9DxF0"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1847,6 +1831,22 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "Tonality Number Two",
+        "url": "https://open.spotify.com/album/5oBgqdlZD5hLoSHnXZRRGo"
+      },
+      "artists": [
+        {
+          "name": "Mike Lazarev",
+          "url": "https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc"
+        }
+      ],
+      "duration_ms": 399681,
+      "name": "Tonality Number Two",
+      "url": "https://open.spotify.com/track/4lfuGnhMu24Gt96e0JYVI0"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "0011000",
         "url": "https://open.spotify.com/album/62nXuvzH4ECThotjQqPAhI"
       },
@@ -1859,54 +1859,6 @@
       "duration_ms": 274927,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7ulPUJ5ATvzceGQkdwFNHT"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Kinesthesia",
-        "url": "https://open.spotify.com/album/2ZdAP7EYlFz4iH89riAGx1"
-      },
-      "artists": [
-        {
-          "name": "Go Outside",
-          "url": "https://open.spotify.com/artist/1OPG6NXv9amCirudpuShcD"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "the water rushing over my skin",
-      "url": "https://open.spotify.com/track/3XV3UzNtzopyJAgLh5TqtF"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Hyna Ruje",
-        "url": "https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 338431,
-      "name": "Hyna Ruje",
-      "url": "https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Slow for an Instant",
-        "url": "https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Still Like the South Wind",
-      "url": "https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1927,6 +1879,54 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "Hyna Ruje",
+        "url": "https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 338431,
+      "name": "Hyna Ruje",
+      "url": "https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Kinesthesia",
+        "url": "https://open.spotify.com/album/2ZdAP7EYlFz4iH89riAGx1"
+      },
+      "artists": [
+        {
+          "name": "Go Outside",
+          "url": "https://open.spotify.com/artist/1OPG6NXv9amCirudpuShcD"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "the water rushing over my skin",
+      "url": "https://open.spotify.com/track/3XV3UzNtzopyJAgLh5TqtF"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Slow for an Instant",
+        "url": "https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Still Like the South Wind",
+      "url": "https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "L\u2019Autopsie Ph\u00e9nom\u00e9nale de Dieu",
         "url": "https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy"
       },
@@ -1939,22 +1939,6 @@
       "duration_ms": 243720,
       "name": "Nimmermeer",
       "url": "https://open.spotify.com/track/0UtJl0s4oQCAd7p73uUGi1"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Observation of Breath",
-        "url": "https://open.spotify.com/album/2XGBwfEC7ovLUTttUVUpmZ"
-      },
-      "artists": [
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "And A Twist",
-      "url": "https://open.spotify.com/track/1OA0e38XJKFh8rcGhmHRLg"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -1975,6 +1959,38 @@
       "duration_ms": 457639,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Observation of Breath",
+        "url": "https://open.spotify.com/album/2XGBwfEC7ovLUTttUVUpmZ"
+      },
+      "artists": [
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "And A Twist",
+      "url": "https://open.spotify.com/track/1OA0e38XJKFh8rcGhmHRLg"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Pale Ravine",
+        "url": "https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Stone Beacon",
+      "url": "https://open.spotify.com/track/5whrXD70ulKcdCsl0ZMQtO"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -2015,22 +2031,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Pale Ravine",
-        "url": "https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Stone Beacon",
-      "url": "https://open.spotify.com/track/5whrXD70ulKcdCsl0ZMQtO"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP"
       },
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Ghost Years",
-        "url": "https://open.spotify.com/album/64C04hVlI5tUvYITFP4A5t"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "A Room By The Sea",
-      "url": "https://open.spotify.com/track/5RBmvixc07zpY2jQvigNXf"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Nuuk",
         "url": "https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc"
       },
@@ -2079,22 +2063,6 @@
       "duration_ms": 290813,
       "name": "Nuuk (Air)",
       "url": "https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Dwfn",
-        "url": "https://open.spotify.com/album/4JiYuczkOvLDeTbkWQmFZ1"
-      },
-      "artists": [
-        {
-          "name": "Carwyn",
-          "url": "https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Dwfn",
-      "url": "https://open.spotify.com/track/1uMM2tn0kfRutm6vVtGrXN"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -2115,6 +2083,38 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "Ghost Years",
+        "url": "https://open.spotify.com/album/64C04hVlI5tUvYITFP4A5t"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "A Room By The Sea",
+      "url": "https://open.spotify.com/track/5RBmvixc07zpY2jQvigNXf"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Dwfn",
+        "url": "https://open.spotify.com/album/4JiYuczkOvLDeTbkWQmFZ1"
+      },
+      "artists": [
+        {
+          "name": "Carwyn",
+          "url": "https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Dwfn",
+      "url": "https://open.spotify.com/track/1uMM2tn0kfRutm6vVtGrXN"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "Winter Ashes",
         "url": "https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N"
       },
@@ -2127,30 +2127,6 @@
       "duration_ms": 204358,
       "name": "Path of Devotion",
       "url": "https://open.spotify.com/track/6GfYaRGWjzvvakXv9okhjB"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Ambavi",
-        "url": "https://open.spotify.com/album/1M6QRkZzYvIYZ97f15zwBl"
-      },
-      "artists": [
-        {
-          "name": "Alleviation",
-          "url": "https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw"
-        },
-        {
-          "name": "Anarekli",
-          "url": "https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N"
-        },
-        {
-          "name": "Buneba",
-          "url": "https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek"
-        }
-      ],
-      "duration_ms": 141864,
-      "name": "Ambavi",
-      "url": "https://open.spotify.com/track/255kpkW8fGXGGrAwjfWGdp"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -2211,6 +2187,30 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "Ambavi",
+        "url": "https://open.spotify.com/album/1M6QRkZzYvIYZ97f15zwBl"
+      },
+      "artists": [
+        {
+          "name": "Alleviation",
+          "url": "https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw"
+        },
+        {
+          "name": "Anarekli",
+          "url": "https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N"
+        },
+        {
+          "name": "Buneba",
+          "url": "https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek"
+        }
+      ],
+      "duration_ms": 141864,
+      "name": "Ambavi",
+      "url": "https://open.spotify.com/track/255kpkW8fGXGGrAwjfWGdp"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "Ingenmansland",
         "url": "https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk"
       },
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "DarkSonicTales",
+        "url": "https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG"
+      },
+      "artists": [
+        {
+          "name": "DarkSonicTales",
+          "url": "https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv"
+        }
+      ],
+      "duration_ms": 177971,
+      "name": "Info Pandemie",
+      "url": "https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
       },
@@ -2271,38 +2287,6 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "DarkSonicTales",
-        "url": "https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG"
-      },
-      "artists": [
-        {
-          "name": "DarkSonicTales",
-          "url": "https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv"
-        }
-      ],
-      "duration_ms": 177971,
-      "name": "Info Pandemie",
-      "url": "https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Building Reflections",
-        "url": "https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G"
-      },
-      "artists": [
-        {
-          "name": "Nature of Wires",
-          "url": "https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/4VutvadT8VMWlf8a9PV3D7"
       },
@@ -2319,34 +2303,18 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Himmelskib",
-        "url": "https://open.spotify.com/album/5Uqh5meF5vlmBuKpsQ7dnG"
+        "name": "Building Reflections",
+        "url": "https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G"
       },
       "artists": [
         {
-          "name": "Stilhed",
-          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
+          "name": "Nature of Wires",
+          "url": "https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi"
         }
       ],
-      "duration_ms": 235636,
-      "name": "Himmelskib",
-      "url": "https://open.spotify.com/track/0xYPApZy4jkoLahwQVAyyy"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Flares",
-        "url": "https://open.spotify.com/album/6Yv3ekSm9BZZUMNYGThQET"
-      },
-      "artists": [
-        {
-          "name": "George Rigby",
-          "url": "https://open.spotify.com/artist/2UEHkOF3Huut1NMjnbE6MI"
-        }
-      ],
-      "duration_ms": 288750,
-      "name": "Flares",
-      "url": "https://open.spotify.com/track/281H1In7yvWliTGR2B2k9Q"
+      "duration_ms": 195200,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -2379,6 +2347,38 @@
       "duration_ms": 342173,
       "name": "The Aurae Loops",
       "url": "https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Himmelskib",
+        "url": "https://open.spotify.com/album/5Uqh5meF5vlmBuKpsQ7dnG"
+      },
+      "artists": [
+        {
+          "name": "Stilhed",
+          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Himmelskib",
+      "url": "https://open.spotify.com/track/0xYPApZy4jkoLahwQVAyyy"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
+        "name": "Flares",
+        "url": "https://open.spotify.com/album/6Yv3ekSm9BZZUMNYGThQET"
+      },
+      "artists": [
+        {
+          "name": "George Rigby",
+          "url": "https://open.spotify.com/artist/2UEHkOF3Huut1NMjnbE6MI"
+        }
+      ],
+      "duration_ms": 288750,
+      "name": "Flares",
+      "url": "https://open.spotify.com/track/281H1In7yvWliTGR2B2k9Q"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -2463,6 +2463,30 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
+        "name": "Hope and Fate",
+        "url": "https://open.spotify.com/album/4ELMGh7AabrbLQLrMsWgOP"
+      },
+      "artists": [
+        {
+          "name": "Sunlight Jr.",
+          "url": "https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC"
+        },
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        },
+        {
+          "name": "Open Palm",
+          "url": "https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb"
+        }
+      ],
+      "duration_ms": 227708,
+      "name": "Hope and Fate",
+      "url": "https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8"
+    },
+    {
+      "added_at": "2024-05-28 18:33:06",
+      "album": {
         "name": "Kingen",
         "url": "https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf"
       },
@@ -2495,26 +2519,18 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Hope and Fate",
-        "url": "https://open.spotify.com/album/4ELMGh7AabrbLQLrMsWgOP"
+        "name": "Studie I N\u00e4rhet, L\u00e4ngtan & Besvikelse",
+        "url": "https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M"
       },
       "artists": [
         {
-          "name": "Sunlight Jr.",
-          "url": "https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC"
-        },
-        {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
-        },
-        {
-          "name": "Open Palm",
-          "url": "https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb"
+          "name": "F\u00f6dd D\u00f6d",
+          "url": "https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs"
         }
       ],
-      "duration_ms": 227708,
-      "name": "Hope and Fate",
-      "url": "https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8"
+      "duration_ms": 380819,
+      "name": "Sista Dagen",
+      "url": "https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA"
     },
     {
       "added_at": "2024-05-28 18:33:06",
@@ -2535,54 +2551,34 @@
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Studie I N\u00e4rhet, L\u00e4ngtan & Besvikelse",
-        "url": "https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M"
+        "name": "Evighet",
+        "url": "https://open.spotify.com/album/7Cd5dCtulmThozmYAv1I9s"
       },
       "artists": [
         {
-          "name": "F\u00f6dd D\u00f6d",
-          "url": "https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs"
+          "name": "Purl",
+          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
         }
       ],
-      "duration_ms": 380819,
-      "name": "Sista Dagen",
-      "url": "https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA"
+      "duration_ms": 474125,
+      "name": "Thaw",
+      "url": "https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir"
     },
     {
       "added_at": "2024-05-28 18:33:06",
       "album": {
-        "name": "Frozen Plains",
-        "url": "https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7"
+        "name": "Escape Artists Never Die",
+        "url": "https://open.spotify.com/album/2SeuyahrgV7gkJzMxCStkk"
       },
       "artists": [
         {
-          "name": "Lauge",
-          "url": "https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY"
-        },
-        {
-          "name": "Baba Gnohm",
-          "url": "https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF"
+          "name": "Yamaneko",
+          "url": "https://open.spotify.com/artist/003Lrmd4Hy04kSf0wZm3xm"
         }
       ],
-      "duration_ms": 338075,
-      "name": "Frozen Plains",
-      "url": "https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ"
-    },
-    {
-      "added_at": "2024-05-28 18:33:06",
-      "album": {
-        "name": "Silkworms",
-        "url": "https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY"
-      },
-      "artists": [
-        {
-          "name": "Hannu Karjalainen",
-          "url": "https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00"
-        }
-      ],
-      "duration_ms": 575471,
-      "name": "Silkworms",
-      "url": "https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb"
+      "duration_ms": 197000,
+      "name": "\u7a7a (emptiness or sky)",
+      "url": "https://open.spotify.com/track/5Ly1vhDgzs1YJJGdkA8GNu"
     }
   ],
   "unique_name": "Dark Ambient",

@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 162266,
+  "num_followers": 162280,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "The IPA Song",
-        "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
+        "name": "Last Chance to Win",
+        "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        },
-        {
-          "name": "Ronnie McCoury",
-          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
         }
       ],
-      "duration_ms": 174381,
-      "name": "The IPA Song",
-      "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
+      "duration_ms": 151728,
+      "name": "I Almost Told Her",
+      "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -295,18 +291,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Last Chance to Win",
-        "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
+        "name": "The IPA Song",
+        "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
       },
       "artists": [
         {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        },
+        {
+          "name": "Ronnie McCoury",
+          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
         }
       ],
-      "duration_ms": 151728,
-      "name": "I Almost Told Her",
-      "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
+      "duration_ms": 174381,
+      "name": "The IPA Song",
+      "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "God Fearing Heathen",
-        "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 200622,
-      "name": "Never Comin' Home",
-      "url": "https://open.spotify.com/track/1bSNnXPvsUZ8ZEN51DLgFb"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 196677,
       "name": "Castilleja",
       "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "God Fearing Heathen",
+        "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 200622,
+      "name": "Never Comin' Home",
+      "url": "https://open.spotify.com/track/1bSNnXPvsUZ8ZEN51DLgFb"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Can't Live Without Love",
         "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1323,6 +1307,74 @@
       "duration_ms": 236213,
       "name": "Living In A Song",
       "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1367,70 +1419,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Saltbush Express",
-        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
       },
       "artists": [
         {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
         }
       ],
-      "duration_ms": 171823,
-      "name": "Saltbush Express",
-      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Tiny Wooden Box",
-        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Tiny Wooden Box",
-      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
-        }
-      ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+      "duration_ms": 222302,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1451,38 +1451,6 @@
       "duration_ms": 230032,
       "name": "Blue Smoke",
       "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
-      },
-      "artists": [
-        {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
-        }
-      ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Disarm",
-        "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 222302,
-      "name": "Disarm",
-      "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1527,6 +1495,38 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+      },
+      "artists": [
+        {
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Kinetic Tone",
         "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 292000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
-      },
-      "artists": [
-        {
-          "name": "Hogslop String Band",
-          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
-        }
-      ],
-      "duration_ms": 256997,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
       },
       "artists": [
         {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+          "name": "Hogslop String Band",
+          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+      "duration_ms": 256997,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Something You Didn't Count On",
+        "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 173183,
+      "name": "Something You Didn\u2019t Count On",
+      "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "This Valley",
         "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 160471,
       "name": "Heartbreak Train",
       "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Something You Didn't Count On",
-        "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 173183,
-      "name": "Something You Didn\u2019t Count On",
-      "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Kentucky Highway",
         "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 219493,
       "name": "Kentucky Highway",
       "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-06-13 10:05:29",

@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 133863,
       "name": "Always Forward - Live",
       "url": "https://open.spotify.com/track/4aXZt7G5oiuybIrNH5Zvml"
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 115641,
       "name": "Back Up",
       "url": "https://open.spotify.com/track/6cweomcd7oH1CRGxLCrpVy"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 120000,
       "name": "Biography",
       "url": "https://open.spotify.com/track/14LIi6WxoPl1ZtDb3qppIK"
@@ -5504,7 +5504,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 171216,
       "name": "Boucan (feat. Franglish)",
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
@@ -5838,7 +5838,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 106913,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/4jxBDmXIqSSWxb8cqznoU8"
@@ -8604,7 +8604,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 212307,
       "name": "Crescent City Gris Gris",
       "url": "https://open.spotify.com/track/63U6DfyI5KaDmVJoPGM7pg"
@@ -12836,7 +12836,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
@@ -13482,7 +13482,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -14992,7 +14992,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 106167,
       "name": "God's Work",
       "url": "https://open.spotify.com/track/6Lh9D1YLtkKPkHwCVaDTef"
@@ -17006,7 +17006,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 148241,
       "name": "I Didn't Say My Name Anymore",
       "url": "https://open.spotify.com/track/48DQ4Bla09W0WvIidhfxG7"
@@ -17542,7 +17542,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -29688,7 +29688,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 148421,
       "name": "Renew Me - Live",
       "url": "https://open.spotify.com/track/2E7wibWdZRLj0gfVpQAz7Y"
@@ -31586,7 +31586,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 102095,
       "name": "Security Dog",
       "url": "https://open.spotify.com/track/5c1cWBGJi65WC7LK8hvLzF"
@@ -34350,7 +34350,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 222533,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
@@ -34825,6 +34825,24 @@
     },
     {
       "album": {
+        "name": "Plant\u00e3o do Vitim",
+        "url": "https://open.spotify.com/album/1sAPTpCnB9HI7AqtGMd39x"
+      },
+      "artists": [
+        {
+          "name": "Vitor Amaral",
+          "url": "https://open.spotify.com/artist/5BR3g7k0JOUJFIwnJsYpuT"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116818,
+      "name": "S\u00f3 n\u00e3o dou meu celular",
+      "url": "https://open.spotify.com/track/54EszaZ4wLw5PifFJ5NIhb"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -35064,7 +35082,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 102510,
       "name": "Tatiana",
       "url": "https://open.spotify.com/track/6fDv1d2oNwkA8xZgy8FeRb"
@@ -36230,7 +36248,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 114111,
       "name": "The Whole City",
       "url": "https://open.spotify.com/track/5zquRILII4WPAmd07BgmSW"
@@ -36342,7 +36360,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
@@ -36859,6 +36877,24 @@
     },
     {
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/1P74A3k49nCWZb0oKWZ0D2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Frank",
+          "url": "https://open.spotify.com/artist/66ncCm1SQhsLw1zxs9OslW"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/6WJrbv8RdKOx9X0hQrTK6C"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -37282,7 +37318,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
@@ -39070,7 +39106,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1"

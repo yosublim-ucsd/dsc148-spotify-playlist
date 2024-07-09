@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,907 likes - 509 songs - 1 day 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,912 likes - 509 songs - 1 day 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 65 | [I'll Be Your Shelter](https://open.spotify.com/track/4hbXvRJfgctBgz7PVBtWQu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:43 |
 | 66 | [When I Die](https://open.spotify.com/track/4z1IYRhVpbLCBaqZXYIl66) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:29 |
 | 67 | [When the Night Comes](https://open.spotify.com/track/1akny2bg3n4bvx9B5YLcFo) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [One Night of Sin](https://open.spotify.com/album/0a4PqyHhQ9abMAx2RP2VT3) | 4:48 |
-| 68 | [Music of My Heart \(feat\. \*NSYNC\)](https://open.spotify.com/track/5R1o62NWgY4PB4BLuGKTeT) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Music of My Heart \(feat\. \*NSYNC\)](https://open.spotify.com/album/1305nBpr8IbjCVkdrpeyW9) | 4:30 |
-| 69 | [The One I Gave My Heart To](https://open.spotify.com/track/5otUV0LUycAHXqGVz8bZY0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:30 |
+| 68 | [The One I Gave My Heart To](https://open.spotify.com/track/5otUV0LUycAHXqGVz8bZY0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:30 |
+| 69 | [Music of My Heart \(feat\. \*NSYNC\)](https://open.spotify.com/track/5R1o62NWgY4PB4BLuGKTeT) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Music of My Heart \(feat\. \*NSYNC\)](https://open.spotify.com/album/1305nBpr8IbjCVkdrpeyW9) | 4:30 |
 | 70 | [I Love You Goodbye](https://open.spotify.com/track/54OvU2GG8ic8x6p0UqWIpt) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:33 |
 | 71 | [She’s Fire](https://open.spotify.com/track/0hP4n7XV0olkYL8mwB9GXZ) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:33 |
 | 72 | [Who Will You Run To](https://open.spotify.com/track/2G7ttyDosjWmunOYsNRm0C) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 4:06 |
@@ -299,8 +299,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 289 | [Bitch On Heels](https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp) | [Bitch On Heels](https://open.spotify.com/album/62i4YXPijTuG2Gl22xCqmd) | 3:10 |
 | 290 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 |
 | 291 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
-| 292 | [Beautiful Scars](https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Beautiful Scars](https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw) | 3:24 |
-| 293 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
+| 292 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
+| 293 | [Beautiful Scars](https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Beautiful Scars](https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw) | 3:24 |
 | 294 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 |
 | 295 | [No Cambies Nunca](https://open.spotify.com/track/1OJWlKLKnn08aK89mr44I6) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:38 |
 | 296 | [Where Do I Go From You](https://open.spotify.com/track/6Z4z8B5DQiDJSB9iWOi1G0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:25 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbWFvgAAAADh7hZwY3tSZmYXbLm55j6I`
+Snapshot ID: `AbWLYgAAAAC0od8m/o2eJ0AfPsFcdJM7`

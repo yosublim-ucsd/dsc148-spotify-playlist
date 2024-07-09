@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,095 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,184 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 14 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 15 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
 | 16 | [Lifesaver](https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Baybe](https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br) | [Jazzmatazz Volume II: The New Reality](https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz) | 4:13 |
-| 17 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
-| 18 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
+| 17 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
+| 18 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 | 19 | [I'll Stay](https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 7:50 |
 | 20 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
 | 21 | [Where Are We Going?](https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Blackbyrd](https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ) | 4:37 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 80 | [Again Again](https://open.spotify.com/track/5qI3ZZy5B6AbtjS8DBmxY7) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [My Fish Is Burning \- EP](https://open.spotify.com/album/2keZtH0yWLiy7CwQuUiEBI) | 5:05 |
 | 81 | [Take Four](https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM) | [The Quiet Boys](https://open.spotify.com/artist/6iYeCjvRYeWPSp5LjaiIMt) | [Bosh!](https://open.spotify.com/album/2HbZzv8puv4OrDL90MluOh) | 3:33 |
 | 82 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 |
-| 83 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
-| 84 | [Web of Deception](https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 4:32 |
+| 83 | [Web of Deception](https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 4:32 |
+| 84 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
 | 85 | [Coffee Kingdom](https://open.spotify.com/track/4iGTyu7gIuqcs278VEZdPo) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Back & Forth](https://open.spotify.com/album/55mgFgnWo4vJJc6pydpB1A) | 7:10 |
 | 86 | [Crazy That You Love](https://open.spotify.com/track/3aNpDqzNSONgd2wJA8iBLx) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Crazy That You Love](https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf) | 3:29 |
 | 87 | [Broken Biscuits](https://open.spotify.com/track/0CVX6UKcZkfS2vGrqbQKXI) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Nadya Albertsson](https://open.spotify.com/artist/5Tth72I5bVVp0ndOMDnu3A) | [Broken Biscuits](https://open.spotify.com/album/4RWrAbKH3H9J3oAQLwFL8B) | 6:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
 | 90 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 |
 
-Snapshot ID: `ZgLUhQAAAABiwFd2Yjnj7RiLKIUyXcl5`
+Snapshot ID: `Zow/9gAAAADpd7APskX7JzGwvs43btn1`

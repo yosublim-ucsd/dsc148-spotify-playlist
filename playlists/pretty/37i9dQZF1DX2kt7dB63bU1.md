@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,541 likes - 101 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,581 likes - 101 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 100 | [Rainbow Forest \- Single Edit](https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Rainbow Forest](https://open.spotify.com/album/49FxfYcYreHnK2rOqL8sZi) | 4:50 |
 | 101 | [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 |
 
-Snapshot ID: `ZodvwAAAAACsKWVSZgRYBJzvzNG4se1s`
+Snapshot ID: `ZowuhwAAAACXDrV0DB4fuv/VuYV6n4z6`

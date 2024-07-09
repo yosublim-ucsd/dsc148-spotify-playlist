@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,142 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,206 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 65 | [Where To Put The Pain](https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Where To Put The Pain](https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai) | 3:54 |
 | 66 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
 | 67 | [NIGHT CRAWLING](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NIGHT CRAWLING](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 |
-| 68 | [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 |
+| 68 | [Snapdragon](https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Snapdragon](https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8) | 3:12 |
 | 69 | [Makkuroi Mizu \(まっくろい水\)](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
-| 70 | [Snapdragon](https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Snapdragon](https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8) | 3:12 |
+| 70 | [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 |
 | 71 | [Windows Open](https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs) | 5:18 |
 | 72 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
 | 73 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 76 | [Peculiar Machine \- Georgia Anne Muldrow Remix](https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Peculiar Machine \(Georgia Anne Muldrow Remix\)](https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV) | 3:02 |
 | 77 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |
 | 78 | [A Time To Blossom](https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW) | [Modern Cosmology](https://open.spotify.com/artist/0yxsIy3WjwZlMNjBdvvHXF), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [A Time To Blossom](https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g) | 7:18 |
-| 79 | [Cholericly Yours](https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Songs To Whistle When Strolling Along The Abyss](https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle) | 4:12 |
-| 80 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
-| 81 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
-| 82 | [Nodos](https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 3:40 |
-| 83 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 |
+| 79 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
+| 80 | [Cholericly Yours](https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Songs To Whistle When Strolling Along The Abyss](https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle) | 4:12 |
+| 81 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 |
+| 82 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
+| 83 | [Nodos](https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 3:40 |
 | 84 | [A Liberdade é Cara](https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb) | [Flak](https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4), [Cachupa Psicadelica](https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO) | [A Liberdade é Cara](https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq) | 6:20 |
 | 85 | [Une Autre Attente](https://open.spotify.com/track/7w9ZA5e8wqoFH8vyGUBqoT) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Une Autre Attente](https://open.spotify.com/album/1ySxaH3vNdGtrDk42suuA9) | 2:42 |
 | 86 | [Situation](https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2) | [Elena Setién](https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg) | [Unfamiliar Minds](https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0) | 3:00 |

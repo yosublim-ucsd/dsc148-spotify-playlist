@@ -2,7 +2,7 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:7qAu2kYGjO28g0CJERiQhM">MAJA</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a>
 
 170 songs - 8 hr 14 min
 

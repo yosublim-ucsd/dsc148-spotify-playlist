@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Sojung\(이소정\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,255 songs - 3 day 9 hr 16 min
+1,256 songs - 3 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [My Love Beside Me](https://open.spotify.com/track/7z1hfrESA5eySMpRguwLem) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 2](https://open.spotify.com/album/3voJoGIhV0ayr9ipnqeXIT) | 4:36 | 2022-01-27 | 2022-04-18 |
 | [My love, by my side](https://open.spotify.com/track/4i38lDOOf9bpG63209Fy7H) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [My love, by my side](https://open.spotify.com/album/3SeCxdjmVIB0ADwpGNdngk) | 4:07 | 2023-01-10 | 2023-02-15 |
 | [My Night, Your Night \(Feat\. Baek Sun\)](https://open.spotify.com/track/4bmWgD4GnQO2RtGUSbXm50) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Baek Sun](https://open.spotify.com/artist/7F0wW5ktsSkSSC23oeEaK9) | [My Night, Your Night](https://open.spotify.com/album/1pYR0XFLO0qDoycQgYfQp1) | 3:38 | 2022-07-04 | 2022-10-08 |
+| [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 | 2024-07-08 |  |
 | [My other half](https://open.spotify.com/track/1Uukb7wgr28uwwsiunUTau) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [My other half](https://open.spotify.com/album/39ZrD0Zsir3ooKovMcMdfj) | 3:33 | 2023-10-20 | 2023-12-14 |
 | [My Romance](https://open.spotify.com/track/2KqdVt3WWqNIla3lx41Nbh) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [The Law Cafe \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/15NYQBlwX5YbqfHOt1xgNR) | 3:21 | 2022-10-12 | 2023-01-11 |
 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 | 2021-12-20 | 2022-07-08 |

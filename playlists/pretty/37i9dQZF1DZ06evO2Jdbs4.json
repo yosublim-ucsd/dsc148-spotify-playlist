@@ -1,29 +1,13 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 27023,
+  "num_followers": 27036,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAACK5LFXy4cFFHrH2/81DlhJ",
+  "snapshot_id": "ZonagAAAAADIsaeLbB+Z4heyG5ETtu/e",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
     {
       "added_at": null,
       "album": {
@@ -531,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde las Vegas",
-        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
       },
       "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 400385,
-      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs"
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
     },
     {
       "added_at": null,
@@ -563,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+        "name": "En Vivo Desde las Vegas",
+        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
       },
       "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 170426,
-      "name": "Me Derrito (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+      "duration_ms": 400385,
+      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs"
     },
     {
       "added_at": null,
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde las Vegas",
-        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+        "name": "Para Que Baile Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
       },
       "artists": [
         {
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 296255,
-      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
+      "duration_ms": 187600,
+      "name": "Se Me Antoja",
+      "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
     },
     {
       "added_at": null,
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que Baile Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
+        "name": "En Vivo Desde las Vegas",
+        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 187600,
-      "name": "Se Me Antoja",
-      "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
+      "duration_ms": 296255,
+      "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
     },
     {
       "added_at": null,
@@ -863,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "\u00bfQu\u00e9 Hago Conmigo?",
-      "url": "https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ll\u00f3rame",
         "url": "https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf"
       },
@@ -895,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inesperadamente",
-        "url": "https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu"
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
       },
       "artists": [
         {
@@ -904,9 +872,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 189618,
-      "name": "Inesperadamente",
-      "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
+      "duration_ms": 200360,
+      "name": "\u00bfQu\u00e9 Hago Conmigo?",
+      "url": "https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW"
     },
     {
       "added_at": null,
@@ -927,6 +895,38 @@
       "duration_ms": 218767,
       "name": "Se Muri\u00f3 de Amor",
       "url": "https://open.spotify.com/track/1f5N7QP1ZNz5sw0ZD34YwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inesperadamente",
+        "url": "https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189618,
+      "name": "Inesperadamente",
+      "url": "https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Hits (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Las Movidas",
+      "url": "https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

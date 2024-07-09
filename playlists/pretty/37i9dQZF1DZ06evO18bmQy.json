@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 197831,
+  "num_followers": 197857,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAA58chSxhTenyCRtQhDid83",
+  "snapshot_id": "ZonagAAAAAD2B+RhSZU7vDo9Ud0Qc79P",
   "tracks": [
     {
       "added_at": null,
@@ -515,46 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 329008,
-      "name": "JUNHO DE 94",
-      "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
         "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
       },
@@ -583,6 +543,46 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 329008,
+      "name": "JUNHO DE 94",
+      "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
     },
     {
       "added_at": null,
@@ -659,14 +659,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #4: Todo Mundo Odeia Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ryuuX89YP2pLjQw6npG1n"
+        "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2LQ9zAze9OSDMMr2Kc9a5f"
       },
       "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
         {
           "name": "Bob do Contra",
           "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
@@ -692,13 +688,21 @@
           "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6ujnZ179RF3lS79ZBAMObr"
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
       "duration_ms": 505482,
-      "name": "Poesia Ac\u00fastica #4: Todo Mundo Odeia Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4nwQ1SG9CsAl4XoKuScF0r"
+      "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Z3m038JhRNlcuqxp49cJs"
     },
     {
       "added_at": null,
@@ -1275,26 +1279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Chances (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
       },
       "artists": [
         {
-          "name": "Akatu",
-          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 218410,
-      "name": "Zero Chances - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
+      "duration_ms": 256810,
+      "name": "Esquim\u00f3",
+      "url": "https://open.spotify.com/track/0LMO2d7QubdqrRXuQGvtfQ"
     }
   ],
   "unique_name": "This Is Djonga",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-25",
-  "description": "This is U2\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This Is U2. Los temas esenciales, todos en una lista.",
   "name": "This Is U2",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 444306,
       "name": "Moment Of Surrender",
       "url": "https://open.spotify.com/track/2PwwiKJYMYbuWh7j5yAbwT"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 243586,
       "name": "Mysterious Ways",
       "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 292845,
       "name": "Red Hill Mining Town",
       "url": "https://open.spotify.com/track/2G4F5Fc0DUFkkODwhWnbmt"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 184505,
       "name": "Stories For Boys - Live From Boston, 1981 / Remastered 2024",
       "url": "https://open.spotify.com/track/2lQGCZp62GJY3q8GpGQoMp"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "Sunday Bloody Sunday - Remastered 2008",
       "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 269053,
       "name": "The Fly",
       "url": "https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 193520,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 390506,
       "name": "Zooropa",
       "url": "https://open.spotify.com/track/0mGtbkb9zSSxZo1h3qXIDZ"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada. ",
-  "num_followers": 1880628,
+  "num_followers": 1880836,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/0Axl0XXpjltt7Hi6mzeAhx"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/0Axl0XXpjltt7Hi6mzeAhx"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+        "name": "Solo Un Dia\u2026",
+        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Nadie Como Tu\u0301",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
+      "duration_ms": 203493,
+      "name": "Solo Un Dia (Ahora Te Amo)",
+      "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Solo Un Dia\u2026",
-        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
       "artists": [
         {
-          "name": "Adan Romero",
-          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Solo Un Dia (Ahora Te Amo)",
-      "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
+      "duration_ms": 215400,
+      "name": "Nadie Como Tu\u0301",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Indeleble",
+        "url": "https://open.spotify.com/album/6AxSh2VYkdZUSZmwpLKsyk"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Indeleble",
+      "url": "https://open.spotify.com/track/6r6g6eNSA6CNXo423wJ6gV"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Indeleble",
-        "url": "https://open.spotify.com/album/6AxSh2VYkdZUSZmwpLKsyk"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Indeleble",
-      "url": "https://open.spotify.com/track/6r6g6eNSA6CNXo423wJ6gV"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Juro por Dios (En Vivo)",
         "url": "https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 202005,
       "name": "Juro por Dios - En Vivo",
       "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Puras De Viento En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 140453,
       "name": "El Que Se Enamora Pierde",
       "url": "https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2211,18 +2211,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
+        "name": "Joyas Prestadas (Banda)",
+        "url": "https://open.spotify.com/album/3LqPzDMkoS6yZ7bHDSPVlU"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 180080,
-      "name": "\u00bfPor Qu\u00e9 Terminamos?",
-      "url": "https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/3ic1CdU3u3vCLm2BlklevZ"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2243,18 +2247,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Mas Alla Del Sol",
-        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 220616,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/6s7vMcobBJB7W1WMBDjfWs"
+      "duration_ms": 180080,
+      "name": "\u00bfPor Qu\u00e9 Terminamos?",
+      "url": "https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2271,6 +2275,22 @@
       "duration_ms": 195131,
       "name": "Te Dir\u00e1n",
       "url": "https://open.spotify.com/track/6XkMhdlUmktAZJD5c2BpSZ"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Mas Alla Del Sol",
+        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/6s7vMcobBJB7W1WMBDjfWs"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2307,22 +2327,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 173186,
-      "name": "Mujer de Piedra",
-      "url": "https://open.spotify.com/track/1CqPzQJ64nkRpHmPdqRl9R"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Te He Prometido",
         "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
       },
@@ -2351,6 +2355,22 @@
       "duration_ms": 248520,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/5a53BoBNOKSUW6n4lEZOAk"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Mas Alla Del Sol",
+        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 163654,
+      "name": "Mas Alla Del Sol",
+      "url": "https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2387,38 +2407,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Joyas Prestadas (Banda)",
-        "url": "https://open.spotify.com/album/3LqPzDMkoS6yZ7bHDSPVlU"
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/3ic1CdU3u3vCLm2BlklevZ"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Mas Alla Del Sol",
-        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 163654,
-      "name": "Mas Alla Del Sol",
-      "url": "https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ"
+      "duration_ms": 173186,
+      "name": "Mujer de Piedra",
+      "url": "https://open.spotify.com/track/1CqPzQJ64nkRpHmPdqRl9R"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB"
+        "name": "Joan Sebastian",
+        "url": "https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4bjemSdlRBzNqP86omaKbq"
+      "duration_ms": 209374,
+      "name": "El Peor De Tus Antojos",
+      "url": "https://open.spotify.com/track/2oipHDyjAILailWMTyIKMo"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

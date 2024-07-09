@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,317 likes - 162 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316 likes - 162 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 54 | [Drop In the Ocean \(feat\. AronChupa\)](https://open.spotify.com/track/07idyjb93qYavu1s29HtBi) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 2:57 |
 | 55 | [Safety Pin](https://open.spotify.com/track/5leyWMqJqUXT7wc70koshC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Sounds Good Feels Good \(Deluxe\)](https://open.spotify.com/album/43v9cUsP5K0hvu9iyuAzmZ) | 3:29 |
 | 56 | [Riptide](https://open.spotify.com/track/7dTd00X8Mc5iErfQQyBA6B) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:51 |
-| 57 | [I Don't Wanna Dance](https://open.spotify.com/track/5eLpZ8zv4yncE0RFZlRpD2) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:00 |
-| 58 | [Perfect](https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:32 |
+| 57 | [Perfect](https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:32 |
+| 58 | [I Don't Wanna Dance](https://open.spotify.com/track/5eLpZ8zv4yncE0RFZlRpD2) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:00 |
 | 59 | [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 |
 | 60 | [Whistle \(While You Work It\)](https://open.spotify.com/track/5zwwXMjE6OrqfVpYGnA9RW) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Whistle \(While You Work It\)](https://open.spotify.com/album/1C0txQpTvo2z5N6Rrm6Y9D) | 3:35 |
 | 61 | [Trigger](https://open.spotify.com/track/6xVr2J3X0zhEJQz5L0QNAP) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:13 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 93 | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/track/1zKlT4kCuHmIj10cr0ZryI) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/album/0onXv14PecMSAeMZKtjgAP) | 3:32 |
 | 94 | [Put The Gun Down](https://open.spotify.com/track/17zWJmzIhnp7h3TSr2qA4K) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:45 |
 | 95 | [I Don’t Wanna Know](https://open.spotify.com/track/5kNtYmydoA9Dd959vVlKBJ) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Astrid S](https://open.spotify.com/album/5iK2afnsB8wwv9WULCE9e7) | 2:56 |
-| 96 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
-| 97 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 |
+| 96 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 |
+| 97 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
 | 98 | [Something To Hold On To](https://open.spotify.com/track/4dUDznt8BZxEK4CMLF1pqB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:38 |
 | 99 | [Hurt By You](https://open.spotify.com/track/2p0lczXtvV9R5J9aFwjevJ) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:07 |
 | 100 | [Open Up \(Dis Le Moi\)](https://open.spotify.com/track/2hGOs9C4qwQ3rsTACjbPDA) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Lola Dubini](https://open.spotify.com/artist/2x75QYHxdSfn3aPchQkJGc) | [Open Up \(Dis Le Moi\)](https://open.spotify.com/album/5eymzLKtLKptq8XfFr0fXY) | 2:48 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 161 | [Vicio \- Ft\. Mala Rodríguez](https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 3:28 |
 | 162 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbWFwgAAAAB6f6urNPqWzgisiCnjsHBQ`
+Snapshot ID: `AbWLYgAAAACbdS40gXFl2R4Ej1X+eZKO`

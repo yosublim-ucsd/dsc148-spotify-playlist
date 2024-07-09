@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-27",
-  "description": "This is Bastille. The essential tracks, all in one playlist.",
+  "description": "This Is Bastille. Los temas esenciales, todos en una lista.",
   "name": "This Is Bastille",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 173202,
       "name": "Back To The Future",
       "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 188706,
       "name": "Daniel In The Den",
       "url": "https://open.spotify.com/track/0ZasZDrI3OlDnkR5b13kj2"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 177221,
       "name": "Distorted Light Beam",
       "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 208847,
       "name": "Eight Hours",
       "url": "https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 196346,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 182681,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 200987,
       "name": "Send Them Off!",
       "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 187363,
       "name": "Shut Off The Lights",
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 229627,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 131302,
       "name": "WHAT YOU GONNA DO???",
       "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"

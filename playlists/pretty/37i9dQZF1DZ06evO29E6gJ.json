@@ -1,29 +1,13 @@
 {
-  "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 11391,
+  "description": "This Is Los Alegres De Teran. Los temas esenciales, todos en una lista.",
+  "num_followers": 11390,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAACmNUZumMdPI4lT5319LreU",
+  "snapshot_id": "ZonagAAAAAAiPIReO1oxrHaddHMMNgyh",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
-        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "la carga blanca",
-      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 218044,
       "name": "Los Tequileros",
       "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
+        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "la carga blanca",
+      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "La C\u00e1rcel De Cananea",
-      "url": "https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Alegres De Ter\u00e1n",
         "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 228026,
       "name": "Alma Rendida",
       "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "La C\u00e1rcel De Cananea",
+      "url": "https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+        "name": "Tesoros de Colecci\u00f3n - Los Mejores Duetos Rancheros de la Historia",
+        "url": "https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 211826,
-      "name": "Valente Quintero",
-      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
+      "duration_ms": 151746,
+      "name": "Flor del R\u00edo",
+      "url": "https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Colecci\u00f3n - Los Mejores Duetos Rancheros de la Historia",
-        "url": "https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 151746,
-      "name": "Flor del R\u00edo",
-      "url": "https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOGATA NORTENA",
         "url": "https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 169973,
       "name": "Hay Mujeres Ingratas en la Vida [Ranchera]",
       "url": "https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Valente Quintero",
+      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Super \u00c9xitos",
         "url": "https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 175693,
       "name": "Tres Viudas Solas",
       "url": "https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
     },
     {
       "added_at": null,

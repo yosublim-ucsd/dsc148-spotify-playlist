@@ -2,7 +2,7 @@
 
 ### [Années 60](https://open.spotify.com/playlist/37i9dQZF1DX7Uol5MpckMS)
 
-> Le meilleur des  années 60 en 60 titres.
+> Le meilleur des années 60 en 60 titres.
 
 81 songs - 3 hr 50 min
 

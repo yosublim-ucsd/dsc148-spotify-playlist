@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: 派偉俊Patrick Brasca.
 
-1,512 songs - 3 day 10 hr 47 min
+1,514 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Dis\-moi](https://open.spotify.com/track/5MMkgucRpQfKulEXrNk9Yc) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Dis\-moi](https://open.spotify.com/album/3M5NoWmlCmualCFWxRxm84) | 2:55 | 2022-06-29 | 2022-08-02 |
 | [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 | 2024-01-12 | 2024-05-18 |
 | [Discothèque](https://open.spotify.com/track/4yf1vbwYCGWzmtc132NQG0) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Discothèque](https://open.spotify.com/album/59kHLYLwV4ler6eee45BXq) | 2:57 | 2022-03-24 | 2022-08-02 |
+| [Discothèque Inside My Head](https://open.spotify.com/track/7vytqQKZBdWwpfA3aYPRGJ) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Discothèque Inside My Head](https://open.spotify.com/album/7f7H6iXK3osVKuBxLG7lpA) | 3:34 | 2024-07-05 |  |
 | [Disposition](https://open.spotify.com/track/0i0vwerF4OY1DCdzu57nLf) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Disposition](https://open.spotify.com/album/7Hp6sdzf7aLweRbHCdqj6t) | 2:57 | 2024-03-22 | 2024-04-06 |
 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-22 | 2024-01-13 |
 | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M) | 4:05 | 2022-06-29 | 2023-05-31 |
@@ -421,7 +422,7 @@
 | [Filme moi](https://open.spotify.com/track/7f8ep7LmhUvhEIvlDfb9cj) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/064Xtihg61dRk2MPOXUU5P) | 3:29 | 2022-03-24 | 2022-07-29 |
 | [Filme moi](https://open.spotify.com/track/7w5xMDqwZKMZYmLgdrncte) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/1c0vf4zZCILOArfcM8jpUK) | 3:29 | 2022-06-29 | 2022-08-02 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-08-01 | 2022-09-16 |
-| [Finto cielo](https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [DUMBA](https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO) | 2:20 | 2024-05-17 |  |
+| [Finto cielo](https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [DUMBA](https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO) | 2:20 | 2024-05-17 | 2024-07-09 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-08-04 | 2022-09-05 |
 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-07 | 2024-01-20 |
 | [Five Black](https://open.spotify.com/track/3Pzx0UuZmhtowYJaW5B05s) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Five Black](https://open.spotify.com/album/4upjS5lPcbcAaL0SxmK7FB) | 2:44 | 2022-04-07 | 2022-04-13 |
@@ -533,7 +534,7 @@
 | [Holiday Only](https://open.spotify.com/track/13xSCpapdAiR1bPWwoZp1y) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Holiday Only](https://open.spotify.com/album/1W0r6fsyYXIWVRJKR8cWfw) | 4:14 | 2022-02-03 | 2022-03-18 |
 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 | 2022-06-29 | 2023-05-09 |
 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 | 2022-09-08 | 2023-05-31 |
-| [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 |  |
+| [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 | 2024-07-09 |
 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 | 2023-09-22 | 2023-10-28 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-03-21 | 2023-04-18 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-03-21 | 2023-04-18 |
@@ -1328,6 +1329,7 @@
 | [Wschód](https://open.spotify.com/track/26CP4rh1qGEs94QLEYl13x) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wschód](https://open.spotify.com/album/1hzgUnumV7ab6i4aDpFfbo) | 3:10 | 2024-06-21 | 2024-06-25 |
 | [X El Barrio](https://open.spotify.com/track/5C23TshL3Y78V8clTfctlO) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [X El Barrio](https://open.spotify.com/album/473EMNLmnFCEoKl11qzABM) | 3:22 | 2022-03-24 | 2022-04-21 |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2022-03-24 | 2022-09-16 |
+| [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 | 2024-06-28 |  |
 | [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 | 2024-06-14 |  |
 | [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 | 2024-06-07 |  |
 | [Yakap](https://open.spotify.com/track/4cO62W6CErGU4vrDWF1Ruj) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Yakap](https://open.spotify.com/album/1nBiqfztbH4xqVgPI01HWg) | 3:20 | 2022-02-03 | 2022-12-15 |

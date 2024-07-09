@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,229 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,247 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 46 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 |
 | 47 | [Lord You are Beautiful](https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI), [Pastor Isaiah Fosu Kwakye Jnr](https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R) | [Lord You are Beautiful](https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1) | 9:21 |
 | 48 | [DaaDaa](https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b), [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [DaaDaa](https://open.spotify.com/album/5aqjEIvIk8S3bsX2cIUeur) | 3:13 |
-| 49 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |
+| 49 | [Wave on Wave](https://open.spotify.com/track/7tAxugE49EdNSzMM4DZtBa) | [Leslie Skye](https://open.spotify.com/artist/5AZX66LDF11JZi7fGkGzun) | [Wave on Wave](https://open.spotify.com/album/5c5L5aWBD5XRmq82nR2RP6) | 3:41 |
 | 50 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
 
 Snapshot ID: `ZoemKwAAAADCmLkQbwi8ACacmB1NO8Rl`

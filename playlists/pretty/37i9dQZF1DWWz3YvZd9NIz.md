@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,523 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,619 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 59 | [Arabian Nights](https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Bram Boender](https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob) | [Arabian Nights](https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX) | 3:17 |
 | 60 | [Zombie Nation](https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Zombie Nation](https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU) | 2:29 |
 | 61 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
-| 62 | [I Won't Let You Down](https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Miss Geist](https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2) | [I Won't Let You Down \(feat\. Miss Geist\)](https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M) | 2:48 |
-| 63 | [Kids](https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Kids](https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq) | 4:08 |
+| 62 | [Kids](https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Kids](https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq) | 4:08 |
+| 63 | [I Won't Let You Down](https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Miss Geist](https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2) | [I Won't Let You Down \(feat\. Miss Geist\)](https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M) | 2:48 |
 | 64 | [Do Whatcha Say](https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ) | [Do Whatcha Say](https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq) | 2:44 |
-| 65 | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/track/6dHfWCHrgS2edtCqfMDnrf) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [ARK8](https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT) | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/album/4LjPuviAC9iGENpSNZ2jZv) | 2:27 |
-| 66 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
+| 65 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
+| 66 | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/track/6dHfWCHrgS2edtCqfMDnrf) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [ARK8](https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT) | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/album/4LjPuviAC9iGENpSNZ2jZv) | 2:27 |
 | 67 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 |
 | 68 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
-| 69 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
-| 70 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
+| 69 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
+| 70 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 
 Snapshot ID: `ZnlRegAAAADs3Yki2m86hjuEHnXw1PKE`

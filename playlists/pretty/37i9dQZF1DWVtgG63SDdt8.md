@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7bdI7Q9ffxcej6cfVUktvb">Lani Rose</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,994 likes - 98 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,045 likes - 98 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

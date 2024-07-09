@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Yunk Vino
 
-1,275 songs - 2 day 15 hr 22 min
+1,276 songs - 2 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [Paris](https://open.spotify.com/track/6S61yf0kZd7jW1ooUWDfDS) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Planetarium Projects](https://open.spotify.com/artist/1hlveAkped8r2RE3HU4WFm), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Zambrota](https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI), [Maycxxn](https://open.spotify.com/artist/282nMnpwccirIcBqbtpycX) | [Paris](https://open.spotify.com/album/5rNKsdwG7jnJWOdRTMJSbt) | 4:00 | 2022-04-22 | 2022-04-29 |
 | [Passarinhos](https://open.spotify.com/track/1aOOFWnu2kr6xlkeBgzeXn) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Passarinhos](https://open.spotify.com/album/01U7RlpcQaFdfdfA4Znzmc) | 2:29 | 2023-08-25 | 2023-09-02 |
 | [Passin Com a Peça](https://open.spotify.com/track/2WgqY4Eua0npcbdicVPsWn) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Passin Com a Peça](https://open.spotify.com/album/46aK7BFxBLutzK7A74yFPZ) | 2:32 | 2022-04-29 | 2022-06-18 |
+| [Patrício's](https://open.spotify.com/track/6HVzQ2xHsE7nfRrD8zTawj) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Rubro](https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw) | [Patrício's](https://open.spotify.com/album/2EJRCax1RjXOvZk2Dvg0xB) | 4:33 | 2024-07-08 |  |
 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 | 2023-04-14 | 2023-05-13 |
 | [Pecados](https://open.spotify.com/track/1UrZ1qDDYh9RnN07FHT3LQ) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Pecados](https://open.spotify.com/album/15qdcg1qhl9vbQWdigUsan) | 2:46 | 2023-04-14 | 2023-05-06 |
 | [Pelo Momento](https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Pelo Momento](https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC) | 2:47 | 2022-10-28 | 2022-12-24 |

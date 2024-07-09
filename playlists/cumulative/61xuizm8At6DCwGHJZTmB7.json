@@ -5795,6 +5795,28 @@
     },
     {
       "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/1D5tjzgOej5XuInzAfzCGB"
+      },
+      "artists": [
+        {
+          "name": "Mainstream Worship",
+          "url": "https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3"
+        },
+        {
+          "name": "Josh Daughtry",
+          "url": "https://open.spotify.com/artist/2PJb2PVcw6LgdWLlsCJumi"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316040,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0OGx8ZX5ywCn6mAjxNEjA0"
+    },
+    {
+      "album": {
         "name": "Desert River",
         "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
       },
@@ -8010,6 +8032,24 @@
       "duration_ms": 270696,
       "name": "Surely",
       "url": "https://open.spotify.com/track/2nwo4mImDCcyD0B7ii7tbq"
+    },
+    {
+      "album": {
+        "name": "Surely (All Of My Days / Better Is One Day) [Live]",
+        "url": "https://open.spotify.com/album/38ByoWmhGof7Lzoy3NiWtB"
+      },
+      "artists": [
+        {
+          "name": "29:11 Worship",
+          "url": "https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645711,
+      "name": "Surely (All Of My Days / Better Is One Day) - Live",
+      "url": "https://open.spotify.com/track/5983iJsJLCuGJKAFmIaCUn"
     },
     {
       "album": {

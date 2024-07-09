@@ -1,12 +1,12 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
-  "num_followers": 1047683,
+  "num_followers": 1048094,
   "original_name": "Classic Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlZZpAAAAAC2RNHbamfiFdNNpDM+TbR5",
+  "snapshot_id": "Zow3uAAAAADS0m24J/n+LPgcdiqIQwAo",
   "tracks": [
     {
       "added_at": "2021-03-02 18:13:49",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Toulouse Street",
         "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Crimes Of Passion",
-        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
       "artists": [
         {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Hit Me With Your Best Shot",
-      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 295386,
       "name": "Black Dog - Remaster",
       "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "War (Remastered)",
-        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "Sunday Bloody Sunday - Remastered 2008",
-      "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 268506,
       "name": "Owner of a Lonely Heart",
       "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "War (Remastered)",
+        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "Sunday Bloody Sunday - Remastered 2008",
+      "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 263333,
       "name": "Ramble On - 1990 Remaster",
       "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 247962,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 214960,
       "name": "Runnin' with the Devil - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 247962,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
     },
     {
-      "added_at": "2024-03-26 13:19:07",
-      "album": {
-        "name": "Double Platinum",
-        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
-    },
-    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Fire of Unknown Origin",
@@ -1419,6 +1403,22 @@
       "duration_ms": 271000,
       "name": "Burnin' for You",
       "url": "https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s"
+    },
+    {
+      "added_at": "2024-03-26 13:19:07",
+      "album": {
+        "name": "Double Platinum",
+        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "China Grove",
-      "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "But Seriously, Folks...",
         "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 536226,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "China Grove",
+      "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
     },
     {
       "added_at": "2022-06-08 19:19:44",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Distant Light (1999 Remaster)",
-        "url": "https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
-      "url": "https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Slow Ride / Save Your Loving (For Me)",
         "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
       },
@@ -1709,6 +1693,22 @@
       "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
     },
     {
+      "added_at": "2022-04-08 19:07:59",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+    },
+    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Moving Pictures (2011 Remaster)",
@@ -1725,20 +1725,20 @@
       "url": "https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm"
     },
     {
-      "added_at": "2022-04-08 19:07:59",
+      "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+        "name": "Distant Light (1999 Remaster)",
+        "url": "https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 161466,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+      "duration_ms": 199200,
+      "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
+      "url": "https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
     },
     {
-      "added_at": "2022-04-08 19:07:59",
-      "album": {
-        "name": "We're An American Band (Expanded Edition / Remastered 2002)",
-        "url": "https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "We're An American Band - Remastered 2002",
-      "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
-    },
-    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Darkness On the Edge of Town",
@@ -1867,6 +1851,22 @@
       "duration_ms": 242453,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
+    },
+    {
+      "added_at": "2022-04-08 19:07:59",
+      "album": {
+        "name": "We're An American Band (Expanded Edition / Remastered 2002)",
+        "url": "https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "We're An American Band - Remastered 2002",
+      "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
     },
     {
       "added_at": "2022-04-08 19:07:59",

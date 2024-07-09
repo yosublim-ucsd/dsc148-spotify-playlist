@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta rockia Suomesta\. Kannessa JP Leppäluoto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,823 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,828 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 77 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 |
 | 78 | [Jatkan matkaa](https://open.spotify.com/track/0os9TLERlmn5h1QFFbfyEC) | [Valontuojat](https://open.spotify.com/artist/27ErkSOWbcCKKFIyU4NnQr) | [Jatkan matkaa](https://open.spotify.com/album/1ywU5JGbLEOpmL1sa80KGf) | 3:14 |
 | 79 | [Kun kukaan ei huomaa](https://open.spotify.com/track/7o5cMmqHuxgErNxn12ROCc) | [Rakas Paheeni](https://open.spotify.com/artist/0K3ne1iuunHgCOAML6yOnz) | [Kun kukaan ei huomaa](https://open.spotify.com/album/03oSV0SZ4PnPzxlJeIqKCg) | 3:46 |
-| 80 | [Saturnuksen renkaat](https://open.spotify.com/track/4L3OlN9lrIdm9gwOjppOvT) | [7sormea](https://open.spotify.com/artist/03u3Ox7GOHlnd82PGPLkPI) | [Paha poika](https://open.spotify.com/album/6O05tvZNN7ppFGxVLSqppO) | 3:38 |
 
-Snapshot ID: `ZocNjAAAAAByd7EdgjF9BJjww2rdXWky`
+Snapshot ID: `ZouNBwAAAAAhTfdE/mR8eNkoQxSPOY+c`

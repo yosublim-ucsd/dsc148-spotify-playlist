@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-930 songs - 2 day 6 hr 44 min
+931 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2023-01-03 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-02-24 |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-25 | 2021-12-27 |
+| [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-08 |  |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-05 | 2022-05-02 |
 | [Still With You](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Still With You](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) | 3:59 | 2023-07-04 | 2023-07-17 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-10-03 | 2023-11-05 |
@@ -923,7 +924,7 @@
 | [霸道總裁](https://open.spotify.com/track/5p84NRJ6dOpaMTSqx5Fhil) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [霸道總裁](https://open.spotify.com/album/37G5n1hUVjNoKBP1p5L8kN) | 3:35 | 2023-08-25 | 2023-08-27 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-08-07 | 2023-08-18 |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2023-07-22 | 2023-07-24 |
-| [青春告別式](https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [青春告別式](https://open.spotify.com/album/0JQBICqyFVPL861mwgC8at) | 4:16 | 2024-01-01 |  |
+| [青春告別式](https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [青春告別式](https://open.spotify.com/album/0JQBICqyFVPL861mwgC8at) | 4:16 | 2024-01-01 | 2024-07-09 |
 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2021-05-30 | 2021-08-26 |
 | [靜靜](https://open.spotify.com/track/5rvJ9lvGq8hWhkCQEcer1x) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [靜靜](https://open.spotify.com/album/3TieX8iyJgg5spPuiUF3Qo) | 3:50 | 2022-08-06 | 2022-08-08 |
 | [風的形狀](https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [風的形狀](https://open.spotify.com/album/6izq53hfBehpRw4IlM9lT2) | 3:26 | 2021-07-25 |  |

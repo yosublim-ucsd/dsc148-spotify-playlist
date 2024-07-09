@@ -1,6 +1,6 @@
 {
   "description": "Songs, die nach Sonnencreme riechen.",
-  "num_followers": 1292434,
+  "num_followers": 1292508,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2024-07-01 12:53:16",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2024-07-01 12:53:16",
-      "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2024-07-01 12:53:16",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
-        "name": "eternal sunshine (slightly deluxe)",
-        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural (with Troye Sivan)",
-      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
-    },
-    {
-      "added_at": "2024-07-01 12:53:16",
-      "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
+    },
+    {
+      "added_at": "2024-07-01 12:53:16",
+      "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "supernatural (with Troye Sivan)",
+      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
     },
     {
       "added_at": "2024-07-01 12:53:16",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
-        "name": "Spite",
-        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
-    },
-    {
-      "added_at": "2024-07-01 12:53:16",
-      "album": {
         "name": "The Night We Met",
         "url": "https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
-        "name": "Miss Me Too",
-        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 182064,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
+      "duration_ms": 159213,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "added_at": "2024-07-01 12:53:16",
@@ -831,6 +815,22 @@
       "duration_ms": 135082,
       "name": "eehhhyyy",
       "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
+    },
+    {
+      "added_at": "2024-07-01 12:53:16",
+      "album": {
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "added_at": "2024-07-01 12:53:16",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "becks",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "added_at": "2024-07-01 12:53:16",
+      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+        "name": "Zu sp\u00e4t um umzudrehen - EP",
+        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
       },
       "artists": [
         {
-          "name": "becks",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
         }
       ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+      "duration_ms": 177818,
+      "name": "Zimmer",
+      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2024-07-01 12:53:16",
@@ -1151,22 +1167,6 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2024-07-01 12:53:16",
-      "album": {
-        "name": "Zu sp\u00e4t um umzudrehen - EP",
-        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Zimmer",
-      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2024-07-01 12:53:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250597,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2024-07-01 12:53:16",
-      "album": {
         "name": "Ein Traum",
         "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 169500,
       "name": "Ein Traum",
       "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
+    },
+    {
+      "added_at": "2024-07-01 12:53:16",
+      "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
       "added_at": "2024-07-01 12:53:16",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-07-01 12:53:16",
       "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/5h5XOo9ZoMhKA4uu0NXiD7"
+        "name": "Running in Circles",
+        "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
         }
       ],
-      "duration_ms": 214586,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/7oqabZXW9Q8p8szD7G8cTg"
+      "duration_ms": 191358,
+      "name": "Running in Circles",
+      "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
     }
   ],
   "unique_name": "Sommergef\u00fchle",

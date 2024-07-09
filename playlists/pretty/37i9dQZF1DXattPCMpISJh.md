@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,755 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,814 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 100 | [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 |
 | 101 | [Passion \- Fred Falke Remix](https://open.spotify.com/track/4HAc0WfZuD55cCalXxcvdB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(Fred Falke Remix\)](https://open.spotify.com/album/0rjoJ1jxcuH9oj3VxKf0R9) | 3:53 |
 
-Snapshot ID: `ZodvwAAAAAA7MLreMhpHRG2LsSf1RD2G`
+Snapshot ID: `ZowrLAAAAACD0Qej3aoBn3rNroVp+w0I`

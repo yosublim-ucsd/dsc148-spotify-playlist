@@ -1,13 +1,33 @@
 {
   "description": "This is Chief Commander Ebenezer Obey. The essential tracks, all in one playlist.",
-  "num_followers": 3131,
+  "num_followers": 3133,
   "original_name": "This Is Chief Commander Ebenezer Obey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAADGqgTDJQkTJMWrQQrVCXTs",
+  "snapshot_id": "ZonagAAAAADBDDdiKBnJq+HmvG6v6VCL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Jowo (feat. Chief Commander Ebenezer Obey)",
+      "url": "https://open.spotify.com/track/5TZlKtBNoOx6Dl4du94N2I"
+    },
     {
       "added_at": null,
       "album": {
@@ -75,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Jowo (feat. Chief Commander Ebenezer Obey)",
-      "url": "https://open.spotify.com/track/5TZlKtBNoOx6Dl4du94N2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "51 Lex Presents: Enia Lasan",
         "url": "https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s"
       },
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Iba Folouwa",
-      "url": "https://open.spotify.com/track/4a2npWSuIXbcAP9H4ihPZ9"
+      "duration_ms": 370320,
+      "name": "Enia Lasan",
+      "url": "https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 180986,
-      "name": "Gbebe Mi Oluwa",
-      "url": "https://open.spotify.com/track/44q65hPu06DppPoqHmBfb3"
+      "duration_ms": 230653,
+      "name": "Iba Folouwa",
+      "url": "https://open.spotify.com/track/4a2npWSuIXbcAP9H4ihPZ9"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents Ota Mi Dehin Lehin Mi",
-        "url": "https://open.spotify.com/album/56webEm3FC1etL0D7xwNN7"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1142360,
-      "name": "Ota Mi Dehin Lehin Mi Medley, Pt. 1",
-      "url": "https://open.spotify.com/track/0Z3ZCyJjrswJejyDoMDKv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evergreen Songs Origina 16",
         "url": "https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "51 Lex Presents Ota Mi Dehin Lehin Mi",
+        "url": "https://open.spotify.com/album/56webEm3FC1etL0D7xwNN7"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1142360,
+      "name": "Ota Mi Dehin Lehin Mi Medley, Pt. 1",
+      "url": "https://open.spotify.com/track/0Z3ZCyJjrswJejyDoMDKv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evergreen Songs Original 1",
         "url": "https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS"
       },
@@ -280,25 +280,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 370320,
-      "name": "Enia Lasan",
-      "url": "https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obey In the 60's (Vol 1)",
-        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Ope Fun Oluwa",
-      "url": "https://open.spotify.com/track/1yLSuh0RjDNBqGZHvBwQ1D"
+      "duration_ms": 180986,
+      "name": "Gbebe Mi Oluwa",
+      "url": "https://open.spotify.com/track/44q65hPu06DppPoqHmBfb3"
     },
     {
       "added_at": null,
@@ -331,6 +315,22 @@
       "duration_ms": 1162653,
       "name": "Yungba Yungba",
       "url": "https://open.spotify.com/track/0RzBygA0zi6GkV3Qu9U8tv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Ope Fun Oluwa",
+      "url": "https://open.spotify.com/track/1yLSuh0RjDNBqGZHvBwQ1D"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: London La Wa Yi",
-        "url": "https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1218813,
-      "name": "Aiye Wa a Toro",
-      "url": "https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "51 Lex Presents: Ajo Yio",
         "url": "https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 1173226,
       "name": "Oro Oluwa Ede",
       "url": "https://open.spotify.com/track/19nncfwXHHl4pCECTpmmPT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: London La Wa Yi",
+        "url": "https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1218813,
+      "name": "Aiye Wa a Toro",
+      "url": "https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Oke Aminu",
-        "url": "https://open.spotify.com/album/795ex3oCr24uJMjiUFUkA1"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1195653,
-      "name": "Late Oke Aminu Medley (Part 1)",
-      "url": "https://open.spotify.com/track/0Q2qr34BuIWPCNFkFNSc8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "51 Lex Presents Edumare Dari Jiwon",
         "url": "https://open.spotify.com/album/5IAW3IhjPWA6sYIVjsDunu"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 1178000,
       "name": "Edumare Dari Jiwon Medley, Pt. 2",
       "url": "https://open.spotify.com/track/4nqYmetLP1PHenzQiIlLud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Oke Aminu",
+        "url": "https://open.spotify.com/album/795ex3oCr24uJMjiUFUkA1"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1195653,
+      "name": "Late Oke Aminu Medley (Part 1)",
+      "url": "https://open.spotify.com/track/0Q2qr34BuIWPCNFkFNSc8O"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventure of Mr Wise",
-        "url": "https://open.spotify.com/album/5m3EbKLiHXZzHbZngSgihK"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1188440,
-      "name": "Motun Gbede Medley (Part 2)",
-      "url": "https://open.spotify.com/track/0evTQ3fBARmOEtBZ2X8yYE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evergreen Songs Original 6",
         "url": "https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO"
       },
@@ -639,6 +623,38 @@
       "duration_ms": 1174600,
       "name": "Board Members",
       "url": "https://open.spotify.com/track/414geRl06sq9YvNaOozReX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: Ore Oluwa Akari",
+        "url": "https://open.spotify.com/album/28qC6iw0bcZqvsUMFAV5AW"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1077680,
+      "name": "Nibiti Lekeleke Ti Nfo'so",
+      "url": "https://open.spotify.com/track/03nvXDFR3xeFz8jn5Y0Cyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aventure of Mr Wise",
+        "url": "https://open.spotify.com/album/5m3EbKLiHXZzHbZngSgihK"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1188440,
+      "name": "Motun Gbede Medley (Part 2)",
+      "url": "https://open.spotify.com/track/0evTQ3fBARmOEtBZ2X8yYE"
     },
     {
       "added_at": null,
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: Ore Oluwa Akari",
-        "url": "https://open.spotify.com/album/28qC6iw0bcZqvsUMFAV5AW"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/2JWjSBPuysOVwV2Oq7sMYX"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 1077680,
-      "name": "Nibiti Lekeleke Ti Nfo'so",
-      "url": "https://open.spotify.com/track/03nvXDFR3xeFz8jn5Y0Cyw"
+      "duration_ms": 1045800,
+      "name": "Eni to Ba Mbe Laye Medley (Part 1)",
+      "url": "https://open.spotify.com/track/1uxhKAKWwVmBDhf9xPNfKu"
     },
     {
       "added_at": null,
@@ -700,25 +716,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 1178733,
-      "name": "Motun Gboro Agba De",
-      "url": "https://open.spotify.com/track/1T6EbE0kopuOCppKElTrVW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/2JWjSBPuysOVwV2Oq7sMYX"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1045800,
-      "name": "Eni to Ba Mbe Laye Medley (Part 1)",
-      "url": "https://open.spotify.com/track/1uxhKAKWwVmBDhf9xPNfKu"
+      "duration_ms": 1128266,
+      "name": "Baba Fona Han Wa",
+      "url": "https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: Ajo Yio",
-        "url": "https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1128266,
-      "name": "Baba Fona Han Wa",
-      "url": "https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Je Ka Jo (Let Us Dance)",
         "url": "https://open.spotify.com/album/2qJY0aFBMRfyrKu67a94e2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 261853,
       "name": "Ojeje",
       "url": "https://open.spotify.com/track/2cu05uZ9A48CdfH9c3goy0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: Ajo Yio",
+        "url": "https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1178733,
+      "name": "Motun Gboro Agba De",
+      "url": "https://open.spotify.com/track/1T6EbE0kopuOCppKElTrVW"
     },
     {
       "added_at": null,

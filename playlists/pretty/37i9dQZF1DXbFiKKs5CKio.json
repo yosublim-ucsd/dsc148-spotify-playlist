@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 58308,
+  "num_followers": 58393,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Pulando",
+        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pulando",
+      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Ouroboros",
         "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 152706,
       "name": "Doses",
       "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Pulando",
-        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pulando",
-      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2024-07-05 03:01:00",

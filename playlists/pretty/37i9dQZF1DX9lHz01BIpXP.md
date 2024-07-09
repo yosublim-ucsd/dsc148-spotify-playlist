@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,657 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 34 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
 | 35 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
 | 36 | [Consistent](https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Consistent](https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy) | 2:08 |
-| 37 | [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 |
-| 38 | [Cheat Op My 2](https://open.spotify.com/track/6mldRX4MV4CmTYsB7BcIA9) | [Dreamchaser7100](https://open.spotify.com/artist/5dNbLPmDIb6tBbpylFd0CT) | [Cheat Op My 2](https://open.spotify.com/album/6TWvgPFHDAIhBDpSdnvnQ3) | 2:34 |
+| 37 | [Cheat Op My 2](https://open.spotify.com/track/6mldRX4MV4CmTYsB7BcIA9) | [Dreamchaser7100](https://open.spotify.com/artist/5dNbLPmDIb6tBbpylFd0CT) | [Cheat Op My 2](https://open.spotify.com/album/6TWvgPFHDAIhBDpSdnvnQ3) | 2:34 |
+| 38 | [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 |
 | 39 | [Way Back](https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Way Back](https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk) | 3:29 |
 | 40 | [Hou Vas](https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [Illrow](https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7) | [Hou Vas](https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU) | 3:06 |
 | 41 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 45 | [Deh!](https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [Deh!](https://open.spotify.com/album/38J1BiT27OyRsI60572LsP) | 2:39 |
 | 46 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
 | 47 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
-| 48 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
-| 49 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 |
+| 48 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 |
+| 49 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
 | 50 | [3 Eye](https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6) | [G.1 J03 71D4](https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6) | [3 Eye](https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf) | 3:36 |
 
 Snapshot ID: `Zmtr4AAAAAAFMw+ZJd2XqRJ22u94TWCg`

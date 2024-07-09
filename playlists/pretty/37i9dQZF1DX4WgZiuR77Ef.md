@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,024 likes - 101 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,036 likes - 101 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 100 | [Checker Wrecker](https://open.spotify.com/track/2tqfdsBI9N8TrRVFTUDnGZ) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Checker Wrecker](https://open.spotify.com/album/5eKL3jiEKnTb3bej9OKvUJ) | 5:50 |
 | 101 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `Zn41QAAAAAD8po+EFPudg+7OU4iuU8yl`
+Snapshot ID: `ZowyKQAAAACLgos7lQGcd2cODivRjNxM`

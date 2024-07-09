@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Don't miss out\. Click <a href="spotify:genre:0JQ5IMCbQBLwgYoEwl2cnf">here</a> and enter the world of Rauw Alejandro & check out the playlist clips for more ⬆️
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,261 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,274 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

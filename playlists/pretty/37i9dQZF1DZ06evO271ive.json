@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 16949,
+  "num_followers": 17037,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAdSaEI+GXtHwqXTCUXETPK",
+  "snapshot_id": "ZonagAAAAAC4o6AaHPIvz3S5WvyhPrCr",
   "tracks": [
     {
       "added_at": null,
@@ -203,42 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somethin' (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149245,
-      "name": "Somethin' (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Hellcats SRTs",
-      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIRTY NACHOS",
         "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
       },
@@ -259,6 +223,42 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Hellcats SRTs",
+      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somethin' (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149245,
+      "name": "Somethin' (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLUT ME OUT (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 203858,
-      "name": "SLUT ME OUT (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hellcats SRTs 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
       },
@@ -775,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slob on My Ckat",
+        "url": "https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148114,
+      "name": "Slob on My Ckat",
+      "url": "https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "41 World: Not The Album",
         "url": "https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t"
       },
@@ -803,22 +799,6 @@
       "duration_ms": 217600,
       "name": "Bent (Remix) (with Kyle Richh, Jenn Carter, TaTa & Sexyy Red)",
       "url": "https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slob on My Ckat",
-        "url": "https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148114,
-      "name": "Slob on My Ckat",
-      "url": "https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW"
     },
     {
       "added_at": null,

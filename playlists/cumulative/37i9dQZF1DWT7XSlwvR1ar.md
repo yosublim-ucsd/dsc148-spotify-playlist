@@ -4,7 +4,7 @@
 
 > Stay relaxed with these easy, laid\-back songs.
 
-431 songs - 1 day 2 hr 12 min
+432 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 | 2022-07-18 | 2024-04-19 |
 | [Sanctuary](https://open.spotify.com/track/4w5nZwiTpDMTVQdugsXWW7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Sanctuary](https://open.spotify.com/album/20lfleUVkws7cTsMiPD1aF) | 4:26 | 2021-02-15 | 2022-07-29 |
 | [Save A Little For Yourself](https://open.spotify.com/track/6M5mstAqLWlfUu1F1Rmqaq) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Save A Little For Yourself](https://open.spotify.com/album/7evmMg4GDyJgR1piKvrvTb) | 3:39 | 2020-01-27 | 2022-04-19 |
+| [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-07-08 |  |
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-06-05 | 2024-04-27 |
 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 | 2019-07-29\* | 2021-07-31 |
 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 | 2022-07-18 | 2024-04-19 |
@@ -418,7 +419,7 @@
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-07-18 | 2024-04-19 |
 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 | 2019-07-29\* | 2022-04-16 |
 | [Wide Awake](https://open.spotify.com/track/6oa5Vfov0r90SK63nVvTii) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/0WhrnQczKJFAo1Q1R9buoY) | 3:37 | 2019-08-20 | 2022-07-21 |
-| [Wild World](https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Wild World](https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh) | 3:33 | 2020-07-18 |  |
+| [Wild World](https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Wild World](https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh) | 3:33 | 2020-07-18 | 2024-07-09 |
 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 | 2019-10-25 | 2021-03-23 |
 | [Wise Woman](https://open.spotify.com/track/1zdhLwuduTGwGSlJSowTzA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Wise Woman / Look For The Good \(Single Version\)](https://open.spotify.com/album/24syghxD5exa3QDGedRZbt) | 4:41 | 2020-05-15 | 2020-10-21 |
 | [Wise Woman](https://open.spotify.com/track/6uvF15oBfR7kQBzF27vCtS) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 4:41 | 2020-08-05 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Omar Apollo.
 
-755 songs - 1 day 16 hr 46 min
+756 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Lucid Dream](https://open.spotify.com/track/0EH9R67SvlEYGFwdVpa6bB) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Lucid Dream](https://open.spotify.com/album/61fX7FNQK2NvtK16unJ8Uj) | 3:07 | 2021-12-02 | 2022-01-25 |
 | [LULUNA](https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [LULUNA](https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq) | 3:08 | 2024-01-12 | 2024-04-19 |
 | [Luna](https://open.spotify.com/track/6npK9NwM38YEoFeHvB6m5W) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Luna](https://open.spotify.com/album/0dr8b2KU2k223uuOq5qGK1) | 4:38 | 2023-08-25 | 2023-09-30 |
+| [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 | 2024-07-05 |  |
 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-26 | 2023-08-26 |
 | [Lüky Charm](https://open.spotify.com/track/1WoHkBbJbzRnyjoWKzIYTM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 3:20 | 2023-08-25 | 2023-09-30 |
 | [Made of Gold \- Edit](https://open.spotify.com/track/3pMtWCYO44ow0AOj1RL99O) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Made of Gold](https://open.spotify.com/album/3tD15FVyV5uiCKsTPiTTNP) | 3:33 | 2021-12-02 | 2023-02-07 |
@@ -483,7 +484,7 @@
 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-02-02 | 2023-02-17 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-10-24 | 2023-02-17 |
 | [No Jaló](https://open.spotify.com/track/7FEsK4duqNeeL6AL1mSKRy) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Jaló](https://open.spotify.com/album/51J7uD0c8jhBXKOHdpKqGi) | 2:06 | 2021-12-02 | 2022-01-25 |
-| [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-23 |  |
+| [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-23 | 2024-07-09 |
 | [No me quiere sentir](https://open.spotify.com/track/04BBFsO6u05eEW0mJwclRm) | [Mejiias](https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL), [Joel<3](https://open.spotify.com/artist/0OjILpAOOz1CJHl7AejD26) | [New Religion](https://open.spotify.com/album/26T8MSvy1QqxoXgQxuIxTH) | 1:43 | 2023-08-04 | 2023-08-26 |
 | [NO ME QUIERO PEGAR](https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO ME QUIERO PEGAR](https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0) | 2:22 | 2024-01-12 | 2024-03-23 |
 | [No Necesito](https://open.spotify.com/track/2xyyyQRwvw8oVo5nKiBNh4) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [No Necesito](https://open.spotify.com/album/2vJrccNi8aJxBdwHVmpNQw) | 3:04 | 2021-12-02 | 2022-01-25 |

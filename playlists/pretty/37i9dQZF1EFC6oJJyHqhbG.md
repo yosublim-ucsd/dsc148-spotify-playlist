@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316 likes - 133 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320 likes - 133 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 54 | [Day Trippin' \(feat\. Estelle\)](https://open.spotify.com/track/5GUbRosulNfGV5o5KfpHFn) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Automatic](https://open.spotify.com/album/02NhNhhyNfv5OdlJw4jUpj) | 3:12 |
 | 55 | [Your Love's A Drug](https://open.spotify.com/track/3QXTAcrADGmjVYUrFK0Lr2) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Your Love's A Drug](https://open.spotify.com/album/3JncbprTRVQovfmsw4rfFe) | 2:37 |
 | 56 | [Daddy Like](https://open.spotify.com/track/7B09gC8k5Srx20Gj3UHrYq) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 2:55 |
-| 57 | [Hello](https://open.spotify.com/track/61g8o9dedhQo4Ik97QIVir) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 2:59 |
-| 58 | [On Your Side](https://open.spotify.com/track/656cRvXoLSQZWQ2FrzOCcD) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [WHITE](https://open.spotify.com/album/5pLjsnW9X7xn7cZCpMQnQd) | 5:40 |
+| 57 | [On Your Side](https://open.spotify.com/track/656cRvXoLSQZWQ2FrzOCcD) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [WHITE](https://open.spotify.com/album/5pLjsnW9X7xn7cZCpMQnQd) | 5:40 |
+| 58 | [Hello](https://open.spotify.com/track/61g8o9dedhQo4Ik97QIVir) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 2:59 |
 | 59 | [The Other Side](https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:47 |
 | 60 | [Heatwave](https://open.spotify.com/track/4UwjjWMRFYjUS0o0ybwlSF) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Heatwave](https://open.spotify.com/album/4HjXa31M73p243xdHqa4oB) | 3:48 |
 | 61 | [Alone](https://open.spotify.com/track/7Kmcb8CKVtZJVIuTcirYAz) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:01 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 132 | [Rendezvous](https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [Rendezvous](https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF) | 3:16 |
 | 133 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `AbWFvgAAAACwA+cmWj1n8OzIZiL2CTIR`
+Snapshot ID: `AbWLXgAAAADZjuBI9zbsBKHFEyyKUHkp`

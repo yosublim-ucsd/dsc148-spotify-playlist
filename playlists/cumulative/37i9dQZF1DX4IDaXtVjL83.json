@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192375,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r"
+    },
+    {
+      "album": {
         "name": "How Do You Know (with HA:TFELT)",
         "url": "https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T"
       },
@@ -2630,6 +2648,24 @@
       "duration_ms": 182733,
       "name": "Real Love Still Exists",
       "url": "https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo"
+    },
+    {
+      "album": {
+        "name": "RISE UP (English & Korean ver.)",
+        "url": "https://open.spotify.com/album/5tUbuoBQvv7bbvDNO6jfP8"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "RISE UP (Korean ver.)",
+      "url": "https://open.spotify.com/track/1dRjox4xKpbrMHanzC2rNq"
     },
     {
       "album": {

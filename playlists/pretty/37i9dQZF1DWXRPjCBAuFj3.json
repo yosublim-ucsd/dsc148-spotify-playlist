@@ -1,6 +1,6 @@
 {
   "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Eminem in cover con Houdini \ud83e\uddd9",
-  "num_followers": 210145,
+  "num_followers": 210134,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -643,42 +643,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Lo Niego",
-        "url": "https://open.spotify.com/album/0bJDByZM5TEIPDwBQARs9X"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Lo Niego",
-      "url": "https://open.spotify.com/track/2PDsUiOH8ZcIOocvEhrZ7N"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -703,6 +667,58 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "Lo Niego",
+        "url": "https://open.spotify.com/album/0bJDByZM5TEIPDwBQARs9X"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Lo Niego",
+      "url": "https://open.spotify.com/track/2PDsUiOH8ZcIOocvEhrZ7N"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "ATM",
-        "url": "https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "ATM",
-      "url": "https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "Rien 100 Rien",
         "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "ATM",
+        "url": "https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "Angels In The Sky",
         "url": "https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW"
       },
@@ -1343,6 +1343,26 @@
       "duration_ms": 162210,
       "name": "Angels In The Sky",
       "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Style Rare (with Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Style Rare (with Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1367,26 +1387,6 @@
       "duration_ms": 204170,
       "name": "Cry No More (feat. Stormzy & Tay Keith)",
       "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Style Rare (with Gunna)",
-        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Style Rare (with Gunna)",
-      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "AD VITAM \u00c6TERNAM",
-        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 194540,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
         "url": "https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 207315,
       "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
       "url": "https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 194540,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "THank god 4 me",
-      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 177040,
       "name": "Make a W (feat. Skrillex, AJ Tracey & BEAM)",
       "url": "https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "THank god 4 me",
+      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1927,22 +1927,18 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+        "name": "Sunday Service",
+        "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+      "duration_ms": 166581,
+      "name": "Sunday Service",
+      "url": "https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1959,6 +1955,46 @@
       "duration_ms": 171000,
       "name": "Gas Me Up (Diligent)",
       "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1991,22 +2027,6 @@
       "duration_ms": 167915,
       "name": "Sorrys & Ferraris",
       "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Sunday Service",
-        "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 166581,
-      "name": "Sunday Service",
-      "url": "https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -2091,26 +2111,6 @@
       "duration_ms": 138933,
       "name": "Faut pas",
       "url": "https://open.spotify.com/track/48d98Nlj1XKXxzo9KDBx0H"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Clear the Smoke",
-        "url": "https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 218052,
-      "name": "Clear the Smoke",
-      "url": "https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "L's",
         "url": "https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 117200,
       "name": "L's",
       "url": "https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Clear the Smoke",
+        "url": "https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 218052,
+      "name": "Clear the Smoke",
+      "url": "https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -2255,18 +2255,22 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Yeah Glo! (Alternate Versions)",
-        "url": "https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx"
+        "name": "Rom\u00e9o",
+        "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
+      "duration_ms": 192256,
+      "name": "Rom\u00e9o",
+      "url": "https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4"
     }
   ],
   "unique_name": "Rap Internazionale",

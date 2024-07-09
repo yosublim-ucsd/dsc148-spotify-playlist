@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/4F5ItUjqDeZ15OTQHd4Aky"
+      },
+      "artists": [
+        {
+          "name": "Costa Felina",
+          "url": "https://open.spotify.com/artist/742Og7D5C7u1USoNJHNiOT"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/05jqbc1rLQEO7ChyHBmE6V"
+    },
+    {
+      "album": {
         "name": "Todo es Ceremonia en el Jardin Salvaje",
         "url": "https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 186520,
       "name": "Cerca De Ti",
       "url": "https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 195001,
       "name": "Cerquita de Ti",
       "url": "https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod"
@@ -814,6 +832,32 @@
       "duration_ms": 147038,
       "name": "El Nuevo Amor",
       "url": "https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc"
+    },
+    {
+      "album": {
+        "name": "El para\u00edso #2",
+        "url": "https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu"
+      },
+      "artists": [
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        },
+        {
+          "name": "Mar\u00eda de Juan",
+          "url": "https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb"
+        },
+        {
+          "name": "Liam Garner",
+          "url": "https://open.spotify.com/artist/01Ct72ERdVHRVlFDdl3cAF"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174629,
+      "name": "El para\u00edso #2",
+      "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
     },
     {
       "album": {
@@ -1258,6 +1302,24 @@
       "duration_ms": 194120,
       "name": "Lo Que un Hombre Deber\u00eda Saber",
       "url": "https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l"
+    },
+    {
+      "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
     },
     {
       "album": {
@@ -2732,7 +2794,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 227121,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/7cfssiXOL2hVTkHGtwjeJ9"

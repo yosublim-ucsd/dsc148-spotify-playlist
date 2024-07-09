@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 197093,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/3OX31KXw9C7JWpY5GVQpsM"
@@ -4755,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "Out Of Focus",
+        "url": "https://open.spotify.com/album/1KGLsr9LXysjW7acKHy4X2"
+      },
+      "artists": [
+        {
+          "name": "Sleepwalk",
+          "url": "https://open.spotify.com/artist/79bG0WSxgj7fnJr9cDqPjL"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131893,
+      "name": "Hide And Seek",
+      "url": "https://open.spotify.com/track/3bGsXx1fQpxc0fPCwUQx7I"
+    },
+    {
+      "album": {
         "name": "High In The Clouds",
         "url": "https://open.spotify.com/album/2xNWZ76q9h8ZPPbFJ7gZNf"
       },
@@ -5314,6 +5332,24 @@
       "duration_ms": 216976,
       "name": "I.W.G.F.U.",
       "url": "https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc"
+    },
+    {
+      "album": {
+        "name": "Deep Sage",
+        "url": "https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1"
+      },
+      "artists": [
+        {
+          "name": "Gouge Away",
+          "url": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221516,
+      "name": "Idealized",
+      "url": "https://open.spotify.com/track/2UA3GdEpVd6TQE65gfDUUf"
     },
     {
       "album": {
@@ -6445,6 +6481,24 @@
     },
     {
       "album": {
+        "name": "Melatonin (10mg)",
+        "url": "https://open.spotify.com/album/6YhWzBCmPGwn9Wg9yyJS2y"
+      },
+      "artists": [
+        {
+          "name": "Kids Don't Float",
+          "url": "https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119482,
+      "name": "Melatonin (10mg)",
+      "url": "https://open.spotify.com/track/3i9jPeo5xnb1dvcPFcSteS"
+    },
+    {
+      "album": {
         "name": "Gloam",
         "url": "https://open.spotify.com/album/05Zv2lf7NeOMVVM2GKzkQn"
       },
@@ -6802,7 +6856,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 223238,
       "name": "My Front Door",
       "url": "https://open.spotify.com/track/6tBzEPbhZO9AzTTzRRlBjC"
@@ -8610,7 +8664,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 227754,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1nXOm9Z1C5WgGGpnboauqm"
@@ -9006,7 +9060,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 141013,
       "name": "Spilling Ink",
       "url": "https://open.spotify.com/track/2IU1bpsBxeFFp5fFvY2CFA"
@@ -10388,6 +10442,24 @@
       "duration_ms": 148399,
       "name": "Torched",
       "url": "https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X"
+    },
+    {
+      "album": {
+        "name": "Tortuga",
+        "url": "https://open.spotify.com/album/11dazu57AoABvNCgktwEoP"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165300,
+      "name": "Tortuga",
+      "url": "https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK"
     },
     {
       "album": {

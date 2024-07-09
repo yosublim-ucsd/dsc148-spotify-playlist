@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 34616,
+  "num_followers": 34631,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAABU8Xmo27KY+zzxE0RtyQyI",
+  "snapshot_id": "ZonagAAAAAB3ywL3/h/cCLX6LLj73EQm",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Singles You Up",
+      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good News Sold",
         "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Among Friends",
         "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
       },
@@ -227,26 +243,6 @@
       "duration_ms": 166066,
       "name": "Buy Dirt",
       "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": null,
@@ -283,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detours",
         "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 211229,
       "name": "Detours",
       "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 213689,
-      "name": "Going 'Round",
-      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
     },
     {
       "added_at": null,
@@ -340,9 +340,25 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 169346,
-      "name": "Short Fuse",
-      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+      "duration_ms": 165146,
+      "name": "Whiskey Weak",
+      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 213689,
+      "name": "Going 'Round",
+      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
     },
     {
       "added_at": null,
@@ -359,26 +375,6 @@
       "duration_ms": 223448,
       "name": "Church In A Chevy",
       "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cool Anymore",
-        "url": "https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 200415,
-      "name": "Cool Anymore",
-      "url": "https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct"
     },
     {
       "added_at": null,
@@ -408,9 +404,29 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 165146,
-      "name": "Whiskey Weak",
-      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
+      "duration_ms": 169346,
+      "name": "Short Fuse",
+      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool Anymore",
+        "url": "https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 200415,
+      "name": "Cool Anymore",
+      "url": "https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 160079,
       "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
       "url": "https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 168591,
-      "name": "More Than I Know",
-      "url": "https://open.spotify.com/track/2BKcZtKFDWpvRkmr25EMNK"
     }
   ],
   "unique_name": "This Is Jordan Davis",

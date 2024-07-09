@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 203684,
       "name": "Alma Nua",
       "url": "https://open.spotify.com/track/6qqCZliorzZbHI6HWM02g1"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
@@ -1659,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "Dis-Le Moi",
+        "url": "https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "Dis-Le Moi",
+      "url": "https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v"
+    },
+    {
+      "album": {
         "name": "Disco Arranhado (Funk Remix)",
         "url": "https://open.spotify.com/album/4iQUKFW9eZNn2fWcxuANT8"
       },
@@ -2131,6 +2153,32 @@
     },
     {
       "album": {
+        "name": "IT WILL HURT BOTH WAYS",
+        "url": "https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187869,
+      "name": "Even",
+      "url": "https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55"
+    },
+    {
+      "album": {
         "name": "Faz Bem",
         "url": "https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo"
       },
@@ -2150,6 +2198,24 @@
       "duration_ms": 183714,
       "name": "Faz Bem",
       "url": "https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa"
+    },
+    {
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "album": {
@@ -2212,6 +2278,28 @@
       "duration_ms": 140500,
       "name": "GALOPA",
       "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
+    },
+    {
+      "album": {
+        "name": "Garota (feat. Marisa Liz)",
+        "url": "https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc"
+      },
+      "artists": [
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr"
+        },
+        {
+          "name": "Marisa Liz",
+          "url": "https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216569,
+      "name": "Garota (feat. Marisa Liz)",
+      "url": "https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici"
     },
     {
       "album": {
@@ -2528,7 +2616,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 214512,
       "name": "Je T\u2019Aime",
       "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
@@ -2676,6 +2764,28 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "Ku Bo",
+        "url": "https://open.spotify.com/album/3509B3p7jecY07ceKKw6KI"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        },
+        {
+          "name": "KVN LOPES",
+          "url": "https://open.spotify.com/artist/1Hox4aVVAzu5JMgeYA0eNL"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Ku Bo",
+      "url": "https://open.spotify.com/track/5nw75kPDOQdmJ4o50MNgSh"
     },
     {
       "album": {
@@ -4362,7 +4472,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 212727,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
@@ -4454,7 +4564,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
@@ -4868,6 +4978,24 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "album": {
@@ -5418,7 +5546,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 159146,
       "name": "Tipo Gin - Ao Vivo",
       "url": "https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S"

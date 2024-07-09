@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Nicky.M x Rajaganapathy",
-  "num_followers": 12179,
+  "num_followers": 12185,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoJnIgAAAACwfkVX+MA/vDKFxHDr+1an",
+  "snapshot_id": "ZoupKQAAAAA6BEdNltuEmu9w3FIH/jYM",
   "tracks": [
     {
       "added_at": "2024-06-14 06:04:33",
@@ -85,6 +85,22 @@
       "url": "https://open.spotify.com/track/2WAluA15WXXZBqGcF6m0Vp"
     },
     {
+      "added_at": "2024-06-14 15:10:42",
+      "album": {
+        "name": "Kanniley",
+        "url": "https://open.spotify.com/album/6gJYZ6zxzvzvTxHsU0WsfD"
+      },
+      "artists": [
+        {
+          "name": "Keerthana Kunalan",
+          "url": "https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Kanniley",
+      "url": "https://open.spotify.com/track/2PwYyPokT4pF2RFr1hYgTF"
+    },
+    {
       "added_at": "2024-06-13 15:35:14",
       "album": {
         "name": "Medhuvaay Medhuvaay",
@@ -103,126 +119,6 @@
       "duration_ms": 268051,
       "name": "Medhuvaay Medhuvaay",
       "url": "https://open.spotify.com/track/1NXB8bGXRYy0CR0vXIZNHI"
-    },
-    {
-      "added_at": "2024-05-13 06:46:48",
-      "album": {
-        "name": "Thoovaanam",
-        "url": "https://open.spotify.com/album/6aIrm9a38bRjUhSzmIVFW8"
-      },
-      "artists": [
-        {
-          "name": "Vijay Paul",
-          "url": "https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po"
-        },
-        {
-          "name": "Keerthana",
-          "url": "https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Thoovaanam",
-      "url": "https://open.spotify.com/track/5DxcHVcWl6KlPVCxTBDbj3"
-    },
-    {
-      "added_at": "2024-06-28 11:08:18",
-      "album": {
-        "name": "Nila",
-        "url": "https://open.spotify.com/album/2QIQo3HAoODX6pU0nWh935"
-      },
-      "artists": [
-        {
-          "name": "Shravan Sridhar",
-          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
-        },
-        {
-          "name": "Anand Aravindakshan",
-          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
-        },
-        {
-          "name": "Tushar Budhwani",
-          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
-        }
-      ],
-      "duration_ms": 207310,
-      "name": "Nila",
-      "url": "https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed"
-    },
-    {
-      "added_at": "2024-05-13 06:50:28",
-      "album": {
-        "name": "On Air",
-        "url": "https://open.spotify.com/album/1ADfH89pRILlnPJ8ZgqXu5"
-      },
-      "artists": [
-        {
-          "name": "Sharan Musician",
-          "url": "https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR"
-        }
-      ],
-      "duration_ms": 102509,
-      "name": "On Air",
-      "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
-    },
-    {
-      "added_at": "2024-06-14 15:10:42",
-      "album": {
-        "name": "Kanniley",
-        "url": "https://open.spotify.com/album/6gJYZ6zxzvzvTxHsU0WsfD"
-      },
-      "artists": [
-        {
-          "name": "Keerthana Kunalan",
-          "url": "https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Kanniley",
-      "url": "https://open.spotify.com/track/2PwYyPokT4pF2RFr1hYgTF"
-    },
-    {
-      "added_at": "2024-06-01 10:33:16",
-      "album": {
-        "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
-        "url": "https://open.spotify.com/album/6uw6DurUUI2IWb7BfDKm3M"
-      },
-      "artists": [
-        {
-          "name": "MK Mohan Kumar",
-          "url": "https://open.spotify.com/artist/2GrAC4fHqBDMYt8YYIPJqr"
-        },
-        {
-          "name": "Koshy Cherry",
-          "url": "https://open.spotify.com/artist/5pjikLyNeEqtPjplLlLsgf"
-        }
-      ],
-      "duration_ms": 170017,
-      "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
-      "url": "https://open.spotify.com/track/7urPC6bNYLfTZk56JEBECA"
-    },
-    {
-      "added_at": "2024-06-28 08:54:19",
-      "album": {
-        "name": "Madras Mazhai",
-        "url": "https://open.spotify.com/album/1InwdAyJdjkiZm0KOSQMmE"
-      },
-      "artists": [
-        {
-          "name": "Saras Menon",
-          "url": "https://open.spotify.com/artist/4mAq6TQySa1Jg44cBjvCip"
-        },
-        {
-          "name": "Mukund Ambarish",
-          "url": "https://open.spotify.com/artist/5mK5BecJ5dSwQFoDhozr2d"
-        },
-        {
-          "name": "Akshay Ganesh",
-          "url": "https://open.spotify.com/artist/4CRIhTzqH2S4qTzAHHT4Zt"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Madras Mazhai",
-      "url": "https://open.spotify.com/track/5U8wig388mEr4GpLIiq2X3"
     },
     {
       "added_at": "2024-06-27 13:34:14",
@@ -273,6 +169,162 @@
       "url": "https://open.spotify.com/track/5GzYUYPDYSrKUWtsCzwt0a"
     },
     {
+      "added_at": "2024-05-13 06:46:48",
+      "album": {
+        "name": "Thoovaanam",
+        "url": "https://open.spotify.com/album/6aIrm9a38bRjUhSzmIVFW8"
+      },
+      "artists": [
+        {
+          "name": "Vijay Paul",
+          "url": "https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po"
+        },
+        {
+          "name": "Keerthana",
+          "url": "https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Thoovaanam",
+      "url": "https://open.spotify.com/track/5DxcHVcWl6KlPVCxTBDbj3"
+    },
+    {
+      "added_at": "2024-06-10 09:29:41",
+      "album": {
+        "name": "Neethan",
+        "url": "https://open.spotify.com/album/3e7ZB41ZdFnJnFpe3R34Bd"
+      },
+      "artists": [
+        {
+          "name": "yogesh raj kumar",
+          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
+        }
+      ],
+      "duration_ms": 215271,
+      "name": "Neethan",
+      "url": "https://open.spotify.com/track/6gHyDQRtXeGMSBflq4teh1"
+    },
+    {
+      "added_at": "2024-06-28 11:08:18",
+      "album": {
+        "name": "Nila",
+        "url": "https://open.spotify.com/album/2QIQo3HAoODX6pU0nWh935"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Tushar Budhwani",
+          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Nila",
+      "url": "https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed"
+    },
+    {
+      "added_at": "2024-07-08 08:54:01",
+      "album": {
+        "name": "Nenjukulla",
+        "url": "https://open.spotify.com/album/1PTz76Cyxu9OrOGWvDfHXL"
+      },
+      "artists": [
+        {
+          "name": "Abubakkar",
+          "url": "https://open.spotify.com/artist/4cwsFr09QJtWxxNNZN1ASb"
+        }
+      ],
+      "duration_ms": 190697,
+      "name": "Nenjukulla",
+      "url": "https://open.spotify.com/track/3OYjfa7A8EkqUZkEtkwOgJ"
+    },
+    {
+      "added_at": "2024-03-08 06:09:46",
+      "album": {
+        "name": "Vizhi",
+        "url": "https://open.spotify.com/album/55N7GixVbyi5islA1qaMs1"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        }
+      ],
+      "duration_ms": 282352,
+      "name": "Vizhi",
+      "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
+    },
+    {
+      "added_at": "2024-05-13 06:50:28",
+      "album": {
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/1ADfH89pRILlnPJ8ZgqXu5"
+      },
+      "artists": [
+        {
+          "name": "Sharan Musician",
+          "url": "https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR"
+        }
+      ],
+      "duration_ms": 102509,
+      "name": "On Air",
+      "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
+    },
+    {
+      "added_at": "2024-06-01 10:33:16",
+      "album": {
+        "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
+        "url": "https://open.spotify.com/album/6uw6DurUUI2IWb7BfDKm3M"
+      },
+      "artists": [
+        {
+          "name": "MK Mohan Kumar",
+          "url": "https://open.spotify.com/artist/2GrAC4fHqBDMYt8YYIPJqr"
+        },
+        {
+          "name": "Koshy Cherry",
+          "url": "https://open.spotify.com/artist/5pjikLyNeEqtPjplLlLsgf"
+        }
+      ],
+      "duration_ms": 170017,
+      "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
+      "url": "https://open.spotify.com/track/7urPC6bNYLfTZk56JEBECA"
+    },
+    {
+      "added_at": "2024-06-28 08:54:19",
+      "album": {
+        "name": "Madras Mazhai",
+        "url": "https://open.spotify.com/album/1InwdAyJdjkiZm0KOSQMmE"
+      },
+      "artists": [
+        {
+          "name": "Saras Menon",
+          "url": "https://open.spotify.com/artist/4mAq6TQySa1Jg44cBjvCip"
+        },
+        {
+          "name": "Mukund Ambarish",
+          "url": "https://open.spotify.com/artist/5mK5BecJ5dSwQFoDhozr2d"
+        },
+        {
+          "name": "Akshay Ganesh",
+          "url": "https://open.spotify.com/artist/4CRIhTzqH2S4qTzAHHT4Zt"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Madras Mazhai",
+      "url": "https://open.spotify.com/track/5U8wig388mEr4GpLIiq2X3"
+    },
+    {
       "added_at": "2024-06-19 12:51:47",
       "album": {
         "name": "Potta Potti",
@@ -303,42 +355,6 @@
       "duration_ms": 192037,
       "name": "Thedalae",
       "url": "https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14"
-    },
-    {
-      "added_at": "2024-03-08 06:09:46",
-      "album": {
-        "name": "Vizhi",
-        "url": "https://open.spotify.com/album/55N7GixVbyi5islA1qaMs1"
-      },
-      "artists": [
-        {
-          "name": "Keethan",
-          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
-        },
-        {
-          "name": "Anila Rajeev",
-          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
-        }
-      ],
-      "duration_ms": 282352,
-      "name": "Vizhi",
-      "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
-    },
-    {
-      "added_at": "2024-06-10 09:29:41",
-      "album": {
-        "name": "Neethan",
-        "url": "https://open.spotify.com/album/3e7ZB41ZdFnJnFpe3R34Bd"
-      },
-      "artists": [
-        {
-          "name": "yogesh raj kumar",
-          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
-        }
-      ],
-      "duration_ms": 215271,
-      "name": "Neethan",
-      "url": "https://open.spotify.com/track/6gHyDQRtXeGMSBflq4teh1"
     },
     {
       "added_at": "2024-06-14 06:08:05",

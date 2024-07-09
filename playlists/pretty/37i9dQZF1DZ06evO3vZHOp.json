@@ -1,12 +1,12 @@
 {
   "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
-  "num_followers": 337188,
+  "num_followers": 337352,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAPtzwDRk69N0G2h6W+nw/K",
+  "snapshot_id": "ZonagAAAAAD7YbHHyh13pqU0vXAWC7t8",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+        "name": "SEN2 KBRN VOL. 1",
+        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 144016,
-      "name": "Don KBRN Freestyle",
-      "url": "https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB"
+      "duration_ms": 151500,
+      "name": "Paz Mental",
+      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEN2 KBRN VOL. 1",
-        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Paz Mental",
-      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
+      "duration_ms": 144016,
+      "name": "Don KBRN Freestyle",
+      "url": "https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB"
     },
     {
       "added_at": null,
@@ -847,18 +847,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+        "name": "FUMETEO (Remix)",
+        "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
       },
       "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 156295,
-      "name": "Caras Vemos",
-      "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
+      "duration_ms": 214880,
+      "name": "FUMETEO - Remix",
+      "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
     },
     {
       "added_at": null,
@@ -879,6 +887,22 @@
       "duration_ms": 191164,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 156295,
+      "name": "Caras Vemos",
+      "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
     },
     {
       "added_at": null,
@@ -1015,22 +1039,6 @@
       "duration_ms": 155750,
       "name": "\u00bfQu\u00e9 Carajos Quieres T\u00fa Ahora?",
       "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 157340,
-      "name": "Susanoo",
-      "url": "https://open.spotify.com/track/7JzXQByRyTjgtYzDaymfvk"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

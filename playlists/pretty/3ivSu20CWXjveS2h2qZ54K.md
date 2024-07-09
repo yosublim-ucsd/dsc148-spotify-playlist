@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,520 likes - 139 songs - 7 hr 32 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,519 likes - 140 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,6 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 137 | [Satisfaction](https://open.spotify.com/track/6aQzXwDT104Hpg3YvmXyY3) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Satisfaction](https://open.spotify.com/album/2HUvguUTDRUOtPv3XHF841) | 3:17 |
 | 138 | [The Scientist \- Spotify Singles](https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Spotify Singles](https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ) | 4:46 |
 | 139 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
+| 140 | [Overture](https://open.spotify.com/track/1vZ5zOP4tRQupnMwRGFeRe) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Overture](https://open.spotify.com/album/2QrqNM4VSuPTUw7LDOHay4) | 1:10 |
 
-Snapshot ID: `AACZcetrchoFiyXKjTQYtYIWhhCmPv9W`
+Snapshot ID: `AACZcqcHjkY9GvbUAedP0lk47safjKeS`

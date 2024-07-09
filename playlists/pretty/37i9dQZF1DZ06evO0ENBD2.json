@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4864310,
+  "num_followers": 4864726,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAADm9zjDKnrdtmqPzDhiBY6V",
+  "snapshot_id": "ZonagAAAAAA4sDsDsVDxGqMGNeeAMQGx",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
       "artists": [
         {
@@ -232,9 +232,25 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Fat Bottomed Girls - Remastered 2011",
-      "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
+      "duration_ms": 217386,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
     },
     {
       "added_at": null,
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 324853,
-      "name": "You Don't Fool Me - Remastered 2011",
-      "url": "https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2"
+      "duration_ms": 232120,
+      "name": "Don't Try Suicide - Remastered 2011",
+      "url": "https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Don't Try Suicide - Remastered 2011",
-      "url": "https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "News Of The World (2011 Remaster)",
         "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Death On Two Legs (Dedicated To...) - Remastered 2011",
-      "url": "https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (2011 Remaster)",
         "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 311026,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Death On Two Legs (Dedicated To...) - Remastered 2011",
+      "url": "https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Miracle (2011 Remaster)",
-        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
+        "name": "A Night At The Opera (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 237680,
-      "name": "The Invisible Man - Remastered 2011",
-      "url": "https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8"
+      "duration_ms": 134120,
+      "name": "Seaside Rendezvous - Remastered 2011",
+      "url": "https://open.spotify.com/track/0VU7avDE4OZ36oVmLPSEZA"
     }
   ],
   "unique_name": "This Is Queen",

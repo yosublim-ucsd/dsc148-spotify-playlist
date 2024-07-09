@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mau Moctezuma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,925 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,937 likes - 90 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 86 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 |
 | 87 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 |
 | 88 | [Bésame Mucho](https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln) | [Bésame Mucho](https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ) | 2:31 |
-| 89 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
-| 90 | [Dónde Andarás \- USB GAD Remix](https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Yo Solo Quiero Que Me Quieras Como Yo Te Quiero](https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu) | 3:24 |
+| 89 | [Dónde Andarás \- USB GAD Remix](https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Yo Solo Quiero Que Me Quieras Como Yo Te Quiero](https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu) | 3:24 |
+| 90 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
 
 Snapshot ID: `ZoeL4AAAAAA5szJngD7Xr32lFKQ6rqyb`

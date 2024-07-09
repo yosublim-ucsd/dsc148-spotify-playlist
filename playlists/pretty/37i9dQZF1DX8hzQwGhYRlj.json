@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 36287,
+  "num_followers": 36289,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
-      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
         "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
       },
@@ -371,8 +351,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
-        "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
       },
       "artists": [
         {
@@ -380,21 +360,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
         }
       ],
-      "duration_ms": 395066,
-      "name": "Piano Concerto in A minor, Op. 16: 2. Adagio",
-      "url": "https://open.spotify.com/track/2l5QI1DtARBAeI9A7vG9dh"
+      "duration_ms": 300560,
+      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
+      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -419,6 +391,34 @@
       "duration_ms": 675226,
       "name": "In Autumn, Op. 11",
       "url": "https://open.spotify.com/track/0Yvbglku9m9xG3YcgGk0RA"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
+        "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 395066,
+      "name": "Piano Concerto in A minor, Op. 16: 2. Adagio",
+      "url": "https://open.spotify.com/track/2l5QI1DtARBAeI9A7vG9dh"
     },
     {
       "added_at": "2022-09-30 04:01:00",

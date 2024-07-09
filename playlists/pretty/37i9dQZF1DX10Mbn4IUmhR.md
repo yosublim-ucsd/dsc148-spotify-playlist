@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The best in South African and global Pop\. Cover: <a href="https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0?si=jHS0wa8oRlCxhJeZIV9\_sw">Anacy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 8 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 9 | [Masterpiece](https://open.spotify.com/track/4YiepHcrEBS5TSdIp7nY6Y) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Frank Kadillac](https://open.spotify.com/artist/6gFjPuQkV3lwb1fy3Oh1hE) | [Masterpiece](https://open.spotify.com/album/76KnFUm65N44xPESXk43sW) | 3:20 |
 | 10 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
-| 11 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
+| 11 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
 | 12 | [Move Your Way](https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Move Your Way](https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9) | 3:23 |
 | 13 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 14 | [Blame](https://open.spotify.com/track/4CuOZPjdBYIv2LBH2rjlcO) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Blame](https://open.spotify.com/album/1TaOehFY4w199Js31jlJWq) | 2:21 |
-| 15 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 15 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 16 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
 | 17 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 18 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 21 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 22 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 23 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
-| 24 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
-| 25 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
+| 24 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
+| 25 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 26 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
 | 27 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
 | 28 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 45 | [Seconds Away](https://open.spotify.com/track/1vxWgYimfA3RtHo41qE40i) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Seconds Away](https://open.spotify.com/album/5d6ksxWTiDMYFR6EngSWG9) | 2:50 |
 | 46 | [Growing Up](https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [Growing Up](https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw) | 2:37 |
 | 47 | [Ride Or Die](https://open.spotify.com/track/0ArqVqN4PWLp9Wy2cQBwGS) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Ride Or Die](https://open.spotify.com/album/4tO1K47ZI9P4pMri3vJkOd) | 3:25 |
-| 48 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 |
-| 49 | [With You](https://open.spotify.com/track/79LggjXGWmOdad69uxByNI) | [Joss Austin](https://open.spotify.com/artist/2NKDYt1C1JET13SHsFYXbv) | [With You](https://open.spotify.com/album/2rKoC3qq6soseMbHedF07S) | 2:31 |
+| 48 | [With You](https://open.spotify.com/track/79LggjXGWmOdad69uxByNI) | [Joss Austin](https://open.spotify.com/artist/2NKDYt1C1JET13SHsFYXbv) | [With You](https://open.spotify.com/album/2rKoC3qq6soseMbHedF07S) | 2:31 |
+| 49 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 |
 | 50 | [Feelings](https://open.spotify.com/track/4bHZTWujvLTAeQRNjvp1DA) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Liam Burger](https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ) | [Feelings](https://open.spotify.com/album/6fOQIwSV5BSjjtrliXEmHo) | 2:22 |
 
 Snapshot ID: `ZocbYAAAAACAdBsxB28RZ+QXs2mHBuZP`

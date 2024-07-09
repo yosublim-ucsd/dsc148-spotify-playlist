@@ -2,9 +2,9 @@
 
 ### [GLOW UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DWTSCHxQyDbKJ)
 
-> Necessities from LGBTQIA+ artists\. Cover: I\. JORDAN
+> Necessities from LGBTQIA+ artists\. Cover: salute
 
-103 songs - 5 hr 22 min
+104 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-06-10 |  |
 | [Cheap Love](https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Cheap Love](https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9) | 3:05 | 2024-06-10 |  |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2024-06-10 |  |
-| [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 | 2024-06-10 |  |
+| [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 | 2024-06-10 | 2024-07-09 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-10 |  |
 | [Crush Me Up](https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Crush Me Up](https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm) | 2:30 | 2024-06-10 |  |
 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 | 2024-06-10 |  |
@@ -92,6 +92,7 @@
 | [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-06-10 |  |
 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2024-06-10 |  |
 | [Sad Girl Summer](https://open.spotify.com/track/66xT802jNExU9nMii68YnZ) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 3:13 | 2024-06-10 |  |
+| [saving flowers](https://open.spotify.com/track/1DUziVUZWDzdgKeWBASvu8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 3:30 | 2024-07-08 |  |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2024-06-10 |  |
 | [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 | 2024-06-10 |  |
 | [Sexed & Sexual](https://open.spotify.com/track/6sV5HbMxga42MODRJqdH85) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Sexed & Sexual](https://open.spotify.com/album/7AJq7TVlbNRZqTFFB0C6px) | 2:54 | 2024-06-10 |  |

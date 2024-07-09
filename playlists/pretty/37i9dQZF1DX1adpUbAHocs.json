@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 662605,
+  "num_followers": 662596,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 250597,
       "name": "The Roads",
       "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Don't Do Me Good",
-        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+        "name": "The Third Gleam",
+        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
         }
       ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+      "duration_ms": 244280,
+      "name": "Untitled #4",
+      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1271,24 +1267,28 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Third Gleam",
-        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
+        "name": "Don't Do Me Good",
+        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
       "artists": [
         {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 244280,
-      "name": "Untitled #4",
-      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
     },
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Where'd All the Time Go",
         "url": "https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 241023,
       "name": "Where'd All the Time Go",
       "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Taking Things For Granted",
-        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Drivin (feat. Field Medic)",
         "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
         }
       ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+      "duration_ms": 245080,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1531,22 +1547,6 @@
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
       "added_at": "2024-07-05 20:58:56",

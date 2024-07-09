@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: El Mimiso Luis Antonio López
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,402 likes - 192 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,431 likes - 192 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

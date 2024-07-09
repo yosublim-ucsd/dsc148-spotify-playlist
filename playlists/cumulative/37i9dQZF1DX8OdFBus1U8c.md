@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Neeraj Madhav
 
-172 songs - 9 hr 9 min
+173 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 | 2022-06-23 | 2024-05-22 |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2022-08-10 | 2024-02-18 |
 | [Maniyara](https://open.spotify.com/track/0EkUvVzuPWBrg5ZYy07rab) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Maniyara](https://open.spotify.com/album/0yykuYb8HTFMNUFG7lMi7s) | 2:20 | 2023-09-18 |  |
+| [Manjaabi](https://open.spotify.com/track/28zlLbXJ0EyLJG0GI3JQ2U) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Manjaabi](https://open.spotify.com/album/6SMtqT2P3YfPZ2BPq4TGJr) | 4:51 | 2024-07-08 |  |
 | [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 | 2024-04-08 |  |
 | [Mathapithakkale \- From "Aavesham"](https://open.spotify.com/track/4WaCnPpbycUQQiXBDxH7zx) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [Mathapithakkale \(From "Aavesham"\)](https://open.spotify.com/album/0iTW4gBhHqRbN5ins6Nhkf) | 3:29 | 2024-04-16 |  |
 | [Minni](https://open.spotify.com/track/306XOjGf2EDuTNv77HdPme) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Minni](https://open.spotify.com/album/6ZdyxuQBpOHPpspL33AMTU) | 3:16 | 2022-06-23 |  |

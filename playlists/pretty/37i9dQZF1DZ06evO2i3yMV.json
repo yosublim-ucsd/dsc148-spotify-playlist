@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8050,
+  "num_followers": 8052,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAACe5cUQdl2J4Y7txjb56bT9",
+  "snapshot_id": "ZonagAAAAACGKOBq3FC0VBJUDp+mbUHk",
   "tracks": [
     {
       "added_at": null,
@@ -91,26 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 210448,
-      "name": "Realla",
-      "url": "https://open.spotify.com/track/34x4a9pz1wr6kDvwNuVUoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RINGOS DESERT",
         "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 198567,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 210448,
+      "name": "Realla",
+      "url": "https://open.spotify.com/track/34x4a9pz1wr6kDvwNuVUoI"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 183333,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Invited",
-        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Breath Strokes",
-      "url": "https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -723,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOVERE",
-        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195529,
-      "name": "Starlight Lace",
-      "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 216726,
-      "name": "Sweet Day",
-      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
       },
@@ -768,9 +716,9 @@
           "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 220934,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
+      "duration_ms": 160000,
+      "name": "Breath Strokes",
+      "url": "https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI"
     },
     {
       "added_at": null,
@@ -795,6 +743,58 @@
       "duration_ms": 248907,
       "name": "Come and Go - Halogenix Remix",
       "url": "https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Starlight Lace",
+      "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 220934,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
     },
     {
       "added_at": null,

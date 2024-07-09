@@ -4657,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "Pior Solteiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KtYUFF5zOttW9euRd9CQf"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Moura & Rafael",
+          "url": "https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155376,
+      "name": "Pior Solteiro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6sBNs72mnSj3SsYuM9LLJe"
+    },
+    {
+      "album": {
         "name": "Hipnose Ao Vivo",
         "url": "https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci"
       },
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 254589,
       "name": "quanto mais eu tento",
       "url": "https://open.spotify.com/track/11lQJI8QLOSVViDppxUS6g"

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7630,
+  "num_followers": 7632,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+        }
+      ],
+      "duration_ms": 213168,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "I'll Wait Till You're Really Gone",
         "url": "https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
       "artists": [
         {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 213168,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -443,22 +459,6 @@
       "duration_ms": 194474,
       "name": "DNA",
       "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Fortunes & Willows",
-        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 244667,
-      "name": "Little Miss Blue Eyes",
-      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Fortunes & Willows",
+        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
+        }
+      ],
+      "duration_ms": 244667,
+      "name": "Little Miss Blue Eyes",
+      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 193426,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -591,38 +607,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Bluefinger",
         "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 202906,
       "name": "Even The Bad Ends Badly",
       "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Life's A Beach & 3 Acoustic Songs",
+        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
+      },
+      "artists": [
+        {
+          "name": "Robert Weston",
+          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
+        }
+      ],
+      "duration_ms": 203487,
+      "name": "When You Know You Know - Acoustic",
+      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "How Did We Get To Goodbye",
         "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 279138,
       "name": "How Did We Get To Goodbye",
       "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "To The Darkness",
-        "url": "https://open.spotify.com/album/5aJpNDqfKzEx66syRNqCr2"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "To The Darkness",
-      "url": "https://open.spotify.com/track/1jFWYCpLlz6FqPOxSKIaZo"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "To The Darkness",
+        "url": "https://open.spotify.com/album/5aJpNDqfKzEx66syRNqCr2"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "To The Darkness",
+      "url": "https://open.spotify.com/track/1jFWYCpLlz6FqPOxSKIaZo"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0EySNk5QHgIAfQwaOLlKEw"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 288544,
       "name": "I Wish You Were Still Here",
       "url": "https://open.spotify.com/track/2vhyQgkYXAftqcJXd4wEz3"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Life's A Beach & 3 Acoustic Songs",
-        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
-      },
-      "artists": [
-        {
-          "name": "Robert Weston",
-          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
-        }
-      ],
-      "duration_ms": 203487,
-      "name": "When You Know You Know - Acoustic",
-      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
     }
   ],
   "unique_name": "Route Americana",

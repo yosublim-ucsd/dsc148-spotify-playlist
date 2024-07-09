@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Necessities from LGBTQIA+ artists. Cover: I. JORDAN",
+  "description": "Necessities from LGBTQIA+ artists. Cover: salute",
   "name": "GLOW UK & Ireland ",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 341124,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq"
@@ -1574,6 +1574,28 @@
       "duration_ms": 193181,
       "name": "Sad Girl Summer",
       "url": "https://open.spotify.com/track/66xT802jNExU9nMii68YnZ"
+    },
+    {
+      "album": {
+        "name": "luv stuck",
+        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210785,
+      "name": "saving flowers",
+      "url": "https://open.spotify.com/track/1DUziVUZWDzdgKeWBASvu8"
     },
     {
       "album": {

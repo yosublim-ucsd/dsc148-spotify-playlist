@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-304 songs - 17 hr 24 min
+305 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Another Day](https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:46 | 2022-05-03 | 2022-07-29 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 | 2024-06-22 |
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-09-07 | 2022-11-13 |
-| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 |  |
+| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 | 2024-07-09 |
 | [Atlantis](https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Atlantis](https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA) | 1:31 | 2024-07-02 |  |
 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 | 2022-05-03 | 2024-07-03 |
 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 | 2022-05-03 | 2024-07-03 |
@@ -134,6 +134,7 @@
 | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/album/3ta3XOJmAbXFDzMFEYn6QR) | 4:56 | 2022-05-03 | 2022-07-29 |
 | [Jiraiya](https://open.spotify.com/track/5BE1V5eaSVKkNWxrGXoFME) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [NKOHA 2K18](https://open.spotify.com/album/5mUzJJIOEmJqGFRCXSKRbB) | 2:58 | 2024-07-02 |  |
 | [Journey](https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Journey](https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV) | 2:49 | 2024-07-02 |  |
+| [Kanashī](https://open.spotify.com/track/3C8THEDcmKmddbhzznTUbr) | [Yume.Play](https://open.spotify.com/artist/3ZEK7UZm6y7atorVFe86wE) | [Kanashī](https://open.spotify.com/album/7dKJrdXcKzoloyreDTxUDB) | 2:59 | 2024-07-02 |  |
 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 | 2023-07-17 | 2024-07-03 |
 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 | 2024-07-02 |  |
 | [Koto Memories](https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Kyefii](https://open.spotify.com/artist/6jTxLqHhCNVbodPAJB77Sw) | [Koto Memories](https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU) | 2:19 | 2024-07-02 |  |

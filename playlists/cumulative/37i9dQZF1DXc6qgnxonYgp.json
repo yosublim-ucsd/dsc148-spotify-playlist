@@ -264,7 +264,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 167052,
       "name": "Anjaana",
       "url": "https://open.spotify.com/track/758vno0xytbJNhfE8d2kbw"
@@ -4844,6 +4844,28 @@
       "duration_ms": 159130,
       "name": "Vanthaa Vaadi",
       "url": "https://open.spotify.com/track/5PPPxOBW4A3ufH4e26EbUc"
+    },
+    {
+      "album": {
+        "name": "Vena",
+        "url": "https://open.spotify.com/album/5PZCNR0RQPhetP2G0bMVia"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        },
+        {
+          "name": "V Break",
+          "url": "https://open.spotify.com/artist/1Rgi8SgT5uIsPSiP8jLxzr"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Vena",
+      "url": "https://open.spotify.com/track/4eRTJ0RLrZPUl2VdduSUhp"
     },
     {
       "album": {

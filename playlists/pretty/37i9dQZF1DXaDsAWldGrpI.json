@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
-  "num_followers": 124954,
+  "num_followers": 125000,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Spotify Live (Live From Austin, TX)",
-        "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 342661,
-      "name": "Need You Now - Live",
-      "url": "https://open.spotify.com/track/0B6xuiHFvxkiAtmGbbuSKB"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 292579,
       "name": "Woman, Amen - Live",
       "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Spotify Live (Live From Austin, TX)",
+        "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 342661,
+      "name": "Need You Now - Live",
+      "url": "https://open.spotify.com/track/0B6xuiHFvxkiAtmGbbuSKB"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "61 Days In Church Volume 1",
+        "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 259758,
+      "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
+      "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 198040,
       "name": "Travelin' Light - Live",
       "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "61 Days In Church Volume 1",
-        "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 259758,
-      "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
-      "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Written in the Sand (Live)",
-        "url": "https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2"
+        "name": "61 Days In Church Volume 5",
+        "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Written in the Sand - Live",
-      "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
+      "duration_ms": 190849,
+      "name": "Drink In My Hand - Live At Staples Center, Los Angeles, CA / March 31, 2017",
+      "url": "https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Written in the Sand (Live)",
+        "url": "https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Written in the Sand - Live",
+      "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Me and My Kind (Live)",
         "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 163013,
       "name": "Me and My Kind - Live",
       "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "61 Days In Church Volume 5",
-        "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 190849,
-      "name": "Drink In My Hand - Live At Staples Center, Los Angeles, CA / March 31, 2017",
-      "url": "https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1492,25 +1492,9 @@
           "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 166466,
-      "name": "She's Got You - Live",
-      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Trouble (Live From The Opry / 2023)",
-        "url": "https://open.spotify.com/album/1C0GhQve9fF4YMZeC0a6Ps"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 267414,
-      "name": "Trouble - Live From The Opry / 2023",
-      "url": "https://open.spotify.com/track/3vxBzadt8w0QHvLlMvS0UO"
+      "duration_ms": 111426,
+      "name": "Blue Moon Of Kentucky - Live",
+      "url": "https://open.spotify.com/track/6rdDgfXHDv7LMoHInLXzAI"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 212285,
       "name": "Tell Me Why - Live",
       "url": "https://open.spotify.com/track/1plzgdb3hbyAYa5t2DcBrV"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Trouble (Live From The Opry / 2023)",
+        "url": "https://open.spotify.com/album/1C0GhQve9fF4YMZeC0a6Ps"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 267414,
+      "name": "Trouble - Live From The Opry / 2023",
+      "url": "https://open.spotify.com/track/3vxBzadt8w0QHvLlMvS0UO"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 111426,
-      "name": "Blue Moon Of Kentucky - Live",
-      "url": "https://open.spotify.com/track/6rdDgfXHDv7LMoHInLXzAI"
+      "duration_ms": 166466,
+      "name": "She's Got You - Live",
+      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1623,22 +1623,6 @@
       "duration_ms": 194800,
       "name": "What He Didn\u2019t Do - Live From Music City",
       "url": "https://open.spotify.com/track/79ZBn845qsMjNPFKtuKEsF"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Spotify Live (Live From Austin, TX)",
-        "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "I Run To You - Live",
-      "url": "https://open.spotify.com/track/6Ut4aPmaScltV7Bu5BWOix"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1687,6 +1671,22 @@
       "duration_ms": 233241,
       "name": "Suds in the Bucket - Live at West Virginia University Creative Arts Center, Morgantown, West Virginia - Aug. 28, 2004",
       "url": "https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Spotify Live (Live From Austin, TX)",
+        "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236887,
+      "name": "I Run To You - Live",
+      "url": "https://open.spotify.com/track/6Ut4aPmaScltV7Bu5BWOix"
     },
     {
       "added_at": "2024-06-28 04:00:00",

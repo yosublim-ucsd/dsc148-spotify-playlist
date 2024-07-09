@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 121199,
+  "num_followers": 121222,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
+      },
+      "artists": [
+        {
+          "name": "Casa Aberta",
+          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Eterno",
+      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Promessa",
         "url": "https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 245749,
       "name": "Fogo E Altar",
       "url": "https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
-      },
-      "artists": [
-        {
-          "name": "Casa Aberta",
-          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Eterno",
-      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Sua Vida Em Mim",
-        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Sua Vida Em Mim",
-      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Quem Disse? (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 330005,
       "name": "Quem Disse? - Ao Vivo",
       "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
       "added_at": "2023-12-21 22:17:17",

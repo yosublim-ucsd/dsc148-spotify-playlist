@@ -4,7 +4,7 @@
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, coming soon to theaters.
 
-21 songs - 1 hr 23 min
+22 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Already Had It \(From Twisters: The Album\)](https://open.spotify.com/track/2175PkxzwUmUdeJc3J1d0p) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Already Had It \(From Twisters: The Album\)](https://open.spotify.com/album/0BkWWyaoHbUvGbDm9Iibwj) | 2:45 | 2024-06-21 |  |
 | [Broken](https://open.spotify.com/track/7BrL1RQ15niOHFCprkh58C) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:02 | 2024-05-16 |  |
 | [Darling Pretty](https://open.spotify.com/track/5o9uGs39GioJkpX43E9amG) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:31 | 2024-05-16 |  |
+| [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 | 2024-07-08 |  |
 | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 | 2024-05-23 |  |
 | [How](https://open.spotify.com/track/10mjM1I2TqaaeZJFuLqAww) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:51 | 2024-05-16 |  |
 | [Humans Being](https://open.spotify.com/track/312bASljljiGqQkT3NLNSp) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:07 | 2024-05-16 |  |

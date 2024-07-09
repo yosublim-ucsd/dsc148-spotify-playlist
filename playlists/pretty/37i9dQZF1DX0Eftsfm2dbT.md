@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: MFS
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,136 likes - 81 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,153 likes - 81 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 4 | [凍京](https://open.spotify.com/track/0NhvXLchzEoKKElJGDsTCT) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [凍京](https://open.spotify.com/album/3gSwsUWse0y6OkU05vsL4D) | 2:25 |
 | 5 | [BABE](https://open.spotify.com/track/4YGG8J2CiQiyT5o49J840H) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BABE](https://open.spotify.com/album/7rCMyIfVxE1KfePlrAAS0k) | 2:27 |
 | 6 | [STAR](https://open.spotify.com/track/6m77FBq2SlO1j6A3wSVBdD) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [STAR](https://open.spotify.com/album/2WbdMXXKTrA9ZYhUBsHrNP) | 3:16 |
-| 7 | [欲張 feat\. Jin Dogg](https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [欲張 feat\. Jin Dogg](https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia) | 3:40 |
+| 7 | [欲張 feat\. Jin Dogg](https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [欲張 feat\. Jin Dogg](https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia) | 3:39 |
 | 8 | [Journey](https://open.spotify.com/track/3DZR2WaUY7QDZ0k2O0SypA) | [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [Journey](https://open.spotify.com/album/4Sbkx7HLUQSPgusnIHvKnE) | 3:13 |
 | 9 | [Perfect Night](https://open.spotify.com/track/6lFQpInJCEuop8fLbnwXA5) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Perfect Night](https://open.spotify.com/album/2mfzeqN27BQhiDkFBTtHM8) | 2:18 |
 | 10 | [MITEMINA](https://open.spotify.com/track/3TNfPpEZWNllf7Amb8xX4Z) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [MITEMINA](https://open.spotify.com/album/42KpKZkzEWVp0zSEVJxok8) | 3:32 |

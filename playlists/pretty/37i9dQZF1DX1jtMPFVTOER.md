@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,096 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,153 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Foreverland \[Feat\. Laura Mvula & Chris Dave\] \- Single Edit](https://open.spotify.com/track/1iYqpkxXgdhE38P3cIF79v) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [Foreverland \[Feat\. Laura Mvula & Chris Dave\]](https://open.spotify.com/album/4I6MUwu9LVlOccDCRzRbJ6) | 5:03 |
 | 100 | [Black Music Is Forever](https://open.spotify.com/track/3QOzZlO6rVNGHm4jbLxOO5) | [Concurrence](https://open.spotify.com/artist/6c0qXMbMuod4Gi8HYnM5cW), [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [Black Music Is Forever](https://open.spotify.com/album/6PvWUmmhfr7Bdo8q8ka4wR) | 1:29 |
 
-Snapshot ID: `ZllLQAAAAAB0XCVG1JLfj4gNFUg41JR4`
+Snapshot ID: `ZowxpwAAAAA+IpJ2WaS1GHJm0Znm4kDz`

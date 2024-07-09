@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug">  رضا البحراوي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,606 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,728 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [مبحبش الكراسى](https://open.spotify.com/track/5ovYok6lObaJ9bdQJmQ1Ct) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue) | [اللى خايف يروح](https://open.spotify.com/album/0fxmcv1YPIu1smUGbjfvhT) | 6:09 |
 | 50 | [Etal tetkayef](https://open.spotify.com/track/5GNfSTV6ioiX3n9oIpyM6c) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Etal tetkayef](https://open.spotify.com/album/2JFefxJ5kwKa5YPjs8qvGj) | 4:17 |
 
-Snapshot ID: `ZobtiwAAAABHk7IHn2nEGGTIb4OpnN2E`
+Snapshot ID: `ZouKVwAAAAAB5fT25lREpIF9IgpM4zPL`

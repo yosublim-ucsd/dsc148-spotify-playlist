@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-617 songs - 1 day 10 hr 39 min
+618 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-01-20 |
 | [Admit It \(U Don't Want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(U Don't Want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 | 2022-02-15 | 2022-03-10 |
 | [Ahora](https://open.spotify.com/track/5pHrnkNt0Ikb8UE5HAcnIJ) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K), [Jackets](https://open.spotify.com/artist/2WE3lhdwcH8I20JFdhsV94) | [Ahora](https://open.spotify.com/album/4IAMj8Bki0Hb3nMQ7N4PLi) | 6:22 | 2023-03-24 | 2023-07-20 |
+| [Alaska](https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Alaska](https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh) | 4:08 | 2024-07-09 |  |
 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 | 2023-10-05 |  |
 | [All About You](https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [All About You](https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y) | 2:45 | 2023-10-20 | 2024-03-23 |
 | [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2024-02-10 | 2024-03-23 |

@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 383513,
+  "num_followers": 383919,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Repentless",
         "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Epitaph",
-        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 217025,
-      "name": "Epitaph",
-      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 217025,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
+        "name": "nights",
+        "url": "https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 263786,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
+      "duration_ms": 122005,
+      "name": "nights",
+      "url": "https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "nights",
-        "url": "https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY"
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
       },
       "artists": [
         {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 122005,
-      "name": "nights",
-      "url": "https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP"
+      "duration_ms": 263786,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
     }
   ],
   "unique_name": "Energy Booster: Metal",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,213 songs - 2 day 16 hr 16 min
+1,214 songs - 2 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-01-09 | 2023-01-18 |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2023-01-01 | 2023-01-03 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 | 2021-12-25 | 2022-12-27 |
-| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 |  |
+| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 | 2024-07-09 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-01 | 2022-03-13 |
 | [Ice Attack](https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:19 | 2024-03-23 | 2024-03-25 |
 | [Idegen](https://open.spotify.com/track/2BAmnTI9arntwH5BRP3EZx) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:36 | 2023-02-03 | 2023-03-08 |
@@ -772,6 +772,7 @@
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [Okari](https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 4:09 | 2022-05-21 | 2022-11-12 |
 | [Olyan Ő](https://open.spotify.com/track/0GsltzHgCGCiQvskZggDDj) | [Bagossy Brothers Company](https://open.spotify.com/artist/1vpC76RZf9ndFkOEB7agn9) | [Veled Utazom](https://open.spotify.com/album/5r58X4ClpnBIvBWm2XX63f) | 3:46 | 2021-03-27\* | 2021-10-26 |
+| [Olyan Ő](https://open.spotify.com/track/0iddCWjFnIc2pENyQWIIn2) | [Bagossy Brothers Company](https://open.spotify.com/artist/1vpC76RZf9ndFkOEB7agn9) | [Veled Utazom](https://open.spotify.com/album/584agcV24clyBLKItrYf9p) | 3:46 | 2024-07-08 |  |
 | [Olyan, mint valami drog \- skit](https://open.spotify.com/track/5lvzCr2jaltLlnHHYMauBG) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 0:53 | 2022-11-23 | 2022-11-26 |
 | [omg](https://open.spotify.com/track/7bhVnO2TFpG44xun0zGcgF) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 2:46 | 2023-01-07 | 2023-01-09 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 343164,
+  "num_followers": 343187,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
         "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
-        "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
-      },
-      "artists": [
-        {
-          "name": "Kaoma",
-          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Lambada - Original Version 1989",
-      "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Ven Dev\u00f3rame Otra Vez (Baile Total)",
         "url": "https://open.spotify.com/album/59dQPzYAIAs2vdU7tP3wTh"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 314013,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
+        "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
+      },
+      "artists": [
+        {
+          "name": "Kaoma",
+          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Lambada - Original Version 1989",
+      "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "La Dura Vida del Joven Rapero",
-        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
-      },
-      "artists": [
-        {
-          "name": "Don Patricio",
-          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
-      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "La Dura Vida del Joven Rapero",
+        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
+      },
+      "artists": [
+        {
+          "name": "Don Patricio",
+          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
+      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Sabrina",
-        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Boys - Summertime Love",
-      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Rayos de Sol",
         "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Boys - Summertime Love",
+      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Corazon Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Ave Mar\u00eda",
-      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 204240,
       "name": "Djobi, Djoba",
       "url": "https://open.spotify.com/track/2Mz7HwloqFNdA6iZeZk5PJ"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Corazon Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Ave Mar\u00eda",
+      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        },
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Mucho mejor (feat. Coque Malla)",
+      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 281640,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        },
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Mucho mejor (feat. Coque Malla)",
-      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "When Love Takes Over",
         "url": "https://open.spotify.com/album/27255AeNTU1KuApN9KjmjM"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 243226,
-      "name": "Livin' la Vida Loca - Spanish Version",
-      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1675,6 +1659,22 @@
       "duration_ms": 196440,
       "name": "Echa Pa'lla (Manos Pa'rriba) (feat. Papayo)",
       "url": "https://open.spotify.com/track/0fjRYHFz9ealui1lfnN8it"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Livin' la Vida Loca - Spanish Version",
+      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1855,6 +1839,22 @@
       "duration_ms": 262456,
       "name": "Ma quale idea",
       "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Mucho Azucar (Grandes Exitos)",
-        "url": "https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV"
-      },
-      "artists": [
-        {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "S\u00f3lo Se Vive una Vez",
-      "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "The Biggest Reggae Hits",
         "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 243695,
       "name": "Gimme Hope Jo'anna",
       "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Mucho Azucar (Grandes Exitos)",
+        "url": "https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV"
+      },
+      "artists": [
+        {
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "S\u00f3lo Se Vive una Vez",
+      "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
     },
     {
       "added_at": "2024-06-18 12:57:48",

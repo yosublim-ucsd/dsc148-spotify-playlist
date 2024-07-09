@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106390,
+  "num_followers": 106393,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Hasta Que Llegue El Verano",
-        "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Hasta Que Llegue El Verano",
-      "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Hasta Que Llegue El Verano",
+        "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Hasta Que Llegue El Verano",
+      "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Amor de Instagramer",
+        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Amor de Instagramer",
+      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "GUIAME",
         "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 198676,
       "name": "GUIAME",
       "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Amor de Instagramer",
-        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Amor de Instagramer",
-      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Romance de Fin de Semana",
-        "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
-      },
-      "artists": [
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        },
-        {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
-        }
-      ],
-      "duration_ms": 275670,
-      "name": "Romance de Fin de Semana",
-      "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1479,6 +1459,42 @@
       "duration_ms": 227274,
       "name": "Sin m\u00ed :(",
       "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Tripulantes",
+        "url": "https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup"
+      },
+      "artists": [
+        {
+          "name": "Bruno Pinto",
+          "url": "https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t"
+        }
+      ],
+      "duration_ms": 228504,
+      "name": "Tripulantes",
+      "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Romance de Fin de Semana",
+        "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        },
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 275670,
+      "name": "Romance de Fin de Semana",
+      "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Tripulantes",
-        "url": "https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup"
-      },
-      "artists": [
-        {
-          "name": "Bruno Pinto",
-          "url": "https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t"
-        }
-      ],
-      "duration_ms": 228504,
-      "name": "Tripulantes",
-      "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 163885,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1643,6 +1623,26 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "3D",
         "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
       },
@@ -1655,6 +1655,22 @@
       "duration_ms": 135942,
       "name": "C\u00f3mo olvidar",
       "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
+        "name": "Ey",
+        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+          "name": "Barco",
+          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
         }
       ],
-      "duration_ms": 221250,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
+      "duration_ms": 197191,
+      "name": "Ey",
+      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1707,22 +1723,6 @@
       "duration_ms": 233507,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Ey",
-        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
-      },
-      "artists": [
-        {
-          "name": "Barco",
-          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
-        }
-      ],
-      "duration_ms": 197191,
-      "name": "Ey",
-      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
     },
     {
       "added_at": "2024-06-14 03:00:00",

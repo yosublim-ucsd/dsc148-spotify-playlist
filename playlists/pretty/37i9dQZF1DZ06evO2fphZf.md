@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,831 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,845 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 6 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 |
 | 7 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 |
 | 8 | [vapor rub](https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [vapor rub](https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF) | 2:56 |
-| 9 | [i got it](https://open.spotify.com/track/1FQJSuqXclVv2R0ZuAQDmB) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 3:04 |
-| 10 | [trust \(feat\. RINI\)](https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:17 |
+| 9 | [trust \(feat\. RINI\)](https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:17 |
+| 10 | [i got it](https://open.spotify.com/track/1FQJSuqXclVv2R0ZuAQDmB) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 3:04 |
 | 11 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
 | 12 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
 | 13 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 32 | [Slide](https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Slide](https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc) | 3:41 |
 | 33 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 |
 | 34 | [Options](https://open.spotify.com/track/4CvV6VfT6taArl6ZnO85qK) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Options](https://open.spotify.com/album/0hHfrwPYO6iO340NK28Pw4) | 2:04 |
-| 35 | [Love Songs](https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Love Songs](https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR) | 3:38 |
-| 36 | [The Way](https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [The Way](https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL) | 2:54 |
+| 35 | [The Way](https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [The Way](https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL) | 2:54 |
+| 36 | [Love Songs](https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Love Songs](https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR) | 3:38 |
 | 37 | [distance between us](https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 3:24 |
 | 38 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
-| 39 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
-| 40 | [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 |
+| 39 | [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 |
+| 40 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
 | 41 | [wanted](https://open.spotify.com/track/1YXIzmg0unpW7FlY3UZXsh) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wanted](https://open.spotify.com/album/7hUvM7ObwajUcdqGoH94ZV) | 2:39 |
 | 42 | [Bad](https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Bad](https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj) | 3:02 |
 | 43 | [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [Love Come Down](https://open.spotify.com/track/1psyxX7jRaZU8qcUxWQx4z) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [I Don't Wanna Rap No More](https://open.spotify.com/album/2NZQvOFm3oJNXg9q5fbQQg) | 3:52 |
 | 50 | [Reasons](https://open.spotify.com/track/3BEOKlFeiFCEFrfqTVH53F) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Reasons \(feat\. Thuy\) \- Single](https://open.spotify.com/album/0SEahu9fVx9ivOEuqgDSki) | 3:24 |
 
-Snapshot ID: `ZoiJAAAAAADBUTNI7EgPi8DlC5F01Dj6`
+Snapshot ID: `ZonagAAAAADHoBZsjPROLfGNX07qxfvF`

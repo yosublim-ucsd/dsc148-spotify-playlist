@@ -1,12 +1,12 @@
 {
-  "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 109846,
+  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
+  "num_followers": 109886,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAADfTEkIyFjLl/bikpMrWAAH",
+  "snapshot_id": "ZonagAAAAAAcqGaWMSueGZnzle1oOvMB",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 230207,
+      "name": "Deja Ya de Mentir",
+      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 200613,
       "name": "Noviembre (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 230207,
-      "name": "Deja Ya de Mentir",
-      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -811,22 +795,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dejado",
-        "url": "https://open.spotify.com/album/3mCVfLCdPULRjC1bAdbatI"
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Skarnales",
-          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
         }
       ],
-      "duration_ms": 296355,
-      "name": "El Dejado",
-      "url": "https://open.spotify.com/track/0O9DNo4Mj9hvxuPFnlZhss"
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Yo No Se T\u00fa",
+      "url": "https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs"
     },
     {
       "added_at": null,
@@ -847,18 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "El Dejado",
+        "url": "https://open.spotify.com/album/3mCVfLCdPULRjC1bAdbatI"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Skarnales",
+          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Yo No Se T\u00fa",
-      "url": "https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs"
+      "duration_ms": 296355,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/0O9DNo4Mj9hvxuPFnlZhss"
     }
   ],
   "unique_name": "This Is Inspector",

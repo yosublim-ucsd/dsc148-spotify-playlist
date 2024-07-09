@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,980 songs - 3 day 3 hr 26 min
+1,982 songs - 3 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Coffee Jazz](https://open.spotify.com/track/2JnVnqt3M2mUw1BJcCqI0U) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Coffee Jazz](https://open.spotify.com/album/7cQ81TcqB4raY5AfZx0e3u) | 2:22 | 2022-06-17 | 2022-11-19 |
 | [Coffee time](https://open.spotify.com/track/2huCpFPJIw4BDRO5CHmfLZ) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Coffee time](https://open.spotify.com/album/2LnSDFQhZItxPBOgSfQN9u) | 2:43 | 2023-01-20 |  |
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2022-10-14 |  |
-| [Cold](https://open.spotify.com/track/4k4XSebMs9YTob9EteN0rQ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold](https://open.spotify.com/album/5zJxYQ8vgaYru1uBzEH1ge) | 1:37 | 2023-04-03 |  |
+| [Cold](https://open.spotify.com/track/4k4XSebMs9YTob9EteN0rQ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold](https://open.spotify.com/album/5zJxYQ8vgaYru1uBzEH1ge) | 1:37 | 2023-04-03 | 2024-07-09 |
 | [Cold Nose](https://open.spotify.com/track/4UmcSZJKJ63wnB5qHyYaIV) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Lofi Koji](https://open.spotify.com/artist/6TEf8a5eAulCH644EY9Hvf) | [Cold Nose](https://open.spotify.com/album/3pDDF30FOgvIJwueAXVWDZ) | 2:24 | 2023-01-06 | 2023-10-20 |
 | [Collecting Dust](https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Collecting Dust](https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH) | 2:10 | 2024-03-08 |  |
 | [collogue](https://open.spotify.com/track/5sw8eqqQPKLkXydIyoLg2K) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [collogue](https://open.spotify.com/album/1xexMTvQ3GWUGxhlxZ7min) | 2:00 | 2023-12-22 | 2024-04-27 |
@@ -1080,6 +1080,7 @@
 | [Mi Casa](https://open.spotify.com/track/3p5Hp89Fhgn9ytgLdcDZ45) | [Obié\_](https://open.spotify.com/artist/7fPTxhMVEW4JSvk5j2hu6m), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Mi Casa](https://open.spotify.com/album/1P3uAzSxo9JAvcGarOrgcG) | 1:32 | 2022-11-11 | 2023-01-20 |
 | [Mi Tactica](https://open.spotify.com/track/6a1YbnJggzkCmtmwuMGcF9) | [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Love and Lo\-Fi](https://open.spotify.com/album/47AegNngwhyeGgyTJ1sD0y) | 1:21 | 2022-10-28 | 2023-01-20 |
 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 | 2024-06-21 |  |
+| [Midnight Groove](https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Midnight Groove](https://open.spotify.com/album/4cS4FNN1tFk9sT8avKlsSD) | 2:19 | 2024-07-05 |  |
 | [Midnight Nostalgia](https://open.spotify.com/track/7eQK8cBX44q4THm1Dfw7ZM) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG), [Joey Martinez G](https://open.spotify.com/artist/517y65DlFIKNgVVPSNJUHe) | [Amapola](https://open.spotify.com/album/7z60Si2DbAvtYKL4jS0pej) | 2:08 | 2022-04-15 | 2022-10-01 |
 | [Midnight Vibes](https://open.spotify.com/track/4tdzoOabbIog8LgFQEVZpv) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [Midnight Vibes](https://open.spotify.com/album/2ygtwvjYljWpHxtM5UdwNP) | 2:10 | 2022-11-25 | 2024-01-28 |
 | [Milk](https://open.spotify.com/track/21PuC8I13J6HBcVD1ueUmJ) | [Hicks](https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV) | [Milk](https://open.spotify.com/album/4ZU0Xr2ha6fCyOVSECtp9G) | 1:46 | 2022-10-01 | 2023-01-07 |
@@ -1277,6 +1278,7 @@
 | [Oven Baked](https://open.spotify.com/track/7zUpfB9iEen3mp01g540aQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Oven Baked](https://open.spotify.com/album/2D9pQSvdx0FBHThlO6OHSI) | 2:05 | 2022-12-23 | 2024-03-01 |
 | [Over My Head](https://open.spotify.com/track/3KdnmcIQAsKz6leGGvhziU) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Over My Head](https://open.spotify.com/album/0ksVtSB4NBXsQwLbHevVAX) | 1:07 | 2022-10-07 | 2023-01-13 |
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-07-15 |  |
+| [Ovinhos](https://open.spotify.com/track/4EJs8WoephOYOiGcHR7QUQ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [handful](https://open.spotify.com/album/61InI8u58RhlqAfoYmG1gL) | 2:18 | 2024-07-05 |  |
 | [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 |  |
 | [Pacific Highway](https://open.spotify.com/track/6zflxqdtATYTIWGoOQKZZv) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Pacific Highway](https://open.spotify.com/album/5TePX9AcqnHsVlqvS1BWFa) | 2:18 | 2022-11-25 | 2023-09-16 |
 | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/track/3N0FWBeTdzCNL6N0idBqqG) | [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi), [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/album/43zKBAbB6apBO0SyJ4GWaT) | 1:35 | 2023-04-20 | 2023-09-29 |
@@ -1344,7 +1346,7 @@
 | [Phoebe Buffay](https://open.spotify.com/track/5uzwJATgAKKErn6PqpEgH2) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Phoebe Buffay](https://open.spotify.com/album/5woAL81Ow7OztxwqzULTgG) | 2:43 | 2023-01-13 | 2023-03-09 |
 | [Phone Number](https://open.spotify.com/track/1Fe8JzED1qVUb7RlPRtP8B) | [Nice Pajamas](https://open.spotify.com/artist/2CB4k7eCe8jw8Axug9BN1n) | [Phone Number](https://open.spotify.com/album/27f0zblJFCwUkPF1ZO1YcR) | 2:00 | 2022-10-14 | 2023-01-13 |
 | [Photobooth](https://open.spotify.com/track/43VEuEMhk84irvMBlF6KJp) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [Photobooth](https://open.spotify.com/album/6pGLr0pYoKtQg6BU7MgGI5) | 1:51 | 2023-01-20 | 2023-09-29 |
-| [Photograf Of My Room](https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Photograf Of My Room](https://open.spotify.com/album/0KPJZONq3IMzxa4smUXq5Q) | 2:02 | 2024-03-22 |  |
+| [Photograf Of My Room](https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Photograf Of My Room](https://open.spotify.com/album/0KPJZONq3IMzxa4smUXq5Q) | 2:02 | 2024-03-22 | 2024-07-09 |
 | [Phunk dilla](https://open.spotify.com/track/2dOCWgcDWcxpWq2VwmYDQE) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Phunk Dilla](https://open.spotify.com/album/09RnXYULh66hA5vyrafMmF) | 2:24 | 2023-01-06 | 2024-06-23 |
 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 | 2023-11-17 |  |
 | [piece of cake](https://open.spotify.com/track/4rwk2fkjHLRF5hnJiZRIAw) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [piece of cake](https://open.spotify.com/album/2ISl6imEYl6rHKHjzASGM2) | 2:22 | 2023-11-17 |  |

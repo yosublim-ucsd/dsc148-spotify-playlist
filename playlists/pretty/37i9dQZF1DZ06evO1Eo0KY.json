@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 445,
+  "num_followers": 446,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAACQr+p5+5nLa0G8czAXS5Ll",
+  "snapshot_id": "ZonagAAAAABgumU+PbAoWqQ8qWdmgH9/",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OV3\u00b2",
+        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
+      },
+      "artists": [
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Paco Chaupard",
+      "url": "https://open.spotify.com/track/6YkALlDSpjt4GhQGEGdbvi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 150769,
       "name": "Dear Friend",
       "url": "https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OV3\u00b2",
-        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
-      },
-      "artists": [
-        {
-          "name": "Di-Meh",
-          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Paco Chaupard",
-      "url": "https://open.spotify.com/track/6YkALlDSpjt4GhQGEGdbvi"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 188414,
       "name": "Final Destination",
       "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     },
     {
       "added_at": null,
@@ -966,11 +966,15 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
         }
       ],
-      "duration_ms": 254390,
-      "name": "They Live",
-      "url": "https://open.spotify.com/track/7hVW06FEfif7tkvc7viAKs"
+      "duration_ms": 175384,
+      "name": "War Dogs",
+      "url": "https://open.spotify.com/track/0jpjz8LG1lUH1VVLBPvuPQ"
     },
     {
       "added_at": null,
@@ -1046,15 +1050,11 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
         }
       ],
-      "duration_ms": 175384,
-      "name": "War Dogs",
-      "url": "https://open.spotify.com/track/0jpjz8LG1lUH1VVLBPvuPQ"
+      "duration_ms": 254390,
+      "name": "They Live",
+      "url": "https://open.spotify.com/track/7hVW06FEfif7tkvc7viAKs"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

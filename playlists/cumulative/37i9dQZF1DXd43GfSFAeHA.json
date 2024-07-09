@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "Decor",
+        "url": "https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I"
+      },
+      "artists": [
+        {
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+        },
+        {
+          "name": "77",
+          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Bella Hadid",
+      "url": "https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq"
+    },
+    {
+      "album": {
         "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
         "url": "https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl"
       },
@@ -4938,7 +4960,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 116525,
       "name": "Msayfeen",
       "url": "https://open.spotify.com/track/0VXGvZD6v5ZfE1OwIkSZBB"

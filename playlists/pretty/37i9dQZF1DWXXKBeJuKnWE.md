@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: IDLES \#Glastonbury2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,114 likes - 120 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,091 likes - 120 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 43 | [Back From The Dead](https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:30 |
 | 44 | [The Echoes of Disparity](https://open.spotify.com/track/15cliM4IVHGvwbK9O36xcV) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Charlie Rolfe](https://open.spotify.com/artist/61LUcApo9W4qxM7PjbO6gV), [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [The Echoes of Disparity](https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI) | 3:51 |
 | 45 | [HEAT ME UP](https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [HEAT ME UP](https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt) | 3:45 |
-| 46 | [Out Of Style](https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Out Of Style](https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1) | 3:25 |
-| 47 | [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 |
+| 46 | [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 |
+| 47 | [Out Of Style](https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Out Of Style](https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1) | 3:25 |
 | 48 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 |
 | 49 | [Ipecac](https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:18 |
 | 50 | [Fight For The Right](https://open.spotify.com/track/7qfZLqQvOE35OeiT9v70kO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Fight For The Right](https://open.spotify.com/album/7zAXZA0sjU0ldpgnl3Wlt0) | 2:03 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 70 | [Maverick](https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Maverick](https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ) | 3:34 |
 | 71 | [The Beautiful Dark of Life](https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Beautiful Dark of Life](https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp) | 3:08 |
 | 72 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 |
-| 73 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
-| 74 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/47RXxwVW825H8bMiBw4Ve5) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Don't Tell Me \(feat\. Ann Wilson\) \[PLZ Tethered Version\]](https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU) | 4:31 |
+| 73 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/47RXxwVW825H8bMiBw4Ve5) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Don't Tell Me \(feat\. Ann Wilson\) \[PLZ Tethered Version\]](https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU) | 4:31 |
+| 74 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
 | 75 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 |
 | 76 | [For What It's Worth](https://open.spotify.com/track/37hRWS6pTYGQrTL00MwQwo) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [For What It's Worth](https://open.spotify.com/album/2gJfVLm0zyL1Oe4SNaUPhK) | 3:26 |
 | 77 | [Love And Pain](https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore Special Edition](https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf) | 4:13 |

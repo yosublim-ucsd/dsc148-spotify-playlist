@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "Reflections of Purple Sun",
-        "url": "https://open.spotify.com/album/3Sj1uOUTM1giGUXuoME25Z"
-      },
-      "artists": [
-        {
-          "name": "EABS",
-          "url": "https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c"
-        }
-      ],
-      "duration_ms": 415897,
-      "name": "Boratka",
-      "url": "https://open.spotify.com/track/59ehEi9Q9HwZG10uveIQiD"
-    },
-    {
-      "added_at": "2024-07-05 08:56:32",
-      "album": {
         "name": "Pressure Love",
         "url": "https://open.spotify.com/album/6TzdVnJ0nbqS2citnEtEgF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 208850,
       "name": "Pressure Love",
       "url": "https://open.spotify.com/track/6A8kyzSMSsVulz9P2HdGPf"
+    },
+    {
+      "added_at": "2024-07-05 08:56:32",
+      "album": {
+        "name": "Reflections of Purple Sun",
+        "url": "https://open.spotify.com/album/3Sj1uOUTM1giGUXuoME25Z"
+      },
+      "artists": [
+        {
+          "name": "EABS",
+          "url": "https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c"
+        }
+      ],
+      "duration_ms": 415897,
+      "name": "Boratka",
+      "url": "https://open.spotify.com/track/59ehEi9Q9HwZG10uveIQiD"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "Plaza",
-        "url": "https://open.spotify.com/album/2H95RQFyXscntnuWt75EMD"
-      },
-      "artists": [
-        {
-          "name": "Coals",
-          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Plaza",
-      "url": "https://open.spotify.com/track/6Fe6s0tCQuZ8zTXYSGInQq"
-    },
-    {
-      "added_at": "2024-07-05 08:56:32",
-      "album": {
         "name": "Reflections of Purple Sun",
         "url": "https://open.spotify.com/album/3Sj1uOUTM1giGUXuoME25Z"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 364250,
       "name": "Flute's Ballad",
       "url": "https://open.spotify.com/track/34UT6n56LXyHRy0jdaGWPg"
+    },
+    {
+      "added_at": "2024-07-05 08:56:32",
+      "album": {
+        "name": "Plaza",
+        "url": "https://open.spotify.com/album/2H95RQFyXscntnuWt75EMD"
+      },
+      "artists": [
+        {
+          "name": "Coals",
+          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Plaza",
+      "url": "https://open.spotify.com/track/6Fe6s0tCQuZ8zTXYSGInQq"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "nowy \u015bwiat",
-        "url": "https://open.spotify.com/album/4RWEh4LYJRaG4a4z6D9uHO"
+        "name": "credo",
+        "url": "https://open.spotify.com/album/1S0TSgEVkJR7oJmjcBL5Jm"
       },
       "artists": [
         {
-          "name": "Coals",
-          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
+          "name": "Seweryn",
+          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
         }
       ],
-      "duration_ms": 155064,
-      "name": "nowy \u015bwiat",
-      "url": "https://open.spotify.com/track/2ZWrcl4VBt5GmGWWQ24Iwh"
+      "duration_ms": 91764,
+      "name": "credo",
+      "url": "https://open.spotify.com/track/7EpRJwkFlt1nhTWhljnjQa"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "credo",
-        "url": "https://open.spotify.com/album/1S0TSgEVkJR7oJmjcBL5Jm"
+        "name": "nowy \u015bwiat",
+        "url": "https://open.spotify.com/album/4RWEh4LYJRaG4a4z6D9uHO"
       },
       "artists": [
         {
-          "name": "Seweryn",
-          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
+          "name": "Coals",
+          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
         }
       ],
-      "duration_ms": 91764,
-      "name": "credo",
-      "url": "https://open.spotify.com/track/7EpRJwkFlt1nhTWhljnjQa"
+      "duration_ms": 155064,
+      "name": "nowy \u015bwiat",
+      "url": "https://open.spotify.com/track/2ZWrcl4VBt5GmGWWQ24Iwh"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "MIXTAPE",
-        "url": "https://open.spotify.com/album/4GgeAIhLYSG9mq4iKF5z0p"
+        "name": "Sorry, nie tu",
+        "url": "https://open.spotify.com/album/6oqXhhJTzydwe7PUm6t0q3"
       },
       "artists": [
         {
-          "name": "Dafeat",
-          "url": "https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA"
-        },
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
         }
       ],
-      "duration_ms": 208000,
-      "name": "SO CAUGHT",
-      "url": "https://open.spotify.com/track/4Eg3WwxoDutabyOTE7byM1"
+      "duration_ms": 404389,
+      "name": "APEROL",
+      "url": "https://open.spotify.com/track/1k1aGThSfPoPSj33xqdHud"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1467,22 +1463,22 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "Wz\u00f3r na pr\u0119dko\u015b\u0107 bicia serca",
-        "url": "https://open.spotify.com/album/4O0Suo8NkMP3pTtVcHaLkb"
+        "name": "MIXTAPE",
+        "url": "https://open.spotify.com/album/4GgeAIhLYSG9mq4iKF5z0p"
       },
       "artists": [
         {
-          "name": "Seweryn",
-          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
+          "name": "Dafeat",
+          "url": "https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA"
         },
         {
-          "name": "Ajzeja",
-          "url": "https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS"
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
         }
       ],
-      "duration_ms": 248622,
-      "name": "Wz\u00f3r na pr\u0119dko\u015b\u0107 bicia serca",
-      "url": "https://open.spotify.com/track/6BdIDhD3YBHzb3HMPFyE47"
+      "duration_ms": 208000,
+      "name": "SO CAUGHT",
+      "url": "https://open.spotify.com/track/4Eg3WwxoDutabyOTE7byM1"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1503,22 +1499,6 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "Sorry, nie tu",
-        "url": "https://open.spotify.com/album/6oqXhhJTzydwe7PUm6t0q3"
-      },
-      "artists": [
-        {
-          "name": "Kosmonauci",
-          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
-        }
-      ],
-      "duration_ms": 404389,
-      "name": "APEROL",
-      "url": "https://open.spotify.com/track/1k1aGThSfPoPSj33xqdHud"
-    },
-    {
-      "added_at": "2024-07-05 08:56:32",
-      "album": {
         "name": "Matki wynalazku",
         "url": "https://open.spotify.com/album/3hrGHrzUc1wQsmffPcLbqn"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 119000,
       "name": "Juki",
       "url": "https://open.spotify.com/track/7eKBHzlBH3x1lygacu6VvX"
+    },
+    {
+      "added_at": "2024-07-05 08:56:32",
+      "album": {
+        "name": "Wz\u00f3r na pr\u0119dko\u015b\u0107 bicia serca",
+        "url": "https://open.spotify.com/album/4O0Suo8NkMP3pTtVcHaLkb"
+      },
+      "artists": [
+        {
+          "name": "Seweryn",
+          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
+        },
+        {
+          "name": "Ajzeja",
+          "url": "https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS"
+        }
+      ],
+      "duration_ms": 248622,
+      "name": "Wz\u00f3r na pr\u0119dko\u015b\u0107 bicia serca",
+      "url": "https://open.spotify.com/track/6BdIDhD3YBHzb3HMPFyE47"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
+        "name": "KOSMOCHOOJUWA",
+        "url": "https://open.spotify.com/album/0QaHoz7aYfIaBEuHH4LtUT"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "duration_ms": 168977,
+      "name": "KOSMOCHOOJUWA",
+      "url": "https://open.spotify.com/track/7Mre23VuQDkvaLxXRKcECe"
+    },
+    {
+      "added_at": "2024-07-05 08:56:32",
+      "album": {
         "name": "Wszystko ja. Wszystko my.",
         "url": "https://open.spotify.com/album/7E4Gy6HMKLpOCB27lkoGRu"
       },
@@ -1599,6 +1615,22 @@
       "duration_ms": 174523,
       "name": "Elvis",
       "url": "https://open.spotify.com/track/5071R8Z801jQXjviaoYJ8c"
+    },
+    {
+      "added_at": "2024-07-05 08:56:32",
+      "album": {
+        "name": "The World Is Louder",
+        "url": "https://open.spotify.com/album/145aYBOL9nkQ3aVoyAQ5aM"
+      },
+      "artists": [
+        {
+          "name": "Oxford Drama",
+          "url": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Practice Is My Passion",
+      "url": "https://open.spotify.com/track/1rxHL5Ji2MEcWAYp5IsKXH"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1619,22 +1651,6 @@
       "duration_ms": 214259,
       "name": "SATURNUM",
       "url": "https://open.spotify.com/track/29BR4nSy8IuEa8uKk6TjdF"
-    },
-    {
-      "added_at": "2024-07-05 08:56:32",
-      "album": {
-        "name": "The World Is Louder",
-        "url": "https://open.spotify.com/album/145aYBOL9nkQ3aVoyAQ5aM"
-      },
-      "artists": [
-        {
-          "name": "Oxford Drama",
-          "url": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Practice Is My Passion",
-      "url": "https://open.spotify.com/track/1rxHL5Ji2MEcWAYp5IsKXH"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1667,22 +1683,6 @@
       "duration_ms": 221144,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/7zRwXErqZT64maLmfu0YH8"
-    },
-    {
-      "added_at": "2024-07-05 08:56:32",
-      "album": {
-        "name": "KOSMOCHOOJUWA",
-        "url": "https://open.spotify.com/album/0QaHoz7aYfIaBEuHH4LtUT"
-      },
-      "artists": [
-        {
-          "name": "Kosmonauci",
-          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
-        }
-      ],
-      "duration_ms": 168977,
-      "name": "KOSMOCHOOJUWA",
-      "url": "https://open.spotify.com/track/7Mre23VuQDkvaLxXRKcECe"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
+        "name": "No Codes",
+        "url": "https://open.spotify.com/album/5QGuMNjn4fBJdG0KwUx0HX"
+      },
+      "artists": [
+        {
+          "name": "P.Unity",
+          "url": "https://open.spotify.com/artist/2fd7PKWnRqQxCzhsh4q4Rd"
+        }
+      ],
+      "duration_ms": 228244,
+      "name": "Morphin'",
+      "url": "https://open.spotify.com/track/7JCHvqw5MgOPcADobfkT5V"
+    },
+    {
+      "added_at": "2024-07-05 08:56:32",
+      "album": {
         "name": "Live Session",
         "url": "https://open.spotify.com/album/2gmigf843bj2PaWI0RdhM1"
       },
@@ -1827,18 +1843,18 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "No Codes",
-        "url": "https://open.spotify.com/album/5QGuMNjn4fBJdG0KwUx0HX"
+        "name": "Ciep\u0142o",
+        "url": "https://open.spotify.com/album/6sBxn5wMaF2EOdARKEUsBu"
       },
       "artists": [
         {
-          "name": "P.Unity",
-          "url": "https://open.spotify.com/artist/2fd7PKWnRqQxCzhsh4q4Rd"
+          "name": "Ch\u0142odno",
+          "url": "https://open.spotify.com/artist/47TpaK9EF2UAcAxBKQJltU"
         }
       ],
-      "duration_ms": 228244,
-      "name": "Morphin'",
-      "url": "https://open.spotify.com/track/7JCHvqw5MgOPcADobfkT5V"
+      "duration_ms": 201818,
+      "name": "Niecodzienna",
+      "url": "https://open.spotify.com/track/0dvzTgsKkCD27vLj7mBzqK"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -1859,22 +1875,6 @@
       "duration_ms": 200094,
       "name": "FAKDA",
       "url": "https://open.spotify.com/track/5PiAsen70mHTBkcmKljB8a"
-    },
-    {
-      "added_at": "2024-07-05 08:56:32",
-      "album": {
-        "name": "Ciep\u0142o",
-        "url": "https://open.spotify.com/album/6sBxn5wMaF2EOdARKEUsBu"
-      },
-      "artists": [
-        {
-          "name": "Ch\u0142odno",
-          "url": "https://open.spotify.com/artist/47TpaK9EF2UAcAxBKQJltU"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Niecodzienna",
-      "url": "https://open.spotify.com/track/0dvzTgsKkCD27vLj7mBzqK"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -2251,8 +2251,8 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "krzyk w poduszk\u0119",
-        "url": "https://open.spotify.com/album/4fftewY9GW2p8WxQfd26rM"
+        "name": "zjawa",
+        "url": "https://open.spotify.com/album/3YS5B0ypDSaYr0DTgG5KfF"
       },
       "artists": [
         {
@@ -2260,9 +2260,9 @@
           "url": "https://open.spotify.com/artist/2SchDvYiIlgkWpTOy7wTkg"
         }
       ],
-      "duration_ms": 203177,
-      "name": "krzyk w poduszk\u0119",
-      "url": "https://open.spotify.com/track/2GRCBGRTpoMphFLq3U5MQa"
+      "duration_ms": 253038,
+      "name": "zjawa",
+      "url": "https://open.spotify.com/track/3dosuOtEM2CsKqvGYDLioe"
     },
     {
       "added_at": "2024-07-05 08:56:32",
@@ -2399,8 +2399,8 @@
     {
       "added_at": "2024-07-05 08:56:32",
       "album": {
-        "name": "zjawa",
-        "url": "https://open.spotify.com/album/3YS5B0ypDSaYr0DTgG5KfF"
+        "name": "krzyk w poduszk\u0119",
+        "url": "https://open.spotify.com/album/4fftewY9GW2p8WxQfd26rM"
       },
       "artists": [
         {
@@ -2408,9 +2408,9 @@
           "url": "https://open.spotify.com/artist/2SchDvYiIlgkWpTOy7wTkg"
         }
       ],
-      "duration_ms": 253038,
-      "name": "zjawa",
-      "url": "https://open.spotify.com/track/3dosuOtEM2CsKqvGYDLioe"
+      "duration_ms": 203177,
+      "name": "krzyk w poduszk\u0119",
+      "url": "https://open.spotify.com/track/2GRCBGRTpoMphFLq3U5MQa"
     },
     {
       "added_at": "2024-07-05 08:56:32",

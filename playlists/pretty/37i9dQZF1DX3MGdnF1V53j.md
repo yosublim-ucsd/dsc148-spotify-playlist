@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 ### [Habibi Gang Gang](https://open.spotify.com/playlist/37i9dQZF1DX3MGdnF1V53j)
 
-> Inez on the cover of Habibi Gang Gang!
+> L'Algérino & Soolking on the cover of Habibi Gang Gang!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,591 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,642 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 29 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
 | 30 | [SI NO ERES TÚ](https://open.spotify.com/track/1ggeoBAlUPhDYAQxh8UEkr) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:25 |
 | 31 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 |
-| 32 | [Dis khamsa](https://open.spotify.com/track/0TzSI4yCx5iQTfQnHEvdNU) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Dis khamsa](https://open.spotify.com/album/0QCA66WMc7imENYl58yo6x) | 3:25 |
-| 33 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 32 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 33 | [Dis khamsa](https://open.spotify.com/track/0TzSI4yCx5iQTfQnHEvdNU) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Dis khamsa](https://open.spotify.com/album/0QCA66WMc7imENYl58yo6x) | 3:25 |
 | 34 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 |
 | 35 | [Ya Habibi](https://open.spotify.com/track/3TZoDoLspZbHMhI1NhKUVO) | [Kida](https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J), [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Ya Habibi](https://open.spotify.com/album/3pTpbCY8ubsEkzACkIUItA) | 2:53 |
 | 36 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 79 | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o) | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/album/0TaXS9dzvNl05NN9XdGCxV) | 2:00 |
 | 80 | [Arif Inou](https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Misn Tchar](https://open.spotify.com/album/2eYtcDiTeXBoWJM4DdkCZV) | 2:26 |
 
-Snapshot ID: `ZocbYAAAAAA18M0VoTzCRAdzYrFuyhzo`
+Snapshot ID: `ZovetAAAAABshEogolBHA/Bwua7t+UaL`

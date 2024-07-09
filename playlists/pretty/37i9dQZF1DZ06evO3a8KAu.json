@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ulices Chaidez. Los temas esenciales, todos en una lista.",
-  "num_followers": 47056,
+  "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
+  "num_followers": 47059,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAfNA2W5kCmk5vPQb3JkBnl",
+  "snapshot_id": "ZonagAAAAAD8MCknBOJKsT9iYnzZPUfj",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 236009,
-      "name": "Mi Mejor Plan Eres Tu",
-      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
+      "duration_ms": 153678,
+      "name": "Nunca Sin Ti",
+      "url": "https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 153678,
-      "name": "Nunca Sin Ti",
-      "url": "https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk"
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "Porque Llegaste Tu",
+      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exotic Corridos",
         "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 173476,
       "name": "Cinderella de Mis Noches",
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "Porque Llegaste Tu",
-      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
     },
     {
       "added_at": null,

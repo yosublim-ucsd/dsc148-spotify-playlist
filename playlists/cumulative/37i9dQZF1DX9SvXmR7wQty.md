@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Swing
 
-2,654 songs - 5 day 21 hr 20 min
+2,656 songs - 5 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1049,7 +1049,7 @@
 | [J'aime ta photo](https://open.spotify.com/track/000mlZk4su6mh0WvFlNUOc) | [Ellemetue](https://open.spotify.com/artist/3DYW5k3Q20xKcomupznCRo) | [Les crucifiés figuratifs](https://open.spotify.com/album/6zGLsViSVtPNcUi4Mz92YY) | 3:33 | 2022-02-25 | 2022-03-05 |
 | [J'aime, J'aime](https://open.spotify.com/track/1X7TuTJ1qByufKwkHsAGVo) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 3:07 | 2022-01-21 | 2022-01-29 |
 | [J'avais besoin d'un père \- Bonus Track](https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [J'avais besoin d'un père \(Bonus Track\)](https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN) | 2:54 | 2023-05-05 | 2023-06-24 |
-| [J'avoue](https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [J'avoue](https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg) | 3:02 | 2024-07-05 |  |
+| [J'avoue](https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [J'avoue](https://open.spotify.com/album/7bnbZfvaAEicU4wHezytpg) | 3:02 | 2024-07-05 | 2024-07-09 |
 | [J'connais la rue](https://open.spotify.com/track/6nPX4SpBKvWcVkMU35LuiQ) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA) | [Trapologie](https://open.spotify.com/album/33MQBXezsMMlwpcTDrv2me) | 4:02 | 2021-12-31 | 2022-01-15 |
 | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/track/2o50mKgFk37SMPVXKYWiR4) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/album/1thrrLwrqLkjaEEoM3DSIm) | 3:08 | 2022-08-26 | 2022-09-17 |
 | [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 | 2024-01-26 | 2024-02-03 |
@@ -1268,11 +1268,12 @@
 | [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 | 2023-09-08 | 2023-10-26 |
 | [La peur est une fleur](https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [La peur est une fleur](https://open.spotify.com/album/1ZsInEwwCcSInxmC4EphyC) | 1:52 | 2024-06-28 | 2024-07-06 |
 | [LA PLUIE](https://open.spotify.com/track/7uwSn8hfkVaXqp9UdRvUsj) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BAD JAZZ](https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7) | 1:21 | 2023-11-24 | 2023-12-02 |
+| [La pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 | 2024-07-05 |  |
 | [LA PLUME OU L’ARME](https://open.spotify.com/track/2r0KFnfmPqWSOUSm5m2Pob) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [LA PLUME OU L’ARME](https://open.spotify.com/album/73hFazxCeNZmYRrWyqJQGc) | 3:02 | 2022-05-06 | 2022-05-14 |
 | [La promesse](https://open.spotify.com/track/4rirFm1iF6yvXk6SCvKXKV) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 4:53 | 2024-02-09 | 2024-02-17 |
 | [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2023-09-22 | 2023-09-30 |
 | [la punition](https://open.spotify.com/track/2jNg424KCAQH6mRsPbWi0X) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [la punition](https://open.spotify.com/album/5Fg4OgnwkqbsevMEnVBSc8) | 2:57 | 2024-06-14 | 2024-06-22 |
-| [La Raclure](https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Raclure](https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU) | 3:02 | 2024-06-21 |  |
+| [La Raclure](https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Raclure](https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU) | 3:02 | 2024-06-21 | 2024-07-09 |
 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 | 2022-05-20 | 2022-05-28 |
 | [La Ronde](https://open.spotify.com/track/5mxvBhTdtp8bVxUOg1qjBe) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [La Ronde](https://open.spotify.com/album/44zJbRgjUPe7jlGjXBKUcQ) | 3:40 | 2022-02-04 | 2022-02-19 |
 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-25 | 2022-04-09 |
@@ -2080,6 +2081,7 @@
 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 | 2023-07-07 | 2023-09-16 |
 | [Rome](https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rome](https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW) | 5:23 | 2022-04-08 | 2022-04-23 |
 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 | 2024-02-02 | 2024-04-13 |
+| [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-05 |  |
 | [Roméo](https://open.spotify.com/track/1ORvnt6vkdHMvzYa8dAy7B) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Roméo](https://open.spotify.com/album/7a7jB2FB6s7iGMCYusSxM2) | 3:12 | 2022-05-13 | 2022-05-20 |
 | [Room in a Bubble](https://open.spotify.com/track/0uzcf8jvTiHFOApUCy8Su3) | [Eddy](https://open.spotify.com/artist/457O4ZTONRL7c5AOLd4Evw) | [Room in a Bubble](https://open.spotify.com/album/7EIIS6DoAhry1K0gH30sam) | 3:49 | 2022-04-22 | 2022-04-29 |
 | [Rope a Dope](https://open.spotify.com/track/1kt1LE9Y8CZEBOppXERFDS) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Rope a Dope](https://open.spotify.com/album/2MaVgumRCNnK6N3hHCpNOF) | 2:54 | 2023-07-21 | 2023-07-29 |

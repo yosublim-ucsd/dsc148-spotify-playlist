@@ -1,6 +1,6 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 12428,
+  "num_followers": 12484,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Jam Inside Your Love (feat. Carla Monroe)",
-        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Jam Inside Your Love (feat. Carla Monroe)",
-      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Lost In The Rhythm",
         "url": "https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 170880,
       "name": "Lost In The Rhythm",
       "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 195121,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Dip It Low",
-        "url": "https://open.spotify.com/album/6NSuHHPPZZ8d4849ndMqIv"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Fabich",
-          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
-        }
-      ],
-      "duration_ms": 135656,
-      "name": "Dip It Low",
-      "url": "https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 178849,
       "name": "Blur",
       "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Dip It Low",
+        "url": "https://open.spotify.com/album/6NSuHHPPZZ8d4849ndMqIv"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        }
+      ],
+      "duration_ms": 135656,
+      "name": "Dip It Low",
+      "url": "https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Body Rock",
+        "url": "https://open.spotify.com/album/2N7fWqjHyi2OpIxPJPBdO2"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 133884,
+      "name": "Body Rock",
+      "url": "https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 156093,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Body Rock",
-        "url": "https://open.spotify.com/album/2N7fWqjHyi2OpIxPJPBdO2"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 133884,
-      "name": "Body Rock",
-      "url": "https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy"
     },
     {
       "added_at": "2024-02-07 08:57:42",

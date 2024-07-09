@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
+  "description": "This is Cynthia Luz. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Cynthia Luz",
   "tracks": [
     {
@@ -982,6 +982,32 @@
     {
       "album": {
         "name": "M\u00f4-Zaico",
+        "url": "https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158783,
+      "name": "M\u00f4-Zaico",
+      "url": "https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD"
+    },
+    {
+      "album": {
+        "name": "M\u00f4-Zaico",
         "url": "https://open.spotify.com/album/1GNTB8OIhFhnHPfKdJzbaj"
       },
       "artists": [
@@ -1000,7 +1026,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 158784,
       "name": "M\u00f4-Zaico",
       "url": "https://open.spotify.com/track/6KyU16IER1SJUORRmACOpV"
@@ -1436,7 +1462,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 420000,
       "name": "Poesia Ac\u00fastica - Paris",
       "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
@@ -1570,6 +1596,48 @@
       "duration_ms": 262978,
       "name": "Poesia Ac\u00fastica Ep. Jeri",
       "url": "https://open.spotify.com/track/634FkL4BoX3y0bPjmRvW0E"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica Paris",
+        "url": "https://open.spotify.com/album/1sCto8C5QNFJF3zUZNwxXH"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Poesia Ac\u00fastica Paris",
+      "url": "https://open.spotify.com/track/03fBjLzNCO7PfPfi1qOhxL"
     },
     {
       "album": {

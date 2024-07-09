@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Felip\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,018 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,053 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 5 | [envy](https://open.spotify.com/track/6uJggzzrSE5tK9CRTZejgm) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [7sins](https://open.spotify.com/album/55eq63Y489Oc4JybFR4ORH) | 2:24 |
 | 6 | [In Da Kitchen](https://open.spotify.com/track/4xBjkmSTlIL7h1LJPI7sPo) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [In Da Kitchen](https://open.spotify.com/album/6Tjp7C27IdMfus4zx59Izd) | 2:40 |
 | 7 | [依然FANTASY](https://open.spotify.com/track/6ntrEvJeBQPvDF3p6nq6C8) | [影子計劃 Shadow Project](https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL) | [依然FANTASY](https://open.spotify.com/album/2MYIeUWHPvrkMLjbuBnWCV) | 2:31 |
-| 8 | [欲張 feat\. Jin Dogg](https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [欲張 feat\. Jin Dogg](https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia) | 3:40 |
+| 8 | [欲張 feat\. Jin Dogg](https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [欲張 feat\. Jin Dogg](https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia) | 3:39 |
 | 9 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 |
 | 10 | [LET ME!](https://open.spotify.com/track/6GChnbdziJOQARYGrw43Rg) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [LET ME!](https://open.spotify.com/album/5Iva804YJ5Xan31uPYMYdA) | 2:14 |
 | 11 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |

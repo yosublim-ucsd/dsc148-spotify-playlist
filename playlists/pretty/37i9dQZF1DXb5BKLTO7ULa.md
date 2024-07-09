@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Davina Michelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,319 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,328 likes - 89 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,18 +85,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 75 | [Alive](https://open.spotify.com/track/4ffFByoICCx9gKDQKLJK0M) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Alive](https://open.spotify.com/album/1DhvNti8w03vd00MYvmy7Q) | 2:49 |
 | 76 | [I Wanna Know](https://open.spotify.com/track/5V8vO1h5HJAcwt1INaK4LA) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [I Wanna Know](https://open.spotify.com/album/4ESDAKoD962Ung9T8UlrbL) | 2:18 |
 | 77 | [Desert Bride](https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Desert Bride](https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW) | 4:15 |
-| 78 | [These Days](https://open.spotify.com/track/5nhM98puOQvlanTuGvwWin) | [Paul Istance](https://open.spotify.com/artist/4croKoYokYowV7MLofoJot) | [These Days](https://open.spotify.com/album/2dUSywQfDCJp8YwKTdknK2) | 2:54 |
-| 79 | [De Bom](https://open.spotify.com/track/6NJYkOGuHoV8KWtPA6mahg) | [Piet Junior](https://open.spotify.com/artist/5FFXksa2XnPdQ6ImtCZstd) | [De Bom](https://open.spotify.com/album/7koi6hjXoq9xNgyeo3JvIt) | 2:27 |
-| 80 | [007 \(feat\. Chip Charlez\)](https://open.spotify.com/track/69ZkBisH32peZ5x3vtrcQ5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [Gek Doen](https://open.spotify.com/album/4diBXOsvRdc9Yn3faO8WMI) | 2:03 |
-| 81 | [Mindset](https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Mindset](https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb) | 2:35 |
-| 82 | [For One Day](https://open.spotify.com/track/1MmkKssKulUvmxiPcQuiiI) | [Jermaine Fleur](https://open.spotify.com/artist/57HjnJinbHM0kYzWBBIT5K) | [For One Day](https://open.spotify.com/album/04YEVTjUhczAn2TuTAcM8F) | 3:08 |
-| 83 | [Beetje Dik](https://open.spotify.com/track/2JJMkUJVyu7HrYIjtqwn2x) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Beetje Dik](https://open.spotify.com/album/1MwGLSiNV1lZz9zIIyUUfW) | 2:34 |
-| 84 | [Pepper](https://open.spotify.com/track/3xq30o7V8f0GKRgTXv0yWE) | [BerryR](https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth), [Rabiaa](https://open.spotify.com/artist/0SXrdaViozHWtGAAy8UI3s), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Pepper](https://open.spotify.com/album/3fCj6rtq8eyACQCq3MFHuK) | 2:46 |
-| 85 | [Never Got Over You](https://open.spotify.com/track/1pHEATokOFsMUyXbFvkY2F) | [Charleon](https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p) | [Never Got Over You](https://open.spotify.com/album/4JyyDjR5TGB2Gxq6rzn3D7) | 2:52 |
-| 86 | [Devils & Angels](https://open.spotify.com/track/3VIGqwqYVy5SzVrHv3IYIj) | [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL), [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Devils & Angels](https://open.spotify.com/album/3PgeSNvoVAbLfQIDqhrwaE) | 4:20 |
-| 87 | [Très Heureux](https://open.spotify.com/track/3Iybyv19Ia1SnMO9q4kCYA) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Très Heureux](https://open.spotify.com/album/5lqubazpQwzdSX35eebdFm) | 2:58 |
-| 88 | [Perfect voor een Ander](https://open.spotify.com/track/7g5D5cjHsmhb9yE1w43EB8) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Perfect voor een Ander](https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX) | 2:51 |
-| 89 | [Pinwheel](https://open.spotify.com/track/7aReVO6Kj9EpdsO2rU8qKl) | [Harper Bloom](https://open.spotify.com/artist/57SMUbet36EnQb3LBuXWtV) | [Pinwheel](https://open.spotify.com/album/0nXwkcJewtE7JVH15XGYnj) | 2:24 |
-| 90 | [Last Song](https://open.spotify.com/track/77NENd5qotaexTzadY4nCx) | [Lilian Hak](https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH) | [Last Song](https://open.spotify.com/album/7zciNsTmRr8jKMLGaEDwKP) | 5:04 |
+| 78 | [De Bom](https://open.spotify.com/track/6NJYkOGuHoV8KWtPA6mahg) | [Piet Junior](https://open.spotify.com/artist/5FFXksa2XnPdQ6ImtCZstd) | [De Bom](https://open.spotify.com/album/7koi6hjXoq9xNgyeo3JvIt) | 2:27 |
+| 79 | [007 \(feat\. Chip Charlez\)](https://open.spotify.com/track/69ZkBisH32peZ5x3vtrcQ5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [Gek Doen](https://open.spotify.com/album/4diBXOsvRdc9Yn3faO8WMI) | 2:03 |
+| 80 | [Mindset](https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Mindset](https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb) | 2:35 |
+| 81 | [For One Day](https://open.spotify.com/track/1MmkKssKulUvmxiPcQuiiI) | [Jermaine Fleur](https://open.spotify.com/artist/57HjnJinbHM0kYzWBBIT5K) | [For One Day](https://open.spotify.com/album/04YEVTjUhczAn2TuTAcM8F) | 3:08 |
+| 82 | [Beetje Dik](https://open.spotify.com/track/2JJMkUJVyu7HrYIjtqwn2x) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Beetje Dik](https://open.spotify.com/album/1MwGLSiNV1lZz9zIIyUUfW) | 2:34 |
+| 83 | [Pepper](https://open.spotify.com/track/3xq30o7V8f0GKRgTXv0yWE) | [BerryR](https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth), [Rabiaa](https://open.spotify.com/artist/0SXrdaViozHWtGAAy8UI3s), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Pepper](https://open.spotify.com/album/3fCj6rtq8eyACQCq3MFHuK) | 2:46 |
+| 84 | [Never Got Over You](https://open.spotify.com/track/1pHEATokOFsMUyXbFvkY2F) | [Charleon](https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p) | [Never Got Over You](https://open.spotify.com/album/4JyyDjR5TGB2Gxq6rzn3D7) | 2:52 |
+| 85 | [Devils & Angels](https://open.spotify.com/track/3VIGqwqYVy5SzVrHv3IYIj) | [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL), [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Devils & Angels](https://open.spotify.com/album/3PgeSNvoVAbLfQIDqhrwaE) | 4:20 |
+| 86 | [Très Heureux](https://open.spotify.com/track/3Iybyv19Ia1SnMO9q4kCYA) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Très Heureux](https://open.spotify.com/album/5lqubazpQwzdSX35eebdFm) | 2:58 |
+| 87 | [Perfect voor een Ander](https://open.spotify.com/track/7g5D5cjHsmhb9yE1w43EB8) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Perfect voor een Ander](https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX) | 2:51 |
+| 88 | [Pinwheel](https://open.spotify.com/track/7aReVO6Kj9EpdsO2rU8qKl) | [Harper Bloom](https://open.spotify.com/artist/57SMUbet36EnQb3LBuXWtV) | [Pinwheel](https://open.spotify.com/album/0nXwkcJewtE7JVH15XGYnj) | 2:24 |
+| 89 | [Last Song](https://open.spotify.com/track/77NENd5qotaexTzadY4nCx) | [Lilian Hak](https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH) | [Last Song](https://open.spotify.com/album/7zciNsTmRr8jKMLGaEDwKP) | 5:04 |
 
-Snapshot ID: `ZocbYAAAAAAReQ+uLCKkd8QtyU3PNbq2`
+Snapshot ID: `ZovN9gAAAACBWQRjw2xkqpf+2imYOiMM`

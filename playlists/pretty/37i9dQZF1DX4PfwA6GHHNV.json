@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17825,
+  "num_followers": 17831,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "A Volta Do Astro-Rei",
-        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
-      },
-      "artists": [
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "A Volta Do Astro-Rei",
-      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "O Queridinho de Deus",
         "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 200000,
       "name": "Wifi",
       "url": "https://open.spotify.com/track/2TFk8hcQ7aLErud6AbhKLo"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "A Volta Do Astro-Rei",
+        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "A Volta Do Astro-Rei",
+      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "N\u00e3o Prometeu Nada",
         "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 175200,
       "name": "N\u00e3o Prometeu Nada",
       "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Deixa Eu Te Contar",
         "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 193200,
       "name": "Deixa Eu Te Contar",
       "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
     },
     {
       "added_at": "2024-07-05 03:01:00",

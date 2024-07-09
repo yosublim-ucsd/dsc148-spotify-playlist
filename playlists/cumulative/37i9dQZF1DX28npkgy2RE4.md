@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2021-11-12 | 2024-07-07 |
+| [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2021-11-12 |  |
 | [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 | 2023-10-06 |  |
 | [A Dream Of Home](https://open.spotify.com/track/4LINukxWI1NvCP7NUA9mKI) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [A Dream Of Home](https://open.spotify.com/album/2HSl3zIGxIG78lMrPIhWQK) | 6:02 | 2021-11-12 | 2022-07-29 |
 | [A Dream Of Home](https://open.spotify.com/track/1gus1NMkhoa9HqHflUh4f0) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [For The Morning](https://open.spotify.com/album/5Zktlm6wdERfJnqGCNN3n6) | 6:02 | 2022-07-11 | 2023-11-02 |
@@ -384,7 +384,7 @@
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2022-07-11 | 2024-04-19 |
 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 | 2021-11-12 | 2023-12-09 |
 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/6wurCbhueS1T61C2BgRHnL) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/6UxKGcyntU9E3f8Zx4PZ4b) | 3:48 | 2023-10-27 | 2024-04-19 |
-| [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2021-11-12 |  |
+| [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2021-11-12 | 2024-07-09 |
 | [Strange Weather](https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Strange Weather](https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF) | 3:28 | 2023-06-16 |  |
 | [Stranger Danger](https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Stranger Danger](https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS) | 4:41 | 2023-11-17 |  |
 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 | 2023-10-13 |  |

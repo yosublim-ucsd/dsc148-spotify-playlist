@@ -3493,6 +3493,28 @@
     },
     {
       "album": {
+        "name": "Khwabeeda",
+        "url": "https://open.spotify.com/album/3rXv41nJdLUIVcTgaOTjuy"
+      },
+      "artists": [
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Anjana Ankur Singh",
+          "url": "https://open.spotify.com/artist/3XAfGV9ChPNFOLynwBI2WP"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182297,
+      "name": "Khwabeeda",
+      "url": "https://open.spotify.com/track/2DXu3ElQkuOW2dNsfgHiHX"
+    },
+    {
+      "album": {
         "name": "Khwabon Ka Dariya",
         "url": "https://open.spotify.com/album/3egpHWgueEBnJO3VbPCIOp"
       },
@@ -3702,7 +3724,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 167074,
       "name": "Kuch Mere Dil Ne Kaha Unplugged",
       "url": "https://open.spotify.com/track/13FfGxPUmrLvK5e1jNpuvX"
@@ -3974,7 +3996,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 235932,
       "name": "Le ja",
       "url": "https://open.spotify.com/track/4lggh4NT569bKe4GUH8qN6"
@@ -4712,7 +4734,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 235373,
       "name": "O Piya",
       "url": "https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk"
@@ -4822,6 +4844,24 @@
       "duration_ms": 247999,
       "name": "Panchi",
       "url": "https://open.spotify.com/track/1YMbppfdFjeEFaeAwMwzuK"
+    },
+    {
+      "album": {
+        "name": "Parchayi",
+        "url": "https://open.spotify.com/album/607A7YVNEGHj1sVeTZFDOL"
+      },
+      "artists": [
+        {
+          "name": "Jay Thakkar",
+          "url": "https://open.spotify.com/artist/0Ti6N35iFeOgYf5gVSXUSQ"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Parchayi",
+      "url": "https://open.spotify.com/track/7pbJeC3SaRg7M5K5UeiH4S"
     },
     {
       "album": {
@@ -6988,6 +7028,24 @@
       "duration_ms": 172105,
       "name": "Unke Rangon Mein",
       "url": "https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF"
+    },
+    {
+      "album": {
+        "name": "Wajah",
+        "url": "https://open.spotify.com/album/1rM0gyBRVfMeAGHvLuWnxy"
+      },
+      "artists": [
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "Wajah",
+      "url": "https://open.spotify.com/track/4pPRfulcjwtBXnKrHRLrgV"
     },
     {
       "album": {

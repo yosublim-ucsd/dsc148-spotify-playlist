@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 5 hr 41 min
+111 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Let It Go](https://open.spotify.com/track/3svOpX4WPGJk9ZQ34D3c9s) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Highs & Lows](https://open.spotify.com/album/3NPxIfnIdVZiKAOZxe6YVA) | 2:57 | 2024-01-29 |  |
 | [life was a beach](https://open.spotify.com/track/6NvcOlh7gtas2XCW2KACYo) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 2:54 | 2024-01-29 |  |
 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 | 2024-04-14 |  |
+| [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 | 2024-07-08 |  |
 | [Lonely Nights](https://open.spotify.com/track/198mIqbxkeeGcWJvmLOMbt) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 2:56 | 2024-01-29 |  |
 | [lose touch](https://open.spotify.com/track/6XhyqmBQDLFPaqF4fnVPun) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [lose touch](https://open.spotify.com/album/5692gCDFSwKNVAs9PGfdwn) | 2:58 | 2024-01-29 |  |
 | [Lost in Life](https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Lost in Life](https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X) | 4:25 | 2024-04-21 |  |

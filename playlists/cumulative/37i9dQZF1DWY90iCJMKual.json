@@ -1309,6 +1309,28 @@
     },
     {
       "album": {
+        "name": "Galit",
+        "url": "https://open.spotify.com/album/4NpsJCdOhCApSkJEuSzXSJ"
+      },
+      "artists": [
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        },
+        {
+          "name": "Bullet D",
+          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185571,
+      "name": "Galit",
+      "url": "https://open.spotify.com/track/34WoMs2Lg6hG2VoeFehBwS"
+    },
+    {
+      "album": {
         "name": "Ganon ka rin?",
         "url": "https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you"
       },
@@ -3748,6 +3770,24 @@
       "duration_ms": 210000,
       "name": "Project 4",
       "url": "https://open.spotify.com/track/0vzeoCC3jhrWsZMRUBCR4m"
+    },
+    {
+      "album": {
+        "name": "Puntirya",
+        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Puntirya",
+      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
     },
     {
       "album": {

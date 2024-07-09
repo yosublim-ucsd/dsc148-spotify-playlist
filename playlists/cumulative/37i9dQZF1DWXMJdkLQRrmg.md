@@ -4,7 +4,7 @@
 
 > Rock unplugged.
 
-113 songs - 7 hr 23 min
+114 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 | 2023-01-13 |  |
 | [Deep End \- Stripped](https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Deep End \(Stripped\)](https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA) | 3:30 | 2024-07-05 |  |
 | [Elderly Woman Behind the Counter in a Small Town \- Acoustic Version](https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [go](https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5) | 3:18 | 2022-05-06 |  |
-| [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 | 2024-07-05 |  |
+| [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 | 2024-07-05 | 2024-07-09 |
 | [Feels Like Falling in Love \- Alternate Version](https://open.spotify.com/track/0pzeklIkrqOfc1eeleQ3px) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Feels Like Falling in Love \(Alternate Version\)](https://open.spotify.com/album/5mFDzpbFYmeiHKEEumKXyt) | 3:58 | 2022-05-06 |  |
 | [Fix Me \- Alternate Take](https://open.spotify.com/track/5ejkJ9w6g7KRdy1zE9SxfD) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Deconstructed](https://open.spotify.com/album/4Vv97RwuMvSulvOSbuJlT7) | 4:08 | 2024-07-05 |  |
 | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH) | 2:27 | 2024-07-05 |  |
@@ -88,6 +88,7 @@
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2022-05-06 |  |
 | [Sleepwalking \- Unplugged](https://open.spotify.com/track/1oADRDNPNzmNl50HRiQhQD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking Reimagined](https://open.spotify.com/album/2f8uR6f3g5RbcQbP9PFOC6) | 2:55 | 2023-01-13 |  |
 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 | 2022-05-06 |  |
+| [Something Loud \(Acoustic Version\)](https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud \(Acoustic Version\)](https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v) | 3:20 | 2024-07-05 |  |
 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 | 2022-05-06 |  |
 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 | 2022-06-10 |  |
 | [Supernatural \- Acoustic](https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM) | 3:06 | 2023-01-13 |  |

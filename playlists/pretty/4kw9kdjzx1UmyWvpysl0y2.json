@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125915,
+  "num_followers": 125910,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASpU6m88B8N8z6IOOKwQTb2scukiF5",
+  "snapshot_id": "AAASp6BhmYE2/73J9t9/xWnIyeJ3Rlf0",
   "tracks": [
+    {
+      "added_at": "2024-07-08 11:44:27",
+      "album": {
+        "name": "See What I See",
+        "url": "https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        },
+        {
+          "name": "DEXTER KING",
+          "url": "https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO"
+        }
+      ],
+      "duration_ms": 146417,
+      "name": "See What I See",
+      "url": "https://open.spotify.com/track/2J7Gdy5GzfdbPoHvpl3qfB"
+    },
     {
       "added_at": "2024-07-05 08:50:20",
       "album": {
@@ -1135,22 +1155,6 @@
       "duration_ms": 217600,
       "name": "Doorman",
       "url": "https://open.spotify.com/track/2Jb8KZOgoSCzbZ8oVKuOcV"
-    },
-    {
-      "added_at": "2024-04-18 17:09:38",
-      "album": {
-        "name": "Lost Call / Underwater",
-        "url": "https://open.spotify.com/album/3NIN1m1TRqzS3H28lE1jeV"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        }
-      ],
-      "duration_ms": 277734,
-      "name": "Lost Call",
-      "url": "https://open.spotify.com/track/3zpbvOJzNlCm6BsDmegds3"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

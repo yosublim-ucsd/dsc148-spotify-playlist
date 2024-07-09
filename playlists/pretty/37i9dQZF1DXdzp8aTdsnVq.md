@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Honrando a la leyenda vallenata y compositor de 1000 canciones\. Hasta siempre, Omar Geles 🪗
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,975 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,028 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

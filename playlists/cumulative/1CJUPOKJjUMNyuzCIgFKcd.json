@@ -1445,6 +1445,28 @@
     },
     {
       "album": {
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/2LpiY0h2ADiLXKLneZmgeh"
+      },
+      "artists": [
+        {
+          "name": "Big Moochie Grape",
+          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/1DmbDTBBaLpTldCBwZiMLo"
+    },
+    {
+      "album": {
         "name": "G Slim's Revenge",
         "url": "https://open.spotify.com/album/5WbAFYPQXfuMB8VibCFt5s"
       },
@@ -2937,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "practice!",
+        "url": "https://open.spotify.com/album/1gmLgmhof4wffGTnsqJXv2"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143751,
+      "name": "practice!",
+      "url": "https://open.spotify.com/track/5VfP1gMYKqIX9kmpzPsxDA"
+    },
+    {
+      "album": {
         "name": "Rap Saved Me",
         "url": "https://open.spotify.com/album/0W1uhkopAyB1EDN8IrGViS"
       },
@@ -3076,6 +3116,36 @@
       "duration_ms": 161097,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/6rqmIzmx9czRlgG5isIJ8g"
+    },
+    {
+      "album": {
+        "name": "Rich Today (feat. Polyester the Saint)",
+        "url": "https://open.spotify.com/album/4z6ao9BaKvmowyzqFawxRp"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Polyester the Saint",
+          "url": "https://open.spotify.com/artist/2i59qMkZ79k8WTLV6gMJXY"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139157,
+      "name": "Rich Today (feat. Polyester the Saint)",
+      "url": "https://open.spotify.com/track/7FVspRnDzSrT9NQbQACkmF"
     },
     {
       "album": {

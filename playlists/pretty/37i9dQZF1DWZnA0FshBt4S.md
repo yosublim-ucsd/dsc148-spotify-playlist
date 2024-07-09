@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href="spotify:artist:1zK4ACgLi1lVPpfmmcwOTh">DC Talk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,217 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,257 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 24 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
 | 25 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
 | 26 | [Breakfast](https://open.spotify.com/track/2vLxjS0U2CuaqxEossXLDS) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Take Me To Your Leader](https://open.spotify.com/album/72Sx2clAuxuyeOyHbqZBur) | 3:40 |
-| 27 | [Testify To Love](https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:40 |
-| 28 | [O Praise Him \(All This For A King\)](https://open.spotify.com/track/2iFqa5oxkAE3eJor4tVE8v) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Illuminate](https://open.spotify.com/album/1YWOoJNdvfCfQXaSSzYTVd) | 5:48 |
+| 27 | [O Praise Him \(All This For A King\)](https://open.spotify.com/track/2iFqa5oxkAE3eJor4tVE8v) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Illuminate](https://open.spotify.com/album/1YWOoJNdvfCfQXaSSzYTVd) | 5:48 |
+| 28 | [Testify To Love](https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:40 |
 | 29 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
 | 30 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 |
 | 31 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,787 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,802 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 50 | [Mal](https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK) | [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Mal](https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4) | 4:18 |
 | 51 | [Bay Vag](https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Chante ap ret chante](https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7) | 4:13 |
 | 52 | [Ti Kabrit](https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Ti Kabrit](https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK) | 2:41 |
-| 53 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
-| 54 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
+| 53 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
+| 54 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
 | 55 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
 | 56 | [Party Girls \(feat\. Buju Banton\) \- Michaël Brun Dancehall Remix](https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Party Girls \(feat\. Buju Banton\) \[Michaël Brun Dancehall Remix\]](https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU) | 3:19 |
 | 57 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 96 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
 | 97 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
 | 98 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
-| 99 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
-| 100 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 |
+| 99 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 |
+| 100 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
 
 Snapshot ID: `ZlAQwAAAAABmDx5L+5OEm54m0EBP0XMI`

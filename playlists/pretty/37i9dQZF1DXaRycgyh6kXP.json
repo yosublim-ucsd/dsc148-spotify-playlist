@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 223399,
+  "num_followers": 223562,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,18 @@
     {
       "added_at": "2024-06-21 21:38:10",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Insides",
+        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+      "duration_ms": 100946,
+      "name": "Small Memory",
+      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
     },
     {
       "added_at": "2024-06-21 21:38:10",
@@ -371,18 +367,22 @@
     {
       "added_at": "2024-06-21 21:38:10",
       "album": {
-        "name": "Insides",
-        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 100946,
-      "name": "Small Memory",
-      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": "2024-06-21 21:38:10",

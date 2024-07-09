@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: H.i.T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,493 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,500 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 30 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 |
 | 31 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 |
 | 32 | [BAUM](https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [BAUM](https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI) | 3:08 |
-| 33 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
-| 34 | [Wenn Du Springst](https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Schnee Im Sommer](https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH) | 2:57 |
+| 33 | [Wenn Du Springst](https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Schnee Im Sommer](https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH) | 2:57 |
+| 34 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
 | 35 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
 | 36 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
 | 37 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 45 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
 | 46 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
 | 47 | [ICH WEISS ES NICHT](https://open.spotify.com/track/7L2c0Gy88eOncmLPQ2PF9V) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [ICH WEISS ES NICHT](https://open.spotify.com/album/0DgFYFrptZIulH79F3zGe9) | 2:35 |
-| 48 | [haus am meer](https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [haus am meer](https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs) | 2:21 |
-| 49 | [Panik](https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK) | [Graustufe West](https://open.spotify.com/artist/74MTnOR9ipJaUNf31xWPLF) | [Panik](https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux) | 3:32 |
+| 48 | [Panik](https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK) | [Graustufe West](https://open.spotify.com/artist/74MTnOR9ipJaUNf31xWPLF) | [Panik](https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux) | 3:32 |
+| 49 | [haus am meer](https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [haus am meer](https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs) | 2:21 |
 | 50 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
 
 Snapshot ID: `ZocbYAAAAAASWhjc++R9mjKaq9u0FDvy`

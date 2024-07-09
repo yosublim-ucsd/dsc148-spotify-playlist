@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent dance hits\. Cover: Rezz
 
-442 songs - 1 day 0 hr 40 min
+443 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2022-05-27 | 2022-07-29 |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-09-23 |  |
 | [Labyrinth](https://open.spotify.com/track/4CknpITaNAzvQs6panDgLA) | [Eekkoo](https://open.spotify.com/artist/5EqWm8g2vcGLqOkiHFU86V) | [Eleven](https://open.spotify.com/album/7biqB0OTqtKeEh1jjw6U3X) | 3:23 | 2024-04-26 | 2024-05-11 |
+| [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 | 2024-06-14 |  |
 | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/album/6IeRGYRqUbbfCnxN9Aw8Yg) | 3:58 | 2022-05-27 | 2022-07-27 |
 | [Last Walk](https://open.spotify.com/track/0FBY6OkdEIGyjPuLasnDBY) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Carry It with You](https://open.spotify.com/album/5YMF8VFcIGyaM7cQA13q7n) | 6:30 | 2024-04-26 | 2024-05-11 |
 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2022-05-27 | 2023-08-05 |
@@ -285,7 +286,7 @@
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2024-06-14 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-04 | 2023-11-18 |
 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2023-09-29 |  |
-| [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2022-05-27 |  |
+| [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2022-05-27 | 2024-07-09 |
 | [Paradise \(with Sam Feldt\)](https://open.spotify.com/track/2zPWT2axxNsXMU6CZn3PS5) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Paradise \(with Sam Feldt\)](https://open.spotify.com/album/5Tr4VgDrUDYifGz5G3TXu6) | 2:40 | 2022-05-27 | 2022-07-04 |
 | [Parallel Lines \- Enzo Bennet Remix](https://open.spotify.com/track/0PRYPI0VIlaphQDlDNjI10) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Enzo Bennet](https://open.spotify.com/artist/54t1lL05EmM0HpnP8WKhhx) | [Mau5trap Ten Year Anniversary](https://open.spotify.com/album/0cXcRduxMkMtcW0JeiWYam) | 5:18 | 2024-04-26 | 2024-05-11 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-06-14 |  |

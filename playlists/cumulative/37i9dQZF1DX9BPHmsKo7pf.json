@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: The Limba, Misha Miller, Andro, Dyce",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: M.G.L., Erika Isac",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "Amo, Amo",
+        "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147477,
+      "name": "Amo, Amo",
+      "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
     },
     {
       "album": {
@@ -112,6 +134,28 @@
       "duration_ms": 163404,
       "name": "AROMA EI",
       "url": "https://open.spotify.com/track/3Qg3SxpBpWNMMeSNaadWu2"
+    },
+    {
+      "album": {
+        "name": "Au!",
+        "url": "https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8"
+      },
+      "artists": [
+        {
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Moza Kaliza",
+          "url": "https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Au!",
+      "url": "https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF"
     },
     {
       "album": {
@@ -600,7 +644,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 207761,
       "name": "METGALA",
       "url": "https://open.spotify.com/track/30TWeDBTgFKgIvnZ3MDnBA"
@@ -636,7 +680,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 154560,
       "name": "Money",
       "url": "https://open.spotify.com/track/52McDqrh8bsx7g1tZbIuFV"
@@ -886,7 +930,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 140314,
       "name": "SPUNE-MI",
       "url": "https://open.spotify.com/track/7L7fhdO5F0tPnt6ILSgj58"
@@ -948,10 +992,32 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 126986,
       "name": "TORE UP",
       "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
+    },
+    {
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "album": {
@@ -974,6 +1040,28 @@
       "duration_ms": 151363,
       "name": "Vocea ta",
       "url": "https://open.spotify.com/track/7CMacubcnXb2QehV6HF4ew"
+    },
+    {
+      "album": {
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
       "album": {

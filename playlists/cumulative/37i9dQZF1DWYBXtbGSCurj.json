@@ -22783,6 +22783,28 @@
     },
     {
       "album": {
+        "name": "Patr\u00edcio's",
+        "url": "https://open.spotify.com/album/2EJRCax1RjXOvZk2Dvg0xB"
+      },
+      "artists": [
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Rubro",
+          "url": "https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273473,
+      "name": "Patr\u00edcio's",
+      "url": "https://open.spotify.com/track/6HVzQ2xHsE7nfRrD8zTawj"
+    },
+    {
+      "album": {
         "name": "PATY",
         "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
       },

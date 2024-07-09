@@ -2,7 +2,7 @@
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> rock never dies\. feel it in your bones\. 📸: The Warning
+> rock never dies\. feel it in your bones\. 📸: Pale Waves
 
 656 songs - 1 day 12 hr 10 min
 

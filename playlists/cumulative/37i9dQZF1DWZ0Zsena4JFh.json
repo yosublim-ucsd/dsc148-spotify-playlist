@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Buscabulla en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Clairo en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 247000,
       "name": "Bells and Whistles",
       "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
         "name": "Dancing In Babylon (feat. Christine and the Queens)",
         "url": "https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk"
       },
@@ -1179,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+    },
+    {
+      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -1248,6 +1284,24 @@
       "duration_ms": 145272,
       "name": "DOING IT AGAIN BABY",
       "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
+    },
+    {
+      "album": {
+        "name": "don't want u to die",
+        "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "don't want u to die",
+      "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
     },
     {
       "album": {
@@ -1324,7 +1378,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 230466,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
@@ -1422,6 +1476,24 @@
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "album": {
@@ -1606,7 +1678,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 182507,
       "name": "Flirting Again",
       "url": "https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag"
@@ -2950,7 +3022,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 201233,
       "name": "Neon Pill",
       "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
@@ -3202,6 +3274,24 @@
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
+    {
+      "album": {
+        "name": "Para los P\u00e1jaros / Carlos",
+        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
     },
     {
       "album": {

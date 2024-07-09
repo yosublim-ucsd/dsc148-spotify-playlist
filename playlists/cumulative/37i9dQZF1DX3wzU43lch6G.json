@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 160448,
       "name": "AH\u015eAP D\u00dc\u015eLER\u0130M",
       "url": "https://open.spotify.com/track/5n6OeMQ2Rz7QywQfhQaqyi"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 158644,
       "name": "Bir Anda",
       "url": "https://open.spotify.com/track/4tYUzluvpdFTKhGfT1HTcK"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 173986,
       "name": "G\u00fcne\u015fe Dokundum",
       "url": "https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 186172,
       "name": "Kahrettim",
       "url": "https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 154000,
       "name": "Ke\u015fke Benim Olsan",
       "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
@@ -1042,6 +1042,28 @@
       "duration_ms": 169600,
       "name": "Sak\u0131n Gelme",
       "url": "https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96"
+    },
+    {
+      "album": {
+        "name": "Sana Ne Dedi Zaman",
+        "url": "https://open.spotify.com/album/1Y0DAdqgQt6XDjKyXQVuFO"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Yasir Miy",
+          "url": "https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Sana Ne Dedi Zaman",
+      "url": "https://open.spotify.com/track/54f1QKc16vMi3enzmChcIy"
     },
     {
       "album": {

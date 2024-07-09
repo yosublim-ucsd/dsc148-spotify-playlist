@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-849 songs - 1 day 1 hr 22 min
+853 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Big Momma Bear](https://open.spotify.com/track/59D9llE0eKpUEe4VPQjcpa) | [Greydon Willis](https://open.spotify.com/artist/7ypVVw2OTCkzIIF69GE61i) | [Big Momma Bear](https://open.spotify.com/album/5gZJcHtJMSKZPsf0dfwIpe) | 1:27 | 2023-05-05 |  |
 | [Bill the Fox](https://open.spotify.com/track/7h78CM43KEjbHXU8uHXCjP) | [Wilford Ware](https://open.spotify.com/artist/5fWCtKlxGJegVWtTpHOgWv) | [Bill the Fox](https://open.spotify.com/album/0dbrJwbAwDpWyN9swRr51P) | 1:22 | 2021-10-05 | 2024-03-29 |
 | [BINGO](https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [BINGO](https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI) | 2:10 | 2024-05-03 |  |
+| [Bingo](https://open.spotify.com/track/0uspzogYNBxUFDQBNlj48B) | [Fukuro III](https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V) | [Bingo](https://open.spotify.com/album/1R17HYw5S9Sd7TjVstnFY4) | 2:18 | 2024-07-08 |  |
 | [BINGO](https://open.spotify.com/track/3QkX1lLj7Rpyc4GorvNuni) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Nursery Rhymes \(Volume 1\)](https://open.spotify.com/album/5OMreBMNISCiQUOhPsB2c3) | 1:44 | 2022-11-18 | 2024-03-29 |
 | [Birds Come Morning](https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Birds Come Morning](https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2) | 2:21 | 2023-06-08 |  |
 | [Bis Morgen](https://open.spotify.com/track/2B8GMj8HpYshErVfAxvfnv) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Mon Coeur](https://open.spotify.com/album/5iEH16c6NqCdFLpErjumuF) | 3:11 | 2023-03-24 | 2024-05-04 |
@@ -682,6 +683,7 @@
 | [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 |  |
 | [Sunshine Serenade](https://open.spotify.com/track/4V6YpzzURGBkxlJNxwHQgH) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Sunshine Serenade](https://open.spotify.com/album/3difba7uWsS2mWbmMucScS) | 2:55 | 2024-04-16 |  |
 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 | 2024-01-05 |  |
+| [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 | 2024-07-08 |  |
 | [Sweet Dreams My Love](https://open.spotify.com/track/15IOu7G2o8JKpCHSxguErZ) | [Sleepy Eli](https://open.spotify.com/artist/1FOsCc0H90QSkDzUhIX7sD) | [Sweet Dreams My Love](https://open.spotify.com/album/0f0pbyBFyD6uieQZaIFVY2) | 2:21 | 2023-06-02 |  |
 | [Sweet Little Child](https://open.spotify.com/track/5PhVrt14O82NlGeceaU0R5) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [Sweet Little Child](https://open.spotify.com/album/05tiRDCwaNWWirtybfHYAG) | 1:57 | 2022-06-08 | 2023-03-25 |
 | [Sweet Pea](https://open.spotify.com/track/0qmuW3sn9B043xf9nMnoSb) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Fiona](https://open.spotify.com/album/6czBIJIcLC61BRnDb7xApT) | 3:20 | 2022-10-07 | 2023-03-25 |
@@ -711,6 +713,7 @@
 | [The Colours](https://open.spotify.com/track/0ccOxQa7k63uCjFieGYbx5) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [The Colours](https://open.spotify.com/album/2hqXj3HUx4XlGQQHHqatvY) | 1:15 | 2023-11-17 |  |
 | [The cow that said meow](https://open.spotify.com/track/0oPgnwud6edTc7khmm93pa) | [Wiktoria Bogan](https://open.spotify.com/artist/42UDhH9oqDNTdKwdgpQXfu) | [The cow that said meow](https://open.spotify.com/album/77vdRF8BaHNuJxFxxpf0RM) | 1:44 | 2021-10-05 | 2022-11-19 |
 | [The Cutest Puppy](https://open.spotify.com/track/1dKxf4Ht2SsKLyXfSDJAgy) | [Laureen Conrad](https://open.spotify.com/artist/7vgGpuiXdNlCmc994PlMlz) | [The Cutest Puppy](https://open.spotify.com/album/5BrSPFWP0aDuoi3k4oPEyl) | 1:22 | 2021-10-05 | 2022-10-29 |
+| [The Cutest Thing](https://open.spotify.com/track/4SzxS3LeYScmZWkhK4cdaN) | [Alva Klarström](https://open.spotify.com/artist/4st9pHP2wqPPpjXoRZ6S7t) | [The Cutest Thing](https://open.spotify.com/album/0fd8HQoP67omrbgJ3mURlO) | 2:17 | 2024-07-08 |  |
 | [The Dollhouse Sleeps](https://open.spotify.com/track/774AtBbCtOjcMI9qLPEbFM) | [Amelia Caan](https://open.spotify.com/artist/7EIBRUAZQh8IQzssDoiv4Y) | [The Dollhouse Sleeps](https://open.spotify.com/album/72H3uFskLSX1mB5p7Hv3Ji) | 1:09 | 2021-10-05 | 2022-09-03 |
 | [The Dreamweaver's Journey](https://open.spotify.com/track/6oppGfsWnBibN2EO2YAqhJ) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [The Dreamweaver's Journey](https://open.spotify.com/album/7zmyt4pmsX2CmulP6zcaLZ) | 1:35 | 2024-05-03 |  |
 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 | 2023-12-08 |  |
@@ -787,6 +790,7 @@
 | [Tula](https://open.spotify.com/track/3odXGIVrJybOSYtuKMwBFS) | [Åsa Åkerström](https://open.spotify.com/artist/1RJf3B0QLg5dVhxa7wK1gb) | [Tula](https://open.spotify.com/album/0Y88DOVyZNxGmlsHPIrAcc) | 1:50 | 2022-12-16 | 2023-03-10 |
 | [Turkey in the Straw](https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Turkey in the Straw](https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT) | 2:20 | 2024-01-05 |  |
 | [Twilight Embrace](https://open.spotify.com/track/42uTb7TEMMmRfHpqMisPqg) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Twilight Embrace](https://open.spotify.com/album/25YSvB8DprutVKksUYghuH) | 1:51 | 2023-11-17 | 2024-05-04 |
+| [Twinkle Toes](https://open.spotify.com/track/7JOZY5i5BxBvJ6h0kvelQ0) | [Nova Haeberle](https://open.spotify.com/artist/2bPE8R7dgDiI7O5P2Qf8S9) | [Twinkle Toes](https://open.spotify.com/album/6COnqo3jPIIbUf2KJd9Q04) | 1:47 | 2024-07-08 |  |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/147gCksvDRmjG1pO51ZCcf) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:40 | 2021-10-05 |  |
 | [Twinkling Stars](https://open.spotify.com/track/7nyR0UlDhFkwSqJQi3Jwox) | [Anita Nightingale](https://open.spotify.com/artist/2k7EJjhofUBtbOosFYuiCQ) | [Twinkling Stars](https://open.spotify.com/album/4QJiU7CETBBYr3EbuWfXM5) | 1:52 | 2023-06-02 |  |
 | [Two Little Blackbirds](https://open.spotify.com/track/4GrJb2CouAQIqymFQEdweV) | [Melanie Peters](https://open.spotify.com/artist/2xuGQvF3z0rrsgxZVM0D0S) | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/album/0nFZ4ryJUrrf4bbIDFAN1I) | 1:52 | 2021-10-05 | 2022-09-03 |

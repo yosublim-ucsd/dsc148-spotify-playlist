@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448722,
+  "num_followers": 448747,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Burnt Coffee",
-        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
-      },
-      "artists": [
-        {
-          "name": "AAGAPE",
-          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Burnt Coffee",
-      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "buffering",
         "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
       },
@@ -123,6 +107,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Burnt Coffee",
+        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
+      },
+      "artists": [
+        {
+          "name": "AAGAPE",
+          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Burnt Coffee",
+      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
       },
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Call It A Night",
-        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
-      },
-      "artists": [
-        {
-          "name": "jon pm",
-          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Call It A Night",
-      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "typewriter",
         "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 123500,
       "name": "typewriter",
       "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Call It A Night",
+        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
+      },
+      "artists": [
+        {
+          "name": "jon pm",
+          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Call It A Night",
+      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Silent Sky",
-        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
-      },
-      "artists": [
-        {
-          "name": "Lofi Leif",
-          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
-        }
-      ],
-      "duration_ms": 139723,
-      "name": "Silent Sky",
-      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "No I'm Not",
         "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "clear blue atmosphere",
-        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+        "name": "Silent Sky",
+        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
       },
       "artists": [
         {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+          "name": "Lofi Leif",
+          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
         }
       ],
-      "duration_ms": 140109,
-      "name": "clear blue atmosphere",
-      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
+      "duration_ms": 139723,
+      "name": "Silent Sky",
+      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 150857,
       "name": "Free Trees",
       "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "clear blue atmosphere",
+        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+      },
+      "artists": [
+        {
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "clear blue atmosphere",
+      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-06-14 04:00:00",

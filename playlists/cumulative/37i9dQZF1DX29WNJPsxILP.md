@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring KR$NA
 
-143 songs - 7 hr 21 min
+144 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 | 2024-05-24 | 2024-06-06 |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2023-03-10 |  |
 | [ICE](https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:48 | 2023-03-10 |  |
-| [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/track/09Qj66cjuqlD8jLGup9zju) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/album/6B5Y8ExFWpfd7WVcmjrJrM) | 3:01 | 2024-04-09 |  |
+| [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/track/09Qj66cjuqlD8jLGup9zju) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/album/6B5Y8ExFWpfd7WVcmjrJrM) | 3:01 | 2024-04-09 | 2024-07-09 |
 | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/track/1meDneuv818z2sRDMbI72N) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/album/4Qz07DWj8Rnhig4nyZF6oR) | 3:01 | 2023-08-08 | 2024-04-19 |
 | [Intoxicated](https://open.spotify.com/track/2TZtnl1vySd2CUyMmfmbia) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Intoxicated](https://open.spotify.com/album/2iBHiQcmhvK8yABIMkMBUn) | 2:29 | 2023-11-06 |  |
 | [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2023-03-10 |  |
@@ -76,6 +76,7 @@
 | [Kar Diya](https://open.spotify.com/track/0W5KrP9G0senRI1V12G7yn) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Asli Independent](https://open.spotify.com/album/0iGTAGooT0AySH9LLSh9Vd) | 3:00 | 2023-03-10 | 2023-09-02 |
 | [Khatta Flow](https://open.spotify.com/track/2qb5ASYergjk2qNLvYEQJD) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:32 | 2023-08-28 |  |
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 |  |
+| [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 | 2024-07-08 |  |
 | [Kon Hai Tu](https://open.spotify.com/track/0ko5n1BkAyWHDxXwvzrgWu) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Junkie](https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL) | 2:02 | 2024-06-13 |  |
 | [KPKWK](https://open.spotify.com/track/4TSwePgh0HImQVd6ZARgri) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Kasam Paida Karne Wale Ki](https://open.spotify.com/album/5z0wEYUqQSFOb3hFfq6qDY) | 2:06 | 2023-09-01 | 2024-01-18 |
 | [Kya Haal Hai Bro?](https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Kya Haal Hai Bro?](https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv) | 2:59 | 2023-03-10 | 2023-10-12 |

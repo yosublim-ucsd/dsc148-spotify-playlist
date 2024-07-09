@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 195844,
       "name": "No Fue",
       "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
@@ -1604,6 +1604,24 @@
       "duration_ms": 195580,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+    },
+    {
+      "album": {
+        "name": "El Club De Los Martes",
+        "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "Se te nota",
+      "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"
     },
     {
       "album": {

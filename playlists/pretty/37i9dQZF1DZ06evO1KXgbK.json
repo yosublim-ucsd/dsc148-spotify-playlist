@@ -1,13 +1,29 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 246736,
+  "num_followers": 246768,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAABTlYyBGHv9AhiwtAGAQlvQ",
+  "snapshot_id": "ZonagAAAAACmkc5G/ynRF9jkkapTJ//8",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
     {
       "added_at": null,
       "album": {
@@ -83,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerful Women",
-        "url": "https://open.spotify.com/album/2PfTvrXbda4yPU54eeaazL"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "Powerful Women",
-      "url": "https://open.spotify.com/track/043trFU53vB0CBmFszufZd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -119,6 +115,26 @@
       "duration_ms": 183840,
       "name": "Creepin' In",
       "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powerful Women",
+        "url": "https://open.spotify.com/album/2PfTvrXbda4yPU54eeaazL"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "Powerful Women",
+      "url": "https://open.spotify.com/track/043trFU53vB0CBmFszufZd"
     },
     {
       "added_at": null,
@@ -199,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Limozeen",
+        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "Why'd You Come in Here Lookin' Like That",
+      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS"
       },
@@ -215,6 +247,26 @@
       "duration_ms": 233693,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -239,26 +291,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -543,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hundred Highways (Extended Edition)",
-        "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
+        "name": "Life Is Like A Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
       },
       "artists": [
         {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 226520,
-      "name": "Lookin' for You (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
+      "duration_ms": 193906,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
     },
     {
       "added_at": null,
@@ -591,22 +623,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Like A Song (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
+        "name": "A Hundred Highways (Extended Edition)",
+        "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 193906,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
+      "duration_ms": 226520,
+      "name": "Lookin' for You (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -627,22 +675,6 @@
       "duration_ms": 203427,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -951,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 22623,
-      "name": "DOLLY P",
-      "url": "https://open.spotify.com/track/1fp4DIjhHyptQWK00CZgFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
         "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
       },
@@ -983,22 +995,6 @@
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southern Accents",
-        "url": "https://open.spotify.com/album/21tc4DJs0FYI8Y0mF0x4Ob"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 267237,
-      "name": "Southern Accents",
-      "url": "https://open.spotify.com/track/2kTr8C8xtKJd4UCF9MhxM7"
     }
   ],
   "unique_name": "This Is Dolly Parton",

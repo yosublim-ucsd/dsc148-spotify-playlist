@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19823,
+  "num_followers": 19828,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Boca Aberta",
-        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
-      },
-      "artists": [
-        {
-          "name": "Reolamos",
-          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
-        }
-      ],
-      "duration_ms": 200086,
-      "name": "Boca Aberta",
-      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Um Brinde",
         "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 153634,
       "name": "Um Brinde",
       "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Boca Aberta",
+        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
+      },
+      "artists": [
+        {
+          "name": "Reolamos",
+          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
+        }
+      ],
+      "duration_ms": 200086,
+      "name": "Boca Aberta",
+      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Oxi (Dio Mio!)",
-        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
-      },
-      "artists": [
-        {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        }
-      ],
-      "duration_ms": 160413,
-      "name": "Oxi (Dio Mio!)",
-      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Tarde no Walkiria",
         "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Oxi (Dio Mio!)",
+        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
+      },
+      "artists": [
+        {
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Oxi (Dio Mio!)",
+      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Beija e Arranha",
         "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 172874,
       "name": "Beija e Arranha",
       "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Quando Eu Falei Pra Ela",
-        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
-      },
-      "artists": [
-        {
-          "name": "Dani Bessa",
-          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Quando Eu Falei Pra Ela",
-      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -443,6 +427,22 @@
       "duration_ms": 215742,
       "name": "L\u00e1grima na L\u00edngua",
       "url": "https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Quando Eu Falei Pra Ela",
+        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Quando Eu Falei Pra Ela",
+      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "4 Da Tarde",
-        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
-      },
-      "artists": [
-        {
-          "name": "Dupoint",
-          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "4 Da Tarde",
-      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Bate Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "4 Da Tarde",
+        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
+      },
+      "artists": [
+        {
+          "name": "Dupoint",
+          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "4 Da Tarde",
+      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Fora de S\u00e9rie",
-        "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
-      },
-      "artists": [
-        {
-          "name": "Mari Blue",
-          "url": "https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "Fora de S\u00e9rie",
-      "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Mad\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 205862,
       "name": "Mad\u00e1 - Remix",
       "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Fora de S\u00e9rie",
+        "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
+      },
+      "artists": [
+        {
+          "name": "Mari Blue",
+          "url": "https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "Fora de S\u00e9rie",
+      "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
       },
@@ -851,18 +867,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+        "name": "Devaneios",
+        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
       },
       "artists": [
         {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+          "name": "Fraterna Trip",
+          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
+        },
+        {
+          "name": "John",
+          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
         }
       ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
+      "duration_ms": 201137,
+      "name": "Devaneios",
+      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -887,22 +907,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Devaneios",
-        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
       },
       "artists": [
         {
-          "name": "Fraterna Trip",
-          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
-        },
-        {
-          "name": "John",
-          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
         }
       ],
-      "duration_ms": 201137,
-      "name": "Devaneios",
-      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
-      },
-      "artists": [
-        {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 176398,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 218117,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
-      },
-      "artists": [
-        {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
-        }
-      ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
       },
       "artists": [
         {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
         }
       ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 193053,
       "name": "reluz",
       "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+      },
+      "artists": [
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Cardeal",
         "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "VERO",
-        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
       },
       "artists": [
         {
-          "name": "M. Costta",
-          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Bom Vivant",
-      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 159736,
       "name": "Disfar\u00e7a",
       "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "VERO",
+        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+      },
+      "artists": [
+        {
+          "name": "M. Costta",
+          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Bom Vivant",
+      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
     },
     {
       "added_at": "2024-05-22 08:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 336667,
+  "num_followers": 336732,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 174991,
       "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
       "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Unplugged At EastWest",
-        "url": "https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm"
+        "name": "Something Loud (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v"
       },
       "artists": [
         {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 179249,
-      "name": "Fallin\u2019 With Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi"
+      "duration_ms": 200519,
+      "name": "Something Loud (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC"
     }
   ],
   "unique_name": "Stripped Down",

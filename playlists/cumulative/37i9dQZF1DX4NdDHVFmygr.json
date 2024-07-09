@@ -1443,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Daba Daba",
+        "url": "https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        },
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162222,
+      "name": "Daba Daba",
+      "url": "https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo"
+    },
+    {
+      "album": {
         "name": "Daba Yhan Moulana Feat Mom",
         "url": "https://open.spotify.com/album/6R3bqtQa9D4EnKIkFRuweA"
       },
@@ -2115,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
+      },
+      "artists": [
+        {
+          "name": "Ali S",
+          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163932,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
+    },
+    {
+      "album": {
         "name": "Galbi Mazal",
         "url": "https://open.spotify.com/album/73UXBEpmeRvzFUrbAPielh"
       },
@@ -2428,7 +2468,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 155448,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
@@ -2790,7 +2830,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"

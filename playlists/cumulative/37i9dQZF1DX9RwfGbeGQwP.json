@@ -7213,6 +7213,24 @@
     },
     {
       "album": {
+        "name": "Feelin' 2D",
+        "url": "https://open.spotify.com/album/5nNhJ58mzIEmukHfubpwX2"
+      },
+      "artists": [
+        {
+          "name": "MPC Blues",
+          "url": "https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Feelin' 2D",
+      "url": "https://open.spotify.com/track/0MPqiieMX7ou7Kk8p2FPpi"
+    },
+    {
+      "album": {
         "name": "Feelin' Good Tonight",
         "url": "https://open.spotify.com/album/0YvDRoFESOgqusmhwpAdfV"
       },
@@ -21808,7 +21826,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 136296,
       "name": "stellar",
       "url": "https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa"
@@ -23008,6 +23026,24 @@
       "duration_ms": 137448,
       "name": "Swing Set",
       "url": "https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG"
+    },
+    {
+      "album": {
+        "name": "Swirl it please",
+        "url": "https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM"
+      },
+      "artists": [
+        {
+          "name": "RainDear",
+          "url": "https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "Swirl it please",
+      "url": "https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL"
     },
     {
       "album": {
@@ -26732,7 +26768,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 203615,
       "name": "Yo and The Juice",
       "url": "https://open.spotify.com/track/4xcBTUhwupLCL1dxCrWGmY"

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
+      },
+      "artists": [
+        {
+          "name": "DJ Bliss",
+          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "808",
+      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
+    },
+    {
+      "album": {
         "name": "Aayi Aayi",
         "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
       },
@@ -632,7 +654,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 180000,
       "name": "Naina (From \"Crew\")",
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"

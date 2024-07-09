@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-66 songs - 3 hr 15 min
+67 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ale ja](https://open.spotify.com/track/4D2RsHcxiLCnvJWtkGomyl) | [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Ale ja](https://open.spotify.com/album/3zOIePiY1Nm2JgKi9txVWd) | 2:45 | 2024-07-05 |  |
 | [ALERTY RCB](https://open.spotify.com/track/2HWPhvQLMVwhTLNVvLK3er) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [ALERTY RCB](https://open.spotify.com/album/3qWtFi06FJ8CyM4GprFhDu) | 2:45 | 2024-06-28 | 2024-07-06 |
 | [AMORE](https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj) | [tomash](https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY) | [AMORE](https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i) | 2:41 | 2024-07-05 |  |
+| [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 | 2024-07-05 |  |
 | [B012](https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [B012](https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK) | 2:18 | 2024-06-28 |  |
 | [Beautiful Reason](https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reason](https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl) | 3:03 | 2024-06-28 |  |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-06-28 |  |
@@ -67,7 +68,7 @@
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-06-28 |  |
 | [The Way I Want It](https://open.spotify.com/track/3dnGjCQrJqsqYjVwOYqBUj) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [The Way I Want It](https://open.spotify.com/album/273PYkxoYVyKhsNdKnNyiT) | 2:13 | 2024-06-28 |  |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 |  |
-| [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 | 2024-06-28 |  |
+| [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 | 2024-06-28 | 2024-07-09 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-06-28 | 2024-07-06 |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-06-28 |  |
 | [Z nikim aż tak](https://open.spotify.com/track/2tD084cxyXfM8rTrR7vpZU) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Z nikim aż tak](https://open.spotify.com/album/1vnoOYABdND4kBBFXlE7jH) | 3:12 | 2024-06-28 |  |

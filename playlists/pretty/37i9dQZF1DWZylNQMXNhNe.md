@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Carol Biazin
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,489 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,488 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 16 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
 | 17 | [Quebrados](https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p), [MANSUR](https://open.spotify.com/artist/3YNBgvlJB70alobYMUDmmO) | [Escuro Brilhante, Último Dia no Orfanato Tia Guga](https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob) | 3:53 |
 | 18 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 |
-| 19 | [Língua dos Anjos](https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [PORCELANA](https://open.spotify.com/album/4o1zqfzFJCsgIstBtZXlx3) | 2:14 |
-| 20 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 |
+| 19 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 |
+| 20 | [Língua dos Anjos](https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [PORCELANA](https://open.spotify.com/album/4o1zqfzFJCsgIstBtZXlx3) | 2:14 |
 | 21 | [FUDER CHAPADA RMX](https://open.spotify.com/track/1dd5D9BYGZK9dcyIkNneAH) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [S4TAN](https://open.spotify.com/artist/0NGWlVN1aoxbq5wXeoHFvw), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [FUDER CHAPADA RMX](https://open.spotify.com/album/4R700TYguI6aw5B7WN2yGV) | 2:54 |
 | 22 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
 | 23 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 47 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
 | 48 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 |
 | 49 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
-| 50 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
+| 50 | [1+1 É Pouco](https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:37 |
 
 Snapshot ID: `ZnyYsQAAAAD8mqMJp+uaskZzr541cjxA`

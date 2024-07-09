@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 
 ### [This Is N.I.N.A](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L7I2Y)
 
-> This is N.I.N.A\. The essential tracks, all in one playlist.
+> This Is N.I.N.A\. Todas as faixas essenciais numa única playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,801 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,802 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 4 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/0j531pQwzTDW0z72QJ7Zod) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/64hkZLym75f49YAmQvke70) | 2:44 |
 | 5 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 |
 | 6 | [Prece](https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:40 |
-| 7 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
-| 8 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
+| 7 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
+| 8 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
 | 9 | [Tanto Faz](https://open.spotify.com/track/0kgVCF1GMXafogX6R2Dpc5) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Tanto Faz](https://open.spotify.com/album/3C0DYA08H30vEvi78i7A2B) | 3:35 |
 | 10 | [Despedidas](https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 3:12 |
 | 11 | [Metáfora](https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:01 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 33 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 |
 | 34 | [Luxúria](https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 2:36 |
 
-Snapshot ID: `ZoiJAAAAAABKVMDBJYk3uD0OTa/hOg+Y`
+Snapshot ID: `ZonagAAAAAC0OVyRRyqzxkBLkulb61Is`

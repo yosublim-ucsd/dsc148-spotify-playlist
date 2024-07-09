@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Час перепочити 🌻🏕️🧁
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,916 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,928 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 14 | [Бути простим](https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Бути простим](https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S) | 2:31 |
 | 15 | [Обіймай](https://open.spotify.com/track/6mw9bYCoKnRfNt7erbOBpr) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:22 |
 | 16 | [Вродлива](https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Вродлива](https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI) | 2:30 |
-| 17 | [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 |
-| 18 | [Ти так мало говориш](https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти так мало говориш](https://open.spotify.com/album/2SFJTC1JEUbcj5Wuahvitl) | 2:32 |
+| 17 | [Ти так мало говориш](https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти так мало говориш](https://open.spotify.com/album/2SFJTC1JEUbcj5Wuahvitl) | 2:32 |
+| 18 | [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 |
 | 19 | [I tell everyone about you](https://open.spotify.com/track/7BmXvGEFDk8uPudvlJPCcB) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [I tell everyone about you](https://open.spotify.com/album/5OAjZsMKliYqXaKsTZZnXf) | 3:00 |
 | 20 | [Fire show](https://open.spotify.com/track/0AOjnhy6ZmqDxyKV7xVz8e) | [Gorim!](https://open.spotify.com/artist/3RfWs4NjYsge0GNjSjNw5v), [Yuzvik](https://open.spotify.com/artist/6X4bMIIJXHfZy4eJ06drn4) | [Fire show](https://open.spotify.com/album/4btIeTvFyuIoDAFXOAyApr) | 2:49 |
 | 21 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 41 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
 | 42 | [Літом](https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B) | [Літом](https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy) | 2:13 |
 | 43 | [Надія є](https://open.spotify.com/track/3rpw8RiimS9cakLpQIUy5f) | [Mad Heads](https://open.spotify.com/artist/2q3fzwgqdfcrJNIdy7hpXY) | [Надія є](https://open.spotify.com/album/6nM5bSJO1gSx5efyQfBURb) | 4:37 |
-| 44 | [Цілуй](https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Цілуй](https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC) | 4:21 |
+| 44 | [Солов'ї](https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca) | [Oxana Trach](https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww) | [Солов'ї](https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4) | 2:23 |
 | 45 | [Крок](https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX) | [Cape Cod](https://open.spotify.com/artist/5uMOOCjDjMCAahAJazvPYB), [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Крок](https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7) | 4:00 |
-| 46 | [Солов'ї](https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca) | [Oxana Trach](https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww) | [Солов'ї](https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4) | 2:23 |
+| 46 | [Цілуй](https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Цілуй](https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC) | 4:21 |
 | 47 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
 | 48 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
 | 49 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 52 | [Ножі](https://open.spotify.com/track/7sJaNUYg8EsY8WmJb6JRLQ) | [DEMCHUK](https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO) | [Ножі](https://open.spotify.com/album/0v2WlcePcHwyL9uC5Wu2c9) | 2:45 |
 | 53 | [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 |
 | 54 | [Маяк](https://open.spotify.com/track/380s9IBgyXYHCvlJLxLGd7) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [Маяк](https://open.spotify.com/album/4hJSdd1BpnHRMYidMuewBH) | 2:58 |
-| 55 | [Мої гори](https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Мої гори](https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex) | 3:23 |
-| 56 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
+| 55 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
+| 56 | [Мої гори](https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Мої гори](https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex) | 3:23 |
 | 57 | [Ти сонце я сніг](https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти сонце я сніг](https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM) | 3:53 |
 | 58 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 59 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 |

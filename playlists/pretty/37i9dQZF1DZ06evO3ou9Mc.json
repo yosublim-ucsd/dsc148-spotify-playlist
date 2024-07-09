@@ -1,18 +1,18 @@
 {
-  "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 391997,
+  "description": "This Is The Offspring. Los temas esenciales, todos en una lista.",
+  "num_followers": 392125,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAACk5avs434+sRDbvjKaPOjU",
+  "snapshot_id": "ZonagAAAAACBK+KKQbDMgh90QTQ+edzp",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 180160,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": null,
@@ -59,38 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Pretty Fly (For A White Guy)",
-      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -100,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 268826,
-      "name": "Gone Away - 1997",
-      "url": "https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n"
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": null,
@@ -123,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -135,38 +103,6 @@
       "duration_ms": 156000,
       "name": "Slim Pickens Does The Right Thing And Rides The Bomb To Hell",
       "url": "https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 133586,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": null,
@@ -187,6 +123,22 @@
       "duration_ms": 220946,
       "name": "Original Prankster",
       "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Hit That",
+      "url": "https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t"
     },
     {
       "added_at": null,
@@ -239,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -251,22 +219,6 @@
       "duration_ms": 195160,
       "name": "Americana",
       "url": "https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Coming For You",
-      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
     },
     {
       "added_at": null,
@@ -303,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Coming For You",
+      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -319,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "The Meaning Of Life",
-      "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -347,6 +299,22 @@
       "duration_ms": 146960,
       "name": "Nitro (Youth Energy)",
       "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "The Meaning Of Life",
+      "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
     },
     {
       "added_at": null,
@@ -383,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Can't Repeat",
-      "url": "https://open.spotify.com/track/4K20nocu6gubbWYiuCR23K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -411,6 +363,22 @@
       "duration_ms": 132133,
       "name": "What Happened to You?",
       "url": "https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Can't Repeat",
+      "url": "https://open.spotify.com/track/4K20nocu6gubbWYiuCR23K"
     },
     {
       "added_at": null,
@@ -479,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
@@ -488,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 213106,
-      "name": "Genocide",
-      "url": "https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX"
+      "duration_ms": 236733,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U"
     },
     {
       "added_at": null,
@@ -559,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
@@ -568,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Mota",
-      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
+      "duration_ms": 177053,
+      "name": "Walla Walla",
+      "url": "https://open.spotify.com/track/4Kk6O5Q7UAgxP0QwyES72F"
     },
     {
       "added_at": null,
@@ -591,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -600,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Takes Me Nowhere",
-      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
+      "duration_ms": 177373,
+      "name": "Mota",
+      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
       "added_at": null,
@@ -623,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
@@ -632,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 167893,
-      "name": "Cool To Hate",
-      "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
+      "duration_ms": 179506,
+      "name": "Takes Me Nowhere",
+      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
     },
     {
       "added_at": null,
@@ -648,9 +616,25 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Behind Your Walls",
-      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
+      "duration_ms": 158333,
+      "name": "This Is Not Utopia",
+      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "Cool To Hate",
+      "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "This Is Not Utopia",
-      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
       },
@@ -731,6 +715,38 @@
       "duration_ms": 198720,
       "name": "The Noose",
       "url": "https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/50UeatbSCQaOInjokdo7WQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Army Of One",
+      "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 156773,
       "name": "Way Down The Line",
       "url": "https://open.spotify.com/track/6hyZliAlUzUmU3sAeWLDwp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Army Of One",
-      "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
     },
     {
       "added_at": null,

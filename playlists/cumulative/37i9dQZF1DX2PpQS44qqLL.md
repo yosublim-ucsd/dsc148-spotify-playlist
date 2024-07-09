@@ -2,9 +2,9 @@
 
 ### [Las Estrellas ](https://open.spotify.com/playlist/37i9dQZF1DX2PpQS44qqLL)
 
-> Siempre espectaculares\. Vicente Fernández en portada.
+> Siempre espectaculares\. Juan Gabriel en portada.
 
-432 songs - 1 day 4 hr 38 min
+433 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Hasta Que Amanezca](https://open.spotify.com/track/6KZc7M03sbQHO1TVvOpHfn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antologia el Poeta del Pueblo Sus Primeros Exitos](https://open.spotify.com/album/3rZUfQkgyTPaJzFK1lbKxq) | 3:00 | 2021-12-21 | 2022-07-29 |
 | [Hay Millones Mejor Que Tú](https://open.spotify.com/track/1zglc9ER2eqm2nOL0jZ6sr) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucerito](https://open.spotify.com/album/1Ylk1qtCXpMdBpDaZvPd0I) | 3:10 | 2021-12-21 |  |
 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 | 2021-12-21 |  |
-| [He Venido a Pedirte Perdón \- Remasterizado 2012](https://open.spotify.com/track/58HCxOIln8pJ06Atf1F5pz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 5:01 | 2021-12-21 | 2022-07-26 |
+| [He Venido a Pedirte Perdón \- Remasterizado 2012](https://open.spotify.com/track/58HCxOIln8pJ06Atf1F5pz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 5:01 | 2021-12-21 |  |
 | [Herida \- Remastered 2004](https://open.spotify.com/track/4Mea588bA2OzvbCKIqcemt) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Serie Verde\- Myrian Hernandez](https://open.spotify.com/album/1T6m2wsmFrcL6j9ElQuOG2) | 4:01 | 2021-12-21 | 2022-07-29 |
 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 | 2021-12-21 |  |
 | [Hey](https://open.spotify.com/track/5BtNKZScq7gRDbcJ2FhIQb) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [HEY!](https://open.spotify.com/album/0UWylhMlO3b9AgGS7PR8qU) | 5:00 | 2021-12-21 |  |
@@ -186,7 +186,7 @@
 | [Juntos por Costumbre](https://open.spotify.com/track/6hyOcooyhx6GFgG7WjomyN) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Lucía Es "Luna Morena"](https://open.spotify.com/album/1nctK0U7e8NJnYUqotUpG2) | 3:33 | 2021-12-21 | 2022-07-27 |
 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 | 2021-12-21 |  |
 | [La Cima del Cielo](https://open.spotify.com/track/3C9fAn3IgajBTwR274huch) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:17 | 2021-12-21 |  |
-| [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 | 2021-12-21 |  |
+| [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 | 2021-12-21 | 2024-07-09 |
 | [La fuerza del corazón](https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Alejandro Sanz 3](https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N) | 5:07 | 2021-12-21 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:37 | 2021-12-21 | 2022-07-26 |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 | 2021-12-21 |  |
@@ -282,7 +282,7 @@
 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 | 2021-12-21 |  |
 | [No soy una muñeca](https://open.spotify.com/track/5kzSs7nUIDWYnhpedFd0cc) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Con Él](https://open.spotify.com/album/3WbOPqdZwdnSBFUGVBQQSq) | 3:36 | 2021-12-21 | 2022-06-25 |
 | [No Te Extraño](https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N) | [Litzy](https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB) | [Transparente](https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj) | 3:26 | 2021-12-21 |  |
-| [No Tengo Dinero](https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Alma Joven](https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq) | 3:05 | 2021-12-21 |  |
+| [No Tengo Dinero](https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Alma Joven](https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq) | 3:05 | 2021-12-21 | 2024-07-09 |
 | [Noche De Copas](https://open.spotify.com/track/7wDiDAk8cBPACxGSY2Xv4D) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Más Completa Colección](https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a) | 3:31 | 2021-12-21 |  |
 | [Noche De Copas](https://open.spotify.com/track/0eSBJRN4qEJxrdJiGLj6T7) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 3:35 | 2021-12-21 | 2024-04-19 |
 | [Nos Aburriremos Juntos](https://open.spotify.com/track/3vDcnqCEWnxqc0bF4hWtVl) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Lucía Es "Luna Morena"](https://open.spotify.com/album/1nctK0U7e8NJnYUqotUpG2) | 3:31 | 2021-12-21 | 2022-07-09 |
@@ -417,6 +417,7 @@
 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 | 2021-12-21 |  |
 | [Vuélveme A Querer](https://open.spotify.com/track/5sODjvuuAdk8gLzrp39Voi) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Singles](https://open.spotify.com/album/6ZxbfjQ6vmmS4aa4qjgfRV) | 4:08 | 2021-12-21 | 2022-07-29 |
 | [Y Nos Dieron las Diez](https://open.spotify.com/track/0Fh7xzZ8KWoCylXNC2laap) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [La Absoluta Colección](https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law) | 5:08 | 2021-12-21 | 2022-07-29 |
+| [Ya Lo Sé Que Tú Te Vas \- Remasterizado 2012](https://open.spotify.com/track/2zumtfdG5xP06AhcyTo5oa) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 3:44 | 2021-12-21 |  |
 | [Ya no somos amantes](https://open.spotify.com/track/4OOsiSRw6hd6ZLv6P2DGyO) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Amor prohibido](https://open.spotify.com/album/6rV8qvncvelhF14cffRfun) | 3:37 | 2021-12-21 | 2022-07-13 |
 | [Yo No Se Vivir Sin Ti](https://open.spotify.com/track/01ZFYLcBLnBN4GZfsREjjg) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [Lo Nuevo](https://open.spotify.com/album/1JfiegiGlijUPzCwfywtQn) | 3:30 | 2021-12-21 | 2022-01-25 |
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:51 | 2021-12-21 | 2022-07-21 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81400,
+  "description": "This is Cynthia Luz. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 81401,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAABVzktlDIDARWdCHKGaqrSh",
+  "snapshot_id": "ZonagAAAAABFZ14zSzPGr5Nbvn+nd7F6",
   "tracks": [
     {
       "added_at": null,
@@ -183,38 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Negaram Amor",
-        "url": "https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Me Negaram Amor",
-      "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica #8 Amor e Samba",
         "url": "https://open.spotify.com/album/15KQorQOATgO3Xkhv2yvxC"
       },
@@ -267,6 +235,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Negaram Amor",
+        "url": "https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Me Negaram Amor",
+      "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Col\u00edrio da C\u00f3lera",
         "url": "https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt"
       },
@@ -287,46 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica - Paris",
-        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Dk 47",
-          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Poesia Ac\u00fastica - Paris",
-      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexta-Feira",
         "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
       },
@@ -343,6 +303,46 @@
       "duration_ms": 239118,
       "name": "Sexta-Feira",
       "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica Paris",
+        "url": "https://open.spotify.com/album/1sCto8C5QNFJF3zUZNwxXH"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Poesia Ac\u00fastica Paris",
+      "url": "https://open.spotify.com/track/03fBjLzNCO7PfPfi1qOhxL"
     },
     {
       "added_at": null,
@@ -712,7 +712,7 @@
       "added_at": null,
       "album": {
         "name": "M\u00f4-Zaico",
-        "url": "https://open.spotify.com/album/1GNTB8OIhFhnHPfKdJzbaj"
+        "url": "https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 158784,
+      "duration_ms": 158783,
       "name": "M\u00f4-Zaico",
-      "url": "https://open.spotify.com/track/6KyU16IER1SJUORRmACOpV"
+      "url": "https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD"
     },
     {
       "added_at": null,
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         },
         {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
         }
       ],
-      "duration_ms": 169032,
-      "name": "Bom Te Encontrar",
-      "url": "https://open.spotify.com/track/0NFW6UfBWkgpNpsWeDOk1I"
+      "duration_ms": 182000,
+      "name": "T\u00e3o Forte",
+      "url": "https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0"
     },
     {
       "added_at": null,
@@ -924,13 +924,13 @@
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         },
         {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
         }
       ],
-      "duration_ms": 182000,
-      "name": "T\u00e3o Forte",
-      "url": "https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0"
+      "duration_ms": 169032,
+      "name": "Bom Te Encontrar",
+      "url": "https://open.spotify.com/track/0NFW6UfBWkgpNpsWeDOk1I"
     },
     {
       "added_at": null,

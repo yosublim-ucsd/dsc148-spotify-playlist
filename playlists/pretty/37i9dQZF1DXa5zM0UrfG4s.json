@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 110285,
+  "num_followers": 110295,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "100 \u00e5r",
-        "url": "https://open.spotify.com/album/3aSPBp4BeXQdQyHO0gBPKZ"
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
       },
       "artists": [
         {
           "name": "Ringnes-Ronny",
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 129574,
-      "name": "100 \u00e5r",
-      "url": "https://open.spotify.com/track/593tFoRMihCsur0bA39bru"
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+        "name": "100 \u00e5r",
+        "url": "https://open.spotify.com/album/3aSPBp4BeXQdQyHO0gBPKZ"
       },
       "artists": [
         {
           "name": "Ringnes-Ronny",
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
+      "duration_ms": 129574,
+      "name": "100 \u00e5r",
+      "url": "https://open.spotify.com/track/593tFoRMihCsur0bA39bru"
     },
     {
       "added_at": "2024-06-27 22:00:00",

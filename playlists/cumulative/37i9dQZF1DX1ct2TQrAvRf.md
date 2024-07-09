@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Bali & Fotty Seven
 
-176 songs - 9 hr 47 min
+177 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 | 2023-12-06 |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-08 | 2024-03-27 |
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-01-09 |  |
+| [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 | 2024-07-08 |  |
 | [Kohinoor](https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/47prNGpfOQnYYf5mIKaGNL) | 3:18 | 2023-03-27 | 2023-09-02 |
 | [Koi Nahi Puchta](https://open.spotify.com/track/08y3eOkOpfQ9VE49XMDBiz) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Robin Hood](https://open.spotify.com/album/6sVYed41ypnAPwcoHOXzWu) | 3:45 | 2023-10-26 | 2024-02-16 |
 | [Krantinaari](https://open.spotify.com/track/7g8Tz72jAN2IdrZs7q13zG) | [Krantinaari](https://open.spotify.com/artist/6Tu5CwG6fBnZqlH5jac6XP), [RaaKshaS Sound](https://open.spotify.com/artist/5UvJGAboUH4MluIk0o5CS0) | [Krantinaari](https://open.spotify.com/album/1pV4OORNDkksKLH5M8cmHG) | 2:34 | 2023-10-26 | 2023-11-30 |

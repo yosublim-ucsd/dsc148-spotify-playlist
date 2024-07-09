@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 39227,
+  "num_followers": 39231,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAABvZ9u8dyH0bSDCbdEzR/O6",
+  "snapshot_id": "ZonagAAAAACPFAvw41jSIAbCaq6EvCEY",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
       "artists": [
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 189496,
-      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
     },
     {
       "added_at": null,
@@ -227,6 +223,26 @@
       "duration_ms": 185374,
       "name": "Confetti (feat. Saweetie)",
       "url": "https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sway With Me (with GALXARA)",
+        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "GALXARA",
+          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
+        }
+      ],
+      "duration_ms": 168018,
+      "name": "Sway With Me (with GALXARA)",
+      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
     },
     {
       "added_at": null,
@@ -351,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Lourdiz",
+          "url": "https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Back Seat",
+      "url": "https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -415,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GPP",
-        "url": "https://open.spotify.com/album/57ClUwZ0tRUkC7QUMMFFk5"
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
       "artists": [
         {
-          "name": "Liana Banks",
-          "url": "https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 186312,
-      "name": "GPP",
-      "url": "https://open.spotify.com/track/4C0sI2YP5uj2UW0Ex676X4"
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
     },
     {
       "added_at": null,
@@ -451,6 +487,26 @@
       "duration_ms": 152241,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GPP",
+        "url": "https://open.spotify.com/album/57ClUwZ0tRUkC7QUMMFFk5"
+      },
+      "artists": [
+        {
+          "name": "Liana Banks",
+          "url": "https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "GPP",
+      "url": "https://open.spotify.com/track/4C0sI2YP5uj2UW0Ex676X4"
     },
     {
       "added_at": null,
@@ -571,6 +627,26 @@
       "duration_ms": 211703,
       "name": "Money Mouf",
       "url": "https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talkin' Bout (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/2bjv3pxHHeerVrMDG4Iqyd"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126225,
+      "name": "Talkin' Bout (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0NS0ycRjNrnONGvqoou1ot"
     },
     {
       "added_at": null,
@@ -707,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Was Said?",
+        "url": "https://open.spotify.com/album/4Kd6xvRUGl0F4frNpyu7Ve"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121833,
+      "name": "Only Live Once (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1z1VdvqDHeuqklquYp43k3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
         "url": "https://open.spotify.com/album/2uMMOoH30YHKnbg5nVXtMM"
       },
@@ -731,26 +827,6 @@
       "duration_ms": 201248,
       "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
       "url": "https://open.spotify.com/track/7IfxYyZaO3S3PJf5agEEWS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Was Said?",
-        "url": "https://open.spotify.com/album/4Kd6xvRUGl0F4frNpyu7Ve"
-      },
-      "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121833,
-      "name": "Only Live Once (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1z1VdvqDHeuqklquYp43k3"
     },
     {
       "added_at": null,
@@ -959,90 +1035,6 @@
       "duration_ms": 162487,
       "name": "Hoops (feat. Salt-N-Pepa & Kash Doll)",
       "url": "https://open.spotify.com/track/1FlQZmMkJC04uLv7KsZKSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila Conmigo",
-        "url": "https://open.spotify.com/album/3pcIJIuMpyw7L2fxGETbzk"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/2sJHeAvFZ58o3Z6CB56EdU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDGAF (Remixes II)",
-        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 238940,
-      "name": "IDGAF (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/2ry53n0NXbB4ZUJM1SP8Vc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Dipped In Ice",
-      "url": "https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Night Ting (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB"
-      },
-      "artists": [
-        {
-          "name": "Tai'Aysha",
-          "url": "https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 144665,
-      "name": "One Night Ting (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0v3WvQ010FCs5IT1VvvHCr"
     }
   ],
   "unique_name": "This Is Saweetie",

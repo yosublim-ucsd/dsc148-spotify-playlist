@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 66684,
+  "num_followers": 66697,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "La Carta N\u00b0 3",
         "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 181026,
       "name": "La Carta N\u00b03 - 1986 Digital Remaster",
       "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Voy a Ser",
-        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
-      },
-      "artists": [
-        {
-          "name": "Talismanes del Ritmo y del amor",
-          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Me Voy a Lanzar",
         "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 177363,
       "name": "Me Voy a Lanzar",
       "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Voy a Ser",
+        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
+      },
+      "artists": [
+        {
+          "name": "Talismanes del Ritmo y del amor",
+          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Siempre en Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
-      },
-      "artists": [
-        {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
-        }
-      ],
-      "duration_ms": 311016,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 169466,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Siempre en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 311016,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG"
-      },
-      "artists": [
-        {
-          "name": "Los Kuatreros Del Sur",
-          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
-        }
-      ],
-      "duration_ms": 739369,
-      "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Tornado Ranchero",
         "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 267859,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG"
+      },
+      "artists": [
+        {
+          "name": "Los Kuatreros Del Sur",
+          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
+        }
+      ],
+      "duration_ms": 739369,
+      "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Mi Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        }
-      ],
-      "duration_ms": 254850,
-      "name": "Mi Decisi\u00f3n",
-      "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Siempre Villanos",
         "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 220203,
       "name": "Maldita Sea la Primera Vez",
       "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Mi Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        }
+      ],
+      "duration_ms": 254850,
+      "name": "Mi Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
     },
     {
       "added_at": "2024-06-12 22:58:17",

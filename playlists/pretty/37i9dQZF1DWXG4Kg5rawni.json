@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 101624,
+  "num_followers": 101636,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "do avesso",
+        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
+      },
+      "artists": [
+        {
+          "name": "Marcos Martins",
+          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 246917,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Amo Voc\u00ea Vol. 6",
         "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 127093,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "do avesso",
-        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
-      },
-      "artists": [
-        {
-          "name": "Marcos Martins",
-          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "do avesso",
-      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
     },
     {
       "added_at": "2023-07-14 16:56:11",

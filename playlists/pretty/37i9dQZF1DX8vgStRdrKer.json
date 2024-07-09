@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
-  "num_followers": 10005,
+  "num_followers": 10029,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -381,26 +381,6 @@
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Give Me Chance",
-        "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 255735,
-      "name": "Give Me Chance",
-      "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
-    },
-    {
       "added_at": "2024-06-21 00:01:00",
       "album": {
         "name": "Victory Sounds (Live)",
@@ -419,6 +399,26 @@
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Give Me Chance",
+        "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 255735,
+      "name": "Give Me Chance",
+      "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
     },
     {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+      },
+      "artists": [
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
+    },
+    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "All Things Are Possible (Live)",
@@ -839,22 +855,6 @@
       "duration_ms": 270000,
       "name": "All Things Are Possible (Live)",
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Welenga",
-        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
-      },
-      "artists": [
-        {
-          "name": "Beracah",
-          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Welenga",
-      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
       "added_at": "2024-06-14 00:01:00",

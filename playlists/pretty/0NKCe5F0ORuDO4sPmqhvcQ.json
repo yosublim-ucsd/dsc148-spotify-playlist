@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAp1Qp0NEtXDSVEVH4VFgiSsrIt8D6d",
+  "snapshot_id": "AAAp1pa3uUHbRaD9DvKR3SksZsCAsHTu",
   "tracks": [
     {
       "added_at": "2024-07-05 16:23:47",
@@ -2727,6 +2727,26 @@
       "duration_ms": 145588,
       "name": "real 4 me",
       "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
+    },
+    {
+      "added_at": "2024-07-09 00:53:55",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz"
     }
   ],
   "unique_name": "Moving Castle Monthly",

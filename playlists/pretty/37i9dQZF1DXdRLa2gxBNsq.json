@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 105003,
+  "num_followers": 105032,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zn3g4AAAAABIpgbubvWb3Qte/3lmguK0",
   "tracks": [
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
-    },
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 245853,
       "name": "Sarri, Sarri",
       "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
       },
       "artists": [
         {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
         }
       ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
+      "duration_ms": 103000,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
       "artists": [
         {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
         }
       ],
-      "duration_ms": 103000,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Camela or Die 2.0",
         "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 179197,
       "name": "Camela or Die 2.0",
       "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "S\u00edganle compadres",
         "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 155533,
       "name": "Txus",
       "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Spiz Amarillo",
+        "url": "https://open.spotify.com/album/1FBI4i2Iod7eFGY8s2ffmV"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "Spiz Amarillo",
+      "url": "https://open.spotify.com/track/5jqlOpp22pdsCK2bHJCK4G"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 217130,
       "name": "Ke Felicidad!",
       "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Spiz Amarillo",
-        "url": "https://open.spotify.com/album/1FBI4i2Iod7eFGY8s2ffmV"
-      },
-      "artists": [
-        {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "Spiz Amarillo",
-      "url": "https://open.spotify.com/track/5jqlOpp22pdsCK2bHJCK4G"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 170585,
+      "name": "Vieja Guardia",
+      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "El \u00daltimo Amigo",
         "url": "https://open.spotify.com/album/0RCBE5QYkbBPBt3GaYxGtk"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Vieja Guardia",
-        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 170585,
-      "name": "Vieja Guardia",
-      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
-      },
-      "artists": [
-        {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Su Acierto",
         "url": "https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 165739,
       "name": "Su Acierto",
       "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2024-06-27 22:00:00",

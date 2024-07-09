@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 90367,
+  "num_followers": 90410,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
         }
       ],
-      "duration_ms": 136786,
-      "name": "Cartas de amor en la arena - Love Letters in the Sand",
-      "url": "https://open.spotify.com/track/5P9ruhpi2GGK5xniYcvtO6"
+      "duration_ms": 156422,
+      "name": "Vuelve primavera",
+      "url": "https://open.spotify.com/track/3JeZSnIpeZJ2aQB2oLNv1N"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1231,6 +1231,22 @@
       "duration_ms": 230293,
       "name": "La Mantequilla",
       "url": "https://open.spotify.com/track/7fhZsTB9ip8h9H6vMcP8ux"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Grandes \u00c9xitos Vol.2",
+        "url": "https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 160639,
+      "name": "La Historia de Tommy",
+      "url": "https://open.spotify.com/track/29Div3U4mvlXuVD24b70H7"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1267,6 +1283,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Los Originales",
+        "url": "https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e"
+      },
+      "artists": [
+        {
+          "name": "Los Bopper's",
+          "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
+        }
+      ],
+      "duration_ms": 136786,
+      "name": "Cartas de amor en la arena - Love Letters in the Sand",
+      "url": "https://open.spotify.com/track/5P9ruhpi2GGK5xniYcvtO6"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "La Hiedra Venenosa",
         "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
       },
@@ -1279,22 +1311,6 @@
       "duration_ms": 178440,
       "name": "Siluetas",
       "url": "https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Los Originales",
-        "url": "https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e"
-      },
-      "artists": [
-        {
-          "name": "Los Bopper's",
-          "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Vuelve primavera",
-      "url": "https://open.spotify.com/track/3JeZSnIpeZJ2aQB2oLNv1N"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1331,26 +1347,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Historia Musical de Mis Exitos",
-        "url": "https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Muevanse Todos",
-      "url": "https://open.spotify.com/track/0WTKcG7QpGn7JxK0sk4w0z"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Idolos del Rock de los 60's: Enrique Guzman",
         "url": "https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA"
       },
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Hiedra Venenosa",
-        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy"
       },
       "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
         {
           "name": "Los Rebeldes Del Rock",
           "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
         }
       ],
-      "duration_ms": 159480,
-      "name": "La Hiedra Venenosa",
-      "url": "https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP"
+      "duration_ms": 130560,
+      "name": "Muevanse Todos",
+      "url": "https://open.spotify.com/track/0WTKcG7QpGn7JxK0sk4w0z"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1463,8 +1463,24 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n"
+        "name": "La Hiedra Venenosa",
+        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "La Hiedra Venenosa",
+      "url": "https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
       },
       "artists": [
         {
@@ -1472,9 +1488,25 @@
           "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
         }
       ],
-      "duration_ms": 160639,
-      "name": "La Historia de Tommy",
-      "url": "https://open.spotify.com/track/29Div3U4mvlXuVD24b70H7"
+      "duration_ms": 177586,
+      "name": "Besos por Telefono",
+      "url": "https://open.spotify.com/track/39G6HswUvV0jPexFBzgAjQ"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/5YIaqX4l18vFQ0fcYSq0kU"
+      },
+      "artists": [
+        {
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "Atras de la Raya",
+      "url": "https://open.spotify.com/track/2FNdexUP7hlmFd2N38he7R"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1495,22 +1527,6 @@
       "duration_ms": 148680,
       "name": "Melod\u00eda de Amor",
       "url": "https://open.spotify.com/track/4Xz9a5ykDzCQh02OZVjYg0"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Atras de la Raya",
-        "url": "https://open.spotify.com/album/5YIaqX4l18vFQ0fcYSq0kU"
-      },
-      "artists": [
-        {
-          "name": "Los Apson Boys",
-          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "Atras de la Raya",
-      "url": "https://open.spotify.com/track/2FNdexUP7hlmFd2N38he7R"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1543,22 +1559,6 @@
       "duration_ms": 132506,
       "name": "El Tigre",
       "url": "https://open.spotify.com/track/4bIUG6hvKOsVzbuBprHXuH"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Besos por Telefono",
-      "url": "https://open.spotify.com/track/39G6HswUvV0jPexFBzgAjQ"
     },
     {
       "added_at": "2020-04-17 21:51:59",

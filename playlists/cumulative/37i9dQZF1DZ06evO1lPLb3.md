@@ -4,7 +4,7 @@
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-44 songs - 3 hr 46 min
+45 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Han Pan \- Original Mix](https://open.spotify.com/track/6z7Y23tSMqnHVDU51I3VjT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM) | 6:41 | 2023-05-02 | 2023-12-14 |
 | [Hundres Times](https://open.spotify.com/track/26oSDKypk0yTVUlCHi5B73) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Once](https://open.spotify.com/album/6iPrb23tXiLrKCCmiAqVTA) | 6:56 | 2023-05-02 |  |
 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 | 2023-05-02 |  |
-| [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-10 |  |
+| [I Believe In Love Again](https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:56 | 2024-07-09 |  |
+| [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-10 | 2024-07-09 |
 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 | 2023-12-13 | 2024-01-01 |
 | [I Go](https://open.spotify.com/track/2o7wQuwySXB2EDtNp7ymJa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 5:32 | 2024-06-13 |  |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2023-05-02 | 2023-12-14 |
@@ -51,6 +52,6 @@
 | [Troop \- Original Mix](https://open.spotify.com/track/3RSkg1KZTTjBcVx1hAspxq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 5:53 | 2023-05-02 | 2023-12-14 |
 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/0J79qvZLfVAABZ77mCVRPu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art Of War \(Part II\) EP](https://open.spotify.com/album/1awGHXEnKEn40VYbXFoE16) | 6:27 | 2023-05-02 | 2023-12-14 |
 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 | 2023-12-13 |  |
-| [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 | 2024-06-09 |  |
+| [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 | 2024-06-09 | 2024-07-09 |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

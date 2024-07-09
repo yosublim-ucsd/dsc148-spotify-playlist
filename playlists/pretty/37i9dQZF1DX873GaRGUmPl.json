@@ -1,6 +1,6 @@
 {
   "description": "The best alternative songs of the decade. Cover: Vampire Weekend",
-  "num_followers": 904195,
+  "num_followers": 904210,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Bros",
-      "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Oxnard",
         "url": "https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 268400,
       "name": "Tints (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7c3SbTuufigBWURcICnAWy"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
     }
   ],
   "unique_name": "Alternative 10s",

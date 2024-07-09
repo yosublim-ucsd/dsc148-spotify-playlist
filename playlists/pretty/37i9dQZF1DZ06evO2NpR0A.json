@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 258883,
+  "num_followers": 258917,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAD1dZmbHmuquD2jEdLmrOkS",
+  "snapshot_id": "ZonagAAAAAAGZZ9+rxwnDTUaQrXbWtf4",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": null,
@@ -543,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PDLIF",
-        "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
+        "name": "Dark Was The Night (Red Hot Compilation)",
+        "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
       },
       "artists": [
         {
@@ -552,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 177285,
-      "name": "PDLIF",
-      "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
+      "duration_ms": 242933,
+      "name": "Brackett, WI",
+      "url": "https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO"
     },
     {
       "added_at": null,
@@ -575,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Was The Night (Red Hot Compilation)",
-        "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
+        "name": "PDLIF",
+        "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
       },
       "artists": [
         {
@@ -584,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Brackett, WI",
-      "url": "https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO"
+      "duration_ms": 177285,
+      "name": "PDLIF",
+      "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
     },
     {
       "added_at": null,
@@ -607,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
       },
       "artists": [
         {
@@ -616,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 283613,
-      "name": "Babys",
-      "url": "https://open.spotify.com/track/5FGsZbvRZer28nY0cU82D7"
+      "duration_ms": 242149,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
     },
     {
       "added_at": null,
@@ -639,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
       "artists": [
         {
@@ -648,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 286661,
-      "name": "I Can't Make You Love Me - AIR Studios \u2013 4AD/Jagjaguwar Session",
-      "url": "https://open.spotify.com/track/2rCFBMdyuqqoO1LAuYggw6"
+      "duration_ms": 283613,
+      "name": "Babys",
+      "url": "https://open.spotify.com/track/5FGsZbvRZer28nY0cU82D7"
     },
     {
       "added_at": null,
@@ -667,6 +647,38 @@
       "duration_ms": 132000,
       "name": "715 - CR\u2211\u2211KS",
       "url": "https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 286661,
+      "name": "I Can't Make You Love Me - AIR Studios \u2013 4AD/Jagjaguwar Session",
+      "url": "https://open.spotify.com/track/2rCFBMdyuqqoO1LAuYggw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "iMi",
+      "url": "https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf"
     },
     {
       "added_at": null,
@@ -691,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
       "artists": [
         {
@@ -700,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 196360,
-      "name": "iMi",
-      "url": "https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf"
+      "duration_ms": 252000,
+      "name": "666 \u0287",
+      "url": "https://open.spotify.com/track/0CH4Zcnru3JDValapqx3BO"
     },
     {
       "added_at": null,
@@ -719,22 +731,6 @@
       "duration_ms": 285440,
       "name": "Woods",
       "url": "https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "666 \u0287",
-      "url": "https://open.spotify.com/track/0CH4Zcnru3JDValapqx3BO"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 159857,
+  "num_followers": 159917,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "A Noiva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 343626,
+      "name": "A Noiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Tu \u00c9s Bom",
         "url": "https://open.spotify.com/album/2weuTPGZTac19nolO4fZHf"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 248460,
       "name": "Tu \u00c9s Bom",
       "url": "https://open.spotify.com/track/2C2tYTdAUNcLXLqWQh48qj"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "A Noiva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 343626,
-      "name": "A Noiva - Ao Vivo",
-      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
     },
     {
       "added_at": "2024-06-21 03:01:00",

@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-91 songs - 5 hr 25 min
+95 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 |  |
 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-05-19 |  |
 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 | 2021-05-13 |  |
+| [B3NEN0 \(El Infierno\)](https://open.spotify.com/track/5DiYZcRmryBNoIRVZpKDkN) | [Astola y Ratón](https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp) | [B3NEN0 \(El Infierno\)](https://open.spotify.com/album/1Qgiw0jjPcEBW5L38LhUpA) | 5:32 | 2024-07-08 |  |
 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 | 2021-05-13 |  |
 | [Buen Fantasma](https://open.spotify.com/track/7dnVu3VTbBp37jsoQ1WbxE) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Buen Fantasma](https://open.spotify.com/album/2jlATWZpSabSiPbgKsl3Ps) | 3:49 | 2023-07-28 |  |
 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 | 2021-05-13 |  |
@@ -54,6 +55,7 @@
 | [La Que Me Gusta \- Versión Acústica](https://open.spotify.com/track/0wdfNgPoCpqORIhZHx9ZYq) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 5:18 | 2021-05-13 |  |
 | [Lamento Boliviano](https://open.spotify.com/track/0mcUQ5mkevgbOpuLDAPTKF) | [Lea Aput](https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z) | [Lamento Boliviano](https://open.spotify.com/album/4rYDSfBiuyX4OmHjMRyzLZ) | 3:52 | 2021-05-13 |  |
 | [Las Flores](https://open.spotify.com/track/5hdO9pJEp8Ht35PzrQjWqT) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Las Flores](https://open.spotify.com/album/22Nug9IPcwyq58yBJVBmhS) | 2:59 | 2021-05-13 |  |
+| [Las Olas](https://open.spotify.com/track/3DSNcYlsUztt0wzILGo6ce) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Las Olas](https://open.spotify.com/album/0WkB8a54VvGW34BIuJ6kWY) | 4:12 | 2024-07-08 |  |
 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3ajpzObwM2gdcSsa5hPfIQ) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Llueve Sobre La Ciudad](https://open.spotify.com/album/64qcPXeQX1UGtvqdtsRgvG) | 2:51 | 2021-05-13 |  |
 | [Lo noto \(feat\. Hombres G\)](https://open.spotify.com/track/0HTXPniIdy9szOPpfafOET) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Papitwo \(Deluxe\)](https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g) | 4:09 | 2021-05-13 | 2023-05-16 |
 | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/track/5M6ynbvTfCI5Mx9uuRXQPs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/album/7FTJJ78m4tTXycEApfGT1o) | 4:14 | 2021-05-13 |  |
@@ -61,6 +63,7 @@
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2021-05-13 |  |
 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 | 2023-09-01 |  |
 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 | 2021-05-13 |  |
+| [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-08 |  |
 | [Lárgueme](https://open.spotify.com/track/2pGELYVHsXOR5OwIIXmakP) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [El propio junte](https://open.spotify.com/artist/453BRGxqa4IYKVhNP3Bv7v) | [Lárgueme](https://open.spotify.com/album/5Cm08nSsQpVAJyQueHapAo) | 3:25 | 2023-07-21 |  |
 | [Mala Vida](https://open.spotify.com/track/6YPVWJkwsO3DgMDR0aPQc0) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Mala Vida](https://open.spotify.com/album/74fKOeEpG9lrN5AAWGqIit) | 2:07 | 2021-05-13 |  |
 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 | 2021-05-13 |  |
@@ -91,6 +94,7 @@
 | [Si es que estás ahí](https://open.spotify.com/track/03oIgkJPaVyFokpfa2fLem) | [Paulo Fuerte](https://open.spotify.com/artist/1msYSykwIu05HEXvjN5Xn8) | [Si es que estás ahí](https://open.spotify.com/album/3XyVBfhzIszwjcMorHU4JO) | 3:11 | 2023-05-19 |  |
 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 | 2024-06-27 |  |
 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 | 2021-05-13 |  |
+| [TAYLOR](https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [TAYLOR](https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee) | 3:42 | 2024-07-08 |  |
 | [Temo](https://open.spotify.com/track/4oW9mCSE2Dwdd5eXS0n48S) | [Temporada de Girasoles](https://open.spotify.com/artist/3ZZ9qm23N4C9cfHeeb2u6i) | [Temo](https://open.spotify.com/album/4Jvwh8dMjgsSiF40g9NDwo) | 4:30 | 2023-05-19 |  |
 | [Todavía Me Quedan Amigos](https://open.spotify.com/track/57rWK0GLa8JjO0QFaz9RMV) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Todavía Me Quedan Amigos](https://open.spotify.com/album/2cm0MawR5HoSR5KPWjt6Kq) | 2:41 | 2023-03-24 |  |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-05-13 |  |

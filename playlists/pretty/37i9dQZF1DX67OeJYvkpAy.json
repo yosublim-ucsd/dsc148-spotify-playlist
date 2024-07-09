@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Stacy N.K.R.",
-  "num_followers": 89982,
+  "num_followers": 89977,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,26 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "Beri Mayah",
+          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
         "name": "Lost in Lofi",
         "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 183851,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "Beri Mayah",
-          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
     },
     {
       "added_at": "2024-06-12 15:11:47",

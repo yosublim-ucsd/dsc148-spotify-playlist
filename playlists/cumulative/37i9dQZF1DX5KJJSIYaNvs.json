@@ -966,7 +966,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 253161,
       "name": "Chaawat",
       "url": "https://open.spotify.com/track/4iIOMOxEzVfFQNibtWDMAT"
@@ -3358,6 +3358,28 @@
       "duration_ms": 144666,
       "name": "Kyun?",
       "url": "https://open.spotify.com/track/7JBn7exshAhc7V4TI6SYqR"
+    },
+    {
+      "album": {
+        "name": "Laapata",
+        "url": "https://open.spotify.com/album/60q1hSlo9JJjXNNrjoREdM"
+      },
+      "artists": [
+        {
+          "name": "Khevna",
+          "url": "https://open.spotify.com/artist/3rPFuuJSFbu4Lty5o7uH0u"
+        },
+        {
+          "name": "Kartikeye",
+          "url": "https://open.spotify.com/artist/2hVqVvvcwvSXLZTCdKtBW5"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181437,
+      "name": "Laapata",
+      "url": "https://open.spotify.com/track/43STdhCA7cLft5IeSKo5Ht"
     },
     {
       "album": {

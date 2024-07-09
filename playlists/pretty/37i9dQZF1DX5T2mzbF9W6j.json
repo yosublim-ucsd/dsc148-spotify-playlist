@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 109519,
+  "num_followers": 109541,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-07-05 15:06:29",
       "album": {
-        "name": "The Confession",
-        "url": "https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP"
+        "name": "in the light and shadows",
+        "url": "https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
         }
       ],
-      "duration_ms": 138398,
-      "name": "The Confession",
-      "url": "https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg"
+      "duration_ms": 174511,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w"
     },
     {
       "added_at": "2024-07-05 15:06:29",
@@ -907,6 +907,22 @@
       "duration_ms": 177957,
       "name": "O mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/5gWIF2Rqa9rXufl7696JoU"
+    },
+    {
+      "added_at": "2024-07-05 15:06:29",
+      "album": {
+        "name": "The Confession",
+        "url": "https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 138398,
+      "name": "The Confession",
+      "url": "https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg"
     },
     {
       "added_at": "2024-07-05 15:06:29",
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-07-05 15:06:29",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Good Things",
-      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
-    },
-    {
-      "added_at": "2024-07-05 15:06:29",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-07-05 15:06:29",
       "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
+    },
+    {
+      "added_at": "2024-07-05 15:06:29",
+      "album": {
         "name": "Tease Me",
         "url": "https://open.spotify.com/album/4czLQcxHpCy7NlD0YZabS5"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 162800,
       "name": "Tease Me",
       "url": "https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b"
-    },
-    {
-      "added_at": "2024-07-05 15:06:29",
-      "album": {
-        "name": "Tyle mog\u0142em Ci da\u0107",
-        "url": "https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR"
-      },
-      "artists": [
-        {
-          "name": "Filip Lato",
-          "url": "https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Tyle mog\u0142em Ci da\u0107",
-      "url": "https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj"
     }
   ],
   "unique_name": "... ale najpierw kawa",

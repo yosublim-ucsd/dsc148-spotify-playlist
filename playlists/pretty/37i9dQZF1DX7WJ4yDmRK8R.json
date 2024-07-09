@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
-  "num_followers": 382839,
+  "num_followers": 382929,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
       },
       "artists": [
         {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
         }
       ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+      "duration_ms": 181826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
       },
       "artists": [
         {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
         }
       ],
-      "duration_ms": 181826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "No Rewind!",
-        "url": "https://open.spotify.com/album/0co4MlE0CYcVYQK9tdDrdO"
-      },
-      "artists": [
-        {
-          "name": "The Aquabats!",
-          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "No Rewind!",
-      "url": "https://open.spotify.com/track/0eU5iSnJ4IeqMq7WcORLjK"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "No Rewind!",
+        "url": "https://open.spotify.com/album/0co4MlE0CYcVYQK9tdDrdO"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "No Rewind!",
+      "url": "https://open.spotify.com/track/0eU5iSnJ4IeqMq7WcORLjK"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Get Warmer",
-        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
-      },
-      "artists": [
-        {
-          "name": "Bomb the Music Industry!",
-          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+        "name": "Get Warmer",
+        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
       },
       "artists": [
         {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+          "name": "Bomb the Music Industry!",
+          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
         }
       ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+      "duration_ms": 282093,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Another Change of Plan",
         "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "No Reason",
-        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Kosmopoliturbo",
         "url": "https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 229813,
       "name": "Hey Road",
       "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "The Green Album",
-        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
-      },
-      "artists": [
-        {
-          "name": "Skankin' Pickle",
-          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Special Brew",
-      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Broadcasting to the Nations",
         "url": "https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "RIVERS OF BABYLON (TRIBUTE)",
-        "url": "https://open.spotify.com/album/0uUevLY1WOAljUjVPLHkFn"
+        "name": "The Green Album",
+        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
       },
       "artists": [
         {
-          "name": "Hopeton Lewis",
-          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+          "name": "Skankin' Pickle",
+          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
         }
       ],
-      "duration_ms": 283586,
-      "name": "RIVERS OF BABYLONE",
-      "url": "https://open.spotify.com/track/5ur1wFW0P9yMP6T0mgt4ne"
+      "duration_ms": 191293,
+      "name": "Special Brew",
+      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "RIVERS OF BABYLON (TRIBUTE)",
+        "url": "https://open.spotify.com/album/0uUevLY1WOAljUjVPLHkFn"
+      },
+      "artists": [
+        {
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "RIVERS OF BABYLONE",
+      "url": "https://open.spotify.com/track/5ur1wFW0P9yMP6T0mgt4ne"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "God Bless Satan",
         "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
       },
@@ -1523,6 +1523,26 @@
       "duration_ms": 195527,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/0N4VKJj7FPmaeueGOv25C9"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 209594,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1555,26 +1575,6 @@
       "duration_ms": 280626,
       "name": "Skinhead",
       "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/0N4VKJj7FPmaeueGOv25C9"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 209594,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Sing Along With Skankin' Pickle",
-        "url": "https://open.spotify.com/album/4xfCd6JErTyELdNkFDgMaW"
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
       },
       "artists": [
         {
-          "name": "Skankin' Pickle",
-          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
         }
       ],
-      "duration_ms": 192093,
-      "name": "Turning Japanese",
-      "url": "https://open.spotify.com/track/7rn79EumoC0ANZSpo1iqMD"
+      "duration_ms": 183200,
+      "name": "Fat Randy",
+      "url": "https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe"
     }
   ],
   "unique_name": "The Essential Ska",

@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 48 | [Celtics](https://open.spotify.com/track/4ZFvrW2BSxfJfJ69WPL5ws) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:00 |
 | 49 | [Dis moi](https://open.spotify.com/track/6YANiwoayYin0u5pfCp34O) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:32 |
 | 50 | [Viano](https://open.spotify.com/track/79aP0TraICgSI68NBEK8ID) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 2:46 |
-| 51 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 |
-| 52 | [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 |
+| 51 | [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 |
+| 52 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 |
 | 53 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 |
 | 54 | [Aye](https://open.spotify.com/track/3AsqqOPJejGFSuJ9depO7U) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:43 |
 | 55 | [A deux](https://open.spotify.com/track/2GGKEPBEKh4MclL7UOBAN5) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Glow Up](https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9) | 2:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 59 | [Zone](https://open.spotify.com/track/6G0AVwlZeTjbu292BpYabA) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Zone](https://open.spotify.com/album/5cQZYbF7C0LzQ2nnu34gqH) | 3:27 |
 | 60 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
 
-Snapshot ID: `AbWFlgAAAACWmO8wH4grTARPYIeA1Rcd`
+Snapshot ID: `AbWLNgAAAAD7rbs8KYSjKwKwyc2SHTMQ`

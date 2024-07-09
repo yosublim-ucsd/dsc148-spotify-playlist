@@ -1079,6 +1079,32 @@
     },
     {
       "album": {
+        "name": "Lonely Days",
+        "url": "https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1"
+      },
+      "artists": [
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153683,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6"
+    },
+    {
+      "album": {
         "name": "On the Weekend",
         "url": "https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85"
       },

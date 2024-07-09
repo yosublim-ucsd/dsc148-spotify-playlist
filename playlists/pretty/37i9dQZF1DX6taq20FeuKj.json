@@ -1,6 +1,6 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2105289,
+  "num_followers": 2105304,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 218146,
       "name": "rockstar (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "Still Sleep?",
-        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 288624,
       "name": "a lot",
       "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -971,30 +971,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 190331,
-      "name": "Rich Nigga Shit (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "No Flockin'",
         "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
       },
@@ -1027,22 +1003,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
       },
@@ -1067,6 +1027,46 @@
       "duration_ms": 195428,
       "name": "Lemonade (feat. NAV)",
       "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190331,
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Now the Moon's Rising",
-        "url": "https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 111020,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 153800,
       "name": "Shoota (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Now the Moon's Rising",
+        "url": "https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 111020,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169344,
+      "name": "Transportin'",
+      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 280173,
       "name": "Hate Bein' Sober",
       "url": "https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169344,
-      "name": "Transportin'",
-      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "The Perfect LUV Tape",
-        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Erase Your Social",
-      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+        "name": "The Perfect LUV Tape",
+        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+      "duration_ms": 199993,
+      "name": "Erase Your Social",
+      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1807,6 +1791,22 @@
       "duration_ms": 258586,
       "name": "One Beer",
       "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2024-05-02 15:06:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,230 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,285 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 22 | [No Podrán Separarnos](https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Llévame En Tus Sueños](https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA) | 5:18 |
 | 23 | [Tan Natural](https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:12 |
 | 24 | [Ella Era Todo](https://open.spotify.com/track/1MldC2AUalcu3fYRFHalHS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:06 |
-| 25 | [Imborrable](https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [Imborrable](https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5) | 4:00 |
-| 26 | [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 |
+| 25 | [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 |
+| 26 | [Imborrable](https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [Imborrable](https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5) | 4:00 |
 | 27 | [Cuando lleguen los millones](https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn) | 4:37 |
 | 28 | [El Amor Es Perdón y Algo Más](https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:15 |
 | 29 | [Cuando Quieras Quiero](https://open.spotify.com/track/2hPp4lIfLCYx9sMGXIOYrN) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Saúl Lallermand](https://open.spotify.com/artist/1lKbL9flS8aGA1TG9IpJsj) | [El Poder del Amor](https://open.spotify.com/album/6Egg4KXDy9yhJox4gjGjmZ) | 4:14 |

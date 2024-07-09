@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Numidia Lezoul
 
-207 songs - 12 hr 32 min
+208 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [C'est carré le S](https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est carré le S](https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y) | 3:21 | 2023-08-14 |  |
 | [Calma](https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Calma](https://open.spotify.com/album/71QAMPU0A2r9fVPFIXBjbu) | 4:14 | 2022-12-25 | 2023-04-14 |
 | [Caravan To Baghdad](https://open.spotify.com/track/3caRGauTC1JlnZldRHegmm) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Amine tefaha](https://open.spotify.com/artist/1YflNttEHeX8HtnJlngZ5L), [Arslane Bouras](https://open.spotify.com/artist/5d9Q3LiOKZNjeQVkiMP1Rm) | [Caravan To Baghdad](https://open.spotify.com/album/2scmA3Bz7R4MdoSfoatypC) | 2:58 | 2022-05-19 | 2023-03-18 |
-| [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-08-14 |  |
+| [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-08-14 | 2024-07-09 |
 | [Chayef Ch'hal](https://open.spotify.com/track/4OtsNadXnYK0NDgmlZSCs8) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Chayef Ch'hal](https://open.spotify.com/album/78AH3bGTSnqg3TXCdKGvv3) | 3:19 | 2023-03-06 | 2024-06-05 |
 | [Choufou lamour madar fiya](https://open.spotify.com/track/1lduNwd2JPXTlTBgYlGmre) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Choufou lamour madar fiya](https://open.spotify.com/album/0ZVGBiwlUZIFKljBm7btnG) | 3:08 | 2023-11-03 | 2023-12-01 |
 | [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 | 2023-08-14 | 2023-11-11 |
@@ -167,6 +167,7 @@
 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 | 2022-08-06 |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-01-30 | 2024-02-20 |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 | 2022-11-25 |
+| [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-08 |  |
 | [SAH](https://open.spotify.com/track/1G3OTUGfbYcA5r2FgkBMZp) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [SAH](https://open.spotify.com/album/3oKii6T1E3bnh5ijB4ewqb) | 3:00 | 2023-02-06 | 2023-03-31 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2023-08-14 |  |
 | [Saint\-Valentin](https://open.spotify.com/track/6TLyzFX0FY6X52ZvZuQQpN) | [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Saint\-Valentin](https://open.spotify.com/album/55cRTgRGc5IKierDA2LIaL) | 3:01 | 2021-12-09 | 2022-06-01 |

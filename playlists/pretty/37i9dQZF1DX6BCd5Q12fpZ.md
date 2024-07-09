@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,190 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,182 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 65 | [My Heart Goes Boom](https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI) | [Charmed](https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8) | [Charmed](https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D) | 3:03 |
 | 66 | [Take Me to Your Heaven](https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6) | 3:03 |
 | 67 | [What about my dreams? \- Main](https://open.spotify.com/track/4coje85K8iSAup8z4G9y64) | [Kati Wolf](https://open.spotify.com/artist/0XjBRZN6v699jxgtiEBuHM) | [What About My Dreams?](https://open.spotify.com/album/70sLEEOucejT9jhRDmPNAW) | 4:09 |
-| 68 | [If I Had Your Love](https://open.spotify.com/track/46P3Hgp98JG5t3sszNDaGu) | [Selma](https://open.spotify.com/artist/1o0TSkHxzo6fCAMy2nVexo) | [Iceland Eurovision Party](https://open.spotify.com/album/0HWqAQCNZmBA925kcIv4xq) | 3:13 |
-| 69 | [Takes 2 To Tango](https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP) | [Jari Sillanpää](https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv) | [Albumi](https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL) | 3:01 |
+| 68 | [Takes 2 To Tango](https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP) | [Jari Sillanpää](https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv) | [Albumi](https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL) | 3:01 |
+| 69 | [If I Had Your Love](https://open.spotify.com/track/46P3Hgp98JG5t3sszNDaGu) | [Selma](https://open.spotify.com/artist/1o0TSkHxzo6fCAMy2nVexo) | [Iceland Eurovision Party](https://open.spotify.com/album/0HWqAQCNZmBA925kcIv4xq) | 3:13 |
 | 70 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
 | 71 | [Spirit in the Sky](https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT) | 3:05 |
 | 72 | [Toy](https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Toy](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) | 3:00 |

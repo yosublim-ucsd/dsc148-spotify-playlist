@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,586 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,594 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [Anniversary \- Radio Edit](https://open.spotify.com/track/2wmHH8Xc9P2RN6fGDH4ON6) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!](https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz) | 4:32 |
 | 50 | [Love Like Yours And Mine](https://open.spotify.com/track/76PUohgHDZNGvj7uXFLpAC) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Love Like Yours And Mine](https://open.spotify.com/album/18o37lm8WSUU10qNWCbQfp) | 3:39 |
 
-Snapshot ID: `ZgHD0QAAAACquJRmwXvk7B6GgFWRtHBp`
+Snapshot ID: `ZowxmwAAAADj42wEs4RTCDKBHN5zJdPH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,806 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,925 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 13 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 |
 | 14 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 |
 | 15 | [Der Zug hat keine Bremse \- Mallorcastyle Edition](https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Malle Anja](https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Der Zug hat keine Bremse \(Mallorcastyle Edition\)](https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ) | 3:27 |
-| 16 | [Inselfieber](https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS) | [Peter Wackel](https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb) | [Inselfieber](https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL) | 2:33 |
+| 16 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
 | 17 | [Easy Peasy](https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Fliesentisch Romantik 2](https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM) | 2:30 |
-| 18 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
+| 18 | [Inselfieber](https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS) | [Peter Wackel](https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb) | [Inselfieber](https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL) | 2:33 |
 | 19 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 |
 | 20 | [Das geht ab \- Wir feiern die ganze Nacht](https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:29 |
 | 21 | [Dicht im Flieger](https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Dicht im Flieger](https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32) | 3:45 |

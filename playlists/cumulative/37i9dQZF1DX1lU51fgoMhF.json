@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 187480,
       "name": "D N D",
       "url": "https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU"
@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "I SWAY",
+        "url": "https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "Klaxon",
+      "url": "https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X"
+    },
+    {
+      "album": {
         "name": "THE WAR - The 4th Album",
         "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
       },
@@ -3336,7 +3354,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
@@ -5615,6 +5633,42 @@
     },
     {
       "album": {
+        "name": "SUMMER",
+        "url": "https://open.spotify.com/album/6D2b7LdHoc6YhWf2Zx5M0Y"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/6QwgTML7rpE006H9ROG5mi"
+    },
+    {
+      "album": {
+        "name": "Summer Bliss",
+        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
+      },
+      "artists": [
+        {
+          "name": "JinE",
+          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Summer Bliss",
+      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
+    },
+    {
+      "album": {
         "name": "Golden Hourglass",
         "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
       },
@@ -5626,7 +5680,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 200493,
       "name": "Summer Comes",
       "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"

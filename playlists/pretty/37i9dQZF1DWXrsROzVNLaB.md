@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,632 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,633 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 68 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 69 | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ) | 5:18 |
 | 70 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
-| 71 | [No Other Fount](https://open.spotify.com/track/3WfrErJlUL5q0QOIGKt6N2) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [No Other Fount](https://open.spotify.com/album/0BsjnyYtOsW7k5axyDoBDM) | 4:31 |
+| 71 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 | 72 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
-| 73 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
+| 73 | [No Other Fount](https://open.spotify.com/track/3WfrErJlUL5q0QOIGKt6N2) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [No Other Fount](https://open.spotify.com/album/0BsjnyYtOsW7k5axyDoBDM) | 4:31 |
 | 74 | [That's Why They Call It Grace](https://open.spotify.com/track/1DW3R9YwHN54kirYuxbwQ5) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [For His Glory](https://open.spotify.com/album/0uoCXagv4rK7wK6EQMGIaO) | 4:12 |
 | 75 | [Death Was Arrested / He's Alive \- Live](https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Death Was Arrested / He's Alive \(Live\)](https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE) | 6:03 |
 

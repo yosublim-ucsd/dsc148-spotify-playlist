@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Fonseca y Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,017 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,013 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 35 | [Mosaico Lo de La Chula](https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Deja Que Te Cante](https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd) | 5:34 |
 | 36 | [Cartagena](https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Cartagena](https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM) | 2:54 |
 | 37 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 |
-| 38 | [Una Invitación](https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Desde Mi Ventana](https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV) | 3:22 |
+| 38 | [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 |
 | 39 | [Eso es mondar](https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [DJ Marimonda](https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl), [El Elvis Cienaguero](https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA) | [Eso es mondar](https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa) | 3:53 |
-| 40 | [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 |
+| 40 | [Una Invitación](https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Desde Mi Ventana](https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV) | 3:22 |
 | 41 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
 | 42 | [Chiquita](https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Benji Cordero](https://open.spotify.com/artist/5NhE1pgahei4POWw4cIzJ3) | [Chiquita](https://open.spotify.com/album/3D1ujCJShDaTaZIZhAFBch) | 2:28 |
 | 43 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |

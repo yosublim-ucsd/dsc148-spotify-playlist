@@ -4,7 +4,7 @@
 
 > Il rap è uno sport competitivo 🔥 Eminem in cover con Houdini 🧙
 
-659 songs - 1 day 10 hr 47 min
+660 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Ritz 2](https://open.spotify.com/track/7gkKXpSAY4uNWobueiuePa) | [Lucii](https://open.spotify.com/artist/3aa1GMnXua8XTpaTcozfKR), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Awakening](https://open.spotify.com/album/4gjlWGHZ9q456jS1YcM0WP) | 3:44 | 2022-07-01 | 2022-07-29 |
 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 | 2022-05-27 | 2022-08-09 |
 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 | 2022-05-13 | 2022-07-28 |
+| [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-05 |  |
 | [Rose](https://open.spotify.com/track/0zKUwqzRfyWv6hHn5ig2Wn) | [Larry](https://open.spotify.com/artist/0YqeL4iGLLNiwRXZvew1TM) | [Rose](https://open.spotify.com/album/4J2UYRV8faNq8KAKYnuplX) | 3:37 | 2023-03-30 | 2023-04-14 |
 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-24 | 2024-02-02 |
 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 | 2022-05-27 | 2023-12-08 |
@@ -662,7 +663,7 @@
 | [X](https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 2:00 | 2024-03-07 |  |
 | [X6 \(feat\. BIA\)](https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:54 | 2022-05-10 | 2022-07-29 |
 | [Ya Salam](https://open.spotify.com/track/7dlVtBCBmYt4Hl0fsQd9MP) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu), [YP](https://open.spotify.com/artist/4VSRwfbKJ1Vube1Vlbm80p), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq), [Sybka](https://open.spotify.com/artist/0wKWC4FXvBdk5b1m9eJWQO) | [Ya Salam](https://open.spotify.com/album/1KtfpysU1BtHrbhVPCHFFJ) | 3:51 | 2023-03-03 | 2023-03-11 |
-| [Yeah Glo!](https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo! \(Alternate Versions\)](https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx) | 2:22 | 2024-03-15 |  |
+| [Yeah Glo!](https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo! \(Alternate Versions\)](https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx) | 2:22 | 2024-03-15 | 2024-07-09 |
 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 |  |
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-10-20 | 2023-11-24 |
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 | 2024-04-27 |

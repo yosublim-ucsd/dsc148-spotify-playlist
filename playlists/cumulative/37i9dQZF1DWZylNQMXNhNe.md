@@ -4,10 +4,11 @@
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Carol Biazin
 
-176 songs - 8 hr 8 min
+177 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1+1 É Pouco](https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:37 | 2024-06-26 |  |
 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 | 2024-06-26 |  |
 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 | 2024-06-26 |  |
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-04-29 | 2024-06-27 |
@@ -174,7 +175,7 @@
 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 | 2023-02-10 | 2023-04-01 |
 | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ) | 2:00 | 2022-04-29 | 2024-06-27 |
 | [Vai Passar](https://open.spotify.com/track/5HT43fgoZ6rQZOMJzUqXEk) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Vai Passar](https://open.spotify.com/album/7JQ6MyS1hTp7CRKgEJh4P4) | 3:16 | 2022-04-29 | 2022-10-08 |
-| [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 | 2024-06-26 |  |
+| [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 | 2024-06-26 | 2024-07-09 |
 | [Vem Pra Tribo](https://open.spotify.com/track/1fEa0FwCrA9oLH6d4XbqPv) | [TriboQ](https://open.spotify.com/artist/3CD2SgS4OfPkbrldGW8UDr) | [Vem Pra Tribo](https://open.spotify.com/album/6cVZ6qUfB83fqx44Moh8Ck) | 2:13 | 2022-06-24 | 2022-07-23 |
 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-04-29 | 2024-06-27 |
 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 | 2022-04-29 | 2024-06-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,503 likes - 406 songs - 1 day 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,506 likes - 406 songs - 1 day 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 41 | [Lemon](https://open.spotify.com/track/4PpuH4mxL0rD35mOWaLoKS) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 3:39 |
 | 42 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
 | 43 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 |
-| 44 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 |
-| 45 | [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:22 |
+| 44 | [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:22 |
+| 45 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 |
 | 46 | [successful](https://open.spotify.com/track/5YeHLHDdQ4nKHk81XFWhCU) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:47 |
 | 47 | [Up There](https://open.spotify.com/track/2rKmNEYrQxaOPZrOWKZpOc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:14 |
 | 48 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 |
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 187 | [Provider](https://open.spotify.com/track/0W0eLsePQodsOy3IwY04BS) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:18 |
 | 188 | [Countin' Up](https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:30 |
 | 189 | [Don't Don't Do It!](https://open.spotify.com/track/2svutFGaCycRmYc1mWbfQh) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 4:17 |
-| 190 | [Trespassing](https://open.spotify.com/track/4rsGb4o15k3iUqfvOnoM9g) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:29 |
-| 191 | [Question](https://open.spotify.com/track/4Q27I5G3W14hnYVi45oi2h) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [A Question Of Balance](https://open.spotify.com/album/1TOvW3icPZmigoT9CrRav5) | 5:44 |
+| 190 | [Question](https://open.spotify.com/track/4Q27I5G3W14hnYVi45oi2h) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [A Question Of Balance](https://open.spotify.com/album/1TOvW3icPZmigoT9CrRav5) | 5:44 |
+| 191 | [Trespassing](https://open.spotify.com/track/4rsGb4o15k3iUqfvOnoM9g) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:29 |
 | 192 | [I Got the Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5Yfq9uugLFchtFymQQWxgt) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:46 |
 | 193 | [Bossman](https://open.spotify.com/track/3aHSF2U89PebbBFDx0VYv8) | [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [The Downtown Riddim](https://open.spotify.com/album/3x27ja7NU25Xm33xb9nwHU) | 3:38 |
 | 194 | [Hot\-n\-Fun](https://open.spotify.com/track/3o3kju9CMP1JxKsjLOpQhp) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 3:24 |
@@ -367,8 +367,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 357 | [Brain](https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 |
 | 358 | [Raspy Shit](https://open.spotify.com/track/7p0YjA21Bn42oqKESECqQD) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:34 |
 | 359 | [Excuse Me Miss](https://open.spotify.com/track/6yARHSUTgFimuEpkKI2TF6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee The 3rd Album Chapter 2\. 'Why So Serious? \- The Misconceptions Of Me'](https://open.spotify.com/album/0UqzNn2IEyWQVIuCXvzvIj) | 3:42 |
-| 360 | [There She Goes](https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:31 |
-| 361 | [Counterfeit](https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 |
+| 360 | [Counterfeit](https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 |
+| 361 | [There She Goes](https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:31 |
 | 362 | [Yeah You](https://open.spotify.com/track/1R7OWRWMGRqAqHfwabl149) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 4:05 |
 | 363 | [Stay With Me](https://open.spotify.com/track/2cSLkj6UYu4mXsu9VRtRh4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:06 |
 | 364 | [Young Girl / I Really Like You](https://open.spotify.com/track/3EzqVnMxII2pTmPaNRJUnD) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 8:13 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 405 | [Ghetto Children](https://open.spotify.com/track/52XCA6ZanL2yEHBmJogIUk) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Marc Dorsey](https://open.spotify.com/artist/7A9mIAVm7NGceBFJkbb612) | [Kaleidoscope](https://open.spotify.com/album/2QFua4q4idl0jgRavneYZ9) | 4:48 |
 | 406 | [If](https://open.spotify.com/track/68deyvfivX8kzvFfxJ0BdL) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Da Derrty Versions: The Re\-invention](https://open.spotify.com/album/3cSUd7H22DtZzvSUJkBIlM) | 3:38 |
 
-Snapshot ID: `AbWFjAAAAACipQeK+BJrVC3DTJuQcpvY`
+Snapshot ID: `AbWLLAAAAACdmkPgxfag6aoCxY5+1NoW`

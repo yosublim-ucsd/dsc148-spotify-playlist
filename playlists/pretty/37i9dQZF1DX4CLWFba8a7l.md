@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > The home of Australian music\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,148 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,190 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 41 | [Don't Know](https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Don't Know](https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26) | 2:12 |
 | 42 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
 | 43 | [Scary Movies](https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Scary Movies](https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur) | 3:15 |
-| 44 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 |
-| 45 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
+| 44 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
+| 45 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 |
 | 46 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
 | 47 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 |
 | 48 | [I Get High](https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J) | 4:20 |
 | 49 | [Wreck & Ruin](https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:25 |
 | 50 | [Snack](https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel) | [Snack](https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg) | 2:33 |
-| 51 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 |
-| 52 | [What You've Lost](https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [What You've Lost](https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8) | 2:51 |
+| 51 | [What You've Lost](https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [What You've Lost](https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8) | 2:51 |
+| 52 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 |
 | 53 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 |
 | 54 | [What If](https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG) | 3:38 |
 | 55 | [Miss You Still](https://open.spotify.com/track/0SarTtshZyZMdLB6KdClab) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Miss You Still](https://open.spotify.com/album/2Ji8E0Cm2RzoJWRNoKTJVt) | 2:30 |
@@ -69,18 +69,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 59 | [Breakup](https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS) | [Ashton Irwin](https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E) | [BLOOD ON THE DRUMS \(The Thorns\)](https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa) | 3:09 |
 | 60 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 |
 | 61 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 |
-| 62 | [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 |
+| 62 | [Minivan](https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH) | 4:12 |
 | 63 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 |
-| 64 | [Minivan](https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH) | 4:12 |
+| 64 | [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 |
 | 65 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
 | 66 | [Fingerprints](https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Fingerprints](https://open.spotify.com/album/6G5sqLGZw37y6V1ZsFQrBv) | 3:10 |
-| 67 | [Swarm](https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Swarm](https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko) | 2:42 |
-| 68 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
-| 69 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 |
+| 67 | [Take What You Want](https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o) | 4:05 |
+| 68 | [Swarm](https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Swarm](https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko) | 2:42 |
+| 69 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 70 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 |
-| 71 | [Loving Me Lover](https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Loving Me Lover](https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ) | 3:22 |
-| 72 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 |
-| 73 | [Take What You Want](https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o) | 4:05 |
+| 71 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 |
+| 72 | [Loving Me Lover](https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Loving Me Lover](https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ) | 3:22 |
+| 73 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 |
 | 74 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 |
 | 75 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 |
 

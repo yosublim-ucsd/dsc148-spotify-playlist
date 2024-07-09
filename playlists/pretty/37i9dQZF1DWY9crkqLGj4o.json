@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 417689,
+  "num_followers": 417694,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "EP Gabriela Rocha",
+        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Atos 2",
+      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Rompendo",
         "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "EP Gabriela Rocha",
-        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
+        "name": "Aline Barros - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 314746,
-      "name": "Atos 2",
-      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+      "duration_ms": 239815,
+      "name": "Sonda-me, Usa-me",
+      "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -695,22 +711,6 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Aline Barros - Gospel Collection Ao Vivo",
-        "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 239815,
-      "name": "Sonda-me, Usa-me",
-      "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
       "artists": [
         {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Damaris Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
-      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
+      "duration_ms": 239211,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -867,18 +863,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Damaris Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
         }
       ],
-      "duration_ms": 239211,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
+      "duration_ms": 215666,
+      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
+      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 337896,
+      "name": "Inexplic\u00e1vel Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
@@ -947,22 +967,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
+        "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         },
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 337896,
-      "name": "Inexplic\u00e1vel Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
+      "duration_ms": 306560,
+      "name": "Al\u00e9m do Rio Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -987,26 +1007,6 @@
       "duration_ms": 368346,
       "name": "Os Sonhos de Deus (feat. Luk\u00e3o Carvalho & Eli Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Al\u00e9m do Rio Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Preciso de Ti - Diante do Trono 4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
       },
       "artists": [
         {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 919733,
-      "name": "Preciso de Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
+      "duration_ms": 284862,
+      "name": "Casa do Pai",
+      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+        "name": "Preciso de Ti - Diante do Trono 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
         }
       ],
-      "duration_ms": 284862,
-      "name": "Casa do Pai",
-      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
+      "duration_ms": 919733,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
     },
     {
       "added_at": "2023-11-03 04:33:15",

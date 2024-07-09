@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,909 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,000 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 54 | [741 Hz Voice Unveiled](https://open.spotify.com/track/6S6iGO59lg5Lh1MsC9GPIf) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [741 Hz Voice Unveiled](https://open.spotify.com/album/6NYKUVr1koEQUOE2a82CI9) | 2:35 |
 | 55 | [Ferns](https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [Ferns](https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01) | 3:32 |
 
-Snapshot ID: `Zmif+QAAAACUzLB4l9EyYFtNRAVOoRTj`
+Snapshot ID: `Zovw+wAAAAACWTWJK4ZdVaTYGVwfPrvv`

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 343846,
+  "num_followers": 343965,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 291568,
       "name": "Money (with Tom Misch)",
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 138304,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 138304,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "o shit!",
+        "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 136822,
+      "name": "o shit!",
+      "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "Say Yes (feat. Rona Ray)",
         "url": "https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx"
       },
@@ -1347,26 +1363,6 @@
       "duration_ms": 157134,
       "name": "Say Yes (feat. Rona Ray)",
       "url": "https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
-        }
-      ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     }
   ],
   "unique_name": "Soultronic",

@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-96 songs - 6 hr 7 min
+97 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 | 2022-05-02 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-05-02 | 2024-04-23 |
 | [Huaka\`i](https://open.spotify.com/track/0ZAXFqWIT7Abz7RkXeMdFJ) | [Patrick Landeza](https://open.spotify.com/artist/7ujNPg1x9Q4n0CRNZ8JseP) | [Slack Key Huaka\`i](https://open.spotify.com/album/7hKvLXhooRXdqytXRZ6Ib7) | 3:26 | 2022-05-02 |  |
+| [In the Garden](https://open.spotify.com/track/2hMPlCT4F3nCyzuyo9rbjQ) | [Ike Kanakanui](https://open.spotify.com/artist/79gvzSsg8MyKN1uYGS0PtX) | [In the Garden](https://open.spotify.com/album/2IBgRUNWmDr2a7iY39BI2B) | 3:37 | 2024-07-08 |  |
 | [Ipo Lei Manu](https://open.spotify.com/track/4cXRygylIkwc1EgOJltbIw) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [Songs of Aloha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K) | 5:10 | 2023-12-15 | 2024-01-16 |
 | [Ipo Lei Manu](https://open.spotify.com/track/0j1rPE5I0707BqbolAyT0G) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key Guitar](https://open.spotify.com/album/7dgIUPKunBub5OYXGJf5UQ) | 5:10 | 2023-12-15 | 2024-04-19 |
 | [Ipo Lei Manu](https://open.spotify.com/track/3jFOru56OBjrH30UUBkGpT) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key Guitar](https://open.spotify.com/album/5zuoYfUizX3LXBgKPSyXEk) | 5:10 | 2022-05-02 | 2024-01-14 |

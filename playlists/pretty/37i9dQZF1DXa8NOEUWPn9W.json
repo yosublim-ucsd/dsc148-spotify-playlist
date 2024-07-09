@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Dom Dolla",
-  "num_followers": 1935719,
+  "num_followers": 1936254,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "Tom Breu",
-          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2024-07-05 05:45:37",
-      "album": {
         "name": "The Boy Is Mine",
         "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
+    },
+    {
+      "added_at": "2024-07-05 05:45:37",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
     },
     {
       "added_at": "2024-07-05 05:45:37",
@@ -1259,6 +1259,30 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "duration_ms": 226621,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+    },
+    {
+      "added_at": "2024-07-05 05:45:37",
+      "album": {
         "name": "TAKA",
         "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 216466,
       "name": "Life Lesson",
       "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
-    },
-    {
-      "added_at": "2024-07-05 05:45:37",
-      "album": {
-        "name": "In And Out Of Love",
-        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
-      },
-      "artists": [
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sharon Den Adel",
-          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
-        }
-      ],
-      "duration_ms": 226621,
-      "name": "In And Out Of Love",
-      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
       "added_at": "2024-07-05 05:45:37",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
-        "name": "No Sleep (6AM) (feat. MERYLL)",
-        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 146195,
-      "name": "No Sleep (6AM) (feat. MERYLL)",
-      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
-    },
-    {
-      "added_at": "2024-07-05 05:45:37",
-      "album": {
         "name": "Count On My Love",
         "url": "https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs"
       },
@@ -1679,18 +1659,22 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
-        "name": "All We Need (Deep Inside)",
-        "url": "https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9"
+        "name": "No Sleep (6AM) (feat. MERYLL)",
+        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 230669,
-      "name": "All We Need (Deep Inside)",
-      "url": "https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr"
+      "duration_ms": 146195,
+      "name": "No Sleep (6AM) (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
       "added_at": "2024-07-05 05:45:37",
@@ -1711,6 +1695,22 @@
       "duration_ms": 290737,
       "name": "Born In Blue",
       "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
+    },
+    {
+      "added_at": "2024-07-05 05:45:37",
+      "album": {
+        "name": "All We Need (Deep Inside)",
+        "url": "https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 230669,
+      "name": "All We Need (Deep Inside)",
+      "url": "https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr"
     },
     {
       "added_at": "2024-07-05 05:45:37",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
-        "name": "Down Low",
-        "url": "https://open.spotify.com/album/5eiUxoKxhfepSSdvIZjm70"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 213603,
-      "name": "Down Low",
-      "url": "https://open.spotify.com/track/7uRMCCWFz9ytLAq2c0dQBz"
-    },
-    {
-      "added_at": "2024-07-05 05:45:37",
-      "album": {
         "name": "Bitch, Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 157558,
       "name": "Bitch, Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
+      "added_at": "2024-07-05 05:45:37",
+      "album": {
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/5eiUxoKxhfepSSdvIZjm70"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 213603,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/7uRMCCWFz9ytLAq2c0dQBz"
     },
     {
       "added_at": "2024-07-05 05:45:37",
@@ -2039,30 +2039,6 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
-        "name": "Stay Together (Baby Baby) [feat. Vula]",
-        "url": "https://open.spotify.com/album/3RqBN822NxPDfCa6D7j33i"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        },
-        {
-          "name": "Vula",
-          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
-        }
-      ],
-      "duration_ms": 156022,
-      "name": "Stay Together (Baby Baby) [feat. Vula]",
-      "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"
-    },
-    {
-      "added_at": "2024-07-05 05:45:37",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
       },
@@ -2103,6 +2079,30 @@
       "duration_ms": 236987,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
+    },
+    {
+      "added_at": "2024-07-05 05:45:37",
+      "album": {
+        "name": "Stay Together (Baby Baby) [feat. Vula]",
+        "url": "https://open.spotify.com/album/3RqBN822NxPDfCa6D7j33i"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "Vula",
+          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
+        }
+      ],
+      "duration_ms": 156022,
+      "name": "Stay Together (Baby Baby) [feat. Vula]",
+      "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"
     },
     {
       "added_at": "2024-07-05 05:45:37",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/3IQzJXm1COvtQJrYTy0awn"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 214783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/1p4NbbxsvCLS7lE7NHBDO8"
+    },
+    {
+      "added_at": "2024-07-05 05:45:37",
+      "album": {
         "name": "Don't Abuse It",
         "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 200307,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
-    },
-    {
-      "added_at": "2024-07-05 05:45:37",
-      "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/3IQzJXm1COvtQJrYTy0awn"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 214783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/1p4NbbxsvCLS7lE7NHBDO8"
     },
     {
       "added_at": "2024-07-05 05:45:37",
@@ -2463,22 +2463,22 @@
     {
       "added_at": "2024-07-05 05:45:37",
       "album": {
-        "name": "Calling / Like A Train",
-        "url": "https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p"
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
         }
       ],
-      "duration_ms": 192191,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz"
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     }
   ],
   "unique_name": "Housewerk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Kasabian \(pictured\), Jessie Ware & Romy, beabadoobee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,359 likes - 117 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,355 likes - 117 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

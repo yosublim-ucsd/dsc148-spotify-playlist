@@ -1,6 +1,6 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: Son Tae Jin(\uc190\ud0dc\uc9c4) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 23903,
+  "num_followers": 23908,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
-      },
-      "artists": [
-        {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
-        }
-      ],
-      "duration_ms": 218688,
-      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
-      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
         "name": "Love call center PART35",
         "url": "https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ"
       },
@@ -911,6 +895,54 @@
       "duration_ms": 378040,
       "name": "Tralalala",
       "url": "https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
+        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
+      },
+      "artists": [
+        {
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+        }
+      ],
+      "duration_ms": 218688,
+      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
+      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ"
+      },
+      "artists": [
+        {
+          "name": "Park Sang-Chul",
+          "url": "https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Hwang Jini",
+      "url": "https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/2ChMOZqyHLYdPcgcXV4e4n"
+      },
+      "artists": [
+        {
+          "name": "HONG JIN YOUNG",
+          "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
+        }
+      ],
+      "duration_ms": 197195,
+      "name": "Ring Ring",
+      "url": "https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -935,38 +967,6 @@
       "duration_ms": 225880,
       "name": "Last night's story",
       "url": "https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
-        "name": "Ring Ring",
-        "url": "https://open.spotify.com/album/2ChMOZqyHLYdPcgcXV4e4n"
-      },
-      "artists": [
-        {
-          "name": "HONG JIN YOUNG",
-          "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
-        }
-      ],
-      "duration_ms": 197195,
-      "name": "Ring Ring",
-      "url": "https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ"
-      },
-      "artists": [
-        {
-          "name": "Park Sang-Chul",
-          "url": "https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Hwang Jini",
-      "url": "https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "Love call center PART20",
-        "url": "https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa"
-      },
-      "artists": [
-        {
-          "name": "Kang Jin",
-          "url": "https://open.spotify.com/artist/5mc03VYXi9l8YLw3Nbk4n4"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Jjin-iya",
-      "url": "https://open.spotify.com/track/6LXWQ8NJVjRIRDUShOxNjy"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
         "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
         "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 218894,
       "name": "\uc788\uc744\ub54c \uc798\ud574",
       "url": "https://open.spotify.com/track/2wXilNx41uugI1OgRWI3SC"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
+        "name": "Love call center PART20",
+        "url": "https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa"
+      },
+      "artists": [
+        {
+          "name": "Kang Jin",
+          "url": "https://open.spotify.com/artist/5mc03VYXi9l8YLw3Nbk4n4"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Jjin-iya",
+      "url": "https://open.spotify.com/track/6LXWQ8NJVjRIRDUShOxNjy"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1147,26 +1147,6 @@
       "duration_ms": 179226,
       "name": "Hwagae Market (guitar by Ham Chun Ho)",
       "url": "https://open.spotify.com/track/5XmV4Cf7UxDklnxI5P1H2Z"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
-        "name": "Andenayon...(Subtitle: no?)",
-        "url": "https://open.spotify.com/album/46zG4HcbAYXvgpxtrnc8N9"
-      },
-      "artists": [
-        {
-          "name": "Kim YoungChul",
-          "url": "https://open.spotify.com/artist/6PpuhpJOZ598rVzlvSj2Ea"
-        },
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 191916,
-      "name": "Andenayon (Feat. Wheesung(Realslow))",
-      "url": "https://open.spotify.com/track/6G3F8kZZn6nz8bRcPF1Qhs"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1195,6 +1175,26 @@
       "duration_ms": 300786,
       "name": "A song of hope",
       "url": "https://open.spotify.com/track/6vAexcl1CdP94yBiN5F6Fq"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
+        "name": "Andenayon...(Subtitle: no?)",
+        "url": "https://open.spotify.com/album/46zG4HcbAYXvgpxtrnc8N9"
+      },
+      "artists": [
+        {
+          "name": "Kim YoungChul",
+          "url": "https://open.spotify.com/artist/6PpuhpJOZ598rVzlvSj2Ea"
+        },
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 191916,
+      "name": "Andenayon (Feat. Wheesung(Realslow))",
+      "url": "https://open.spotify.com/track/6G3F8kZZn6nz8bRcPF1Qhs"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Follow Me (Prod. by Young Tak)",
+      "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
         "name": "MISS TROT2 PRELIMINARY BEST PART1",
         "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 186383,
       "name": "LOVE IS A FLOWER OF LIFE",
       "url": "https://open.spotify.com/track/1TncfbVa7r8xGksPcOYAEp"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Follow Me (Prod. by Young Tak)",
-      "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "Read and Ignored",
-        "url": "https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp"
-      },
-      "artists": [
-        {
-          "name": "Jang Minho",
-          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Read and Ignored (Prod. Young Tak)",
-      "url": "https://open.spotify.com/track/1qMvWFcU6YiXbwxLIuiOgB"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
         "name": "Love call center PART13",
         "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 195653,
       "name": "Wild bee",
       "url": "https://open.spotify.com/track/3cgVvdEtEiUWj9pOuFOyWX"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
+        "name": "Read and Ignored",
+        "url": "https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "Read and Ignored (Prod. Young Tak)",
+      "url": "https://open.spotify.com/track/1qMvWFcU6YiXbwxLIuiOgB"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "Love call center PART13",
-        "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
+        "name": "Music source of Mr.Trot LEGEND MISSION BEST",
+        "url": "https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO"
       },
       "artists": [
         {
-          "name": "Jang Minho",
-          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
         }
       ],
-      "duration_ms": 206786,
-      "name": "Barefooted youth",
-      "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
+      "duration_ms": 216640,
+      "name": "You who are going back to memory",
+      "url": "https://open.spotify.com/track/3Q6fKLUJO8j0DoCMSAYHzn"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1523,22 +1523,6 @@
       "duration_ms": 93693,
       "name": "Hundred years life",
       "url": "https://open.spotify.com/track/7FkiW99F7MhDsyCqW7uYWP"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
-        "name": "Music source of Mr.Trot LEGEND MISSION BEST",
-        "url": "https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO"
-      },
-      "artists": [
-        {
-          "name": "YOUNGTAK",
-          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "You who are going back to memory",
-      "url": "https://open.spotify.com/track/3Q6fKLUJO8j0DoCMSAYHzn"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
+        "name": "Love call center PART13",
+        "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Barefooted youth",
+      "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
         "name": "Southbound train",
         "url": "https://open.spotify.com/album/0croexQIRJCR76TvDs4E3Q"
       },
@@ -1643,34 +1643,18 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "Music source of Mr.Trot FINAL BEST",
-        "url": "https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk"
+        "name": "\uc8fc\uc5f0\ubc30\uc6b0",
+        "url": "https://open.spotify.com/album/5Cy4zdWCMNjZAHw8PfREg3"
       },
       "artists": [
         {
-          "name": "Jang Minho",
-          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Reverse life:Poor man",
-      "url": "https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0"
-    },
-    {
-      "added_at": "2024-06-17 10:19:20",
-      "album": {
-        "name": "DAWN (SIX STORIES)",
-        "url": "https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE"
-      },
-      "artists": [
-        {
-          "name": "Na Hoon-A",
-          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
-        }
-      ],
-      "duration_ms": 196013,
-      "name": "Such a nonsensical Love (Kakao talk)",
-      "url": "https://open.spotify.com/track/1XABjBzFVOr8mrs3mmMJAA"
+      "duration_ms": 242840,
+      "name": "\uc8fc\uc5f0\ubc30\uc6b0",
+      "url": "https://open.spotify.com/track/2WvMxYFta5a97cZvTTyATa"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "MISS TROT2 Team Mission BEST",
-        "url": "https://open.spotify.com/album/2boKluSGypyQmx614Xktvj"
+        "name": "DAWN (SIX STORIES)",
+        "url": "https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE"
       },
       "artists": [
         {
-          "name": "Elementary Team (Subin's seven sisters)",
-          "url": "https://open.spotify.com/artist/2ELhUCkMqHAg0qNc8CumTP"
+          "name": "Na Hoon-A",
+          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
         }
       ],
-      "duration_ms": 172773,
-      "name": "Hani Hani",
-      "url": "https://open.spotify.com/track/2nkhWkwPdA80IM5G0ezKCv"
+      "duration_ms": 196013,
+      "name": "Such a nonsensical Love (Kakao talk)",
+      "url": "https://open.spotify.com/track/1XABjBzFVOr8mrs3mmMJAA"
     },
     {
       "added_at": "2024-06-17 10:19:20",
@@ -1747,34 +1731,50 @@
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "\uc8fc\uc5f0\ubc30\uc6b0",
-        "url": "https://open.spotify.com/album/5Cy4zdWCMNjZAHw8PfREg3"
+        "name": "MISS TROT2 Team Mission BEST",
+        "url": "https://open.spotify.com/album/2boKluSGypyQmx614Xktvj"
       },
       "artists": [
         {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+          "name": "Elementary Team (Subin's seven sisters)",
+          "url": "https://open.spotify.com/artist/2ELhUCkMqHAg0qNc8CumTP"
         }
       ],
-      "duration_ms": 242840,
-      "name": "\uc8fc\uc5f0\ubc30\uc6b0",
-      "url": "https://open.spotify.com/track/2WvMxYFta5a97cZvTTyATa"
+      "duration_ms": 172773,
+      "name": "Hani Hani",
+      "url": "https://open.spotify.com/track/2nkhWkwPdA80IM5G0ezKCv"
     },
     {
       "added_at": "2024-06-17 10:19:20",
       "album": {
-        "name": "Homemade Love Story (Original Television Soundtrack) Pt. 17",
-        "url": "https://open.spotify.com/album/6unt9onNOos6DcQSvoie7t"
+        "name": "THE SONG OF LOVE",
+        "url": "https://open.spotify.com/album/66w0X6rK91G89JqroIZQoS"
       },
       "artists": [
         {
-          "name": "\uc2e0\uc720",
-          "url": "https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK"
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
         }
       ],
-      "duration_ms": 194125,
-      "name": "nice",
-      "url": "https://open.spotify.com/track/1EfL5QJBly1HLNwaNYLWHY"
+      "duration_ms": 184213,
+      "name": "Rainy Mt. Geumgang",
+      "url": "https://open.spotify.com/track/4c6V39usriyh0y9syFURjE"
+    },
+    {
+      "added_at": "2024-06-17 10:19:20",
+      "album": {
+        "name": "Music source of Mr.Trot FINAL BEST",
+        "url": "https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Reverse life:Poor man",
+      "url": "https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0"
     }
   ],
   "unique_name": "K-Trot Stars",

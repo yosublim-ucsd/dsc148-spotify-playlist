@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music every week! Cover: Olivia Dean
+> New soul\-infused music! Cover: Olivia Dean
 
 942 songs - 2 day 9 hr 39 min
 

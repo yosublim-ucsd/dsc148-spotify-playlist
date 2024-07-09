@@ -1270,6 +1270,24 @@
     {
       "album": {
         "name": "Dindi",
+        "url": "https://open.spotify.com/album/5kc4wjFil80jbDMxu31U5A"
+      },
+      "artists": [
+        {
+          "name": "Dattie Do",
+          "url": "https://open.spotify.com/artist/0bOcMYK1dhnV0crtCTrqBm"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350890,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/54uGMwgBIycEGFL0vFlLqs"
+    },
+    {
+      "album": {
+        "name": "Dindi",
         "url": "https://open.spotify.com/album/0TfJkb6NSFDo2I89wGmiac"
       },
       "artists": [
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 226474,
       "name": "Eat It Too",
       "url": "https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez"
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 264751,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA"
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249453,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu"
@@ -4500,7 +4518,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 168218,
       "name": "Orange-coloured day",
       "url": "https://open.spotify.com/track/7cIzH5nBtAMGX7woHj0ubJ"
@@ -4646,7 +4664,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
@@ -6094,7 +6112,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X"
@@ -6548,7 +6566,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 222533,
       "name": "Wild Is Love",
       "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Lake Street Dive
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,336 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,339 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [OMG](https://open.spotify.com/track/1BWfBlp8iDl2moH11H8uT1) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [OMG](https://open.spotify.com/album/7gF4FonOZVm7DXUEh9uNdC) | 3:19 |
 | 100 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 |
 
-Snapshot ID: `ZmKFwAAAAAB1UkZumnYc7l4XopeGRPr9`
+Snapshot ID: `Zow4BAAAAAC9bao9bLzeTFG6tAfK/26W`

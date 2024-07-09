@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Welcome to the BTS's universe\. H appy BTS Festa A.R.M.Y 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,817,547 likes - 263 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,817,500 likes - 263 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

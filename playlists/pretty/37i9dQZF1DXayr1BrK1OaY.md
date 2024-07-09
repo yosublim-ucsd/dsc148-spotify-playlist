@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,258 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,294 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 78 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
 | 79 | [Heartbreak](https://open.spotify.com/track/0Gbpzzf8oLuFNSLYAvov3I) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh) | 2:24 |
 | 80 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
-| 81 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
-| 82 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
+| 81 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
+| 82 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 83 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
 | 84 | [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 |
 | 85 | [not sorry](https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [not sorry](https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn) | 3:10 |
@@ -124,14 +124,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 114 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 |
 | 115 | [Is It Love \- goddard\. Remix](https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Is It Love \(goddard\. Remix\)](https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh) | 2:38 |
 | 116 | [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 |
-| 117 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 |
-| 118 | [LOVE U BETTER](https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [LOVE U BETTER](https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b) | 2:40 |
+| 117 | [LOVE U BETTER](https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [LOVE U BETTER](https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b) | 2:40 |
+| 118 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 |
 | 119 | [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 |
 | 120 | [Release](https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Release](https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC) | 3:13 |
-| 121 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
-| 122 | [Love Letter](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 |
+| 121 | [Love Letter](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 |
+| 122 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 123 | [I Forgot What's Love](https://open.spotify.com/track/6ieN3wcNaehATjOSz2V4Aj) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [I Forgot What's Love](https://open.spotify.com/album/45eRQGLZ0inlwczmzfnHCh) | 3:22 |
-| 124 | [Heavy With Hoping](https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:01 |
-| 125 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
+| 124 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
+| 125 | [Heavy With Hoping](https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:01 |
 
 Snapshot ID: `ZogM6gAAAAB1iqwU4mOQ4fM1SI5QUNak`

@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 43865,
+  "num_followers": 43882,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Parque De Depresiones",
-        "url": "https://open.spotify.com/album/3RhgCYHq0Jae6cH6rNCbBC"
+        "name": "La Ciudad Liberada",
+        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 217359,
-      "name": "Me est\u00e1s tratando mal",
-      "url": "https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka"
+      "duration_ms": 252867,
+      "name": "Tu Vida Mi Vida",
+      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "La Ciudad Liberada",
-        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
+        "name": "Parque De Depresiones",
+        "url": "https://open.spotify.com/album/3RhgCYHq0Jae6cH6rNCbBC"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 252867,
-      "name": "Tu Vida Mi Vida",
-      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
+      "duration_ms": 217359,
+      "name": "Me est\u00e1s tratando mal",
+      "url": "https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "El Club De Los Martes",
+        "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Se te nota",
+      "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Parque Acu\u00e1tico",
         "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
       },
@@ -1159,26 +1175,6 @@
       "duration_ms": 172646,
       "name": "Parque Acu\u00e1tico",
       "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "No Fue",
-        "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 195844,
-      "name": "No Fue",
-      "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
     }
   ],
   "unique_name": "Los 2010 Argentina",

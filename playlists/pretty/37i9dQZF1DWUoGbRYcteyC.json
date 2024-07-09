@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1990535,
+  "num_followers": 1990467,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn279gAAAADdhTyw0+bdGlnjG/ClbdoW",
+  "snapshot_id": "Zowj5gAAAAAyom3i1g3+v3uC1d8W65Kr",
   "tracks": [
     {
       "added_at": "2024-06-27 19:22:30",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-27 19:22:30",
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 236448,
-      "name": "Amarte Tanto",
-      "url": "https://open.spotify.com/track/0cnb2iNrenKOGosJzKKE1p"
-    },
-    {
-      "added_at": "2024-06-27 19:22:30",
-      "album": {
         "name": "Los Besos",
         "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 202733,
       "name": "Los Besos",
       "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
+    },
+    {
+      "added_at": "2024-06-27 19:22:30",
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 236448,
+      "name": "Amarte Tanto",
+      "url": "https://open.spotify.com/track/0cnb2iNrenKOGosJzKKE1p"
     },
     {
       "added_at": "2024-06-27 19:22:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-27 19:22:30",
       "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
-    },
-    {
-      "added_at": "2024-06-27 19:22:30",
-      "album": {
         "name": "Paraca\u00eddas",
         "url": "https://open.spotify.com/album/0ordq0iFB7VYOYhdl8ElTZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 220647,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
+    },
+    {
+      "added_at": "2024-06-27 19:22:30",
+      "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
     }
   ],
   "unique_name": "Amor Amor",

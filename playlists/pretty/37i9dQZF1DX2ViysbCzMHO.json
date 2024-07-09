@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 155608,
+  "num_followers": 155652,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-05 21:13:03",
       "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Simple Things - Piano Version",
-      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
-    },
-    {
-      "added_at": "2024-07-05 21:13:03",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": "2024-07-05 21:13:03",
+      "album": {
+        "name": "Simple Things (Piano Version)",
+        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Simple Things - Piano Version",
+      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
     },
     {
       "added_at": "2024-07-05 21:13:03",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-07-05 21:13:03",
       "album": {
-        "name": "Live From Echo Mountain",
-        "url": "https://open.spotify.com/album/1bALhDEJ1lpNzqbhiObQim"
+        "name": "Slow Dance In A Parking Lot (Acoustic)",
+        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
       "artists": [
         {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 233442,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/1EnisnWLM0Zaoshg2zuoMl"
+      "duration_ms": 178285,
+      "name": "Slow Dance In A Parking Lot - Acoustic",
+      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
     },
     {
       "added_at": "2024-07-05 21:13:03",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-07-05 21:13:03",
       "album": {
-        "name": "Slow Dance In A Parking Lot (Acoustic)",
-        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
+        "name": "Live From Echo Mountain",
+        "url": "https://open.spotify.com/album/1bALhDEJ1lpNzqbhiObQim"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Slow Dance In A Parking Lot - Acoustic",
-      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+      "duration_ms": 233442,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/1EnisnWLM0Zaoshg2zuoMl"
     },
     {
       "added_at": "2024-07-05 21:13:03",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 21:13:03",
       "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
-    },
-    {
-      "added_at": "2024-07-05 21:13:03",
-      "album": {
         "name": "World on Fire (Bonfire Version)",
         "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 185915,
       "name": "World on Fire - Bonfire Version",
       "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
+    },
+    {
+      "added_at": "2024-07-05 21:13:03",
+      "album": {
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2024-07-05 21:13:03",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-05 21:13:03",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
-    },
-    {
-      "added_at": "2024-07-05 21:13:03",
-      "album": {
         "name": "Gone Too Soon (Acoustic)",
         "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 167469,
       "name": "Gone Too Soon - Acoustic",
       "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+    },
+    {
+      "added_at": "2024-07-05 21:13:03",
+      "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
       "added_at": "2024-07-05 21:13:03",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 21:13:03",
       "album": {
-        "name": "Put It In A Song",
-        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Put It In A Song",
-      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
-    },
-    {
-      "added_at": "2024-07-05 21:13:03",
-      "album": {
         "name": "Narcissist (Piano Version)",
         "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 153186,
       "name": "Narcissist - Piano Version",
       "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2024-07-05 21:13:03",
+      "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
     },
     {
       "added_at": "2024-07-05 21:13:03",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-05 21:13:03",
       "album": {
-        "name": "Gonna Love You (Alternate Versions)",
-        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Gonna Love You - Acoustic",
-      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
-    },
-    {
-      "added_at": "2024-07-05 21:13:03",
-      "album": {
         "name": "Creek Will Rise (Acoustic)",
         "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+    },
+    {
+      "added_at": "2024-07-05 21:13:03",
+      "album": {
+        "name": "Gonna Love You (Alternate Versions)",
+        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Gonna Love You - Acoustic",
+      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
     },
     {
       "added_at": "2024-07-05 21:13:03",

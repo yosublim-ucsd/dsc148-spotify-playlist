@@ -4481,6 +4481,32 @@
     },
     {
       "album": {
+        "name": "Wild Wild Punjab",
+        "url": "https://open.spotify.com/album/1RXkTxa6wbimsNUk053fKY"
+      },
+      "artists": [
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Saurabh Vaibhav",
+          "url": "https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl"
+        },
+        {
+          "name": "Harsh Tyagi",
+          "url": "https://open.spotify.com/artist/5mXhRPfoqXmyvoy6uepCvH"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Suttebaaz Haseena",
+      "url": "https://open.spotify.com/track/5FUGJeS2VGFPc8JAP1SUgs"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU"
       },
@@ -4514,6 +4540,32 @@
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Viah",
+        "url": "https://open.spotify.com/album/2M0I96CdB670s6tDzGJynC"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        },
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tera Mera Viah",
+      "url": "https://open.spotify.com/track/3TG0iwvXpzFbFck6d2Xlpw"
     },
     {
       "album": {

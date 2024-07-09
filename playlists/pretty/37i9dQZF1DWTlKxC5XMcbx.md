@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,711 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,710 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 55 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 |
 | 56 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 |
 | 57 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 |
-| 58 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 |
-| 59 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 |
+| 58 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 |
+| 59 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 |
 | 60 | [Mule \- Remastered](https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 6:56 |
 | 61 | [Ernie's Tune](https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 4:16 |
 | 62 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano & Bass\)](https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [PianoBasso](https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7) | [Tranquillo II](https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3) | 3:32 |
-| 63 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 |
-| 64 | [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 |
+| 63 | [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 |
+| 64 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 |
 | 65 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 |
 | 66 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 |
-| 67 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
-| 68 | [The Third One](https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w) | [Svante Söderqvist](https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Tuulikki Bartosik](https://open.spotify.com/artist/7axlscQPz3DMimClh92oaS) | [The Rocket](https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo) | 5:10 |
+| 67 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
+| 68 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
 | 69 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
-| 70 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
+| 70 | [The Third One](https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w) | [Svante Söderqvist](https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Tuulikki Bartosik](https://open.spotify.com/artist/7axlscQPz3DMimClh92oaS) | [The Rocket](https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo) | 5:10 |
 | 71 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 | 72 | [My Funny Valentine](https://open.spotify.com/track/3AeIbfjydFf46N27feEFri) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 4:06 |
 | 73 | [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 |
 | 74 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 |
 | 75 | [One Quiet Night](https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 5:01 |
 
-Snapshot ID: `ZnjOJwAAAABr6Nx9GwPeEKrSQzfjuv6d`
+Snapshot ID: `ZotTkwAAAADMIgb7ELZadJOsElLGE127`

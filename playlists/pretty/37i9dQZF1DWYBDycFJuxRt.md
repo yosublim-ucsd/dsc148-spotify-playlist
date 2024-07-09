@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: YOASOBI \*👉 <a href="https://spice.eplus.jp/articles/330091?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,353 likes - 88 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,366 likes - 88 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 15 | [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 |
 | 16 | [EVERY HOUR](https://open.spotify.com/track/7uT5F80Qca7dha4tXlN1Xd) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [EVERY HOUR](https://open.spotify.com/album/1ubUasn6ja0uSJEHLGvgRr) | 3:03 |
 | 17 | [白夜](https://open.spotify.com/track/3BzSqfq84RIguqdpPmI3qg) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [白夜](https://open.spotify.com/album/4vWQqpZ0DDIEsFwqfDcOAE) | 3:11 |
-| 18 | [欲張 feat\. Jin Dogg](https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [欲張 feat\. Jin Dogg](https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia) | 3:40 |
+| 18 | [欲張 feat\. Jin Dogg](https://open.spotify.com/track/5b7fhU4Gb6GrpiSnhxhHFK) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [欲張 feat\. Jin Dogg](https://open.spotify.com/album/65OjM4LysvU8PqTo5PBaia) | 3:39 |
 | 19 | [MITEMINA](https://open.spotify.com/track/3TNfPpEZWNllf7Amb8xX4Z) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [MITEMINA](https://open.spotify.com/album/42KpKZkzEWVp0zSEVJxok8) | 3:32 |
 | 20 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
 | 21 | [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 |

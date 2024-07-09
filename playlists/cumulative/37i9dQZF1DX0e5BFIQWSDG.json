@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:TOQUEL",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light, Hawk",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 180981,
       "name": "GIA SENA",
       "url": "https://open.spotify.com/track/3Y4tIU0V061Qq0eQwUwSJt"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 175700,
       "name": "Grammes",
       "url": "https://open.spotify.com/track/0FT7EsckLHPVdfx9K3dwj2"
@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Kamia San Esena",
+        "url": "https://open.spotify.com/album/7KyJEwhI6F7QwghNe88c8U"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190336,
+      "name": "Kamia San Esena",
+      "url": "https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0"
+    },
+    {
+      "album": {
         "name": "KSIRASIA",
         "url": "https://open.spotify.com/album/7sh9ZtpnyLT9anmYqOSxAY"
       },
@@ -490,7 +508,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 208111,
       "name": "KSIRASIA",
       "url": "https://open.spotify.com/track/6y5Nb8Op1TgWCJk1yxeFG8"
@@ -519,6 +537,24 @@
     },
     {
       "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/61nNIzXToDj4oTzW5MtaSI"
+      },
+      "artists": [
+        {
+          "name": "Melisses",
+          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185168,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3tQrKUTDaEu6pDGVkgdO3Q"
+    },
+    {
+      "album": {
         "name": "P.O.P.",
         "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
       },
@@ -530,7 +566,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 172153,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP"
@@ -560,6 +596,24 @@
       "duration_ms": 172500,
       "name": "MA BELLA",
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
+    },
+    {
+      "album": {
+        "name": "MAQUO",
+        "url": "https://open.spotify.com/album/7s4zPalLZZLVWyQXAsoAzb"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "MAQUO",
+      "url": "https://open.spotify.com/track/1Cf69HHda0Tqd1IP8AHUAA"
     },
     {
       "album": {
@@ -933,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Romanzo Criminale",
+        "url": "https://open.spotify.com/album/1RMU0yKJRr0VG1jUdXx9PN"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233009,
+      "name": "Romanzo Criminale",
+      "url": "https://open.spotify.com/track/3nwkz9CX6H0Qie8ehtmyON"
+    },
+    {
+      "album": {
         "name": "S' Agapao Giati",
         "url": "https://open.spotify.com/album/6DdRDf4kUgTC1D9kKFVTRa"
       },
@@ -969,6 +1045,36 @@
     },
     {
       "album": {
+        "name": "SOUKOU",
+        "url": "https://open.spotify.com/album/2dvoZNko18fOtSL1X2PEiz"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/72zZ87G4L9Lfx0mstygJVE"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Mc Daddy",
+          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160210,
+      "name": "SOUKOU",
+      "url": "https://open.spotify.com/track/4PsVvvUDG0Fg5iG6P41JDF"
+    },
+    {
+      "album": {
         "name": "Mia Kaseta Gia Ton Dromo",
         "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
       },
@@ -1002,10 +1108,54 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 165125,
       "name": "Teleia Sxesh",
       "url": "https://open.spotify.com/track/3ze6LTsfPjdMtEpnaQaU1Z"
+    },
+    {
+      "album": {
+        "name": "Tipota Tiheo",
+        "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167310,
+      "name": "Tipota Tiheo",
+      "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
+    },
+    {
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "album": {
@@ -1126,7 +1276,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 180979,
       "name": "ZARI",
       "url": "https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW"

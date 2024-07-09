@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,131 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,423 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 48 | [Runnin \(with A$AP Rocky, A$AP Ferg & Nicki Minaj\)](https://open.spotify.com/track/23dwrzeJtEEGl2U4CPWSor) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 2:11 |
 | 49 | [Truffle Butter](https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 3:40 |
 | 50 | [Do You Mind \(feat\. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross\)](https://open.spotify.com/track/6ezg5Mm5UEEi3Oqsbb7Cjn) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Major Key](https://open.spotify.com/album/6ZQyMrmlg95L8gy63Pnm33) | 5:25 |
-| 51 | [Save Me](https://open.spotify.com/track/1hn9nQ8TR8Le4EpHN2oCyE) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:05 |
-| 52 | [2012 \(It Ain't The End\)](https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [2012 \(It Ain't The End\)](https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr) | 3:42 |
+| 51 | [2012 \(It Ain't The End\)](https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [2012 \(It Ain't The End\)](https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr) | 3:42 |
+| 52 | [Save Me](https://open.spotify.com/track/1hn9nQ8TR8Le4EpHN2oCyE) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:05 |
 
-Snapshot ID: `ZoiJAAAAAADqKFlnNWPntyEOZIB7iWOf`
+Snapshot ID: `ZonagAAAAACKoP5+wGGXX+px0lmDUJv2`

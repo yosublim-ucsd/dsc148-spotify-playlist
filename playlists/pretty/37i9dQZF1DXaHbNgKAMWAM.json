@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 15613,
+  "num_followers": 15617,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,42 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
+        "name": "WONDO Project : LOVE RECIPE, Vol.1",
+        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "LOVE RECIPE",
+      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
+    },
+    {
+      "added_at": "2024-07-04 09:44:59",
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+    },
+    {
+      "added_at": "2024-07-04 09:44:59",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -315,22 +351,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2024-07-04 09:44:59",
-      "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2024-07-04 09:44:59",
@@ -435,22 +455,6 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
-        "name": "Some Day in the 21century",
-        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Some Day in the 21century",
-      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
-    },
-    {
-      "added_at": "2024-07-04 09:44:59",
-      "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
@@ -467,22 +471,18 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
-        "name": "WONDO Project : LOVE RECIPE, Vol.1",
-        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
+        "name": "Some Day in the 21century",
+        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
       },
       "artists": [
         {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
         }
       ],
-      "duration_ms": 231386,
-      "name": "LOVE RECIPE",
-      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
+      "duration_ms": 235320,
+      "name": "Some Day in the 21century",
+      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
     },
     {
       "added_at": "2024-07-04 09:44:59",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-04 09:44:59",
       "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
+    },
+    {
+      "added_at": "2024-07-04 09:44:59",
+      "album": {
         "name": "IN-OUT",
         "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 195293,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
-    },
-    {
-      "added_at": "2024-07-04 09:44:59",
-      "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2024-07-04 09:44:59",

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1886249,
+  "num_followers": 1886721,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmMPowAAAAA3cFl2vTK/5aF6QxU/V1CB",
+  "snapshot_id": "Zow0hQAAAACUOL2eyZ5UXzfM1eWeGXK9",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2024-03-21 16:46:52",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -341,38 +341,6 @@
       "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Love Me Like a Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
-    },
-    {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
-    },
-    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "T-Bone Blues",
@@ -387,6 +355,38 @@
       "duration_ms": 228626,
       "name": "T-Bone Blues",
       "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -503,22 +503,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Koko Taylor",
         "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 182826,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -597,20 +581,20 @@
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Earthshaker",
-        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 274506,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -627,6 +611,22 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "The Earthshaker",
+        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Ain't Got Nobody",
-      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Easy Blues (France, 1978) [Blues Reference]",
@@ -931,6 +915,22 @@
       "duration_ms": 252133,
       "name": "Short Dressed Woman",
       "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -967,22 +967,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Otis Rush",
         "url": "https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 163440,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
     },
     {
       "added_at": "2020-01-15 21:29:46",

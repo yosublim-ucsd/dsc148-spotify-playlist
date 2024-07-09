@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Felix Jaehn, Sophie Ellis\-Bextor
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,457 likes - 91 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,591 likes - 91 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23860,
+  "num_followers": 23858,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAlYY32gTBvBJXckpPeV/iAVH3CWUmV",
+  "snapshot_id": "AAAlZ2c6bBqDin71e4VSvGOxpBt3zKvp",
   "tracks": [
     {
       "added_at": "2024-06-14 22:54:15",
@@ -31,6 +31,62 @@
       "duration_ms": 147533,
       "name": "Gerskiway",
       "url": "https://open.spotify.com/track/0BJXaODE8YHcS0wInGHewf"
+    },
+    {
+      "added_at": "2024-07-03 00:42:13",
+      "album": {
+        "name": "Saucefather 2",
+        "url": "https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "duration_ms": 202764,
+      "name": "304 Bounty Hunter",
+      "url": "https://open.spotify.com/track/6bKfmcaYXhH63U0kfpzTyL"
+    },
+    {
+      "added_at": "2024-07-03 00:42:47",
+      "album": {
+        "name": "TIP TOE",
+        "url": "https://open.spotify.com/album/0ueP3SY22S6mvhNRcWt1qw"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        }
+      ],
+      "duration_ms": 148503,
+      "name": "TIP TOE",
+      "url": "https://open.spotify.com/track/4KDJTUDQlHarTz5bbqg5My"
+    },
+    {
+      "added_at": "2024-07-08 22:53:34",
+      "album": {
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/2LpiY0h2ADiLXKLneZmgeh"
+      },
+      "artists": [
+        {
+          "name": "Big Moochie Grape",
+          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/1DmbDTBBaLpTldCBwZiMLo"
     },
     {
       "added_at": "2024-06-01 00:50:09",
@@ -111,6 +167,50 @@
       "duration_ms": 147586,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7yZB6fEE2uQdo1TSTCLAtj"
+    },
+    {
+      "added_at": "2024-07-08 22:54:12",
+      "album": {
+        "name": "practice!",
+        "url": "https://open.spotify.com/album/1gmLgmhof4wffGTnsqJXv2"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 143751,
+      "name": "practice!",
+      "url": "https://open.spotify.com/track/5VfP1gMYKqIX9kmpzPsxDA"
+    },
+    {
+      "added_at": "2024-07-08 22:54:22",
+      "album": {
+        "name": "Rich Today (feat. Polyester the Saint)",
+        "url": "https://open.spotify.com/album/4z6ao9BaKvmowyzqFawxRp"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Polyester the Saint",
+          "url": "https://open.spotify.com/artist/2i59qMkZ79k8WTLV6gMJXY"
+        }
+      ],
+      "duration_ms": 139157,
+      "name": "Rich Today (feat. Polyester the Saint)",
+      "url": "https://open.spotify.com/track/7FVspRnDzSrT9NQbQACkmF"
     },
     {
       "added_at": "2024-06-14 22:53:15",
@@ -1595,42 +1695,6 @@
       "duration_ms": 151548,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz"
-    },
-    {
-      "added_at": "2024-07-03 00:42:13",
-      "album": {
-        "name": "Saucefather 2",
-        "url": "https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw"
-      },
-      "artists": [
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        }
-      ],
-      "duration_ms": 202764,
-      "name": "304 Bounty Hunter",
-      "url": "https://open.spotify.com/track/6bKfmcaYXhH63U0kfpzTyL"
-    },
-    {
-      "added_at": "2024-07-03 00:42:47",
-      "album": {
-        "name": "TIP TOE",
-        "url": "https://open.spotify.com/album/0ueP3SY22S6mvhNRcWt1qw"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        }
-      ],
-      "duration_ms": 148503,
-      "name": "TIP TOE",
-      "url": "https://open.spotify.com/track/4KDJTUDQlHarTz5bbqg5My"
     }
   ],
   "unique_name": "Fresh Out",

@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 986595,
+  "num_followers": 986983,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-05 16:41:45",
       "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 170804,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/1EtuMOssvtZhPEWPB3VWzw"
+    },
+    {
+      "added_at": "2024-07-05 16:41:45",
+      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
-    },
-    {
-      "added_at": "2024-07-05 16:41:45",
-      "album": {
-        "name": "Where Are You Going?",
-        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 170804,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/1EtuMOssvtZhPEWPB3VWzw"
     },
     {
       "added_at": "2024-07-05 16:41:45",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-05 16:41:45",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 239604,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
-    },
-    {
-      "added_at": "2024-07-05 16:41:45",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 338066,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ"
+    },
+    {
+      "added_at": "2024-07-05 16:41:45",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 239604,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
     },
     {
       "added_at": "2024-07-05 16:41:45",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-07-05 16:41:45",
       "album": {
-        "name": "Need To Talk (Kordz Remix)",
-        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
-      },
-      "artists": [
-        {
-          "name": "Creams",
-          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
-        },
-        {
-          "name": "kordz",
-          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Need To Talk - Kordz Remix",
-      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
-    },
-    {
-      "added_at": "2024-07-05 16:41:45",
-      "album": {
         "name": "Your Touch",
         "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 206394,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
+    },
+    {
+      "added_at": "2024-07-05 16:41:45",
+      "album": {
+        "name": "Need To Talk (Kordz Remix)",
+        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        },
+        {
+          "name": "kordz",
+          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Need To Talk - Kordz Remix",
+      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
     },
     {
       "added_at": "2024-07-05 16:41:45",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-07-05 16:41:45",
       "album": {
+        "name": "Rabid Dog",
+        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 239814,
+      "name": "Rabid Dog",
+      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
+    },
+    {
+      "added_at": "2024-07-05 16:41:45",
+      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 194220,
       "name": "Searching For Yourself (feat. Raveena)",
       "url": "https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW"
-    },
-    {
-      "added_at": "2024-07-05 16:41:45",
-      "album": {
-        "name": "Rabid Dog",
-        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 239814,
-      "name": "Rabid Dog",
-      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
     },
     {
       "added_at": "2024-07-05 16:41:45",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-05 16:41:45",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
-      },
-      "artists": [
-        {
-          "name": "Insightful",
-          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "DD",
-      "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
-    },
-    {
-      "added_at": "2024-07-05 16:41:45",
-      "album": {
         "name": "Holy Waters",
         "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 183426,
       "name": "Dream Of You",
       "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
+    },
+    {
+      "added_at": "2024-07-05 16:41:45",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
+      },
+      "artists": [
+        {
+          "name": "Insightful",
+          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
     },
     {
       "added_at": "2024-07-05 16:41:45",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-05 16:41:45",
       "album": {
-        "name": "Took One Look",
-        "url": "https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w"
-      },
-      "artists": [
-        {
-          "name": "Muunjuun",
-          "url": "https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7"
-        }
-      ],
-      "duration_ms": 140326,
-      "name": "Took One Look",
-      "url": "https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ"
-    },
-    {
-      "added_at": "2024-07-05 16:41:45",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 98770,
       "name": "Hum",
       "url": "https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo"
+    },
+    {
+      "added_at": "2024-07-05 16:41:45",
+      "album": {
+        "name": "Took One Look",
+        "url": "https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w"
+      },
+      "artists": [
+        {
+          "name": "Muunjuun",
+          "url": "https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7"
+        }
+      ],
+      "duration_ms": 140326,
+      "name": "Took One Look",
+      "url": "https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ"
     },
     {
       "added_at": "2024-07-05 16:41:45",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-07-05 16:41:45",
       "album": {
-        "name": "Shadowglow (Deluxe)",
-        "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Sad Disco (Pine Studios)",
-      "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
-    },
-    {
-      "added_at": "2024-07-05 16:41:45",
-      "album": {
         "name": "\u5358\u306bRetroFuture",
         "url": "https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 147644,
       "name": "Tides",
       "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
+    },
+    {
+      "added_at": "2024-07-05 16:41:45",
+      "album": {
+        "name": "Shadowglow (Deluxe)",
+        "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Sad Disco (Pine Studios)",
+      "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
     },
     {
       "added_at": "2024-07-05 16:41:45",

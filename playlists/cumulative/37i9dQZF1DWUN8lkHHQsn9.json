@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5tYqFEuFELxnJZgGmmsfSh\">Catz 'n Dogz</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:1alcdAcSxQfrx5GmgWAqGk\">RAF</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 326769,
       "name": "Can't Stand feat. ZensoFly",
       "url": "https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs"
@@ -722,6 +722,24 @@
       "duration_ms": 172750,
       "name": "December",
       "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
+    },
+    {
+      "album": {
+        "name": "romantyzuj\u0119 EP",
+        "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "deszcz",
+      "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
     },
     {
       "album": {
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 130000,
       "name": "HERBATA",
       "url": "https://open.spotify.com/track/3QWj1jMClM2pr1zdsIJtqF"
@@ -1587,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "MONACHOPSIS EP",
+        "url": "https://open.spotify.com/album/3C9o0dZxsvEUTs5XMCbzsF"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "je\u015bli chcesz mnie",
+      "url": "https://open.spotify.com/track/101GNvx8Kxx3oOg3ZOU86X"
+    },
+    {
+      "album": {
         "name": "je\u015bli p\u0142yn\u0119 pod pr\u0105d",
         "url": "https://open.spotify.com/album/4UYAR6apkBSUCXAFdNiotL"
       },
@@ -1598,7 +1634,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 136208,
       "name": "je\u015bli p\u0142yn\u0119 pod pr\u0105d",
       "url": "https://open.spotify.com/track/3SwBJrQbfOymrCOS7CCZbB"
@@ -1710,6 +1746,24 @@
       "duration_ms": 128332,
       "name": "Klub Z\u0142amanych Serc",
       "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
+    },
+    {
+      "album": {
+        "name": "Kot Schr\u00f6dingera",
+        "url": "https://open.spotify.com/album/6UXHdo1mibLUki7oB0CtHx"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221820,
+      "name": "Kot Schr\u00f6dingera",
+      "url": "https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S"
     },
     {
       "album": {
@@ -2537,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Oprawieni Idole",
+        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Oprawieni Idole",
+      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
+    },
+    {
+      "album": {
         "name": "Organic Love",
         "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
       },
@@ -2620,7 +2692,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 159545,
       "name": "Peccatum",
       "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
@@ -2908,7 +2980,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 176000,
       "name": "POKUSSA",
       "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
@@ -3276,7 +3348,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 188697,
       "name": "romantyzuj\u0119 przesz\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/70LuJ7rdBQQlDBzzfIcC2f"
@@ -3996,7 +4068,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 180000,
       "name": "tw\u00f3j zapach",
       "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
@@ -4228,7 +4300,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 171379,
       "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
       "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
@@ -4308,7 +4380,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 170520,
       "name": "Would You - From the Movie \u201eSummer with Maria\"",
       "url": "https://open.spotify.com/track/4J8zIgcx4Zxd9t4il7uyH4"
@@ -4330,6 +4402,24 @@
       "duration_ms": 168387,
       "name": "Wracam",
       "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+    },
+    {
+      "album": {
+        "name": "wszystko",
+        "url": "https://open.spotify.com/album/2DQaIcMNq8mHlUbfAbzlPw"
+      },
+      "artists": [
+        {
+          "name": "shane.",
+          "url": "https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201048,
+      "name": "wszystko",
+      "url": "https://open.spotify.com/track/1dus0Y4EnzM9Rnkt5BeahO"
     },
     {
       "album": {
@@ -4388,6 +4478,24 @@
       "duration_ms": 334533,
       "name": "zanim",
       "url": "https://open.spotify.com/track/0ZwMbR7nt66eB1WR0YcHa0"
+    },
+    {
+      "album": {
+        "name": "Zapomniana Twarz",
+        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Zapomniana Twarz",
+      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
     },
     {
       "album": {
@@ -4494,6 +4602,24 @@
       "duration_ms": 172363,
       "name": "\u015ani\u0119",
       "url": "https://open.spotify.com/track/1fIVFQWn3gScoiGAoidSX8"
+    },
+    {
+      "album": {
+        "name": "\u015bwiat lepiej smakuje",
+        "url": "https://open.spotify.com/album/5DsDMvV6GY9pwJdgcMLqGn"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178548,
+      "name": "\u015bwiat lepiej smakuje",
+      "url": "https://open.spotify.com/track/5UK0CowEcdpLq36WNJDE7x"
     },
     {
       "album": {

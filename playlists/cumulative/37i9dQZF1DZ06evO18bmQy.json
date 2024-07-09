@@ -690,11 +690,15 @@
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 256810,
       "name": "Esquim\u00f3",
       "url": "https://open.spotify.com/track/0LMO2d7QubdqrRXuQGvtfQ"
@@ -1325,6 +1329,56 @@
     },
     {
       "album": {
+        "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2LQ9zAze9OSDMMr2Kc9a5f"
+      },
+      "artists": [
+        {
+          "name": "Bob do Contra",
+          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
+        },
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505482,
+      "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Z3m038JhRNlcuqxp49cJs"
+    },
+    {
+      "album": {
         "name": "Poesia Ac\u00fastica #4: Todo Mundo Odeia Ac\u00fastico",
         "url": "https://open.spotify.com/album/1ryuuX89YP2pLjQw6npG1n"
       },
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 505482,
       "name": "Poesia Ac\u00fastica #4: Todo Mundo Odeia Ac\u00fastico",
       "url": "https://open.spotify.com/track/4nwQ1SG9CsAl4XoKuScF0r"
@@ -2054,7 +2108,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 218410,
       "name": "Zero Chances - Ao Vivo",
       "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"

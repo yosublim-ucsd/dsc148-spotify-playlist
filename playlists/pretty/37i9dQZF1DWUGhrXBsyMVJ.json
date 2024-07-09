@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 269916,
+  "num_followers": 270030,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,18 @@
     {
       "added_at": "2024-04-05 12:57:00",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+        "name": "He's So Fine",
+        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 168906,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+      "duration_ms": 154173,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
     },
     {
       "added_at": "2024-04-05 12:57:00",
@@ -523,18 +519,22 @@
     {
       "added_at": "2024-04-05 12:57:00",
       "album": {
-        "name": "He's So Fine",
-        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 154173,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
+      "duration_ms": 168906,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
     },
     {
       "added_at": "2024-04-05 12:57:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-04-05 12:57:00",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
-    },
-    {
-      "added_at": "2024-04-05 12:57:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/6GLTTJoBUOBz34zOYq0MjA"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 125000,
       "name": "Why Do I Love You So",
       "url": "https://open.spotify.com/track/406RedcyUEOwpVQSM1cpsh"
+    },
+    {
+      "added_at": "2024-04-05 12:57:00",
+      "album": {
+        "name": "30th Anniversary Collection",
+        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
+      },
+      "artists": [
+        {
+          "name": "michael holliday",
+          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
+        }
+      ],
+      "duration_ms": 135826,
+      "name": "The Story of My Life",
+      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
     },
     {
       "added_at": "2024-04-05 12:57:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-04-05 12:57:00",
       "album": {
-        "name": "30th Anniversary Collection",
-        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
       },
       "artists": [
         {
-          "name": "michael holliday",
-          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 135826,
-      "name": "The Story of My Life",
-      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
     },
     {
       "added_at": "2024-04-05 12:57:00",

@@ -2,7 +2,7 @@
 
 ### [Italo Disco](https://open.spotify.com/playlist/37i9dQZF1DX3jWba5xiDhV)
 
-> When the dance floor calls your name, that's amore.
+> Pino D'Angiò, italo disco king, you will always be missed 💔 1952\-2024
 
 185 songs - 15 hr 38 min
 

@@ -1,12 +1,12 @@
 {
-  "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2931648,
+  "description": "This Is XXXTENTACION. Los temas esenciales, todos en una lista.",
+  "num_followers": 2931972,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAADF+vaiy2BUVozGmO/0fvsq",
+  "snapshot_id": "ZonagAAAAACK6p14bdeGPx4Ycvw0AjVc",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 99658,
-      "name": "before I close my eyes",
-      "url": "https://open.spotify.com/track/16x9bQHw8TBNaGDyULvwad"
+      "duration_ms": 160184,
+      "name": "the remedy for a broken heart (why am I so in love)",
+      "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 186267,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "let's pretend we're numb",
         "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
       },
@@ -415,6 +399,26 @@
       "duration_ms": 80105,
       "name": "let's pretend we're numb",
       "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 176590,
+      "name": "infinity (888) - feat. Joey Bada$$",
+      "url": "https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q"
     },
     {
       "added_at": null,
@@ -459,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 176590,
-      "name": "infinity (888) - feat. Joey Bada$$",
-      "url": "https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
@@ -491,6 +475,34 @@
       "duration_ms": 121630,
       "name": "I don't let go",
       "url": "https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Rio Santana",
+          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
+        },
+        {
+          "name": "Judah",
+          "url": "https://open.spotify.com/artist/2V0DROfM2ieFSOcA3SHJLD"
+        },
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 192229,
+      "name": "I don\u2019t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",
+      "url": "https://open.spotify.com/track/14boA065HMHWvqyPPEeN4y"
     },
     {
       "added_at": null,
@@ -588,9 +600,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 136357,
-      "name": "HEARTEATER",
-      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
+      "duration_ms": 166032,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM"
     },
     {
       "added_at": null,
@@ -652,29 +664,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 166032,
-      "name": "Triumph",
-      "url": "https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Will Regret (Reloaded)",
-        "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Take A Step Back",
-      "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
+      "duration_ms": 136357,
+      "name": "HEARTEATER",
+      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
     },
     {
       "added_at": null,
@@ -707,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 4",
+        "url": "https://open.spotify.com/album/4EeDFhIVRxOg4dx7ozSNXa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 144724,
+      "name": "Sauce!",
+      "url": "https://open.spotify.com/track/3jq1RpStaB1YGyN3rRZGca"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
@@ -735,22 +743,6 @@
       "duration_ms": 82470,
       "name": "numb the pain",
       "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XXXTENTACION Presents: Members Only, Vol. 4",
-        "url": "https://open.spotify.com/album/4EeDFhIVRxOg4dx7ozSNXa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 144724,
-      "name": "Sauce!",
-      "url": "https://open.spotify.com/track/3jq1RpStaB1YGyN3rRZGca"
     },
     {
       "added_at": null,
@@ -891,6 +883,22 @@
       "duration_ms": 209107,
       "name": "Slipknot",
       "url": "https://open.spotify.com/track/2NaIkDKuKrAcHoj8moeIQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "#ImSippinTeaInYoHood",
+      "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
     }
   ],
   "unique_name": "This Is XXXTENTACION",

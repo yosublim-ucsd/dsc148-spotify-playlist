@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Been Stellar
 
-1,297 songs - 3 day 2 hr 7 min
+1,298 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1304,6 +1304,7 @@
 | [Your Mother's Name](https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U) | 3:51 | 2023-06-09 | 2023-08-12 |
 | [yrstruly \- CFCF Scream Mix](https://open.spotify.com/track/6br2IoQARHVcYM4TsYMU0f) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Enemy Remixed](https://open.spotify.com/album/1lZYJDlOuXYsddD8OsGTOc) | 5:11 | 2022-05-27 | 2022-06-19 |
 | [Zodiac 13](https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Zodiac 13](https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ) | 2:52 | 2024-03-22 | 2024-06-22 |
+| [Zombie Brain Drain](https://open.spotify.com/track/6PSAt4wBVluHaXy4KVwCq4) | [Paige Stark](https://open.spotify.com/artist/1WH9zGefYnqp8IafH0qL0H), [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Good at Love](https://open.spotify.com/album/4ZSanG1REArpIJZWVcU199) | 4:40 | 2024-07-08 |  |
 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 | 2022-12-02 | 2023-03-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

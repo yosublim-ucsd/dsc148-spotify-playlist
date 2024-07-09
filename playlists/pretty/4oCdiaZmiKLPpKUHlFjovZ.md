@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 42,072 likes - 67 songs - 2 hr 59 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 42,069 likes - 67 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
-| 2 | [Gerskiway](https://open.spotify.com/track/0BJXaODE8YHcS0wInGHewf) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:27 |
-| 3 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
+| 1 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
+| 2 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
+| 3 | [Gerskiway](https://open.spotify.com/track/0BJXaODE8YHcS0wInGHewf) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:27 |
 | 4 | [304 Bounty Hunter](https://open.spotify.com/track/6bKfmcaYXhH63U0kfpzTyL) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Saucefather 2](https://open.spotify.com/album/4ZLPz8hBiFoMJMIbc1hhsw) | 3:22 |
 | 5 | [Hello B\*tch](https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hello B\*tch](https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn) | 2:19 |
 | 6 | [Fuck Around & Find Out](https://open.spotify.com/track/61KPSucpAHpMNo1AxjsVMT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Fuck Around & Find Out](https://open.spotify.com/album/4WPMyya2jn2GoVAEHEUBr8) | 2:30 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 66 | [DAT BOY DEN](https://open.spotify.com/track/25uHS9sdrhZecYFfSRnz1k) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [DAT BOY DEN](https://open.spotify.com/album/20AweIUmetnWYC7YdxCmir) | 2:24 |
 | 67 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 |
 
-Snapshot ID: `AAAaowj1Yk/8QrbX9kL5JWh/uRpTx+hA`
+Snapshot ID: `AAAapEcdE7RclzysvSEXORMn9bDnjta5`

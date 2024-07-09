@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,331 likes - 100 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,325 likes - 100 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 46 | [One Thing Remains \- Radio Version](https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion Collection](https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn) | 3:59 |
 | 47 | [Throne Room](https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side](https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W) | 4:44 |
 | 48 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
-| 49 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
-| 50 | [Blessed Be Your Name](https://open.spotify.com/track/51ndwDACfzlvfOYnwp4ryn) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | ["Blessed Be Your Name: The Songs Of Matt Redman, Vol\. 1"](https://open.spotify.com/album/7pMoDDmoNMP0o44ztOoyvk) | 5:48 |
+| 49 | [Blessed Be Your Name](https://open.spotify.com/track/51ndwDACfzlvfOYnwp4ryn) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | ["Blessed Be Your Name: The Songs Of Matt Redman, Vol\. 1"](https://open.spotify.com/album/7pMoDDmoNMP0o44ztOoyvk) | 5:48 |
+| 50 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
 | 51 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 |
 | 52 | [Ain’t No Grave \- Live](https://open.spotify.com/track/7mD7yAQm4GcifSnWqJdZHi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Molly Skaggs](https://open.spotify.com/artist/0cW4RaDqeYZ5YSP2AtRanL) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 8:13 |
 | 53 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |

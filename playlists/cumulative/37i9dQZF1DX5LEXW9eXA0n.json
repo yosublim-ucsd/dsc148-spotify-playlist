@@ -13247,6 +13247,24 @@
     },
     {
       "album": {
+        "name": "My Old Story",
+        "url": "https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236080,
+      "name": "My Old Story",
+      "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
+    },
+    {
+      "album": {
         "name": "My other half",
         "url": "https://open.spotify.com/album/39ZrD0Zsir3ooKovMcMdfj"
       },

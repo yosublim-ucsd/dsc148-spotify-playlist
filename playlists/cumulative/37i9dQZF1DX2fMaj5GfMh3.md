@@ -4,7 +4,7 @@
 
 > De nieuwste popliedjes\. Cover: RONDÉ
 
-620 songs - 1 day 7 hr 24 min
+623 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2023-02-24 | 2023-03-18 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2023-02-24 | 2023-04-07 |
 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 | 2023-11-09 | 2024-01-26 |
-| [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-24 |  |
+| [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-24 | 2024-07-09 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-11 | 2023-11-14 |
 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 | 2024-03-28 | 2024-06-25 |
@@ -67,6 +67,7 @@
 | [Best Friends](https://open.spotify.com/track/4GfU4Konlw32p6HkNhuLNW) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [Need You In The Light](https://open.spotify.com/album/1oXLpsXNfHTFRpd25LqUMw) | 2:46 | 2024-06-20 |  |
 | [best friends with your girlfriend](https://open.spotify.com/track/0Qq11qgCAABtz7WNcnpOpK) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [best friends with your girlfriend](https://open.spotify.com/album/0xM2UtJHnHQAQoBab3e8Eb) | 2:03 | 2023-07-07 | 2023-10-13 |
 | [Best You Ever Had](https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Best You Ever Had](https://open.spotify.com/album/0vL34mO5klplb791wYYGbK) | 2:47 | 2023-11-09 | 2024-02-09 |
+| [better days](https://open.spotify.com/track/2reYTHJnsXORTR7b5GkeFO) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [better days](https://open.spotify.com/album/1PDWTflg8jHOAFhEq73x78) | 3:11 | 2024-07-08 |  |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-06 | 2023-07-28 |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2023-09-29 | 2024-01-05 |
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-13 | 2023-10-13 |
@@ -227,7 +228,7 @@
 | [Gone to Bed](https://open.spotify.com/track/4LQK4d8DCI8i16lFWk2kll) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/5Zmu0lS6RYtopzhAu9lQZW) | 2:56 | 2023-11-16 | 2023-11-21 |
 | [Gone to Bed](https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3) | 2:56 | 2023-09-29 | 2024-01-05 |
 | [Good Girls](https://open.spotify.com/track/0asjqzMqp1Cw0l2IMhHy8p) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Good Girls](https://open.spotify.com/album/5zLyLLidlR9S3L1QcCyb2D) | 2:47 | 2023-06-01 | 2023-08-26 |
-| [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-04-25 |  |
+| [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-04-25 | 2024-07-09 |
 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 | 2024-03-08 | 2024-04-13 |
 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2024-01-11 | 2024-03-13 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-20 | 2024-01-26 |
@@ -255,6 +256,7 @@
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-24 | 2023-04-15 |
 | [hell is a teenage girl](https://open.spotify.com/track/4FvcW8lzYpZ4bq9awSHZ1N) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 3:15 | 2023-07-13 | 2023-10-27 |
 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 | 2023-02-24 | 2023-04-07 |
+| [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-08 |  |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-24 |  |
 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2023-02-24 | 2023-03-31 |
 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 | 2023-03-30 | 2023-06-09 |
@@ -270,6 +272,7 @@
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-04 | 2023-08-26 |
 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-14 | 2024-04-07 |
 | [How Many Nights](https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:20 | 2024-04-06 | 2024-06-01 |
+| [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-08 |  |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-05-02 | 2024-06-14 |
 | [Hush Hush](https://open.spotify.com/track/0rrX7GQDPe9ldXSz6dRyUI) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Hush Hush](https://open.spotify.com/album/1WfDg3nWWNCF79qK0kTlmB) | 2:12 | 2023-07-10 | 2023-10-06 |
 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 | 2023-08-25 | 2023-10-13 |
@@ -405,7 +408,7 @@
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2023-02-24 | 2023-03-10 |
 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 | 2023-05-25 | 2023-08-22 |
 | [No Room 4 U](https://open.spotify.com/track/6oqnGzKVZ6UAw2qRLxCIco) | [Anna\-Rose Clayton](https://open.spotify.com/artist/12QHr622V8nZ38fZ34dENS) | [No Room 4 U](https://open.spotify.com/album/4tJcJC8yYgfSnosxA6dEJw) | 2:40 | 2023-10-12 | 2024-01-13 |
-| [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-04-12 |  |
+| [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-04-12 | 2024-07-09 |
 | [Nobody Hates You](https://open.spotify.com/track/4rSNCJgnoYlmZTclowwXmr) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Nobody Hates You](https://open.spotify.com/album/1w7HQCPGeBcBVHAv7qopdA) | 2:46 | 2023-02-24 | 2023-03-31 |
 | [Nobody Knows](https://open.spotify.com/track/05k0dUBlGM6CCo3TOoPP6g) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nobody Knows](https://open.spotify.com/album/5drt7rprtkXPfXdcbbxp1Z) | 2:55 | 2023-06-22 | 2023-09-21 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-02-24 | 2023-03-31 |

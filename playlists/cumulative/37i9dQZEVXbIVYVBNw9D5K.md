@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-960 songs - 1 day 23 hr 49 min
+961 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Ben Bilmem](https://open.spotify.com/track/0V3ZiQzJE6q4jTfJjYw6Ib) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Gel De Sevme](https://open.spotify.com/album/6XflKqxcrRKzVzLQN0RNBZ) | 3:10 | 2021-05-10 | 2021-05-30 |
 | [Ben Gibi Bakmaz](https://open.spotify.com/track/3QWpTf2VIdELYUUiKJAXlI) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Ben Gibi Bakmaz](https://open.spotify.com/album/6IU59t2Ujxo6PfliB9y3kQ) | 3:31 | 2021-03-27\* | 2021-05-25 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-04-25 |  |
-| [Ben Sarhoş Oldum](https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [Sev Yeter](https://open.spotify.com/album/5DjAnvhJUznmnHW55brdfO) | 3:30 | 2024-06-24 | 2024-07-04 |
+| [Ben Sarhoş Oldum](https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [Sev Yeter](https://open.spotify.com/album/5DjAnvhJUznmnHW55brdfO) | 3:30 | 2024-06-24 |  |
 | [Bence de Zor](https://open.spotify.com/track/4h4700vf4w6WDo1Bh9OBAg) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bence de Zor](https://open.spotify.com/album/3C9rw1MMew1lL55I9eJYrB) | 2:36 | 2021-04-11 | 2021-05-23 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/5vbUKpzqUdNHi68OmxdmBC) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Afrodizyak](https://open.spotify.com/album/4TMsAIQX08fIY9pfSE2y7G) | 2:19 | 2023-06-24 | 2023-09-08 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/38t5dhK8APbBXzqGpPgTJP) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Benden Bir Tane Daha Yok](https://open.spotify.com/album/1hFtzZ9LgsPTjKdiTAAil0) | 2:19 | 2023-05-03 | 2023-06-25 |
@@ -177,7 +177,7 @@
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2023-12-15 |  |
 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 | 2024-02-11 | 2024-05-13 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-08 |  |
-| [Bir Oluruz Yolunda \- Version 1](https://open.spotify.com/track/4gAB2dr4FfTUVgJooEoFVe) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Bir Oluruz Yolunda](https://open.spotify.com/album/0gmJnEgzHmgAiRE85r2Dpu) | 4:16 | 2024-07-03 |  |
+| [Bir Oluruz Yolunda \- Version 1](https://open.spotify.com/track/4gAB2dr4FfTUVgJooEoFVe) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Bir Oluruz Yolunda](https://open.spotify.com/album/0gmJnEgzHmgAiRE85r2Dpu) | 4:16 | 2024-07-03 | 2024-07-09 |
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
 | [Bir Şehri Sevmek](https://open.spotify.com/track/6jDRPXjvUv2N9ACBXR6sTh) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Bir Şehri Sevmek](https://open.spotify.com/album/4I9V8wfMcG9u2ZF4h7E4GC) | 3:15 | 2024-03-02 | 2024-03-10 |
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 | 2022-09-03 |
@@ -231,11 +231,12 @@
 | [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 | 2024-02-27 |  |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
-| [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 |  |
+| [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 | 2024-07-09 |
 | [Dale Don Dale](https://open.spotify.com/track/1aJUj5Vt8vPCyuuUwz6mOv) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/3Wf3GzXz37AdsYn0D9yq81) | 1:54 | 2024-06-15 | 2024-06-21 |
 | [Dale Don Dale](https://open.spotify.com/track/3OO1tH1VlH6T5vmLUi5coZ) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/263aBWwylDaIo3WzSUc3mR) | 1:54 | 2024-06-23 | 2024-06-29 |
 | [Dale Don Dale](https://open.spotify.com/track/6d41Qcxk0r5zJFzG683NRt) | [lonut cercel](https://open.spotify.com/artist/65WOws0UU3UN2ZcFlLVcV1) | [Dale Don Dale](https://open.spotify.com/album/7hU5rw9Ey5PdD6gJbf21El) | 1:54 | 2024-06-12 | 2024-06-15 |
 | [Dale Don Dale](https://open.spotify.com/track/12emtTdD2N7bGcS11Z1yKs) | [servis gosevilde alihan](https://open.spotify.com/artist/1SAn01yqnPpDnuUzcPiag8) | [Dale Don Dale](https://open.spotify.com/album/57Cp4stHR5TxADinMDv5E9) | 1:54 | 2024-06-28 | 2024-07-04 |
+| [Dale Don Dale](https://open.spotify.com/track/6izC8wfAtnH8R4pfhte2jj) | [servis gosevilde alihan](https://open.spotify.com/artist/1SAn01yqnPpDnuUzcPiag8) | [Dale Don Dale](https://open.spotify.com/album/1zWymHb5xYb9YceolWwEUL) | 1:54 | 2024-07-08 |  |
 | [Dalga](https://open.spotify.com/track/3P0WmQXWzV3yqFyfgVolrT) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dalga](https://open.spotify.com/album/1xAhqFShLFhO65ut0iiQxU) | 2:05 | 2021-09-18 | 2022-04-13 |
 | [Dalga \- Emre Terzioğlu Remix](https://open.spotify.com/track/6Fri3yOIEBWJLVwlniBEQ1) | [Emre Terzioğlu](https://open.spotify.com/artist/5yiOnnmXLyko6TKdHCrtQz) | [Dalga \(Emre Terzioğlu Remix\)](https://open.spotify.com/album/1E7n6INLCRSqlOv3fckmmB) | 2:08 | 2021-09-21 | 2021-09-22 |
 | [DAMLA](https://open.spotify.com/track/1HPYGaSGPzz1QVnjCffc1f) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:04 | 2023-06-17 | 2023-09-09 |

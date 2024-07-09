@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > okgiorgio in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,790 likes - 23 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,794 likes - 23 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

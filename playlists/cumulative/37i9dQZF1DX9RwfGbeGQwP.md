@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,407 songs - 2 day 5 hr 0 min
+1,409 songs - 2 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Fauna](https://open.spotify.com/track/2hdzmJyxFVxP55WDk7ZErD) | [Ikioma](https://open.spotify.com/artist/5abWpSIsMg0CLqe7APDP9y) | [Flora & Fauna](https://open.spotify.com/album/4Dx88ce54PYnFRqV7Odmt5) | 1:46 | 2022-01-27 | 2022-06-10 |
 | [Feel Good](https://open.spotify.com/track/2n1Ka23Wywa25PNyogEtmf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Feel Good](https://open.spotify.com/album/2MY8p6PHi41YNBI75GcDcQ) | 2:26 | 2022-04-15 | 2022-07-01 |
 | [Feelin](https://open.spotify.com/track/7AhnDapCN57slmVaqPG8DZ) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Feelin](https://open.spotify.com/album/4MGXluzIXhUSOwRbDB2KpD) | 1:44 | 2023-01-06 | 2023-10-06 |
+| [Feelin' 2D](https://open.spotify.com/track/0MPqiieMX7ou7Kk8p2FPpi) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Feelin' 2D](https://open.spotify.com/album/5nNhJ58mzIEmukHfubpwX2) | 2:20 | 2024-07-05 |  |
 | [Feelin' Good Tonight](https://open.spotify.com/track/4ZV3kIHh2khLBZSZKlezQI) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Feelin' Good Tonight](https://open.spotify.com/album/0YvDRoFESOgqusmhwpAdfV) | 2:52 | 2022-07-29 |  |
 | [Feeling Better With You](https://open.spotify.com/track/2zvdZMTqep1vXL8fLWEpVq) | [Two Muses After](https://open.spotify.com/artist/6xpq9Jqa99NXeKxCDNbG8S) | [Nobody on the Moon](https://open.spotify.com/album/4ysu9ZIl56VkXHIXZ2Hnqh) | 2:20 | 2022-08-05 | 2022-12-17 |
 | [Felspar](https://open.spotify.com/track/5vMqu4Xw3C9DFx4SFp4ROC) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Felspar](https://open.spotify.com/album/3tIFYBZt9mVZVINNRqF5Yt) | 1:45 | 2022-12-16 | 2023-04-28 |
@@ -1146,7 +1147,7 @@
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
 | [starwish](https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [starwish](https://open.spotify.com/album/29kjxua5Rhr7rQ2iVxpPm5) | 2:01 | 2022-09-30 | 2024-05-18 |
 | [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 |  |
-| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 |  |
+| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 | 2024-07-09 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-01-27 | 2022-10-29 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-09-02 | 2024-05-18 |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-01-27 | 2022-11-12 |
@@ -1209,6 +1210,7 @@
 | [Swell](https://open.spotify.com/track/2NDAiSSorPzaQ7i5sx4dDI) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Just One More Thing](https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx) | 1:48 | 2023-09-08 |  |
 | [Swing and miss](https://open.spotify.com/track/10yfgyCghuupvr2fyed4CR) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Swing and miss](https://open.spotify.com/album/4Bir9zuvbKUiyU5ZlBp4Qf) | 2:28 | 2022-06-03 |  |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-01-27 | 2022-09-09 |
+| [Swirl it please](https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Swirl it please](https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM) | 1:58 | 2024-07-05 |  |
 | [Symmetry](https://open.spotify.com/track/0H9ubICGjFmr51rKC58VVU) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Yacha Berdah](https://open.spotify.com/artist/1EH2RJM9qK5BaRf99G3o3A) | [Symmetry](https://open.spotify.com/album/2yjasqGEpOVDvJQTFepaay) | 2:16 | 2023-09-22 |  |
 | [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 | 2022-11-11 | 2024-04-17 |
 | [Synthetic Love](https://open.spotify.com/track/4IjdbmobRYukzG1ls4z7iK) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/4IGhDpOK1sigwsd1Rk7Xuk) | 2:48 | 2022-11-11 | 2022-11-24 |
@@ -1404,7 +1406,7 @@
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-01-27 | 2022-06-10 |
 | [Yahooee](https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Yahooee](https://open.spotify.com/album/5z9Clk4g8ToC3tuU0yPQ13) | 2:18 | 2023-10-20 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-01-27 | 2023-05-20 |
-| [Yo and The Juice](https://open.spotify.com/track/4xcBTUhwupLCL1dxCrWGmY) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Sur La Seine](https://open.spotify.com/album/5VhQNBTrxSqbS0uhba4sk0) | 3:23 | 2022-12-23 |  |
+| [Yo and The Juice](https://open.spotify.com/track/4xcBTUhwupLCL1dxCrWGmY) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Sur La Seine](https://open.spotify.com/album/5VhQNBTrxSqbS0uhba4sk0) | 3:23 | 2022-12-23 | 2024-07-09 |
 | [You Give](https://open.spotify.com/track/1dNO5R0eXY9e2gVkv1f431) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [You Give](https://open.spotify.com/album/77MdrPhfFgrUfxFV7ECnqK) | 3:03 | 2022-01-27 | 2022-09-03 |
 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 | 2022-08-12 |  |
 | [You Up?](https://open.spotify.com/track/3YcM62cCaGGlf25Rr1TujM) | [rasya](https://open.spotify.com/artist/5AiC0g0himsHrBJgYixuB0) | [You Up?](https://open.spotify.com/album/5qinPNGCqB1ZsxmDGyeoiQ) | 1:58 | 2022-07-15 | 2024-05-20 |

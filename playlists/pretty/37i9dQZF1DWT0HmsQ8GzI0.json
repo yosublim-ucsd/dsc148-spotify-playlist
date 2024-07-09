@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: PRIBELSZKI",
-  "num_followers": 13366,
+  "num_followers": 13370,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Sivatag",
+        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "Sivatag",
+      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "b\u00fajj hozz\u00e1m",
         "url": "https://open.spotify.com/album/66i9I2BocGO3p0yrVlRTqn"
       },
@@ -607,38 +627,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Sivatag",
-        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
+        "name": "Sz\u00f6rny vagyok",
+        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
       },
       "artists": [
         {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "Dan Pinto",
-          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
         }
       ],
-      "duration_ms": 152658,
-      "name": "Sivatag",
-      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "BOLDOGOK VAGYUNK-E",
-        "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Boldogok vagyunk-e",
-      "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
+      "duration_ms": 182952,
+      "name": "Sz\u00f6rny vagyok",
+      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Sz\u00f6rny vagyok",
-        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
+        "name": "BOLDOGOK VAGYUNK-E",
+        "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
       },
       "artists": [
         {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
         }
       ],
-      "duration_ms": 182952,
-      "name": "Sz\u00f6rny vagyok",
-      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
+      "duration_ms": 181840,
+      "name": "Boldogok vagyunk-e",
+      "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
+        "url": "https://open.spotify.com/album/4rGgQ1ls5uTQkPw378BK3W"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 215052,
+      "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
+      "url": "https://open.spotify.com/track/1XlaUIqhhlQEawbmXRBwoH"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Cloudy Skies",
         "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
-        "url": "https://open.spotify.com/album/4rGgQ1ls5uTQkPw378BK3W"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 215052,
-      "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
-      "url": "https://open.spotify.com/track/1XlaUIqhhlQEawbmXRBwoH"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "ENSO",
-        "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
-      },
-      "artists": [
-        {
-          "name": "kristoaf",
-          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "POCSOLYA",
-      "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "KEIKO",
         "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "ENSO",
+        "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
+      },
+      "artists": [
+        {
+          "name": "kristoaf",
+          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "POCSOLYA",
+      "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "TIK-TAK",
         "url": "https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 309252,
       "name": "TIK-TAK",
       "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "VERTIGO",
+        "url": "https://open.spotify.com/album/5jcSebHW2VdUSrirHFuDnF"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 217499,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/6lRVrHMMpkizaoq32hZMaR"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 195692,
       "name": "l\u00e9lekveszt\u0151",
       "url": "https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "VERTIGO",
-        "url": "https://open.spotify.com/album/5jcSebHW2VdUSrirHFuDnF"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 217499,
-      "name": "VERTIGO",
-      "url": "https://open.spotify.com/track/6lRVrHMMpkizaoq32hZMaR"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Csup\u00e1n",
-        "url": "https://open.spotify.com/album/1whRRGlfPMxXserdLHiN3C"
-      },
-      "artists": [
-        {
-          "name": "kisbet\u0171s \u00fcnnepnapok",
-          "url": "https://open.spotify.com/artist/3sZtUBmiswtOEPMBwtBEGt"
-        }
-      ],
-      "duration_ms": 219562,
-      "name": "Csup\u00e1n",
-      "url": "https://open.spotify.com/track/5oLkVpF6enDCaFHBPPNOuP"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Ellensz\u00e9lben",
         "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 173750,
       "name": "Fekete p\u00f3l\u00f3",
       "url": "https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Csup\u00e1n",
+        "url": "https://open.spotify.com/album/1whRRGlfPMxXserdLHiN3C"
+      },
+      "artists": [
+        {
+          "name": "kisbet\u0171s \u00fcnnepnapok",
+          "url": "https://open.spotify.com/artist/3sZtUBmiswtOEPMBwtBEGt"
+        }
+      ],
+      "duration_ms": 219562,
+      "name": "Csup\u00e1n",
+      "url": "https://open.spotify.com/track/5oLkVpF6enDCaFHBPPNOuP"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1275,6 +1275,22 @@
       "duration_ms": 174782,
       "name": "\u00c9lni Akarok",
       "url": "https://open.spotify.com/track/3Z0PtCN7BTKA7IAknTyObV"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "SAME OLD LIES",
+        "url": "https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk"
+      },
+      "artists": [
+        {
+          "name": "Monstaz.",
+          "url": "https://open.spotify.com/artist/0iVpOORKECahYu3FggiXFt"
+        }
+      ],
+      "duration_ms": 154329,
+      "name": "SAME OLD LIES",
+      "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 170270,
       "name": "A v\u00e9g\u00e9n \u00fagyis",
       "url": "https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "SAME OLD LIES",
-        "url": "https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk"
-      },
-      "artists": [
-        {
-          "name": "Monstaz.",
-          "url": "https://open.spotify.com/artist/0iVpOORKECahYu3FggiXFt"
-        }
-      ],
-      "duration_ms": 154329,
-      "name": "SAME OLD LIES",
-      "url": "https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN"
     },
     {
       "added_at": "2024-07-04 22:00:00",

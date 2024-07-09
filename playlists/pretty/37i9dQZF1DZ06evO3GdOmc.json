@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 35537,
+  "num_followers": 35577,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAC9gMa88T0A3EDncYKf6BWa",
+  "snapshot_id": "ZonagAAAAABjBf8JxPh/pAb/+gbsoeBr",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 220280,
+      "name": "Start Right Here",
+      "url": "https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scars in Heaven",
         "url": "https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf"
       },
@@ -223,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
       },
       "artists": [
         {
@@ -232,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 220280,
-      "name": "Start Right Here",
-      "url": "https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX"
+      "duration_ms": 227813,
+      "name": "All Because of Mercy",
+      "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
     },
     {
       "added_at": null,
@@ -255,22 +271,6 @@
       "duration_ms": 218484,
       "name": "Desert Road",
       "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "All Because of Mercy",
-      "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
     },
     {
       "added_at": null,

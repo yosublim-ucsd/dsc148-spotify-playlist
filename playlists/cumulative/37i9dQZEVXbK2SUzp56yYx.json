@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 145777,
       "name": "Automotivo Amar, Ma Ma Ma",
       "url": "https://open.spotify.com/track/7DKLGwlRbIwk5j5oCqIkTS"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 84656,
       "name": "godspeed.mp3",
       "url": "https://open.spotify.com/track/6dwricV9PC2d9Wfn6GGtmK"
@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 163278,
       "name": "I GOT U",
       "url": "https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n"
@@ -3522,7 +3522,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 51853,
       "name": "Mangos - Tiktok Version",
       "url": "https://open.spotify.com/track/1wD755PZiaAhiCOgvFLGq6"
@@ -4124,7 +4124,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 204645,
       "name": "\u0431\u043b\u0438\u0436\u0435",
       "url": "https://open.spotify.com/track/0Kf4Yt41ItVzD4fZ3QhLtv"
@@ -7646,6 +7646,24 @@
       "duration_ms": 178064,
       "name": "\u0414\u0430\u0440\u0438\u0442\u0435 \u0436\u0435\u043d\u0449\u0438\u043d\u0430\u043c \u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/3T4NFCEeCZ4djrs8pBzJgg"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0435\u0433\u043e\u0442\u044c",
+        "url": "https://open.spotify.com/album/44rjKjT0cv8poHfBQ5ygWu"
+      },
+      "artists": [
+        {
+          "name": "Full Smena",
+          "url": "https://open.spotify.com/artist/1Yg1pZOXFuDY6pfWMOn5pJ"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100056,
+      "name": "\u0414\u0435\u0433\u043e\u0442\u044c - Speed Up",
+      "url": "https://open.spotify.com/track/7opQ4SgKruQFSIvCLXgYUn"
     },
     {
       "album": {
@@ -9942,7 +9960,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 177000,
       "name": "\u0421\u0442\u043e\u0438\u043a",
       "url": "https://open.spotify.com/track/5RIL1S6YekPv12gNwrqYJi"

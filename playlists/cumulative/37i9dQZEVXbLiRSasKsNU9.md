@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,780 songs - 6 day 3 hr 13 min
+2,781 songs - 6 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Aise Kyun \- Ghazal Version](https://open.spotify.com/track/2wDsZgFps34cgGMiYeeszB) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 5:29 | 2022-11-05 | 2022-11-17 |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2022-05-11 | 2022-06-25 |
 | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr) | 2:51 | 2024-02-06 | 2024-02-28 |
+| [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 | 2024-07-08 |  |
 | [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 | 2023-10-10 | 2023-11-08 |
 | [Aktiverad \(Klick Klack\)](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad \(Klick Klack\)](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 | 2022-10-04 | 2022-10-19 |
 | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/track/2KCikMsmJSBEgfOOskQ87P) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/album/7L4EwSoKKigcjc4I4xDn6d) | 4:07 | 2022-05-07 | 2022-06-01 |
@@ -2347,7 +2348,7 @@
 | [Tacata](https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Tacata](https://open.spotify.com/album/1iuFJ9W479sVjcEqdjqMS8) | 1:54 | 2023-10-23 | 2023-10-25 |
 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2024-01-09 | 2024-01-26 |
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-01-04 | 2022-01-24 |
-| [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 | 2024-06-24 |  |
+| [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 | 2024-06-24 | 2024-07-09 |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-06-07 | 2022-07-14 |
 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-11-23 | 2022-12-24 |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-01-28 | 2023-06-08 |

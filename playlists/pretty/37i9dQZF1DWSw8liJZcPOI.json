@@ -1,6 +1,6 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 84213,
+  "num_followers": 84335,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Le Jardin de Monsieur Monet",
+        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Le Jardin de Monsieur Monet",
+      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Movement 5 - Pt. 2",
         "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 252920,
       "name": "Movement 5 - Pt. 2 - Instrumental",
       "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Le Jardin de Monsieur Monet",
-        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Le Jardin de Monsieur Monet",
-      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 159594,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 184389,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Solanales",
+        "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 332607,
+      "name": "Solanales",
+      "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
         "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 127865,
       "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
       "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Solanales",
-        "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 332607,
-      "name": "Solanales",
-      "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1815,6 +1815,34 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Spiritus Naturae Aeternus",
+        "url": "https://open.spotify.com/album/4aKxCrnN63h8hri6rAHVRa"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        },
+        {
+          "name": "Bryan Senti",
+          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
+        },
+        {
+          "name": "Reykjavik Silfur Choir",
+          "url": "https://open.spotify.com/artist/3CmuFh3rtjiKUGQOJNYXgu"
+        },
+        {
+          "name": "Budapest Art Orchestra",
+          "url": "https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N"
+        }
+      ],
+      "duration_ms": 352213,
+      "name": "Spiritus Naturae Aeternus - Single Edit",
+      "url": "https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -1859,34 +1887,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Spiritus Naturae Aeternus",
-        "url": "https://open.spotify.com/album/4aKxCrnN63h8hri6rAHVRa"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        },
-        {
-          "name": "Bryan Senti",
-          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
-        },
-        {
-          "name": "Reykjavik Silfur Choir",
-          "url": "https://open.spotify.com/artist/3CmuFh3rtjiKUGQOJNYXgu"
-        },
-        {
-          "name": "Budapest Art Orchestra",
-          "url": "https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N"
-        }
-      ],
-      "duration_ms": 352213,
-      "name": "Spiritus Naturae Aeternus - Single Edit",
-      "url": "https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Riverscape",
         "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
       },
@@ -1899,22 +1899,6 @@
       "duration_ms": 154041,
       "name": "Riverscape",
       "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Piano Piano",
-        "url": "https://open.spotify.com/album/7Ixm1mMAxEiZKAJIDEZPk9"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Fraites",
-          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
-        }
-      ],
-      "duration_ms": 273706,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/4MJ8OAVknShOQ4gvNOfiLk"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1951,6 +1935,22 @@
       "duration_ms": 243306,
       "name": "Verdigris",
       "url": "https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Piano Piano",
+        "url": "https://open.spotify.com/album/7Ixm1mMAxEiZKAJIDEZPk9"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Fraites",
+          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
+        }
+      ],
+      "duration_ms": 273706,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4MJ8OAVknShOQ4gvNOfiLk"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1995,30 +1995,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "The Plover and the Raven",
-        "url": "https://open.spotify.com/album/3iiQcVhNVKFhy5Um9LEpLN"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        },
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        },
-        {
-          "name": "\u00deorsteinn Eyfj\u00f6r\u00f0",
-          "url": "https://open.spotify.com/artist/1mMr1vZmRoRoPKVqJ80Z6O"
-        }
-      ],
-      "duration_ms": 191042,
-      "name": "The Plover and the Raven",
-      "url": "https://open.spotify.com/track/5y3yUHsEpbpVyJxahMBUrk"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Still Blue",
         "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
       },
@@ -2039,50 +2015,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Plume",
-        "url": "https://open.spotify.com/album/4ljmpyMpm9drHONeKDdRsi"
+        "name": "The Plover and the Raven",
+        "url": "https://open.spotify.com/album/3iiQcVhNVKFhy5Um9LEpLN"
       },
       "artists": [
         {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Plume",
-      "url": "https://open.spotify.com/track/5tcNW6V7hwzMlAx0psUtGn"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Sweet Coast",
-        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
-      },
-      "artists": [
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        },
         {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 153041,
-      "name": "Sweet Coast",
-      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
-      },
-      "artists": [
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        },
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "\u00deorsteinn Eyfj\u00f6r\u00f0",
+          "url": "https://open.spotify.com/artist/1mMr1vZmRoRoPKVqJ80Z6O"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
+      "duration_ms": 191042,
+      "name": "The Plover and the Raven",
+      "url": "https://open.spotify.com/track/5y3yUHsEpbpVyJxahMBUrk"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2111,6 +2063,38 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Plume",
+        "url": "https://open.spotify.com/album/4ljmpyMpm9drHONeKDdRsi"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Plume",
+      "url": "https://open.spotify.com/track/5tcNW6V7hwzMlAx0psUtGn"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "beyond the cemetery wall",
         "url": "https://open.spotify.com/album/0iWwuXSLC3FYbax7eJbD6S"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 248578,
       "name": "beyond the cemetery wall",
       "url": "https://open.spotify.com/track/5jmd5yx4vjNEGIApo4FsQX"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Sweet Coast",
+        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 153041,
+      "name": "Sweet Coast",
+      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4Vyt95fnr5xiCvbHjVZo8m"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2ygfpsBguX4i2JdWhbpGVl"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "s\u00e9r\u00e9nades",
         "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 284543,
       "name": "yanni (piano)",
       "url": "https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4Vyt95fnr5xiCvbHjVZo8m"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2ygfpsBguX4i2JdWhbpGVl"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Fredag",
-        "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
-        }
-      ],
-      "duration_ms": 182759,
-      "name": "Fredag",
-      "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "From Sunset",
         "url": "https://open.spotify.com/album/5J2QcipeSJxA2MpkmmDbN1"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 232624,
       "name": "Awaking",
       "url": "https://open.spotify.com/track/3NRhAdTjP60hAfRVQFUEvl"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Fredag",
+        "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+        }
+      ],
+      "duration_ms": 182759,
+      "name": "Fredag",
+      "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Hether Blether",
-        "url": "https://open.spotify.com/album/2F5fka7pQPN25PWepN7jqH"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Marta Salogni",
-          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "Skreevar",
-      "url": "https://open.spotify.com/track/1HV6no2jpivJskyT0dGZsz"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
       },
@@ -2399,82 +2379,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Town of Widows (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56Wl1Ce2jRBfFQjrwKBMTx"
+        "name": "Hether Blether",
+        "url": "https://open.spotify.com/album/2F5fka7pQPN25PWepN7jqH"
       },
       "artists": [
         {
-          "name": "Rob McAllister",
-          "url": "https://open.spotify.com/artist/3Sr2vN8SYHGGuMFG14Bvlg"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Persist and Persevere",
-      "url": "https://open.spotify.com/track/7tZAIFDdk4mTpxyjCmeyR7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "The Open",
-        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
-      },
-      "artists": [
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
         {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+          "name": "Marta Salogni",
+          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
         }
       ],
-      "duration_ms": 214862,
-      "name": "The Open",
-      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Elusive Scent",
-        "url": "https://open.spotify.com/album/2YmL8ONiVXVJVXWL3ovQLk"
-      },
-      "artists": [
-        {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
-        }
-      ],
-      "duration_ms": 228855,
-      "name": "Elusive Scent",
-      "url": "https://open.spotify.com/track/2Xo1zM2lm9wfuaRL9vHOzk"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Akal Ki",
-        "url": "https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Akal Ki",
-      "url": "https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/4LUCc5qqM0OzA8Ay7L8NNV"
-      },
-      "artists": [
-        {
-          "name": "Martin Rott",
-          "url": "https://open.spotify.com/artist/2qhPgYIoY3Shygka4euB1J"
-        }
-      ],
-      "duration_ms": 194938,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3O6PztRt1ojseEbZri5EIb"
+      "duration_ms": 338453,
+      "name": "Skreevar",
+      "url": "https://open.spotify.com/track/1HV6no2jpivJskyT0dGZsz"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2511,26 +2431,82 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Dear, Piano #2",
-        "url": "https://open.spotify.com/album/5KP9x3xuAhtIeDxvCNJWAG"
+        "name": "Town of Widows (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56Wl1Ce2jRBfFQjrwKBMTx"
       },
       "artists": [
         {
-          "name": "Kevin Imbrechts",
-          "url": "https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu"
-        },
-        {
-          "name": "Tom Paul Soetaert",
-          "url": "https://open.spotify.com/artist/6dhUICf4bs6Vu7DrHO2JpG"
-        },
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+          "name": "Rob McAllister",
+          "url": "https://open.spotify.com/artist/3Sr2vN8SYHGGuMFG14Bvlg"
         }
       ],
-      "duration_ms": 212346,
-      "name": "Ll\u0177r - Tom Paul Soetaert Rework",
-      "url": "https://open.spotify.com/track/0xflu1zYGTDOkY5B0HxxzS"
+      "duration_ms": 146666,
+      "name": "Persist and Persevere",
+      "url": "https://open.spotify.com/track/7tZAIFDdk4mTpxyjCmeyR7"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Akal Ki",
+        "url": "https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Akal Ki",
+      "url": "https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 214862,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Elusive Scent",
+        "url": "https://open.spotify.com/album/2YmL8ONiVXVJVXWL3ovQLk"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Elusive Scent",
+      "url": "https://open.spotify.com/track/2Xo1zM2lm9wfuaRL9vHOzk"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/4LUCc5qqM0OzA8Ay7L8NNV"
+      },
+      "artists": [
+        {
+          "name": "Martin Rott",
+          "url": "https://open.spotify.com/artist/2qhPgYIoY3Shygka4euB1J"
+        }
+      ],
+      "duration_ms": 194938,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3O6PztRt1ojseEbZri5EIb"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2551,6 +2527,30 @@
       "duration_ms": 171000,
       "name": "Hiding - Clariloops Rework",
       "url": "https://open.spotify.com/track/1D7OqPLkdYqLwdb8TjinLh"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Dear, Piano #2",
+        "url": "https://open.spotify.com/album/5KP9x3xuAhtIeDxvCNJWAG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Imbrechts",
+          "url": "https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu"
+        },
+        {
+          "name": "Tom Paul Soetaert",
+          "url": "https://open.spotify.com/artist/6dhUICf4bs6Vu7DrHO2JpG"
+        },
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Ll\u0177r - Tom Paul Soetaert Rework",
+      "url": "https://open.spotify.com/track/0xflu1zYGTDOkY5B0HxxzS"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2627,18 +2627,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "S\u00f8ndag",
-        "url": "https://open.spotify.com/album/4hCn9xh31Xa4uNYtKpU1zP"
+        "name": "is this really it?",
+        "url": "https://open.spotify.com/album/0iAe8b0UeOxLbQHsippL5M"
       },
       "artists": [
         {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Jon Notar",
+          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
+        },
+        {
+          "name": "Async Ross",
+          "url": "https://open.spotify.com/artist/7yePXFsl8Y7GORfnIGlbFS"
         }
       ],
-      "duration_ms": 193991,
-      "name": "S\u00f8ndag",
-      "url": "https://open.spotify.com/track/6grFQLBBBDRgDV8l18S7Zo"
+      "duration_ms": 172716,
+      "name": "is this really it?",
+      "url": "https://open.spotify.com/track/2A8n9X3Jvw2oh7DH8OozPu"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2663,6 +2671,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "S\u00f8ndag",
+        "url": "https://open.spotify.com/album/4hCn9xh31Xa4uNYtKpU1zP"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+        }
+      ],
+      "duration_ms": 193991,
+      "name": "S\u00f8ndag",
+      "url": "https://open.spotify.com/track/6grFQLBBBDRgDV8l18S7Zo"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "I'll see you in 21 days",
         "url": "https://open.spotify.com/album/6JQWU4rb25aKO5HuKsWdXi"
       },
@@ -2675,30 +2699,6 @@
       "duration_ms": 230400,
       "name": "I'll see you in 21 days",
       "url": "https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "is this really it?",
-        "url": "https://open.spotify.com/album/0iAe8b0UeOxLbQHsippL5M"
-      },
-      "artists": [
-        {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
-        },
-        {
-          "name": "Jon Notar",
-          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
-        },
-        {
-          "name": "Async Ross",
-          "url": "https://open.spotify.com/artist/7yePXFsl8Y7GORfnIGlbFS"
-        }
-      ],
-      "duration_ms": 172716,
-      "name": "is this really it?",
-      "url": "https://open.spotify.com/track/2A8n9X3Jvw2oh7DH8OozPu"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2883,6 +2883,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/3tWkevxZNDag39cJiS2H91"
+      },
+      "artists": [
+        {
+          "name": "Roary",
+          "url": "https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd"
+        }
+      ],
+      "duration_ms": 264689,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/4aevsaCgjZ3MkXO5ctc0Km"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Suspended (Reimagined by Anne M\u00fcller)",
         "url": "https://open.spotify.com/album/6qwHM77mCcgnqQgPKLr3TX"
       },
@@ -2903,22 +2919,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sakura Sakura",
-        "url": "https://open.spotify.com/album/4LUSWR1gdXKX5FDzC4r16J"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 245999,
-      "name": "Sakura Sakura",
-      "url": "https://open.spotify.com/track/0qGzFSA5UixwAbB7RSW65M"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Hammer Frenzy",
         "url": "https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl"
       },
@@ -2935,6 +2935,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Sakura Sakura",
+        "url": "https://open.spotify.com/album/4LUSWR1gdXKX5FDzC4r16J"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 245999,
+      "name": "Sakura Sakura",
+      "url": "https://open.spotify.com/track/0qGzFSA5UixwAbB7RSW65M"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Landbrot II",
         "url": "https://open.spotify.com/album/4CANYSuVOvVmKAPkYtq8tM"
       },
@@ -2947,22 +2963,6 @@
       "duration_ms": 245493,
       "name": "Rjo\u0301\u00f0ur",
       "url": "https://open.spotify.com/track/4YqW8DorMNHqsEus1Vgtju"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/3tWkevxZNDag39cJiS2H91"
-      },
-      "artists": [
-        {
-          "name": "Roary",
-          "url": "https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd"
-        }
-      ],
-      "duration_ms": 264689,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/4aevsaCgjZ3MkXO5ctc0Km"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -3019,6 +3019,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Somersault",
         "url": "https://open.spotify.com/album/63LVsprZWfyUhv7rUQE5Rw"
       },
@@ -3035,22 +3051,6 @@
       "duration_ms": 156000,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/4Tjsng3a8esls6YG4F5stt"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Acqua",
-        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -3195,38 +3195,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "ouessant (piano)",
-        "url": "https://open.spotify.com/album/2vtfEfWiDwU4dNMT3XU3Pd"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 272574,
-      "name": "ouessant (piano)",
-      "url": "https://open.spotify.com/track/2JeyagJwCiR8C5VNrbkZB0"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Meant To Be",
-        "url": "https://open.spotify.com/album/1zGNymSjtn37rA11ua8bcQ"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/7oTmFx6P6v6ul1vemi20Ng"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "I Am at Home",
         "url": "https://open.spotify.com/album/7HvzyuwD2g5JdrfwNGXD7f"
       },
@@ -3243,6 +3211,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "ouessant (piano)",
+        "url": "https://open.spotify.com/album/2vtfEfWiDwU4dNMT3XU3Pd"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 272574,
+      "name": "ouessant (piano)",
+      "url": "https://open.spotify.com/track/2JeyagJwCiR8C5VNrbkZB0"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Species (solo piano)",
         "url": "https://open.spotify.com/album/4ocsLDi0a810YKIBX2cLyk"
       },
@@ -3255,6 +3239,22 @@
       "duration_ms": 421306,
       "name": "Body in a Room - solo piano",
       "url": "https://open.spotify.com/track/1mpPJgTUJP7gJchcyhid8V"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/1zGNymSjtn37rA11ua8bcQ"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/7oTmFx6P6v6ul1vemi20Ng"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -3499,6 +3499,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Building Blocks Pt. 2",
+        "url": "https://open.spotify.com/album/0Sye4Hp6UMJfMrAqsNlZg1"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 278435,
+      "name": "Don\u2019t Walk Alone",
+      "url": "https://open.spotify.com/track/1h91XWq9tdjGGPZLUX0sss"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "j\u00f3l",
         "url": "https://open.spotify.com/album/12wOn1w7bkEOHSITYeQlWh"
       },
@@ -3535,22 +3551,6 @@
       "duration_ms": 234286,
       "name": "New Conditions",
       "url": "https://open.spotify.com/track/3bTSywwx3ShKyarKIP05sq"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Building Blocks Pt. 2",
-        "url": "https://open.spotify.com/album/0Sye4Hp6UMJfMrAqsNlZg1"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 278435,
-      "name": "Don\u2019t Walk Alone",
-      "url": "https://open.spotify.com/track/1h91XWq9tdjGGPZLUX0sss"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -3627,6 +3627,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Sketches",
+        "url": "https://open.spotify.com/album/3dVKfv3fNcsBUnyhapuXBj"
+      },
+      "artists": [
+        {
+          "name": "Heavy Joy",
+          "url": "https://open.spotify.com/artist/1wePsEhvYwt61C6B4OryZ7"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/0sY2m9IXMNzsSH4hygKX2S"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Ae Fond Kiss",
         "url": "https://open.spotify.com/album/2jwLmcOympsOwp9ai4PuEx"
       },
@@ -3643,22 +3659,6 @@
       "duration_ms": 219570,
       "name": "Ae Fond Kiss",
       "url": "https://open.spotify.com/track/38mXFnlp9LSFKx7wZcnsJF"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Sketches",
-        "url": "https://open.spotify.com/album/3dVKfv3fNcsBUnyhapuXBj"
-      },
-      "artists": [
-        {
-          "name": "Heavy Joy",
-          "url": "https://open.spotify.com/artist/1wePsEhvYwt61C6B4OryZ7"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/0sY2m9IXMNzsSH4hygKX2S"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -3903,22 +3903,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Eagles Flight",
-        "url": "https://open.spotify.com/album/62mVwJekp8RwY5QFLpLgx0"
-      },
-      "artists": [
-        {
-          "name": "Blurstem",
-          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Eagles Flight",
-      "url": "https://open.spotify.com/track/6UksCv4F5AqNeyLI69f3lW"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/4TZ1YUOMu63m7sSdJK6Y7P"
       },
@@ -3935,6 +3919,22 @@
       "duration_ms": 123452,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6ou0MHr8DllyO2M9YyAV46"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Eagles Flight",
+        "url": "https://open.spotify.com/album/62mVwJekp8RwY5QFLpLgx0"
+      },
+      "artists": [
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Eagles Flight",
+      "url": "https://open.spotify.com/track/6UksCv4F5AqNeyLI69f3lW"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -4043,22 +4043,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Ocelli",
-        "url": "https://open.spotify.com/album/6CvdHAnQpejzBSLOqQWKa6"
-      },
-      "artists": [
-        {
-          "name": "Blurstem",
-          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Ocelli",
-      "url": "https://open.spotify.com/track/2WOrvP152lDJKuzmS75WEi"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Night Feet",
         "url": "https://open.spotify.com/album/5aMu0gWvyjdrqJDZwrbXEX"
       },
@@ -4071,6 +4055,22 @@
       "duration_ms": 342399,
       "name": "Night Feet",
       "url": "https://open.spotify.com/track/3rjdmftFeSqdcYAibVOFO3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Ocelli",
+        "url": "https://open.spotify.com/album/6CvdHAnQpejzBSLOqQWKa6"
+      },
+      "artists": [
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Ocelli",
+      "url": "https://open.spotify.com/track/2WOrvP152lDJKuzmS75WEi"
     },
     {
       "added_at": "2024-06-07 04:00:00",

@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 198026,
       "name": "Aquiles Afirmo",
       "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
@@ -7216,7 +7216,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
@@ -19498,6 +19498,24 @@
       "duration_ms": 203546,
       "name": "LENTITO",
       "url": "https://open.spotify.com/track/5cqeTJhPAfHU4ROwcgG5L4"
+    },
+    {
+      "album": {
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
     },
     {
       "album": {
@@ -37420,6 +37438,28 @@
       "duration_ms": 188000,
       "name": "Triple Ja Ja Ja",
       "url": "https://open.spotify.com/track/4gtpLY9F27CF2TJnwZqHrY"
+    },
+    {
+      "album": {
+        "name": "TRR TAC TAC",
+        "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "TRR TAC TAC",
+      "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
     },
     {
       "album": {

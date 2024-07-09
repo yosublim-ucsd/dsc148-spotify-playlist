@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 460842,
+  "num_followers": 460862,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
     },
     {
-      "added_at": "2024-05-30 23:30:24",
-      "album": {
-        "name": "3FOR82",
-        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "H0N3Y",
-      "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
-    },
-    {
       "added_at": "2024-07-05 04:07:56",
       "album": {
         "name": "Data Passenger EP",
@@ -107,6 +91,22 @@
       "duration_ms": 307278,
       "name": "Data Passenger",
       "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
+    },
+    {
+      "added_at": "2024-05-30 23:30:24",
+      "album": {
+        "name": "3FOR82",
+        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "H0N3Y",
+      "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
     },
     {
       "added_at": "2024-03-19 03:30:26",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
+      "added_at": "2023-04-12 14:46:36",
+      "album": {
+        "name": "As Fallen Leaves",
+        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
+      },
+      "artists": [
+        {
+          "name": "Serge Geyzel",
+          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
+        }
+      ],
+      "duration_ms": 299558,
+      "name": "Don't Know What You Are Thinking",
+      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
+    },
+    {
       "added_at": "2023-06-27 23:11:49",
       "album": {
         "name": "In The Afterworld",
@@ -457,20 +473,20 @@
       "url": "https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK"
     },
     {
-      "added_at": "2023-04-12 14:46:36",
+      "added_at": "2022-12-07 01:09:17",
       "album": {
-        "name": "As Fallen Leaves",
-        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
       },
       "artists": [
         {
-          "name": "Serge Geyzel",
-          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
         }
       ],
-      "duration_ms": 299558,
-      "name": "Don't Know What You Are Thinking",
-      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2024-01-05 03:32:15",
@@ -493,22 +509,6 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2023-01-07 02:50:03",
       "album": {
         "name": "ITSAME",
@@ -523,38 +523,6 @@
       "duration_ms": 461613,
       "name": "ITSAME [group hugg]",
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
-    },
-    {
-      "added_at": "2022-04-29 18:24:26",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
-      "added_at": "2023-04-12 01:28:07",
-      "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
-      },
-      "artists": [
-        {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -577,6 +545,38 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
+      "added_at": "2023-04-12 01:28:07",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
       "added_at": "2022-03-11 06:33:02",
       "album": {
         "name": "Yesterday Faded (Edit)",
@@ -591,38 +591,6 @@
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
-    },
-    {
-      "added_at": "2023-11-15 16:34:12",
-      "album": {
-        "name": "Time to Leave",
-        "url": "https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh"
-      },
-      "artists": [
-        {
-          "name": "\u017bY\u0143Y",
-          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Time to Leave",
-      "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
-    },
-    {
-      "added_at": "2022-03-30 05:10:26",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -647,6 +615,38 @@
       "duration_ms": 321210,
       "name": "Hondo (Remix)",
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
+    },
+    {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
+      "added_at": "2023-11-15 16:34:12",
+      "album": {
+        "name": "Time to Leave",
+        "url": "https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Time to Leave",
+      "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
     },
     {
       "added_at": "2022-07-15 18:13:54",

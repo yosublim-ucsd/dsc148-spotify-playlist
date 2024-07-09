@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,640 likes - 115 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,852 likes - 115 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 27 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |
 | 28 | [Spanish Harlem \- Nuits d'Espagne](https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU), [Françoise Pourcel](https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc) | [Franck Pourcel : Originals, vol\. 8](https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL) | 2:26 |
 | 29 | [Lily Was Here \(feat\. Candy Dulfer\)](https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:20 |
-| 30 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
-| 31 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |
+| 30 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |
+| 31 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
 | 32 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 33 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 |
 | 34 | [Amore Grande Amore Libero](https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz) | [Orquesta Romanticos de La Habana](https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi) | [Temas Prohibidos del Cine](https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt) | 3:36 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 42 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
 | 43 | [Never On Sunday](https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Tara's Theme from "Gone With The Wind" and Other Movie Themes](https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li) | 2:42 |
 | 44 | [Wenn wir auseinandergeh'n \(Please Release Me\)](https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD) | [Captain Cook Und Seine Singenden Saxophone](https://open.spotify.com/artist/4UtSK2tnFD8onyFS34QusX) | [Heimat Deine Sterne, Folge 4](https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs) | 2:13 |
-| 45 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
-| 46 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
+| 45 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
+| 46 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
 | 47 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 |
 | 48 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
 | 49 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |

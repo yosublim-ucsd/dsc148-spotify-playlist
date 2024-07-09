@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 13254,
+  "num_followers": 13282,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Canci\u00f3n 2",
-        "url": "https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 148767,
-      "name": "Canci\u00f3n 2",
-      "url": "https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 202282,
       "name": "m\u00e1s y menos",
       "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Canci\u00f3n 2",
+        "url": "https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 148767,
+      "name": "Canci\u00f3n 2",
+      "url": "https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
-        "url": "https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
-      "url": "https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Si Te Soy Sincera",
         "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 159835,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
+        "url": "https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
+      "url": "https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr"
     },
     {
       "added_at": "2024-06-28 04:00:00",

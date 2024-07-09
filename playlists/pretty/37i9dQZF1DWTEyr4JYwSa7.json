@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 58517,
+  "num_followers": 58513,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        },
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
-    },
-    {
-      "added_at": "2023-12-16 03:23:16",
-      "album": {
         "name": "Six heures d'avion nous s\u00e9parent",
         "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 168400,
       "name": "Six heures d'avion nous s\u00e9parent",
       "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
+    },
+    {
+      "added_at": "2023-12-16 03:23:16",
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        },
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Chansons tristes pour No\u00ebl",
-        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "No\u00ebl sous les tropiques",
-      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
-    },
-    {
-      "added_at": "2023-12-16 03:23:16",
-      "album": {
         "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
         "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 189666,
       "name": "Mon Beau Sapin",
       "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
+    },
+    {
+      "added_at": "2023-12-16 03:23:16",
+      "album": {
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "No\u00ebl sous les tropiques",
+      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
-      },
-      "artists": [
-        {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "J'ai vu maman",
-      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
-    },
-    {
-      "added_at": "2023-12-16 03:23:16",
-      "album": {
         "name": "On attendait No\u00ebl",
         "url": "https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 226786,
       "name": "On attendait No\u00ebl",
       "url": "https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY"
+    },
+    {
+      "added_at": "2023-12-16 03:23:16",
+      "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "J'ai vu maman",
+      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Le ciel \u00e9tait blanc / Ribbons",
-        "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
       },
       "artists": [
         {
-          "name": "Mirabelle",
-          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
         }
       ],
-      "duration_ms": 266933,
-      "name": "Le ciel \u00e9tait blanc",
-      "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
+      "duration_ms": 189186,
+      "name": "Pour la premi\u00e8re fois, No\u00ebl sera gris",
+      "url": "https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw"
     },
     {
       "added_at": "2023-12-16 03:23:16",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-12-16 03:23:16",
       "album": {
-        "name": "Chansons tristes pour No\u00ebl",
-        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+        "name": "Le ciel \u00e9tait blanc / Ribbons",
+        "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
       },
       "artists": [
         {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          "name": "Mirabelle",
+          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
         }
       ],
-      "duration_ms": 189186,
-      "name": "Pour la premi\u00e8re fois, No\u00ebl sera gris",
-      "url": "https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw"
+      "duration_ms": 266933,
+      "name": "Le ciel \u00e9tait blanc",
+      "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
     },
     {
       "added_at": "2023-12-16 03:23:16",

@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: Trio Mio",
-  "num_followers": 26746,
+  "num_followers": 26753,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn38xAAAAABVJhAki6LUq0xmt/KS20NN",
+  "snapshot_id": "ZoujOwAAAABDZbM5FWzONnbuyaHELgYK",
   "tracks": [
     {
       "added_at": "2024-06-27 23:59:00",
@@ -51,6 +51,26 @@
       "duration_ms": 210012,
       "name": "Zinaclap",
       "url": "https://open.spotify.com/track/5cdYbPNbSep1hek6X2CtDF"
+    },
+    {
+      "added_at": "2024-07-08 08:28:43",
+      "album": {
+        "name": "ANGUKA NAYO",
+        "url": "https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm"
+      },
+      "artists": [
+        {
+          "name": "From The Hood Music",
+          "url": "https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0"
+        },
+        {
+          "name": "Wadagliz",
+          "url": "https://open.spotify.com/artist/09anIildhJurE3DtSp8WLn"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "ANGUKA NAYO",
+      "url": "https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE"
     },
     {
       "added_at": "2024-06-27 23:59:00",
@@ -1651,30 +1671,6 @@
       "duration_ms": 202712,
       "name": "Do Ri Me",
       "url": "https://open.spotify.com/track/6nO5KlzzA3pq3DCtMCDC42"
-    },
-    {
-      "added_at": "2024-06-27 23:59:00",
-      "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot"
-      },
-      "artists": [
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
-        },
-        {
-          "name": "Kushman",
-          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
-        },
-        {
-          "name": "Kappy",
-          "url": "https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Wambo",
-      "url": "https://open.spotify.com/track/2PrCP14dXcFeBsV4ksFi1C"
     },
     {
       "added_at": "2024-06-27 23:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,711 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,769 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 79 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
 | 80 | [World Broken](https://open.spotify.com/track/6j8tX662jlsjSb96PpXHti) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [Denizen Tenant](https://open.spotify.com/album/7o6Qx2tdamdUKmNZYKBu5B) | 4:41 |
 
-Snapshot ID: `ZIsShgAAAACKZ13wfK2YBlmvDr0jh21q`
+Snapshot ID: `ZowqsgAAAADef6XjYGN9EYEUJDPMu6zq`

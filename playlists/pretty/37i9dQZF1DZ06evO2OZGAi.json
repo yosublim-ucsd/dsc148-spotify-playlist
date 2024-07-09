@@ -1,12 +1,12 @@
 {
-  "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 6291,
+  "description": "This Is Am\u00e9n. Los temas esenciales, todos en una lista.",
+  "num_followers": 6296,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAGHFsNSgUs0KuNRPdOGm24",
+  "snapshot_id": "ZonagAAAAABiTDL+tmHpuibGUDTEaH8s",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+        "name": "Somos la Gente (Somos 2)",
+        "url": "https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Caras Maquilladas",
-      "url": "https://open.spotify.com/track/0svWbaRgTAjKBEU2a0axfS"
+      "duration_ms": 218680,
+      "name": "Donde T\u00fa Est\u00e1s",
+      "url": "https://open.spotify.com/track/6iWteGgHE7iEPFe7jIcNbY"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Caras Maquilladas",
+      "url": "https://open.spotify.com/track/0svWbaRgTAjKBEU2a0axfS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos la Gente (Somos 2)",
         "url": "https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "El Tunel del Amor",
-      "url": "https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMEN",
         "url": "https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl"
       },
@@ -363,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos 2)",
-        "url": "https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Donde T\u00fa Est\u00e1s",
-      "url": "https://open.spotify.com/track/6iWteGgHE7iEPFe7jIcNbY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Ahora Volar\u00e9",
-      "url": "https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
@@ -404,25 +372,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Simplemente",
-      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "El D\u00eda",
-      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
+      "duration_ms": 130500,
+      "name": "El Tunel del Amor",
+      "url": "https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN"
     },
     {
       "added_at": null,
@@ -443,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Cuatro Paredes",
-        "url": "https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
       },
       "artists": [
         {
@@ -452,25 +404,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Entre Cuatro Paredes",
-      "url": "https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
+      "duration_ms": 179000,
+      "name": "Ahora Volar\u00e9",
+      "url": "https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ"
     },
     {
       "added_at": null,
@@ -484,9 +420,41 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5"
+      "duration_ms": 160306,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Simplemente",
+      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Cuatro Paredes",
+        "url": "https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Entre Cuatro Paredes",
+      "url": "https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM"
     },
     {
       "added_at": null,
@@ -507,6 +475,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rutas",
         "url": "https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd"
       },
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 157524,
-      "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
-      "url": "https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf"
+      "duration_ms": 138337,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 138337,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh"
+      "duration_ms": 157524,
+      "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
+      "url": "https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "\u00c9chale la Culpa al Rock N' Roll",
+      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/1gf3hGi60TRvxyN4dDIJFZ"
       },
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 253733,
-      "name": "No Me Estoy Quemando",
-      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
+      "duration_ms": 212000,
+      "name": "Haz el Amor",
+      "url": "https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9"
     },
     {
       "added_at": null,

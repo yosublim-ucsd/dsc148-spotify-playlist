@@ -2,7 +2,7 @@
 
 ### [This Is mxmtoon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lGcr7)
 
-> This Is mxmtoon\. Los temas esenciales, todos en una lista.
+> This is mxmtoon\. The essential tracks, all in one playlist.
 
 81 songs - 4 hr 16 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [1, 2](https://open.spotify.com/track/7vpBAYLRWsyoXRKBkEn6IK) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:03 | 2023-05-02 |  |
 | [1\-800\-DATEME](https://open.spotify.com/track/1E4x23BZdBNTM7Cb3yA8KE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [1\-800\-DATEME](https://open.spotify.com/album/4Zkrf273rO4KBIm16zPKQ3) | 1:54 | 2023-05-02 | 2023-08-10 |
-| [1\-800\-DATEME](https://open.spotify.com/track/2iClCG0J0gQhDHJxxknTGg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [1\-800\-DATEME](https://open.spotify.com/album/1WML7GXWm5N53g9LA8vXCO) | 1:54 | 2023-08-31 | 2023-12-14 |
+| [1\-800\-DATEME](https://open.spotify.com/track/2iClCG0J0gQhDHJxxknTGg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [1\-800\-DATEME](https://open.spotify.com/album/1WML7GXWm5N53g9LA8vXCO) | 1:54 | 2023-08-31 |  |
 | [1\-800\-DATEME \- revisited](https://open.spotify.com/track/5eyXlkdzR9Crpkcruu2SpB) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 2:00 | 2023-12-13 | 2024-06-19 |
 | [almost home](https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:28 | 2023-05-02 |  |
 | [asking for a friend](https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:18 | 2023-05-02 |  |
@@ -87,7 +87,7 @@
 | [unspoken words](https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 4:06 | 2023-12-14 |  |
 | [used to you](https://open.spotify.com/track/3UsxVebZkPE4TUvon8IHiS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:54 | 2023-05-02 |  |
 | [victim of nostalgia](https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:36 | 2023-05-02 |  |
-| [walk but in a garden \(feat\. mxmtoon\)](https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [BUFFET](https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV) | 1:50 | 2023-05-02 |  |
+| [walk but in a garden \(feat\. mxmtoon\)](https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [BUFFET](https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV) | 1:50 | 2023-05-02 | 2024-07-09 |
 | [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 | 2023-05-02 | 2024-05-17 |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 36825,
+  "num_followers": 36853,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
-      },
-      "artists": [
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -595,34 +575,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Holotropica",
-        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Ubiquitous",
-      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+      "duration_ms": 288693,
+      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -647,6 +615,38 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Holotropica",
+        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Ubiquitous",
+      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Blink a Few Times to Clear Your Eyes",
+        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
+      },
+      "artists": [
+        {
+          "name": "Grand River",
+          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
+        }
+      ],
+      "duration_ms": 431187,
+      "name": "Canopies",
+      "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "@0",
         "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
       },
@@ -1151,6 +1167,22 @@
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Fur & Feather",
+        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1171,38 +1203,6 @@
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Blink a Few Times to Clear Your Eyes",
-        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
-      },
-      "artists": [
-        {
-          "name": "Grand River",
-          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
-        }
-      ],
-      "duration_ms": 431187,
-      "name": "Canopies",
-      "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Fur & Feather",
-        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "When This World Sleeps",
-        "url": "https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ"
-      },
-      "artists": [
-        {
-          "name": "Dita Redrum",
-          "url": "https://open.spotify.com/artist/0uSrH9aWp8RsO5aZSzZHap"
-        }
-      ],
-      "duration_ms": 194004,
-      "name": "Dark green",
-      "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "The Harmonic Series Volume 2",
         "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 868000,
       "name": "Pipe Inversions",
       "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "When This World Sleeps",
+        "url": "https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ"
+      },
+      "artists": [
+        {
+          "name": "Dita Redrum",
+          "url": "https://open.spotify.com/artist/0uSrH9aWp8RsO5aZSzZHap"
+        }
+      ],
+      "duration_ms": 194004,
+      "name": "Dark green",
+      "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "My People Have Deep Roots",
-        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "The Sacrificial Code",
         "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 174758,
       "name": "As We Record the Disappearing Ice",
       "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "My People Have Deep Roots",
+        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
     },
     {
       "added_at": "2023-09-08 14:04:07",

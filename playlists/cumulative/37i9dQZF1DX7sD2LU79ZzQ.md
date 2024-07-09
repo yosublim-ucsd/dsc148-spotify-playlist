@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Anggis Devaki
 
-371 songs - 1 day 0 hr 13 min
+372 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Ku Tak Mampu Lagi](https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Harapan](https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77) | 4:14 | 2024-01-18 | 2024-04-12 |
 | [Kukira Hanya Lagu](https://open.spotify.com/track/37lt8ItlvPlHFg6V5pYzih) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Kukira Hanya Lagu](https://open.spotify.com/album/1cDf5UybBdkY64gV4F1EjA) | 3:35 | 2024-01-26 | 2024-05-10 |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-04-18 |  |
+| [LAB \(Lanjut Atau Berhenti\)](https://open.spotify.com/track/3hzEVI3DvRiiwGaVVJUguN) | [DNDY](https://open.spotify.com/artist/1CcuT7tBgWnAwqdWqUGQez) | [ORBIT](https://open.spotify.com/album/7tWr2b9BugAQDkh2IqcaCo) | 3:51 | 2024-07-08 |  |
 | [Lagu Lama](https://open.spotify.com/track/5pXbx9GLA7G7VOSVFEBJFW) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Lagu Lama](https://open.spotify.com/album/6gtIruxboZVfDgE2JKREwM) | 3:33 | 2024-04-25 |  |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-01 | 2024-06-01 |
 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:16 | 2024-04-18 | 2024-05-24 |

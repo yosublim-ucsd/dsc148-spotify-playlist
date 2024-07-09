@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Sexy Zebras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,079 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,094 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 51 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 |
 | 52 | [5 meses](https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o) | [Agudo](https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6) | [5 MESES](https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY) | 3:11 |
 | 53 | [Martes 13](https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Martes 13](https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb) | 3:01 |
-| 54 | [Tekken](https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Tekken](https://open.spotify.com/album/43Ost0Cu1JwQPIVA8fgxXs) | 4:21 |
+| 54 | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG) | 3:19 |
 | 55 | [Tu nombre es una puerta por cerrar](https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tu nombre es una puerta por cerrar](https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH) | 4:04 |
-| 56 | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG) | 3:19 |
+| 56 | [Tekken](https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Tekken](https://open.spotify.com/album/43Ost0Cu1JwQPIVA8fgxXs) | 4:21 |
 | 57 | [No me devuelvas la palabra](https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [No me devuelvas la palabra](https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl) | 3:03 |
 | 58 | [Las Victorias y Derrotas](https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Desde Flores y Entrañas](https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm) | 3:26 |
 | 59 | [Sin Hablar](https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Repion](https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R) | 3:25 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 67 | [La estrella eres tú](https://open.spotify.com/track/02D1Dj42VGXSg45nY5YMe1) | [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [La estrella eres tú](https://open.spotify.com/album/4wjcEIgfl8UXALJ8RMf5Sl) | 3:17 |
 | 68 | [Vino el Amor](https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Esta historia ya no está disponible](https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O) | 2:36 |
 | 69 | [Todo por el Aire](https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP) | [Corazones Eléctricos](https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP) | [Todo por el Aire](https://open.spotify.com/album/25WZmHdRMfpS24qxsCwGKL) | 3:43 |
-| 70 | [patito](https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [patito](https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ) | 2:54 |
+| 70 | [¿cómo estás?](https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [¿cómo estás?](https://open.spotify.com/album/1KKLtNhUyiP0atBtscOLsn) | 2:53 |
 | 71 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |
-| 72 | [¿cómo estás?](https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [¿cómo estás?](https://open.spotify.com/album/1KKLtNhUyiP0atBtscOLsn) | 2:53 |
+| 72 | [patito](https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [patito](https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ) | 2:54 |
 | 73 | [FATAL, GRACIAS](https://open.spotify.com/track/074wAQGPvi3hOFzwsA94yE) | [Coolnenas](https://open.spotify.com/artist/4hLqOlbnetKrAoF7PHZzwd), [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [FATAL, GRACIAS](https://open.spotify.com/album/1xD40JizwIWMrgncSJFlqH) | 2:20 |
 | 74 | [Tú y Yo y Todos Los Demás](https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ) | [Joder Juan](https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9) | [Tú y Yo y Todos Los Demás](https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe) | 1:59 |
 | 75 | [Dos Galaxias](https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Dos Galaxias](https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH) | 3:31 |

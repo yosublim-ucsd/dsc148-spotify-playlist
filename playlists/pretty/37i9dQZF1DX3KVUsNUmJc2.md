@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Long live the king\. Listen to music from and inspired by Agent Elvis, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,740 likes - 78 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,791 likes - 78 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trouble / Guitar Man \- Live from the '68 Comeback Special](https://open.spotify.com/track/5blcqgpsuKhm0WQwMsmywj) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Best of The '68 Comeback Special \(Live\)](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 3:26 |
-| 2 | [If Ever I Would Leave You](https://open.spotify.com/track/6XwsI37WkJFP7jKq0odpWi) | [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR), [Original Broadway Cast of Camelot](https://open.spotify.com/artist/0pSo061DnbCpvQxDjzI8Q5) | [The Essential Robert Goulet](https://open.spotify.com/album/5oMHT5nCTGvtSrH4r64bw0) | 3:09 |
+| 2 | [Camelot: If Ever I Would Leave You](https://open.spotify.com/track/6XwsI37WkJFP7jKq0odpWi) | [Frederick Loewe](https://open.spotify.com/artist/6vSV6SDf1vteodhgV83AJ6), [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR), [Original Broadway Cast of Camelot](https://open.spotify.com/artist/0pSo061DnbCpvQxDjzI8Q5), [Franz Allers](https://open.spotify.com/artist/6WdfiLSbnrKRLINWsG1UCe) | [The Essential Robert Goulet](https://open.spotify.com/album/5oMHT5nCTGvtSrH4r64bw0) | 3:09 |
 | 3 | [If I Can Dream \- Live from the '68 Comeback Special](https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [NBC\-TV Special \(Live\)](https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX) | 3:20 |
 | 4 | [Viva Las Vegas](https://open.spotify.com/track/5Q7ayTarb9Tpmkik5cVMug) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Gold Records, Vol\. 4](https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a) | 2:24 |
 | 5 | [Hello, I Love You](https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:13 |

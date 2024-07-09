@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 17936,
+  "num_followers": 17938,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAhjOKa/TYejDeCflStvul9",
+  "snapshot_id": "ZonagAAAAAC3Z3Y6arUI01QjKT2uvA+v",
   "tracks": [
     {
       "added_at": null,
@@ -207,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 513866,
-      "name": "East of the Full Moon",
-      "url": "https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u"
+      "duration_ms": 488866,
+      "name": "Kiss of a Rose",
+      "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
     },
     {
       "added_at": null,
@@ -239,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 488866,
-      "name": "Kiss of a Rose",
-      "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
+      "duration_ms": 513866,
+      "name": "East of the Full Moon",
+      "url": "https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bamboo Forest",
-        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 349133,
-      "name": "Kyoto Garden",
-      "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
+      "duration_ms": 1125226,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
+        "name": "Bamboo Forest",
+        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 1125226,
-      "name": "Endless Horizon",
-      "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
+      "duration_ms": 349133,
+      "name": "Kyoto Garden",
+      "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Time",
+        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 367046,
+      "name": "Moving Seagrass",
+      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 217893,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Time",
-        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 367046,
-      "name": "Moving Seagrass",
-      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
     },
     {
       "added_at": null,

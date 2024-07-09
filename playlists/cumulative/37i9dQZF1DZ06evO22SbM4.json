@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 160666,
       "name": "Fadeaway",
       "url": "https://open.spotify.com/track/0deEg960cHibvZ8d80hvWx"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 207567,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/0glkts20NpDPX8sZEQpctJ"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
@@ -362,10 +362,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 217600,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204179,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/1XDyVXt7xfw5l301dL3wz2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: BE:FIRST, ATEEZ
 
-1,100 songs - 2 day 11 hr 28 min
+1,103 songs - 2 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 | 2022-09-21 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-10-30 | 2024-02-07 |
+| [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-09 |  |
 | [HELLO](https://open.spotify.com/track/0xd4HZuHxk3ol5AFDxgAEK) | [Sanha](https://open.spotify.com/artist/1L7aDqsr2ACWR6h75SsL3c) | [HELLO](https://open.spotify.com/album/2BLiOaGVkavo7azxjJn4rB) | 3:32 | 2022-01-25 | 2022-02-12 |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-04 | 2023-01-18 |
 | [HELLO \- JP Ver.](https://open.spotify.com/track/4QiD4Qkiq1Gw2v2FkKIgqe) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:01 | 2022-11-24 | 2023-03-15 |
@@ -501,6 +502,7 @@
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-09 | 2022-10-19 |
 | [Kiss me Baby](https://open.spotify.com/track/4j9oSggZykTGFCNqJ3PNRm) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [iDENTIFICATION](https://open.spotify.com/album/0gnFa9WBs7N50tOtNMRi5Z) | 3:19 | 2023-10-17 | 2023-11-23 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-27 | 2023-05-10 |
+| [Klaxon](https://open.spotify.com/track/32Zr1pnXLBLzj34RynRYpz) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5dwzsNcntYNMFan9LvRxJM) | 2:55 | 2024-07-09 |  |
 | [Knock On My Door](https://open.spotify.com/track/0hAvf6Lzo1rYcq7aOtdohj) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Knock On My Door](https://open.spotify.com/album/1cNekjNeCf2CaHdiJk0S44) | 2:25 | 2023-03-21 | 2023-05-10 |
 | [La Vida Loca](https://open.spotify.com/track/5YazeJ15q1Mypr9ZYLJaT9) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [La Vida Loca](https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z) | 3:07 | 2022-08-09 | 2022-10-12 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-09 | 2024-04-03 |
@@ -738,6 +740,7 @@
 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-20 |  |
 | [RIDING \(feat\. 박현진\)](https://open.spotify.com/track/3gXYeDKkxDJYXviGNBMzLy) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Park Hyeon Jin](https://open.spotify.com/artist/4l7oDG5masdHj8IfySlVMK) | [Citymare, Cityzone](https://open.spotify.com/album/5VR3J5G2pBj1JziXjAW7zJ) | 3:10 | 2022-02-24 | 2022-03-23 |
 | [RINGO](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz) | 3:29 | 2023-09-26 |  |
+| [RISE UP \-Korean ver.\-](https://open.spotify.com/track/5f6IUEQLR0gk6iiPccKqgP) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \-Korean ver.\-](https://open.spotify.com/album/5SsyK7yxt7AZd5uyNYAkSZ) | 3:00 | 2024-07-09 |  |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-23 | 2022-01-04 |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-23 | 2022-10-28 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 |  |

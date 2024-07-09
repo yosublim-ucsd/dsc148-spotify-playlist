@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj?si=UOfBGOhwRNi2PUqdIRHVzg">Audiomarc</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,077 likes - 63 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,149 likes - 63 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

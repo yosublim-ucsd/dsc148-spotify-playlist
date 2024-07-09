@@ -4,7 +4,7 @@
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Latifa
 
-325 songs - 19 hr 32 min
+326 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 | 2023-08-27 | 2024-02-07 |
 | [Men Ghir Mogamla](https://open.spotify.com/track/5ZPaDUntiwcY86bPeFi22x) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Men Ghir Mogamla](https://open.spotify.com/album/5A4ZBCwAsBVmsp305BAo9R) | 3:35 | 2022-05-04 | 2022-07-13 |
 | [Men Kan Yesda2](https://open.spotify.com/track/0fbkNOvYVWwdxfi2Yixpb3) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Men Kan Yesda2](https://open.spotify.com/album/6yW8Ll16re8wsQA4N2hS0g) | 3:28 | 2023-08-18 | 2024-02-07 |
+| [Men Nazra](https://open.spotify.com/track/03IOx6TU8DU7p7TwLPdjI2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Men Nazra](https://open.spotify.com/album/3gQgJqfwjhLlSVwRe4elqK) | 2:52 | 2024-07-08 |  |
 | [Mesaykeb](https://open.spotify.com/track/30z7f3qOR40Cm8BbmLZUPK) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Mesaykeb](https://open.spotify.com/album/6Pwe6SUTBDiORJkyCqWFcr) | 3:05 | 2022-05-04 | 2023-02-16 |
 | [Mesh Mertaheen \- From Talaktok Nafsy TV Series](https://open.spotify.com/track/2aLIVKTchwoHq4F0FYPOFQ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Mesh Mertaheen \(From Talaktok Nafsy TV Series\)](https://open.spotify.com/album/0DFoVvEgCNUcMeL3wPybZ3) | 3:13 | 2022-05-04 | 2022-07-15 |
 | [Meshkeltak Alwahidi](https://open.spotify.com/track/061AcUASLoR0lEU3xksHHC) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Meshkeltak Alwahidi](https://open.spotify.com/album/5gLEBMsAR43OJSqiG6j2Uc) | 3:22 | 2022-05-04 | 2023-01-11 |

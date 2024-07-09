@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 44265,
+  "num_followers": 44276,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 230573,
-      "name": "El Raton",
-      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+      "duration_ms": 326880,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/6Ac89NtfMzmvVKRNkvQiQ6"
     }
   ],
   "unique_name": "Cocina con Salsa",

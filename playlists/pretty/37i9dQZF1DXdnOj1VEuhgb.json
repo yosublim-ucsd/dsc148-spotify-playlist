@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal\n",
-  "num_followers": 1353989,
+  "num_followers": 1354234,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZomeaQAAAAAvzTtee8WiI+WZz0rFBk6Y",
+  "snapshot_id": "ZoufUQAAAADApdoPjZs7XX5ciRkULXxP",
   "tracks": [
     {
       "added_at": "2024-07-06 19:43:37",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-07-06 19:43:37",
       "album": {
-        "name": "Dale Don Dale",
-        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        }
-      ],
-      "duration_ms": 118104,
-      "name": "Dale Don Dale",
-      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
-    },
-    {
-      "added_at": "2024-07-06 19:43:37",
-      "album": {
         "name": "SAGOLUYORUM (BIG TERORISTA)",
         "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 95540,
       "name": "SAGOLUYORUM (BIG TERORISTA)",
       "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
+    },
+    {
+      "added_at": "2024-07-06 19:43:37",
+      "album": {
+        "name": "Dale Don Dale",
+        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "duration_ms": 118104,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
     },
     {
       "added_at": "2024-07-06 19:43:37",
@@ -211,38 +211,18 @@
     {
       "added_at": "2024-07-06 19:43:37",
       "album": {
-        "name": "Bizim Araba",
-        "url": "https://open.spotify.com/album/3e4nzn2I5xBu2gyDvaTCMT"
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
       },
       "artists": [
         {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
         }
       ],
-      "duration_ms": 131031,
-      "name": "Bizim Araba",
-      "url": "https://open.spotify.com/track/59BQQAlUk4WHdzy6Lf6xxj"
-    },
-    {
-      "added_at": "2024-07-06 19:43:37",
-      "album": {
-        "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
-        "url": "https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA"
-      },
-      "artists": [
-        {
-          "name": "Ahiyan",
-          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
-        },
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
-      "url": "https://open.spotify.com/track/6YcX9y3PuQ6s8WKRfkMYhb"
+      "duration_ms": 123519,
+      "name": "Sezen Aksu",
+      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
     },
     {
       "added_at": "2024-07-06 19:43:37",
@@ -267,6 +247,26 @@
       "duration_ms": 250527,
       "name": "\u015eeytan ve Melekler",
       "url": "https://open.spotify.com/track/1Rrg2RPn0H2iLcUxDYgOWx"
+    },
+    {
+      "added_at": "2024-07-06 19:43:37",
+      "album": {
+        "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
+        "url": "https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        },
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
+      "url": "https://open.spotify.com/track/6YcX9y3PuQ6s8WKRfkMYhb"
     },
     {
       "added_at": "2024-07-06 19:43:37",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-07-06 19:43:37",
       "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+        "name": "Bizim Araba",
+        "url": "https://open.spotify.com/album/3e4nzn2I5xBu2gyDvaTCMT"
       },
       "artists": [
         {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
         }
       ],
-      "duration_ms": 123519,
-      "name": "Sezen Aksu",
-      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
+      "duration_ms": 131031,
+      "name": "Bizim Araba",
+      "url": "https://open.spotify.com/track/59BQQAlUk4WHdzy6Lf6xxj"
     },
     {
       "added_at": "2024-07-06 19:43:37",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-07-06 19:43:37",
       "album": {
+        "name": "Kaptan",
+        "url": "https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Kaptan",
+      "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
+    },
+    {
+      "added_at": "2024-07-06 19:43:37",
+      "album": {
         "name": "LIMIT YOK (feat. Geolier)",
         "url": "https://open.spotify.com/album/57vfwkFxrb6FP4XWwKcINC"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 118274,
       "name": "IstanbuL",
       "url": "https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ"
-    },
-    {
-      "added_at": "2024-07-06 19:43:37",
-      "album": {
-        "name": "Kaptan",
-        "url": "https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Kaptan",
-      "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
     },
     {
       "added_at": "2024-07-06 19:43:37",

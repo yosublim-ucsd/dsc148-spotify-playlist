@@ -391,6 +391,36 @@
     },
     {
       "album": {
+        "name": "The Essential Robert Goulet",
+        "url": "https://open.spotify.com/album/5oMHT5nCTGvtSrH4r64bw0"
+      },
+      "artists": [
+        {
+          "name": "Frederick Loewe",
+          "url": "https://open.spotify.com/artist/6vSV6SDf1vteodhgV83AJ6"
+        },
+        {
+          "name": "Robert Goulet",
+          "url": "https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR"
+        },
+        {
+          "name": "Original Broadway Cast of Camelot",
+          "url": "https://open.spotify.com/artist/0pSo061DnbCpvQxDjzI8Q5"
+        },
+        {
+          "name": "Franz Allers",
+          "url": "https://open.spotify.com/artist/6WdfiLSbnrKRLINWsG1UCe"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Camelot: If Ever I Would Leave You",
+      "url": "https://open.spotify.com/track/6XwsI37WkJFP7jKq0odpWi"
+    },
+    {
+      "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
       },
@@ -716,28 +746,6 @@
       "duration_ms": 152080,
       "name": "I Was the One",
       "url": "https://open.spotify.com/track/5m8SaS3pEMRVpgdBnOZcGp"
-    },
-    {
-      "album": {
-        "name": "The Essential Robert Goulet",
-        "url": "https://open.spotify.com/album/5oMHT5nCTGvtSrH4r64bw0"
-      },
-      "artists": [
-        {
-          "name": "Robert Goulet",
-          "url": "https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR"
-        },
-        {
-          "name": "Original Broadway Cast of Camelot",
-          "url": "https://open.spotify.com/artist/0pSo061DnbCpvQxDjzI8Q5"
-        }
-      ],
-      "date_added": "2023-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189600,
-      "name": "If Ever I Would Leave You",
-      "url": "https://open.spotify.com/track/6XwsI37WkJFP7jKq0odpWi"
     },
     {
       "album": {

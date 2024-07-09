@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 08 JUL",
+  "name": "NEW SINGLES RELEASES | UPDATED 09 JUL",
   "tracks": [
     {
       "album": {
@@ -3587,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "colour photo",
+        "url": "https://open.spotify.com/album/68q75hsPYIehvIar3lI9E0"
+      },
+      "artists": [
+        {
+          "name": "Afflecks Palace",
+          "url": "https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "colour photo",
+      "url": "https://open.spotify.com/track/3lSarTYqSK7A9bnNwz1P61"
+    },
+    {
+      "album": {
         "name": "Columbia (Sawmills Outtake)",
         "url": "https://open.spotify.com/album/6p2oQjrRUADLx4kfUpy1ir"
       },
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 249893,
       "name": "Desperate Hours",
       "url": "https://open.spotify.com/track/4nufIrvjFiLFdDlJOzzNMT"
@@ -5162,7 +5180,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 194785,
       "name": "Earth to Venus",
       "url": "https://open.spotify.com/track/1J3j3zOGzXQ30hM77XTlJU"
@@ -5282,6 +5300,24 @@
       "duration_ms": 135198,
       "name": "Ekan",
       "url": "https://open.spotify.com/track/3fjOmQvQewiGFftZd7eKPs"
+    },
+    {
+      "album": {
+        "name": "Electra",
+        "url": "https://open.spotify.com/album/5l4aX9riElSOn2e7Qw9lzf"
+      },
+      "artists": [
+        {
+          "name": "Public Service Broadcasting",
+          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210912,
+      "name": "Electra",
+      "url": "https://open.spotify.com/track/4E9DGHAa0eUrz656VVNm5D"
     },
     {
       "album": {
@@ -5676,7 +5712,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 173333,
       "name": "F My Wrist!",
       "url": "https://open.spotify.com/track/2JJSPBrfPNK3w93r8lKIob"
@@ -6420,7 +6456,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 183826,
       "name": "Friends In Low Places",
       "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
@@ -6918,6 +6954,24 @@
       "duration_ms": 193562,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/5kNNalR2uZHvdbGD6K1hF7"
+    },
+    {
+      "album": {
+        "name": "Give Me The Painkiller",
+        "url": "https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164704,
+      "name": "Give Me The Painkiller",
+      "url": "https://open.spotify.com/track/29W2lycHz4sExfoA11Yiph"
     },
     {
       "album": {
@@ -8943,6 +8997,24 @@
     },
     {
       "album": {
+        "name": "Itchycoo Park",
+        "url": "https://open.spotify.com/album/3Ws1ld02gXxWaXHk9qkon0"
+      },
+      "artists": [
+        {
+          "name": "Robyn Hitchcock",
+          "url": "https://open.spotify.com/artist/0O0g9JMOVNoIgLG6dgaYMY"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194245,
+      "name": "Itchycoo Park",
+      "url": "https://open.spotify.com/track/7cUdLPJHkDFdBUl7LMvHik"
+    },
+    {
+      "album": {
         "name": "Jacked",
         "url": "https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn"
       },
@@ -10800,7 +10872,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 537798,
       "name": "Mission To Mars",
       "url": "https://open.spotify.com/track/404ad3gMfebCk7h6ay6Rse"
@@ -14311,6 +14383,28 @@
     },
     {
       "album": {
+        "name": "See What I See",
+        "url": "https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        },
+        {
+          "name": "DEXTER KING",
+          "url": "https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146417,
+      "name": "See What I See",
+      "url": "https://open.spotify.com/track/2J7Gdy5GzfdbPoHvpl3qfB"
+    },
+    {
+      "album": {
         "name": "Sega",
         "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
       },
@@ -14687,6 +14781,24 @@
     },
     {
       "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215490,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "album": {
         "name": "Silently Walking Alone",
         "url": "https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J"
       },
@@ -14842,7 +14954,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 144374,
       "name": "SLEEZY BASTARD - SLASHER PT. 1",
       "url": "https://open.spotify.com/track/57lAQTxW4ke0reAaGkmFlT"

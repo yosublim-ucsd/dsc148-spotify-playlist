@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,003 songs - 2 day 7 hr 59 min
+1,004 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 | 2021-11-17 |  |
 | [Interlude : Shadow](https://open.spotify.com/track/2Nib4r0saYQf2pUV4RFDhl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:19 | 2021-11-17 | 2022-07-10 |
 | [Into You](https://open.spotify.com/track/2KDdENuDPsY35FF5Mq0BYp) | [KOLAJ](https://open.spotify.com/artist/0hhL0iOf9ebHlwxWQyeH2w), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Into You](https://open.spotify.com/album/5DQxQo4kAmUZfUK8QMpheM) | 3:45 | 2022-01-03 | 2022-04-20 |
+| [Into You](https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Into You](https://open.spotify.com/album/3rLteXReBNmvMLaTufI17p) | 2:38 | 2024-06-25 |  |
 | [Into You](https://open.spotify.com/track/67S0UdKr5kFjIzd8U65r5B) | [YURI](https://open.spotify.com/artist/2TMRvcwsmvVhvuEbKVEbZe) | [The First Scene](https://open.spotify.com/album/7KYhyqhuDu87D7jkppTRb9) | 3:06 | 2021-11-17 | 2022-07-19 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-16 |  |
 | [ISLAND](https://open.spotify.com/track/1LEAO4bKSlclXPAFVGJibm) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [ISLAND](https://open.spotify.com/album/6JMJG0NGIfuv66NNSIZt4I) | 3:15 | 2022-03-24 | 2022-05-11 |
@@ -891,7 +892,7 @@
 | [TT](https://open.spotify.com/track/1nMbZ9OsVNSLEyijI80EST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:32 | 2021-11-17 | 2022-07-27 |
 | [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 | 2024-05-24 |
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-11-17 | 2023-01-14 |
-| [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 | 2023-07-20 |  |
+| [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 | 2023-07-20 | 2024-07-09 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-07-20 |  |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:51 | 2022-02-03 | 2022-07-29 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2022-02-03 | 2022-07-22 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAABojKdqR4XWtkhYbVEr6cuX",
+  "snapshot_id": "ZonagAAAAACPefP0Q8B/a0CnQlLKOZUc",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
       "duration_ms": 190560,
       "name": "You Had Me At Hello",
       "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulture Culture",
-        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Hesitations",
-      "url": "https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vulture Culture",
+        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Heavy Handed",
+      "url": "https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fangclub",
         "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 208693,
-      "name": "Animal Skin",
-      "url": "https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3"
+      "duration_ms": 135560,
+      "name": "Best Fake Friends",
+      "url": "https://open.spotify.com/track/2A1ZQp6zcVEBGfGrkbcpNO"
     }
   ],
   "unique_name": "This Is Fangclub",

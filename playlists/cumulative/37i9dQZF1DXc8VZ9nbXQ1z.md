@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-523 songs - 2 day 3 hr 40 min
+524 songs - 2 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Blind](https://open.spotify.com/track/5njYulCs6uy94s3zf5W3YP) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Blind](https://open.spotify.com/album/4a1U2aEn9PAkZ7xKvdR5fX) | 7:09 | 2023-06-07 | 2023-06-20 |
 | [Block Party](https://open.spotify.com/track/5DjR58OOBkkZMk2joY7GoK) | [Freddy da Stupid](https://open.spotify.com/artist/1uj5EutAF1zvnbWFhSzQB3) | [Block Party](https://open.spotify.com/album/0phz9l3RtANO802TF7dpQU) | 6:48 | 2023-11-16 | 2024-03-22 |
 | [Bo Bom](https://open.spotify.com/track/2V5h4oenUhCeWXsJualNd7) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm) | [Bo Bom](https://open.spotify.com/album/3rACKliAGAZreFE1lXuBXZ) | 4:18 | 2024-06-20 |  |
+| [Bo Bom \- Alan Dixon Remix](https://open.spotify.com/track/1iLQ6TLiUWa91dvELYujTh) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Bo Bom \(Alan Dixon Remix\)](https://open.spotify.com/album/3CXIxPdrZNb9clvMXlHQxU) | 5:39 | 2024-07-08 |  |
 | [Brainscan](https://open.spotify.com/track/5E2sp1MnrEZP3TpSRRrFn0) | [Frankey & Sandrino](https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk) | [Brainscan](https://open.spotify.com/album/1okD2gCvgwRcMxdSDVJ2Tz) | 6:27 | 2022-09-30 | 2022-11-12 |
 | [Break That](https://open.spotify.com/track/4toz89xkIV8xlT9e8GLxHg) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [Break That](https://open.spotify.com/album/3YYKh3vaEzHABwCBcyVYtF) | 4:55 | 2023-07-21 | 2023-10-13 |
 | [Breaking Away](https://open.spotify.com/track/2XsrImizq3YjPuMyTVY6rH) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [Breaking Away](https://open.spotify.com/album/2ZQHdrmd41J62aBd8Unbsi) | 4:04 | 2022-10-28 | 2023-02-18 |

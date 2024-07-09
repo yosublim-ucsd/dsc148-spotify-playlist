@@ -1,12 +1,12 @@
 {
-  "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1509548,
+  "description": "This Is Kendrick Lamar. Los temas esenciales, todos en una lista.",
+  "num_followers": 1511543,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoiJAAAAAAAOCxLrN+u0rc+jsEarQYgD",
+  "snapshot_id": "ZonagAAAAACYFwhRRp7TtCAYdxdJiTNH",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hillbillies",
         "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
     },
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
       },
       "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 324189,
-      "name": "Mona Lisa (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+      "duration_ms": 173158,
+      "name": "Hol' Up",
+      "url": "https://open.spotify.com/track/6cfVDaIdvDtYH91RqC6Wox"
     },
     {
       "added_at": null,
@@ -763,22 +759,6 @@
       "duration_ms": 210226,
       "name": "The Greatest (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 173158,
-      "name": "Hol' Up",
-      "url": "https://open.spotify.com/track/6cfVDaIdvDtYH91RqC6Wox"
     },
     {
       "added_at": null,
@@ -947,6 +927,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 199136,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 168591,
+      "name": "Rigamortus",
+      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 271773,
       "name": "Institutionalized",
       "url": "https://open.spotify.com/track/4oFtLSgHyZPNYDCcANhTnO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 168591,
-      "name": "Rigamortus",
-      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
     }
   ],
   "unique_name": "This Is Kendrick Lamar",

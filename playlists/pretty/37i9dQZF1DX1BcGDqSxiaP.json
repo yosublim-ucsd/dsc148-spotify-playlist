@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 23716,
+  "num_followers": 23724,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Let's Buzz",
-        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
-      },
-      "artists": [
-        {
-          "name": "The Paladins",
-          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Keep On Lovin' Me Baby",
-      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Harp Attack!",
         "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 383933,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Let's Buzz",
+        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
+      },
+      "artists": [
+        {
+          "name": "The Paladins",
+          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Keep On Lovin' Me Baby",
+      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -415,38 +415,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/1gGPShgwiwjAXBOYwWgVV9"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/7vr9bUkivHRKfQoJeYXQmq"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Never Trust A Man",
-      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Cotton Mouth Man",
         "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
@@ -467,6 +435,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/1gGPShgwiwjAXBOYwWgVV9"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/7vr9bUkivHRKfQoJeYXQmq"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Serious Business",
         "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 221293,
       "name": "Master Mechanic",
       "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Never Trust A Man",
+      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -539,54 +539,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Force Of Nature",
-        "url": "https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 369733,
-      "name": "Let The Juke Joint Jump",
-      "url": "https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Elvin Bishop's Big Fun Trio",
-        "url": "https://open.spotify.com/album/1JeZBxuDWHDFcF4ZsrIu1J"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "It's You, Baby",
-      "url": "https://open.spotify.com/track/5VTgqXioNW6GJIRr1YQYla"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Cotton Mouth Man",
         "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
@@ -607,6 +559,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Natural Boogie (Remastered)",
         "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
       },
@@ -623,18 +591,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Queen Of The Blues",
-        "url": "https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa"
+        "name": "Elvin Bishop's Big Fun Trio",
+        "url": "https://open.spotify.com/album/1JeZBxuDWHDFcF4ZsrIu1J"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
         }
       ],
-      "duration_ms": 232533,
-      "name": "I Can Love You Like A Woman (Or I Can Fight You Like A Man)",
-      "url": "https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu"
+      "duration_ms": 131893,
+      "name": "It's You, Baby",
+      "url": "https://open.spotify.com/track/5VTgqXioNW6GJIRr1YQYla"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -651,6 +619,38 @@
       "duration_ms": 377960,
       "name": "My Time After A While",
       "url": "https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Live From Chicago - Mr. Superharp Himself!",
+        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Force Of Nature",
+        "url": "https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 369733,
+      "name": "Let The Juke Joint Jump",
+      "url": "https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -683,22 +683,6 @@
       "duration_ms": 308093,
       "name": "The Fool You're Looking For",
       "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Live From Chicago - Mr. Superharp Himself!",
-        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -767,6 +751,22 @@
       "duration_ms": 291840,
       "name": "Sound Of A Broken Man",
       "url": "https://open.spotify.com/track/1aYCoLkMLlZZ7OYt67i6DS"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Queen Of The Blues",
+        "url": "https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I Can Love You Like A Woman (Or I Can Fight You Like A Man)",
+      "url": "https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu"
     },
     {
       "added_at": "2023-05-17 15:52:13",

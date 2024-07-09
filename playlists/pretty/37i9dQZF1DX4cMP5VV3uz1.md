@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,343 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,358 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 61 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 62 | [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 |
 | 63 | [Kill The Lights](https://open.spotify.com/track/0hHhW734Vnq3DLVd4ApagF) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Kill The Lights](https://open.spotify.com/album/78TdVwMH4fR6fMKgETEBUV) | 2:34 |
-| 64 | [Take You Higher \- VIP](https://open.spotify.com/track/23j0RW9sGbxoU6VOhERe0t) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher \(VIP\)](https://open.spotify.com/album/1lrE7AKDDM0Co1GPObbp26) | 3:35 |
-| 65 | [RAW!](https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Scorpio MC](https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1) | [RAW!](https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj) | 3:07 |
+| 64 | [RAW!](https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Scorpio MC](https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1) | [RAW!](https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj) | 3:07 |
+| 65 | [Take You Higher \- VIP](https://open.spotify.com/track/23j0RW9sGbxoU6VOhERe0t) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher \(VIP\)](https://open.spotify.com/album/1lrE7AKDDM0Co1GPObbp26) | 3:35 |
 | 66 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 |
 | 67 | [Playing With Fire \(feat\. Zac Pajak\)](https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Zac Pajak](https://open.spotify.com/artist/4RBVQ7fflz36JCOAMyxu8R) | [Playing With Fire \(feat\. Zac Pajak\)](https://open.spotify.com/album/7bwSwhkCntzOANc3MVtv4K) | 2:50 |
 | 68 | [Party Muscle](https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Party Muscle](https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG) | 2:02 |

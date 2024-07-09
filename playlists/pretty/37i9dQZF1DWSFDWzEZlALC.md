@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: error
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,474 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,515 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Die da oben](https://open.spotify.com/track/1T1njoIbslXr06PHxAKr9f) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Die da oben](https://open.spotify.com/album/5JyvPm4uYsjKaGxHtaYatw) | 2:27 |
-| 2 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 |
-| 3 | [00,00KG](https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [00,00KG](https://open.spotify.com/album/2gQvrvl2OJkEmOq7ghVtBV) | 2:48 |
-| 4 | [Fall für dich](https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Fall für dich](https://open.spotify.com/album/3X9IY5t8zZpEwualD62LIn) | 2:38 |
-| 5 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 |
-| 6 | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/track/72hMYvQTGPDYmeg3MwtLFD) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/album/3qb2P3WetqAkqQ5u186pii) | 2:46 |
-| 7 | [immer wenn du sagst](https://open.spotify.com/track/5RxTlUb8MOvIGlJsd4D8Vq) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [immer wenn du sagst](https://open.spotify.com/album/1wnnx4hTp6ErywL44D2oaf) | 2:33 |
-| 8 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
-| 9 | [Frei](https://open.spotify.com/track/6htgH0ecztsWPJskOLT6GQ) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Frei](https://open.spotify.com/album/4YjaesHivm4qY3dHcvvYfW) | 3:17 |
-| 10 | [Gefunden \(Outro\)](https://open.spotify.com/track/2fqoejpJIs9us6pzXT38zl) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Gefunden \(Outro\)](https://open.spotify.com/album/1ypdsnWnNIijJUUr0Lctu7) | 2:23 |
-| 11 | [Es ist Sommer](https://open.spotify.com/track/2xHwDKt677Awl7APE99TQF) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Es ist Sommer](https://open.spotify.com/album/20yXDw5CJvidYkfNcyWUHa) | 2:04 |
+| 1 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 |
+| 2 | [00,00KG](https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [00,00KG](https://open.spotify.com/album/2gQvrvl2OJkEmOq7ghVtBV) | 2:48 |
+| 3 | [Die da oben](https://open.spotify.com/track/1T1njoIbslXr06PHxAKr9f) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Die da oben](https://open.spotify.com/album/5JyvPm4uYsjKaGxHtaYatw) | 2:27 |
+| 4 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 |
+| 5 | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/track/72hMYvQTGPDYmeg3MwtLFD) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/album/3qb2P3WetqAkqQ5u186pii) | 2:46 |
+| 6 | [Fall für dich](https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Fall für dich](https://open.spotify.com/album/3X9IY5t8zZpEwualD62LIn) | 2:38 |
+| 7 | [brauchst mich nicht](https://open.spotify.com/track/1eo2xIdXZlZxDMxuhSFwXQ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [brauchst mich nicht](https://open.spotify.com/album/5KP3WYfsimvLgSrodlWQvB) | 2:27 |
+| 8 | [immer wenn du sagst](https://open.spotify.com/track/5RxTlUb8MOvIGlJsd4D8Vq) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [immer wenn du sagst](https://open.spotify.com/album/1wnnx4hTp6ErywL44D2oaf) | 2:33 |
+| 9 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
+| 10 | [Es ist Sommer](https://open.spotify.com/track/2xHwDKt677Awl7APE99TQF) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Es ist Sommer](https://open.spotify.com/album/20yXDw5CJvidYkfNcyWUHa) | 2:04 |
+| 11 | [Frei](https://open.spotify.com/track/6htgH0ecztsWPJskOLT6GQ) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Frei](https://open.spotify.com/album/4YjaesHivm4qY3dHcvvYfW) | 3:17 |
 | 12 | [Van Gogh](https://open.spotify.com/track/3MWBw4s7TTCp6g0GDxI3LO) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Yu & Me](https://open.spotify.com/album/02z0imGAclK26oxzu2mVr1) | 2:27 |
-| 13 | [brauchst mich nicht](https://open.spotify.com/track/1eo2xIdXZlZxDMxuhSFwXQ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [brauchst mich nicht](https://open.spotify.com/album/5KP3WYfsimvLgSrodlWQvB) | 2:27 |
-| 14 | [glaubst du](https://open.spotify.com/track/1kFxAJ9jW1mbTTitWlVkH7) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [glaubst du](https://open.spotify.com/album/7g9O5qZvCMKJDAkFeycmrB) | 3:02 |
-| 15 | [Decke](https://open.spotify.com/track/0GWpJoKVqAKurYBDmJyZ5z) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Decke](https://open.spotify.com/album/7o8HSfh0DugjtucSf4UpYT) | 2:22 |
+| 13 | [glaubst du](https://open.spotify.com/track/1kFxAJ9jW1mbTTitWlVkH7) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [glaubst du](https://open.spotify.com/album/7g9O5qZvCMKJDAkFeycmrB) | 3:02 |
+| 14 | [Decke](https://open.spotify.com/track/0GWpJoKVqAKurYBDmJyZ5z) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Decke](https://open.spotify.com/album/7o8HSfh0DugjtucSf4UpYT) | 2:22 |
+| 15 | [Gefunden \(Outro\)](https://open.spotify.com/track/2fqoejpJIs9us6pzXT38zl) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Gefunden \(Outro\)](https://open.spotify.com/album/1ypdsnWnNIijJUUr0Lctu7) | 2:23 |
 | 16 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 |
 | 17 | [KRYPTOHERZ](https://open.spotify.com/track/1spjzsnmhlh6MTNuNVTMJO) | [JPD](https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN), [YETUNDEY](https://open.spotify.com/artist/26WU8bCCt1YHC0iN6pzAKM) | [KRYPTOHERZ](https://open.spotify.com/album/7djGTRofvMe1aGvlF7vHUU) | 2:50 |
 | 18 | [LAVENDEL IM PARK](https://open.spotify.com/track/2PwfE3zcFtyqK7TYG24ypb) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [LAVENDEL IM PARK](https://open.spotify.com/album/0p0kRZIX9YQOf0PtrJUg3b) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Signal](https://open.spotify.com/track/635BYqHB460ce6SiMiREGo) | [WEIL](https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu), [LGoony](https://open.spotify.com/artist/0aZu9zUfF2EgTHyBbZlW1C) | [Signal](https://open.spotify.com/album/31Cv43Mu2CA6wwGVfKgd0z) | 3:15 |
 | 75 | [Liebe für lau](https://open.spotify.com/track/6FBKpJzECXb30DLLWiGsB5) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Liebe für lau](https://open.spotify.com/album/68khQe9GoKmoc1w3mJf4qJ) | 2:35 |
 
-Snapshot ID: `ZocbYAAAAABwW1r6OBpbLPx26JpInxmw`
+Snapshot ID: `ZowGwQAAAABt4NiW7ihYkloiJ20NYWww`

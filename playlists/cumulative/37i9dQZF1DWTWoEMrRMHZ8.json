@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 225119,
       "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 252657,
       "name": "Capeta",
       "url": "https://open.spotify.com/track/7z3sKadtOn8qN2yUJ44a7c"
@@ -2808,6 +2808,24 @@
       "duration_ms": 184517,
       "name": "Cidade Trov\u00e3o",
       "url": "https://open.spotify.com/track/2A5TUnEDlJX2JJiwvQe81W"
+    },
+    {
+      "album": {
+        "name": "Soa",
+        "url": "https://open.spotify.com/album/4eA0ogN0YFgFUsGk3v4rGi"
+      },
+      "artists": [
+        {
+          "name": "ISADDORA",
+          "url": "https://open.spotify.com/artist/51OHjo8o1c3WImL1KUQG21"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "ciranda",
+      "url": "https://open.spotify.com/track/1yLGE1ymAIXlOa6zwbUFIA"
     },
     {
       "album": {
@@ -6014,7 +6032,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 300225,
       "name": "J\u00e3o",
       "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
@@ -6550,7 +6568,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
@@ -7016,7 +7034,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-09",
       "duration_ms": 212454,
       "name": "ME SURPREENDA",
       "url": "https://open.spotify.com/track/19rG9ASlDA0deMhYyGBb5K"
@@ -7060,6 +7078,24 @@
       "duration_ms": 180030,
       "name": "Meia Colorida",
       "url": "https://open.spotify.com/track/3E8ZcN6mmdlOv1SmhAzwDK"
+    },
+    {
+      "album": {
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+      },
+      "artists": [
+        {
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "album": {

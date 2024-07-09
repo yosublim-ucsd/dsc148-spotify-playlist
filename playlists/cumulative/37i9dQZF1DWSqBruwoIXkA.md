@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. Cover: Jax
 
-751 songs - 1 day 17 hr 22 min
+752 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-10-25 | 2023-02-18 |
 | [Dangerous](https://open.spotify.com/track/3DpxSpi0jot0XH73uZmlul) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dangerous](https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP) | 3:47 | 2022-08-26 | 2022-10-22 |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-31 | 2024-02-17 |
-| [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-04-26 |  |
+| [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-04-26 | 2024-07-09 |
 | [Dead on the Beach](https://open.spotify.com/track/6kKhq1EKxciDeNhjST21B8) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dead on the Beach](https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T) | 3:02 | 2022-01-14 | 2022-01-22 |
 | [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2022-10-14 | 2023-10-07 |
 | [DECLINED](https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [DECLINED](https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP) | 4:16 | 2022-05-06 | 2022-09-10 |
@@ -735,6 +735,7 @@
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-18 | 2023-03-04 |
 | [Why I Broke Up With You](https://open.spotify.com/track/21RiG0Y6cm7M7qN4r4BgGW) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Why I Broke Up With You](https://open.spotify.com/album/2BhCsXcXD3FBgC38hej4p5) | 2:43 | 2022-07-15 | 2022-08-13 |
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-09-16 | 2022-10-15 |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-07-08 |  |
 | [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 | 2024-05-10 |  |
 | [wish i loved you in the 90s](https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:56 | 2021-12-17 | 2022-12-17 |
 | [Wish I Would](https://open.spotify.com/track/74L8tOCvVdsJWNVdITjCMs) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Wish I Would](https://open.spotify.com/album/40J0A5q18GIfTwPFZ5lDjI) | 3:56 | 2022-01-28 | 2022-02-05 |

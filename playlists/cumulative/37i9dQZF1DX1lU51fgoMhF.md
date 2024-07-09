@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-351 songs - 19 hr 14 min
+354 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [COME TO ME](https://open.spotify.com/track/7wHS9bv0aNojNcFkOPeVsb) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:24 | 2021-11-17 | 2022-07-17 |
 | [Conversation](https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:27 | 2021-11-17 | 2022-07-29 |
 | [Crème Brûlée](https://open.spotify.com/track/6LTIjhj6OoJMF0Nrn6Xg1y) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:17 | 2021-11-17 | 2024-05-18 |
-| [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 | 2023-05-02 |  |
+| [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 | 2023-05-02 | 2024-07-09 |
 | [Dance The Night Away](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:00 | 2023-07-20 | 2024-04-19 |
 | [Dance The Night Away](https://open.spotify.com/track/2fQdK9TqM1mCURsjEcT0ly) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2DTATWEmzMCckJka5QZiJC) | 3:00 | 2023-09-14 | 2024-05-10 |
 | [Dancing In The Moonlight](https://open.spotify.com/track/5CNirIgKckyhPnocb96cN7) | [TOO](https://open.spotify.com/artist/3a0xHIHQPhhzgSOJzgB2Rz) | [Running TOOgether](https://open.spotify.com/album/21OdoBMLPTL7MymFTxe7oW) | 3:34 | 2022-01-09 | 2022-06-23 |
@@ -164,6 +164,7 @@
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-03 |  |
 | [Kiss and Make Up](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 3:09 | 2021-11-17 |  |
 | [Kiss Your Lips](https://open.spotify.com/track/3ZdMzV0y1BoCvHs4ed4R3F) | [WJSN THE BLACK](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) | [My attitude](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) | 3:16 | 2021-11-17 | 2022-07-25 |
+| [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 | 2024-07-08 |  |
 | [Ko Ko Bop](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:10 | 2021-11-17 |  |
 | [Krystal](https://open.spotify.com/track/2M3B0BUhJJSroLoyIkINvz) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:37 | 2021-11-17 | 2022-06-20 |
 | [La Luna](https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [La Luna](https://open.spotify.com/album/7CQBxDLDkce9zO68YmcVGg) | 3:26 | 2021-11-17 | 2022-07-27 |
@@ -186,7 +187,7 @@
 | [Long Chat \(\#♥\)](https://open.spotify.com/track/1l4aQeJKuPVUVtMVZw1fTf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:15 | 2024-06-28 |  |
 | [Lost In Paradise](https://open.spotify.com/track/14bgyEWJENob8xPy740fLa) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Love Synonym \#1: Right for Me](https://open.spotify.com/album/4RJIJFoKSzNmYKAJWJ23R6) | 3:45 | 2022-01-09 | 2022-07-06 |
 | [Louder](https://open.spotify.com/track/4cZvTWcgPyHx2eZb0ruyX3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:59 | 2022-07-11 | 2022-08-05 |
-| [Love & hate \(Feat\. BIBI\)](https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:16 | 2021-11-17 |  |
+| [Love & hate \(Feat\. BIBI\)](https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:16 | 2021-11-17 | 2024-07-09 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-07-20 |  |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-04 | 2022-08-18 |
 | [Love Is The Answer](https://open.spotify.com/track/1UkM6U6lbhA8rMJjwqpXfU) | [Hailey](https://open.spotify.com/artist/20PanKbJuxWBaa547o9Qi7) | [Love Is The Answer](https://open.spotify.com/album/47KfofKRLYHhqtFnCvmECp) | 3:14 | 2021-11-17 | 2022-07-19 |
@@ -307,7 +308,9 @@
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-02 |  |
 | [Stupid Cool](https://open.spotify.com/track/2fvo8mpaPBkKabJXkd45GU) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Stupid Cool](https://open.spotify.com/album/15SyyufawVdBxltCfLBiNN) | 2:58 | 2022-06-18 | 2022-08-13 |
 | [SUGAR](https://open.spotify.com/track/3J33REyr0X61LC869JrocX) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Splash \- MIRAE 2nd Mini Album](https://open.spotify.com/album/6i4asWHVJ6ji44qYYSUakM) | 3:51 | 2021-11-17 | 2022-07-19 |
-| [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 |  |
+| [SUMMER](https://open.spotify.com/track/6QwgTML7rpE006H9ROG5mi) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [SUMMER](https://open.spotify.com/album/6D2b7LdHoc6YhWf2Zx5M0Y) | 3:07 | 2024-07-08 |  |
+| [Summer Bliss](https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN) | [JinE](https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od) | [Summer Bliss](https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF) | 3:05 | 2024-07-08 |  |
+| [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 | 2024-07-09 |
 | [Summer Freak](https://open.spotify.com/track/7MeLFWgbHK8XxiMwvAUyne) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Summer Freak](https://open.spotify.com/album/7zld27DJOAGzHZwTjKH1Lb) | 2:54 | 2022-06-09 | 2022-07-03 |
 | [Summer night](https://open.spotify.com/track/0E2MxOyjc4l5lh4IkX2bZO) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Summer](https://open.spotify.com/album/6UOZ5T5xRdaNitOLDv5hXD) | 3:36 | 2022-07-11 | 2022-07-19 |
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-11-17 | 2024-06-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,519 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,541 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 50 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 51 | [Beautiful Reason](https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reason](https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl) | 3:03 |
 | 52 | [The Way I Want It](https://open.spotify.com/track/3dnGjCQrJqsqYjVwOYqBUj) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [The Way I Want It](https://open.spotify.com/album/273PYkxoYVyKhsNdKnNyiT) | 2:13 |
-| 53 | [The Confession](https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [The Confession](https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP) | 2:18 |
+| 53 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 |
 | 54 | [O miłości](https://open.spotify.com/track/5gWIF2Rqa9rXufl7696JoU) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 2:57 |
-| 55 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 |
-| 56 | [Zagrajmy](https://open.spotify.com/track/6jKciZGLm1zKWP3DrVYfzr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Zagrajmy](https://open.spotify.com/album/4sXX520fF0HGwgSxOfyE0y) | 3:16 |
-| 57 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
+| 55 | [The Confession](https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [The Confession](https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP) | 2:18 |
+| 56 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 |
+| 57 | [Zagrajmy](https://open.spotify.com/track/6jKciZGLm1zKWP3DrVYfzr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Zagrajmy](https://open.spotify.com/album/4sXX520fF0HGwgSxOfyE0y) | 3:16 |
 | 58 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
-| 59 | [Tease Me](https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Tease Me](https://open.spotify.com/album/4czLQcxHpCy7NlD0YZabS5) | 2:42 |
-| 60 | [Tyle mogłem Ci dać](https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Tyle mogłem Ci dać](https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR) | 2:15 |
+| 59 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 |
+| 60 | [Tease Me](https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Tease Me](https://open.spotify.com/album/4czLQcxHpCy7NlD0YZabS5) | 2:42 |
 
 Snapshot ID: `ZogL9QAAAAB/KQDWJZ8gZtCGJBeIRZ7x`

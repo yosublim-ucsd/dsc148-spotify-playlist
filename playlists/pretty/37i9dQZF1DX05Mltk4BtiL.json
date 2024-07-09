@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: H.i.T.",
-  "num_followers": 112493,
+  "num_followers": 112500,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Muttertag",
-        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
-      },
-      "artists": [
-        {
-          "name": "Antilopen Gang",
-          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
-        }
-      ],
-      "duration_ms": 66209,
-      "name": "Muttertag",
-      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Schnee Im Sommer",
         "url": "https://open.spotify.com/album/1sjo1t4qs6MrfowKwoLhnH"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 177226,
       "name": "Wenn Du Springst",
       "url": "https://open.spotify.com/track/6tGv9WOFiv14P6cpSEdeL6"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Muttertag",
+        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
+      },
+      "artists": [
+        {
+          "name": "Antilopen Gang",
+          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+        }
+      ],
+      "duration_ms": 66209,
+      "name": "Muttertag",
+      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "haus am meer",
-        "url": "https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs"
-      },
-      "artists": [
-        {
-          "name": "Tuffy",
-          "url": "https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h"
-        }
-      ],
-      "duration_ms": 141986,
-      "name": "haus am meer",
-      "url": "https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Panik",
         "url": "https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 212630,
       "name": "Panik",
       "url": "https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "haus am meer",
+        "url": "https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs"
+      },
+      "artists": [
+        {
+          "name": "Tuffy",
+          "url": "https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h"
+        }
+      ],
+      "duration_ms": 141986,
+      "name": "haus am meer",
+      "url": "https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW"
     },
     {
       "added_at": "2024-07-04 22:00:00",
