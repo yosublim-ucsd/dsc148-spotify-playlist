@@ -4,7 +4,7 @@
 
 > 
 
-215 songs - 13 hr 58 min
+218 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Feel the Groove \- Original Mix](https://open.spotify.com/track/3270GTLUMqJaasAVZHFc7n) | [Deltech](https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y) | [Feel the Groove EP](https://open.spotify.com/album/215QqUqoOYIxQoxjR2I0iN) | 6:18 | 2023-07-08 |  |
 | [Fell In Luv \- Black Circle Remix](https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Fell In Luv \(Black Circle Remix\)](https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E) | 4:21 | 2024-02-14 |  |
 | [Flying Like A Dragon](https://open.spotify.com/track/5kc7bJbL43ArvIFByYZF2m) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Flying Like A Dragon EP](https://open.spotify.com/album/4Eod6YHLqedv5kw0MuVe2w) | 3:43 | 2024-04-20 |  |
+| [Freak Mode](https://open.spotify.com/track/2BZMWHCd8UKVMIWLxFf6BH) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Freak Mode](https://open.spotify.com/album/55CSMCHCUjT6iBcipBn0Wi) | 3:06 | 2024-07-09 |  |
 | [Fuck That](https://open.spotify.com/track/4ztmlSZinz3IbpJU5YX7JG) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:52 | 2017-08-25 |  |
 | [Full Speed \- Fun Mix](https://open.spotify.com/track/6HOMu0RW9wSIr1PQg4EwvA) | [Ellie Mary](https://open.spotify.com/artist/0gaPq3OglG2JJ1e29AWhgX) | [Full Speed](https://open.spotify.com/album/6sw3hckbw7gYE2wapAd7cz) | 2:30 | 2023-01-29 |  |
 | [Function \(Radio Edit\)](https://open.spotify.com/track/523LXRE4zywg7PaSI6Ocjf) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [Function](https://open.spotify.com/album/6nlgdRNylhKKt1PTY2sPZ7) | 3:36 | 2023-09-21 |  |
@@ -178,6 +179,7 @@
 | [Sneaky Link \(feat\. Barney Bones\)](https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sneaky Link \(feat\. Barney Bones\)](https://open.spotify.com/album/3MkfK7Sq6nDfiJdaOYphsg) | 2:44 | 2024-03-24 |  |
 | [Son De Lo](https://open.spotify.com/track/3U9GYQdeo9YiXzNxvTEGhu) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Son De Lo](https://open.spotify.com/album/4PqdFzjOLS359UQVTs2zzG) | 3:05 | 2023-06-13 |  |
 | [SOS \(feat\. Polina\) \- Skylark Remix \- Nic Fanciulli Edit](https://open.spotify.com/track/2kX1q43CjN75TjgB5uKHkk) | [A'Studio](https://open.spotify.com/artist/58gyHFyLoEM1rVTrPTa4vE), [Polina](https://open.spotify.com/artist/3LqQZv1icUTJ56zXR7VbjA), [Skylark \(Nic Fanciulli & Andy Chatterley\)](https://open.spotify.com/artist/2htUOCNnhl8FMojiiygTBQ), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [SOS \(feat\. Polina\) \[Skylark Remix \- Nic Fanciulli Edit\]](https://open.spotify.com/album/24fzml04SWrSwLlW1apvsP) | 3:24 | 2023-07-01 |  |
+| [Stay With It](https://open.spotify.com/track/1YrrEABN4J40XJTSxiV7LE) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Stay With It](https://open.spotify.com/album/4FYAoedqnkIQTBvjEoyMXo) | 5:13 | 2024-07-09 |  |
 | [Sublime](https://open.spotify.com/track/4mYFelexMuf7kgSbGBdbJv) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [Sublime](https://open.spotify.com/album/4rxSLDjau3Kqk1cPspR3bv) | 2:55 | 2024-02-14 |  |
 | [Sugar Daddy](https://open.spotify.com/track/0TVy1MgOle32ptiamyaAxu) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Sugar Daddy](https://open.spotify.com/album/3pAjCG04eTukFMJwx29xSs) | 2:49 | 2024-04-20 |  |
 | [Tell Dem \- Radio Edit](https://open.spotify.com/track/4MidTflW3L6PDJniFN3L06) | [RTNO](https://open.spotify.com/artist/1XST3KuHB2IclDXPUbRhym) | [Tell Dem \(Radio Edit\)](https://open.spotify.com/album/5s420uXTyS9Mg0knfBTqFj) | 3:51 | 2023-05-05 |  |
@@ -200,6 +202,7 @@
 | [To My Beat](https://open.spotify.com/track/6hipG3AE5fxqxTyjIV0WjW) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV) | [To My Beat](https://open.spotify.com/album/5xrRS6Py811EiTkxg0bCHk) | 3:19 | 2023-05-30 |  |
 | [To The Funk](https://open.spotify.com/track/7k99Hgp4Fuadh13KQKGZvf) | [Nacho Scoppa](https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA), [Tomas Bisquierra](https://open.spotify.com/artist/6qa3IMR0SlgJ5C53rr5VcR) | [Summer 2022 V.A.](https://open.spotify.com/album/2pC43YNpIa22Egevx1NHc2) | 6:10 | 2023-02-02 |  |
 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 | 2023-04-01 |  |
+| [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-07-09 |  |
 | [Traga ft\. STO Cultr](https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Traga ft\. STO Cultr](https://open.spotify.com/album/5nthDQNJm6U72odQxQLH5v) | 3:59 | 2023-02-12 |  |
 | [Turning up Dat](https://open.spotify.com/track/48y8Y3IUIqBQqdoRA6Y8YD) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Charles on Acid](https://open.spotify.com/album/4pCxzVVlHCkoBInRndF7Ux) | 3:15 | 2023-08-12 |  |
 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 | 2024-01-19 |  |

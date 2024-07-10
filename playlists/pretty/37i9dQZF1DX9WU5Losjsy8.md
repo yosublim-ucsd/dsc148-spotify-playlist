@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,925 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,076 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 75 | [BIERBAUCH🍺](https://open.spotify.com/track/58AhzC7faLBXUFyu9XQQwo) | [Andi schiebt anders](https://open.spotify.com/artist/0Q0sIZyJbKnxvo5Vt7SsqC) | [BIERBAUCH🍺](https://open.spotify.com/album/5xjoCoZ8l3Bot75FwbGwEO) | 2:06 |
 | 76 | [Kabinenparty \(feat\. MAKZ 38\) \- Kreisliga Mix](https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty \(feat\. MAKZ 38\) \[Kreisliga Mix\]](https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x) | 2:22 |
 | 77 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 |
-| 78 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 |
-| 79 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 |
+| 78 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 |
+| 79 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 |
 | 80 | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD) | [MaxUhu](https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V), [Bangermin](https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ) | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd) | 3:21 |
 
 Snapshot ID: `ZoKg6AAAAAD1BEXvgomyplRAM5eXEQ8c`

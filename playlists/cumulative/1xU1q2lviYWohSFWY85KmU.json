@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Another Memory",
+        "url": "https://open.spotify.com/album/6QPs5Po9gqfDwMRRtLLHqK"
+      },
+      "artists": [
+        {
+          "name": "Capchii",
+          "url": "https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304256,
+      "name": "Another Memory (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3fEw7LQqbKcA8HPxxl87Ef"
+    },
+    {
+      "album": {
         "name": "Don't need cure?",
         "url": "https://open.spotify.com/album/0sXrmpRxUj5p8BkZ5U5cwn"
       },
@@ -86,7 +108,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 202613,
       "name": "Glorious Day (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1axqW3tCZ2nBbDBCY4moZn"
@@ -501,6 +523,28 @@
     },
     {
       "album": {
+        "name": "Strawberry Candy",
+        "url": "https://open.spotify.com/album/6Ar81ZDYb0i1T08hejWlm3"
+      },
+      "artists": [
+        {
+          "name": "\u662f",
+          "url": "https://open.spotify.com/artist/3QtuwUR04rBoKf5W4orppt"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187567,
+      "name": "Strawberry Candy (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0kObKWRBnmrOOu3wAwnSDf"
+    },
+    {
+      "album": {
         "name": "iceQuarium -Strawberry-",
         "url": "https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ"
       },
@@ -658,7 +702,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 182500,
       "name": "\u3044\u3063\u3071\u3044\u30ad\u30e3\u30d1\u30b7\u30c6\u30a3 (feat. VOICEVOX:\u6625\u65e5\u90e8\u3064\u3080\u304e&VOICEVOX:\u305a\u3093\u3060\u3082\u3093)",
       "url": "https://open.spotify.com/track/6tgaOotGVRIzmNT1jC4Nxa"
@@ -1024,10 +1068,32 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 240645,
       "name": "\u30a2\u30a4\u30cb\u30fc\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1SSc0bnpchBgneJPJgUEMd"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30aa\u30b3\u30a4\u30ec\u30e2\u30cd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/3lzlcGzYGOYBm1tipHASm4"
+      },
+      "artists": [
+        {
+          "name": "Kid P",
+          "url": "https://open.spotify.com/artist/3ZpU4v2TxHDybEBEh0Y15U"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "\u30a2\u30aa\u30b3\u30a4\u30ec\u30e2\u30cd\u30fc\u30c9 (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/41ZWWDbcr7Dod9ONrIPQFI"
     },
     {
       "album": {
@@ -1661,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "\u30d7\u30ea\u30e5\u30e1",
+        "url": "https://open.spotify.com/album/0ZIvFKGAlnb3iICLhZkpbk"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ea\u30fc",
+          "url": "https://open.spotify.com/artist/3aRzJT5TZh2mdX5gcXBCpG"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u30d7\u30ea\u30e5\u30e1",
+      "url": "https://open.spotify.com/track/4HHtWK17s31V5cr8plAUFx"
+    },
+    {
+      "album": {
         "name": "THE WALL",
         "url": "https://open.spotify.com/album/3WFUsYejIKLKZMztGc4ky7"
       },
@@ -2096,7 +2180,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 257419,
       "name": "\u534a\u900f\u660e\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/5N35ftYqydq8ygZKrVdXh6"
@@ -2544,7 +2628,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 210000,
       "name": "\u672a\u5b8c\u6210\u8b83\u6b4c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3T5LxrvZyEqnLe9Pw4TjyD"
@@ -2830,6 +2914,28 @@
       "duration_ms": 231325,
       "name": "\u96fb\u6c17\u4e88\u5831 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/35sayLCpOsy7aCAp8sppG1"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306b\u6d88\u3048\u305f\u4e16\u754c\u3068\u30d3\u30aa\u30e9\u306e\u82b1\u675f",
+        "url": "https://open.spotify.com/album/5Rt5sQJ0nHM3ZsBDw5yjxC"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u3069\u3093\u30bf\u30a4\u30de\u30fcP",
+          "url": "https://open.spotify.com/artist/4ta5vqvsNmN0wFUultQHdJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280816,
+      "name": "\u98a8\u306b\u6d88\u3048\u305f\u4e16\u754c\u3068\u30d3\u30aa\u30e9\u306e\u82b1\u675f (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6CE1JKLtaxQJpEpI2f0WVd"
     }
   ],
   "url": "https://open.spotify.com/playlist/1xU1q2lviYWohSFWY85KmU"

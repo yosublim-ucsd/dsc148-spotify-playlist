@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-168 songs - 11 hr 57 min
+169 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [ハルシネイト](https://open.spotify.com/track/5CKCkKyjtxI3wpDyEMLxbA) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ハルシネイト](https://open.spotify.com/album/29VQzxOjTwNEeIBlQVumMs) | 3:25 | 2024-05-21 |  |
 | [ハローグッデイ](https://open.spotify.com/track/2HeoW34oznLWvuH3q43alB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 5:14 | 2022-05-31 | 2023-06-14 |
 | [ハローグッデイ](https://open.spotify.com/track/7xG1Ld4Z9IeWpRHQGjYUvg) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/62bCLGSLy7BJ41XO2jLPee) | 5:14 | 2022-05-31 | 2022-07-29 |
+| [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 |  |
 | [マコトシヤカ](https://open.spotify.com/track/2Tkn0WEYxylHggkNXg6iud) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:58 | 2022-05-31 | 2023-06-14 |
 | [リングアベル](https://open.spotify.com/track/0MElaeEvzarfVPMuTpDwdA) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/0WQOfN7DYXpd6pFBB7lsnl) | 4:45 | 2022-05-31 | 2022-07-29 |
 | [リングアベル](https://open.spotify.com/track/1PfPiEZ093M5oxinl5TAoO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 4:45 | 2022-05-31 | 2023-06-14 |

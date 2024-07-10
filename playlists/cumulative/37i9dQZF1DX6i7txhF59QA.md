@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-831 songs - 1 day 23 hr 29 min
+832 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Que sera sera](https://open.spotify.com/track/47wE9PmSFJroSjGkHbBOv3) | [우연이](https://open.spotify.com/artist/7HCDRFTIn7vzVqcYR7nA4w) | [Que sera sera](https://open.spotify.com/album/3DqawFPgHWenPyrS2qb7uM) | 3:38 | 2022-05-03 | 2022-07-26 |
 | [Rain and you](https://open.spotify.com/track/1yBWusGuoFqwZkBLrDEOtM) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:40 | 2022-04-22 | 2022-07-27 |
 | [Rain of Tears](https://open.spotify.com/track/0pAYKhRUnmQvW2K54QDtc8) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART21](https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ) | 3:49 | 2022-04-22 | 2022-06-18 |
-| [Rainy Mt\. Geumgang](https://open.spotify.com/track/4c6V39usriyh0y9syFURjE) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [THE SONG OF LOVE](https://open.spotify.com/album/66w0X6rK91G89JqroIZQoS) | 3:04 | 2022-04-22 |  |
+| [Rainy Mt\. Geumgang](https://open.spotify.com/track/4c6V39usriyh0y9syFURjE) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [THE SONG OF LOVE](https://open.spotify.com/album/66w0X6rK91G89JqroIZQoS) | 3:04 | 2022-04-22 | 2024-07-10 |
 | [Read and Ignored \(Prod\. Young Tak\)](https://open.spotify.com/track/1qMvWFcU6YiXbwxLIuiOgB) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Read and Ignored](https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp) | 2:48 | 2022-04-21 |  |
 | [Ready Q](https://open.spotify.com/track/0Xa8go7scwXDZSvh2hzYZh) | [Jo Jung Min](https://open.spotify.com/artist/4fcBdN2QDEF58oIK2D4rzh) | [Drama](https://open.spotify.com/album/1BWohAbbI9PTNQxpF7D1m9) | 3:19 | 2022-05-03 | 2022-07-13 |
 | [Real dandy](https://open.spotify.com/track/6vxDBzXSRekbK48PanHyF7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART28](https://open.spotify.com/album/5KgKaiW0GORPs45M6Ewp2v) | 3:35 | 2022-04-22 | 2022-07-04 |
@@ -629,6 +629,7 @@
 | [Today is young](https://open.spotify.com/track/1bn8KPcyQdJXPQG0XhBcdC) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART26](https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW) | 3:20 | 2022-04-21 | 2022-07-29 |
 | [Together in the rain](https://open.spotify.com/track/1zSzl0XZ6ZTrOqETlxQ5AV) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 3:20 | 2022-04-22 | 2022-07-12 |
 | [Together in the rain](https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb) | [Oh Seungeun](https://open.spotify.com/artist/7nCfLz9ZdOnTkH5PW4IWqy), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:19 | 2023-09-28 |  |
+| [Tonight](https://open.spotify.com/track/2EHIlmOzfIw1OYrasmhXBW) | [Enoch](https://open.spotify.com/artist/1KcnBJQnU9D8NHEMZaBkVh) | [Seol Un Do X Enoch Special](https://open.spotify.com/album/4XvEgcBiv2Et2kojlh1lFs) | 3:19 | 2024-06-17 |  |
 | [Traditional Market](https://open.spotify.com/track/7imk0My0UHl3DSG3XJ4rN4) | [KangNam, Tae Jin\-Ah](https://open.spotify.com/artist/5q65ClodpGOfxXtRxNnbf8) | [Traditional Market](https://open.spotify.com/album/58oRrFuBlJXlQCKkg8AEhS) | 3:24 | 2022-04-22 | 2022-07-19 |
 | [Tralalala](https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz) | [UV](https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 6:18 | 2022-04-22 |  |
 | [Tree ring love](https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0) | [김나희](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tree ring love](https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w) | 3:04 | 2023-09-08 | 2023-10-13 |

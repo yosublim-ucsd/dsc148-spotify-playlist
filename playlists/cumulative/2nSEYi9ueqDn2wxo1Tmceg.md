@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ\_gbwb9R4EA">Buscabulla</a>
 
-978 songs - 2 day 19 hr 23 min
+979 songs - 2 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [ride around](https://open.spotify.com/track/1FztRI1Egz33SIRcHGLgRP) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [ride around](https://open.spotify.com/album/62GBMVy3clzet3FwnongRn) | 4:09 | 2024-02-14 | 2024-04-04 |
 | [Right Time](https://open.spotify.com/track/3ZDO8Cwip6iYPDC1jHHKfI) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Take Hold Of Your Promise!](https://open.spotify.com/album/0kffQaqBWq5HPCP3zOLLvp) | 3:50 | 2022-08-31 | 2022-10-07 |
 | [RITUAL \(evocation\)](https://open.spotify.com/track/1mtkcUtTvtscfzIlOmcPBW) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx), [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Cherif Hashizume](https://open.spotify.com/artist/7lZE7MhAkIglYSnJJB1nYj) | [RITUAL \(evocation\)](https://open.spotify.com/album/4DLnLBvf6aKhABSsGMVpET) | 5:51 | 2024-04-30 | 2024-06-06 |
+| [Ritual \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-07-09 |  |
 | [Rollin' In](https://open.spotify.com/track/0IYm3GXlaXbiIqtXNKepyl) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Stay](https://open.spotify.com/album/2cC5M33uZRseQLHhEUK3lW) | 4:44 | 2024-03-20 | 2024-04-24 |
 | [Rotten](https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:00 | 2022-06-08 | 2022-06-30 |
 | [Rubicon \- Remastered 2023](https://open.spotify.com/track/4NDt5vcdWKAMMWe4Bapmw9) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/2lQT8nDATqsQB1I6auRK1D) | 6:15 | 2023-02-01 | 2023-03-02 |

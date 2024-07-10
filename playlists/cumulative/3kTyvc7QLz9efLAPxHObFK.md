@@ -4,7 +4,7 @@
 
 > 
 
-1,486 songs - 3 day 9 hr 9 min
+1,488 songs - 3 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Bound By Blood](https://open.spotify.com/track/0urHN48EcZuLqImG7ASp98) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Bound By Blood](https://open.spotify.com/album/2fH2mZmPLKbWrnFBdQ90gw) | 3:45 | 2023-09-01 |  |
 | [Brain](https://open.spotify.com/track/5Nk0yiQupskIAaArw5qM0q) | [Mat Weasel Busters](https://open.spotify.com/artist/4OAC3olGybn9D0DJtzBsYa), [B.UNQ!](https://open.spotify.com/artist/2HPFEeD62W0tYsMVT0js3I), [Floxytek](https://open.spotify.com/artist/1v2lA2moEBT9UFfnRd6Pkx) | [Brain](https://open.spotify.com/album/6ZCx8cpvKbzgNBOUgGvczM) | 2:53 | 2024-03-08 |  |
 | [Brain Control](https://open.spotify.com/track/4Z1JKIoi0203j2QR6EzrMC) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [DEVIL'S NIGHTMARE](https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F) | 3:00 | 2022-11-04 |  |
+| [Break Away](https://open.spotify.com/track/3tVUc2cAezwllNaiykckN5) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Break Away](https://open.spotify.com/album/17XXbvNgd4Fz5J7tBFCqiN) | 3:18 | 2024-07-09 |  |
 | [Break Jaws](https://open.spotify.com/track/5STPvojVfbKF8F1TMF39Dn) | [Trespassed](https://open.spotify.com/artist/4P64zOuVtzLwvGEMasQXl5), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Terrified](https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae) | 4:06 | 2022-09-06 |  |
 | [BREAK OUT](https://open.spotify.com/track/1FPMl6wGUAP5lbNAUjwQCp) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [BREAK OUT \-The Final\-](https://open.spotify.com/album/2WWZWSdE7qgWd3i13eg9sS) | 4:23 | 2023-05-01 |  |
 | [Break The Music](https://open.spotify.com/track/71FOAuDQS1zEm2wq1Iv4HX) | [Vau Boy](https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Break The Music](https://open.spotify.com/album/6llKbSbDj8yenoNzBlJ9PL) | 2:53 | 2022-10-05 |  |
@@ -365,6 +366,7 @@
 | [Drowning](https://open.spotify.com/track/644oQ5hRyJjMfKwpgT3XUN) | [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Drowning](https://open.spotify.com/album/4IzQ00DACiJn9CmRhsrsKF) | 2:34 | 2023-08-28 |  |
 | [Drums](https://open.spotify.com/track/6H3bpoZgeYMmmmIgIZqkQH) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1), [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Drums](https://open.spotify.com/album/6mK4sFo2r6P7Puxz9VJbUK) | 2:25 | 2024-04-09 |  |
 | [Drums In My Hand](https://open.spotify.com/track/1MF01Zh5bFl5llhaHtyIKc) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Drums In My Hand](https://open.spotify.com/album/6zyLcpTafY55gOacmCfMkT) | 3:05 | 2023-01-16 |  |
+| [Drums In My Hand \- Atomic Warfare Edit](https://open.spotify.com/track/5parjW5CRSYnS8FzZMRPx6) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Atomic Warfare EP](https://open.spotify.com/album/17h9UZuzLevVf9YpbdEEqU) | 1:26 | 2024-07-09 |  |
 | [DUAL BREAKER XX](https://open.spotify.com/track/5GZ4Y1rxkPQtvUQyacov0E) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [DUAL BREAKER XX](https://open.spotify.com/album/150pHH4cdSPGn13EbgHeZe) | 2:24 | 2023-01-09 |  |
 | [Dum Dubi Doom \- Alaguan Radio Mix](https://open.spotify.com/track/0wSc5xV7Aau36yx2pgb2JK) | [No Left Turn](https://open.spotify.com/artist/60oreIOeO1GZOVmPiUtcSX), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Dum Dubi Doom \(Alaguan Radio Mix\)](https://open.spotify.com/album/5cX8fMM68RvsPdlBgNaevK) | 3:08 | 2024-03-01 |  |
 | [Dynamite \(TNT\)](https://open.spotify.com/track/6hJNSbwK0M1yuTJvBXpMNL) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Dynamite \(TNT\)](https://open.spotify.com/album/0eqZ2gpCg63LLg0cqQnaQD) | 3:02 | 2022-08-29 |  |

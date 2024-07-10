@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Movements. The essential tracks, all in one playlist.",
+  "description": "This Is Movements. Los temas esenciales, todos en una lista.",
   "name": "This Is Movements",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 208023,
       "name": "Barbed Wire Body",
       "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"

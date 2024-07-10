@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=3UUmf3abS9\-5m18G2hXMCw">Quavo</a>, <a href="https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa?si=DO0f\-RPYQr\-EXcRWz42JxQ">Lana Del Rey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,051 likes - 55 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,126 likes - 55 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

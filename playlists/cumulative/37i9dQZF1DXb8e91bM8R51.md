@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb8e91bM8R51.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb8e91bM8R51) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb8e91bM8R51)
 
-### [No corre](https://open.spotify.com/playlist/37i9dQZF1DXb8e91bM8R51)
+### [no corre](https://open.spotify.com/playlist/37i9dQZF1DXb8e91bM8R51)
 
 > Hip Hop pra fazer os corres da vida.
 

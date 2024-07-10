@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,680 likes - 35 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,696 likes - 35 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 7 | [Who](https://open.spotify.com/track/0SLrmN7eDfGrGQKKji1nKF) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Who Else](https://open.spotify.com/album/3h0xqeLqrs2FLSXTYlkv5p) | 4:41 |
 | 8 | [Juggernaut](https://open.spotify.com/track/5OXHafZpLp3jzU7yOPnBfc) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [Juggernaut / S Wave](https://open.spotify.com/album/6GMJkaDxOupumeYs9JopQc) | 6:00 |
 | 9 | [Leather & Lace](https://open.spotify.com/track/35GQ2kctn4xdysvWpENa4F) | [Itoa](https://open.spotify.com/artist/2cuUZ1Xg4gxUNINFn9zLTi) | [Melba](https://open.spotify.com/album/15FFFxzeGHFrvK7hFBLLf3) | 4:26 |
-| 10 | [Nein du liebst mich nicht](https://open.spotify.com/track/57yrBJKPyeq4S34SPbofRi) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Crack Ignaz](https://open.spotify.com/artist/1RzvREvTenKGPYk6laaGdD), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [KITSCHKRIEG](https://open.spotify.com/album/0HGEwZXbJuwOyPml1zlts0) | 3:49 |
+| 10 | [Nein du liebst mich nicht](https://open.spotify.com/track/57yrBJKPyeq4S34SPbofRi) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Crack Ignaz](https://open.spotify.com/artist/1RzvREvTenKGPYk6laaGdD) | [KITSCHKRIEG](https://open.spotify.com/album/0HGEwZXbJuwOyPml1zlts0) | 3:49 |
 | 11 | [Vision Leaks](https://open.spotify.com/track/2wwyXmqrMnHaqrjn2O6CPw) | [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Vision Leaks](https://open.spotify.com/album/4q8D03iDVIB8xGpse4HiFj) | 4:39 |
 | 12 | [Carnage](https://open.spotify.com/track/3FfBQsEksBwK83D3sOQLKs) | [Trends](https://open.spotify.com/artist/2HX5eLyhbffx7Mo8xqSnOZ), [Boylan](https://open.spotify.com/artist/3XOdjRVzH3ryTLNzRGLzhu) | [Ninety Nine](https://open.spotify.com/album/6nt3uCd3l5klHylxcDebqQ) | 5:13 |
 | 13 | [Get Lost](https://open.spotify.com/track/2V2u8AxvhGlEmOtR2qo2OL) | [Sha Ru](https://open.spotify.com/artist/2aXWnfzD15xaLcTuPhf9p5) | [They Are Textural](https://open.spotify.com/album/4jwS3JO2vI7aogPPoCUmva) | 4:01 |

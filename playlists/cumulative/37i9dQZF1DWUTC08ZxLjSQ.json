@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Sofco. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Tayar. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 173217,
       "name": "$1 painting",
       "url": "https://open.spotify.com/track/5TiQI883RE9B1XespK6icI"
@@ -236,6 +236,24 @@
       "duration_ms": 217802,
       "name": "Ala Wain",
       "url": "https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs"
+    },
+    {
+      "album": {
+        "name": "Albe Blue",
+        "url": "https://open.spotify.com/album/4kAvFzkjmBayEA22LOVzMh"
+      },
+      "artists": [
+        {
+          "name": "Nurzy",
+          "url": "https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149076,
+      "name": "Albe Blue",
+      "url": "https://open.spotify.com/track/2aCXeiYgKzkvXDpC9OHQu2"
     },
     {
       "album": {
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 145813,
       "name": "Bayaan Estinkari",
       "url": "https://open.spotify.com/track/3guTIcFQlc76fNN78UlTOs"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 161684,
       "name": "Bent Mbareh",
       "url": "https://open.spotify.com/track/11K4G3UiaS6kPa829EwkCi"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 154488,
       "name": "Benzema",
       "url": "https://open.spotify.com/track/3qaWo8EFTYcGNIHStUC0Ta"
@@ -690,6 +708,24 @@
       "duration_ms": 300000,
       "name": "Breaze",
       "url": "https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6"
+    },
+    {
+      "album": {
+        "name": "Btebrom",
+        "url": "https://open.spotify.com/album/2TrO6IjRgmrs2BRcncV5tT"
+      },
+      "artists": [
+        {
+          "name": "Farah Nakhoul",
+          "url": "https://open.spotify.com/artist/6gAH3YNlApB84dCoFgCSZZ"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147506,
+      "name": "Btebrom",
+      "url": "https://open.spotify.com/track/5Nks9uLwSQkCQ8QmBqcdUA"
     },
     {
       "album": {
@@ -860,6 +896,28 @@
       "duration_ms": 275727,
       "name": "Closer Than Close",
       "url": "https://open.spotify.com/track/5nvlMbwOQxMs2lTzXBqZpF"
+    },
+    {
+      "album": {
+        "name": "Cocaina [feat. 7efny]",
+        "url": "https://open.spotify.com/album/4zOwajCezk826Juc1NED4I"
+      },
+      "artists": [
+        {
+          "name": "Dimo",
+          "url": "https://open.spotify.com/artist/3YtdhLBgZgy0ju52grM4p5"
+        },
+        {
+          "name": "7efny",
+          "url": "https://open.spotify.com/artist/0XPt68gMnDEUp1GcSE8AGs"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229564,
+      "name": "Cocaina (feat. 7efny)",
+      "url": "https://open.spotify.com/track/4CPeRhikwIVUw2x8BxPZGd"
     },
     {
       "album": {
@@ -1408,7 +1466,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 179478,
       "name": "Fe Dema3'y",
       "url": "https://open.spotify.com/track/5tTxYBbanUa4vsDtCw8Nbt"
@@ -1785,6 +1843,28 @@
     },
     {
       "album": {
+        "name": "BLAINE / HIGH",
+        "url": "https://open.spotify.com/album/3KVCSYMqhrGq0zbstFTngd"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv"
+        },
+        {
+          "name": "Yung DrowN",
+          "url": "https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97620,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/38gj8LliEDJfNxAnHQWRun"
+    },
+    {
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj"
       },
@@ -2020,7 +2100,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 198750,
       "name": "I don't want this",
       "url": "https://open.spotify.com/track/1Md8MolYstOXb4gYcTP8sd"
@@ -2345,6 +2425,42 @@
     },
     {
       "album": {
+        "name": "khaif - \u062e\u0627\u064a\u0641",
+        "url": "https://open.spotify.com/album/3dIbh2TrFLUi4cR8oDBo08"
+      },
+      "artists": [
+        {
+          "name": "nabeel - \u0646\u0628\u064a\u0644",
+          "url": "https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284693,
+      "name": "khaif - \u062e\u0627\u064a\u0641",
+      "url": "https://open.spotify.com/track/48lcNL8VdX3w2wDkf8pQb9"
+    },
+    {
+      "album": {
+        "name": "Khatwa L\u2019Wara",
+        "url": "https://open.spotify.com/album/4EM54jqs5a7MBPvPDuOBE4"
+      },
+      "artists": [
+        {
+          "name": "LA\u00cf",
+          "url": "https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Khatwa L\u2019Wara",
+      "url": "https://open.spotify.com/track/0K4MwuLFgOKuKKyQ1M545t"
+    },
+    {
+      "album": {
         "name": "Khayal",
         "url": "https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO"
       },
@@ -2417,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "KOL LEILA",
+        "url": "https://open.spotify.com/album/2H5hFjBof7mlfiQbbjZiS7"
+      },
+      "artists": [
+        {
+          "name": "KHALED ROSSIA",
+          "url": "https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135464,
+      "name": "KOL LEILA",
+      "url": "https://open.spotify.com/track/1u22mL4rk5a4Y6NG9IenBy"
+    },
+    {
+      "album": {
         "name": "Kolchi 3arf",
         "url": "https://open.spotify.com/album/5Nu77x2QkREvxts4nQntom"
       },
@@ -2428,10 +2562,32 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 209144,
       "name": "Kolchi 3arf",
       "url": "https://open.spotify.com/track/3xmhvhO1q0KkpT2bk6ibfu"
+    },
+    {
+      "album": {
+        "name": "Kol Shi Sar",
+        "url": "https://open.spotify.com/album/3BxKZY5K6O893yfLrqi6yq"
+      },
+      "artists": [
+        {
+          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
+          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+        },
+        {
+          "name": "Ibrahim Najada",
+          "url": "https://open.spotify.com/artist/0oHkjuDMeDLoh3P4Q1iokm"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311526,
+      "name": "Korhik",
+      "url": "https://open.spotify.com/track/1Q4I7PEkUvudEbIfdTnGDx"
     },
     {
       "album": {
@@ -2464,7 +2620,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 196471,
       "name": "Laa",
       "url": "https://open.spotify.com/track/1xyE7A0oSKNdUcRmCau56F"
@@ -2947,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Manatif",
+        "url": "https://open.spotify.com/album/324UmpBfqiZAcEuPfzYGWB"
+      },
+      "artists": [
+        {
+          "name": "Ajgoat",
+          "url": "https://open.spotify.com/artist/5wat9FAmCNq5vFCSrfseB2"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229277,
+      "name": "Manatif",
+      "url": "https://open.spotify.com/track/1UUgysWr7I3cRodH7mFmHM"
+    },
+    {
+      "album": {
         "name": "Maneyama",
         "url": "https://open.spotify.com/album/5f6gUbbRKSt16q6zJIWe9L"
       },
@@ -3024,6 +3198,24 @@
       "duration_ms": 183439,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm"
+    },
+    {
+      "album": {
+        "name": "Me & I",
+        "url": "https://open.spotify.com/album/5yFRQNF9WFXhtQwmHH4lvn"
+      },
+      "artists": [
+        {
+          "name": "Delrady",
+          "url": "https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "Me & I",
+      "url": "https://open.spotify.com/track/4mTtIpMRM24YE2wXQjqB20"
     },
     {
       "album": {
@@ -3280,6 +3472,24 @@
       "duration_ms": 152663,
       "name": "Mudun",
       "url": "https://open.spotify.com/track/38xgKmvQlN5eazU7aW3JMI"
+    },
+    {
+      "album": {
+        "name": "Mushtari",
+        "url": "https://open.spotify.com/album/0dVE9927uYNtjXZZiP6oQk"
+      },
+      "artists": [
+        {
+          "name": "249CVRTI",
+          "url": "https://open.spotify.com/artist/4wlxWHbpJqIub5Hm6UaZdE"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Mushtari",
+      "url": "https://open.spotify.com/track/0ruj9IqAfR7KP4OXfsWXGU"
     },
     {
       "album": {
@@ -3612,7 +3822,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 228387,
       "name": "Olly Leh",
       "url": "https://open.spotify.com/track/5Vzashe2s9EGu9nFwNOfea"
@@ -4010,7 +4220,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 232811,
       "name": "Quick Flex",
       "url": "https://open.spotify.com/track/4Xsgdr7McooFSUUGoYvU9g"
@@ -4391,6 +4601,24 @@
     },
     {
       "album": {
+        "name": "Sola (Arabic Version)",
+        "url": "https://open.spotify.com/album/624prYH4W6v55uSct7WSl0"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118853,
+      "name": "Sola - Arabic Version",
+      "url": "https://open.spotify.com/track/4RaiYdiqxNGmg5Y4kmalbN"
+    },
+    {
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/5YiSks0QIvQBTmCZoviwN8"
       },
@@ -4754,7 +4982,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 216494,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/7LRzmoO4nCxxWOh9oLiqFN"
@@ -4960,7 +5188,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 226813,
       "name": "Tonight You Are Mine",
       "url": "https://open.spotify.com/track/5pmsNABH9nDgidXqy2sLKV"
@@ -5036,7 +5264,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 146191,
       "name": "wahda wahda",
       "url": "https://open.spotify.com/track/3KH0IjtA8fu6Bf8c0ZNIuS"
@@ -5268,6 +5496,24 @@
       "duration_ms": 175376,
       "name": "Ya Lel",
       "url": "https://open.spotify.com/track/1I1YpnPKkgtt01ETAy2Ku6"
+    },
+    {
+      "album": {
+        "name": "Ya Rabbi",
+        "url": "https://open.spotify.com/album/0u2wsy0FhnTSFEgMduhQ5W"
+      },
+      "artists": [
+        {
+          "name": "Najet Ounis",
+          "url": "https://open.spotify.com/artist/6Uavw6kHWSqxnqX2TeU1dE"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152018,
+      "name": "Ya Rabbi",
+      "url": "https://open.spotify.com/track/4dZpwLSQAk7IdeOvqEZrjp"
     },
     {
       "album": {

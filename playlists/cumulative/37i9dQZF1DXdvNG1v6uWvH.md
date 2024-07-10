@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-1,180 songs - 2 day 14 hr 10 min
+1,181 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-17 | 2024-05-24 |
 | [BOY BYE](https://open.spotify.com/track/2Q4C88Wk9jOB4JqQ7mU7lp) | [Sigga Ózk](https://open.spotify.com/artist/73J7dlqdZeEGsO1yEU1c47) | [BOY BYE](https://open.spotify.com/album/240uKsCVNduvxP6fwbSC1e) | 2:35 | 2024-05-24 | 2024-06-01 |
 | [Boy Tears](https://open.spotify.com/track/1zd1Niy7vCyry6XzJO35Pg) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Be Right Back](https://open.spotify.com/album/2SgYzD9ePNakltiJbchwMA) | 2:12 | 2024-07-05 |  |
+| [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-05 |  |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-17 | 2024-05-24 |
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-10 | 2024-05-17 |
 | [BPL](https://open.spotify.com/track/5SEu7hZ1C1v1GLxxP360Qf) | [Zeauxi](https://open.spotify.com/artist/2tGkqm7DdGhJgAeOU5tZOu), [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [BPL](https://open.spotify.com/album/2QiCgTQq6QZKsO29NgvNth) | 3:14 | 2024-05-31 | 2024-06-07 |

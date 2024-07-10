@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "This Is Toby Keith. Los temas esenciales, todos en una lista.",
+  "description": "This is Toby Keith. The essential tracks, all in one playlist.",
   "name": "This Is Toby Keith",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 200346,
       "name": "Drunk Americans",
       "url": "https://open.spotify.com/track/49s5BomxHz31fCn5UGnqJg"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 166600,
       "name": "I'm Just Talkin' About Tonight",
       "url": "https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4"

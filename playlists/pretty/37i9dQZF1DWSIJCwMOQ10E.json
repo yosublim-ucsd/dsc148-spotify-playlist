@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 95013,
+  "num_followers": 95008,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "5 A\u00f1os Aferrados al Sabor",
-        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 334132,
-      "name": "Un Vestido Bonito",
-      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 252706,
       "name": "Parranda en el Cafetal",
       "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "5 A\u00f1os Aferrados al Sabor",
+        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 334132,
+      "name": "Un Vestido Bonito",
+      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+        "name": "Desde Mi Ventana",
+        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
         }
       ],
-      "duration_ms": 280906,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139"
+      "duration_ms": 202299,
+      "name": "Una Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Desde Mi Ventana",
-        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
       "artists": [
         {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 202299,
-      "name": "Una Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69"
+      "duration_ms": 280906,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "C\u00f3mo No Amarte",
-        "url": "https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR"
-      },
-      "artists": [
-        {
-          "name": "Yembema",
-          "url": "https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa"
-        },
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "C\u00f3mo No Amarte",
-      "url": "https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 237253,
       "name": "Las Cale\u00f1as Son Como las Flores",
       "url": "https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "C\u00f3mo No Amarte",
+        "url": "https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR"
+      },
+      "artists": [
+        {
+          "name": "Yembema",
+          "url": "https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa"
+        },
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "C\u00f3mo No Amarte",
+      "url": "https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE"
     },
     {
       "added_at": "2024-02-06 20:37:45",

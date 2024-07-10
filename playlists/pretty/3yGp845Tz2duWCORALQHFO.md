@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,734 likes - 49 songs - 2 hr 38 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,737 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 47 | [Lonely](https://open.spotify.com/track/3AFy8UBdU8dKkDdNPftjEO) | [DYSMA](https://open.spotify.com/artist/0EWlmMbhTJVJarWkDWobhw) | [Lonely](https://open.spotify.com/album/25YXOcjVjXODvMjei1UfOB) | 2:53 |
 | 48 | [Colorblind](https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Colorblind](https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa) | 2:57 |
 | 49 | [Echoes](https://open.spotify.com/track/1cw2vKwwn9aKq7J6FsVMRB) | [Deagon](https://open.spotify.com/artist/34h3uv9dVLZqv4chYpSXWw) | [Echoes](https://open.spotify.com/album/23WY6tvDQuPknmzHR3oqlQ) | 3:00 |
+| 50 | [Take Me Higher](https://open.spotify.com/track/6xTv7ao4KotZoZIKF7sSpH) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [Take Me Higher](https://open.spotify.com/album/6ZAJdlXE9dpcgDmsJTdxGX) | 3:13 |
 
-Snapshot ID: `AABgJZjeQZ5gV/LC2hER1XcVwZH95XTw`
+Snapshot ID: `AABgJlN9mvbHpnq1s2foYUijMplR4h3b`

@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 275171,
+  "num_followers": 275202,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjBF3QAAAADFTrUuTuAyN5p/QJpVHDh7",
+  "snapshot_id": "ZozecAAAAADImFd415OUI4iHmBsHHvTv",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Serrat En Directo",
-        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Cantares - En Directo",
-      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Coincidir",
         "url": "https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 163720,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Cantares - En Directo",
+      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Discograf\u00eda en Castellano",
-        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Em Vivo",
         "url": "https://open.spotify.com/album/3O754dggQY8rSiJK2SJTfI"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 259453,
       "name": "El Breve Espacio En Que No Estas",
       "url": "https://open.spotify.com/track/4nP61MTQW0QjHg0DcqsmMN"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Hoy Com\u00ed Con el Abuelo",
+      "url": "https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -447,18 +447,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+        "name": "Discograf\u00eda en Castellano",
+        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
       },
       "artists": [
         {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 187600,
-      "name": "Hoy Com\u00ed Con el Abuelo",
-      "url": "https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI"
+      "duration_ms": 205226,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4Z1A6CF9EumHQuz9vaogdf"
     },
     {
-      "added_at": "2022-01-11 03:05:13",
+      "added_at": "2021-07-29 16:46:05",
       "album": {
         "name": "30 A\u00f1os",
         "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
@@ -1226,19 +1226,11 @@
         {
           "name": "Mercedes Sosa",
           "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Hector Zeoli",
-          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
         }
       ],
-      "duration_ms": 280893,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
+      "duration_ms": 264040,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1397,7 +1389,7 @@
       "url": "https://open.spotify.com/track/67VTfYQPAZdX564dpwJMlu"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
+      "added_at": "2022-01-11 03:05:13",
       "album": {
         "name": "30 A\u00f1os",
         "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
@@ -1406,11 +1398,19 @@
         {
           "name": "Mercedes Sosa",
           "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Hector Zeoli",
+          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
         }
       ],
-      "duration_ms": 264040,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
+      "duration_ms": 280893,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
     },
     {
       "added_at": "2021-07-29 16:46:05",

@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Promessa in cover, aggiornata ogni venerdì
 
-1,215 songs - 2 day 4 hr 26 min
+1,216 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [No Stop](https://open.spotify.com/track/6enSx9neDjRa51R39HvXzz) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [No Stop](https://open.spotify.com/album/4O6Rk4CLWUNmuiZv1qwCkJ) | 2:06 | 2024-02-15 | 2024-03-15 |
 | [NO TIME](https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [NO TIME](https://open.spotify.com/album/61Z6kau8ly1XLa6NTdia1h) | 2:37 | 2024-02-15 | 2024-03-08 |
 | [No Way](https://open.spotify.com/track/1p3CfTqbZS8D8eZMf4ISyy) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [No Way](https://open.spotify.com/album/3bcuFWLhPtnu5K5PVa364S) | 2:17 | 2022-06-02 | 2022-06-24 |
+| [Noccioline](https://open.spotify.com/track/7whzkN1GbzKEcvzLpSEL0s) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [RAISS](https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x), [Trixie & Crox](https://open.spotify.com/artist/29DmVRygDnFHAfqciUHQCP) | [Noccioline](https://open.spotify.com/album/1ifcq9KdlJEorvDFXL9Yxg) | 3:28 | 2024-07-09 |  |
 | [Non ci basta](https://open.spotify.com/track/0pOLk0GIHU3INPdYt1Bjn7) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Non ci basta](https://open.spotify.com/album/2ch95H0nbpGZ3JbannmLnV) | 2:49 | 2024-02-15 | 2024-03-29 |
 | [Non la Sopporto \(feat\. Artie 5ive\)](https://open.spotify.com/track/1mgp23M48L9ZMdPn4zoibd) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Non la Sopporto \(feat\. Artie 5ive\)](https://open.spotify.com/album/4ytiCWayUAwtKB9MrhgqD5) | 2:27 | 2024-03-14 | 2024-04-19 |
 | [NON MI BASTERÀ](https://open.spotify.com/track/6n2Kf18yFkWTbOANDeFJ69) | [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [NON MI BASTERÀ](https://open.spotify.com/album/34Xcpmvk5Hnoc3PI5Yl7u7) | 2:23 | 2022-10-14 | 2022-12-02 |

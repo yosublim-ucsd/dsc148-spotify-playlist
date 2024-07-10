@@ -3555,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Symbol IV : Earth",
+        "url": "https://open.spotify.com/album/5nw2QyglfMgxWyVD6AS2aw"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239093,
+      "name": "Symbol IV : Earth",
+      "url": "https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J"
+    },
+    {
+      "album": {
         "name": "Invincible Fighter",
         "url": "https://open.spotify.com/album/2etZzaMSi3pY0SISeNziWA"
       },
@@ -6341,6 +6359,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea\uff01 \u30ab\u30d0\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Extra Volume",
+        "url": "https://open.spotify.com/album/5hmfbNP9yxbvxdw2v7YoNP"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "\u541b\u306e\u795e\u69d8\u306b\u306a\u308a\u305f\u3044\u3002 - Cover",
+      "url": "https://open.spotify.com/track/0m2SawnqPGhNnzGtHfUtUs"
+    },
+    {
+      "album": {
         "name": "\u58f1\u96eb\u7a7a",
         "url": "https://open.spotify.com/album/4QuwzcnydyFVs20IoD8ttf"
       },
@@ -6604,7 +6640,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 209453,
       "name": "\u5f71\u8272\u821e",
       "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
@@ -7232,7 +7268,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 271233,
       "name": "\u91d1\u8272\u3078\u306e\u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/224WuVYXY6jHhWartnLxyG"

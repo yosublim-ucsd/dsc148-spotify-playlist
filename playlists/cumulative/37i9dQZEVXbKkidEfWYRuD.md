@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,522 songs - 2 day 22 hr 42 min
+1,523 songs - 2 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,6 +712,7 @@
 | [stockholm](https://open.spotify.com/track/2ChVq8CrBPd0Ubxr6f2N8u) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [shinra](https://open.spotify.com/artist/62FHJtmMEmNvNGu16VHbUp) | [stockholm](https://open.spotify.com/album/1YN6zv1vNao3vSsYkUTR7F) | 2:28 | 2022-05-10 | 2022-05-15 |
 | [Strangers](https://open.spotify.com/track/593knnQN4REEshx8th9zgK) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 2:52 | 2024-03-23 | 2024-03-26 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-03 | 2024-03-24 |
+| [Suka](https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [Suka from Arizona](https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8) | 1:24 | 2024-07-09 |  |
 | [sunder](https://open.spotify.com/track/1xCtcUI5hWvLxabftdq8du) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [sunder](https://open.spotify.com/album/4vfjXia6nRwilIfPIoGIbn) | 1:46 | 2023-03-26 | 2023-04-23 |
 | [Super Bowl](https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:03 | 2023-06-03 | 2023-06-05 |
 | [Super Fly](https://open.spotify.com/track/0OGIKKEA3s342QnF41bnkS) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [LILDRUGHILL](https://open.spotify.com/artist/4HVffUWlHdRmS5dpOvDVyJ) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 1:24 | 2021-04-11 | 2021-04-13 |
@@ -888,7 +889,7 @@
 | [Булки](https://open.spotify.com/track/3kiMoZkwXEFn95JYXV8cJB) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [LIL VAN](https://open.spotify.com/artist/7yCz6tKM2eN3NTt8TgVqO4) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:46 | 2021-08-15 | 2021-08-16 |
 | [Буревестник](https://open.spotify.com/track/0YMRW5mlu9bUCWeRMZfB32) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [Буревестник](https://open.spotify.com/album/1mJMd5Kci7qLX8Q0prF5pf) | 4:06 | 2022-01-08 | 2022-02-12 |
 | [Буревіями](https://open.spotify.com/track/0LydTnU3RQKbgMCKFWQ5nS) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz), [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Буревіями](https://open.spotify.com/album/7xOUWVVIMccfuLyUskG9eX) | 3:47 | 2023-04-25 | 2023-12-22 |
-| [Буревіями \- 2023 Remastered Version](https://open.spotify.com/track/7fjPLaFXmMhDKReqzmNWq6) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz), [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Комета](https://open.spotify.com/album/4ejGUrhLMAqUFQZAeGrc01) | 3:47 | 2023-12-21 |  |
+| [Буревіями \- 2023 Remastered Version](https://open.spotify.com/track/7fjPLaFXmMhDKReqzmNWq6) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz), [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Комета](https://open.spotify.com/album/4ejGUrhLMAqUFQZAeGrc01) | 3:47 | 2023-12-21 | 2024-07-10 |
 | [бути долбайобом](https://open.spotify.com/track/117K41GCrtBE713JJ07Dfq) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [trashhouttttttt](https://open.spotify.com/album/57ifk9AiFeBeY5u1BXkmGt) | 2:15 | 2024-03-05 | 2024-03-08 |
 | [Быстро](https://open.spotify.com/track/2vuRLuYUWwwQgQtg1TzkKj) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [АРТЁМ](https://open.spotify.com/album/41uurV69BIoO6FwaRdXkWo) | 1:56 | 2021-03-27\* | 2021-05-25 |
 | [Бэйбитрон](https://open.spotify.com/track/7M0s9oTEkUzBSnkUnG0Idr) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:57 | 2022-04-30 | 2022-05-02 |

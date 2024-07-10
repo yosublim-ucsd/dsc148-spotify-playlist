@@ -6709,6 +6709,28 @@
     },
     {
       "album": {
+        "name": "Zavrie\u0165 m\u00f4\u017eu, pusti\u0165 musia",
+        "url": "https://open.spotify.com/album/08ZCwRwLgkxYoudNQ1R2Bj"
+      },
+      "artists": [
+        {
+          "name": "Palermo",
+          "url": "https://open.spotify.com/artist/1Gy31Couy5B3s2S0sITxSe"
+        },
+        {
+          "name": "Frayer Flexking",
+          "url": "https://open.spotify.com/artist/6cu3kZ6CfnT6LF8USDmumJ"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "CESTA OKOLO SVETA",
+      "url": "https://open.spotify.com/track/17Ztt8YhXkezjOQarZoe4S"
+    },
+    {
+      "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
       },
@@ -11854,6 +11876,24 @@
       "duration_ms": 124768,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa"
+    },
+    {
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "album": {
@@ -20942,7 +20982,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 136688,
       "name": "Letn\u00e1",
       "url": "https://open.spotify.com/track/7JLiGPvaKNNrYJHfzfANe5"
@@ -26328,7 +26368,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
@@ -26671,6 +26711,32 @@
     },
     {
       "album": {
+        "name": "Neprebuden\u00fd",
+        "url": "https://open.spotify.com/album/2fqsUHyrYDnAtdvaeEOR0N"
+      },
+      "artists": [
+        {
+          "name": "Cinque Stelle",
+          "url": "https://open.spotify.com/artist/3v11HcuJ45aGjv4AuMFRyW"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Ba\u0161trng",
+          "url": "https://open.spotify.com/artist/6VGsdIHzW3LReCGvHrxP4P"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194211,
+      "name": "Neprebuden\u00fd",
+      "url": "https://open.spotify.com/track/61RvblLdmIwGgrnnANL4Vl"
+    },
+    {
+      "album": {
         "name": "Neprestanem d\u00fdcha\u0165",
         "url": "https://open.spotify.com/album/1dGkU38y5murIw4iIt0tVT"
       },
@@ -26930,7 +26996,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -28868,7 +28934,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 141031,
       "name": "overseas",
       "url": "https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH"
@@ -29522,6 +29588,28 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
+    },
+    {
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175321,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
     },
     {
       "album": {
@@ -30294,7 +30382,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 224124,
       "name": "PICK UP THE PHONE (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
@@ -30947,6 +31035,24 @@
     },
     {
       "album": {
+        "name": "PORSCHE",
+        "url": "https://open.spotify.com/album/6lmp6mLKJkcj0bC4WJDADZ"
+      },
+      "artists": [
+        {
+          "name": "NXY0TAR0",
+          "url": "https://open.spotify.com/artist/4a6f9s7k8GkIRcRgLnwAsz"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139435,
+      "name": "PORSCHE",
+      "url": "https://open.spotify.com/track/7KJPLYGCcgVcLTQBt9Fa6k"
+    },
+    {
+      "album": {
         "name": "Povedz Pre\u010do",
         "url": "https://open.spotify.com/album/5C1ILfC9FWj3a0CnSOiIVs"
       },
@@ -31561,6 +31667,32 @@
     },
     {
       "album": {
+        "name": "Private party (Prada)",
+        "url": "https://open.spotify.com/album/3OWaMyCH3KifLzlAKisG3a"
+      },
+      "artists": [
+        {
+          "name": "AstralKid22",
+          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "Y.Hana",
+          "url": "https://open.spotify.com/artist/3t9d612I6bvCJaf0vTbznq"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221802,
+      "name": "Private party (Prada)",
+      "url": "https://open.spotify.com/track/7zmzFiNrL1y9n8S6z06iGP"
+    },
+    {
+      "album": {
         "name": "Everyday is May",
         "url": "https://open.spotify.com/album/0jRVBoayiFTzeyW530pZsO"
       },
@@ -32056,7 +32188,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 183065,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7h2ozcUpSL7ulXjRPPQcDy"
@@ -35292,7 +35424,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 165107,
       "name": "Slide da Treme Mel\u00f3dica v2",
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
@@ -37739,6 +37871,24 @@
     },
     {
       "album": {
+        "name": "SZ\u00cdVTIPR\u00d3",
+        "url": "https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "SZ\u00cdVTIPR\u00d3",
+      "url": "https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi"
+    },
+    {
+      "album": {
         "name": "SIMILIVINLOVE",
         "url": "https://open.spotify.com/album/4JRrOgnmtL0knW7kWFtxlr"
       },
@@ -39024,7 +39174,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -41332,7 +41482,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 153833,
       "name": "vietor",
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57869,
+  "num_followers": 57874,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZouW8AAAAABajgmrQnT+CF7I7w2oXPh/",
+  "snapshot_id": "Zo09DgAAAADX4qzfOCVcuA3+UKVPEGxY",
   "tracks": [
     {
       "added_at": "2024-06-11 10:34:59",
@@ -151,6 +151,34 @@
       "duration_ms": 259413,
       "name": "Nanagantaane (feat. Rajavardan, Rihana & Divya Suresh) [From \"Hiranya - The Hitman\"]",
       "url": "https://open.spotify.com/track/4rpc50DRQTwzLJYFRMEXMm"
+    },
+    {
+      "added_at": "2024-07-09 13:37:18",
+      "album": {
+        "name": "Mission Gama Gama (From \"Powder\")",
+        "url": "https://open.spotify.com/album/3tYD2rg6g5tAkPqfw4Oug7"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Trilok Trivikram",
+          "url": "https://open.spotify.com/artist/1xm0IvlkYjHoADBUX3v6tm"
+        },
+        {
+          "name": "Gokul Abhishek",
+          "url": "https://open.spotify.com/artist/0OOQrP00g6QUmlrvpTbfQd"
+        }
+      ],
+      "duration_ms": 255205,
+      "name": "Mission Gama Gama (From \"Powder\")",
+      "url": "https://open.spotify.com/track/0fTHpTznE0StPJfg9GHiOU"
     },
     {
       "added_at": "2024-07-05 14:40:12",
@@ -1635,22 +1663,6 @@
       "duration_ms": 211254,
       "name": "Sundari",
       "url": "https://open.spotify.com/track/74FxChWHek6fCSz4JbHlxQ"
-    },
-    {
-      "added_at": "2024-05-13 06:30:46",
-      "album": {
-        "name": "Atharva [KANNADA]",
-        "url": "https://open.spotify.com/album/5VqyrB2kxECCAEV8qJvjWy"
-      },
-      "artists": [
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "Kcpd",
-      "url": "https://open.spotify.com/track/3aV5SxX2wHOXWvBli4mKQR"
     },
     {
       "added_at": "2024-03-14 12:22:29",

@@ -2081,6 +2081,32 @@
     },
     {
       "album": {
+        "name": "BAKPAKK",
+        "url": "https://open.spotify.com/album/0oCPs1829LWGJUVlx50BNE"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167687,
+      "name": "BAKPAKK",
+      "url": "https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto"
+    },
+    {
+      "album": {
         "name": "PP2",
         "url": "https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT"
       },
@@ -15236,7 +15262,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 226250,
       "name": "Olyan \u0150",
       "url": "https://open.spotify.com/track/0iddCWjFnIc2pENyQWIIn2"

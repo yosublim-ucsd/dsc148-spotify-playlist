@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7bdI7Q9ffxcej6cfVUktvb">Lani Rose</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,045 likes - 98 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,085 likes - 98 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 16 | [I Sing This Song](https://open.spotify.com/track/41Wr87Dha8kEn6yJuY14kb) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG), [Turn Signal](https://open.spotify.com/artist/0YVFHMLIV2IvjhKssYyRbp), [JC The Artist](https://open.spotify.com/artist/0niCrXHc1w0cy3urmrp978) | [I Sing This Song](https://open.spotify.com/album/320pUtVU5Yj6vpFvfHydcS) | 4:01 |
 | 17 | [Territory \(Live\)](https://open.spotify.com/track/131WRsWLJNbTVkzTt4UYvH) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Bridget Vogel](https://open.spotify.com/artist/49HMsq4DjUJjOX7NsSI72L) | [Territory \(Live\)](https://open.spotify.com/album/0Oad5xd6MTpOFtnGaMfT7N) | 3:35 |
 | 18 | [Holy Spirit](https://open.spotify.com/track/7u5WM257rACrrFSu5nGGSd) | [FC Music](https://open.spotify.com/artist/60bQ6WSUb51AY6uCIBdG7m) | [Holy Spirit](https://open.spotify.com/album/7mwPDZGI2nKu68CONEFO1r) | 5:29 |
-| 19 | [More Of You](https://open.spotify.com/track/0OGx8ZX5ywCn6mAjxNEjA0) | [Mainstream Worship](https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3), [Josh Daughtry](https://open.spotify.com/artist/2PJb2PVcw6LgdWLlsCJumi) | [More Of You](https://open.spotify.com/album/1D5tjzgOej5XuInzAfzCGB) | 5:16 |
+| 19 | [More of You](https://open.spotify.com/track/0OGx8ZX5ywCn6mAjxNEjA0) | [Mainstream Worship](https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3), [Josh Daughtry](https://open.spotify.com/artist/2PJb2PVcw6LgdWLlsCJumi) | [More of You](https://open.spotify.com/album/1D5tjzgOej5XuInzAfzCGB) | 5:16 |
 | 20 | [Holy \- Live](https://open.spotify.com/track/0LExQQEkUwNP70LLN1H6B9) | [LF Worship](https://open.spotify.com/artist/12xvjYA78YmrY3s7BuTat1), [Nathan Pickens](https://open.spotify.com/artist/5VBoT4FrcqOKVLitL8TqOo) | [Why Not Here \(Live\)](https://open.spotify.com/album/3IJMYkt88oOEESKxipMegC) | 6:03 |
 | 21 | [Great Is Your Name](https://open.spotify.com/track/4l3VyUKDCcYXdYXp1eiZRn) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [Great Is Your Name](https://open.spotify.com/album/3R1WK9lyshV7khRpaTINn4) | 7:22 |
 | 22 | [Why Not Here? \- Live](https://open.spotify.com/track/4cA3nsFk40wM8zOS856aQL) | [LF Worship](https://open.spotify.com/artist/12xvjYA78YmrY3s7BuTat1), [Chantal Huybregts](https://open.spotify.com/artist/7y7KNW2HDLFh5R57v1uYNE) | [Why Not Here? \(Live\)](https://open.spotify.com/album/6lY6UsjJWMyVDta6cwLKKS) | 8:00 |

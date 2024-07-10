@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Sjaak &amp; YONII
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,550 likes - 12 songs - 41 min 22 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,550 likes - 13 songs - 43 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,5 +20,6 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 10 | [Emphasis of Illusion](https://open.spotify.com/track/7cHM9mao0T6wtCxDKYyns8) | [Deroz](https://open.spotify.com/artist/7ueu2Odbr8LCIomUG45Dh5) | [Emphasis of Illusion](https://open.spotify.com/album/4Jpg5i3Hp2t3xVG5azlGfI) | 3:57 |
 | 11 | [Hello](https://open.spotify.com/track/3jQhfY54CWkDy4Pqt2ozAG) | [Robaer](https://open.spotify.com/artist/6W9GI0QPqUZkyhTxBMUAi5) | [Hello](https://open.spotify.com/album/43NXCMAQNNXt81v2UwsRRF) | 3:01 |
 | 12 | [Take Me](https://open.spotify.com/track/6lgNrkHi78NwTrrzEQJGPV) | [Greg Welsh](https://open.spotify.com/artist/3RwuZdw5zKqMhspsKibacf) | [Take Me](https://open.spotify.com/album/390Ivb6Tcumox4lrkMXuSl) | 4:05 |
+| 13 | [Your Voice](https://open.spotify.com/track/3v66edalBUNYxsJMLih2k5) | [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t) | [Your Voice](https://open.spotify.com/album/6dAmlccxwVjmrgTyXQdk6u) | 2:34 |
 
-Snapshot ID: `AAAqvcanESFXBqfdZ4v2G8AQc9KdI07X`
+Snapshot ID: `AAAqvo49uc+BrIZBxs/mwQCEi+BE72S1`

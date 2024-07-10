@@ -2,7 +2,7 @@
 
 ### [Irish Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DX697hr2C9QhQ)
 
-> Rock Legends from Ireland\. Cover: Sinéad O'Connor
+> Rock legends from Ireland\. Cover: Sinéad O'Connor
 
 76 songs - 5 hr 11 min
 

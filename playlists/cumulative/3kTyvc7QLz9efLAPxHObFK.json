@@ -3215,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "Break Away",
+        "url": "https://open.spotify.com/album/17XXbvNgd4Fz5J7tBFCqiN"
+      },
+      "artists": [
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3tVUc2cAezwllNaiykckN5"
+    },
+    {
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae"
       },
@@ -7316,6 +7334,28 @@
       "duration_ms": 185428,
       "name": "Drums In My Hand",
       "url": "https://open.spotify.com/track/1MF01Zh5bFl5llhaHtyIKc"
+    },
+    {
+      "album": {
+        "name": "Atomic Warfare EP",
+        "url": "https://open.spotify.com/album/17h9UZuzLevVf9YpbdEEqU"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86857,
+      "name": "Drums In My Hand - Atomic Warfare Edit",
+      "url": "https://open.spotify.com/track/5parjW5CRSYnS8FzZMRPx6"
     },
     {
       "album": {

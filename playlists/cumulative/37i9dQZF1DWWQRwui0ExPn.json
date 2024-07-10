@@ -6413,6 +6413,24 @@
     },
     {
       "album": {
+        "name": "Aquatic",
+        "url": "https://open.spotify.com/album/11zz9HClxkRvNsPiqbwU0K"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Aquatic",
+      "url": "https://open.spotify.com/track/7nblWjnAwB8mwEha6mzFBH"
+    },
+    {
+      "album": {
         "name": "Arabian Nights",
         "url": "https://open.spotify.com/album/1kUcEbPsImFojP0O8DuBwN"
       },
@@ -51461,6 +51479,24 @@
     },
     {
       "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/7q0tXoUWaZ2CYQX8itV794"
+      },
+      "artists": [
+        {
+          "name": "Blank x Blank",
+          "url": "https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127115,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/5CzVTEr2Ue7Ac7CFKLp75Y"
+    },
+    {
+      "album": {
         "name": "honey",
         "url": "https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj"
       },
@@ -52856,7 +52892,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 140117,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2wJrTlyqgJFj7RsoswJHIF"
@@ -96519,6 +96555,28 @@
     },
     {
       "album": {
+        "name": "Root System",
+        "url": "https://open.spotify.com/album/5wBNOl2A71CihSKKebwJXD"
+      },
+      "artists": [
+        {
+          "name": "Eu93ne",
+          "url": "https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "Root System",
+      "url": "https://open.spotify.com/track/712paYTcIWDA4z2NIr861U"
+    },
+    {
+      "album": {
         "name": "roots",
         "url": "https://open.spotify.com/album/1kmTyaNsx3AdTtcynrgRiv"
       },
@@ -121470,7 +121528,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 98313,
       "name": "Turtleneck",
       "url": "https://open.spotify.com/track/6wtYEn1SlvYQrEwTV48T8U"
@@ -121690,7 +121748,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 91481,
       "name": "twilight",
       "url": "https://open.spotify.com/track/5UWZXZfR9ykb0xVRNeVXsG"

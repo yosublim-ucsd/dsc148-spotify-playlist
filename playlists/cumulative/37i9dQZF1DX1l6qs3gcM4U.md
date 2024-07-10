@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Neyna
 
-388 songs - 23 hr 0 min
+389 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Hoje a Noite É Nossa](https://open.spotify.com/track/09aLSoFasuxNVnGzgrBxc6) | [Edivaldo Prince](https://open.spotify.com/artist/1gqTY48L61CaY4ZNUpc8wL), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC), [Lil Drizzy](https://open.spotify.com/artist/6J7bOfaTg7OVG7b2uP0cqO) | [Hoje a Noite É Nossa](https://open.spotify.com/album/7zMtgdb8TzDx0ZjssmjaT5) | 3:49 | 2022-01-14 | 2022-01-29 |
 | [Homem Que É Homem](https://open.spotify.com/track/5HEow9A4pAs7dle5zDXnfb) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/0zs00lhtRYNtvzWDaC3NeQ) | 3:36 | 2024-03-15 | 2024-04-19 |
 | [Homem Que É Homem](https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU) | 3:36 | 2021-12-10 | 2024-04-20 |
+| [I Love You](https://open.spotify.com/track/0JEoLrMXfX2eAuBqWGLQdt) | [Gui Santos](https://open.spotify.com/artist/3kjKGb3DFDRYUrht01EnWK), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [I Love You](https://open.spotify.com/album/2EhWvwxCdHOLcIZbrylw8o) | 3:09 | 2024-07-04 |  |
 | [If You Don't Know](https://open.spotify.com/track/6pYBjiuWk8coTvo3shvcWw) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Lisa Lopes](https://open.spotify.com/artist/4jZJ7wqkCF6ldDLzgWASKI) | [If You Don't Know](https://open.spotify.com/album/5dzWo4oakpXNQ6NOZOAjI7) | 3:15 | 2021-12-10 | 2022-07-21 |
 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 | 2022-04-22 | 2024-06-07 |
 | [Insistir Porquê \- Saxo\-Kizomba Remix](https://open.spotify.com/track/1T6FLxnygwAYRqBq02fZO0) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Saxo\-Kizomba](https://open.spotify.com/artist/76LGsqPHM3DIvCD6mXgK5M) | [Insistir Porquê \(Saxo\-Kizomba Remix\)](https://open.spotify.com/album/6iXf5JCkr024vX0W8HpSwj) | 3:48 | 2021-12-10 | 2022-07-29 |
@@ -230,7 +231,7 @@
 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 | 2021-12-10 | 2023-05-19 |
 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 | 2021-12-10 |  |
 | [Novinha](https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Novinha](https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN) | 3:09 | 2022-11-04 | 2022-11-18 |
-| [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 | 2022-12-09 |  |
+| [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 | 2022-12-09 | 2024-07-10 |
 | [Novo Amor](https://open.spotify.com/track/4IdyLuhexm9cbXUcDq5AYQ) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Novo Amor](https://open.spotify.com/album/745TKCU7StzNDkqxHudunL) | 2:44 | 2022-05-13 | 2022-06-17 |
 | [Nu Tenta Evita](https://open.spotify.com/track/3euTZvtjT9UFtbkO3tWkgU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Nu Tenta Evita](https://open.spotify.com/album/3bKdYaCbOWaSbASO5DT9mN) | 3:18 | 2023-05-25 |  |
 | [Nubian Queen](https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Nubian Queen](https://open.spotify.com/album/7fk3arz1TJEFTtwUWUbYGS) | 4:04 | 2021-12-10 | 2022-06-14 |

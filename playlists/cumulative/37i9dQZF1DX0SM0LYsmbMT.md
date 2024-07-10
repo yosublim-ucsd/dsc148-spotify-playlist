@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,174 songs - 6 day 15 hr 24 min
+4,175 songs - 6 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2449,7 +2449,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
-| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 |  |
+| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 | 2024-07-10 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 | 2024-01-19 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |
@@ -4035,6 +4035,7 @@
 | [What Do You Want \- Don Philippe Remix](https://open.spotify.com/track/3pN0n9iixGsDNRvokjO2mr) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T), [Joe Dukie](https://open.spotify.com/artist/1stlWvYSCm3sSEIzdKBSeY), [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [What Do You Want \(Don Philippe Remix\)](https://open.spotify.com/album/7yR6INsFe8Yutpweb0qsPz) | 2:35 | 2020-09-25 | 2020-11-07 |
 | [What I Ever Wished For](https://open.spotify.com/track/4YAHjyurI5EIwNO1tFyjE4) | [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1), [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [What I Ever Wished For](https://open.spotify.com/album/33fy0T55E63F7XnFmiddmI) | 1:45 | 2022-12-22 | 2023-01-20 |
 | [What If We Met](https://open.spotify.com/track/5aPtpl2s3lQdQWEnIPzNNJ) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [What If We Met](https://open.spotify.com/album/3fY7YY6B2LIUJ9fA7VZkzs) | 2:01 | 2020-06-25 | 2020-10-23 |
+| [What If?](https://open.spotify.com/track/41eXLEZ0AVtVm9hAzh1rpb) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [What If?](https://open.spotify.com/album/74bZANaITlH5CXfYL4bs2S) | 2:24 | 2024-07-04 |  |
 | [what is friend pt2](https://open.spotify.com/track/22nYuiiuPcgrhvOLegugYb) | [crossriver](https://open.spotify.com/artist/36AkNtTzmoylhODq0ckuiF) | [From](https://open.spotify.com/album/41073z9nZvnKlRprr19wVF) | 1:47 | 2019-05-26\* | 2019-06-15 |
 | [What It Is](https://open.spotify.com/track/2nuatitSgguyomasiWU6Ik) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [What It Is](https://open.spotify.com/album/1ODKiDqtH429xkFLyh9X94) | 2:42 | 2021-05-14 | 2021-09-10 |
 | [What Might Have Been](https://open.spotify.com/track/24LlCzV5XHVGSvIUa9Ke2G) | [Robot Orchestra](https://open.spotify.com/artist/69CjG40nknFw4W8vrmdgHV), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [What Might Have Been](https://open.spotify.com/album/0VupMIkydBU0AVRCN2PPCy) | 3:06 | 2019-12-20 | 2020-04-24 |

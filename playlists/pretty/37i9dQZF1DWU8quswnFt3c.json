@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Lauren Aquilina.",
-  "num_followers": 940759,
+  "num_followers": 941002,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoUIuQAAAAA4gfJZIXk+W6dGmi0+RJM5",
+  "snapshot_id": "Zo0XxQAAAACD+irbTPvp/5HJH7pFYlSe",
   "tracks": [
     {
       "added_at": "2024-07-03 08:15:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-03 08:15:53",
       "album": {
-        "name": "OSMIN",
-        "url": "https://open.spotify.com/album/1OoYk7talO3HwAozYp6I86"
-      },
-      "artists": [
-        {
-          "name": "Zin\u00e9e",
-          "url": "https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3"
-        }
-      ],
-      "duration_ms": 166567,
-      "name": "BABY VOICE",
-      "url": "https://open.spotify.com/track/0gelwjtIDhGKhk9osLMz5j"
-    },
-    {
-      "added_at": "2024-07-03 08:15:53",
-      "album": {
         "name": "The Rose Of Jericho",
         "url": "https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu"
       },
@@ -787,22 +771,6 @@
       "duration_ms": 266733,
       "name": "Grand Illusion",
       "url": "https://open.spotify.com/track/4ungm58VUft86geFgszTa6"
-    },
-    {
-      "added_at": "2024-07-03 08:15:53",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/6Ow2LB1hUicQBaQ3mgkgJm"
-      },
-      "artists": [
-        {
-          "name": "Y'akoto",
-          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
-        }
-      ],
-      "duration_ms": 173603,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs"
     },
     {
       "added_at": "2024-07-03 08:15:53",
@@ -867,6 +835,38 @@
       "duration_ms": 215666,
       "name": "Afar",
       "url": "https://open.spotify.com/track/3RnXz9keNmkqSRAgZFK0b8"
+    },
+    {
+      "added_at": "2024-07-03 08:15:53",
+      "album": {
+        "name": "\u0411\u0423\u0419\u041d\u0410/IRON BEAT",
+        "url": "https://open.spotify.com/album/5yX9JXQaJYFyKLLnY6RfVZ"
+      },
+      "artists": [
+        {
+          "name": "Ruslana",
+          "url": "https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa"
+        }
+      ],
+      "duration_ms": 232336,
+      "name": "IRON BEAT",
+      "url": "https://open.spotify.com/track/42viWQggsj8HppF6bm5JmS"
+    },
+    {
+      "added_at": "2024-07-03 08:15:53",
+      "album": {
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/3GrrxcBgbNRyWmLgKmLQfT"
+      },
+      "artists": [
+        {
+          "name": "LonelyTwin",
+          "url": "https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "forget",
+      "url": "https://open.spotify.com/track/0DF8IsRDJFYtyv1DWi5j8N"
     }
   ],
   "unique_name": "EQUAL",

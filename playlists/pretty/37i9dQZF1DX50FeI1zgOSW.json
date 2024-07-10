@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Nicky.M x Rajaganapathy",
-  "num_followers": 12185,
+  "num_followers": 12196,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoupKQAAAAA6BEdNltuEmu9w3FIH/jYM",
+  "snapshot_id": "Zo1bmAAAAABSO3sxbBOz3dSDa8GCUObg",
   "tracks": [
     {
       "added_at": "2024-06-14 06:04:33",
@@ -169,6 +169,30 @@
       "url": "https://open.spotify.com/track/5GzYUYPDYSrKUWtsCzwt0a"
     },
     {
+      "added_at": "2024-07-09 15:47:36",
+      "album": {
+        "name": "AntiDrugAnthem",
+        "url": "https://open.spotify.com/album/39cUVaQfAHTSGOSZnu2OqB"
+      },
+      "artists": [
+        {
+          "name": "Gaana Vinoth",
+          "url": "https://open.spotify.com/artist/7N1TA78vXJ1x66NWgSKMMB"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "Jerard Felix",
+          "url": "https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I"
+        }
+      ],
+      "duration_ms": 111050,
+      "name": "AntiDrugAnthem",
+      "url": "https://open.spotify.com/track/17MWq7zp3NOgLO6Q6at59I"
+    },
+    {
       "added_at": "2024-05-13 06:46:48",
       "album": {
         "name": "Thoovaanam",
@@ -227,6 +251,26 @@
       "duration_ms": 207310,
       "name": "Nila",
       "url": "https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed"
+    },
+    {
+      "added_at": "2024-07-09 08:06:34",
+      "album": {
+        "name": "Oru Panithuli",
+        "url": "https://open.spotify.com/album/26GwJWIMxEGLXwl34BrK00"
+      },
+      "artists": [
+        {
+          "name": "Pranav Sooraj",
+          "url": "https://open.spotify.com/artist/0LL6UrzvgzwSi3M3gllE3I"
+        },
+        {
+          "name": "Devaharshan",
+          "url": "https://open.spotify.com/artist/15vvBI4vPBuQKm7Fskcdv0"
+        }
+      ],
+      "duration_ms": 265708,
+      "name": "Oru Panithuli",
+      "url": "https://open.spotify.com/track/0sQx2kPgztAoyYrZ1KZEUG"
     },
     {
       "added_at": "2024-07-08 08:54:01",

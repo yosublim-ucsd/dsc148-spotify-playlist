@@ -5472,7 +5472,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 201609,
       "name": "Da Ili Ne",
       "url": "https://open.spotify.com/track/2rT6xyUhl3d1rGnvSjnWXz"
@@ -5533,6 +5533,28 @@
     },
     {
       "album": {
+        "name": "Dale Baby",
+        "url": "https://open.spotify.com/album/60PSUmuJBrGcg2RWXnxlgB"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Dale Baby",
+      "url": "https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv"
+    },
+    {
+      "album": {
         "name": "DALE BABY",
         "url": "https://open.spotify.com/album/5jIce6BU7PcSkS7aXXGL0l"
       },
@@ -5548,7 +5570,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 170769,
       "name": "DALE BABY",
       "url": "https://open.spotify.com/track/71D3yrwwKGf9HDbXO5PJjD"
@@ -14896,7 +14918,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -16022,10 +16044,32 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 198000,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/1w9r59i5mYISDLF10SxA9q"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        },
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
     },
     {
       "album": {
@@ -16938,10 +16982,32 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 179166,
       "name": "MOY SI MERAK",
       "url": "https://open.spotify.com/track/0dvRWYSsM5pIBx9nTXqDWR"
+    },
+    {
+      "album": {
+        "name": "Moy Si Merak",
+        "url": "https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        },
+        {
+          "name": "MIRELA",
+          "url": "https://open.spotify.com/artist/7poijwJbRfkRYLxylOdbJE"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Moy Si Merak",
+      "url": "https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO"
     },
     {
       "album": {
@@ -29381,6 +29447,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u0443\u043c\u0435\u0440 2",
+        "url": "https://open.spotify.com/album/6sZBH7iKa0ysD3DyasP5GY"
+      },
+      "artists": [
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131835,
+      "name": "\u0411\u0443\u043c\u0435\u0440 2",
+      "url": "https://open.spotify.com/track/4zhlBV8d7jjMbFkoUvMAjj"
+    },
+    {
+      "album": {
         "name": "\u0411\u044f\u043b \u041b\u0438\u0441\u0442",
         "url": "https://open.spotify.com/album/2LJ3B5ptAdTes0vLACGMxt"
       },
@@ -31654,7 +31738,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 188373,
       "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
       "url": "https://open.spotify.com/track/7KMmaDOUgX7xg6boaunE6Q"

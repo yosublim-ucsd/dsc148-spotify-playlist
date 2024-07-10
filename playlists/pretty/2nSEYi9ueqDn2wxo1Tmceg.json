@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ_gbwb9R4EA\">Buscabulla</a>",
-  "num_followers": 66884,
+  "num_followers": 66882,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPiwdNOQSGWnPe8J4s5CACx1zLqHRD",
+  "snapshot_id": "AAAPjCvP8EvHhe77ikt4UNGShCh78VpE",
   "tracks": [
+    {
+      "added_at": "2024-07-09 10:55:46",
+      "album": {
+        "name": "RITUAL (palace)",
+        "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 355488,
+      "name": "Ritual (palace)",
+      "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
+    },
     {
       "added_at": "2024-07-03 16:18:48",
       "album": {

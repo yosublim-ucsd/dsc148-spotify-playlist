@@ -1,13 +1,29 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Bridgerton",
-  "num_followers": 157775,
+  "num_followers": 157777,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn31twAAAABCyl5gxT/794CfoKIxKS8L",
+  "snapshot_id": "ZozEZAAAAACiszSf7mrWa6dGQdzPYrTO",
   "tracks": [
+    {
+      "added_at": "2024-07-09 05:02:28",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 261966,
+      "name": "Save It For Later",
+      "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
+    },
     {
       "added_at": "2024-06-27 23:28:55",
       "album": {

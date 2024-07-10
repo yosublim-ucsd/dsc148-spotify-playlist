@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-562 songs - 1 day 4 hr 42 min
+563 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Got A Feeling](https://open.spotify.com/track/3LgEiXnBZGyhBFcoyG5Hql) | [Raul Ojamaa](https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Soundy](https://open.spotify.com/artist/3b7sLRj01Y93l1Dn186h0W), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Got A Feeling](https://open.spotify.com/album/6MjM00oS1aMPvQcbppe89q) | 2:48 | 2024-03-01 |  |
 | [Gotta Leave](https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:36 | 2024-04-19 |  |
 | [Grey](https://open.spotify.com/track/18qcT6OvETarEtu2ZAZdRo) | [Carpö](https://open.spotify.com/artist/37XIfiBkXkVPCL3h6pKS2q), [MIHXI](https://open.spotify.com/artist/3flHDpJb60qURPhjCAmuhw), [Endpoint](https://open.spotify.com/artist/1A97b3GlGllZ5BotcYtzD5) | [Grey](https://open.spotify.com/album/5f5rP12PmCuKQIwcGfmfCs) | 3:23 | 2023-05-17 | 2023-08-10 |
+| [grow apart](https://open.spotify.com/track/1Wk4VhEdlPzRBQmogzCejD) | [Ghostnaps](https://open.spotify.com/artist/12H4M1bhUsHGZfES7IO27D) | [grow apart](https://open.spotify.com/album/2DpQY6dml38F5Wc5AtAJgc) | 2:54 | 2024-07-09 |  |
 | [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 | 2023-02-21 |
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |
 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 | 2023-05-05 | 2023-08-10 |

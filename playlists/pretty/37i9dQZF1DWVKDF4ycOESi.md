@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Childish Gambino in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,321 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,335 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 47 | [Primo Ministro \(feat\. Vale Pain\)](https://open.spotify.com/track/0XbqUp7qWN5PD3pMtRHWg9) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Primo Ministro \(feat\. Vale Pain\)](https://open.spotify.com/album/4rKJlEEYlpn5CAvDEAw7Qa) | 2:19 |
 | 48 | [CHA CHA](https://open.spotify.com/track/1aSjyijJxUEaesfj5mxpVA) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt), [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [CHA CHA](https://open.spotify.com/album/0GDoJcad7eGQuRII34E8p5) | 2:48 |
 | 49 | [morte/mare](https://open.spotify.com/track/7IUn05XgPyAw0tttiwFlY0) | [segreta](https://open.spotify.com/artist/4QaGDM9EzCr3OeAjTJ6vE9) | [morte/mare](https://open.spotify.com/album/2j59WOmW5GeNkb3jdfUTaL) | 3:48 |
-| 50 | [Musica di Plastica](https://open.spotify.com/track/16Iw4a24u1TicRhZjisiBg) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP), [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Musica di Plastica](https://open.spotify.com/album/6rcZbGfaeE6Dc0kqpjDwFl) | 2:50 |
+| 50 | [Musica di Plastica](https://open.spotify.com/track/16Iw4a24u1TicRhZjisiBg) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [Musica di Plastica](https://open.spotify.com/album/6rcZbGfaeE6Dc0kqpjDwFl) | 2:50 |
 | 51 | [Distratti !](https://open.spotify.com/track/5ulOn76mFsjGbpeP1cvEsK) | [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h), [Boisié](https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti), [GIOVAPIÙGIOVA](https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx) | [Distratti !](https://open.spotify.com/album/480OibnuCZzZTj9TNoKF11) | 2:45 |
 | 52 | [Goodbye](https://open.spotify.com/track/3hAR0R5UTMPRStDNS9eX8J) | [Francesco Tammaro](https://open.spotify.com/artist/0bkTCipITmLTXfQzIYV92d), [centoquaranta](https://open.spotify.com/artist/5OVM8QEKKJIk4DxWBB1xlz) | [Goodbye](https://open.spotify.com/album/3GQTGWDBIAocbw5j3iyrSE) | 3:16 |
 | 53 | [ex](https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [problemi di <3](https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ) | 3:39 |

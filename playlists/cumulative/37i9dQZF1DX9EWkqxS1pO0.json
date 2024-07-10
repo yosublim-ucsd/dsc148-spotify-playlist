@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "Duy Sesimi",
+        "url": "https://open.spotify.com/album/0hO21Uh7eA7UwbjY5s3QuY"
+      },
+      "artists": [
+        {
+          "name": "Duhan Demirci",
+          "url": "https://open.spotify.com/artist/4xfIX4AK4xyml8Bqj5Mw3F"
+        },
+        {
+          "name": "Kaan Arslan",
+          "url": "https://open.spotify.com/artist/5ML0ingV07lUL61gjbH7u2"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Duy Sesimi",
+      "url": "https://open.spotify.com/track/104YH2h7OtypkVgBAjcS6O"
+    },
+    {
+      "album": {
         "name": "Duydu\u011fum En G\u00fczel \u015eark\u0131s\u0131n",
         "url": "https://open.spotify.com/album/7u2f5B81sVTnO4QkezsIiI"
       },
@@ -470,7 +492,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 216000,
       "name": "Eskisi Gibi",
       "url": "https://open.spotify.com/track/3xm7mzzbsNOAbyeOWYepAT"
@@ -1361,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Yummy Yummy",
+        "url": "https://open.spotify.com/album/3pI2WRpeOScbkVf6PcT6SX"
+      },
+      "artists": [
+        {
+          "name": "Suzet",
+          "url": "https://open.spotify.com/artist/38AyHbljCz6Er3RC2p9ekA"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147295,
+      "name": "Yummy Yummy",
+      "url": "https://open.spotify.com/track/4uqCvHV0ffosYKpOKRd9Ah"
+    },
+    {
+      "album": {
         "name": "\u00c7ATAPAT",
         "url": "https://open.spotify.com/album/6pdkNZvWbVb908zfH3AynF"
       },
@@ -1412,7 +1452,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 191250,
       "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
       "url": "https://open.spotify.com/track/6xjyNZ9yjxGenZaiMDM4lg"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-27",
-  "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
+  "description": "This Is AWOLNATION. Los temas esenciales, todos en una lista.",
   "name": "This Is AWOLNATION",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 169171,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"

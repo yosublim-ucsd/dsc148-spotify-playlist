@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,520 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,516 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sereia Do Nordeste](https://open.spotify.com/track/08gTXx836V6YWbndFsNRpR) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Feelings](https://open.spotify.com/album/1tQ1RETg4tV1hY98MxCNsU) | 2:43 |
+| 1 | [Sereia Do Nordeste](https://open.spotify.com/track/08gTXx836V6YWbndFsNRpR) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Feelings](https://open.spotify.com/album/1tQ1RETg4tV1hY98MxCNsU) | 2:43 |
 | 2 | [Sua Saudade](https://open.spotify.com/track/1etE6wBGPMcJr2xZZQbNgM) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8) | [Minha Ex é Minha Maior Fã](https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw) | 4:04 |
 | 3 | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/track/3ZXt3rfyWUjRFANw2KsXN3) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/album/4VpX1NU92MkXt0slgyFrbX) | 3:32 |
 | 4 | [Start](https://open.spotify.com/track/6qB23xPbQGowuLpkXlH3O6) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Start](https://open.spotify.com/album/1WNmC0yI9S4ipnyeeTiitf) | 3:15 |

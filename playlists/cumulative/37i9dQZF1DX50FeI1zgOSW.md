@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-308 songs - 17 hr 42 min
+310 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anbae \- Beloved](https://open.spotify.com/track/7D5HnQ5AHm7MuZdnFlSZVs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Morin Sridion](https://open.spotify.com/artist/7EBlf7e4g9qlddbWXAMvCa) | [Anbae \(Beloved\)](https://open.spotify.com/album/2OR5oGqpfCiCJAyhRmaQuh) | 4:19 | 2023-12-18 | 2024-01-03 |
 | [Aneram Andhaneram](https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA) | [Megas Raj](https://open.spotify.com/artist/5mv9YjItK1k1bWI7xZw5VI), [Pragathish Pugazh](https://open.spotify.com/artist/6jHHXVPqgf4A5IHSHGd1AW) | [Aneram Andhaneram](https://open.spotify.com/album/4XWZYTFrPx8PiGZRZKQrsr) | 2:33 | 2024-05-29 |  |
 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-15 | 2024-01-03 |
+| [AntiDrugAnthem](https://open.spotify.com/track/17MWq7zp3NOgLO6Q6at59I) | [Gaana Vinoth](https://open.spotify.com/artist/7N1TA78vXJ1x66NWgSKMMB), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I) | [AntiDrugAnthem](https://open.spotify.com/album/39cUVaQfAHTSGOSZnu2OqB) | 1:51 | 2024-07-09 |  |
 | [ATHIKAALAI MUDHAL](https://open.spotify.com/track/6OwohvcuvKdUl4vihhYvQf) | [KARKAY](https://open.spotify.com/artist/00YboNb94lHeYpUmmslkqU) | [ATHIKAALAI MUDHAL](https://open.spotify.com/album/4RZj9SVIJwOYgZjqQPcgDT) | 3:37 | 2024-02-14 | 2024-05-21 |
 | [Aval Thaan Perazhagi](https://open.spotify.com/track/380aoQxGRw6CaOJTtPDHXo) | [SreRam Anand](https://open.spotify.com/artist/5ZOKFwFsIjoCEgdYwkymvm), [Keerthana Saravanan](https://open.spotify.com/artist/3kHn8e6guQNgxN8rI4eejj) | [Aval Thaan Perazhagi](https://open.spotify.com/album/0z0CtrFoI7djxfGhnwOQ8m) | 4:02 | 2024-03-28 | 2024-05-14 |
 | [Azhagai Oru Matram](https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd) | [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C), [Nirushka Paiva](https://open.spotify.com/artist/5aNpNoS5ntHTUIEvGcCBc7), [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI) | [Azhagai Oru Matram](https://open.spotify.com/album/6GrbtoW90L2SVgNN5a8veW) | 3:13 | 2023-03-21 | 2023-07-25 |
@@ -201,6 +202,7 @@
 | [OORO](https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [OORO](https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df) | 2:18 | 2024-04-15 |  |
 | [Ooru Sanam](https://open.spotify.com/track/00gwJJMsxFJ4Dm5MfJcr2Z) | [A T Ram](https://open.spotify.com/artist/4ORr051zUJKNxE2cS57UpO), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [FANOHA](https://open.spotify.com/artist/5WFn5wt1M57jYMfmKoUSUx) | [Ooru Sanam](https://open.spotify.com/album/3QnlQ9p9YcUM3drcQxH0iM) | 4:11 | 2023-07-31 | 2023-12-12 |
 | [Oru Paarvai](https://open.spotify.com/track/3CRuPRCfetM8q1L9xPloyw) | [Srini Vasan](https://open.spotify.com/artist/3lOepsCr1cfJYBm14d77Bw) | [Oru Paarvai](https://open.spotify.com/album/5XJcvKbj9WzygWDEENDqyW) | 4:31 | 2023-12-22 |  |
+| [Oru Panithuli](https://open.spotify.com/track/0sQx2kPgztAoyYrZ1KZEUG) | [Pranav Sooraj](https://open.spotify.com/artist/0LL6UrzvgzwSi3M3gllE3I), [Devaharshan](https://open.spotify.com/artist/15vvBI4vPBuQKm7Fskcdv0) | [Oru Panithuli](https://open.spotify.com/album/26GwJWIMxEGLXwl34BrK00) | 4:25 | 2024-07-09 |  |
 | [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2023-03-21 | 2023-06-24 |
 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-03-21 | 2023-07-25 |
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2023-03-21 | 2023-08-03 |

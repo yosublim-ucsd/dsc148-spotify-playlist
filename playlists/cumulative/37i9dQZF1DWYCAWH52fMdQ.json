@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "BRUISE",
+        "url": "https://open.spotify.com/album/5M9Jv5GX35zpqMYJ6bxgoG"
+      },
+      "artists": [
+        {
+          "name": "JU-NE",
+          "url": "https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Feel Lost",
+      "url": "https://open.spotify.com/track/7KUXzwYL5WsauJxF4730PN"
+    },
+    {
+      "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
       },

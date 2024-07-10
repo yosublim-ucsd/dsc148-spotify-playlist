@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25734,
+  "num_followers": 25737,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgJZjeQZ5gV/LC2hER1XcVwZH95XTw",
+  "snapshot_id": "AABgJlN9mvbHpnq1s2foYUijMplR4h3b",
   "tracks": [
     {
       "added_at": "2024-07-05 12:18:55",
@@ -947,6 +947,26 @@
       "duration_ms": 180000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1cw2vKwwn9aKq7J6FsVMRB"
+    },
+    {
+      "added_at": "2024-07-09 13:55:10",
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/6ZAJdlXE9dpcgDmsJTdxGX"
+      },
+      "artists": [
+        {
+          "name": "Rave Jesus",
+          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
+        },
+        {
+          "name": "SON.",
+          "url": "https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ"
+        }
+      ],
+      "duration_ms": 193255,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/6xTv7ao4KotZoZIKF7sSpH"
     }
   ],
   "unique_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",

@@ -1,12 +1,12 @@
 {
   "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
-  "num_followers": 122240,
+  "num_followers": 122316,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZonagAAAAAD+P720Hzs/jAZt3I9ij/5C",
+  "snapshot_id": "ZossAAAAAAAaLxZGTPaAi9UaV4Pi8jkI",
   "tracks": [
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 241785,
+      "name": "Distinta Movida",
+      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "99 Problemas",
         "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 192718,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 241785,
-      "name": "Distinta Movida",
-      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
     },
     {
       "added_at": null,

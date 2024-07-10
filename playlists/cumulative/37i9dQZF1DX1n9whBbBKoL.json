@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 208800,
       "name": "528 Hz Concentration",
       "url": "https://open.spotify.com/track/5V9e3c5xa0oFHWccONeuqJ"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 187368,
       "name": "528 Hz Molecular Symphony",
       "url": "https://open.spotify.com/track/4cnyfq2kGseqcF79dPZ8DU"
@@ -200,6 +200,24 @@
       "duration_ms": 199500,
       "name": "A Sleepless Night",
       "url": "https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo"
+    },
+    {
+      "album": {
+        "name": "A View of the World",
+        "url": "https://open.spotify.com/album/0hiOyQhl10gvBrvsKJeCvI"
+      },
+      "artists": [
+        {
+          "name": "Geonose",
+          "url": "https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "A View of the World",
+      "url": "https://open.spotify.com/track/0HdY6r6dTWZqWpBCDYsGz1"
     },
     {
       "album": {
@@ -1575,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Distant Hills",
+        "url": "https://open.spotify.com/album/1bQEEmjPp7C31sK8zvWUyo"
+      },
+      "artists": [
+        {
+          "name": "Mosaic Tiles",
+          "url": "https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150209,
+      "name": "Distant Hills",
+      "url": "https://open.spotify.com/track/0k0JHg06A2MpzIGxUZZRyW"
+    },
+    {
+      "album": {
         "name": "Distant Oceans",
         "url": "https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80"
       },
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 184250,
       "name": "Eden",
       "url": "https://open.spotify.com/track/1DFn1WHnPSr80WSKNJcdWG"
@@ -1788,6 +1824,24 @@
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
+    },
+    {
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5tAiXuJzbpP2ADCqn3a7GW"
+      },
+      "artists": [
+        {
+          "name": "Astee\u00f5s",
+          "url": "https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189113,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nQT0pn9pURr5rLqHzfBXq"
     },
     {
       "album": {
@@ -2313,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Glaci\u00e4r",
+        "url": "https://open.spotify.com/album/5YxrvbDAjw28e7B9lw4SUm"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6m",
+          "url": "https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142270,
+      "name": "Glaci\u00e4r",
+      "url": "https://open.spotify.com/track/5fB0ZdDjV6jIdForRz3OBa"
+    },
+    {
+      "album": {
         "name": "Glauben",
         "url": "https://open.spotify.com/album/6qXnHbES4CXICBw8YIYxNx"
       },
@@ -2364,6 +2436,24 @@
       "duration_ms": 179400,
       "name": "Golden Day",
       "url": "https://open.spotify.com/track/7zpADkJtQQxS35VOsEoMFX"
+    },
+    {
+      "album": {
+        "name": "Green Valley",
+        "url": "https://open.spotify.com/album/6HxwLfVq6FmX4LBfGZu8e6"
+      },
+      "artists": [
+        {
+          "name": "Adventurine",
+          "url": "https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Green Valley",
+      "url": "https://open.spotify.com/track/6NqoYpqw31nAKmm7u4PGwE"
     },
     {
       "album": {
@@ -2468,7 +2558,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 181846,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/0g7ZjaAeHZqoYQ86Q2qBnq"
@@ -2742,6 +2832,24 @@
       "duration_ms": 205000,
       "name": "Jupiter 285",
       "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
+    },
+    {
+      "album": {
+        "name": "Lavender Fields",
+        "url": "https://open.spotify.com/album/4J9YetDF7lSXwjLcgEPjLi"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Lavender Fields",
+      "url": "https://open.spotify.com/track/6QevBRGBOGwv6EciZovC3S"
     },
     {
       "album": {
@@ -3231,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/3NtykUsqWbzuTJvAoBU1Ho"
+      },
+      "artists": [
+        {
+          "name": "Miracle of Silence",
+          "url": "https://open.spotify.com/artist/0j24YDWgdPF0QfliOxg2fj"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168833,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/53uKwEi4BaBLbmcYz0AjoC"
+    },
+    {
+      "album": {
         "name": "Star Ascent",
         "url": "https://open.spotify.com/album/6JIhSF94ncaPE3PLPbiz1b"
       },
@@ -3501,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Pace",
+        "url": "https://open.spotify.com/album/3e8JIGqpsYqENeBax2rHn6"
+      },
+      "artists": [
+        {
+          "name": "Pax Soloman",
+          "url": "https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Pace",
+      "url": "https://open.spotify.com/track/67QRqLNWKRee1frEKPvVLG"
+    },
+    {
+      "album": {
         "name": "Pace tua",
         "url": "https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA"
       },
@@ -3642,6 +3786,24 @@
       "duration_ms": 174666,
       "name": "Peaceful Sleep",
       "url": "https://open.spotify.com/track/3s5nxh8pO8wMs62xN6F6PV"
+    },
+    {
+      "album": {
+        "name": "Periodically",
+        "url": "https://open.spotify.com/album/32L36dBciDzIYTStJ8frzs"
+      },
+      "artists": [
+        {
+          "name": "Qualeis",
+          "url": "https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177924,
+      "name": "Periodically",
+      "url": "https://open.spotify.com/track/2Ghf0JCPF7rh8q2QTBAjoO"
     },
     {
       "album": {
@@ -3887,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/4ZLQEiOsBgcTSiPn9SFoll"
+      },
+      "artists": [
+        {
+          "name": "Novah Scotia",
+          "url": "https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155936,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/0pUHdRvyYKfBuoZEjGE9MS"
+    },
+    {
+      "album": {
         "name": "Recalibration",
         "url": "https://open.spotify.com/album/0cTozhl0QwvTlSmglW1T2u"
       },
@@ -3920,6 +4100,24 @@
       "duration_ms": 181159,
       "name": "Regenerative State 432 Hz",
       "url": "https://open.spotify.com/track/7bnNyvnP25wKMGUTH0O2GS"
+    },
+    {
+      "album": {
+        "name": "Regularity",
+        "url": "https://open.spotify.com/album/1kSDvNfHYw7fBpKSTdspsy"
+      },
+      "artists": [
+        {
+          "name": "\u00d4erae",
+          "url": "https://open.spotify.com/artist/4DDiJejWr5TNtZM56c65xz"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171144,
+      "name": "Regularity",
+      "url": "https://open.spotify.com/track/5kBUdPC2BxOBVy1DOwy5g0"
     },
     {
       "album": {
@@ -4190,6 +4388,24 @@
       "duration_ms": 170871,
       "name": "Self-Reflection",
       "url": "https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb"
+    },
+    {
+      "album": {
+        "name": "Sensible",
+        "url": "https://open.spotify.com/album/41x0rD0MzoYB2JXyhnHiCm"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvo",
+          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146655,
+      "name": "Sensible",
+      "url": "https://open.spotify.com/track/0cQA4N9GRQOGkeM0vQPiXR"
     },
     {
       "album": {
@@ -4604,6 +4820,24 @@
       "duration_ms": 238573,
       "name": "Sown from Lulea\u030a",
       "url": "https://open.spotify.com/track/71koc8oGlklnEFA2WHrv6K"
+    },
+    {
+      "album": {
+        "name": "Stagnum",
+        "url": "https://open.spotify.com/album/7zjvdmliwj2J0rBgNoILJO"
+      },
+      "artists": [
+        {
+          "name": "Humilis",
+          "url": "https://open.spotify.com/artist/0n8aQnJfcC3RsUNDh9nYdh"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Stagnum",
+      "url": "https://open.spotify.com/track/3oc8slOL5WLnAEe5B7c3Nb"
     },
     {
       "album": {
@@ -5104,7 +5338,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 244000,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/6iGS4h0pzgBXXnIAGnK4aQ"
@@ -5338,10 +5572,28 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 140525,
       "name": "Weightless Echoes",
       "url": "https://open.spotify.com/track/1aejBWe9OIjh34IqKcDayI"
+    },
+    {
+      "album": {
+        "name": "Weightlessly Drifting",
+        "url": "https://open.spotify.com/album/2n4iqSyKHptpwMHqW7wwwN"
+      },
+      "artists": [
+        {
+          "name": "Rah Moon",
+          "url": "https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161943,
+      "name": "Weightlessly Drifting",
+      "url": "https://open.spotify.com/track/3Cj542A7pRieF9x19YYrE8"
     },
     {
       "album": {

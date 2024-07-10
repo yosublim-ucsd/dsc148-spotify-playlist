@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-412 songs - 1 day 1 hr 55 min
+413 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Facelift](https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Facelift](https://open.spotify.com/album/36nDcLcdgq0YA08NnoFbKX) | 4:57 | 2022-01-14 | 2022-05-13 |
 | [Fallin Luv](https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Jeria](https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL) | [Fallin Luv](https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf) | 2:32 | 2024-04-19 |  |
 | [Family \(feat\. El Boogie\)](https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [El Boogie](https://open.spotify.com/artist/5W9f4y0yDpANo2fgQHMqKm) | [Family \(feat\. El Boogie\)](https://open.spotify.com/album/6MnVDBAW2mz8jWfXhbTCEW) | 2:31 | 2022-01-14 | 2022-07-01 |
+| [Fill Your Soul](https://open.spotify.com/track/3GSehBmdlLPsHovQkm47pJ) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Fill Your Soul](https://open.spotify.com/album/7fOwx609ecsPz8GWOEp7Ub) | 3:36 | 2024-07-09 |  |
 | [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-10 |  |
 | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA) | 3:56 | 2024-01-12 | 2024-05-09 |
 | [Find the Joy](https://open.spotify.com/track/4EKRFGE1Y3vqGJufkPhF37) | [Stacie Fields](https://open.spotify.com/artist/2wZzhY59MJ0BDLnLko14gW), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Find the Joy](https://open.spotify.com/album/0ReCJmQfVlndSqvDAn2IYi) | 3:20 | 2022-01-14 | 2022-07-25 |
@@ -395,7 +396,7 @@
 | [Trick Disco \- Edit](https://open.spotify.com/track/1rtOK50Hz7TdZ4qMqzJSKv) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Trick Disco](https://open.spotify.com/album/4mO2Ohi9TOEaNK85PuDEKk) | 3:17 | 2022-01-14 | 2022-07-06 |
 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 | 2024-03-01 |  |
 | [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-05-10 | 2024-05-11 |
-| [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2022-04-06 |  |
+| [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2022-04-06 | 2024-07-10 |
 | [Twisted Mind \- Edit](https://open.spotify.com/track/2Rac00LpW2GRD1MAFdp7h7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Twisted Mind \(Edit\)](https://open.spotify.com/album/03XK4tUR5l3mmzMPTFrdlv) | 3:40 | 2022-04-06 | 2022-07-24 |
 | [Two Feet \- Dan Shake Remix](https://open.spotify.com/track/6Gn5AQS5jDpjHWdPK5P03G) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Two Feet \(Dan Shake Remix\)](https://open.spotify.com/album/6iItmXon4uMSRHEtfqbSSi) | 3:45 | 2022-01-14 | 2022-07-14 |
 | [U Want More](https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [U Want More](https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV) | 3:33 | 2024-03-22 | 2024-05-07 |

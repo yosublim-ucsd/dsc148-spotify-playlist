@@ -49282,7 +49282,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -81236,6 +81236,24 @@
       "duration_ms": 121318,
       "name": "What If We Met",
       "url": "https://open.spotify.com/track/5aPtpl2s3lQdQWEnIPzNNJ"
+    },
+    {
+      "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/74bZANaITlH5CXfYL4bs2S"
+      },
+      "artists": [
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/41eXLEZ0AVtVm9hAzh1rpb"
     },
     {
       "album": {

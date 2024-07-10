@@ -2887,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/6dAmlccxwVjmrgTyXQdk6u"
+      },
+      "artists": [
+        {
+          "name": "Ken Bauer",
+          "url": "https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/3v66edalBUNYxsJMLih2k5"
+    },
+    {
+      "album": {
         "name": "ZENLESS",
         "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
       },

@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 224160,
       "name": "Carnival Time",
       "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 165078,
       "name": "Everything I Cannot Live Without",
       "url": "https://open.spotify.com/track/2QmjlN2galNBzuLxbiOirz"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 199266,
       "name": "Gum",
       "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
@@ -1068,10 +1068,28 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 192982,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2jXervPgB2n6IWIPqnkLkg"
+    },
+    {
+      "album": {
+        "name": "Afterthoughts On Letting Go",
+        "url": "https://open.spotify.com/album/4SRY0RmcuTYiuZZlbEIqxV"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190671,
+      "name": "Lovesick - Afterthoughts Version",
+      "url": "https://open.spotify.com/track/6ZviTp09nCg4qrsIPr3E3e"
     },
     {
       "album": {
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 230451,
       "name": "North East Kid",
       "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"

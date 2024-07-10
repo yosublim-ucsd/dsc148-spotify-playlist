@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 詩羽
 
-1,198 songs - 2 day 22 hr 56 min
+1,200 songs - 2 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [bugs](https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [bugs](https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7) | 3:59 | 2024-02-06 | 2024-03-06 |
 | [BUM BUM](https://open.spotify.com/track/0MZvOut9kY3K8HgPfD0PjJ) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [BUM BUM](https://open.spotify.com/album/4IAhXGhBYtNgawp2lXn295) | 3:12 | 2024-03-05 | 2024-04-03 |
 | [BURIBURI](https://open.spotify.com/track/1jnKolSiECUUSDsvRXG0sN) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [BURIBURI](https://open.spotify.com/album/0esLtav09urol1KUKmUKw9) | 2:17 | 2023-05-02 | 2023-06-07 |
+| [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-09 |  |
 | [Butterfly Effect](https://open.spotify.com/track/0sps5YsUzFCDFxpADH02Cw) | [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [Pink](https://open.spotify.com/album/2LUEQdAWtMbGwzlUm4STTz) | 4:26 | 2022-11-08 | 2022-12-07 |
 | [Bye\-Bye King](https://open.spotify.com/track/0zTHa1Kd07I1VTZX8jMKrb) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [RICK NOVA](https://open.spotify.com/artist/7flydDGMB0orujddPJZnTg) | [Bye\-Bye King](https://open.spotify.com/album/355SYUVufkwA8t7mDJEJQK) | 2:56 | 2022-04-05 | 2022-05-05 |
 | [Bye\-Bye Show](https://open.spotify.com/track/6Md1BGo8aCwM2dA33RiKIJ) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:41 | 2023-04-04 | 2023-05-03 |
@@ -304,7 +305,7 @@
 | [Hole horrible](https://open.spotify.com/track/0HuIp1Fn6sSG4xk6tBkmVo) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [we are the tiva 2](https://open.spotify.com/album/7aJijMfdNjvuJdtyFzJA1U) | 3:20 | 2024-01-09 | 2024-02-07 |
 | [hologram](https://open.spotify.com/track/4RPhDA0caf8PWbSOidnozh) | [Nao☆](https://open.spotify.com/artist/4l3RPSnpTQowMlWZe34WBh) | [Keep banging on the door!](https://open.spotify.com/album/1Ysez1mYAf5YqKzpwxkjBz) | 4:31 | 2023-02-01 | 2023-03-01 |
 | [Home Alone](https://open.spotify.com/track/0I9i3aVEXcoaYHuCAwZZ7M) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [Home Alone](https://open.spotify.com/album/5vFGfEKandnkGl4FqBkrOy) | 3:02 | 2023-11-07 | 2023-11-30 |
-| [Homie](https://open.spotify.com/track/0pXT91Xj07o2e6RDOOSzSj) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [sweet ring](https://open.spotify.com/album/0RmFq3M2461J5fggeahjGB) | 4:01 | 2024-06-20 |  |
+| [Homie](https://open.spotify.com/track/0pXT91Xj07o2e6RDOOSzSj) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [sweet ring](https://open.spotify.com/album/0RmFq3M2461J5fggeahjGB) | 4:01 | 2024-06-20 | 2024-07-10 |
 | [Honey](https://open.spotify.com/track/5fOLC1RDNcqkDLcemd3n3i) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 3:10 | 2022-05-31 | 2023-01-04 |
 | [Hood bby \(Theme of +81 Connect\)](https://open.spotify.com/track/0qSAgPAgM8OhJJkuNk9kPa) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Theme of +81 Connect EP](https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf) | 1:21 | 2023-09-05 | 2023-11-08 |
 | [Hood bby \(Theme of +81 Connect\)](https://open.spotify.com/track/4k3e5VLYGX2NrAXZZfPDyQ) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Hood bby \(Theme of +81 Connect\)](https://open.spotify.com/album/6Y5o1FWgV2kYo8FTFxLlHh) | 1:21 | 2021-11-30 | 2022-05-05 |
@@ -613,6 +614,7 @@
 | [Ring Ring Ring](https://open.spotify.com/track/3tTiyiBF0TcHHZoOWlYRmi) | [THE LET'S GO's](https://open.spotify.com/artist/6taxB6tZsn4SxvlmPjfmXz) | [In My Head](https://open.spotify.com/album/58yZDJ4mn5BuEFZuBkSHB8) | 3:42 | 2022-05-04 | 2022-06-01 |
 | [ring ring, you kill me](https://open.spotify.com/track/7BDzU8Dcit2KqznktWxDHb) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Killer in Neverland](https://open.spotify.com/album/6vOSP7R3SEdTMgZm90GunD) | 3:10 | 2022-09-06 | 2022-10-05 |
 | [ripple](https://open.spotify.com/track/3kQMsWayIAqbgRou15Y9Wy) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [ripple](https://open.spotify.com/album/5yN3BNFVlWJLD6x7xYFUYM) | 2:44 | 2022-07-05 | 2022-08-03 |
+| [RISE UP](https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM) | 3:00 | 2024-07-09 |  |
 | [Roll](https://open.spotify.com/track/6ZOfIAVHz5kouYvIqUV19r) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:36 | 2023-09-05 | 2023-11-08 |
 | [Room Tour](https://open.spotify.com/track/3VLLya1BlR43iLpsGflhWK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/11jEvl4NC5zw14RbeuGrj9) | 4:25 | 2022-07-05 | 2022-07-29 |
 | [Room Tour](https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/2FHpkkHWUQAPMl9Vqwpmi0) | 4:25 | 2022-07-05 | 2022-08-03 |
@@ -1022,7 +1024,7 @@
 | [マーメイド](https://open.spotify.com/track/6ONu1NipaIbSQhYjR2ITer) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [POP DELIVERY](https://open.spotify.com/album/4IDkrDJxwVgTiMzywkPF6x) | 3:55 | 2024-06-20 |  |
 | [メイビーベイビー](https://open.spotify.com/track/2nDa78IwSzJ2p1cRIojMGe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [メイビーベイビー](https://open.spotify.com/album/5wtZx8Oy2cJNgkBZCzejBD) | 3:17 | 2022-02-01 | 2022-03-08 |
 | [モノクローム](https://open.spotify.com/track/2CKkxiBLvJwTaa0tpmVi6A) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [モノクローム](https://open.spotify.com/album/7ItZ6yrP6ejXg6xSupsvEv) | 3:23 | 2023-11-07 | 2023-11-30 |
-| [モーニングルーティン](https://open.spotify.com/track/1BCuK5Xrf7gA0GUv2hiw0w) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [モーニングルーティン](https://open.spotify.com/album/4cX3MYGdSniYrfwwaEAfEX) | 3:35 | 2024-06-20 |  |
+| [モーニングルーティン](https://open.spotify.com/track/1BCuK5Xrf7gA0GUv2hiw0w) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [モーニングルーティン](https://open.spotify.com/album/4cX3MYGdSniYrfwwaEAfEX) | 3:35 | 2024-06-20 | 2024-07-10 |
 | [ヤケド](https://open.spotify.com/track/4NEhoHnnuNVRs5x7ovkkUk) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [ヤケド](https://open.spotify.com/album/1jPav5sGQGfQ8eKaAZA9Ym) | 3:15 | 2023-07-04 | 2023-08-02 |
 | [ラストロマンス](https://open.spotify.com/track/4NJnYJ9D2sT1GDWoRYqw4J) | [Tokyo Girls' Style](https://open.spotify.com/artist/2mUoXdIOsE0kFnXdNzS3wx) | [ラストロマンス](https://open.spotify.com/album/4Gw7ZhwDUx07w6ycBxegQf) | 3:00 | 2022-11-08 | 2022-12-07 |
 | [ラッキーカラー](https://open.spotify.com/track/51wVMgIHAGqTZxlgNJN11K) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [がんばれ!メロディー](https://open.spotify.com/album/5sKz8vVkaJ73RTjh0X7dEc) | 4:07 | 2023-01-03 | 2023-02-02 |

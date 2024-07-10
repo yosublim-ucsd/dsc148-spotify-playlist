@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Sjaak &amp; YONII
 
-136 songs - 6 hr 51 min
+137 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Where Are You Tonight](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight](https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP) | 3:55 | 2024-06-28 | 2024-07-05 |
 | [Why Wait For Tomorrow](https://open.spotify.com/track/0CpY40RjVCX92jJwweTJ0h) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj) | [Why Wait For Tomorrow](https://open.spotify.com/album/6ywkl0YvpqVav7YNHLLX7q) | 6:33 | 2024-05-31 | 2024-06-08 |
 | [Wish I Could](https://open.spotify.com/track/6UK2lSAR9Zd4fSOpx0huiE) | [TATE SEDAR](https://open.spotify.com/artist/7Cg0Dca4blfWFgBGfejEqq) | [Wish I Could](https://open.spotify.com/album/3RNotfBFHkN1dPySz0izyE) | 2:54 | 2024-04-26 | 2024-05-03 |
+| [Your Voice](https://open.spotify.com/track/3v66edalBUNYxsJMLih2k5) | [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t) | [Your Voice](https://open.spotify.com/album/6dAmlccxwVjmrgTyXQdk6u) | 2:34 | 2024-07-09 |  |
 | [ZENLESS](https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x) | [ZENLESS](https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu) | 2:24 | 2024-07-04 |  |
 | [ZENLESS](https://open.spotify.com/track/3mIouw7V3msMJkm8iqKXXr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/3YQzkkbhmbwaMmZuNxkvsb) | [ZENLESS](https://open.spotify.com/album/4ntjc4RbUVs7TfKUvvTSIA) | 2:24 | 2024-07-04 |  |
 | [Zouka](https://open.spotify.com/track/2vJwO7KW4IbEGo9OOjt7Rl) | [DAMIANO](https://open.spotify.com/artist/6YFtrkySuHfAKmrFG9KqfO), [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz) | [Zouka](https://open.spotify.com/album/6LuwKha0UnxqI5wa9ADgzB) | 3:35 | 2024-06-07 | 2024-06-15 |

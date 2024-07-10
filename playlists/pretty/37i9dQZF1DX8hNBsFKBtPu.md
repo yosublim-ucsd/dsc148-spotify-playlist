@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Beinir ❤️‍🔥 Dopha
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,890 likes - 121 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,889 likes - 121 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

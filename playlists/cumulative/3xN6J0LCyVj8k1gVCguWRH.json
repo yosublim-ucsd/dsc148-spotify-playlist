@@ -5370,7 +5370,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 299346,
       "name": "Banks of the Guadalupe",
       "url": "https://open.spotify.com/track/4K8CDTJFiJYQKusQi6axSL"
@@ -8040,7 +8040,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 228252,
       "name": "Breaking Away",
       "url": "https://open.spotify.com/track/7EuXFLawKGvaRMzE8wShSf"
@@ -13462,7 +13462,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 205621,
       "name": "Cut Loose",
       "url": "https://open.spotify.com/track/4Al9vDLlf76F7cLPutHFQj"
@@ -26056,7 +26056,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 143040,
       "name": "HOLA:$",
       "url": "https://open.spotify.com/track/5IczpYYWmSI1s7kSdcfNpE"
@@ -35692,7 +35692,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 151880,
       "name": "Love On Me",
       "url": "https://open.spotify.com/track/5s6bFFN0SnAFy1TGLLr6gI"
@@ -45376,7 +45376,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 145421,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/4xvFxV5ji9jCtDHTfiNyg3"
@@ -46262,7 +46262,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 168500,
       "name": "Poster Child",
       "url": "https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx"
@@ -48224,7 +48224,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 192045,
       "name": "Reminisce the Future",
       "url": "https://open.spotify.com/track/1sLt2JX4paS1tpODhGuGve"
@@ -49302,6 +49302,24 @@
       "duration_ms": 234428,
       "name": "ROWBOAT",
       "url": "https://open.spotify.com/track/4ncfQKRos47SkCMwzJdeub"
+    },
+    {
+      "album": {
+        "name": "ruin july",
+        "url": "https://open.spotify.com/album/1VJu4ouMI4rD7L3brqAnEb"
+      },
+      "artists": [
+        {
+          "name": "Anderson Hao",
+          "url": "https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "ruin july",
+      "url": "https://open.spotify.com/track/24jV2UdYZkwbe14zBDoVPy"
     },
     {
       "album": {
@@ -51918,7 +51936,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 188969,
       "name": "Sina Makosa",
       "url": "https://open.spotify.com/track/2KZnuhaMiOwsSpHg1jip5S"
@@ -54471,6 +54489,24 @@
     },
     {
       "album": {
+        "name": "Stillcare",
+        "url": "https://open.spotify.com/album/0dScsoPZveK86G5yujbFnV"
+      },
+      "artists": [
+        {
+          "name": "Sanja Ost",
+          "url": "https://open.spotify.com/artist/2sY91sdrpjwRCl4omRqVXq"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251611,
+      "name": "Stillcare",
+      "url": "https://open.spotify.com/track/2qCzjsd2i20Al3IpUi6zYB"
+    },
+    {
+      "album": {
         "name": "Stolen Love",
         "url": "https://open.spotify.com/album/6DkbpFdoKedFhVy3oi9W61"
       },
@@ -56988,7 +57024,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 187660,
       "name": "Tangled",
       "url": "https://open.spotify.com/track/5zOxbR56sP7l2lawHl45HM"
@@ -57104,6 +57140,24 @@
       "duration_ms": 210080,
       "name": "Tattooed",
       "url": "https://open.spotify.com/track/0tJa7lLgDHXxCJik8RoroX"
+    },
+    {
+      "album": {
+        "name": "Te Odio. Te Amo.",
+        "url": "https://open.spotify.com/album/4r410t9vgZ6qgpTbQLf3RZ"
+      },
+      "artists": [
+        {
+          "name": "Yovanna Ventura",
+          "url": "https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186736,
+      "name": "Te Odio. Te Amo.",
+      "url": "https://open.spotify.com/track/5ingw1HJZHGeR3XH3uD4qk"
     },
     {
       "album": {
@@ -58900,7 +58954,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 246305,
       "name": "There's Always a Place",
       "url": "https://open.spotify.com/track/5dwDRxpTxLeuampgOKk41s"
@@ -59406,7 +59460,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 179154,
       "name": "throw away",
       "url": "https://open.spotify.com/track/7mTzqgm80Bu6WUZ4M3WltL"
@@ -60920,7 +60974,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 202500,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0aGoffG2W0uU9Vm7YKeKoM"

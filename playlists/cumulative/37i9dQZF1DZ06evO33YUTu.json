@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
   "name": "This Is Greeicy",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "Ant\u00eddoto",
       "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 184009,
       "name": "Lo Malo - Remix",
       "url": "https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 177920,
       "name": "Mala Fama - Remix",
       "url": "https://open.spotify.com/track/1H3o2Pde9RlIa0V2crN3kb"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 206497,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"

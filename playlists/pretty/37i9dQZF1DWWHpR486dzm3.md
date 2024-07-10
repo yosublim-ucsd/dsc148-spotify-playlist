@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien parhaat uutuudet\. Kannessa Eva Louhivuori.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,643 likes - 72 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,641 likes - 72 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pihapuu](https://open.spotify.com/track/0Ai8b9Sw1T5TLSO2hh5t08) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Pihapuu](https://open.spotify.com/album/1A9LE7lRVg4R4ML6hn1t00) | 3:18 |
-| 2 | [Kiviä ja laivoja](https://open.spotify.com/track/3navhyUDpBPcKtUjBrwV46) | [ITE EEROLA](https://open.spotify.com/artist/3lJlwFjhgze1oPi0C1BFh7) | [Linnut / Kiviä ja laivoja](https://open.spotify.com/album/47X4XQZUUEwEYOdmQn854A) | 4:44 |
-| 3 | [Ordinary Joys](https://open.spotify.com/track/5TavRtXaX57zPZvhTj46Uh) | [The Wildflower Collective](https://open.spotify.com/artist/2SRjc4zwhu0A7P4dtZcPUu) | [Ordinary Joys](https://open.spotify.com/album/1xt8yeG0rX1SRRE5JzbHBS) | 3:48 |
-| 4 | [Täysikuu](https://open.spotify.com/track/6yhBy1W2r7Lb9KcVshoYnI) | [Elina Madetoja](https://open.spotify.com/artist/2jSZD3mH5kWWTZnnAyV78p) | [Täysikuu](https://open.spotify.com/album/5SGI50Rptox31ycGoZLsla) | 3:17 |
+| 1 | [Kiviä ja laivoja](https://open.spotify.com/track/3navhyUDpBPcKtUjBrwV46) | [ITE EEROLA](https://open.spotify.com/artist/3lJlwFjhgze1oPi0C1BFh7) | [Linnut / Kiviä ja laivoja](https://open.spotify.com/album/47X4XQZUUEwEYOdmQn854A) | 4:44 |
+| 2 | [Ordinary Joys](https://open.spotify.com/track/5TavRtXaX57zPZvhTj46Uh) | [The Wildflower Collective](https://open.spotify.com/artist/2SRjc4zwhu0A7P4dtZcPUu) | [Ordinary Joys](https://open.spotify.com/album/1xt8yeG0rX1SRRE5JzbHBS) | 3:48 |
+| 3 | [Täysikuu](https://open.spotify.com/track/6yhBy1W2r7Lb9KcVshoYnI) | [Elina Madetoja](https://open.spotify.com/artist/2jSZD3mH5kWWTZnnAyV78p) | [Täysikuu](https://open.spotify.com/album/5SGI50Rptox31ycGoZLsla) | 3:17 |
+| 4 | [Pihapuu](https://open.spotify.com/track/0Ai8b9Sw1T5TLSO2hh5t08) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Pihapuu](https://open.spotify.com/album/1A9LE7lRVg4R4ML6hn1t00) | 3:18 |
 | 5 | [Kiinalainen vesikidutus](https://open.spotify.com/track/2czSgbtUgrCL9QtRslkJIu) | [Janeveera](https://open.spotify.com/artist/3sFdVn4olCxJnN7geK95jg) | [Kiinalainen vesikidutus](https://open.spotify.com/album/1NVloyTGtDq1S8Uc5IlexP) | 4:02 |
 | 6 | [Koti katoaa öisin](https://open.spotify.com/track/7zTMUO8M1CV33HeRyTwhqp) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el) | [Koti katoaa öisin](https://open.spotify.com/album/3ekw3B2UifKDfWqz51k3Eq) | 3:12 |
 | 7 | [Kirkas tähtiyö](https://open.spotify.com/track/7lwy5VKmNP9iu6ugGjO1Yh) | [Nikita Titov](https://open.spotify.com/artist/2leCK1JlPrTJ891OYOExTP) | [Kirkas tähtiyö](https://open.spotify.com/album/0Y6RytKb4KS6R63uVadN5c) | 4:14 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 71 | [As If I Lived A Different Life](https://open.spotify.com/track/1yA1NgKLcS1mfLjfuN3w28) | [KAMA Kollektiv](https://open.spotify.com/artist/3I4iu93DAk5YWtDDG1wSex), [Kirsi\-Marja Harju](https://open.spotify.com/artist/4IPnFXXMagNYoVflftPoqG), [Jonathan Nagel](https://open.spotify.com/artist/74R2vk1HfBnxKqrjlW2fCB), [Ida Alanen](https://open.spotify.com/artist/1uoE9dQR10MV4nLojgUqsC), [Joe Korach](https://open.spotify.com/artist/1n3Ortwv01F4eXkw9ZWRMS) | [As If I Lived A Different Life](https://open.spotify.com/album/49qxVcekKTZfb1ysMCaZkh) | 6:24 |
 | 72 | [Suru](https://open.spotify.com/track/3kusljHYlIVPZfxyGiGcAu) | [Katri O](https://open.spotify.com/artist/1sTkp2XHuNufsVG0I8EHG2) | [SURU](https://open.spotify.com/album/1RqKZ2zRAJb92MMeyA3rjr) | 2:57 |
 
-Snapshot ID: `ZouWRQAAAABAC0WoWaXvQQRPULdP2z9/`
+Snapshot ID: `Zo0vfQAAAADF9W2JNXLHQM9szDSW5HAV`

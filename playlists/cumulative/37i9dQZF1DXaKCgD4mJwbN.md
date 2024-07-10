@@ -2,7 +2,7 @@
 
 ### [Pa' Pistear](https://open.spotify.com/playlist/37i9dQZF1DXaKCgD4mJwbN)
 
-> Puras rolitas pa' destapar un bote y empinar el codo.
+> Puras rolitas pa' empinar el codo.
 
 402 songs - 21 hr 23 min
 

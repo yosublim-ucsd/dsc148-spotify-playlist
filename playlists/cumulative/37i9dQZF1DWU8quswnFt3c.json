@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 166567,
       "name": "BABY VOICE",
       "url": "https://open.spotify.com/track/0gelwjtIDhGKhk9osLMz5j"
@@ -10553,6 +10553,24 @@
     },
     {
       "album": {
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/3GrrxcBgbNRyWmLgKmLQfT"
+      },
+      "artists": [
+        {
+          "name": "LonelyTwin",
+          "url": "https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "forget",
+      "url": "https://open.spotify.com/track/0DF8IsRDJFYtyv1DWi5j8N"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/1mFALEv1ffKshIAb5T3Db0"
       },
@@ -14650,6 +14668,24 @@
       "duration_ms": 216670,
       "name": "Iparho Gia Sena",
       "url": "https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0423\u0419\u041d\u0410/IRON BEAT",
+        "url": "https://open.spotify.com/album/5yX9JXQaJYFyKLLnY6RfVZ"
+      },
+      "artists": [
+        {
+          "name": "Ruslana",
+          "url": "https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232336,
+      "name": "IRON BEAT",
+      "url": "https://open.spotify.com/track/42viWQggsj8HppF6bm5JmS"
     },
     {
       "album": {
@@ -27924,7 +27960,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 173603,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs"

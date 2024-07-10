@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:5Ppbc55kNdjvxP8Tw2P8S9\">APHACA</a> p\u00e5 forsiden\ud83d\udd2a",
-  "num_followers": 23108,
+  "num_followers": 23120,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Det er din k\u00e6rlighed",
         "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 227698,
       "name": "Det er din k\u00e6rlighed",
       "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Til Solen Er Sort",
+        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Til Solen Er Sort",
+      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "N\u00e5r Du R\u00f8rer Ved Mig",
         "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 217242,
       "name": "N\u00e5r Du R\u00f8rer Ved Mig",
       "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Til Solen Er Sort",
-        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 224175,
-      "name": "Til Solen Er Sort",
-      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Din Sang",
-        "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
-      },
-      "artists": [
-        {
-          "name": "PIND",
-          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Din Sang",
-      "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "K\u00e6rligheden Vinder",
         "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 212589,
       "name": "K\u00e6rligheden Vinder",
       "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Din Sang",
+        "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
+      },
+      "artists": [
+        {
+          "name": "PIND",
+          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Din Sang",
+      "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Legeb\u00f8rn",
         "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "</3",
         "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Trampoliner",
-        "url": "https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 151062,
-      "name": "Kender Du F\u00f8lelsen",
-      "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Dear Space",
         "url": "https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 202243,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Trampoliner",
+        "url": "https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4"
+      },
+      "artists": [
+        {
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
+        }
+      ],
+      "duration_ms": 151062,
+      "name": "Kender Du F\u00f8lelsen",
+      "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 191673,
-      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "ENDORFINER (JEG VIL IKKE VIDE DU FINDES)",
         "url": "https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg"
       },
@@ -811,22 +795,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Ung & Smuk",
-        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 160974,
-      "name": "Ung & Smuk",
-      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Lyden Af Livet",
         "url": "https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv"
       },
@@ -843,18 +811,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Siger Det Ik'",
-        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
+        "name": "Ung & Smuk",
+        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
       },
       "artists": [
         {
-          "name": "UNG-SKAB",
-          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
         }
       ],
-      "duration_ms": 168986,
-      "name": "Siger Det Ik'",
-      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
+      "duration_ms": 160974,
+      "name": "Ung & Smuk",
+      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -871,6 +839,38 @@
       "duration_ms": 205238,
       "name": "B\u00e6nkevarmer",
       "url": "https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
+      },
+      "artists": [
+        {
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
+        }
+      ],
+      "duration_ms": 191673,
+      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Siger Det Ik'",
+        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Siger Det Ik'",
+      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "En s\u00f8d lille \u00e9n",
+        "url": "https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Jeg ved det godt",
+      "url": "https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "7\"",
         "url": "https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "En s\u00f8d lille \u00e9n",
-        "url": "https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Jeg ved det godt",
-      "url": "https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Sol Gennem Regn",
         "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "dagdr\u00f8mmer (akustisk version)",
-        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "l\u00e6s mig (akustisk version)",
-      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Legeb\u00f8rn",
         "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 248813,
       "name": "Fra Wien Til Rom",
       "url": "https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "dagdr\u00f8mmer (akustisk version)",
+        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "l\u00e6s mig (akustisk version)",
+      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "1 Dag Er Vi 1 Minde",
+        "url": "https://open.spotify.com/album/44WAdOT7BNFzQuz71Zuw1y"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "1 Dag Er Vi 1 Minde",
+      "url": "https://open.spotify.com/track/2VNuO7HSYgqtkxlzfnFtZd"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "JEG TOG FEJL",
         "url": "https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 280244,
       "name": "Genstart",
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "1 Dag Er Vi 1 Minde",
-        "url": "https://open.spotify.com/album/44WAdOT7BNFzQuz71Zuw1y"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "1 Dag Er Vi 1 Minde",
-      "url": "https://open.spotify.com/track/2VNuO7HSYgqtkxlzfnFtZd"
     }
   ],
   "unique_name": "ung kniv ",

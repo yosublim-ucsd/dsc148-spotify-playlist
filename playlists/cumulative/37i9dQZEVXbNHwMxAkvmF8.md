@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,214 songs - 2 day 16 hr 20 min
+1,215 songs - 2 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Badman](https://open.spotify.com/track/7oUZdEXAM2eaOL7VBvUpE5) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 1:55 | 2024-04-20 | 2024-05-02 |
 | [BAGIRA](https://open.spotify.com/track/0M2QC4tPJmNqRhd4NfOZgz) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [BAGIRA](https://open.spotify.com/album/4ohlWfpdoVC1gjMVa0FF7J) | 2:03 | 2022-08-20 | 2022-09-04 |
 | [BAGIRA](https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 2:04 | 2022-09-03 |  |
+| [BAKPAKK](https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [BAKPAKK](https://open.spotify.com/album/0oCPs1829LWGJUVlx50BNE) | 2:47 | 2024-07-09 |  |
 | [Baktérium Cypher](https://open.spotify.com/track/1ap48PtyCM08VtVibKE925) | [ibbigang](https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy), [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [PP2](https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT) | 3:46 | 2022-10-30 | 2022-11-06 |
 | [Balenciaga](https://open.spotify.com/track/0CyPMRxLuoteZTXuILKB1K) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 3:07 | 2023-02-04 | 2023-02-22 |
 | [Balenciaga](https://open.spotify.com/track/1b0xEPOnt9B9EmFUUDsmPj) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 3:07 | 2022-06-07 | 2023-02-05 |
@@ -772,7 +773,7 @@
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [Okari](https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 4:09 | 2022-05-21 | 2022-11-12 |
 | [Olyan Ő](https://open.spotify.com/track/0GsltzHgCGCiQvskZggDDj) | [Bagossy Brothers Company](https://open.spotify.com/artist/1vpC76RZf9ndFkOEB7agn9) | [Veled Utazom](https://open.spotify.com/album/5r58X4ClpnBIvBWm2XX63f) | 3:46 | 2021-03-27\* | 2021-10-26 |
-| [Olyan Ő](https://open.spotify.com/track/0iddCWjFnIc2pENyQWIIn2) | [Bagossy Brothers Company](https://open.spotify.com/artist/1vpC76RZf9ndFkOEB7agn9) | [Veled Utazom](https://open.spotify.com/album/584agcV24clyBLKItrYf9p) | 3:46 | 2024-07-08 |  |
+| [Olyan Ő](https://open.spotify.com/track/0iddCWjFnIc2pENyQWIIn2) | [Bagossy Brothers Company](https://open.spotify.com/artist/1vpC76RZf9ndFkOEB7agn9) | [Veled Utazom](https://open.spotify.com/album/584agcV24clyBLKItrYf9p) | 3:46 | 2024-07-08 | 2024-07-10 |
 | [Olyan, mint valami drog \- skit](https://open.spotify.com/track/5lvzCr2jaltLlnHHYMauBG) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 0:53 | 2022-11-23 | 2022-11-26 |
 | [omg](https://open.spotify.com/track/7bhVnO2TFpG44xun0zGcgF) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 2:46 | 2023-01-07 | 2023-01-09 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-07 |

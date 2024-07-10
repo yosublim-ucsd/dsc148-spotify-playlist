@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "benice",
+        "url": "https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142036,
+      "name": "benice",
+      "url": "https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH"
+    },
+    {
+      "album": {
         "name": "Benidorm",
         "url": "https://open.spotify.com/album/6eCQmiuecEe2joDErnh7VW"
       },
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 131506,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq"
@@ -4120,6 +4138,24 @@
       "duration_ms": 105000,
       "name": "Book Room",
       "url": "https://open.spotify.com/track/5H8xzOlex54SRwYUBd7wkR"
+    },
+    {
+      "album": {
+        "name": "Borrowed Car",
+        "url": "https://open.spotify.com/album/5imAUxqWdjsZBmsbrBwc1I"
+      },
+      "artists": [
+        {
+          "name": "slowvibe",
+          "url": "https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Borrowed Car",
+      "url": "https://open.spotify.com/track/3wwUV04m85SsAqbn04dpnR"
     },
     {
       "album": {
@@ -7270,7 +7306,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 124294,
       "name": "Create your own",
       "url": "https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK"
@@ -8130,7 +8166,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "dice",
       "url": "https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5"
@@ -10763,6 +10799,24 @@
     },
     {
       "album": {
+        "name": "Feelin' 2D",
+        "url": "https://open.spotify.com/album/5nNhJ58mzIEmukHfubpwX2"
+      },
+      "artists": [
+        {
+          "name": "MPC Blues",
+          "url": "https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Feelin' 2D",
+      "url": "https://open.spotify.com/track/0MPqiieMX7ou7Kk8p2FPpi"
+    },
+    {
+      "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/2AZyjF7lRKKh0Q0CWsNPtN"
       },
@@ -12390,7 +12444,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 145500,
       "name": "Fuji Vibes",
       "url": "https://open.spotify.com/track/7cD8vjgwrgwewmHUqAZ2LT"
@@ -19842,7 +19896,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -21756,7 +21810,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Nattchill",
       "url": "https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst"
@@ -22406,7 +22460,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 112941,
       "name": "No Saintz",
       "url": "https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3"

@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 174374,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6cl76PUPFsSSYSuXgSVvn7"
@@ -2240,6 +2240,24 @@
       "duration_ms": 154838,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/5b8TXX2rT4BmF16oaP8aSX"
+    },
+    {
+      "album": {
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
     },
     {
       "album": {

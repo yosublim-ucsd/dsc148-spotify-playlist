@@ -1,13 +1,61 @@
 {
   "description": "",
-  "num_followers": 22407,
+  "num_followers": 22404,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJHg6JPN1Io0JScDe2TEmTJuD2y0LH",
+  "snapshot_id": "AAAJJPN/dLdWXSZRXRuU8rs5pk5wpECt",
   "tracks": [
+    {
+      "added_at": "2024-07-09 08:15:29",
+      "album": {
+        "name": "Stay With It",
+        "url": "https://open.spotify.com/album/4FYAoedqnkIQTBvjEoyMXo"
+      },
+      "artists": [
+        {
+          "name": "GAWP",
+          "url": "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
+        }
+      ],
+      "duration_ms": 313650,
+      "name": "Stay With It",
+      "url": "https://open.spotify.com/track/1YrrEABN4J40XJTSxiV7LE"
+    },
+    {
+      "added_at": "2024-07-09 08:13:01",
+      "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+    },
+    {
+      "added_at": "2024-07-09 08:12:19",
+      "album": {
+        "name": "Freak Mode",
+        "url": "https://open.spotify.com/album/55CSMCHCUjT6iBcipBn0Wi"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "duration_ms": 186904,
+      "name": "Freak Mode",
+      "url": "https://open.spotify.com/track/2BZMWHCd8UKVMIWLxFf6BH"
+    },
     {
       "added_at": "2024-05-21 14:17:01",
       "album": {

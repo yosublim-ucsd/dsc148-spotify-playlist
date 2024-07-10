@@ -1,12 +1,12 @@
 {
   "description": "Les hits alg\u00e9riens du moment. Cover: Numidia Lezoul",
-  "num_followers": 131627,
+  "num_followers": 131694,
   "original_name": "DZ Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZowuXAAAAABeqO+Oig4Qe3bSAb1IXDIh",
+  "snapshot_id": "ZozsygAAAAARTaWTIR9F3AZMMK5ty0UQ",
   "tracks": [
     {
       "added_at": "2024-07-08 18:22:20",
@@ -139,38 +139,6 @@
     {
       "added_at": "2024-07-08 18:22:20",
       "album": {
-        "name": "Ya Zina",
-        "url": "https://open.spotify.com/album/04b2cvC1OdozRXWFtyXhNj"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "Ya Zina",
-      "url": "https://open.spotify.com/track/4p46adwQi8jhAn9TvinajR"
-    },
-    {
-      "added_at": "2024-07-08 18:22:20",
-      "album": {
-        "name": "Fatou Liyam",
-        "url": "https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5"
-      },
-      "artists": [
-        {
-          "name": "Cheb Hichem TGV",
-          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
-        }
-      ],
-      "duration_ms": 324048,
-      "name": "Fatou Liyam",
-      "url": "https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c"
-    },
-    {
-      "added_at": "2024-07-08 18:22:20",
-      "album": {
         "name": "Ya Galbi Berkek",
         "url": "https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm"
       },
@@ -187,6 +155,22 @@
       "duration_ms": 219905,
       "name": "Ya Galbi Berkek",
       "url": "https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm"
+    },
+    {
+      "added_at": "2024-07-08 18:22:20",
+      "album": {
+        "name": "Fatou Liyam",
+        "url": "https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "duration_ms": 324048,
+      "name": "Fatou Liyam",
+      "url": "https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c"
     },
     {
       "added_at": "2024-07-08 18:22:20",
@@ -211,6 +195,38 @@
       "duration_ms": 210857,
       "name": "Khelli Zman Ydor",
       "url": "https://open.spotify.com/track/3L1NjI3i3X05kI7tVYW8B3"
+    },
+    {
+      "added_at": "2024-07-08 18:22:20",
+      "album": {
+        "name": "Allo Oui",
+        "url": "https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Allo Oui",
+      "url": "https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6"
+    },
+    {
+      "added_at": "2024-07-08 18:22:20",
+      "album": {
+        "name": "Ya Zina",
+        "url": "https://open.spotify.com/album/04b2cvC1OdozRXWFtyXhNj"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "Ya Zina",
+      "url": "https://open.spotify.com/track/4p46adwQi8jhAn9TvinajR"
     },
     {
       "added_at": "2024-07-08 18:22:20",
@@ -247,22 +263,6 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
-    },
-    {
-      "added_at": "2024-07-08 18:22:20",
-      "album": {
-        "name": "Allo Oui",
-        "url": "https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR"
-      },
-      "artists": [
-        {
-          "name": "Cheb Hichem TGV",
-          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Allo Oui",
-      "url": "https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6"
     },
     {
       "added_at": "2024-07-08 18:22:20",

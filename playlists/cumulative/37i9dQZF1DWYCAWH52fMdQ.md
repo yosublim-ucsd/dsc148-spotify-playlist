@@ -4,7 +4,7 @@
 
 > Get Ready! Show Time!
 
-80 songs - 4 hr 20 min
+81 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [EVERYTHING](https://open.spotify.com/track/3RVScaOUMRgzK8IPdfIP9O) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:34 | 2022-05-12 |  |
 | [EVERYTHING](https://open.spotify.com/track/6aIjd7n2vFajtP2hYVsARt) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:34 | 2022-05-12 | 2024-04-19 |
 | [f](https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [ROBERT](https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg) | 2:08 | 2023-11-03 |  |
+| [Feel Lost](https://open.spotify.com/track/7KUXzwYL5WsauJxF4730PN) | [JU\-NE](https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX) | [BRUISE](https://open.spotify.com/album/5M9Jv5GX35zpqMYJ6bxgoG) | 2:40 | 2024-07-09 |  |
 | [FIGHTING \- SONG SOLO](https://open.spotify.com/track/2zm98HC8DrCsk1hojUkoKA) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:30 | 2023-05-05 |  |
 | [Flower](https://open.spotify.com/track/4BFbn9GneqRPCSK2NLuiyq) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/2UUuQ8lbbd04xl42Qt6Zy3) | 4:19 | 2022-05-12 |  |
 | [FOR REAL?](https://open.spotify.com/track/1GFUkeJaJejAQlrfV8XhG2) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:23 | 2022-05-12 | 2024-04-19 |

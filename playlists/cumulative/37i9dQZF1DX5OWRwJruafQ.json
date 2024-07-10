@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Auto Mode",
+        "url": "https://open.spotify.com/album/1g2kiM7YojZsx7LpTA8Jat"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Skywar",
+          "url": "https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128666,
+      "name": "8500",
+      "url": "https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7"
+    },
+    {
+      "album": {
         "name": "AAN MILO",
         "url": "https://open.spotify.com/album/3UjyMmnzh0nemZfKBHCViK"
       },
@@ -4412,7 +4434,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 157280,
       "name": "Jatti Bae",
       "url": "https://open.spotify.com/track/6o2ch5JQkaLDbDp45kXG7A"
@@ -6706,7 +6728,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 178299,
       "name": "PMCM",
       "url": "https://open.spotify.com/track/120E9faVdT9sp4t8QIGZoo"
@@ -8626,6 +8648,24 @@
       "duration_ms": 137839,
       "name": "Waaka",
       "url": "https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A"
+    },
+    {
+      "album": {
+        "name": "Wafadari",
+        "url": "https://open.spotify.com/album/5efID0BJv9q7aqZWDTV4zo"
+      },
+      "artists": [
+        {
+          "name": "Korala Maan",
+          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177056,
+      "name": "Wafadari",
+      "url": "https://open.spotify.com/track/23ShsM2ccqsWz4dxdaJl0O"
     },
     {
       "album": {

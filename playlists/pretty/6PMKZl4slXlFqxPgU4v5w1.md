@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 
 > 
 
-[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 27 songs - 1 hr 50 min
+[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 37 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,15 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 | 25 | [Loving Machine](https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:47 |
 | 26 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
 | 27 | [Where There Is Love](https://open.spotify.com/track/7bfBBmySorcpDFJFa0iCCL) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 3:11 |
+| 28 | [You Can't Get What You Want \(Till You Know What You Want\)](https://open.spotify.com/track/1PRiwwG9wDMsqgtapWlu70) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Body And Soul](https://open.spotify.com/album/1S58PvtrCZ2l1BrUDI1pGc) | 4:53 |
+| 29 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 |
+| 30 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
+| 31 | [Riverside](https://open.spotify.com/track/2S7hH8gCuwlqL8vqia3eJp) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 3:01 |
+| 32 | [Must Be Lucky　〜愛の国へ〜](https://open.spotify.com/track/0rMCyuZ1Ltsb5yi7ls0s14) | [Cindy](https://open.spotify.com/artist/2ZMPUpiuAKAkzPdMj6qEX0) | [Angel Touch](https://open.spotify.com/album/1Cm55AdMDqdZv9dxiJmB5m) | 4:52 |
+| 33 | [Life Goes On](https://open.spotify.com/track/1qZqFtSINOOmjYH1UE9805) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 5:01 |
+| 34 | [The Sign \(feat\. Pase Rock\)](https://open.spotify.com/track/2g8vK3m0npTrzsADQAnbVO) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Pase Rock](https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:49 |
+| 35 | [Hold On to Love](https://open.spotify.com/track/4aaWZIJBGnsTdBbX6YuRx0) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u) | [In The City Of Angels](https://open.spotify.com/album/5gRUt3wH470P23aK37bqSj) | 4:46 |
+| 36 | [Age Ain't Nothing But a Number](https://open.spotify.com/track/3pJTQBXx4iT71L0iLaZhTT) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But a Number EP](https://open.spotify.com/album/7BxgeduIn0lu0x3r97RtjE) | 4:12 |
+| 37 | [Dreams, Fairytales, Fantasies \(feat\. Brent Faiyaz & Salaam Remi\)](https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 3:42 |
 
-Snapshot ID: `AAAAHhtAM91gCzCa8oQN+7bpattbFAYh`
+Snapshot ID: `AAAAKHCMhyRGPALGiTIcfV4jMcKtYRbA`

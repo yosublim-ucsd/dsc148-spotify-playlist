@@ -3837,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Reh Ja",
+        "url": "https://open.spotify.com/album/47i7MYu4zOKoEnZUGcIksN"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168452,
+      "name": "Reh Ja",
+      "url": "https://open.spotify.com/track/6m4595gWn1q5XjRiZommin"
+    },
+    {
+      "album": {
         "name": "Rang De Basanti (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ"
       },
@@ -4557,7 +4575,7 @@
         },
         {
           "name": "Harmony",
-          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+          "url": "https://open.spotify.com/artist/3DYqVoB2aDcCrCfcjiFaQR"
         }
       ],
       "date_added": "2024-07-08",

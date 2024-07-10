@@ -1,12 +1,12 @@
 {
   "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 67731,
+  "num_followers": 67757,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZonagAAAAADFY4V59grx9bUQt/tsGybn",
+  "snapshot_id": "ZossAAAAAAA1m7ZvkSWVi5sHPPIEyqLj",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Todo Por un Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/1bRzDCtPEodKoVaqaOmDMR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailalo",
         "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 162285,
       "name": "Bailalo",
       "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Todo Por un Sue\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/1bRzDCtPEodKoVaqaOmDMR"
     },
     {
       "added_at": null,

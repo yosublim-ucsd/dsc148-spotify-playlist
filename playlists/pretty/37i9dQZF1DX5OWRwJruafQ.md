@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: NIJJAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,943 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,963 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 8 | [East West](https://open.spotify.com/track/0ixZI5oa9PYpRxu8h1F8tS) | [Yuvraj Hara](https://open.spotify.com/artist/3DQIyhjrn6I9NiDf8lWVlp) | [East West](https://open.spotify.com/album/0X9uP5sRwwMndCWU09lpkk) | 2:16 |
 | 9 | [G Flow](https://open.spotify.com/track/4Gj9KgiRtK4M6ttShk6eVM) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [G Flow](https://open.spotify.com/album/3bXWTJ9uKdYIOOawL4Gsw3) | 3:15 |
 | 10 | [No Fucx Given](https://open.spotify.com/track/1d5Ov723H4HOGLxqR4YGI3) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [No Fucx Given](https://open.spotify.com/album/4zrNk8uBQ6rclwZqXYlI5r) | 3:42 |
-| 11 | [Kami Peshi](https://open.spotify.com/track/1MEo8QvW3Ibs4vTLtAYvAK) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Kami Peshi](https://open.spotify.com/album/3WuZ5gSSr5VhlvCozPrupf) | 3:22 |
-| 12 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 |
-| 13 | [Jatti Bae](https://open.spotify.com/track/6o2ch5JQkaLDbDp45kXG7A) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Jatti Bae](https://open.spotify.com/album/1mD3ho2AJpivs3CyKNdcMY) | 2:37 |
-| 14 | [PMCM](https://open.spotify.com/track/120E9faVdT9sp4t8QIGZoo) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [PMCM](https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd) | 2:58 |
-| 15 | [Famous Enough](https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 4:00 |
+| 11 | [8500](https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Auto Mode](https://open.spotify.com/album/1g2kiM7YojZsx7LpTA8Jat) | 2:08 |
+| 12 | [Kami Peshi](https://open.spotify.com/track/1MEo8QvW3Ibs4vTLtAYvAK) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Kami Peshi](https://open.spotify.com/album/3WuZ5gSSr5VhlvCozPrupf) | 3:22 |
+| 13 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 |
+| 14 | [Famous Enough](https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 4:00 |
+| 15 | [Wafadari](https://open.spotify.com/track/23ShsM2ccqsWz4dxdaJl0O) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Wafadari](https://open.spotify.com/album/5efID0BJv9q7aqZWDTV4zo) | 2:57 |
 | 16 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 |
 | 17 | [Miami Flow](https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 2:29 |
 | 18 | [Nowadays](https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Nowadays](https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [BBBB](https://open.spotify.com/track/1znLcG8azH6tPHtK5hoULz) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/47vpnqefBzIDbgUz4uaBYP) | 3:42 |
 | 100 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 |
 
-Snapshot ID: `ZouLHwAAAAAIyHRkcn/W82VRzbCyxmcn`
+Snapshot ID: `Zo0WIQAAAACaHF9uwIh6JD8+pjMS99Iw`

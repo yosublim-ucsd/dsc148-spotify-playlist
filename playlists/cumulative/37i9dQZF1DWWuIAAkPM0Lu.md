@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0VRj0yCOv2FXJNP47XQnx5">quavo</a> x <a href="spotify:artist:00FQb4jTyendYWaN8pK0wa">lana de rey</a> 🤌
 
-1,113 songs - 2 day 8 hr 37 min
+1,114 songs - 2 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-16 | 2024-05-24 |
 | [Boy Tears](https://open.spotify.com/track/1zd1Niy7vCyry6XzJO35Pg) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Be Right Back](https://open.spotify.com/album/2SgYzD9ePNakltiJbchwMA) | 2:12 | 2024-07-04 |  |
+| [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-04 |  |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-16 | 2024-05-24 |
 | [Boys Boys Boys](https://open.spotify.com/track/7AilUnKnuWF7UUU9yBC9E7) | [Iris Gold](https://open.spotify.com/artist/6DyxyAiluuZ008t0ITLwOI) | [Boys Boys Boys](https://open.spotify.com/album/4kL9H4BV7SFstvk3VczFFz) | 2:41 | 2024-05-09 | 2024-05-17 |
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-09 | 2024-05-17 |

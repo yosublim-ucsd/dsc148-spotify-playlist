@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Grey Surroundings",
+        "url": "https://open.spotify.com/album/0q4TVVIREiFXIECbrNIyen"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Parker",
+          "url": "https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Grey Surroundings",
+      "url": "https://open.spotify.com/track/4L6tRPsIaXt08jqSCXyOpr"
+    },
+    {
+      "album": {
         "name": "Have You Met Miss Jones - Rain version",
         "url": "https://open.spotify.com/album/1vNyfbtnTuXPJVPw7rUTA6"
       },
@@ -1327,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Lovely Weekends",
+        "url": "https://open.spotify.com/album/0jJAmJ2ihxm7iKHcsEQ6Jp"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Lovely Weekends",
+      "url": "https://open.spotify.com/track/5ujDFhQC9Xvp1vCaITdin9"
+    },
+    {
+      "album": {
         "name": "Loverman",
         "url": "https://open.spotify.com/album/5COVxRUZp3B1OvL9BtunBI"
       },
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 226500,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/7FLlHjyfOncjLLtwQWSWVI"
@@ -2098,6 +2134,24 @@
       "duration_ms": 212598,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/0Ke9kuEjZzRIEDOPT6bcDR"
+    },
+    {
+      "album": {
+        "name": "! The Midnight Wine",
+        "url": "https://open.spotify.com/album/3RQ2pKQ2V7YvzhmMqQCf2i"
+      },
+      "artists": [
+        {
+          "name": "Lunaros",
+          "url": "https://open.spotify.com/artist/7eexGgQc4l6NR5fSmHk4Ll"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "The Midnight Wine",
+      "url": "https://open.spotify.com/track/4adssK9XfHz0Zv86gLUB42"
     },
     {
       "album": {

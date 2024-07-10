@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,375 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,352 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 13 | [SERENA](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Amesens](https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN) | [SERENA](https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC) | 4:25 |
 | 14 | [Wait](https://open.spotify.com/track/3g7QrkxytGxHue8BQE2zK2) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Wait](https://open.spotify.com/album/6o3vNyPtF8yDAhlnrwKJ6v) | 2:40 |
 | 15 | [Straight Up](https://open.spotify.com/track/303qnQkhKDmtBIWr3No7XY) | [Morphy](https://open.spotify.com/artist/5Q8X9AMJgCaepABZDwdZql), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Little League](https://open.spotify.com/artist/1Su706KJL5OFFqpbaTmw25) | [Straight Up](https://open.spotify.com/album/1ylvIVtXgZcmTiXZ48LEIY) | 3:30 |
-| 16 | [Low](https://open.spotify.com/track/5XDLAp3ahcCEEifDSuU86Y) | [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Low](https://open.spotify.com/album/4pzCKG1YciF2PzrUKd9xNa) | 3:01 |
+| 16 | [LOW](https://open.spotify.com/track/5XDLAp3ahcCEEifDSuU86Y) | [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [LOW](https://open.spotify.com/album/4pzCKG1YciF2PzrUKd9xNa) | 3:01 |
 | 17 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
 | 18 | [Fevereiro](https://open.spotify.com/track/3jnAZUkY1h12kGwzHZxaTE) | [Ney Faustini](https://open.spotify.com/artist/0Y9hOza9fWF1dpk0qlGgte) | [Caminhos](https://open.spotify.com/album/7avFgfOtsyEzKP5NdwCb66) | 5:33 |
 | 19 | [Four Elements](https://open.spotify.com/track/3tgiIyHKe9vuxBbkLSDBT1) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Four Elements](https://open.spotify.com/album/2la5EkFOOLrUCjfgPh03wB) | 3:07 |

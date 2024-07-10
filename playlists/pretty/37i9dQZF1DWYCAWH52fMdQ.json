@@ -1,15 +1,31 @@
 {
   "description": "Get Ready! Show Time!",
-  "num_followers": 258937,
+  "num_followers": 258931,
   "original_name": "This Is iKON",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZecoFQAAAADhiWVNoxRXqTWR/s0OnDQO",
+  "snapshot_id": "ZozrugAAAAC1LFvlkkHwV8P0BnbFr4fP",
   "tracks": [
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
+      "album": {
+        "name": "BRUISE",
+        "url": "https://open.spotify.com/album/5M9Jv5GX35zpqMYJ6bxgoG"
+      },
+      "artists": [
+        {
+          "name": "JU-NE",
+          "url": "https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Feel Lost",
+      "url": "https://open.spotify.com/track/7KUXzwYL5WsauJxF4730PN"
+    },
+    {
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Sir.Robert",
         "url": "https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NAKSEO[\u6200]",
         "url": "https://open.spotify.com/album/4DBUFR0WJfzunHu0u316T5"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/5C1Ik1Np1IimNQlP0Hma01"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "ROBERT",
         "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "BLUE MOON",
         "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/1zkKkAAbo42aOkIeHE7tKg"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/07yTrKM5LJmKFfLyASA7O8"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/3GXVBBP0aWOra0GpK9TxtX"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/0rhaSFy7TdJHL76c6SWdST"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/4JDRus5rHM8ANGLfg61HAJ"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2JIJbtGrkPx0YclNkQVkEO"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/7r9vEid8x5RNtkjOyoObNs"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2zm98HC8DrCsk1hojUkoKA"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/33k5c1nOhfAUU6RqMD0mjz"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "TAKE OFF",
         "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/5jzvJRh5jYw1CjHI7zTM9y"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "1st Single 'S.i.R'",
         "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Tantara",
         "url": "https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "FLASHBACK",
         "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "FLASHBACK",
         "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/5TbCc54CO3Xyb2wIi1ZbIc"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "FLASHBACK",
         "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/5ZEJrSKsS7AN5jfdbDJ9Y6"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "FLASHBACK",
         "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/69oWDDDr6cvsu2lAOTLrrR"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "FLASHBACK",
         "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/3JfVKDAZwYSxXJuePMpJQU"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Why Why Why",
         "url": "https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Quick Message from iKON",
         "url": "https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/7vjS3r2Ddpt1kPRGLe4Yg9"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/25aawb25AiIdfj5ctvr3Do"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/6EEhSHno7caAnQZqRhRePW"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/36wruYZk4V9sWeUzR3rB74"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "WELCOME BACK",
         "url": "https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/5LpVoAIMwOZcZ94zzlIP8F"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Quick Message from iKON",
         "url": "https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/3sfnKufxx2X4qPrwMSOEKL"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "WELCOME BACK",
         "url": "https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/3r8Rot6g36lCLju77c0JNB"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/7e59yQUzq3EahehltMvJ3W"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/47qCXhs9lhxZQlMtKwRh8n"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/24sDjPLeUW4io2AlwlwHku"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Quick Message from iKON",
         "url": "https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/3xEvHQZQiypyHVOeJ0Q8mf"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS",
         "url": "https://open.spotify.com/album/3VU8zAXam8qBjFPWR1IBhT"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/1HmLSZdklyO7psXg7Z33ch"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "i DECIDE",
         "url": "https://open.spotify.com/album/2UUuQ8lbbd04xl42Qt6Zy3"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/4BFbn9GneqRPCSK2NLuiyq"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/2VQft8Vi4mZwvlKfoVAkMG"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/7zwuAB4MDkqYMn9NhNEytO"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Quick Message from iKON",
         "url": "https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/3EY0u3x9YTBsk7j1W2zDHW"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "DEBUT FULL ALBUM [WELCOME BACK]",
         "url": "https://open.spotify.com/album/1xsNJgTK34ByVUPzQK02Ds"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/3KNUQPxl7F4Lz10KL0vZOp"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/7IQIzpoFAuER8n982flpEF"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS",
         "url": "https://open.spotify.com/album/3VU8zAXam8qBjFPWR1IBhT"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/7BL1313uQgzEciReeTm4Mo"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "i DECIDE",
         "url": "https://open.spotify.com/album/2UUuQ8lbbd04xl42Qt6Zy3"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/2rN22VtpXTI1qcnrPVm3pO"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Quick Message from iKON",
         "url": "https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/2GHtGinUSMINTNHnvGBqja"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/4f7yy30Tu4a3nhpE0ThUq5"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/3RVScaOUMRgzK8IPdfIP9O"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "DEBUT FULL ALBUM [WELCOME BACK]",
         "url": "https://open.spotify.com/album/1xsNJgTK34ByVUPzQK02Ds"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/5j6DlZe93zQZbRI9KnGine"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/3j14qtAI9kueKAxtjYYjsZ"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Rubber Band",
         "url": "https://open.spotify.com/album/11HqY96LRgUCeLnMLWVSBW"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/4FMhacfObjPJuLIyPBjc0K"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "Quick Message from iKON",
         "url": "https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/1yrvLVj5LSTCf9iR4sBFBF"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "LOVE AND FALL",
         "url": "https://open.spotify.com/album/5kAYE49gc7C6sRofjnxBbO"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/3wdQ9ZioKOzHIs6hA0x88u"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "LUCKY MAN",
         "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/5hs5J3f6lH9v286otiDBeS"
     },
     {
-      "added_at": "2024-03-05 14:11:33",
+      "added_at": "2024-07-09 07:50:18",
       "album": {
         "name": "LUCKY MAN",
         "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"

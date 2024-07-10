@@ -4,7 +4,7 @@
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: KISS OF LIFE\)
 
-1,155 songs - 2 day 17 hr 58 min
+1,156 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [Not Me](https://open.spotify.com/track/5DLfhr11jMK4yJanglbWcl) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Not Me](https://open.spotify.com/album/7oS6RPCgrvzRCoDVvAwQqj) | 3:24 | 2023-06-06 | 2023-07-05 |
 | [not me not mine](https://open.spotify.com/track/0q7lWRi07OMLWSwm0vHIwJ) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [not me not mine](https://open.spotify.com/album/09VUrzSER2CE0geP6odR1y) | 5:16 | 2024-02-06 | 2024-04-03 |
 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2023-01-03 | 2023-02-01 |
-| [Nothing](https://open.spotify.com/track/3ym9bzwGG4uxVaJ0pLoQbM) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 3:31 | 2024-06-04 |  |
+| [Nothing](https://open.spotify.com/track/3ym9bzwGG4uxVaJ0pLoQbM) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 3:31 | 2024-06-04 | 2024-07-10 |
 | [Nothing](https://open.spotify.com/track/049Lwudf5P9JKKbLTCE6Cr) | [유성은](https://open.spotify.com/artist/62o031Yt7PZ81GQSyTg6jV), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [2nd MINI ALBUM](https://open.spotify.com/album/5dOgzQfAxxc5K2PRDWA23G) | 3:18 | 2023-10-04 | 2023-11-30 |
 | [Nothing Ever](https://open.spotify.com/track/3e33rlL7TVHv1FuEYOqF2l) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [Nothing Ever](https://open.spotify.com/album/19Y5qOTPrSCgQodWk6pReq) | 3:30 | 2024-04-02 | 2024-06-05 |
 | [Nothing Special](https://open.spotify.com/track/1fKu6zCbgYevPttZVuMYqv) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Nothing Special](https://open.spotify.com/album/7MWuM1Uyt8paWw63b1Pd6H) | 4:13 | 2023-05-02 | 2023-06-07 |
@@ -902,6 +902,7 @@
 | [Step](https://open.spotify.com/track/1DGoluJIZMwilqWh4qfrR3) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Perfect Stranger OST Part.5](https://open.spotify.com/album/3Tw2db9aECq79ynM7HegtX) | 4:13 | 2023-06-06 | 2023-07-05 |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-04 | 2023-01-04 |
 | [Sticker picture](https://open.spotify.com/track/0y5iPq7pRaJV8iCGybWebp) | [21univ.](https://open.spotify.com/artist/52FGfGmeJ6UTKcPYGRWo4i) | [Sticker picture](https://open.spotify.com/album/0EXXDfssejsZQ8QjSJTJis) | 3:08 | 2023-10-04 | 2023-11-30 |
+| [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-09 |  |
 | [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 | 2022-10-04 | 2022-11-11 |
 | [Still loving you](https://open.spotify.com/track/7tf6Pd8lddqjQXOjehayKS) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Do you remember \[vol.4\]](https://open.spotify.com/album/38jD38pn7cdKHXjiv7u2Vi) | 3:24 | 2022-04-05 | 2022-05-05 |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-08-02 | 2022-09-07 |

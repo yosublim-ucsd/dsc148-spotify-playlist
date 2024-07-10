@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🖤 sillyelly in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,655 likes - 95 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,652 likes - 95 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 35 | [Notte insonne](https://open.spotify.com/track/7m7OUyljibyqo31NOhyN08) | [Cosk](https://open.spotify.com/artist/1PZdp6ALiqwyLKcJUl8UPF), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [Notte insonne](https://open.spotify.com/album/0QjvtpxOBriamygXAUZwrY) | 1:49 |
 | 36 | [NULLA \(non ci ho capito\)](https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [NULLA \(non ci ho capito\)](https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj) | 3:30 |
 | 37 | [TRISTE](https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/0hxDLzDRnjmsD4p7eCO6Uh) | 1:42 |
-| 38 | [Musica di Plastica](https://open.spotify.com/track/16Iw4a24u1TicRhZjisiBg) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP), [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Musica di Plastica](https://open.spotify.com/album/6rcZbGfaeE6Dc0kqpjDwFl) | 2:50 |
+| 38 | [Musica di Plastica](https://open.spotify.com/track/16Iw4a24u1TicRhZjisiBg) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [Musica di Plastica](https://open.spotify.com/album/6rcZbGfaeE6Dc0kqpjDwFl) | 2:50 |
 | 39 | [Fuori Di Testa](https://open.spotify.com/track/2hR6AxmydkKinUxq0efyzU) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Angelo del Rock](https://open.spotify.com/album/5C7QwPYxbhsY4A6GeCkUUt) | 2:43 |
 | 40 | [Distratti !](https://open.spotify.com/track/5ulOn76mFsjGbpeP1cvEsK) | [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h), [Boisié](https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti), [GIOVAPIÙGIOVA](https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx) | [Distratti !](https://open.spotify.com/album/480OibnuCZzZTj9TNoKF11) | 2:45 |
 | 41 | [Stare male con te](https://open.spotify.com/track/3oE9xAVtiAw5xY6Dt0cXor) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Stare male con te](https://open.spotify.com/album/5w0KQxoLjujCdb0oHTyjww) | 2:56 |

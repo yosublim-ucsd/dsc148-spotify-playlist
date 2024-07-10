@@ -5452,7 +5452,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 130993,
       "name": "deep waters",
       "url": "https://open.spotify.com/track/1JkZ7GfXv9mFkGuN60pcex"
@@ -14117,6 +14117,24 @@
     },
     {
       "album": {
+        "name": "Mayfair",
+        "url": "https://open.spotify.com/album/7ifv0qitkljNKWZ1k8glE0"
+      },
+      "artists": [
+        {
+          "name": "hazze haze",
+          "url": "https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131924,
+      "name": "Mayfair",
+      "url": "https://open.spotify.com/track/51o9SkcDTXN8OoehRJdckU"
+    },
+    {
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/2WPUYjAwgoEHaHJvBARs2O"
       },
@@ -14244,7 +14262,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 170126,
       "name": "Mellow Out",
       "url": "https://open.spotify.com/track/3L5lVeJ7jOounMQFa4Q1dO"
@@ -18780,7 +18798,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 127100,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/3Qtzn3z8izPWUOfMJyV8lL"
@@ -20040,6 +20058,24 @@
       "duration_ms": 123744,
       "name": "Scrolling Memories",
       "url": "https://open.spotify.com/track/2opRnQtOHNy92ftmCJAesg"
+    },
+    {
+      "album": {
+        "name": "Sea Breeze",
+        "url": "https://open.spotify.com/album/3FZwrMcRz470p60fFiG6sW"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156626,
+      "name": "Sea Breeze",
+      "url": "https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP"
     },
     {
       "album": {
@@ -24382,7 +24418,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 134457,
       "name": "Tortilla Monday",
       "url": "https://open.spotify.com/track/37wRNwFhzLSkYx3CrSi9JI"

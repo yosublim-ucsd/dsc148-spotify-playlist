@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/7z6rpzua2aPy1dxLJ4arkm"
+      },
+      "artists": [
+        {
+          "name": "Dany Neville",
+          "url": "https://open.spotify.com/artist/25eSvHHBfgPVlQLGN4HPkU"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/5FGA9IEDOPYX8viE5BtyLW"
+    },
+    {
+      "album": {
         "name": "Believing In Me",
         "url": "https://open.spotify.com/album/6oLdufnqZzlL643clLTGmM"
       },

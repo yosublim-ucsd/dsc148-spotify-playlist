@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Njik Droka",
+        "url": "https://open.spotify.com/album/48wSJobohI95jmrSt30KCD"
+      },
+      "artists": [
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "Njik Droka",
+      "url": "https://open.spotify.com/track/4qU4foaNOXg1Ngn7UPuv2W"
+    },
+    {
+      "album": {
         "name": "Nsiti",
         "url": "https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG"
       },
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 200869,
       "name": "Zidini",
       "url": "https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK"

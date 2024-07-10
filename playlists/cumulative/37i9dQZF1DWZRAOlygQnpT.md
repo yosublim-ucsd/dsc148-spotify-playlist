@@ -2,7 +2,7 @@
 
 ### [Rock & Roll en Español](https://open.spotify.com/playlist/37i9dQZF1DWZRAOlygQnpT)
 
-> ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
+> ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
 263 songs - 11 hr 32 min
 

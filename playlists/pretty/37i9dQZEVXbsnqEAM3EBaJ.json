@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAo2xbYcKOSMARCEeDFTGpc",
+  "snapshot_id": "AAAAAAAAAABXOHtpTS6RGkhEAmaN1WB0",
   "tracks": [
     {
       "added_at": "2024-07-05 04:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
-        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Keep Pushin' - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Papercuts: Instrumentals",
         "url": "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 216346,
       "name": "In the End (Instrumental)",
       "url": "https://open.spotify.com/track/6RUv6gg1Jv1NMT8N5Jv2Wd"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
+        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Keep Pushin' - Live, Hamburg, 1979",
+      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -183,30 +183,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Ambient Sounds | Yoga and Spa",
-        "url": "https://open.spotify.com/album/3vZXy1wnZXmpXjOqQDnobw"
-      },
-      "artists": [
-        {
-          "name": "Kinderliederbande",
-          "url": "https://open.spotify.com/artist/69f48xXmMNpbZiV7gk4U97"
-        },
-        {
-          "name": "Deep Sleep Meditation",
-          "url": "https://open.spotify.com/artist/0a7IMVQLynzliWvqoPo5tE"
-        },
-        {
-          "name": "Meditaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
-        }
-      ],
-      "duration_ms": 187191,
-      "name": "Enchanting Lullaby Haven",
-      "url": "https://open.spotify.com/track/07uiCslju0faJEYzVWQhoo"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Encontrando La Paz Interior: M\u00fasica Para Yoga Zen",
         "url": "https://open.spotify.com/album/4zNlihiHEqo2Cjhlz14D4X"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 214927,
       "name": "Resonancia De Reflexi\u00f3n Del Yoga",
       "url": "https://open.spotify.com/track/6ZHnqisCqyx5mXmBAcPHCI"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Ambient Sounds | Yoga and Spa",
+        "url": "https://open.spotify.com/album/3vZXy1wnZXmpXjOqQDnobw"
+      },
+      "artists": [
+        {
+          "name": "Kinderliederbande",
+          "url": "https://open.spotify.com/artist/69f48xXmMNpbZiV7gk4U97"
+        },
+        {
+          "name": "Deep Sleep Meditation",
+          "url": "https://open.spotify.com/artist/0a7IMVQLynzliWvqoPo5tE"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        }
+      ],
+      "duration_ms": 187191,
+      "name": "Enchanting Lullaby Haven",
+      "url": "https://open.spotify.com/track/07uiCslju0faJEYzVWQhoo"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/2ZB3oyrG9aDyb6hFOOuYnd"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Aisumasen (I\u2019m Sorry) [Ultimate Mix]",
         "url": "https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 279784,
       "name": "Aisumasen (I'm Sorry) - Ultimate Mix",
       "url": "https://open.spotify.com/track/4LJsW2Db80OBypNtD79n7k"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/2ZB3oyrG9aDyb6hFOOuYnd"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
-        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
-      },
-      "artists": [
-        {
-          "name": "E.Cais",
-          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Omnisciencia",
-      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
         "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
       },
@@ -583,22 +563,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Early Daze",
-        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
+        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
+        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+          "name": "E.Cais",
+          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
         },
         {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
+      "duration_ms": 236419,
+      "name": "Omnisciencia",
+      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -631,6 +611,26 @@
       "duration_ms": 256417,
       "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez, Evelyn Cornejo, Coco Leon & El Pacha)",
       "url": "https://open.spotify.com/track/4c0KDHLLWVZgtlJLdt2ZDr"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Early Daze",
+        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
     },
     {
       "added_at": "2024-07-05 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19801,
+  "num_followers": 19804,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZonagAAAAACrp975HIUlO58b65nyUQNE",
+  "snapshot_id": "ZossAAAAAABdeS623oa6Fo2tr+DwQuyt",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atos 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Atos 2 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irresist\u00edvel Gl\u00f3ria",
         "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 275945,
       "name": "Irresist\u00edvel Gl\u00f3ria",
       "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atos 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 319000,
+      "name": "Atos 2 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo"
     },
     {
       "added_at": null,

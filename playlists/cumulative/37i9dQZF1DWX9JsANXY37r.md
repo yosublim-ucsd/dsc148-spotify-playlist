@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-232 songs - 14 hr 25 min
+233 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Girl Is Mine](https://open.spotify.com/track/6GSyqLd5F3I9b0BbLzuoyI) | [Huon Kind](https://open.spotify.com/artist/7dXm7XdU1d7l3M5FBJW0wu) | [Girl Is Mine](https://open.spotify.com/album/7fIxjqSFeAp3lQLHySkvC2) | 4:15 | 2022-03-25 | 2022-04-21 |
 | [Glow](https://open.spotify.com/track/423juOOc4CLiwV6yfOhdym) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx) | [Glow](https://open.spotify.com/album/1ebjCE10RQUNzqyYYjhzdk) | 3:52 | 2022-03-02 | 2022-07-29 |
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:19 | 2022-03-02 | 2022-06-02 |
+| [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-05 |  |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2022-02-18 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/0WbwSOALA9zsh7r18Jwbau) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dance Without Me](https://open.spotify.com/album/0MAg2c8prkPMm0k9ZINhOK) | 3:24 | 2022-02-18 | 2022-07-27 |
 | [Hold On](https://open.spotify.com/track/4dPimg8olUWKxHZXPD3KOO) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:30 | 2022-03-25 |  |
@@ -229,7 +230,7 @@
 | [Waiting \(feat\. Madelyn Grant\)](https://open.spotify.com/track/2v4maFtMJuNjiXGUurC9h4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Madelyn Grant](https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w) | [Take Off \- EP](https://open.spotify.com/album/0A2R7gz1Qvq9IUgmKhnHDu) | 4:22 | 2022-03-25 | 2022-04-18 |
 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 | 2022-03-25 |  |
 | [What Do I Know](https://open.spotify.com/track/5vxMm3COhu046aV1MFVwbG) | [Jordan Lee](https://open.spotify.com/artist/44SQjq9FW4yPRpMxGIO0Em), [Tim Gustave](https://open.spotify.com/artist/0XFe8EaiJNIdwOPlikGKuM) | [Highlights](https://open.spotify.com/album/4nIdvGsWLIoaLhBWa34TM4) | 4:06 | 2022-03-04 | 2022-06-18 |
-| [What You Don't Do \- Tom Misch Remix](https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [What You Don't Do \(Tom Misch Remix\)](https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V) | 3:49 | 2022-03-04 |  |
+| [What You Don't Do \- Tom Misch Remix](https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [What You Don't Do \(Tom Misch Remix\)](https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V) | 3:49 | 2022-03-04 | 2024-07-10 |
 | [What You Need \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 | 2022-02-18 |  |
 | [When We Break](https://open.spotify.com/track/0qiz1TZkuI3NEgKDmxCMDp) | [Total Giovanni](https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1) | [When We Break](https://open.spotify.com/album/64Luw3nJLGZB7TNAmHivj3) | 4:44 | 2022-06-24 | 2022-11-13 |
 | [When We Break](https://open.spotify.com/track/3T6zu9vlpyVh8j6VMcuExZ) | [Total Giovanni](https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1) | [When We Break](https://open.spotify.com/album/0NzFxJSepuEN2h3pWGqatq) | 4:44 | 2022-03-25 | 2022-04-20 |

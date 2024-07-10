@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-376 songs - 19 hr 21 min
+379 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [En el Espacio](https://open.spotify.com/track/5ZRWtriBKg5blYLi2UDLMP) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [En el Espacio](https://open.spotify.com/album/7q0vBgCyzRg8iufFApO4J5) | 3:02 | 2024-01-17 |  |
 | [Enchanter](https://open.spotify.com/track/6Fakj19etJLkMV6Q4CgFWF) | [Venom Faun](https://open.spotify.com/artist/79zZ9jIHNl8UmjHSf3TXIM) | [Focus](https://open.spotify.com/album/17bCi53jDS78g7T2IE4Sd7) | 3:40 | 2022-04-13 | 2022-04-21 |
 | [Endless Hope](https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:41 | 2023-02-25 |  |
-| [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 | 2023-01-20 |  |
+| [Enhance](https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Enhance](https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay) | 2:52 | 2024-07-09 |  |
+| [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 | 2023-01-20 | 2024-07-10 |
 | [Enter Stillness \- Studio Edit](https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:13 | 2022-03-04 | 2022-04-20 |
 | [Ephemeral](https://open.spotify.com/track/50V2dfA0R4v74WEpKVzjYj) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Ephemeral](https://open.spotify.com/album/6xeSywaM0OZIW6KV1Uy7EB) | 2:24 | 2024-01-17 | 2024-02-08 |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 |  |
@@ -146,7 +147,7 @@
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 | 2024-01-18 |
 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 | 2022-04-13 | 2023-07-13 |
 | [Favaloro](https://open.spotify.com/track/4UxVwYIO8HiIK2mk01jLub) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Favaloro](https://open.spotify.com/album/3lb2K4j1L2SZ3WyxqMjEAB) | 2:39 | 2024-02-07 | 2024-03-21 |
-| [Feel The Zen](https://open.spotify.com/track/4qvfIAc3oz1wQYf8GbzaOX) | [Massive Foam](https://open.spotify.com/artist/7of7Q7two2tiZoRRC5Y8u8) | [Feel The Zen](https://open.spotify.com/album/13p3itqL005ij8fI6gmHug) | 2:19 | 2024-06-13 |  |
+| [Feel The Zen](https://open.spotify.com/track/4qvfIAc3oz1wQYf8GbzaOX) | [Massive Foam](https://open.spotify.com/artist/7of7Q7two2tiZoRRC5Y8u8) | [Feel The Zen](https://open.spotify.com/album/13p3itqL005ij8fI6gmHug) | 2:19 | 2024-06-13 | 2024-07-10 |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-01-12 | 2022-02-02 |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-04-16 |
 | [Floating Fables](https://open.spotify.com/track/2zbBtt6TvkQp0EUnXkfpM8) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Floating Fables](https://open.spotify.com/album/00ncspP1ugoJtLW2POqoaB) | 2:59 | 2024-01-17 | 2024-02-08 |
@@ -217,6 +218,7 @@
 | [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 |  |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2022-01-12 | 2022-02-02 |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-01-12 | 2024-05-21 |
+| [Longing](https://open.spotify.com/track/65IABcx2DXfu4c1FDUW6V0) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Niclas Lundqvist](https://open.spotify.com/artist/5xhXAA1szAltReao2ctWBg) | [Longing](https://open.spotify.com/album/56RBZwRTH6Z1oG4HFG7weo) | 3:11 | 2024-07-09 |  |
 | [Lotus Lullaby](https://open.spotify.com/track/6OTcN4tThtca8Twcxm3Vie) | [Zenith Lily](https://open.spotify.com/artist/4gyUwZzCOf9gfF52Xi7eoY) | [Lotus Lullaby](https://open.spotify.com/album/5x7tyjn5OiTSFSj5VkAoWE) | 3:09 | 2024-05-20 |  |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2022-02-01 | 2023-07-29 |
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2022-01-12 | 2023-03-15 |
@@ -250,6 +252,7 @@
 | [New Wings](https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0) | [Isac Hadland](https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n) | [New Wings](https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl) | 3:29 | 2022-01-12 | 2024-01-18 |
 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-01-19 |  |
 | [Nights Shining](https://open.spotify.com/track/4ntDp0FMEDnTxGF6GlLYiO) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Nights Shining](https://open.spotify.com/album/3qlmZd1suoqPjmJ8P2lUcV) | 3:18 | 2024-04-05 |  |
+| [Nightscape, Pt\. 1](https://open.spotify.com/track/1NBoFhYZy1gugrVWBpvV0B) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [Nightscape](https://open.spotify.com/album/4mgoGgYqfrfTi6Ozdl73OE) | 2:26 | 2024-07-09 |  |
 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 | 2022-01-12 | 2024-05-21 |
 | [Nuee](https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Nuee](https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz) | 2:48 | 2022-01-12 | 2024-02-16 |
 | [Nära](https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nära](https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH) | 2:20 | 2022-01-12 | 2024-05-21 |
@@ -303,7 +306,7 @@
 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 | 2023-04-14 |  |
 | [Serene Clarity](https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Serene Clarity](https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8) | 2:19 | 2023-01-20 |  |
 | [Serene Horizon](https://open.spotify.com/track/4zblnLoTc8pq79vhj0UTly) | [Deep Focus Orchestra](https://open.spotify.com/artist/3fSGnkoBcTdS5F9eEsCHMr) | [Serene Horizon](https://open.spotify.com/album/0LraBzVCkKJsFi4l7xi1yh) | 3:13 | 2024-01-17 |  |
-| [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 | 2024-05-20 |  |
+| [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 | 2024-05-20 | 2024-07-10 |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-02-01 | 2022-04-20 |
 | [Serenity](https://open.spotify.com/track/6UGDOLRjEkgUrS3Y8aLLK8) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Serenity](https://open.spotify.com/album/6aP3k8Oo4BWQo4BsZTdCS8) | 3:05 | 2024-01-17 |  |
 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 | 2023-03-15 |  |

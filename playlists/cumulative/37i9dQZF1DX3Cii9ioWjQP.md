@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Ahn Ye Sol\(안예솔\)\)
+> All about Korean Jazz hits & new \(Cover: Maria Kim\)
 
-192 songs - 13 hr 59 min
+194 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Isolate \(feat\. AHRAM GO\)](https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB) | 3:12 | 2023-07-24 | 2024-04-19 |
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 |  |
 | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [J RABBIT CHRISTMAS ALBUM](https://open.spotify.com/album/3juUkvOjeWbjsHsaIq4Dl2) | 3:06 | 2023-12-05 | 2024-04-19 |
+| [Jeannine \(feat\. Benny Benack III\)](https://open.spotify.com/track/118mcL5m0P2Ve2Gietl36B) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Misty Blue](https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ) | 5:36 | 2024-07-09 |  |
 | [Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 | 2024-02-15 |  |
 | [Koi's Kingdom](https://open.spotify.com/track/1j2U7kwhsJvTfPcRYkwVBo) | [Echae Kang](https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB) | [Koi's Kingdom](https://open.spotify.com/album/2HajUU3V95X59f43ulHYwF) | 3:07 | 2023-12-12 |  |
 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 |  |
@@ -104,6 +105,7 @@
 | [Miles N Miles \(with\. Senri Kawaguchi\)](https://open.spotify.com/track/6i4IY859rUWMQthlaDJ3Hp) | [Jane](https://open.spotify.com/artist/6S1pEId4oXUshfDpbIJHf5), [Senri Kawaguchi](https://open.spotify.com/artist/3Nxp13gGTys81Mpl041vJe) | [Miles N Miles](https://open.spotify.com/album/5TDMeo2xnGusqM44Wk0pj5) | 3:39 | 2023-07-12 |  |
 | [Mirror](https://open.spotify.com/track/6TiWBEcKGhuXrS6EW1fDpU) | [Yungon Kim](https://open.spotify.com/artist/3Ua8LIwG2GReKWV0wxjWHX) | [Painting](https://open.spotify.com/album/0yj1hWHxegggjpw5GW6wAo) | 8:01 | 2022-05-03 | 2022-05-19 |
 | [Mirror \(feat\. 최다솜\)](https://open.spotify.com/track/1V6jVxy3LuX53YqFgIurTr) | [Wooda](https://open.spotify.com/artist/6hIVvj068iQxFnK3unMCKG), [최다솜](https://open.spotify.com/artist/2SxOJ828hPLggxtKI6zMxd) | [Parallel](https://open.spotify.com/album/1gE3YvX3CA77ChVwyaaagk) | 3:16 | 2023-02-07 |  |
+| [Misty Blue](https://open.spotify.com/track/0p17w3kRTTtLI2PBfqP9PN) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Misty Blue](https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ) | 4:49 | 2024-07-09 |  |
 | [Moonlight kiss](https://open.spotify.com/track/5KeSCEzu0vaeN6PlIEmZqZ) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [Moonlight kiss](https://open.spotify.com/album/5bTORuj2ausd5NCVfCGc6Q) | 3:02 | 2022-05-18 | 2023-02-08 |
 | [Mother](https://open.spotify.com/track/4yFZI3a9OSWthGSW9G5lFr) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Mother](https://open.spotify.com/album/6C8can54DREmXWUC2Gcg6I) | 5:19 | 2023-03-31 |  |
 | [Mother of Life](https://open.spotify.com/track/2z04jhHSFyDGItIEIZMEdM) | [Hyojung Kim](https://open.spotify.com/artist/0dWTzrX6vO7m6kxa3PUnib) | [Mother of Life](https://open.spotify.com/album/1bfCGzV02qVg0x2YodNzBU) | 3:56 | 2023-02-07 |  |

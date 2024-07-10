@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 335680,
       "name": "A Sender",
       "url": "https://open.spotify.com/track/2j69Z8GD7eYDiU6zCcVSDQ"
@@ -8199,6 +8199,24 @@
     },
     {
       "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420426,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/7mfzrDtsheZEKZBhyViHih"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF"
       },
@@ -11497,6 +11515,24 @@
     },
     {
       "album": {
+        "name": "Taking Drugs To Make Music To Take Drugs To (Remastered)",
+        "url": "https://open.spotify.com/album/60dj0AVW7k2jFHPPLN6J1X"
+      },
+      "artists": [
+        {
+          "name": "Spacemen 3",
+          "url": "https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354940,
+      "name": "The Sound Of Confusion",
+      "url": "https://open.spotify.com/track/3zUKCWesKho55Jm6e6JPpV"
+    },
+    {
+      "album": {
         "name": "Tigermilk",
         "url": "https://open.spotify.com/album/3MSxGvwpiKePFsygmWT3G9"
       },
@@ -12538,6 +12574,24 @@
       "duration_ms": 29000,
       "name": "WHAT'S THE TIME? (SOME DAY, IN TIME)",
       "url": "https://open.spotify.com/track/51mk7xOetdjEHMJpPpeT7e"
+    },
+    {
+      "album": {
+        "name": "Cows on Hourglass Pond",
+        "url": "https://open.spotify.com/album/5jNA5QJJl8BynLKtyrkhGj"
+      },
+      "artists": [
+        {
+          "name": "Avey Tare",
+          "url": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391785,
+      "name": "What\u2019s The Goodside?",
+      "url": "https://open.spotify.com/track/3JuJ79XWh5vZkA3zserZSW"
     },
     {
       "album": {

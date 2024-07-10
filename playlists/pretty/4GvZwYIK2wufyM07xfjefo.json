@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADGjBa/KwLY+81mDbfx9gC9pbuY0Mv",
+  "snapshot_id": "AAADIpLGqBCzdpfTFiInWVGUVlX/g9Gk",
   "tracks": [
+    {
+      "added_at": "2024-07-09 06:53:54",
+      "album": {
+        "name": "\u62bd\u8c61\u306e\u5916\u5074",
+        "url": "https://open.spotify.com/album/0QQcd5nSPMkB3Lq5wCgOGR"
+      },
+      "artists": [
+        {
+          "name": "\u78e8\u702c",
+          "url": "https://open.spotify.com/artist/4rG5vr6YW3rWm4aAO4VZd8"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 265383,
+      "name": "\u6c88\u6fb1",
+      "url": "https://open.spotify.com/track/1C8RbP1I6m72QdgB157Juz"
+    },
+    {
+      "added_at": "2024-07-09 06:54:38",
+      "album": {
+        "name": "\u30ea\u30a2\u30ea\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/19HzRixze3olVPQhnR07Nb"
+      },
+      "artists": [
+        {
+          "name": "Pedestrian",
+          "url": "https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "\u30ea\u30a2\u30ea\u30c6\u30a3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6KXPJtaJlC2cwsDkYaErB4"
+    },
+    {
+      "added_at": "2024-07-09 06:54:57",
+      "album": {
+        "name": "The Marks",
+        "url": "https://open.spotify.com/album/3m2VakkxKLDDj9uF1G8G24"
+      },
+      "artists": [
+        {
+          "name": "2ouDNS",
+          "url": "https://open.spotify.com/artist/377ykQkQB0LOoFnWzMX2l7"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "The Marks (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/12bKdNpxglhHXaPNYcp9Z4"
+    },
+    {
+      "added_at": "2024-07-09 06:58:17",
+      "album": {
+        "name": "\u3084\u307e\u306a\u3044\u30a2\u30e1",
+        "url": "https://open.spotify.com/album/6WKi8TcYxz9GTEdqfg5KV1"
+      },
+      "artists": [
+        {
+          "name": "MURASAKI",
+          "url": "https://open.spotify.com/artist/3iC8uRRIPmnEXSTKmYQSBe"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 62000,
+      "name": "Element of the collection (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/4DY6RqybFSyH0uOmYCLluu"
+    },
+    {
+      "added_at": "2024-07-09 06:56:11",
+      "album": {
+        "name": "showdown",
+        "url": "https://open.spotify.com/album/6JOZeUpUM2xIwDK02T5TVI"
+      },
+      "artists": [
+        {
+          "name": "yukitsuki",
+          "url": "https://open.spotify.com/artist/0QI68ykMZoGMCUSUlOOdfD"
+        }
+      ],
+      "duration_ms": 210238,
+      "name": "showdown",
+      "url": "https://open.spotify.com/track/0hxXGGuLs5d6uVVMmvHR6r"
+    },
     {
       "added_at": "2024-06-25 03:59:51",
       "album": {
@@ -655,94 +751,6 @@
       "duration_ms": 317648,
       "name": "piano (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2mcCtXijdSmKPJanbsq3y3"
-    },
-    {
-      "added_at": "2024-04-16 05:25:33",
-      "album": {
-        "name": "\u97f3\u697d\u6587\u5b66E.P(Digital Edition)",
-        "url": "https://open.spotify.com/album/49lRomATMkUSKm9hyo4Son"
-      },
-      "artists": [
-        {
-          "name": "\u3048\u3044\u3061",
-          "url": "https://open.spotify.com/artist/1Lxn9Isei7h9w0CmtRawki"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 257872,
-      "name": "\u8695\u3005 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6gznJKvcMUiyOtUK3BhZTL"
-    },
-    {
-      "added_at": "2024-04-16 05:26:16",
-      "album": {
-        "name": "\u900f\u660e\u591c\u884c",
-        "url": "https://open.spotify.com/album/0SCRpaKqeKrIS7mKBX1lXs"
-      },
-      "artists": [
-        {
-          "name": "Aoto Kei",
-          "url": "https://open.spotify.com/artist/2xiTu4bRHOuHaxWndb7MRN"
-        },
-        {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        }
-      ],
-      "duration_ms": 100003,
-      "name": "\u900f\u660e\u591c\u884c (feat. \u53ef\u4e0d)",
-      "url": "https://open.spotify.com/track/0vr5g4rAY91uQHFwNB6XAt"
-    },
-    {
-      "added_at": "2024-04-16 05:26:37",
-      "album": {
-        "name": "\u30b5\u30a4\u30b4\u30ce\u30c8\u30e2\u30c0\u30c1",
-        "url": "https://open.spotify.com/album/0AGlYglspPGOWh6SqrCNza"
-      },
-      "artists": [
-        {
-          "name": "\u6e4a\u3044\u3064\u304d",
-          "url": "https://open.spotify.com/artist/6E3J052gwC6el0EmoiG8Wt"
-        }
-      ],
-      "duration_ms": 301340,
-      "name": "\u30b5\u30a4\u30b4\u30ce\u30c8\u30e2\u30c0\u30c1",
-      "url": "https://open.spotify.com/track/0jfyWjdrlcZNueRpRbnviu"
-    },
-    {
-      "added_at": "2024-04-16 05:26:51",
-      "album": {
-        "name": "\u305d\u3053\u306b\u3044\u305f\u3053\u3068",
-        "url": "https://open.spotify.com/album/1lvFZFte1gQNeAAsemlMgH"
-      },
-      "artists": [
-        {
-          "name": "regulus",
-          "url": "https://open.spotify.com/artist/0ZszsC66omhZ92du9Np8I3"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "\u305d\u3053\u306b\u3044\u305f\u3053\u3068",
-      "url": "https://open.spotify.com/track/6WX2cQrQv9fQpkm6C2nLCp"
-    },
-    {
-      "added_at": "2024-04-16 05:27:05",
-      "album": {
-        "name": "\u5927\u5207\u306a\u541b\u3078\u8d08\u308b\u6b4c",
-        "url": "https://open.spotify.com/album/22OyNLncjaG8AxAleG0LHc"
-      },
-      "artists": [
-        {
-          "name": "Toraboruta",
-          "url": "https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4"
-        }
-      ],
-      "duration_ms": 371052,
-      "name": "\u5927\u5207\u306a\u541b\u3078\u8d08\u308b\u6b4c",
-      "url": "https://open.spotify.com/track/5oSg0Mq586O7yyGrJjwHRc"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

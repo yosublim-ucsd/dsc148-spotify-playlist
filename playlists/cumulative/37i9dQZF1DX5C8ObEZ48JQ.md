@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0?si=YhkNlz\_XTrOkAri94NgX\_A">iKen</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C?si=mK6CySEoTQGpJVv\_bC\_9uA">Sarnilo</a>\. Artwork: Isu Kim.
 
 943 songs - 1 day 23 hr 37 min
 

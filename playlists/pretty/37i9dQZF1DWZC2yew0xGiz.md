@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > Songs from an iconic era of Black film and TV soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,444 likes - 55 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,502 likes - 55 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 26 | [Touch Me Tease Me](https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 3:52 |
 | 27 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 |
 | 28 | [Can I Get A..\. \- From The Rush Hour Soundtrack](https://open.spotify.com/track/45HLgh98kxPEMP1gPAEe8X) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Rush Hour](https://open.spotify.com/album/5spFW9SO63yEuvE1IxtayA) | 5:11 |
-| 29 | [The Heist](https://open.spotify.com/track/0zMGSRXDnR5i9PxJPlcK8l) | [Da 5 Footaz](https://open.spotify.com/artist/2kr5Byq7Km22b794cEfVnv) | [Set It Off \(Music From The New Line Cinema Motion Picture\)](https://open.spotify.com/album/1oIzl7axKpgYQRqK1BqYM7) | 4:04 |
+| 29 | [The Heist](https://open.spotify.com/track/0zMGSRXDnR5i9PxJPlcK8l) | [Da 5 Footaz](https://open.spotify.com/artist/5xCiar06bHkboWF08XL7ET) | [Set It Off \(Music From The New Line Cinema Motion Picture\)](https://open.spotify.com/album/1oIzl7axKpgYQRqK1BqYM7) | 4:04 |
 | 30 | [There U Go](https://open.spotify.com/track/7oF2WD5RByyNQQmmI5a283) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:16 |
 | 31 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 3:24 |
 | 32 | [Love and Happiness](https://open.spotify.com/track/2pYCyEwJ0xKnWbuQkqNHgp) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/6W0V8B0fJItvOwC8v114rZ) | 5:03 |

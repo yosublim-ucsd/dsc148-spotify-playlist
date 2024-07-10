@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,943 songs - 4 day 4 hr 25 min
+1,944 songs - 4 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 | 2022-09-24 | 2023-01-03 |
 | [F64](https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [F64](https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE) | 3:24 | 2023-01-21 | 2023-01-23 |
 | [Face in the Crowd](https://open.spotify.com/track/7DGVg2d7TnFty4tDNNaE6B) | [Browsing Collection](https://open.spotify.com/artist/4ryoVY6Gmwve1PXyNtbDSC) | [Face in the Crowd](https://open.spotify.com/album/0FOmYhrl1VjOowORktmh9B) | 2:49 | 2022-02-14 | 2022-02-16 |
-| [Faceplant](https://open.spotify.com/track/5VGmSRG8MQP72ZXiyFfrdE) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Faceplant](https://open.spotify.com/album/0KSwMWkVVt9y1wnNPxWBuE) | 2:12 | 2024-07-08 |  |
+| [Faceplant](https://open.spotify.com/track/5VGmSRG8MQP72ZXiyFfrdE) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Faceplant](https://open.spotify.com/album/0KSwMWkVVt9y1wnNPxWBuE) | 2:12 | 2024-07-08 | 2024-07-10 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-09-26 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-11-28 | 2023-12-30 |
 | [FAKKA UR](https://open.spotify.com/track/0pmtQ4i3MxdWeqnZtrLOuA) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [FAKKA UR](https://open.spotify.com/album/59GopT59Iddwz6PtVi05LH) | 2:12 | 2022-03-26 | 2022-04-30 |
@@ -1737,6 +1737,7 @@
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-04-24 |  |
 | [TOPP](https://open.spotify.com/track/3oF1ZBHm7qDn3bOxIrDEjy) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TOPP](https://open.spotify.com/album/0Gdq76sRxchoJchHllaFTX) | 2:32 | 2021-08-29 | 2022-03-27 |
 | [TOPP IDAG](https://open.spotify.com/track/3srWz7HzXOyZvfFSpkERLC) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:26 | 2022-05-07 | 2022-05-15 |
+| [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-09 |  |
 | [Tout l'univers](https://open.spotify.com/track/3MvY2XbGYFi6p2dgmdcOYG) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Tout l'univers](https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH) | 3:03 | 2021-05-24 | 2021-06-01 |
 | [Toute la nuit \(Hela natten\)](https://open.spotify.com/track/7LGmUdDzImKXSGf3nHnXjJ) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Toute la nuit \(Hela natten\)](https://open.spotify.com/album/7z5ZZ7aTFzAYdRocy5ZUf8) | 2:42 | 2021-06-23 | 2021-06-26 |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-16 | 2021-11-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Apache 207, AYLIVA",
-  "num_followers": 581882,
+  "num_followers": 581932,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Ende der Strasse",
-        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Ende der Strasse",
-      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Breaking your heart",
         "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 170579,
       "name": "Breaking your heart",
       "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Ende der Strasse",
+        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Ende der Strasse",
+      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -831,6 +831,38 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "SUPERHERO Pt. II",
+        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "SUPERHERO Pt. II",
+      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -855,38 +887,6 @@
       "duration_ms": 236533,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "SUPERHERO Pt. II",
-        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "SUPERHERO Pt. II",
-      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Mittelfinger",
-        "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 129272,
-      "name": "Mittelfinger",
-      "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Sterne (feat. Bozza)",
         "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Lamborghini Pink",
-        "url": "https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr"
+        "name": "Mittelfinger",
+        "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Lamborghini Pink",
-      "url": "https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U"
+      "duration_ms": 129272,
+      "name": "Mittelfinger",
+      "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1291,6 +1275,22 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Lamborghini Pink",
+        "url": "https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Lamborghini Pink",
+      "url": "https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Liebe = Schmerz",
         "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "KAPUTTE NIKES",
         "url": "https://open.spotify.com/album/57tkUG6UbznOuHYz4GukL2"
       },
@@ -1487,26 +1487,6 @@
       "duration_ms": 168500,
       "name": "KAPUTTE NIKES",
       "url": "https://open.spotify.com/track/0PRn0wppJozInSVkjEpK8Z"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "Hund (feat. Takt32)",
-        "url": "https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5"
-        },
-        {
-          "name": "Takt32",
-          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
-        }
-      ],
-      "duration_ms": 182975,
-      "name": "Hund (feat. Takt32)",
-      "url": "https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1531,22 +1511,22 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Safe Space",
-        "url": "https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R"
+        "name": "Hund (feat. Takt32)",
+        "url": "https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y"
       },
       "artists": [
         {
-          "name": "Olson",
-          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5"
         },
         {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
         }
       ],
-      "duration_ms": 136412,
-      "name": "Safe Space",
-      "url": "https://open.spotify.com/track/6HDHXiKCOYJkrpaJPZuM74"
+      "duration_ms": 182975,
+      "name": "Hund (feat. Takt32)",
+      "url": "https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1575,6 +1555,26 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "Safe Space",
+        "url": "https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 136412,
+      "name": "Safe Space",
+      "url": "https://open.spotify.com/track/6HDHXiKCOYJkrpaJPZuM74"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "6 Minuten",
         "url": "https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 174673,
       "name": "6 Minuten",
       "url": "https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Bis ins Grab",
+        "url": "https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP"
+      },
+      "artists": [
+        {
+          "name": "YFG Pave",
+          "url": "https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C"
+        }
+      ],
+      "duration_ms": 146927,
+      "name": "Bis ins Grab",
+      "url": "https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1647,22 +1663,6 @@
       "duration_ms": 144874,
       "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
       "url": "https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "Bis ins Grab",
-        "url": "https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP"
-      },
-      "artists": [
-        {
-          "name": "YFG Pave",
-          "url": "https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C"
-        }
-      ],
-      "duration_ms": 146927,
-      "name": "Bis ins Grab",
-      "url": "https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq"
     },
     {
       "added_at": "2024-06-28 12:16:10",

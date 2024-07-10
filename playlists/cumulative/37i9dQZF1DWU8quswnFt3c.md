@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: Lauren Aquilina.
 
-1,997 songs - 4 day 14 hr 21 min
+1,999 songs - 4 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-01-10 | 2024-02-08 |
 | [Bababababy](https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Bababababy](https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg) | 2:51 | 2024-04-03 | 2024-04-19 |
 | [Babul Teri Galliyaan](https://open.spotify.com/track/6v8zxfQJihReMngblfEiZZ) | [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ), [Harshit Saxena](https://open.spotify.com/artist/4auibajZua9Ld8sPMOmPYc) | [Babul Teri Galliyaan](https://open.spotify.com/album/6rmibXRijYIvOTmdezma9n) | 5:09 | 2023-03-01 | 2023-04-06 |
-| [BABY VOICE](https://open.spotify.com/track/0gelwjtIDhGKhk9osLMz5j) | [Zinée](https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3) | [OSMIN](https://open.spotify.com/album/1OoYk7talO3HwAozYp6I86) | 2:46 | 2024-07-03 |  |
+| [BABY VOICE](https://open.spotify.com/track/0gelwjtIDhGKhk9osLMz5j) | [Zinée](https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3) | [OSMIN](https://open.spotify.com/album/1OoYk7talO3HwAozYp6I86) | 2:46 | 2024-07-03 | 2024-07-10 |
 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 | 2022-06-01 | 2022-07-07 |
 | [Bacchus](https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [KIKI](https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau) | 3:08 | 2023-08-02 | 2023-09-07 |
 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 | 2023-07-05 | 2023-08-03 |
@@ -564,6 +564,7 @@
 | [Forest song \- Original Soundtrack «Mavka\. The Forest Song](https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Forest song \(Original Soundtrack «Mavka\. The Forest Song\)](https://open.spotify.com/album/5apkXbTZXtKz6uIBRXUv8Q) | 3:36 | 2023-04-05 | 2024-01-11 |
 | [Forever Young](https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Forever Young](https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd) | 2:33 | 2023-05-03 | 2023-07-06 |
 | [Forever Young](https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH) | [Forever Young](https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb) | 2:58 | 2023-07-05 | 2023-08-03 |
+| [forget](https://open.spotify.com/track/0DF8IsRDJFYtyv1DWi5j8N) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [stuck](https://open.spotify.com/album/3GrrxcBgbNRyWmLgKmLQfT) | 2:45 | 2024-07-03 |  |
 | [Fragile](https://open.spotify.com/track/2AaXBwfmZahVmPitxP1zFE) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Fragile](https://open.spotify.com/album/1mFALEv1ffKshIAb5T3Db0) | 3:01 | 2022-11-02 | 2022-12-01 |
 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-05-02 | 2024-06-06 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-10-04 | 2022-11-03 |
@@ -784,6 +785,7 @@
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-10-04 | 2023-11-17 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-03-08 | 2023-01-05 |
 | [Iparho Gia Sena](https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [Iparho Gia Sena](https://open.spotify.com/album/4lkyzgLGV1SmJv0UW3Pw4h) | 3:36 | 2022-04-06 | 2023-01-05 |
+| [IRON BEAT](https://open.spotify.com/track/42viWQggsj8HppF6bm5JmS) | [Ruslana](https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa) | [БУЙНА/IRON BEAT](https://open.spotify.com/album/5yX9JXQaJYFyKLLnY6RfVZ) | 3:52 | 2024-07-03 |  |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2024-03-06 | 2024-04-04 |
 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 | 2022-08-03 | 2022-09-09 |
 | [it keeps on raining](https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it keeps on raining](https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj) | 3:22 | 2022-08-03 | 2022-09-01 |
@@ -1482,7 +1484,7 @@
 | [SILLY BRAIN](https://open.spotify.com/track/1EeAV4R83HoEKvyfoK4apX) | [Alice Change](https://open.spotify.com/artist/2MUGwis27QiudPF2SfL2yh) | [SILLY BRAIN](https://open.spotify.com/album/4k4ASnwI65RY42wWVG01d8) | 2:50 | 2024-01-10 | 2024-02-08 |
 | [Silsilay Tor Gaya](https://open.spotify.com/track/1zHxHrICgqYDfyrYJIDFrw) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Silsilay Tor Gaya](https://open.spotify.com/album/6eLCSTvN2jg7x1lHTrgkXJ) | 4:17 | 2023-09-06 | 2023-10-05 |
 | [Silver Into Rain](https://open.spotify.com/track/6YP6K5XpZMIJ7WwQr2Wa6h) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/2T2LSGT5K9mw9miI1CQB5B) | 3:21 | 2022-05-04 | 2022-06-01 |
-| [Silver Lining](https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Silver Lining](https://open.spotify.com/album/6Ow2LB1hUicQBaQ3mgkgJm) | 2:53 | 2024-07-03 |  |
+| [Silver Lining](https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Silver Lining](https://open.spotify.com/album/6Ow2LB1hUicQBaQ3mgkgJm) | 2:53 | 2024-07-03 | 2024-07-10 |
 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 | 2024-07-03 |  |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-01-05 | 2022-02-03 |
 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 | 2024-07-03 |  |

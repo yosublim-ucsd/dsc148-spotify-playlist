@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Melisses
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,314 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,327 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 9 | [Mykonos](https://open.spotify.com/track/3hVdZlwpU35m5vtPxmv7OI) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Mykonos](https://open.spotify.com/album/1WhXSHBpgNQkfVFzmqJaH1) | 2:13 |
 | 10 | [Eipes](https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Eipes](https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh) | 3:40 |
 | 11 | [MAGKAS](https://open.spotify.com/track/4vatCFAoERGB9m7wskYQNS) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [MAGKAS](https://open.spotify.com/album/7J3FKSVw8tiWLmKTZTdKs3) | 2:34 |
-| 12 | [Pirotehnimata \- Remix](https://open.spotify.com/track/0MCyMfoKFcYfyguoKGiQsM) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c) | [Party All The Time](https://open.spotify.com/album/1kKUHmU1lLQTerGmxyA04Z) | 4:47 |
+| 12 | [Pirotehnimata \- Playmen Remix](https://open.spotify.com/track/0MCyMfoKFcYfyguoKGiQsM) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c) | [Party All The Time](https://open.spotify.com/album/1kKUHmU1lLQTerGmxyA04Z) | 4:47 |
 | 13 | [Noumero 1](https://open.spotify.com/track/6ItU0GpYf2VkEmVZNdJ9o4) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Noumero 1](https://open.spotify.com/album/0IqPdSYN3oTYYx8PYlTWRq) | 2:33 |
 | 14 | [To Tango Tis Nefelis \- ONEMANSHOW Remix](https://open.spotify.com/track/4dODtxnCE3YB7dP8lvK55d) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [ONEMANSHOW](https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR), [Ralf Mag](https://open.spotify.com/artist/0z7vh522N8W5SBlvtRL2WR) | [To Tango Tis Nefelis](https://open.spotify.com/album/3l99PmvReKh8FgbxlcWGl9) | 6:10 |
 | 15 | [Iliggos](https://open.spotify.com/track/2UPMkklYJv15deUPc0a7YZ) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Iliggos](https://open.spotify.com/album/4GKz0pYvJiFWpdTlVaO8so) | 3:48 |

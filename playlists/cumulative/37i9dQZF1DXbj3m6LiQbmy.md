@@ -2,9 +2,9 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Musica dalla comunità LGBQTIA+ 🇮🇹\. Gianna Nannini in cover! ✨
+> Musica dalla comunità LGBQTIA+ 🇮🇹 STE in cover ✨
 
-359 songs - 21 hr 8 min
+360 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Superomantico](https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Superomantico](https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa) | 2:41 | 2022-08-29 | 2023-06-09 |
 | [Supra](https://open.spotify.com/track/01MUawlDtZSdksJGN7PXvR) | [ДЕТИ RAVE](https://open.spotify.com/artist/73AXOp3t6ik1YiJjINRvMm) | [Фая](https://open.spotify.com/album/6KNReuWyWXfDshdv0pwuY1) | 2:30 | 2022-06-12 | 2022-06-27 |
 | [Synthetic](https://open.spotify.com/track/6ZElZPKXUtsnzCAlE6VoxC) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Synthetic / Safe](https://open.spotify.com/album/2ZyoW04V9YBPlml0l5T3An) | 5:11 | 2023-03-17 |  |
+| [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 | 2024-07-09 |  |
 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 | 2024-03-11 |  |
 | [T.D \(Lil Yachty & Tierra Whack feat\. A$AP Rocky & Tyler, The Creator\)](https://open.spotify.com/track/0gO3E51A3fqp0ypJ26QbVP) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 3:52 | 2022-06-12 | 2022-06-27 |
 | [Taboo \(Playgirls from caracas remix\)](https://open.spotify.com/track/3LDU3r1QEk5EFtVy0Hv2fC) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [Playgirl](https://open.spotify.com/artist/518AwkiwZBQLJW1Zhrip13) | [Taboo](https://open.spotify.com/album/60zPoLbLRdyvTOifnlQuNu) | 3:30 | 2022-06-26 | 2022-07-26 |

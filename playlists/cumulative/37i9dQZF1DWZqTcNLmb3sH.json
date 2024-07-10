@@ -14168,7 +14168,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 232115,
       "name": "Kcpd",
       "url": "https://open.spotify.com/track/3aV5SxX2wHOXWvBli4mKQR"
@@ -17376,6 +17376,36 @@
       "duration_ms": 181354,
       "name": "Missing Me (From \"Maha Purusha\")",
       "url": "https://open.spotify.com/track/6oS5cQgo2W1XvzdknsQLxP"
+    },
+    {
+      "album": {
+        "name": "Mission Gama Gama (From \"Powder\")",
+        "url": "https://open.spotify.com/album/3tYD2rg6g5tAkPqfw4Oug7"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Trilok Trivikram",
+          "url": "https://open.spotify.com/artist/1xm0IvlkYjHoADBUX3v6tm"
+        },
+        {
+          "name": "Gokul Abhishek",
+          "url": "https://open.spotify.com/artist/0OOQrP00g6QUmlrvpTbfQd"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255205,
+      "name": "Mission Gama Gama (From \"Powder\")",
+      "url": "https://open.spotify.com/track/0fTHpTznE0StPJfg9GHiOU"
     },
     {
       "album": {

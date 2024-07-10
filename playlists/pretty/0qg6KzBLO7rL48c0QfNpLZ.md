@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,593 likes - 270 songs - 12 hr 19 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,596 likes - 270 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 64 | [Story](https://open.spotify.com/track/6pZp3Glk0bAD22Vb21ifem) | [Atch](https://open.spotify.com/artist/1RXmgjI1slIFaZZHN0Q22V) | [Story](https://open.spotify.com/album/3uMbwGHVOtAnf8KOZEsBcG) | 2:37 |
 | 65 | [On the Line](https://open.spotify.com/track/5gD2gvgmlo72qdS7uVUH86) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX) | [On the Line](https://open.spotify.com/album/18TK8cBG5gOrjlZBkdAVHQ) | 2:26 |
 | 66 | [Sometimes In The Movies](https://open.spotify.com/track/1CvPGtswcTsrejakq44m7Z) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Karol Carlo](https://open.spotify.com/artist/5Q1NqTTZDuCT0rjUfCcDW8), [Sara Karaszewska](https://open.spotify.com/artist/3sAx7pv4tll27Wla340mtu) | [Sometimes In The Movies](https://open.spotify.com/album/7oEglQgidrGFPLM49Ru0hI) | 3:11 |
-| 67 | [Habits \(Stay High\)](https://open.spotify.com/track/06pqBQTjITx3HYExoOYe3T) | [AVNT:GRD](https://open.spotify.com/artist/4bLWtJy0s6TputHQAeQV6V), [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Habits \(Say High\)](https://open.spotify.com/album/2nv0Y6vz1bVFpsPMr8TNKm) | 3:04 |
+| 67 | [Habits \(Stay High\)](https://open.spotify.com/track/06pqBQTjITx3HYExoOYe3T) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [AVNT:GRD](https://open.spotify.com/artist/4bLWtJy0s6TputHQAeQV6V) | [Habits \(Say High\)](https://open.spotify.com/album/2nv0Y6vz1bVFpsPMr8TNKm) | 3:04 |
 | 68 | [We Belong Together \(feat\. Michael Hausted\)](https://open.spotify.com/track/608TDka6vmrWkxx5GwZh1N) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [Michael Hausted](https://open.spotify.com/artist/0QlmyIn6tbtm2hn8dpljom) | [We Belong Together](https://open.spotify.com/album/4zEe9tBcYeo82snVqlznVh) | 2:21 |
 | 69 | [Clouds](https://open.spotify.com/track/4SkPFni0GHs9StKwn9q8rB) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Clouds](https://open.spotify.com/album/6VrvTzJWWzEF9jjiGRFprW) | 2:18 |
 | 70 | [Floating](https://open.spotify.com/track/557wRaFFKogsJ42cuktzqu) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Floating](https://open.spotify.com/album/1wbunGgTE31NEdxboGCXUI) | 2:36 |

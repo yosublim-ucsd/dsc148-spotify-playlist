@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Y'akoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,463 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,466 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
 | 11 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 |
 | 12 | [extras](https://open.spotify.com/track/49dsnznVKLZwYJOhGEGRA2) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:29 |
-| 13 | [Woman](https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Woman](https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3) | 2:10 |
-| 14 | [Klappstuhl am See](https://open.spotify.com/track/3HZg6HgyWgSgi3lVJoq3pp) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Alles oder Nichts](https://open.spotify.com/album/10DmYqYnC1qpaSKeKx2ef8) | 2:13 |
+| 13 | [Klappstuhl am See](https://open.spotify.com/track/3HZg6HgyWgSgi3lVJoq3pp) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Alles oder Nichts](https://open.spotify.com/album/10DmYqYnC1qpaSKeKx2ef8) | 2:13 |
+| 14 | [Woman](https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Woman](https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3) | 2:10 |
 | 15 | [Come Down to the River](https://open.spotify.com/track/3vcHVC4FRw40udBfSTojqs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Moody Blues](https://open.spotify.com/album/5dVDpmBMOCCdLoo07G2JNC) | 3:41 |
 | 16 | [Renn](https://open.spotify.com/track/29PqzjjhKKu8kBi1coCRrn) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Renn](https://open.spotify.com/album/6aF03VXMy0AYche1GHvtIW) | 2:13 |
 | 17 | [background check](https://open.spotify.com/track/0h7ZuS3cgicu9Ku0Eax7r4) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [happy worstday](https://open.spotify.com/album/4gL18Qzv6bMtLV2zYw7K9J) | 2:34 |

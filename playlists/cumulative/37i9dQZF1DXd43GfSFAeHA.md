@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd43GfSFAeHA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd43GfSFAeHA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd43GfSFAeHA)
 
-### [Arab Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DXd43GfSFAeHA)
+### [Arab Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DXd43GfSFAeHA)
 
-> A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Dollypran
+> A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: Dollypran
 
 436 songs - 22 hr 35 min
 

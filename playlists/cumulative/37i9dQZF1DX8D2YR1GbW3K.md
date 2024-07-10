@@ -2,7 +2,7 @@
 
 ### [Headliners](https://open.spotify.com/playlist/37i9dQZF1DX8D2YR1GbW3K)
 
-> Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
+> Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
 226 songs - 15 hr 19 min
 

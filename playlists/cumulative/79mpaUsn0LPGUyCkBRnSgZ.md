@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-707 songs - 1 day 22 hr 20 min
+710 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [A Nervous Tic Motion of the Head to the Left](https://open.spotify.com/track/6SjXkEmPg9jP66HsWbK2A0) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 4:59 | 2024-03-11 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2023-01-26 |  |
 | [A Romantic Interlude Will Soon Come Your Way](https://open.spotify.com/track/7zlYwIkrxPyNQ1Jf1CG9Rd) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Forever Forever](https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC) | 1:01 | 2024-01-15 |  |
-| [A Sender](https://open.spotify.com/track/2j69Z8GD7eYDiU6zCcVSDQ) | [Avey Tare's Slasher Flicks](https://open.spotify.com/artist/1sY7Ak1Ygf2ZqmiZPTkZw5), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Enter The Slasher House](https://open.spotify.com/album/3aySHuFfYySYxYCdznqRhV) | 5:35 | 2023-03-23 |  |
+| [A Sender](https://open.spotify.com/track/2j69Z8GD7eYDiU6zCcVSDQ) | [Avey Tare's Slasher Flicks](https://open.spotify.com/artist/1sY7Ak1Ygf2ZqmiZPTkZw5), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Enter The Slasher House](https://open.spotify.com/album/3aySHuFfYySYxYCdznqRhV) | 5:35 | 2023-03-23 | 2024-07-10 |
 | [A Spell, A Prayer](https://open.spotify.com/track/3AARcTY0etRkP9sQev0BPU) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 5:26 | 2023-10-02 |  |
 | [A Spindle, A Darkness, A Fever, And A Necklace](https://open.spotify.com/track/1lmHqGfnzEDg31iRqFcGR1) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Fevers and Mirrors](https://open.spotify.com/album/1VPu5FJq5wg0BNJXRL6cqC) | 6:25 | 2022-08-19 | 2023-12-14 |
 | [A Tooth for an Eye](https://open.spotify.com/track/51dXFarmGXwJI75jxJaKyf) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Shaking The Habitual](https://open.spotify.com/album/6GWQ6fq8krujlglglMPyPu) | 6:04 | 2023-03-11 |  |
@@ -449,6 +449,7 @@
 | [Overture](https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 5:20 | 2024-01-08 |  |
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2023-04-25 | 2023-05-11 |
 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-05-28 |  |
+| [Passion](https://open.spotify.com/track/7mfzrDtsheZEKZBhyViHih) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 7:00 | 2024-07-09 |  |
 | [Patience](https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Patience](https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF) | 2:12 | 2024-01-04 |  |
 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 | 2024-01-01 |  |
 | [Peace To All Freaks](https://open.spotify.com/track/1gSk8vyR6ExYlSqIhEzpSO) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [UR FUN](https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH) | 4:44 | 2023-06-28 | 2023-07-04 |
@@ -626,6 +627,7 @@
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 |  |
 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 | 2023-12-30 |  |
 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 | 2023-02-11 |  |
+| [The Sound Of Confusion](https://open.spotify.com/track/3zUKCWesKho55Jm6e6JPpV) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Taking Drugs To Make Music To Take Drugs To \(Remastered\)](https://open.spotify.com/album/60dj0AVW7k2jFHPPLN6J1X) | 5:54 | 2024-07-09 |  |
 | [The State I'm In](https://open.spotify.com/track/6EVioebGhehJKoNrpn4WK3) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/3MSxGvwpiKePFsygmWT3G9) | 4:57 | 2023-02-19 |  |
 | [The Sweet Science](https://open.spotify.com/track/73bJahLiTR2RAfXd3aNn1p) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 1:55 | 2024-01-15 |  |
 | [The Trail](https://open.spotify.com/track/6YBjT06zsLzaH33nToh2Cb) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 2:55 | 2024-04-07 |  |
@@ -682,6 +684,7 @@
 | [What I Am](https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 4:56 | 2024-01-15 |  |
 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 | 2023-03-11 | 2024-01-30 |
 | [WHAT'S THE TIME? \(SOME DAY, IN TIME\)](https://open.spotify.com/track/51mk7xOetdjEHMJpPpeT7e) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 0:29 | 2024-06-17 | 2024-06-27 |
+| [What’s The Goodside?](https://open.spotify.com/track/3JuJ79XWh5vZkA3zserZSW) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Cows on Hourglass Pond](https://open.spotify.com/album/5jNA5QJJl8BynLKtyrkhGj) | 6:31 | 2024-07-09 |  |
 | [When I'm Thinking About You](https://open.spotify.com/track/2RtOnuOdBiecnBoX8x9uoO) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Static & Silence](https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4) | 4:17 | 2024-05-10 |  |
 | [When Winter Comes Around](https://open.spotify.com/track/13G6COhMO4hUKkqTs0xvgH) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Everything Harmony](https://open.spotify.com/album/5X0MAnUVN7eEZyO1LjprIk) | 4:42 | 2023-05-20 |  |
 | [Where Do The Children Play?](https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:51 | 2024-01-08 |  |

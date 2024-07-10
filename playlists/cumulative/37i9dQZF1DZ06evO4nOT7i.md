@@ -2,7 +2,7 @@
 
 ### [This Is Rex Orange County](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nOT7i)
 
-> This Is Rex Orange County\. Los temas esenciales, todos en una lista.
+> This is Rex Orange County\. Todos os maiores hits em uma só playlist.
 
 35 songs - 2 hr 3 min
 

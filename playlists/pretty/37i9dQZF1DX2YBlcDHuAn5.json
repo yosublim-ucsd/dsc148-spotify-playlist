@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7632,
+  "num_followers": 7638,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+      },
+      "artists": [
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 191760,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Fortunes & Willows",
-        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 244667,
-      "name": "Little Miss Blue Eyes",
-      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 193426,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Fortunes & Willows",
+        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
+        }
+      ],
+      "duration_ms": 244667,
+      "name": "Little Miss Blue Eyes",
+      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Bluefinger",
         "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Alpine Gold",
         "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 196426,
       "name": "It's So Easy",
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
-      },
-      "artists": [
-        {
-          "name": "Donna Blue",
-          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -691,6 +675,22 @@
       "duration_ms": 208082,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
+      },
+      "artists": [
+        {
+          "name": "Donna Blue",
+          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -723,6 +723,22 @@
       "duration_ms": 336904,
       "name": "Nighttime Walk",
       "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Life's A Beach & 3 Acoustic Songs",
+        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
+      },
+      "artists": [
+        {
+          "name": "Robert Weston",
+          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
+        }
+      ],
+      "duration_ms": 203487,
+      "name": "When You Know You Know - Acoustic",
+      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Life's A Beach & 3 Acoustic Songs",
-        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
-      },
-      "artists": [
-        {
-          "name": "Robert Weston",
-          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
-        }
-      ],
-      "duration_ms": 203487,
-      "name": "When You Know You Know - Acoustic",
-      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "How Did We Get To Goodbye",
         "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Kingdom of Mine",
-        "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
-      },
-      "artists": [
-        {
-          "name": "Timo de Jong",
-          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Ring Them Bells",
-      "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "To The Darkness",
         "url": "https://open.spotify.com/album/5aJpNDqfKzEx66syRNqCr2"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224133,
       "name": "To The Darkness",
       "url": "https://open.spotify.com/track/1jFWYCpLlz6FqPOxSKIaZo"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Kingdom of Mine",
+        "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
+      },
+      "artists": [
+        {
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
     },
     {
       "added_at": "2024-07-04 22:00:00",

@@ -4,7 +4,7 @@
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-111 songs - 5 hr 44 min
+118 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,13 @@
 | [2005 Toyota Corolla](https://open.spotify.com/track/1jzXIejG0RG1031dkU9jLw) | [2003 Toyota Corolla](https://open.spotify.com/artist/6FYMANNdpYv2Y9prysxwCW) | [2003 Toyota Corolla](https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx) | 1:32 | 2022-03-15 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2020-05-20 |  |
 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 | 2022-11-18 |  |
+| [A1 \- It's just a burning memory](https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:32 | 2024-07-09 |  |
+| [A2 \- We don't have many days](https://open.spotify.com/track/5V7zDcTwHZ38kbSeooLe0K) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:30 | 2024-07-09 |  |
+| [A3 \- Late afternoon drifting](https://open.spotify.com/track/5sD6oTCae0LI9lztYBJA0W) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:35 | 2024-07-09 |  |
+| [A4 \- Childishly fresh eyes](https://open.spotify.com/track/4xHrZWC5q7RXFxcF6tSdoh) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 2:58 | 2024-07-09 |  |
+| [A5 \- Slightly bewildered](https://open.spotify.com/track/2tWgpKAjR0dajrrA7gS3f1) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 2:01 | 2024-07-09 |  |
 | [Again](https://open.spotify.com/track/2jThFJZKxkmtNwly0a1RRt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Again](https://open.spotify.com/album/2zz6j2mGH5JHk0ihNvy6KM) | 4:44 | 2023-11-04 |  |
+| [All you are going to want to do is get back there](https://open.spotify.com/track/04Px9lLiHlKdmxQbE3uTa5) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [An empty bliss beyond this World](https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG) | 3:46 | 2024-07-09 |  |
 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 | 2022-09-03 |  |
 | [Andro](https://open.spotify.com/track/7sUoR0Yg7FsD7BpJatAtid) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4Wq9kfnBR0npGfsuQl8kDW) | 3:54 | 2023-03-03 |  |
 | [Au clair de la lune](https://open.spotify.com/track/3kxB8Uj9Clffn5ZsY5agzf) | [Édouard\-Léon Scott de Martinville](https://open.spotify.com/artist/4QIqrGf063HoLbGRsCMXoB) | [An Anthology of Noise & Electronic Music, Vol\. 7](https://open.spotify.com/album/68jd2YgjZUO3ZXT8jXCuQp) | 0:16 | 2022-11-06 |  |
@@ -67,6 +73,7 @@
 | [kittenmother](https://open.spotify.com/track/3hUmxT6wqRWpSRdMqq3w4R) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [Girl Echo Suns Veils](https://open.spotify.com/album/2ynOwz2ZWuXRjqnQHonu8C) | 2:57 | 2022-10-15 |  |
 | [Laika](https://open.spotify.com/track/1sED31WqXFaofNm7H11Wko) | [Frank LoCrasto](https://open.spotify.com/artist/0jDd0XW6WCERDtwSwMMZ0P) | [El Dorado](https://open.spotify.com/album/1Q5MO5zi2SYPGJytYeYJuA) | 0:53 | 2022-10-10 |  |
 | [Lake Feet](https://open.spotify.com/track/78SXVMQsm9nsg5wVKfwkGx) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Falling Through a Field](https://open.spotify.com/album/4czvTLsnYjZAWKREElSdYR) | 2:23 | 2021-07-14 |  |
+| [Libet's delay](https://open.spotify.com/track/28aLJ4z7C2oNKl6jvxYxXR) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [An empty bliss beyond this World](https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG) | 3:26 | 2024-07-09 |  |
 | [Limerence](https://open.spotify.com/track/7KWhn1J1ALqw2grLMgZoy7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/3fHY1FPrS7L6ecZtBcEaj0) | 5:29 | 2020-08-03 |  |
 | [Long Whale Song \(Slowed + Reverb\)](https://open.spotify.com/track/7aQXLjl1p05UxedDgjG18C) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Long Whale Song \(Remixes\)](https://open.spotify.com/album/0VSb6zkeNvuPRzglBPKYjW) | 3:19 | 2022-12-09 |  |
 | [luminescence](https://open.spotify.com/track/1yiFmkuahj5XE0YvaUKvfT) | [tr!stan.](https://open.spotify.com/artist/1n7M7f5XXezcHAsBtHgOPy) | [luminescence](https://open.spotify.com/album/1Ucys3VeAcqgJOSC2F6z2j) | 6:53 | 2021-11-11 |  |

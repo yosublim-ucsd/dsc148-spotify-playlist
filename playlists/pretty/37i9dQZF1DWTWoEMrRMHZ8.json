@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Samuel Rosa",
-  "num_followers": 345242,
+  "num_followers": 345270,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -339,30 +339,6 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
-        "name": "Ontem Eu Tinha Certeza (Hoje Eu Tenho Mais)",
-        "url": "https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        },
-        {
-          "name": "Arnaldo Antunes",
-          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
-        },
-        {
-          "name": "Paulo Leminski",
-          "url": "https://open.spotify.com/artist/1Z3rN8QQF96uFLjMj5NB6R"
-        }
-      ],
-      "duration_ms": 167671,
-      "name": "passeando no seu jeito",
-      "url": "https://open.spotify.com/track/0TIiAUocHUlmjQsHuq6HEh"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
         "name": "S\u00f3 Mais Um Pouquinho",
         "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
+        "name": "Ontem Eu Tinha Certeza (Hoje Eu Tenho Mais)",
+        "url": "https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        },
+        {
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+        },
+        {
+          "name": "Paulo Leminski",
+          "url": "https://open.spotify.com/artist/1Z3rN8QQF96uFLjMj5NB6R"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "passeando no seu jeito",
+      "url": "https://open.spotify.com/track/0TIiAUocHUlmjQsHuq6HEh"
     },
     {
       "added_at": "2024-07-08 17:34:14",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
+        "name": "Depois Da Meia Noite",
+        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Depois Da Meia Noite",
+      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
         "name": "Mundo Paralelo",
         "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
-        "name": "Depois Da Meia Noite",
-        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "Depois Da Meia Noite",
-      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
     },
     {
       "added_at": "2024-07-08 17:34:14",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
         "name": "MAL\u00cdCIA MINHA",
         "url": "https://open.spotify.com/album/6104qzApIuCjZsMAgOV3AS"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+        "name": "Qual \u00c9 a Sua?",
+        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
       },
       "artists": [
         {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
+      "duration_ms": 172623,
+      "name": "Qual \u00c9 a Sua?",
+      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
     },
     {
       "added_at": "2024-07-08 17:34:14",
@@ -963,18 +979,18 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
-        "name": "Qual \u00c9 a Sua?",
-        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
       },
       "artists": [
         {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 172623,
-      "name": "Qual \u00c9 a Sua?",
-      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2024-07-08 17:34:14",
@@ -1019,6 +1035,42 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
+        "name": "Casa de Boneca",
+        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
+      },
+      "artists": [
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Casa de Boneca",
+      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
+        "name": "PROIBIDO N\u00c3O GOSTAR",
+        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
+      },
+      "artists": [
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
         "name": "Apressa",
         "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
       },
@@ -1031,6 +1083,30 @@
       "duration_ms": 155100,
       "name": "Apressa",
       "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
+        "name": "Belezas Pra N\u00f3s",
+        "url": "https://open.spotify.com/album/7vtMqyV7ZlgTSinfCXCXiK"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "BLANCA",
+          "url": "https://open.spotify.com/artist/2rqLjH6PGo4Peg8KaXyOcx"
+        },
+        {
+          "name": "Rojobarcelo",
+          "url": "https://open.spotify.com/artist/2AOncPq9EXdS9Qjt51voNC"
+        }
+      ],
+      "duration_ms": 194193,
+      "name": "\u00c9 preciso navegar",
+      "url": "https://open.spotify.com/track/1DC9KIVXaSywq9qsCiKSkD"
     },
     {
       "added_at": "2024-07-08 17:34:14",
@@ -1051,22 +1127,6 @@
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2024-07-08 17:34:14",
@@ -1155,50 +1215,6 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
-        "name": "PROIBIDO N\u00c3O GOSTAR",
-        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
-      },
-      "artists": [
-        {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
-        "name": "Belezas Pra N\u00f3s",
-        "url": "https://open.spotify.com/album/7vtMqyV7ZlgTSinfCXCXiK"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
-          "name": "BLANCA",
-          "url": "https://open.spotify.com/artist/2rqLjH6PGo4Peg8KaXyOcx"
-        },
-        {
-          "name": "Rojobarcelo",
-          "url": "https://open.spotify.com/artist/2AOncPq9EXdS9Qjt51voNC"
-        }
-      ],
-      "duration_ms": 194193,
-      "name": "\u00c9 preciso navegar",
-      "url": "https://open.spotify.com/track/1DC9KIVXaSywq9qsCiKSkD"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
         "name": "Esque\u00e7a Tudo",
         "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 189206,
       "name": "Esque\u00e7a Tudo",
       "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
-        "name": "Casa de Boneca",
-        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
-      },
-      "artists": [
-        {
-          "name": "Nina Oliveira",
-          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Casa de Boneca",
-      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
     },
     {
       "added_at": "2024-07-08 17:34:14",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
+        "name": "Camangada",
+        "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
+      },
+      "artists": [
+        {
+          "name": "Marco Bosco",
+          "url": "https://open.spotify.com/artist/1NHVeuIJo4UwNIkerMOfUb"
+        },
+        {
+          "name": "Wilson Simoninha",
+          "url": "https://open.spotify.com/artist/2xhtX9ufvSwDbiH9VQ8pHr"
+        },
+        {
+          "name": "Luis Vagner",
+          "url": "https://open.spotify.com/artist/7yYHTVQiPAbf63Clu5tVmS"
+        }
+      ],
+      "duration_ms": 268322,
+      "name": "Camangada",
+      "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
         "name": "SEGUNDA OU TER\u00c7A",
         "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
       },
@@ -1339,30 +1363,6 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
-        "name": "Camangada",
-        "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
-      },
-      "artists": [
-        {
-          "name": "Marco Bosco",
-          "url": "https://open.spotify.com/artist/1NHVeuIJo4UwNIkerMOfUb"
-        },
-        {
-          "name": "Wilson Simoninha",
-          "url": "https://open.spotify.com/artist/2xhtX9ufvSwDbiH9VQ8pHr"
-        },
-        {
-          "name": "Luis Vagner",
-          "url": "https://open.spotify.com/artist/7yYHTVQiPAbf63Clu5tVmS"
-        }
-      ],
-      "duration_ms": 268322,
-      "name": "Camangada",
-      "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
         "name": "Caminho de Quem Passa",
         "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-07-08 17:34:14",
       "album": {
-        "name": "Ui Ui Ui...",
-        "url": "https://open.spotify.com/album/4OkUc3wDKEtb4kQCbQkspS"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 138473,
-      "name": "Ui Ui Ui...",
-      "url": "https://open.spotify.com/track/66OYEKjSmeVqSqqjjev1mS"
-    },
-    {
-      "added_at": "2024-07-08 17:34:14",
-      "album": {
         "name": "Capeta",
         "url": "https://open.spotify.com/album/50HzrLIj0SXxm2jkKQsSXg"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 252657,
       "name": "Capeta",
       "url": "https://open.spotify.com/track/7z3sKadtOn8qN2yUJ44a7c"
+    },
+    {
+      "added_at": "2024-07-08 17:34:14",
+      "album": {
+        "name": "Ui Ui Ui...",
+        "url": "https://open.spotify.com/album/4OkUc3wDKEtb4kQCbQkspS"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 138473,
+      "name": "Ui Ui Ui...",
+      "url": "https://open.spotify.com/track/66OYEKjSmeVqSqqjjev1mS"
     },
     {
       "added_at": "2024-07-08 17:34:14",

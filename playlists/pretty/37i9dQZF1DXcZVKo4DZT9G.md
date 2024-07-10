@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,917 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,945 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 15 | [希望山脈](https://open.spotify.com/track/4qznC3GkC2Tr1VBXKPg0lz) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [希望山脈](https://open.spotify.com/album/2oZzO3qIV95g6SHzOuFl5I) | 3:55 |
 | 16 | [OLA!!](https://open.spotify.com/track/5P9oB7xExAKtIlXd7eIfvF) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [ゆずイロハ1997\-2017](https://open.spotify.com/album/62RkaypIofhMaSsd96mWxR) | 3:25 |
 | 17 | [しんちゃん音頭～オラといっしょにおどろうよ！～](https://open.spotify.com/track/795IfuypNbgIGyiVLo3o62) | [Haruo Minami](https://open.spotify.com/artist/7sNPjkkxGTUvMWqrlgztni), [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [～歌芸の軌跡～ザッツ・エンターテインメント三波春夫ワールド全曲集](https://open.spotify.com/album/4OerlhTt40VYginvxSClDZ) | 3:58 |
-| 18 | [人気者で行こう!](https://open.spotify.com/track/4auG25VA18Aj5oFawzoek8) | [DJ OZMA](https://open.spotify.com/artist/20WW027E2lIhdDHif2m05y) | [人気者で行こう!](https://open.spotify.com/album/3zmks0kJsoElgRugdgeLK9) | 4:02 |
+| 18 | [人気者で行こう!](https://open.spotify.com/track/4auG25VA18Aj5oFawzoek8) | [DJ OZMA](https://open.spotify.com/artist/20WW027E2lIhdDHif2m05y) | [人気者で行こう！](https://open.spotify.com/album/3zmks0kJsoElgRugdgeLK9) | 4:02 |
 | 19 | [ファミリーパーティー](https://open.spotify.com/track/46YA8ucG0EPrW4B1GcKDPk) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [ファミリーパーティー](https://open.spotify.com/album/194wYyrbMPknsdCDs1aKcM) | 3:35 |
 | 20 | [夢のENDはいつも目覚まし!](https://open.spotify.com/track/5xtog12CYKqANej2qR16Zo) | [B.B.Kamattechan\(B.B.QUEENS+ShinseiKamattechan\)](https://open.spotify.com/artist/76aIAthpIxYVJ7a90q1mRt) | [夢のENDはいつも目覚まし!](https://open.spotify.com/album/7MVID6NT4fSGigsf9rW38J) | 3:26 |
 | 21 | [うたをうたおう](https://open.spotify.com/track/4HVzTENSxdLPwbvnX5acod) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/0ivMGCmbCGMG3WeDLjUayS) | 4:40 |

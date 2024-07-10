@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,769 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,764 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [Cuando Me Digas](https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:00 |
 | 100 | [Un Beso A Medias](https://open.spotify.com/track/4VAoK0jOH7uLShGgJhZ5RR) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:55 |
 | 101 | [Lo Primero Que Haría](https://open.spotify.com/track/1zJUUvR9eoqyrVGxhtu6uF) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:18 |
-| 102 | [Pude \- Live](https://open.spotify.com/track/3Yp7Rqe2sSNAjlWzRNNSMi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Pude \(Live\)](https://open.spotify.com/album/1mUqOexJKeMSeVjkJviwI8) | 3:01 |
-| 103 | [Aunque Mal Paguen Ellas \(with Roberto Carlos\) \- Remasterizado 2005](https://open.spotify.com/track/0k5Dw1ZT0rS8qw9e4laIlY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:32 |
+| 102 | [Aunque Mal Paguen Ellas \(with Roberto Carlos\) \- Remasterizado 2005](https://open.spotify.com/track/0k5Dw1ZT0rS8qw9e4laIlY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:32 |
+| 103 | [Pude \- Live](https://open.spotify.com/track/3Yp7Rqe2sSNAjlWzRNNSMi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Pude \(Live\)](https://open.spotify.com/album/1mUqOexJKeMSeVjkJviwI8) | 3:01 |
 | 104 | [Cómo Agradecer](https://open.spotify.com/track/6IvVhryOV4LBXGNnoq8dID) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:02 |
 | 105 | [Sombras \- Sombras Nada Más](https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mano a Mano \- Tangos a la Manera de Vicente Fernández](https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC) | 3:13 |
 | 106 | [Mata El Recuerdo](https://open.spotify.com/track/4gDTjvWcEVIJNrmutfpFTu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Otra Vez](https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF) | 3:05 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 124 | [Acuérdate de Mí](https://open.spotify.com/track/2npESL7BcrNIHzr5DvT9mV) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 2:40 |
 | 125 | [Poquita Fe](https://open.spotify.com/track/1mUfJqQfcRXprpM7YGRHVi) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 2:58 |
 | 126 | [Amor de Mi Alma](https://open.spotify.com/track/5EqCOJ1eCdTXU7S2ouz0dg) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 4:51 |
-| 127 | [No Me Platiques Más](https://open.spotify.com/track/7IOufzEeB4dQ65pWrueGPu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 2:58 |
-| 128 | [Está Llorándome el Alma](https://open.spotify.com/track/6ZkEBWnZ9fawaIHjm7YP3m) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:17 |
+| 127 | [Está Llorándome el Alma](https://open.spotify.com/track/6ZkEBWnZ9fawaIHjm7YP3m) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:17 |
+| 128 | [No Me Platiques Más](https://open.spotify.com/track/7IOufzEeB4dQ65pWrueGPu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 2:58 |
 | 129 | [Moreno](https://open.spotify.com/track/1vGRbBT2at9I46ok0RHMRh) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Mío](https://open.spotify.com/album/0w5ShYKbU9gB0w2d9cjLfm) | 3:17 |
 | 130 | [Amor Eterno](https://open.spotify.com/track/1Iw0F1mjaP8JL7hsMiB0X3) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Amor Eterno](https://open.spotify.com/album/0JlfAfg4FCFyoflmWUs4Fy) | 4:45 |
 | 131 | [Rayito de Sol](https://open.spotify.com/track/5ak9FetpKzmJYfYfNJiMpy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:25 |

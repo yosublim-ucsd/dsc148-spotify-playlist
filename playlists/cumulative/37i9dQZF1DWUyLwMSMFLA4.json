@@ -152,7 +152,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 195157,
       "name": "After Party",
       "url": "https://open.spotify.com/track/1VYIQWuAXMUGVJNfg7XxS5"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 193738,
       "name": "MI VIEJO",
       "url": "https://open.spotify.com/track/4sN0m8KGkPsyBEDhEE2oBm"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
@@ -3460,6 +3460,28 @@
       "duration_ms": 210236,
       "name": "Tu Marca",
       "url": "https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH"
+    },
+    {
+      "album": {
+        "name": "Cumbia Viva Session #11 La Nueva Luna",
+        "url": "https://open.spotify.com/album/6FAKYpIlP37m1b2Hhg8tey"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Viva",
+          "url": "https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100562,
+      "name": "Tu Presa",
+      "url": "https://open.spotify.com/track/6nSM3b2nA2fVc5bTZdin2I"
     },
     {
       "album": {

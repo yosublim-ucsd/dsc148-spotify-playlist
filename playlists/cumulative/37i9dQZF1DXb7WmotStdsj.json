@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Chwiya Wa9t W Nensak",
+        "url": "https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Asla",
+          "url": "https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337370,
+      "name": "Chwiya Wa9t W Nensak",
+      "url": "https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg"
+    },
+    {
+      "album": {
         "name": "Classico",
         "url": "https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V"
       },
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 480679,
       "name": "Jabetli Ljah",
       "url": "https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-10",
       "duration_ms": 274783,
       "name": "Nabghi Nhawas",
       "url": "https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi"
@@ -3104,6 +3122,24 @@
       "duration_ms": 253404,
       "name": "Tebghih wela zkara fiya",
       "url": "https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY"
+    },
+    {
+      "album": {
+        "name": "Thatmet 3lina",
+        "url": "https://open.spotify.com/album/2gqGTi8V7vHt3FhhYdXfHG"
+      },
+      "artists": [
+        {
+          "name": "Cheb Djamil",
+          "url": "https://open.spotify.com/artist/5JEwpuYUmupW0K3KctbGAm"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306048,
+      "name": "Thatmet 3lina",
+      "url": "https://open.spotify.com/track/2UhFmJuIumJYUebHMTrVMq"
     },
     {
       "album": {
