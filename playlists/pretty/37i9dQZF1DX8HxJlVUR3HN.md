@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,773 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,777 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 21 | [As a Brother](https://open.spotify.com/track/4StOaN23EXEUt2RaCK3xId) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Deep In Denial](https://open.spotify.com/album/6cysZ8y35sWkZSDZ3oS249) | 3:16 |
 | 22 | [Wake Up And Run](https://open.spotify.com/track/1EIafjiwfoNU83IiSGJgF2) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Wake Up And Run](https://open.spotify.com/album/6aqGXCLhXYxFsUpuXOw69T) | 3:28 |
 | 23 | [We Want Some Rock'n'Roll](https://open.spotify.com/track/6G6JwN19YV5NEeLovloTY5) | [The Red Goes Black](https://open.spotify.com/artist/12BYA91BSCxjbk1b638nlR) | [We Want Some Rock'n'Roll](https://open.spotify.com/album/6wh5q40X8vJvPRK7BkoS1I) | 3:25 |
-| 24 | [Muse In Motion](https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Muse In Motion](https://open.spotify.com/album/0PZezRgzVR3ihVpCVEQos8) | 2:30 |
+| 24 | [Muse In Motion](https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Muse In Motion](https://open.spotify.com/album/0PZezRgzVR3ihVpCVEQos8) | 2:29 |
 | 25 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 |
 | 26 | [Everybody Dies](https://open.spotify.com/track/7ca1yQEIH2MRkxy1QM0GiY) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Everybody Dies](https://open.spotify.com/album/7JVlIzxeoHtMy2LeSQMI9p) | 2:55 |
 | 27 | [Les Sirènes](https://open.spotify.com/track/2EPUVAWRKCCiNKOl3twUE6) | [JOUJOU](https://open.spotify.com/artist/573HQlBPoUNZ9HAxvtTRs8) | [Les Sirènes](https://open.spotify.com/album/6PqaTibhL2ppnczfldjYkT) | 2:45 |

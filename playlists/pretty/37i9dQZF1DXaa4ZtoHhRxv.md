@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,567 likes - 171 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,600 likes - 171 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

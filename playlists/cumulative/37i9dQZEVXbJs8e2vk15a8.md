@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,105 songs - 4 day 17 hr 28 min
+2,106 songs - 4 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,7 +1006,7 @@
 | [Lo Malo](https://open.spotify.com/track/5VrETFmY5dw5qNMYcwPNKo) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Lo Malo](https://open.spotify.com/album/1upYZZXv8Uhq7yz5LnTpwi) | 3:48 | 2023-05-29 | 2023-06-20 |
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-04-04 | 2023-04-13 |
 | [Lo Que Tiene](https://open.spotify.com/track/728kg1ila9Fhjv2amlyxut) | [MDLUXE](https://open.spotify.com/artist/2voI2aILML9xOO0eazobd9) | [Lo Que Tiene](https://open.spotify.com/album/1bDRGkwsccXIuVgFKda4LC) | 3:19 | 2023-08-20 | 2023-12-20 |
-| [Lo Que Tiene](https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Lo Que Tiene](https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4) | 4:19 | 2024-03-26 |  |
+| [Lo Que Tiene](https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Lo Que Tiene](https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4) | 4:19 | 2024-03-26 | 2024-07-11 |
 | [Lobster](https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Lobster](https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV) | 1:56 | 2024-06-29 |  |
 | [LOCA FARANDULERA](https://open.spotify.com/track/17SRuSYEW2fdGok0m0vAsO) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:35 | 2023-12-19 | 2024-01-03 |
 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 | 2022-06-28 | 2022-07-05 |
@@ -1336,6 +1336,7 @@
 | [Ojala](https://open.spotify.com/track/57L5Szgx4pDUITuGNsxtfl) | [Fondo Flamenco](https://open.spotify.com/artist/0YIhVMmaboWI25NVbZRkmo) | [Todo un Gran Éxito](https://open.spotify.com/album/7byG6jxxzEAE0Vtu0Tp9NI) | 3:56 | 2022-11-30 | 2022-12-06 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-29 | 2022-07-04 |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-11-17 | 2022-11-19 |
+| [Ojitos Bonitos](https://open.spotify.com/track/7iNlBNDt7Cvo787srEqhdy) | [Dimelo Fvcu](https://open.spotify.com/artist/0a2VPGQGgCHW8tmkwGzYNu), [El Estilo Real](https://open.spotify.com/artist/3H7rbDGavvc3wX94W3USXW), [YoAndre](https://open.spotify.com/artist/4lmsAIyKQzoOpf2UdQVQf5) | [Ojitos Bonitos](https://open.spotify.com/album/57UwhZtBdwfP9vo2FvTdgM) | 2:22 | 2024-07-10 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-31 | 2022-11-11 |
 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 | 2023-08-31 | 2023-09-06 |
 | [OJITOS ROJOS](https://open.spotify.com/track/2no3AeFeRxHhoY7lJ9X4bM) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:41 | 2023-08-15 | 2023-09-01 |

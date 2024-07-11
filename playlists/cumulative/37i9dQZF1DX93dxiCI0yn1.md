@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-283 songs - 13 hr 41 min
+285 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [PUT IT ON](https://open.spotify.com/track/4CcUieitEkKQN0emlLVK4m) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [PUT IT ON](https://open.spotify.com/album/4mmOZg3YoZi1VH05AdOjiK) | 2:44 | 2024-07-04 |  |
 | [QUEEN CODE](https://open.spotify.com/track/5V9THXM30aWKfndTwshW2b) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [QUEEN CODE](https://open.spotify.com/album/6P3dOXXpCI7LtZ76WWiv9f) | 2:42 | 2024-07-04 |  |
 | [Rainbow Flow](https://open.spotify.com/track/1kiEpkwXDluKRn0DlrR4El) | [Misaki Hinata](https://open.spotify.com/artist/1FFTz8GoGaLTkpmvQQnXkR), [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f) | [Rainbow Flow](https://open.spotify.com/album/6Aj7FrITDbEmiOa8Dfq8gq) | 2:56 | 2024-07-04 |  |
+| [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/62uaSv3EJe0PwHj3mtFFjS) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 | 2024-07-11 |  |
 | [RAPSTAR CYPHER](https://open.spotify.com/track/2uYBPbkYO86kVPtdUGqqn8) | [Neettokyo](https://open.spotify.com/artist/5oHZh96okQVzY07iEpOy3D), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Seann Bowe](https://open.spotify.com/artist/4hgt99SPkxLoBYMVHs88uz), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [RAPSTAR CYPHER](https://open.spotify.com/album/5uQsj9njGvtkg5gneND0fs) | 3:59 | 2023-10-24 | 2024-04-19 |
 | [RAPSTAR DIS](https://open.spotify.com/track/6v4QnRnMKcgDAOQZW71dqD) | [Tee Shyne](https://open.spotify.com/artist/6JoFDtRf2E5KztrcF2tTiZ) | [RAPSTAR DIS](https://open.spotify.com/album/26cIhrd6Ai6nVcRsUWchKE) | 2:04 | 2024-07-04 |  |
 | [REMEMBER](https://open.spotify.com/track/6BENxiVRwDYnr8KlX5w1bB) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/55eCIsQ6HPgugMaEmQbBbV) | 2:22 | 2023-10-24 | 2023-11-29 |
@@ -232,6 +233,7 @@
 | [So Fresh](https://open.spotify.com/track/5bpurN1SC6LsthENby0wFC) | [98jams](https://open.spotify.com/artist/5IvIPZASf5yXz0FwxRtQKx), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [TOME](https://open.spotify.com/artist/118eRdycS98oyMFEl5xvbo), [kiddy](https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR) | [98's UP](https://open.spotify.com/album/5o2iHN8DHsSLnyaP0HfC4w) | 3:39 | 2024-02-27 | 2024-07-04 |
 | [So Fresh](https://open.spotify.com/track/2VHuZSOXl4Jd7HNRNPqu2P) | [98jams](https://open.spotify.com/artist/5IvIPZASf5yXz0FwxRtQKx), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [TOME](https://open.spotify.com/artist/118eRdycS98oyMFEl5xvbo), [kiddy](https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR) | [So Fresh](https://open.spotify.com/album/4QZtoH7MQHwj9vIPWCT4ik) | 3:39 | 2023-10-24 | 2024-04-19 |
 | [STACK](https://open.spotify.com/track/2egH5pOM9QLeyi4iGlasXz) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [STACK](https://open.spotify.com/album/339NbGkQL7VCH5NXYRPo8D) | 2:49 | 2023-10-24 | 2024-01-31 |
+| [Sunny Day](https://open.spotify.com/track/50Gbse2cd1N5xF5MjLOJL2) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Sunny Day](https://open.spotify.com/album/3muT6VHrpJM16MqMc3yc97) | 3:00 | 2024-07-11 |  |
 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 | 2023-10-24 | 2023-11-29 |
 | [Switch](https://open.spotify.com/track/1H5HB6zixAwYrwsFQY6nSR) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Switch](https://open.spotify.com/album/5jhvT0fkJJA7KX8NXmKHF3) | 2:39 | 2023-10-24 | 2024-04-19 |
 | [Switch](https://open.spotify.com/track/44GCnqim3R4fHvp8O0mIk2) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Switch](https://open.spotify.com/album/1MIXIViDXVT357EFAyDVbR) | 2:39 | 2024-02-27 | 2024-07-04 |

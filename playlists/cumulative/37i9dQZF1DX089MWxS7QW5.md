@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jiselle\(지셀\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Gist\(지스트\)\)
 
-358 songs - 19 hr 49 min
+359 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-06-13 | 2022-10-05 |
 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 | 2023-10-05 | 2024-02-23 |
+| [Meet Again](https://open.spotify.com/track/1m7yg4UDxh2xco5eRq9UL5) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Meet Again](https://open.spotify.com/album/27lTlZeBbBoAZ83PtjxPUl) | 4:08 | 2024-07-10 |  |
 | [Moebius](https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS) | [En](https://open.spotify.com/artist/4sxk8eantzoB7SUyDlzydF) | [Moebius](https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ) | 3:40 | 2023-01-13 | 2023-07-08 |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2023-01-21 |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-06-01 | 2023-10-21 |
@@ -246,7 +247,7 @@
 | [Passion \(Feat\. PENOMECO\)](https://open.spotify.com/track/1w6ao8wqrRg5rOEKsZ3Qyy) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Too Passionate](https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU) | 2:55 | 2024-07-09 |  |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-10-27 | 2024-01-09 |
 | [Plus n Minus](https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Plus n Minus](https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc) | 2:36 | 2022-05-28 | 2022-07-28 |
-| [Power](https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Power](https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX) | 2:49 | 2024-03-19 |  |
+| [Power](https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Power](https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX) | 2:49 | 2024-03-19 | 2024-07-11 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-05-28 | 2022-07-28 |
 | [prod by Ra.D 5 \(Vocal\. Do yeon\)](https://open.spotify.com/track/3EVL3dbvpgMmHwgPJmCgkI) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S), [Do yeon](https://open.spotify.com/artist/3US4SsYFOQPaIdmwc3Rzxr) | [prod by Ra.D 5](https://open.spotify.com/album/08sxEQNkKHyLWbhjHGU5mb) | 2:27 | 2022-05-28 | 2022-07-28 |
 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 | 2023-12-18 | 2024-05-24 |

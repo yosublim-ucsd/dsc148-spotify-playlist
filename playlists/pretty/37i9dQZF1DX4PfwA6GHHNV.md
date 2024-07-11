@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,836 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,837 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 47 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [greg mc](https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 |
 | 48 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
 | 49 | [Proveito](https://open.spotify.com/track/2Q7d9bsJArH3ecLOBd6Axs) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/3AZhDI5vJnZtHvI3Z1cC0S) | 3:36 |
+| 50 | [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 |
 
 Snapshot ID: `Zodh7AAAAADeuaSU/qudT2QndtdkoIG1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Mc Luanna. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
   "name": "This Is Mc Luanna",
   "tracks": [
     {
@@ -72,6 +72,14 @@
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        },
+        {
+          "name": "Correia",
+          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
         }
       ],
       "date_added": "2024-07-08",

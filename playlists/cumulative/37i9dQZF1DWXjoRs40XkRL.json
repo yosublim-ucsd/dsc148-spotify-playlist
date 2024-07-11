@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Dekho Saiya",
+        "url": "https://open.spotify.com/album/0ELfqU60XiASZjmLEYKkCu"
+      },
+      "artists": [
+        {
+          "name": "Srabani Roy",
+          "url": "https://open.spotify.com/artist/0sy9FSD4cX5gZVj9ysrx9H"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285715,
+      "name": "Dekho Saiya",
+      "url": "https://open.spotify.com/track/66Mls8TEgZlsAQiEC4uRuP"
+    },
+    {
+      "album": {
         "name": "Delhi Drill",
         "url": "https://open.spotify.com/album/3V0FSvHmc5ObxF1ZodKwYW"
       },
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 164973,
       "name": "Manwa",
       "url": "https://open.spotify.com/track/0Qfl0FJrYkiFP2csaljFik"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
+  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
   "name": "This Is Lenny Kravitz",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 264560,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 280973,
       "name": "Believe In Me",
       "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
@@ -503,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Human (Paul Woolford Remix)",
+        "url": "https://open.spotify.com/album/6L9Z6gzQugGXIh8WdODMnI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "Human - Paul Woolford Edit",
+      "url": "https://open.spotify.com/track/0NdFZWmia7IfFMPI8ZYNAD"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR"
       },
@@ -576,7 +598,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 257733,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
@@ -594,7 +616,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 259186,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM"
@@ -666,7 +688,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
@@ -774,7 +796,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 255573,
       "name": "Lady",
       "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
@@ -900,7 +922,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 214653,
       "name": "Minister Of Rock 'N Roll",
       "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
@@ -1192,7 +1214,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 255693,
       "name": "Stillness Of Heart",
       "url": "https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92"
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 384133,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"

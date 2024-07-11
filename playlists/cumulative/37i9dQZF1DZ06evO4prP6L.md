@@ -2,7 +2,7 @@
 
 ### [This Is Lee Kernaghan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4prP6L)
 
-> This is Lee Kernaghan\. The essential tracks, all in one playlist.
+> This is Lee Kernaghan\. Track\-track unggulan, semuanya dalam satu playlist.
 
 59 songs - 3 hr 30 min
 

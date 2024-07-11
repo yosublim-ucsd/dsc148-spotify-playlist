@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Chappell Roan
 
-374 songs - 20 hr 6 min
+375 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-03-23 |
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 | 2023-09-23 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-08-22 | 2023-09-23 |
-| [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 | 2023-12-08 |  |
+| [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 | 2023-12-08 | 2024-07-11 |
 | [Sleep Well](https://open.spotify.com/track/5c0LlTO3yRYMkElrZCByjy) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW), [Kathy\-Chan](https://open.spotify.com/artist/5O1DnqyQw2ddzrd7ZTWdTA), [Cami\-Cat](https://open.spotify.com/artist/4KMvtIG6508uNPkPaqbVV3) | [Sleep Well](https://open.spotify.com/album/6POZaAyKpUNRelsnsQQRzN) | 3:27 | 2024-03-01 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/750GbARizeicwnH0gLznJs) | [Jeffrey Eli](https://open.spotify.com/artist/7y2o4IQi5QnL6PbsOYuNp5) | [Sleeping Beauty](https://open.spotify.com/album/4SpcLIdWePHUp62Lt4BJ5A) | 4:05 | 2023-05-26 | 2024-01-05 |
 | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 | 2023-04-28 | 2023-10-14 |
@@ -370,6 +370,7 @@
 | [walk away](https://open.spotify.com/track/4qPlGME9gibeMHrhLLq1KR) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [walk away](https://open.spotify.com/album/5IELJPwvxu1C13dnZUmlxf) | 2:08 | 2024-03-08 | 2024-04-27 |
 | [Waltz For Sweatpants](https://open.spotify.com/track/5NItQtFp7GdPaOG41vVXCk) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Waltz For Sweatpants](https://open.spotify.com/album/79BUAhiwMuRuyRouRwrZ36) | 3:15 | 2023-06-23 | 2023-08-23 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2023-12-29 |  |
+| [We Say Goodbye](https://open.spotify.com/track/5YhYzgnAgRj1sKXLqcaM6N) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [We Say Goodbye](https://open.spotify.com/album/7x1odOgxt7VRV2Tj4XQYU2) | 2:23 | 2024-07-10 |  |
 | [Wedding Day](https://open.spotify.com/track/0VdwQ8I71j9oEQEMftFjTC) | [Justin Nech](https://open.spotify.com/artist/6rbfAxYhRLdtLo3CzhTieA) | [Wedding Day](https://open.spotify.com/album/2OcYyisv1jKz7vjLuG42qS) | 2:45 | 2024-05-24 |  |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2022-05-17 | 2022-08-06 |
 | [what depression feels like](https://open.spotify.com/track/2nKxy7J1FyNAjkHtpJ7g3j) | [Ethan Jewell](https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD) | [what depression feels like](https://open.spotify.com/album/1gjAVS3FRPAckKGKprCRnb) | 3:15 | 2022-11-25 | 2022-12-03 |

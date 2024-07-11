@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 
 > Can't stop, won't stop! Cover: Ufo361
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,220 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,227 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 | 20 | [5AM IN PHILLY](https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [5AM IN PHILLY](https://open.spotify.com/album/7reihBEibaW7B0rhyjhgav) | 3:30 |
 | 21 | [PRETTY LIL SHAWTY](https://open.spotify.com/track/6Is9gynDxpWAxDwC1AokLy) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [PRETTY LIL SHAWTY](https://open.spotify.com/album/2gwcLxt9EWRoFltgOeK4m5) | 2:46 |
 | 22 | [Not So Bad \(Leans Gone Cold\)](https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:18 |
-| 23 | [Say Goodbye \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/track/0qZS991lZiFECP5iA9sOOp) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Say Goodbye \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/album/3ztd4CfwWREeO3uzK4WfBP) | 3:14 |
+| 23 | [SAY GOODBYE \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/track/0qZS991lZiFECP5iA9sOOp) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [SAY GOODBYE \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/album/3ztd4CfwWREeO3uzK4WfBP) | 3:14 |
 | 24 | [LOWLIFE](https://open.spotify.com/track/17OtbhQQ8Udj4NL57cv2mV) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [SIKI JACKSON](https://open.spotify.com/album/4lua2VQpqJYAKHK24oq6ou) | 2:50 |
 | 25 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
 | 26 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 |

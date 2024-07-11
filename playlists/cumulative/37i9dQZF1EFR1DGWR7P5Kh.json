@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Live from Lockdown",
+        "url": "https://open.spotify.com/album/0znMasMwrCk0drY9nK70XI"
+      },
+      "artists": [
+        {
+          "name": "Void Contact",
+          "url": "https://open.spotify.com/artist/5k2EFZH6G1mDTQA4l0Sn3m"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249335,
+      "name": "Uh Oh (Bonus Studio Track)",
+      "url": "https://open.spotify.com/track/0w5rxccF7Jksd3qRu8T986"
+    },
+    {
+      "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
       },

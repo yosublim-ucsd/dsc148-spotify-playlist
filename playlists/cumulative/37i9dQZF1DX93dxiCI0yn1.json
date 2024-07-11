@@ -4279,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
+      },
+      "artists": [
+        {
+          "name": "D3adStock",
+          "url": "https://open.spotify.com/artist/62uaSv3EJe0PwHj3mtFFjS"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110500,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
+    },
+    {
+      "album": {
         "name": "RAPSTAR CYPHER",
         "url": "https://open.spotify.com/album/5uQsj9njGvtkg5gneND0fs"
       },
@@ -4914,6 +4932,24 @@
       "duration_ms": 169130,
       "name": "STACK",
       "url": "https://open.spotify.com/track/2egH5pOM9QLeyi4iGlasXz"
+    },
+    {
+      "album": {
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/3muT6VHrpJM16MqMc3yc97"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/50Gbse2cd1N5xF5MjLOJL2"
     },
     {
       "album": {

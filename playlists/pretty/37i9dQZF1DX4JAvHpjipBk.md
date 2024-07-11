@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Zach Bryan, Eminem, Quavo & Lana Del Rey, beabadoobee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,196,469 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,196,672 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 38 | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 |
 | 39 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 40 | [HUMBLE ME](https://open.spotify.com/track/0cKykVvNFfHVyPzLdQI6xT) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [HUMBLE ME](https://open.spotify.com/album/6K0i2TgBy7x4agrBXIrnrF) | 2:56 |
-| 41 | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Laszewo](https://open.spotify.com/artist/7ytetffNf8Df0lYmPxi9R2), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 |
+| 41 | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 |
 | 42 | [Quezacotl](https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Quezacotl](https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z) | 7:15 |
 | 43 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
 | 44 | [Derecha la Flecha](https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Derecha la Flecha](https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp) | 3:20 |

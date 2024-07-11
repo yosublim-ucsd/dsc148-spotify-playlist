@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Stick It Out (Live)",
+        "url": "https://open.spotify.com/album/1elfukGNR4DbU7FH6j1G0D"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209111,
+      "name": "FBLA ll - Live 1994",
+      "url": "https://open.spotify.com/track/7jwzEuZnHmqevhirer3NEa"
+    },
+    {
+      "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
       },

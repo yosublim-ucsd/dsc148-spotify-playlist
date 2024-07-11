@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Atencion",
+        "url": "https://open.spotify.com/album/0RWyFNcy4B9Pk0iE5a8Rkp"
+      },
+      "artists": [
+        {
+          "name": "Bluemoney",
+          "url": "https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125785,
+      "name": "Atencion",
+      "url": "https://open.spotify.com/track/70CDZgZnJmCj1gLjFEO8Jh"
+    },
+    {
+      "album": {
         "name": "Ay Ay",
         "url": "https://open.spotify.com/album/0csMYbc5kKR52XNpZfwpAC"
       },
@@ -588,6 +606,28 @@
       "duration_ms": 143283,
       "name": "Ay Ay",
       "url": "https://open.spotify.com/track/1UjpGGoFYgrRZsbQFOVuJC"
+    },
+    {
+      "album": {
+        "name": "El Brujo",
+        "url": "https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103555,
+      "name": "Ay Bebe",
+      "url": "https://open.spotify.com/track/4Op5jmYTdAlj2vuU0UOtPY"
     },
     {
       "album": {
@@ -5918,7 +5958,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 315792,
       "name": "LA MANTECA DE CACAO",
       "url": "https://open.spotify.com/track/21kjuLXxQ846VphVdHBvkc"
@@ -6392,6 +6432,28 @@
       "duration_ms": 216816,
       "name": "Limonada Coco - Remix",
       "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
+    },
+    {
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/1MxZeAck2AaoywtDMHUyQ2"
+      },
+      "artists": [
+        {
+          "name": "Yaniduv",
+          "url": "https://open.spotify.com/artist/6emom1eFrk0MYc84EUMOJk"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133187,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/54mI91TL81XpdhKEwbLewR"
     },
     {
       "album": {
@@ -7766,7 +7828,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 132646,
       "name": "Mi Amiga",
       "url": "https://open.spotify.com/track/3H8i6J0BYVY8ev40BKAjSW"
@@ -8456,7 +8518,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 89508,
       "name": "Nitido",
       "url": "https://open.spotify.com/track/4P4sF8db2JuU3l32uMWDgu"
@@ -8912,7 +8974,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 119062,
       "name": "Pa Ella",
       "url": "https://open.spotify.com/track/5wzQbwmr3GYCr9q4ETPfUS"
@@ -9236,6 +9298,24 @@
       "duration_ms": 124750,
       "name": "PASATEte",
       "url": "https://open.spotify.com/track/4O5706ZvqEjbTHFAZ8serH"
+    },
+    {
+      "album": {
+        "name": "PCTM",
+        "url": "https://open.spotify.com/album/4JztLzi4jpZjgD5GGZ9LVL"
+      },
+      "artists": [
+        {
+          "name": "Aldo Arturo",
+          "url": "https://open.spotify.com/artist/6Yj5AeU4eMECxM4r64Ept7"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "PCTM",
+      "url": "https://open.spotify.com/track/2XpiZWNFWNTQVcb905O5v9"
     },
     {
       "album": {
@@ -10125,6 +10205,36 @@
     },
     {
       "album": {
+        "name": "PRENDE LA BOCINA (feat. BeatBoy)",
+        "url": "https://open.spotify.com/album/4TID8AMKXScQbE140lc45n"
+      },
+      "artists": [
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "PRENDE LA BOCINA (feat. BeatBoy)",
+      "url": "https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt"
+    },
+    {
+      "album": {
         "name": "I Love Urbano 2012 (Dembow, Mambo, Reggaeton, Merengue Urbano)",
         "url": "https://open.spotify.com/album/2Xq6X92g7TdyF8Yrw828DU"
       },
@@ -10395,6 +10505,24 @@
     },
     {
       "album": {
+        "name": "Que Chulo",
+        "url": "https://open.spotify.com/album/29JOEyiKh4hiDvjxrKNmgn"
+      },
+      "artists": [
+        {
+          "name": "El Chuky De Lewa",
+          "url": "https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115624,
+      "name": "Que Chulo",
+      "url": "https://open.spotify.com/track/1LjOKsO0gU9D5jG7446SMl"
+    },
+    {
+      "album": {
         "name": "Que La Choque (En Vivo)",
         "url": "https://open.spotify.com/album/01Jp01iSwEkw9ZHKHZfYb9"
       },
@@ -10616,6 +10744,28 @@
       "duration_ms": 223026,
       "name": "Que Se Mueran de Envidia - Remix",
       "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+    },
+    {
+      "album": {
+        "name": "El Brujo",
+        "url": "https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120005,
+      "name": "Que Se Tiren",
+      "url": "https://open.spotify.com/track/2grJzY4zMRu0Wc6mslhJT7"
     },
     {
       "album": {
@@ -11152,7 +11302,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 120000,
       "name": "Se Le Va Da",
       "url": "https://open.spotify.com/track/1CuFrbV890Dsql1SnqPHU3"
@@ -11622,7 +11772,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 153125,
       "name": "Sopiti",
       "url": "https://open.spotify.com/track/2Ew3NsOj0UYk0tE3tabiEV"
@@ -12263,6 +12413,28 @@
     },
     {
       "album": {
+        "name": "Taco",
+        "url": "https://open.spotify.com/album/48gbD1fvtMcpKdXGaReupf"
+      },
+      "artists": [
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135189,
+      "name": "Taco",
+      "url": "https://open.spotify.com/track/0QUmdWH0464iK0HAjrwgkp"
+    },
+    {
+      "album": {
         "name": "Tan Celoso",
         "url": "https://open.spotify.com/album/2ebOcHeplFwCEmJ6vfxJ6W"
       },
@@ -12630,7 +12802,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 150019,
       "name": "Te Gua Prende",
       "url": "https://open.spotify.com/track/2k2wuaEvfwAgohdiZ8BUmW"
@@ -12744,7 +12916,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 120000,
       "name": "Te Vi Y Te Vere",
       "url": "https://open.spotify.com/track/69nm07io31zZr9Q25t7x9H"

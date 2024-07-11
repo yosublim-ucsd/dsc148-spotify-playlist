@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Paul\u00e9. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Valentina. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -202,6 +202,24 @@
       "duration_ms": 203857,
       "name": "11:11",
       "url": "https://open.spotify.com/track/2yh6IJ6dr3PKR4llYUqZaF"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2NKp7UhS9ISPrOgfjzeQ0C"
+      },
+      "artists": [
+        {
+          "name": "Mars",
+          "url": "https://open.spotify.com/artist/04Fj33Aczepj0teU9zUfLc"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179190,
+      "name": "12",
+      "url": "https://open.spotify.com/track/2kmUdMIYnP3dplWE4ZWh4u"
     },
     {
       "album": {
@@ -1479,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Agua de Coco",
+        "url": "https://open.spotify.com/album/3gpwaCiUPs1QZArwF4rvLY"
+      },
+      "artists": [
+        {
+          "name": "Tina P\u00e1mpano",
+          "url": "https://open.spotify.com/artist/3JpVAGms96OlNuWPRfrI28"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Agua de Coco",
+      "url": "https://open.spotify.com/track/3OAXpX54ChTzTcgSkTBml1"
+    },
+    {
+      "album": {
         "name": "Agua Fresca",
         "url": "https://open.spotify.com/album/02ZSdkrAt06mk15Gbyk6h2"
       },
@@ -2274,7 +2310,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 227684,
       "name": "Alma y Olvido",
       "url": "https://open.spotify.com/track/6fi7HjoVZoE6153nw2KSrO"
@@ -3218,6 +3254,24 @@
       "duration_ms": 183657,
       "name": "Ansiedad y TV",
       "url": "https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e"
+    },
+    {
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/0MyYZB3PPuK2uJb6ipEAdP"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Iv\u00e1n",
+          "url": "https://open.spotify.com/artist/0FbElMinO7597uQdQNvIIR"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/7J4ao51oIsszm7VzUsK4WE"
     },
     {
       "album": {
@@ -7660,7 +7714,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 170500,
       "name": "Conocerte m\u00e1s",
       "url": "https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP"
@@ -8175,6 +8229,28 @@
     },
     {
       "album": {
+        "name": "costa de la luna",
+        "url": "https://open.spotify.com/album/3pLqclzpDxlqN2JjB4kzWE"
+      },
+      "artists": [
+        {
+          "name": "tetsuwoe",
+          "url": "https://open.spotify.com/artist/0VjvgsVXN2mrzNN0jIUD83"
+        },
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109014,
+      "name": "costa de la luna",
+      "url": "https://open.spotify.com/track/1gMzDCeJkYkxz0iosKmywv"
+    },
+    {
+      "album": {
         "name": "Cristales",
         "url": "https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC"
       },
@@ -8338,6 +8414,24 @@
       "duration_ms": 184433,
       "name": "CUAL ES TU DESEO?",
       "url": "https://open.spotify.com/track/3FuERQqngaDHFA1szzjs2i"
+    },
+    {
+      "album": {
+        "name": "Cuando Ando Pedo",
+        "url": "https://open.spotify.com/album/02WUJqvlhadILNt3fS0q0V"
+      },
+      "artists": [
+        {
+          "name": "El Colorado",
+          "url": "https://open.spotify.com/artist/6eqWqn0QAGLuktQBzgU20F"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161728,
+      "name": "Cuando Ando Pedo",
+      "url": "https://open.spotify.com/track/7d1IhDoPywsPdiNrMLW6es"
     },
     {
       "album": {
@@ -10072,7 +10166,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 123779,
       "name": "Desmaye",
       "url": "https://open.spotify.com/track/6yARlLUarjLMY0WHw8xiId"
@@ -13612,7 +13706,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 177828,
       "name": "Es una pena",
       "url": "https://open.spotify.com/track/4Ryztl0ef7GeUfcpzcSqla"
@@ -14432,7 +14526,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 147692,
       "name": "EXXXTRA\u00d1ANDOME",
       "url": "https://open.spotify.com/track/4wAGaaTBA1cAe9RuuzZDeK"
@@ -24994,7 +25088,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 267789,
       "name": "No Da Pa M\u00e1s",
       "url": "https://open.spotify.com/track/4tfX5x1u8fJDNvEGTIb2IL"
@@ -27705,6 +27799,24 @@
     },
     {
       "album": {
+        "name": "Sentir Que No Sabes",
+        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177771,
+      "name": "Pantalla azul",
+      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
+    },
+    {
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/5TxIlcSt6afM6IksGKs860"
       },
@@ -28822,7 +28934,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 220264,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/6b8WkVZEt2gu8We7ldSZUS"
@@ -29324,7 +29436,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 226658,
       "name": "Puede Doler",
       "url": "https://open.spotify.com/track/6LQCrgXrYfznxf1tTmPHbI"
@@ -31520,6 +31632,24 @@
       "duration_ms": 160816,
       "name": "SABI",
       "url": "https://open.spotify.com/track/30UQMD34yVMjJKnTS9QEjL"
+    },
+    {
+      "album": {
+        "name": "Sabor a Fresa",
+        "url": "https://open.spotify.com/album/4GqQBvFA4LHmXtECU2rZNK"
+      },
+      "artists": [
+        {
+          "name": "Mermelada de Pepino",
+          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189781,
+      "name": "Sabor a Fresa",
+      "url": "https://open.spotify.com/track/1m8PGcU3Wyoq53MmpRYIjX"
     },
     {
       "album": {
@@ -34780,6 +34910,24 @@
       "duration_ms": 186520,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W"
+    },
+    {
+      "album": {
+        "name": "TAYLOR",
+        "url": "https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222782,
+      "name": "TAYLOR",
+      "url": "https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4"
     },
     {
       "album": {

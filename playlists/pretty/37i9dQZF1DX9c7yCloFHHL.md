@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,996 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,053 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 50 | [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 |
 | 51 | [Circle 26 \- Tom Ashbrook Rework](https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Circle 26 \(Tom Ashbrook Rework\)](https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349) | 3:40 |
 | 52 | [All I Hear Is Birds \- Focus Rework](https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Matt Robertson](https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax) | [All I Hear Is Birds \(Focus Rework\)](https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ) | 4:08 |
-| 53 | [everybody's gone home \- slowed version](https://open.spotify.com/track/722gImw27YEj0Mda9wbabK) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt), [weareflorence](https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi) | [everybody's gone home \(slowed version\)](https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq) | 2:51 |
+| 53 | [everybody's gone home \- + slowed version](https://open.spotify.com/track/722gImw27YEj0Mda9wbabK) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt), [weareflorence](https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi) | [everybody's gone home \(+ slowed version\)](https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq) | 2:51 |
 | 54 | [As I Was \- Slow Meadow Rework](https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [As I Was \(Slow Meadow Rework\)](https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi) | 5:05 |
 | 55 | [Snowfall](https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [dj tapenostalgia](https://open.spotify.com/artist/0ZfpKzzejoyTvIhegXwrEq) | [Snowfall](https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy) | 2:18 |
 | 56 | [I Remember You Being Happy](https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [I Remember You Being Happy](https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS) | 3:28 |

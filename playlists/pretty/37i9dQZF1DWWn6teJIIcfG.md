@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these classical and instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,665 likes - 120 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,741 likes - 120 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

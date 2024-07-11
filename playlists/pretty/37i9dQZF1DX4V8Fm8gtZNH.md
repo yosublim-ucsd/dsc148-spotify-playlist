@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,485 likes - 319 songs - 18 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,507 likes - 319 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 77 | [Reign](https://open.spotify.com/track/3nesHwazD9HBvqr3G8VMIx) | [Arrow Benjamin](https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj), [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0) | [Reign](https://open.spotify.com/album/65NH1ygu522yaz1bncYq8s) | 3:12 |
 | 78 | [I'm Going In](https://open.spotify.com/track/4oPMOQQ8LZoXOZY8nGwxuA) | [Dot Marv](https://open.spotify.com/artist/0vPWyPwfdWmbQqp8JJGRA8) | [I'm Going In](https://open.spotify.com/album/5Zi8Bgvj15VXqnthpopwCG) | 2:43 |
 | 79 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
-| 80 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
+| 80 | [Dancin' In The Moonlight](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
 | 81 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 82 | [Memoirs Of The Realist](https://open.spotify.com/track/6W59dfaZYoGMtfhbgtdkaW) | [Love Pulse Music](https://open.spotify.com/artist/7fC7wiRwJKnHzM5J5xC1F4), [Z\. Rich](https://open.spotify.com/artist/5OTBCTqjCzTVlc5UJO7K8Z) | [Infinite Cue Vol\. 1](https://open.spotify.com/album/4iiDcxVsYAFYNxka5sfJvu) | 3:02 |
 | 83 | [Tunnel Vision](https://open.spotify.com/track/4F66QDs0ujbJLhphEatn9n) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Tunnel Vision](https://open.spotify.com/album/6rZnPmKnVp6BpkDyKNOdlB) | 3:53 |

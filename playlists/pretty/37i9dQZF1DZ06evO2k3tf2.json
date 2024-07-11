@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1355584,
+  "num_followers": 1355857,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAA05xNer7+vrvn/AJ/iNJi4",
+  "snapshot_id": "Zox9gAAAAACq/6LtViYtPfYZvJtVLe7e",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Craving",
         "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 324466,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 163880,
       "name": "House of Gold",
       "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 175044,
-      "name": "Shy Away",
-      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Jumpsuit",
-      "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
+      "duration_ms": 216758,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cancer",
-        "url": "https://open.spotify.com/album/22uQ3YSLjQJPNPkZQzdX2y"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 236826,
-      "name": "Cancer",
-      "url": "https://open.spotify.com/track/19W5OTEcQI3ZoRW1HERMyy"
+      "duration_ms": 330986,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+        "name": "Cancer",
+        "url": "https://open.spotify.com/album/22uQ3YSLjQJPNPkZQzdX2y"
       },
       "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
         {
           "name": "Twenty One Pilots",
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
-      "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
+      "duration_ms": 236826,
+      "name": "Cancer",
+      "url": "https://open.spotify.com/track/19W5OTEcQI3ZoRW1HERMyy"
     },
     {
       "added_at": null,
@@ -603,6 +599,26 @@
       "duration_ms": 176324,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/2jfyY5GIc7wsYVIrCnjblC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
+      "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
     },
     {
       "added_at": null,

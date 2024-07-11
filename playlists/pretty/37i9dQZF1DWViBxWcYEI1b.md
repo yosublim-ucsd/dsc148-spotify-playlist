@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,647 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,660 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Really Mean It](https://open.spotify.com/track/4vhC4RETf50LkuIAHMqb1f) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/4N4e8nrMt10llVtkUwPKrz) | 3:14 |
 | 100 | [History Of Man](https://open.spotify.com/track/7ijN634pExtKjNIm7vvvAa) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:28 |
 
-Snapshot ID: `ZodvwAAAAABDmipm3TMk9QBq0iY1rK0R`
+Snapshot ID: `Zo7UPAAAAACjSGPxqBpo+FsVkUWJZQQy`

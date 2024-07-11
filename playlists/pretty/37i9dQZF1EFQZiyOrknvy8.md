@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 6 | [Like I Love You](https://open.spotify.com/track/7hr6WRm7HUlVdkfnhSTm0G) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:23 |
 | 7 | [Dye My Hair](https://open.spotify.com/track/6iOeQNXb0fFP3TDCzVPts8) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:27 |
 | 8 | [An Wunder](https://open.spotify.com/track/1I2ziAYoM5rEh5uWBp76Tx) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:20 |
-| 9 | [Drei Uhr Nachts](https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [MUSKETIERE](https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE) | 2:40 |
-| 10 | [Kampfgeist 4](https://open.spotify.com/track/0zMeFmqknbN5k9UKxPMfcX) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Sie wollten Wasser doch kriegen Benzin](https://open.spotify.com/album/4m9FP8NlqLQfEEwtRIRP5x) | 2:56 |
+| 9 | [Kampfgeist 4](https://open.spotify.com/track/0zMeFmqknbN5k9UKxPMfcX) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Sie wollten Wasser doch kriegen Benzin](https://open.spotify.com/album/4m9FP8NlqLQfEEwtRIRP5x) | 2:56 |
+| 10 | [Drei Uhr Nachts](https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [MUSKETIERE](https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE) | 2:40 |
 | 11 | [Oder nicht](https://open.spotify.com/track/4H8pHXruPJCSLubZpYZ1fH) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Erde & Knochen](https://open.spotify.com/album/47tOfXJ9EW6pO26FKzFBn7) | 3:31 |
 | 12 | [Someone Else](https://open.spotify.com/track/6kvW6EI5UuqCmlp7L7HD9O) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someone Else](https://open.spotify.com/album/5HbBzk9KEgIAi2mWj4ubCh) | 2:53 |
 | 13 | [Diamanten](https://open.spotify.com/track/1xujyYqyEUc8VyCFXgqkHH) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:27 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 139 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbWQ/gAAAACMBrveETiLyp6qHJs2in9A`
+Snapshot ID: `AbWWYgAAAACDK5KM7RKDAXhU+dlh8Jrc`

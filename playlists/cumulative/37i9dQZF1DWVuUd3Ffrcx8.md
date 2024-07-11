@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Quavo, Lana Del Rey\)
 
-108 songs - 6 hr 8 min
+109 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Imaginary](https://open.spotify.com/track/7J0uovBm6eDVBQL1ZaXOJ6) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Imaginary](https://open.spotify.com/album/452lfMnD6UpKUA7cCk7ghW) | 3:20 | 2024-06-28 | 2024-07-05 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-06-28 |  |
 | [In Your Eyes](https://open.spotify.com/track/753k35scIN26Z2CL5GAiIO) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Raffi Ahmad](https://open.spotify.com/artist/6wAvcdXDGk4A6MRbdpGun4), [Nagita Slavina](https://open.spotify.com/artist/63PbdDwARA6MC2VixhGkD0) | [In Your Eyes](https://open.spotify.com/album/3wJMOVGFaailfm6uq3ttXJ) | 2:18 | 2024-06-28 |  |
+| [Kuwazugirai](https://open.spotify.com/track/5E4MIKnuxoSQMi9rjAKAD5) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Kuwazugirai](https://open.spotify.com/album/0vRWPWJeqI7lloHnzPbfXd) | 3:24 | 2024-07-10 |  |
 | [Life Goes On](https://open.spotify.com/track/4Id1V7jy2XXmCYWIflaq8Z) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Life Goes On](https://open.spotify.com/album/6UMgTaIuqcZh5GXW7zbX6s) | 2:56 | 2024-06-28 |  |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-04 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 |  |

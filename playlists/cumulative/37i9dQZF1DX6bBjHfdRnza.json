@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Lumia. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: bad tuner. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 186662,
       "name": "All About U",
       "url": "https://open.spotify.com/track/6fb4twyNs3gQ0nDnkuRBwH"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 170264,
       "name": "Back",
       "url": "https://open.spotify.com/track/7LlwG3CbBVsSRUkQ3VP1fc"
@@ -5434,7 +5434,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 132024,
       "name": "Buon Giorno",
       "url": "https://open.spotify.com/track/7MR69VEiaimYkAIq9A94QQ"
@@ -10012,6 +10012,24 @@
       "duration_ms": 187294,
       "name": "Dodgeball",
       "url": "https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm"
+    },
+    {
+      "album": {
+        "name": "Does It Even",
+        "url": "https://open.spotify.com/album/5nzHJJutjwPOKVYZFVDDUv"
+      },
+      "artists": [
+        {
+          "name": "Liv Dawson",
+          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195469,
+      "name": "Does It Even",
+      "url": "https://open.spotify.com/track/7FR2q7Ig8Avnc0XdYF17vD"
     },
     {
       "album": {
@@ -15363,6 +15381,24 @@
     },
     {
       "album": {
+        "name": "give me a reason",
+        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159327,
+      "name": "give me a reason",
+      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
+    },
+    {
+      "album": {
         "name": "Give Me Your Love (Baby)",
         "url": "https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U"
       },
@@ -15888,6 +15924,28 @@
       "duration_ms": 218880,
       "name": "Grab the Mic",
       "url": "https://open.spotify.com/track/1uL2DAiKOHAwGeLO6z9urE"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/45i6YYGCB0nGAbv34dAueV"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "KATYA",
+          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153213,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/47CYEfRZNEHq9UXALEP7Z4"
     },
     {
       "album": {
@@ -20894,7 +20952,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 195267,
       "name": "l'amour",
       "url": "https://open.spotify.com/track/1c00KtmSs2QXRtG5wfZX34"
@@ -21064,6 +21122,28 @@
       "duration_ms": 392903,
       "name": "Late Night Shake",
       "url": "https://open.spotify.com/track/0QVBtujEPTPobg4VtEwnO7"
+    },
+    {
+      "album": {
+        "name": "Latinas",
+        "url": "https://open.spotify.com/album/0F7c9mmhmFlXLWmavGnFOT"
+      },
+      "artists": [
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146507,
+      "name": "Latinas",
+      "url": "https://open.spotify.com/track/7wWhS49wnWFdFqVQRBBXvu"
     },
     {
       "album": {
@@ -25222,7 +25302,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 230487,
       "name": "My Trust, My Love",
       "url": "https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL"
@@ -25734,7 +25814,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 204255,
       "name": "New World Expression",
       "url": "https://open.spotify.com/track/6h426eeQUnhLOKJbAdCEnX"
@@ -28281,6 +28361,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/5V8g8h721FP2YyisESZyVL"
+      },
+      "artists": [
+        {
+          "name": "Kara Okay",
+          "url": "https://open.spotify.com/artist/6KyV1kU48HwGZpcQYy9cpR"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321103,
+      "name": "Passion Through My Mind",
+      "url": "https://open.spotify.com/track/5hdENNfodo1kDj62oIcISk"
+    },
+    {
+      "album": {
         "name": "Past Time",
         "url": "https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9"
       },
@@ -29418,6 +29516,24 @@
       "duration_ms": 244761,
       "name": "Prismatic",
       "url": "https://open.spotify.com/track/2rg5tXAdAKWHLycDsVkDE9"
+    },
+    {
+      "album": {
+        "name": "Last Calls EP",
+        "url": "https://open.spotify.com/album/6H26WrYkK7bUlXMt8FUKnT"
+      },
+      "artists": [
+        {
+          "name": "Bassi",
+          "url": "https://open.spotify.com/artist/198mTD8J1qhjXSGWzsLOQ2"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349327,
+      "name": "Problems on the Phone",
+      "url": "https://open.spotify.com/track/2SBzoGAlPUZjUzR4WW5ZXg"
     },
     {
       "album": {
@@ -37928,7 +38044,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 222148,
       "name": "time's up",
       "url": "https://open.spotify.com/track/5afsRzVgGVSj4otcEXIgom"
@@ -38960,6 +39076,28 @@
       "duration_ms": 212750,
       "name": "U Need Me",
       "url": "https://open.spotify.com/track/6SzGIfq5jwOkJHIyv4hw3a"
+    },
+    {
+      "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
     },
     {
       "album": {

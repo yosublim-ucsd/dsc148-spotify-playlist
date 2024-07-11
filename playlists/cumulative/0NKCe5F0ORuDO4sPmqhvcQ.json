@@ -3281,6 +3281,28 @@
     },
     {
       "album": {
+        "name": "Easy For Me (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201444,
+      "name": "Easy For Me - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
+    },
+    {
+      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
       },

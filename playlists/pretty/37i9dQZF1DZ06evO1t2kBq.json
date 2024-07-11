@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 77124,
+  "num_followers": 77134,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAA2q0tnDX7byXzhu9e9TwBN",
+  "snapshot_id": "Zox9gAAAAABVcyGACfETNUg6zFn6/tlE",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Los Angeles Is Burning",
-      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gray Race",
         "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 147173,
       "name": "Punk Rock Song",
       "url": "https://open.spotify.com/track/5ACDC1gxAUXYDWherVKOiX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Los Angeles Is Burning",
+      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+        "name": "New Maps of Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 95466,
-      "name": "Social Suicide",
-      "url": "https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO"
+      "duration_ms": 167946,
+      "name": "New Dark Ages",
+      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Maps of Hell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 167946,
-      "name": "New Dark Ages",
-      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
+      "duration_ms": 95466,
+      "name": "Social Suicide",
+      "url": "https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 113598,
-      "name": "Sinister Rouge",
-      "url": "https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Generator",
         "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 202066,
       "name": "Generator",
       "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 113598,
+      "name": "Sinister Rouge",
+      "url": "https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
-        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 132866,
-      "name": "We're Only Gonna Die",
-      "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recipe For Hate",
         "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 122813,
       "name": "Recipe For Hate",
       "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 132866,
+      "name": "We're Only Gonna Die",
+      "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 117652,
-      "name": "Atheist Peace",
-      "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
+      "duration_ms": 106586,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Process Of Belief",
-        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 106586,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 122367,
-      "name": "Give You Nothing",
-      "url": "https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce"
+      "duration_ms": 117652,
+      "name": "Atheist Peace",
+      "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 55306,
       "name": "Change Of Ideas",
       "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 122367,
+      "name": "Give You Nothing",
+      "url": "https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
-  "description": "This is Alexisonfire. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
-  "num_followers": 21673,
+  "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
+  "num_followers": 21685,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAC7d1PErILnVn8U2T0zCv5h",
+  "snapshot_id": "Zox9gAAAAAB9Kcwoq8e3I/u6Pw+0wwK8",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Girls Pointing and Laughing (Live)",
-        "url": "https://open.spotify.com/album/7Iy9LMILoGIaZLknGwZTac"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 293958,
-      "name": "Little Girls Pointing and Laughing - Live",
-      "url": "https://open.spotify.com/track/0UL9ahJncduDBElTmZJQ2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Familiar Drugs",
         "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 258718,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Girls Pointing and Laughing (Live)",
+        "url": "https://open.spotify.com/album/7Iy9LMILoGIaZLknGwZTac"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 293958,
+      "name": "Little Girls Pointing and Laughing - Live",
+      "url": "https://open.spotify.com/track/0UL9ahJncduDBElTmZJQ2Q"
     },
     {
       "added_at": null,

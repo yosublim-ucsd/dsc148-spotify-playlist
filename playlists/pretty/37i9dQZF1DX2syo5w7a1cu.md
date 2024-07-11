@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s\. Cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,633 likes - 150 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,400 likes - 150 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

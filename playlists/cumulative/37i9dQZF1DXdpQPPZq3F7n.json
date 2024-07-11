@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Let these songs be the background score to your love story. Cover - Teri Baaton Mein Aisa Uljha Jiya",
+  "description": "Let these songs be the background score to your love story. Cover - Mr. & Mrs. Mahi",
   "name": "Bollywood Mush",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 371790,
       "name": "Bekhayali",
       "url": "https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM"
@@ -4786,6 +4786,32 @@
       "duration_ms": 333922,
       "name": "Tu Hai Ki Nahi",
       "url": "https://open.spotify.com/track/4brSaQIT3bnnE41D042fgL"
+    },
+    {
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283539,
+      "name": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
     },
     {
       "album": {

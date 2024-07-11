@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Lunay. The essential tracks, all in one playlist.",
+  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
   "name": "This Is Lunay",
   "tracks": [
     {
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 220465,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 194453,
       "name": "Top Gone (with Lunay)",
       "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"

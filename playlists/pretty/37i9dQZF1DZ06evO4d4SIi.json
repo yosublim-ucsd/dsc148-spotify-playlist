@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 34660,
+  "num_followers": 34705,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAABwbB/w8ZjcK5R5sIDsZo5P",
+  "snapshot_id": "Zox9gAAAAACl98HKVA3ZaKDw2y65DzDM",
   "tracks": [
     {
       "added_at": null,
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+      "duration_ms": 175226,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Damn Good Time",
-      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Part Of It",
-      "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
+      "duration_ms": 161066,
+      "name": "Damn Good Time",
+      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 165146,
-      "name": "Whiskey Weak",
-      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
+      "duration_ms": 188266,
+      "name": "Part Of It",
+      "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
     },
     {
       "added_at": null,
@@ -340,9 +340,25 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 169346,
-      "name": "Short Fuse",
-      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+      "duration_ms": 165146,
+      "name": "Whiskey Weak",
+      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 161553,
+      "name": "Ruin My Weekend",
+      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
       "duration_ms": 196733,
       "name": "Country Gold",
       "url": "https://open.spotify.com/track/6xevQf91nZicZCkdUVObU7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Detours",
-        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 211229,
-      "name": "Detours",
-      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
     },
     {
       "added_at": null,
@@ -408,9 +408,25 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 174066,
-      "name": "You've Got My Number",
-      "url": "https://open.spotify.com/track/4vFhJzZUikY09Jl2YVCa2n"
+      "duration_ms": 169346,
+      "name": "Short Fuse",
+      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Detours",
+        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 211229,
+      "name": "Detours",
+      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
       "duration_ms": 213689,
       "name": "Going 'Round",
       "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Church In A Chevy",
-      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 187913,
-      "name": "So Do I",
-      "url": "https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dream: Living The Dream (Deluxe)",
         "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 207804,
       "name": "The Ride (feat. Jordan Davis)",
       "url": "https://open.spotify.com/track/3YT4ivJlZm1imbjAPKpuEj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 187913,
+      "name": "So Do I",
+      "url": "https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj"
     },
     {
       "added_at": null,

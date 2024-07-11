@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 197896,
+  "num_followers": 197952,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAADdLvgUItSaseXkQe+CPREf",
+  "snapshot_id": "Zox9gAAAAAAUOqcjqv1BrNMGxApWQp2R",
   "tracks": [
     {
       "added_at": null,
@@ -1083,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Sintoniza",
-      "url": "https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 199951,
       "name": "AT\u00cdPICO",
       "url": "https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Sintoniza",
+      "url": "https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv"
     },
     {
       "added_at": null,
@@ -1167,26 +1167,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Cara Do Momento, Vol. 2",
-        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
+        "name": "Olho de Tigre",
+        "url": "https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq"
       },
       "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "DJ Costela",
-          "url": "https://open.spotify.com/artist/45YHWNn0knoX6a04C3PP7s"
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 196363,
-      "name": "S\u00f3 Quero Saber",
-      "url": "https://open.spotify.com/track/759JQKhbfrQjs9wNcmyAfl"
+      "duration_ms": 238080,
+      "name": "Olho de Tigre",
+      "url": "https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN"
     },
     {
       "added_at": null,
@@ -1219,22 +1223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olho de Tigre",
-        "url": "https://open.spotify.com/album/6zWDuyJyUDvT8vVJWNzUzT"
+        "name": "O Cara Do Momento, Vol. 2",
+        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
       "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "DJ Costela",
+          "url": "https://open.spotify.com/artist/45YHWNn0knoX6a04C3PP7s"
         }
       ],
-      "duration_ms": 238080,
-      "name": "Olho de Tigre",
-      "url": "https://open.spotify.com/track/2GKpQ6rstJxrJTOHOTrBq8"
+      "duration_ms": 196363,
+      "name": "S\u00f3 Quero Saber",
+      "url": "https://open.spotify.com/track/759JQKhbfrQjs9wNcmyAfl"
     },
     {
       "added_at": null,

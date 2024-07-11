@@ -1,29 +1,13 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Allegra Krieger",
-  "num_followers": 73028,
+  "num_followers": 73237,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZogmEwAAAABFPYjVW9v5yDAhbfSRYbb8",
+  "snapshot_id": "Zo4HQAAAAAB7FXFwVV5hKozNx8ndOiLN",
   "tracks": [
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Never Arriving",
-        "url": "https://open.spotify.com/album/6V2hebqLjjuC88E4o7Zzef"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 131003,
-      "name": "Never Arriving",
-      "url": "https://open.spotify.com/track/0lxJSpSLiynTr9TvZrsfEj"
-    },
     {
       "added_at": "2024-07-03 14:20:32",
       "album": {
@@ -41,6 +25,38 @@
       "url": "https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6"
     },
     {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/01QnhdhVE2rLBjiVahcPYo"
+      },
+      "artists": [
+        {
+          "name": "Boxtrod",
+          "url": "https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx"
+        }
+      ],
+      "duration_ms": 172217,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2bDwawwkbYx0C12feCFaoW"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Never Arriving",
+        "url": "https://open.spotify.com/album/6V2hebqLjjuC88E4o7Zzef"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 131003,
+      "name": "Never Arriving",
+      "url": "https://open.spotify.com/track/0lxJSpSLiynTr9TvZrsfEj"
+    },
+    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "What Nightmares Are Made Of",
@@ -55,6 +71,202 @@
       "duration_ms": 224346,
       "name": "What Nightmares Are Made Of",
       "url": "https://open.spotify.com/track/5PuWGjgbFfaxhMLiwmSzHV"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/7imiiEYZmcrbNMpSFq9JlN"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 176712,
+      "name": "Weeping Willow",
+      "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Firing Sideways",
+        "url": "https://open.spotify.com/album/2CM8zN3hwM0olf8NwNs5ga"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "duration_ms": 226849,
+      "name": "Firing Sideways",
+      "url": "https://open.spotify.com/track/1twpf8UNkH362vXO63l28C"
+    },
+    {
+      "added_at": "2024-06-12 16:16:43",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 210658,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Thank God I Have The Songs",
+        "url": "https://open.spotify.com/album/1CcAwFXhxlJShfRpLJEZsR"
+      },
+      "artists": [
+        {
+          "name": "Fritillaries",
+          "url": "https://open.spotify.com/artist/7hKRzvFr1F5n3811llcUi1"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "i. Thank God I Have The Songs",
+      "url": "https://open.spotify.com/track/0FHfrdZDVeK9P9xIsv6351"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6QlZ37ICuA48fIBjUq9J4l"
+      },
+      "artists": [
+        {
+          "name": "Emory Duncan",
+          "url": "https://open.spotify.com/artist/1dCRBgIMLRGUkAxZBfCeQ6"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/5gz0ZEFQcUq8m5Q1clxpp4"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "pretty out",
+        "url": "https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG"
+      },
+      "artists": [
+        {
+          "name": "frans asthma",
+          "url": "https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL"
+        },
+        {
+          "name": "Qozy",
+          "url": "https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "pretty out",
+      "url": "https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "That Meant The World To Me",
+        "url": "https://open.spotify.com/album/5DKGiXLZkDkjNaCyrgEFEa"
+      },
+      "artists": [
+        {
+          "name": "Jacob Diamond",
+          "url": "https://open.spotify.com/artist/6csSVLlRGHctgOJf3PpJa2"
+        }
+      ],
+      "duration_ms": 218735,
+      "name": "That Meant The World To Me",
+      "url": "https://open.spotify.com/track/5U2VSYXL2yd9V1Tk8e9IKI"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 283688,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Caramel Midnight",
+        "url": "https://open.spotify.com/album/2kPW8r11vQnVhKUHRUOZyv"
+      },
+      "artists": [
+        {
+          "name": "Jay Ssandri",
+          "url": "https://open.spotify.com/artist/3ATGOsGWIxQIQUwW9XMhsw"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Caramel Midnight",
+      "url": "https://open.spotify.com/track/214abfsbFiou2EuvMSxEIO"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Like a Painting",
+        "url": "https://open.spotify.com/album/5fIUhByL4CWfLwzn8ZOfl3"
+      },
+      "artists": [
+        {
+          "name": "Anna McClellan",
+          "url": "https://open.spotify.com/artist/2Y8G3abt5hRU7X9RNi7dlZ"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Like a Painting",
+      "url": "https://open.spotify.com/track/1jIvP9lBdQK25Xqr9lkw2K"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "nevermind",
+        "url": "https://open.spotify.com/album/4ukiTfQoW4ghQAOih5b4QE"
+      },
+      "artists": [
+        {
+          "name": "Maisyn",
+          "url": "https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d"
+        }
+      ],
+      "duration_ms": 200654,
+      "name": "nevermind",
+      "url": "https://open.spotify.com/track/7dqcNwj8ZUkkUMgllYB0US"
+    },
+    {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Halfway to the Sun",
+        "url": "https://open.spotify.com/album/0GfZCeDWZCpyqKBGqqAZhc"
+      },
+      "artists": [
+        {
+          "name": "Isla Mae",
+          "url": "https://open.spotify.com/artist/1Xnu2OZGZhPWMzUHmbwbiP"
+        }
+      ],
+      "duration_ms": 233197,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/7DNiQFrYEPSHOzENYGJS7u"
     },
     {
       "added_at": "2024-06-19 16:02:06",
@@ -105,6 +317,22 @@
       "url": "https://open.spotify.com/track/0oBd3Cqiq5noxJSDZgUVaU"
     },
     {
+      "added_at": "2024-07-10 04:00:00",
+      "album": {
+        "name": "Lovely Distraction",
+        "url": "https://open.spotify.com/album/3P0oYZIzVIAZwvi47iaGd6"
+      },
+      "artists": [
+        {
+          "name": "The Wanted Gems",
+          "url": "https://open.spotify.com/artist/1pdFuC5yWMWCsAj6kIHMIM"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "Lovely Distraction",
+      "url": "https://open.spotify.com/track/76kfF8hFWKJeyoccsAuOHU"
+    },
+    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "spoiling me",
@@ -119,22 +347,6 @@
       "duration_ms": 184202,
       "name": "spoiling me",
       "url": "https://open.spotify.com/track/1SjYeT1ntGnK0yWp9rMGpR"
-    },
-    {
-      "added_at": "2024-06-12 16:16:43",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 210658,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -167,22 +379,6 @@
       "duration_ms": 238104,
       "name": "Wild Orchids",
       "url": "https://open.spotify.com/track/7M8laBhOwKrpbC2OdYBtlf"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 283688,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
     },
     {
       "added_at": "2024-06-26 22:07:48",
@@ -1425,70 +1621,6 @@
       "url": "https://open.spotify.com/track/4eI99hJrQpIJasCMRk75VT"
     },
     {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Yellow Roses",
-        "url": "https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0"
-      },
-      "artists": [
-        {
-          "name": "Niamh Bury",
-          "url": "https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme"
-        }
-      ],
-      "duration_ms": 256703,
-      "name": "Bite The Bridle",
-      "url": "https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Carrie",
-        "url": "https://open.spotify.com/album/4HVIerRYIZXrRlLu7NhlLD"
-      },
-      "artists": [
-        {
-          "name": "Anna Mae",
-          "url": "https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv"
-        }
-      ],
-      "duration_ms": 206522,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/7dxQJSZ6NtKOsxYVXUpJug"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "The Haunter and The Hunter",
-        "url": "https://open.spotify.com/album/2kjVK2yPrYCIk04IbywWiI"
-      },
-      "artists": [
-        {
-          "name": "Julie Grace",
-          "url": "https://open.spotify.com/artist/5HaTyE0zI1ZhZGV0d0wqST"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "The Haunter and The Hunter",
-      "url": "https://open.spotify.com/track/7kBmj68f0zxPhnEUXRLpQZ"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Freaking Out!",
-        "url": "https://open.spotify.com/album/0IzjXMjB23xeewPH0EwWKv"
-      },
-      "artists": [
-        {
-          "name": "Angus Maude",
-          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
-        }
-      ],
-      "duration_ms": 253285,
-      "name": "Freaking Out!",
-      "url": "https://open.spotify.com/track/34aFxZUWDQQeAGQiE5mWel"
-    },
-    {
       "added_at": "2024-05-01 04:00:00",
       "album": {
         "name": "grips",
@@ -1503,154 +1635,6 @@
       "duration_ms": 178331,
       "name": "grips",
       "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "I Hope We Get to Come Back",
-        "url": "https://open.spotify.com/album/7nVeOfYStTjapmKj14jbFU"
-      },
-      "artists": [
-        {
-          "name": "Jadea Kelly",
-          "url": "https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD"
-        },
-        {
-          "name": "Jenn Grant",
-          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
-        }
-      ],
-      "duration_ms": 227002,
-      "name": "I Hope We Get to Come Back",
-      "url": "https://open.spotify.com/track/3jvQdHBXynbsQdGLgZTHZt"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "When I Saw You",
-        "url": "https://open.spotify.com/album/6PpxXyGtb0v7Mo3yXnEzRr"
-      },
-      "artists": [
-        {
-          "name": "James Clark",
-          "url": "https://open.spotify.com/artist/1M69J6bqLcVTlzI9fgZ7EC"
-        }
-      ],
-      "duration_ms": 147001,
-      "name": "When I Saw You",
-      "url": "https://open.spotify.com/track/5ixMs0eDF6bm8K46lvsUqE"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Terracotta Dreams",
-        "url": "https://open.spotify.com/album/2I1Uyp9q3R4R7T17nTA0gc"
-      },
-      "artists": [
-        {
-          "name": "arnii",
-          "url": "https://open.spotify.com/artist/6UDNNQtmORIodqSpX1V4wX"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Terracotta Dreams",
-      "url": "https://open.spotify.com/track/4kg6Wo4fqrV6zmvqoQDyXY"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Dream Girl 101",
-        "url": "https://open.spotify.com/album/5ktskSJaqLCCX048m6d2r8"
-      },
-      "artists": [
-        {
-          "name": "Airpark",
-          "url": "https://open.spotify.com/artist/3FhYulv2HI8so6GZy7AaU4"
-        }
-      ],
-      "duration_ms": 252670,
-      "name": "Dream Girl 101",
-      "url": "https://open.spotify.com/track/3kxZrcNytmSDRXGzLPp9Sy"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/3r0VesXDDB6uhQSlHd3Fi1"
-      },
-      "artists": [
-        {
-          "name": "Ewan Samms",
-          "url": "https://open.spotify.com/artist/0ZHDTy4KuAUHcUZQn9jMg1"
-        }
-      ],
-      "duration_ms": 343306,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/1maCBeXVQaPo2n9jHzB8JJ"
-    },
-    {
-      "added_at": "2024-05-01 04:00:00",
-      "album": {
-        "name": "Reminded",
-        "url": "https://open.spotify.com/album/2psY8GbynyEElP4GMTQUif"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Reminded",
-      "url": "https://open.spotify.com/track/4ebHQo1dExU3ZhXIa40alP"
-    },
-    {
-      "added_at": "2024-05-01 04:00:00",
-      "album": {
-        "name": "I Miss the Sky",
-        "url": "https://open.spotify.com/album/1Ffa7l8Fh6kPl4LV8KGste"
-      },
-      "artists": [
-        {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
-        }
-      ],
-      "duration_ms": 219954,
-      "name": "Seize The Sun",
-      "url": "https://open.spotify.com/track/2kuYksbeaWWT6nc7YhWmW1"
-    },
-    {
-      "added_at": "2024-05-01 04:00:00",
-      "album": {
-        "name": "my best friend sam",
-        "url": "https://open.spotify.com/album/6egCLcpXKE9FRjdgDu036n"
-      },
-      "artists": [
-        {
-          "name": "Izzy Heltai",
-          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
-        }
-      ],
-      "duration_ms": 181377,
-      "name": "my best friend sam",
-      "url": "https://open.spotify.com/track/1jqzTIrfSISp24djilzthX"
-    },
-    {
-      "added_at": "2024-05-01 04:00:00",
-      "album": {
-        "name": "the cards",
-        "url": "https://open.spotify.com/album/4l73qnloX4HsFd42X5aDwv"
-      },
-      "artists": [
-        {
-          "name": "Sydney Sprague",
-          "url": "https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs"
-        }
-      ],
-      "duration_ms": 124575,
-      "name": "the cards",
-      "url": "https://open.spotify.com/track/1T1xEv50uNtLsBb7qtKtB7"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

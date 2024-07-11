@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edith M\u00e1rquez. Los temas esenciales, todos en una lista.",
-  "num_followers": 80308,
+  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
+  "num_followers": 80330,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAABr+ntpVotl5sUngKJZkKGB",
+  "snapshot_id": "Zox9gAAAAAAjT+ak2tQvp5D2qHA0nzL/",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Mi error, mi fantas\u00eda",
-      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
     },
     {
       "added_at": null,
@@ -691,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos del coraz\u00f3n (USA)",
-        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "T\u00f3mame o d\u00e9jame",
-      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -719,6 +687,22 @@
       "duration_ms": 165000,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos del coraz\u00f3n (USA)",
+        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "T\u00f3mame o d\u00e9jame",
+      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
     },
     {
       "added_at": null,
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Amor y Sentimiento",
-        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "El primero, el \u00fanico, el \u00faltimo",
-      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -787,6 +755,22 @@
       "duration_ms": 197000,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "El primero, el \u00fanico, el \u00faltimo",
+      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
     },
     {
       "added_at": null,
@@ -931,6 +915,22 @@
       "duration_ms": 244280,
       "name": "Cuando grita la piel",
       "url": "https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Edith M\u00e1rquez. S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Fue Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5Qe614uc4HLLfsFaF4zhpI"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

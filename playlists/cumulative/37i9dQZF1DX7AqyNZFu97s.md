@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Negro Impacto
 
-2,023 songs - 4 day 11 hr 47 min
+2,024 songs - 4 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Chemtrails & Starsigns](https://open.spotify.com/track/6GzRfO6yRIjA08Jfa8uQrj) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Chemtrails & Starsigns](https://open.spotify.com/album/7AZI4KP5EEKd1tDDTIADf0) | 2:05 | 2023-11-22 | 2023-11-30 |
 | [Cheque](https://open.spotify.com/track/6OO63tLXHXVaVa735HSjnc) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Cheque](https://open.spotify.com/album/5kDlQTVAUh3nNu2AG2pmHR) | 2:12 | 2023-11-29 | 2024-01-03 |
 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 | 2023-08-29 | 2023-09-27 |
+| [Chicago Town](https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Chicago Town](https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf) | 3:27 | 2024-07-10 |  |
 | [Chinatown Trouble](https://open.spotify.com/track/0mWI3i9OG1pBsMBuFFsY04) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Play Your Part](https://open.spotify.com/album/6c49J0SiHWz0Emh0LYOtNx) | 2:56 | 2023-08-15 | 2023-09-13 |
 | [Chinatown Trouble](https://open.spotify.com/track/6uTzHBBpV5BflJiU6qjO35) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Chinatown Trouble](https://open.spotify.com/album/55wHKTl1u6GL8yxsOXMODk) | 2:56 | 2024-06-26 |  |
 | [CHOO CHOO](https://open.spotify.com/track/5nnL91PezDYT9PAMQFu5pv) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [CHOO CHOO](https://open.spotify.com/album/5ZpPDclesBKBF72khksnZd) | 5:37 | 2024-03-20 | 2024-04-24 |
@@ -356,7 +357,7 @@
 | [Codependent](https://open.spotify.com/track/23gO6UnjPlFsTPGlHrVf5k) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 2:57 | 2024-06-04 | 2024-07-10 |
 | [Codependent](https://open.spotify.com/track/6ijy15bTZ759WV3tIijsgS) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Codependent](https://open.spotify.com/album/7DQnOR7XZBf5rNxlSzsipO) | 2:57 | 2024-06-04 | 2024-06-07 |
 | [Coffee](https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK) | [Coffee](https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO) | 2:31 | 2023-09-05 | 2024-01-03 |
-| [Cold](https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cold](https://open.spotify.com/album/6Xq14tixwMMTX84gTGuyIP) | 4:08 | 2024-06-11 |  |
+| [Cold](https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cold](https://open.spotify.com/album/6Xq14tixwMMTX84gTGuyIP) | 4:08 | 2024-06-11 | 2024-07-11 |
 | [Cold](https://open.spotify.com/track/4lVBd8J6mLr1hIv94wRcQh) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Cold](https://open.spotify.com/album/0pOFywX4DhOOAJ2828tUpc) | 2:46 | 2023-02-15 | 2024-01-03 |
 | [Cold](https://open.spotify.com/track/3z2YAeIQ5DZUtB33aWXRdq) | [Tom Gortler](https://open.spotify.com/artist/2BAJypvks27ENNB8vX1P2u) | [Cold](https://open.spotify.com/album/6VhH8FHPySyL2CS6nh6fK3) | 2:59 | 2022-10-26 | 2022-12-01 |
 | [Cold Shoulder](https://open.spotify.com/track/6dM03febxBftzkOcstPW8i) | [Benny Mails](https://open.spotify.com/artist/0XzjmqIqvTnie7suxhyFC1) | [Cold Shoulder](https://open.spotify.com/album/2cH3BO3e8MnsZxsw35796M) | 1:50 | 2023-08-01 | 2023-08-16 |

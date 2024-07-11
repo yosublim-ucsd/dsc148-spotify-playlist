@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2024! Cover: David Guetta, OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,958 likes - 91 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,926 likes - 91 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

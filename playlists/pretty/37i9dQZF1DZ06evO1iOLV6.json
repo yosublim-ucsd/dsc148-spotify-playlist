@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 9620,
+  "num_followers": 9631,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACI8frdH7JDbB9d8QRZX0cw",
+  "snapshot_id": "Zox9gAAAAAAllNT+1OlSqr/bwiwywUsy",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 186782,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abobi",
         "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
       },
@@ -670,15 +690,11 @@
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 175316,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
     },
     {
       "added_at": null,
@@ -727,42 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/0sa6xFYCA07CmjYS1Tf5jS"
-      },
-      "artists": [
-        {
-          "name": "Dj Consequence",
-          "url": "https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 194851,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/7qL5oEcwbPl9PNIFZSNLeP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma girl",
         "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 207272,
       "name": "Ma girl",
       "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/0sa6xFYCA07CmjYS1Tf5jS"
       },
       "artists": [
         {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+          "name": "Dj Consequence",
+          "url": "https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+      "duration_ms": 194851,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/7qL5oEcwbPl9PNIFZSNLeP"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
       "duration_ms": 194417,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -1067,22 +1087,6 @@
       "duration_ms": 212741,
       "name": "Life",
       "url": "https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feelings - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Feelings - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI"
     }
   ],
   "unique_name": "This Is Patoranking",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 5983,
+  "description": "This is Slipmami. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 5990,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACd+pomTzNABhU858Z2zXUc",
+  "snapshot_id": "Zox9gAAAAAC+P6HzgwaPTMmHHIEBOfT8",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/6iQRSZRu1oVorwQKiOiFIZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/0wbom6Zya5Wqty2YUJZ0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sucessagem",
         "url": "https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 153333,
       "name": "Sucessagem",
       "url": "https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/6iQRSZRu1oVorwQKiOiFIZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/0wbom6Zya5Wqty2YUJZ0OR"
     },
     {
       "added_at": null,

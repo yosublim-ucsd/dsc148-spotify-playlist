@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-283 songs - 1 day 0 hr 10 min
+284 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Chaudhavi Shab](https://open.spotify.com/track/7p87RATknowYjH1siFCC3P) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 4:03 | 2024-05-16 |  |
 | [Chayanat](https://open.spotify.com/track/0X0rm2Yz4eoRPtDmYORevR) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Chayanat](https://open.spotify.com/album/2EyvDomj1NOcjAuhtPr5Nb) | 5:24 | 2022-05-17 | 2024-02-21 |
 | [CHEHRE](https://open.spotify.com/track/0O46s6kYXJKLlxdtb4CGPE) | [Vipul Singh Verma](https://open.spotify.com/artist/1gZkFfU1aSn1idsp5XPUhV) | [CHEHRE](https://open.spotify.com/album/7qA8fbtcZh93BVlzbUeS4J) | 6:03 | 2024-07-08 |  |
+| [Dekho Saiya](https://open.spotify.com/track/66Mls8TEgZlsAQiEC4uRuP) | [Srabani Roy](https://open.spotify.com/artist/0sy9FSD4cX5gZVj9ysrx9H) | [Dekho Saiya](https://open.spotify.com/album/0ELfqU60XiASZjmLEYKkCu) | 4:45 | 2024-07-10 |  |
 | [Delhi Drill](https://open.spotify.com/track/23Utm1XwZgklunyVtft0ih) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/3V0FSvHmc5ObxF1ZodKwYW) | 1:57 | 2024-02-20 | 2024-04-19 |
 | [Delhi Drill](https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/4KXcZoIVMzsxVVn18679Zw) | 1:57 | 2023-11-09 | 2024-02-21 |
 | [Dil Jaye Na](https://open.spotify.com/track/35FKiPd3sGN2MjSghBg5WV) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Prosun Dey](https://open.spotify.com/artist/6A5glfpIwkZ5KJLgPiBFnG) | [Dil Jaye Na](https://open.spotify.com/album/3Sd8r89Q6nOVSGJHr3V3OF) | 1:01 | 2023-11-15 | 2023-12-16 |
@@ -155,7 +156,7 @@
 | [Mann](https://open.spotify.com/track/1wvwV1zCrgFHNkEvHyvczs) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Mann](https://open.spotify.com/album/05JCEd68U0G4WM2UOwEIOV) | 4:42 | 2024-03-08 |  |
 | [Mann Bheetar](https://open.spotify.com/track/2yhih9jbMZKK9DqpwSTkgP) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:29 | 2022-05-17 | 2023-09-12 |
 | [Manwa](https://open.spotify.com/track/4vKwFMgFL0DkOFK2tYnm4z) | [Arth](https://open.spotify.com/artist/0evALJa0ucQicv1y7aZ06Z), [Krutartha](https://open.spotify.com/artist/2eGe7l1wgPrBMM7wTFs5Wr), [Shreyansh Kothari](https://open.spotify.com/artist/4xLhys8QEzlSbtyemH4Usd) | [Manwa](https://open.spotify.com/album/32wwi38EZ7cTTw4B6ZSlPE) | 3:02 | 2023-03-03 | 2023-10-21 |
-| [Manwa](https://open.spotify.com/track/0Qfl0FJrYkiFP2csaljFik) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Nitisha Agrawal](https://open.spotify.com/artist/0IaVqHLA6RAfCDsBboz6Tq) | [Manwa](https://open.spotify.com/album/5p40JSqFMyw8n3QC8ovxSV) | 2:44 | 2023-10-27 |  |
+| [Manwa](https://open.spotify.com/track/0Qfl0FJrYkiFP2csaljFik) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Nitisha Agrawal](https://open.spotify.com/artist/0IaVqHLA6RAfCDsBboz6Tq) | [Manwa](https://open.spotify.com/album/5p40JSqFMyw8n3QC8ovxSV) | 2:44 | 2023-10-27 | 2024-07-11 |
 | [Manwa](https://open.spotify.com/track/1UN27M8r8rmgtBQj8hju5H) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Nitisha Agrawal](https://open.spotify.com/artist/0IaVqHLA6RAfCDsBboz6Tq) | [Manwa](https://open.spotify.com/album/05kEeVeIPUs5BpSHw29RG7) | 2:44 | 2024-02-20 | 2024-04-19 |
 | [Mausam](https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Mausam](https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF) | 4:51 | 2024-06-30 |  |
 | [Mehfil](https://open.spotify.com/track/5vSY2qqbkiz5Wd5CBzhK1i) | [Anjana Ankur Singh](https://open.spotify.com/artist/3XAfGV9ChPNFOLynwBI2WP), [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Mehfil](https://open.spotify.com/album/13ewHBHrK075I2SZVgzfMD) | 3:27 | 2024-07-08 |  |

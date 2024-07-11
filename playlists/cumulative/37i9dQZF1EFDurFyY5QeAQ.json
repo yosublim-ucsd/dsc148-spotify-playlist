@@ -78,10 +78,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 248666,
       "name": "Amore",
       "url": "https://open.spotify.com/track/17YeDKAwDBQLV3Er5CdgC1"
+    },
+    {
+      "album": {
+        "name": "Better Mistakes",
+        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174131,
+      "name": "Amore (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/77AyJAWtrpoyi9ZDW4dn46"
     },
     {
       "album": {
@@ -188,10 +210,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 197411,
       "name": "Battle Cry",
       "url": "https://open.spotify.com/track/4e6Z5aYiUOiO06CO3JQeyt"
+    },
+    {
+      "album": {
+        "name": "Free Agent",
+        "url": "https://open.spotify.com/album/4oJJmlHoxfiolh4d72XyIM"
+      },
+      "artists": [
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "Just Blaze",
+          "url": "https://open.spotify.com/artist/2gpPCu8rjzdobGqDZJpHiR"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304586,
+      "name": "Battle Cry",
+      "url": "https://open.spotify.com/track/3i028IB3jciqV8W1jldyYH"
     },
     {
       "album": {
@@ -569,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Devil Seed",
+        "url": "https://open.spotify.com/album/06pf2lr09OGMHaXQUt72Nk"
+      },
+      "artists": [
+        {
+          "name": "Wolf",
+          "url": "https://open.spotify.com/artist/5RoqynWCL6FbO5LdipoFU1"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254256,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/5KXRfA3MGcTMRF4FxYR2g5"
+    },
+    {
+      "album": {
         "name": "All Your Fault: Pt. 1",
         "url": "https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS"
       },
@@ -598,7 +660,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 248293,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/2q2IvYjfidmDUXag3batKZ"
@@ -1193,6 +1255,32 @@
     },
     {
       "album": {
+        "name": "Better Mistakes",
+        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172747,
+      "name": "My Dear Love (feat. Ty Dolla $ign & Trevor Daniel)",
+      "url": "https://open.spotify.com/track/3FcFDiiCEM1QPBdt3ON8H0"
+    },
+    {
+      "album": {
         "name": "No Broken Hearts (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/11jAMg5CsXfhmwe0A8BIU2"
       },
@@ -1354,6 +1442,42 @@
       "duration_ms": 227151,
       "name": "Pray",
       "url": "https://open.spotify.com/track/0QiUEowZX0wzCOePBOHgs6"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/3pXxQsBnSYOWApiafJfumV"
+      },
+      "artists": [
+        {
+          "name": "Blind Justice",
+          "url": "https://open.spotify.com/artist/2D48K1FwcFnYjLY7UInAua"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88148,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/0N4Tx3DNSgX6k3Xx67z5Bc"
+    },
+    {
+      "album": {
+        "name": "Mixtape For War",
+        "url": "https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Johnson",
+          "url": "https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229408,
+      "name": "Right Here, Right Now",
+      "url": "https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0"
     },
     {
       "album": {
@@ -1958,6 +2082,24 @@
       "duration_ms": 197346,
       "name": "Under You",
       "url": "https://open.spotify.com/track/5BXNi1mVw6Cu7zzqR1VZbR"
+    },
+    {
+      "album": {
+        "name": "Bebe",
+        "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198728,
+      "name": "Visions (Don't Go)",
+      "url": "https://open.spotify.com/track/3StXroLgGesFDHUljDzNlJ"
     },
     {
       "album": {

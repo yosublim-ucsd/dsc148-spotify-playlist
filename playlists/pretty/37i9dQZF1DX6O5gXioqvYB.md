@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > La nuova scena indie italiana! Cover: marzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,582 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,584 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 25 | [Limiti](https://open.spotify.com/track/7sIpRZZswRqrVWqEK6TB8o) | [Sangi](https://open.spotify.com/artist/6rZ7snoIG69F9CNnS3ZnFb) | [Limiti](https://open.spotify.com/album/5pGbmoyMzgvrIShigS5i8W) | 2:19 |
 | 26 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 |
 | 27 | [torno a casa presto](https://open.spotify.com/track/5B2jiOZt1lTUKszE38SFyK) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [torno a casa presto](https://open.spotify.com/album/568Mq2tEmW5mU5Kn3XwF2m) | 3:08 |
-| 28 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 |
+| 28 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 |
 | 29 | [compleanni degli altri](https://open.spotify.com/track/4ezzpiYowUR0KUgMTYB2By) | [miele](https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw) | [ambiente protetto](https://open.spotify.com/album/4OsUEE4jaj1K3fQ53AgJzE) | 2:44 |
 | 30 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 |
 | 31 | [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 |

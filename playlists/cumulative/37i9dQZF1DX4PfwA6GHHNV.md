@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-138 songs - 6 hr 51 min
+139 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Teimosa e Ciumenta](https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:26 | 2024-03-29 |  |
 | [Tipo a Barbie](https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tipo a Barbie](https://open.spotify.com/album/3q5SsHGYSBjOSlIaw5vGWX) | 3:15 | 2023-09-15 | 2023-10-28 |
 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 | 2024-03-08 |  |
+| [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 | 2024-07-05 |  |
 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 | 2023-12-01 | 2024-06-29 |
 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 | 2023-10-27 |  |
 | [Veneno](https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Veneno](https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5) | 2:46 | 2024-01-12 | 2024-06-22 |

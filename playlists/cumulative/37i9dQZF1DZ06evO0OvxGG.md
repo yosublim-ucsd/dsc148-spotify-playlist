@@ -2,7 +2,7 @@
 
 ### [This Is Slipmami](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OvxGG)
 
-> This is Slipmami\. The essential tracks, all in one playlist.
+> This is Slipmami\. Todos os maiores hits em uma só playlist.
 
 40 songs - 1 hr 54 min
 

@@ -2,7 +2,7 @@
 
 ### [solo para almas retro](https://open.spotify.com/playlist/37i9dQZF1DX4XgoRkwyon9)
 
-> Eres de los clásicos, y lo sabes\. Las viejitas de moda en 2023.
+> Eres de los clásicos, y lo sabes\. las viejitas de moda.
 
 58 songs - 3 hr 52 min
 

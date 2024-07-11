@@ -5165,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "I SWAY",
+        "url": "https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "Klaxon",
+      "url": "https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X"
+    },
+    {
+      "album": {
         "name": "SABINA\u4e4b\u6dda",
         "url": "https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf"
       },
@@ -7200,7 +7218,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 200027,
       "name": "ON",
       "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
@@ -12416,7 +12434,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 250677,
       "name": "\u518d\u898b \u5be7\u975c\u6d77",
       "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
@@ -17192,7 +17210,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 256967,
       "name": "\u9752\u6625\u544a\u5225\u5f0f",
       "url": "https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz"

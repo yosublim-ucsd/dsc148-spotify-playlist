@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: MNNK Bro\. \(Takashi Murakami & JP THE WAVY\)
 
-869 songs - 1 day 20 hr 48 min
+870 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Bubble](https://open.spotify.com/track/6jBvMxjiuMvAs3l6cf8gzF) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pink Crocodile](https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr) | 1:52 | 2023-12-22 | 2023-12-27 |
 | [BUCHINUKERU](https://open.spotify.com/track/0wwNHoW0cocUiNw8ULMgpr) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BUCHINUKERU](https://open.spotify.com/album/3dNldcT6rr3YF24ULEsIru) | 3:02 | 2024-03-27 | 2024-04-19 |
 | [BUCHINUKERU](https://open.spotify.com/track/2TCyfVDce0Ftvz9baInjcy) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BUCHINUKERU](https://open.spotify.com/album/4eKCXqZvwAUzYKihxBUcKk) | 3:02 | 2024-03-26 | 2024-05-02 |
-| [BUSY feat\. BENXNI, TAHITI](https://open.spotify.com/track/29Vubf1qt7NmbsgjrEIuC9) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [UNEDUCATED KID](https://open.spotify.com/artist/2EqDI5OmTZ0DADknxHO4hB), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [BUSY feat\. BENXNI, TAHITI](https://open.spotify.com/album/4fJsaKjr4KkZwdsH3eFxSp) | 2:21 | 2024-07-09 |  |
+| [BUSY feat\. BENXNI, TAHITI](https://open.spotify.com/track/29Vubf1qt7NmbsgjrEIuC9) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [BUSY feat\. BENXNI, TAHITI](https://open.spotify.com/album/4fJsaKjr4KkZwdsH3eFxSp) | 2:21 | 2024-07-09 |  |
 | [Cali Jap](https://open.spotify.com/track/1cMopmyRcj9qopJ4IXA2d9) | [Japanese Magenese](https://open.spotify.com/artist/0YbxnfnDyzHtDBPOvIMqEq), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [VOCA Luciano](https://open.spotify.com/artist/4yEFQ7h6u4bXePezff5pvI) | [Cali Jap](https://open.spotify.com/album/6XLsxnfd4omvEx9vrZQSYW) | 5:38 | 2023-09-21 | 2023-10-20 |
 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 | 2023-09-21 | 2023-11-03 |
 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 | 2023-12-22 | 2024-01-24 |
@@ -149,6 +149,7 @@
 | [City of Dreams](https://open.spotify.com/track/6XzzEK2IOp8uRpdFvYLtk7) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [City of Dreams](https://open.spotify.com/album/4VdDCndn5OJvBt5DVNO0kw) | 2:54 | 2024-04-02 |  |
 | [Cloud](https://open.spotify.com/track/4DjUTo5NhS4MgsSZMc8MCr) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo) | [Cloud](https://open.spotify.com/album/2zpTmknuqqywtD3n2MxQzr) | 3:44 | 2023-12-13 | 2024-02-21 |
 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 | 2024-01-30 | 2024-06-05 |
+| [Cold Life](https://open.spotify.com/track/2dr8YOQ4qVdwe7quKIhSph) | [Eric.B.Jr](https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [EASTSIDEBABY](https://open.spotify.com/album/78aZZPnT74tVsYwP9kMMvs) | 3:34 | 2024-07-10 |  |
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-23 | 2024-04-17 |
 | [COMFORTABLE](https://open.spotify.com/track/2AlJhfTeZbbotAlPPV3D8G) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2) | [JIYU](https://open.spotify.com/album/1DlOMgYpMzmGrcBSoioKHB) | 2:45 | 2023-09-28 | 2023-09-30 |
 | [COMFORTABLE](https://open.spotify.com/track/6iRAr0Wpief0CziTh11vuX) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2) | [JIYU](https://open.spotify.com/album/5CBrCNVSRAUS1uYa3yYidP) | 2:45 | 2023-09-28 | 2023-11-16 |

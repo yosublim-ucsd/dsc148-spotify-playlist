@@ -1,12 +1,12 @@
 {
-  "description": "This Is KURT. Los temas esenciales, todos en una lista.",
-  "num_followers": 30598,
+  "description": "This is KURT. The essential tracks, all in one playlist.",
+  "num_followers": 30604,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAADJ8Tk8coIZx+orWDOgIekR",
+  "snapshot_id": "Zox9gAAAAABS2MtKG+iWrqukQiKqQRvx",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 211480,
-      "name": "Sonre\u00edr",
-      "url": "https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7"
+      "duration_ms": 152826,
+      "name": "Polvo De Gigantes",
+      "url": "https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO"
     },
     {
       "added_at": null,
@@ -187,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 152826,
-      "name": "Polvo De Gigantes",
-      "url": "https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO"
+      "duration_ms": 211480,
+      "name": "Sonre\u00edr",
+      "url": "https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz Prendida",
-        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "Luz Prendida",
-      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mill\u00f3n Como T\u00fa (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 279933,
       "name": "Un Mill\u00f3n Como T\u00fa - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luz Prendida",
+        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "Luz Prendida",
+      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
       "duration_ms": 213626,
       "name": "Escap\u00e9monos",
       "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e"
-      },
-      "artists": [
-        {
-          "name": "Alfred Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Otra Liza (Con KURT)",
-      "url": "https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5"
     }
   ],
   "unique_name": "This Is KURT",

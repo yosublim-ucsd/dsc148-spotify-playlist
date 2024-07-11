@@ -4,7 +4,7 @@
 
 > All new surf rock.
 
-331 songs - 18 hr 39 min
+332 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2022-07-22 | 2023-07-14 |
 | [Big Sky](https://open.spotify.com/track/0G3O9ScEhpLKBQuXDGV08S) | [Pricey](https://open.spotify.com/artist/4pA9fLGvkbnMLLftzMQqP9) | [Big Sky](https://open.spotify.com/album/41VesN6mDIqq1IIsWzWkwL) | 2:43 | 2023-07-13 |  |
 | [Bitter](https://open.spotify.com/track/2NjepWsgyVUNZY2MtZSwKw) | [Worn\-Tin](https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9) | [Summer Mixtape](https://open.spotify.com/album/0iz11mCbWWro0BsVpsPpO9) | 3:15 | 2021-02-05 | 2022-12-09 |
+| [Blue](https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC) | [Famous Friend](https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L) | [Blue](https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum) | 2:34 | 2024-07-10 |  |
 | [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2021-02-05 |  |
 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2022-09-22 | 2024-04-19 |
 | [Braindrain](https://open.spotify.com/track/4WZ5B7olkCaTcmymLflInK) | [Sun Parade](https://open.spotify.com/artist/1lCZ4RSTbXbHeN5ZB8EPMr) | [Braindrain](https://open.spotify.com/album/45FgV7XuOG2NINZAhNJNqw) | 3:03 | 2021-02-05 | 2022-07-29 |

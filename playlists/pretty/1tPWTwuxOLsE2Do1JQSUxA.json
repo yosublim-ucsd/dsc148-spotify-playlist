@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with all the summer hits and bangers you'll need. From Beyonc\u00e9, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....",
-  "num_followers": 463105,
+  "num_followers": 463097,
   "original_name": "2010s Summer Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",
   "owner": {
     "name": "Filtr UK",
     "url": "https://open.spotify.com/user/sonymusicuk"
   },
-  "snapshot_id": "AAALlhGuVsP00wxU+18nmLi0YiKm281u",
+  "snapshot_id": "AAALmUxDE+LlG2XjmJUOLlJCZdqkeoXz",
   "tracks": [
     {
       "added_at": "2024-06-27 15:15:11",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
+      "added_at": "2024-07-09 18:52:07",
+      "album": {
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be"
+    },
+    {
       "added_at": "2024-06-27 15:15:11",
       "album": {
         "name": "These Things Happen",
@@ -253,20 +269,24 @@
       "url": "https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr"
     },
     {
-      "added_at": "2024-07-09 18:52:07",
+      "added_at": "2024-07-10 19:09:54",
       "album": {
-        "name": "Amala",
-        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Trey Parker",
+          "url": "https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY"
         }
       ],
-      "duration_ms": 190920,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be"
+      "duration_ms": 140733,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
     },
     {
       "added_at": "2024-06-27 15:15:11",

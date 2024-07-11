@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Kuwazugirai",
+        "url": "https://open.spotify.com/album/0vRWPWJeqI7lloHnzPbfXd"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204694,
+      "name": "Kuwazugirai",
+      "url": "https://open.spotify.com/track/5E4MIKnuxoSQMi9rjAKAD5"
+    },
+    {
+      "album": {
         "name": "Life Goes On",
         "url": "https://open.spotify.com/album/6UMgTaIuqcZh5GXW7zbX6s"
       },

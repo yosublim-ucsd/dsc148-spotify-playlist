@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: احمد كامل و زاب ثروت
 
-1,029 songs - 2 day 9 hr 57 min
+1,031 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Allah Yewafaa](https://open.spotify.com/track/54AXIMWDabxYyPjbR3CGDZ) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Allah Yewafaa](https://open.spotify.com/album/5XDLX0E5OVJNVv6id3tEGf) | 3:31 | 2024-02-16 | 2024-05-03 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2022-11-17 | 2023-02-03 |
 | [Alo Ya Albi](https://open.spotify.com/track/1x8DcXrICAz4tK96hOvHin) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Alo Ya Albi](https://open.spotify.com/album/0dDAnhpvukjscXB64M00Ad) | 2:54 | 2022-03-18 | 2022-07-11 |
+| [Ama Atkalm](https://open.spotify.com/track/0K28bnnVZPcqA7MPfTueKU) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Ama Atkalm](https://open.spotify.com/album/0utFvSDPNj6fVY2OnE0Fkk) | 3:40 | 2024-07-10 |  |
 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 | 2022-01-10 | 2022-03-18 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-25 | 2022-11-18 |
 | [Amleen Gamdeen](https://open.spotify.com/track/5riqOQoEZ5Z0KwrNNKdhPQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Amleen Gamdeen](https://open.spotify.com/album/0wThwaKwsCl1LerBs9ltpt) | 1:59 | 2022-05-01 | 2022-08-10 |
@@ -650,6 +651,7 @@
 | [Waga’a elfora’a](https://open.spotify.com/track/24uwCUmYxGToC09ID18gKu) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [Waga’a elfora’a](https://open.spotify.com/album/1sJ5z7Iyacgp2T2RBDDoU2) | 3:45 | 2023-02-23 | 2023-05-03 |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-05-24 | 2022-08-21 |
 | [Wahshany](https://open.spotify.com/track/1kiqCDYCfNrvAP990he3GI) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Wahshany](https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N) | 4:09 | 2024-04-10 | 2024-06-21 |
+| [Wakla El Gaw](https://open.spotify.com/track/7E64Cu20JEDma6t3HT7xl6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Wakla El Gaw](https://open.spotify.com/album/1O1hcHN4ERMlbizV5zacUe) | 3:17 | 2024-07-10 |  |
 | [Wala Bakhtar](https://open.spotify.com/track/7BZywSkvYpvqXikQua3OmW) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Wala Bakhtar](https://open.spotify.com/album/3cPCWyHeXAQevUgfGyorwC) | 3:32 | 2023-09-25 | 2024-01-05 |
 | [Wala Haga](https://open.spotify.com/track/7HnxnqVd9Ri4gPLi2aAoqq) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Wala Haga](https://open.spotify.com/album/3E9MxgoUd0Nn2tKTKCtd7I) | 2:43 | 2023-08-08 | 2023-08-25 |
 | [Walad](https://open.spotify.com/track/4ICngUihhBxci0OHQIL0uu) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Walad](https://open.spotify.com/album/6SdAmxpejR61XJnjJqErLj) | 3:09 | 2022-10-07 | 2022-12-30 |
@@ -808,7 +810,7 @@
 | [بمزاجى](https://open.spotify.com/track/0iYX2kmqmBHoyeHcnnXMDj) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [بمزاجى](https://open.spotify.com/album/494PJqjugXan0boE81DH2n) | 2:53 | 2024-07-08 |  |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-02-03 |
 | [بيتنا \- تتر مسلسل العيلة دي](https://open.spotify.com/track/5MJvSm6EoCbuYTkRYESMrT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [بيتنا \(تتر مسلسل العيلة دي\)](https://open.spotify.com/album/4BLn54YmROpPMjUBhNSMOO) | 3:20 | 2023-04-03 | 2023-05-12 |
-| [بيحلالى](https://open.spotify.com/track/0ydpAWEnusQNwlfL0mgj3P) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [بيحلالى](https://open.spotify.com/album/0uE1vcUj0nN4jn6VeFsYPw) | 3:20 | 2024-05-08 |  |
+| [بيحلالى](https://open.spotify.com/track/0ydpAWEnusQNwlfL0mgj3P) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [بيحلالى](https://open.spotify.com/album/0uE1vcUj0nN4jn6VeFsYPw) | 3:20 | 2024-05-08 | 2024-07-11 |
 | [بيقولوا قوية](https://open.spotify.com/track/3cvPW6yZzkCaKwDYyoQB2s) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [بيقولوا قوية](https://open.spotify.com/album/1ebOJHXjaXccjuOrTfrifF) | 4:32 | 2024-02-16 | 2024-05-08 |
 | [بين الحيطان](https://open.spotify.com/track/1OHSdJ4thhfEaczyopsZ5V) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [بين الحيطان](https://open.spotify.com/album/6qht10KJgyj59U2JEsX9Lx) | 3:12 | 2024-01-05 | 2024-02-09 |
 | [بيني و بينك](https://open.spotify.com/track/56JILjgRCIRy3hPxr9Eu5K) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [بيني و بينك](https://open.spotify.com/album/1Xpv9bpRG0pmvFf2AnjFwg) | 3:03 | 2021-12-30 | 2022-03-18 |
@@ -1015,7 +1017,7 @@
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-06 | 2023-07-18 |
 | [يا جبروته](https://open.spotify.com/track/6P8X6tMFrkT9z2eF9xUg1c) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [يا جبروته](https://open.spotify.com/album/4FR5PW6hq2YBfOYu5vvUi5) | 4:29 | 2023-02-07 | 2023-03-18 |
 | [يا جميل](https://open.spotify.com/track/76WCLn1YVNLqCJ8y4pj5N7) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Ya Gamil](https://open.spotify.com/album/73fVexTsnpSydtpESG6FEm) | 3:39 | 2022-09-01 | 2022-11-25 |
-| [يا خيبتو](https://open.spotify.com/track/3h8EZOFQRHDRu4OuyaE9LJ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [يا خيبتو](https://open.spotify.com/album/6vWs3pzaJe1qZzfF0EI2T2) | 3:03 | 2024-05-08 |  |
+| [يا خيبتو](https://open.spotify.com/track/3h8EZOFQRHDRu4OuyaE9LJ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [يا خيبتو](https://open.spotify.com/album/6vWs3pzaJe1qZzfF0EI2T2) | 3:03 | 2024-05-08 | 2024-07-11 |
 | [يا دمعي](https://open.spotify.com/track/7mr8mhY29LC8itKIt4Lb3e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا دمعي](https://open.spotify.com/album/4iSMMciGS2gre1OzYFFJ1O) | 2:48 | 2024-06-27 |  |
 | [يا دموع](https://open.spotify.com/track/1GIgWGFcQUXCSMJAFXeGP4) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [يا دموع](https://open.spotify.com/album/7mw60SumUTIOKuse5iQlwo) | 3:36 | 2023-06-15 | 2023-07-21 |
 | [يا رتها بتيجي](https://open.spotify.com/track/3Y5gHvhzaVhTpZDwMoBqOW) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [يا رتها بتيجي](https://open.spotify.com/album/6gf9GxUhHRlBAIREEYU6pr) | 4:07 | 2022-08-23 | 2022-11-18 |

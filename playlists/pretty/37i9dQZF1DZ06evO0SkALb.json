@@ -1,12 +1,12 @@
 {
-  "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 11522,
+  "description": "This is Lou Rawls\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 11523,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAABXSe3d6riOn62e3D4rREhV",
+  "snapshot_id": "Zox9gAAAAADAeRDar8UcnKJ9ARIBy052",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 268586,
+      "name": "See You When I Git There",
+      "url": "https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural Man / Classic Lou",
         "url": "https://open.spotify.com/album/2AuskfemNIIJnipCT670GV"
       },
@@ -95,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody But Lou",
-        "url": "https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Nobody But Me",
-      "url": "https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthology-Lou Rawls",
         "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
       },
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
       "artists": [
         {
@@ -136,9 +136,25 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Groovy People",
-      "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
+      "duration_ms": 134426,
+      "name": "Love Is A Hurtin' Thing",
+      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody But Lou",
+        "url": "https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Nobody But Me",
+      "url": "https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S"
     },
     {
       "added_at": null,
@@ -159,22 +175,6 @@
       "duration_ms": 185360,
       "name": "Fine Brown Frame",
       "url": "https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "One Life to Live",
-      "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
     },
     {
       "added_at": null,
@@ -204,9 +204,25 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 221453,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl"
+      "duration_ms": 198266,
+      "name": "Groovy People",
+      "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "One Life to Live",
+      "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
     },
     {
       "added_at": null,
@@ -239,6 +255,22 @@
       "duration_ms": 206733,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl"
     },
     {
       "added_at": null,
@@ -743,54 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black And Blue",
-        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody But Lou",
-        "url": "https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Blues For The Weepers",
-      "url": "https://open.spotify.com/track/5r2pfH2Jm8pU5NTmLbOI1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
     },
     {
       "added_at": null,

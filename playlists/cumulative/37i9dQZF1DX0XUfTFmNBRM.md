@@ -2,7 +2,7 @@
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover \- Pushpa 2 The Rule
+> Hottest Hindi music served here\. Cover \- Bad Newz
 
 353 songs - 23 hr 7 min
 

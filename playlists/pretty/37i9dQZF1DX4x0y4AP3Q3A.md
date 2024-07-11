@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: 8 Lat W Tybecie
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,103 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,108 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

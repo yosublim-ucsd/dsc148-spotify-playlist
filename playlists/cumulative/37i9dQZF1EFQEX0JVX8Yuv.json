@@ -772,10 +772,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 364988,
       "name": "Flight to Paris",
       "url": "https://open.spotify.com/track/3TxgHmuQhR6KIw70GllvOM"
+    },
+    {
+      "album": {
+        "name": "Flight To Paris",
+        "url": "https://open.spotify.com/album/69R61npQJZiMr8GrDO2I8w"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232968,
+      "name": "Flight to Paris - Radio Edit",
+      "url": "https://open.spotify.com/track/5EQkA7J6DBBs2plPJJJ9dT"
     },
     {
       "album": {
@@ -1922,6 +1940,28 @@
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+    },
+    {
+      "album": {
+        "name": "TURN OFF THE LIGHT, VOL. 1",
+        "url": "https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Elvira, Mistress of theDark",
+          "url": "https://open.spotify.com/artist/22GgOLXAbnO8KkICxdWu3G"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191833,
+      "name": "Turn Off The Light",
+      "url": "https://open.spotify.com/track/1CExoYjHyP0NK7WkEobYpi"
     },
     {
       "album": {

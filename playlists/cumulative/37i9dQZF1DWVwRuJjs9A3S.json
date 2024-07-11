@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "not your cherry",
+        "url": "https://open.spotify.com/album/6O3K7cjvA2YwLMyA1awAMf"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201050,
+      "name": "not your cherry",
+      "url": "https://open.spotify.com/track/6b1NQHfoth2oU8QF8CGjrk"
+    },
+    {
+      "album": {
         "name": "Ord som l\u00e4mnats kvar",
         "url": "https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji"
       },

@@ -2,7 +2,7 @@
 
 ### [909 Classics](https://open.spotify.com/playlist/37i9dQZF1DX6qMmUY0JUQO)
 
-> From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
+> Legendary tracks been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
 83 songs - 7 hr 47 min
 

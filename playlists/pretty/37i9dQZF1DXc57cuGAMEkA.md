@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Vaundy, あいみょん, 西野カナ, OneRepublic, Quavo & Lana Del Rey and more! cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,971 likes - 82 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,013 likes - 82 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 37 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 |
 | 38 | [Ride the Vibe \(Japanese Ver.\)](https://open.spotify.com/track/7cGPbFspknbvGM2be2eY2Z) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\)](https://open.spotify.com/album/1DMRtdHc6r0xkm9tAAHDN8) | 2:52 |
 | 39 | [NEVER GET USED TO THIS](https://open.spotify.com/track/1VFxnzJWG7LWYTrHNwGt9P) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [NEVER GET USED TO THIS](https://open.spotify.com/album/5TYR4SsDvqfGjfY9MZ2AD9) | 2:25 |
-| 40 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:31 |
+| 40 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:30 |
 | 41 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 42 | [Stuff I Don't Need](https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Stuff I Don't Need](https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe) | 2:54 |
 | 43 | [This Is The Sound Of Your Voice](https://open.spotify.com/track/2G75SQhhr9B6boZFgnK4In) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [This Is The Sound Of Your Voice](https://open.spotify.com/album/4IitM3XDHnMJQQXcW65Dd4) | 4:30 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 62 | [McNasty](https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [McNasty](https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV) | 3:12 |
 | 63 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 64 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 |
-| 65 | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Laszewo](https://open.spotify.com/artist/7ytetffNf8Df0lYmPxi9R2), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 |
+| 65 | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 |
 | 66 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 |
 | 67 | [Drifted](https://open.spotify.com/track/2SvJOXCRwPHDkpXSYWfv6l) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Drifted](https://open.spotify.com/album/0qc3iTsNst2Iov8gEYyA8m) | 3:52 |
 | 68 | [Last Breath](https://open.spotify.com/track/6ScnZPKFtl1Ba47RUnVWng) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Last Breath](https://open.spotify.com/album/7G2a6g81MUtOJWiwxbzXZ8) | 2:43 |

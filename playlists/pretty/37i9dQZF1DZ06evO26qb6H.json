@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACzR8gxrt9wNjrYs0dzqL2O",
+  "snapshot_id": "Zox9gAAAAABNxcIlhxOPfej2Ixn1c9sy",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REA1 L3AN K!NG",
-        "url": "https://open.spotify.com/album/3ZZ0MsvYeIIZEQiLadXncI"
-      },
-      "artists": [
-        {
-          "name": "D!SPO",
-          "url": "https://open.spotify.com/artist/5CIOMoMmByQ8C9AiEckAy4"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 235100,
-      "name": "REA1 L3AN K!NG",
-      "url": "https://open.spotify.com/track/69sHX420es4sn4MLzuGjev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calzone Tapes 3",
         "url": "https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 236764,
       "name": "Bonde da Fuma\u00e7a (feat. Murda Beatz)",
       "url": "https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REA1 L3AN K!NG",
+        "url": "https://open.spotify.com/album/3ZZ0MsvYeIIZEQiLadXncI"
+      },
+      "artists": [
+        {
+          "name": "D!SPO",
+          "url": "https://open.spotify.com/artist/5CIOMoMmByQ8C9AiEckAy4"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 235100,
+      "name": "REA1 L3AN K!NG",
+      "url": "https://open.spotify.com/track/69sHX420es4sn4MLzuGjev"
     },
     {
       "added_at": null,
@@ -527,26 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Shot (feat. Blxst & Wale)",
-        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
       "artists": [
         {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 153194,
-      "name": "One Shot (feat. Blxst & Wale)",
-      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
+      "duration_ms": 170000,
+      "name": "123",
+      "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
     },
     {
       "added_at": null,
@@ -571,22 +567,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+        "name": "One Shot (feat. Blxst & Wale)",
+        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
       },
       "artists": [
         {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 170000,
-      "name": "123",
-      "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
+      "duration_ms": 153194,
+      "name": "One Shot (feat. Blxst & Wale)",
+      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
     },
     {
       "added_at": null,
@@ -639,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fxck The Cash Up",
-        "url": "https://open.spotify.com/album/3XMIPVAy1bXKoAaEasIHab"
-      },
-      "artists": [
-        {
-          "name": "Fast Cash Boyz",
-          "url": "https://open.spotify.com/artist/37ijPPH7qiKay4QJ5ktqEU"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 192888,
-      "name": "Bad Habits (feat. Murda Beatz)",
-      "url": "https://open.spotify.com/track/6J2zOiRkS7rEkmCRpuvZgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Offline III",
         "url": "https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 145210,
       "name": "Habit (feat. O.T. Genasis & Murda Beatz)",
       "url": "https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fxck The Cash Up",
+        "url": "https://open.spotify.com/album/3XMIPVAy1bXKoAaEasIHab"
+      },
+      "artists": [
+        {
+          "name": "Fast Cash Boyz",
+          "url": "https://open.spotify.com/artist/37ijPPH7qiKay4QJ5ktqEU"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Bad Habits (feat. Murda Beatz)",
+      "url": "https://open.spotify.com/track/6J2zOiRkS7rEkmCRpuvZgP"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
         "url": "https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 204804,
       "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
       "url": "https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
     }
   ],
   "unique_name": "This Is Murda Beatz",

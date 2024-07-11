@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2024\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,753 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,641 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 |
 | 100 | [Disco Tool](https://open.spotify.com/track/6MXaI09ksTQ0FmMswDjPG6) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Disco Tool](https://open.spotify.com/album/3tkIKiqUu0h52cckCm0jJ3) | 3:04 |
 
-Snapshot ID: `Zoc3vAAAAABcSFoXrUbuqtGAhJ0sO7Hv`
+Snapshot ID: `Zo5yVgAAAACUXZ7Kwo5klAnPhMSN/6tt`

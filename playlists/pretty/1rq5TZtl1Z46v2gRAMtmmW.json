@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29916,
+  "num_followers": 29926,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAO8DyGNp4OsJvEKFOSpQfENlrkQyqV",
+  "snapshot_id": "AAAO+frKpsG3aEwMMiwEYVD0F4Soct8D",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,58 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-07-10 16:26:41",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/1XYby0uDKyROqB5nWWdSOv"
+    },
+    {
+      "added_at": "2024-07-10 12:22:16",
+      "album": {
+        "name": "Key103",
+        "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 442828,
+      "name": "Key103",
+      "url": "https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT"
+    },
+    {
+      "added_at": "2024-07-10 12:22:53",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
       "added_at": "2024-06-28 16:43:23",
@@ -679,70 +731,6 @@
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
-    },
-    {
-      "added_at": "2024-04-23 17:21:42",
-      "album": {
-        "name": "With Balance",
-        "url": "https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Naima Bock",
-          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
-        },
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        }
-      ],
-      "duration_ms": 178380,
-      "name": "With Balance",
-      "url": "https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9"
-    },
-    {
-      "added_at": "2024-04-17 08:58:16",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "ROZET",
-          "url": "https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY"
-        }
-      ],
-      "duration_ms": 160986,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb"
-    },
-    {
-      "added_at": "2024-04-16 12:45:41",
-      "album": {
-        "name": "Forgive Me (Live) / A Moment Apart (Live)",
-        "url": "https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Forgive Me (Live) (ODESZA VIP Remix)",
-      "url": "https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

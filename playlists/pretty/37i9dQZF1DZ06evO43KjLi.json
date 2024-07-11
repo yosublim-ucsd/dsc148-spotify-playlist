@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 21009,
+  "num_followers": 21012,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACw9w9eb514xIDXGM6+KT8u",
+  "snapshot_id": "Zox9gAAAAACGvFDPeJTN83MN+xnVHGVt",
   "tracks": [
     {
       "added_at": null,
@@ -283,38 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "Yo Se",
-      "url": "https://open.spotify.com/track/5L7CkAus4rvfu0AsqSXH9K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tragos y Cigarros",
-        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 220570,
-      "name": "Videos y Fotos",
-      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Tumbados Vol. 2",
         "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
       },
@@ -335,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
       },
       "artists": [
         {
@@ -344,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 162389,
-      "name": "5 Estrellas - En Vivo",
-      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
+      "duration_ms": 220570,
+      "name": "Videos y Fotos",
+      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
     },
     {
       "added_at": null,
@@ -360,15 +328,15 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 154351,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
+      "duration_ms": 181250,
+      "name": "Yo Se",
+      "url": "https://open.spotify.com/track/5L7CkAus4rvfu0AsqSXH9K"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tragos y Cigarros",
-        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
       "artists": [
         {
@@ -376,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 205624,
-      "name": "Aqui Se Acaba Todo",
-      "url": "https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5"
+      "duration_ms": 162389,
+      "name": "5 Estrellas - En Vivo",
+      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
     },
     {
       "added_at": null,
@@ -403,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
       },
       "artists": [
         {
@@ -412,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 169080,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
+      "duration_ms": 205624,
+      "name": "Aqui Se Acaba Todo",
+      "url": "https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5"
     },
     {
       "added_at": null,
@@ -428,9 +396,25 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 161617,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
+      "duration_ms": 154351,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 185834,
       "name": "Todos los Dias - En Vivo",
       "url": "https://open.spotify.com/track/18REsWSePDsWv0X04omJqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 141906,
-      "name": "Seduceme",
-      "url": "https://open.spotify.com/track/6um5rfVr77YWdtW2BFVnb0"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 141906,
+      "name": "Seduceme",
+      "url": "https://open.spotify.com/track/6um5rfVr77YWdtW2BFVnb0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
@@ -551,26 +551,6 @@
       "duration_ms": 141781,
       "name": "Otra Noche Mas - En Vivo",
       "url": "https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traguitos De Mezcal",
-        "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
-      },
-      "artists": [
-        {
-          "name": "Nueva Esencia",
-          "url": "https://open.spotify.com/artist/4nfZ8Hb8zgwtn1F9THk2E4"
-        },
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 159900,
-      "name": "Traguitos De Mezcal",
-      "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
     },
     {
       "added_at": null,
@@ -607,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traguitos De Mezcal",
+        "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
+      },
+      "artists": [
+        {
+          "name": "Nueva Esencia",
+          "url": "https://open.spotify.com/artist/4nfZ8Hb8zgwtn1F9THk2E4"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 159900,
+      "name": "Traguitos De Mezcal",
+      "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ven Manejando",
         "url": "https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 205538,
       "name": "Me Ven Manejando",
       "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gordo Pesado",
-        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Gordo Pesado",
-      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 228048,
       "name": "Frostix",
       "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gordo Pesado",
+        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Gordo Pesado",
+      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
     },
     {
       "added_at": null,

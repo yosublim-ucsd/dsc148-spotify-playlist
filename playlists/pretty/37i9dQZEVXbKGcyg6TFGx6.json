@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
-  "num_followers": 8059,
+  "num_followers": 8060,
   "original_name": "Top 50 - Luxembourg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LiCgmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LiHyGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/2fBNDKu8TOe6HXY5L7gCV5"
@@ -29,7 +29,39 @@
       "url": "https://open.spotify.com/track/21x0bKgMOKazByBUsQBSoB"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "iLove the World",
+        "url": "https://open.spotify.com/album/5qtIjON690GnS81Gsql9T1"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Love is Luxembourg",
+      "url": "https://open.spotify.com/track/7p6ZGfV5v0zh2fiTLPUul2"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 147201,
+      "name": "Funk Rave",
+      "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -49,23 +81,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Funk Generation",
-        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 147201,
-      "name": "Funk Rave",
-      "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -129,23 +145,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -161,7 +161,23 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -193,39 +209,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Turtle Magic (Live)",
-        "url": "https://open.spotify.com/album/54CUc0cPC5FCIuI0w405ib"
-      },
-      "artists": [
-        {
-          "name": "Lucas Rodriguez",
-          "url": "https://open.spotify.com/artist/0kp7aWXC1Q6j2IC1l70cQs"
-        }
-      ],
-      "duration_ms": 161509,
-      "name": "Help Me - Live",
-      "url": "https://open.spotify.com/track/6L3Ex2CipZti00k3rFLqfG"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
@@ -245,7 +229,7 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
@@ -265,7 +249,23 @@
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Turtle Magic (Live)",
+        "url": "https://open.spotify.com/album/54CUc0cPC5FCIuI0w405ib"
+      },
+      "artists": [
+        {
+          "name": "Lucas Rodriguez",
+          "url": "https://open.spotify.com/artist/0kp7aWXC1Q6j2IC1l70cQs"
+        }
+      ],
+      "duration_ms": 161509,
+      "name": "Help Me - Live",
+      "url": "https://open.spotify.com/track/6L3Ex2CipZti00k3rFLqfG"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
@@ -281,7 +281,487 @@
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/7HvkCdkx0TluVZFBoxr1Hq"
+      },
+      "artists": [
+        {
+          "name": "Jairo Jardim",
+          "url": "https://open.spotify.com/artist/4t6Dx9fNhEhfFvOJYudb01"
+        }
+      ],
+      "duration_ms": 110123,
+      "name": "Strong Crying",
+      "url": "https://open.spotify.com/track/7uNctR0bG5xppQKP9tHEwf"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Love History",
+        "url": "https://open.spotify.com/album/1xTjNA4KCR0g2wFubBtUxt"
+      },
+      "artists": [
+        {
+          "name": "Rachel Sanchez",
+          "url": "https://open.spotify.com/artist/0NynFoh0rE7mChYZR2llYE"
+        }
+      ],
+      "duration_ms": 136637,
+      "name": "Guilt of Longing",
+      "url": "https://open.spotify.com/track/2yHdqmyJdZIZLgdO2nElx4"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Party Eletronic",
+        "url": "https://open.spotify.com/album/3sAU9Ct4FePrMwzNlwxNOC"
+      },
+      "artists": [
+        {
+          "name": "HAZUK FENDI",
+          "url": "https://open.spotify.com/artist/0GYRaNrlylXGGEy1Hj91zk"
+        }
+      ],
+      "duration_ms": 107798,
+      "name": "And Wanted to Be Yours",
+      "url": "https://open.spotify.com/track/1HQJydJoozKw7rkFyANwdo"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Love 5",
+        "url": "https://open.spotify.com/album/2DLNbQBMLt5pCLIKuvivdw"
+      },
+      "artists": [
+        {
+          "name": "DANIEL SAGATTO",
+          "url": "https://open.spotify.com/artist/1x7nm6EDfmlIz842HZ3pTh"
+        }
+      ],
+      "duration_ms": 75537,
+      "name": "Now Go - Gp Ensemble",
+      "url": "https://open.spotify.com/track/7xDvo9WYFgIHjWR7QAc564"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "iLove the World",
+        "url": "https://open.spotify.com/album/5qtIjON690GnS81Gsql9T1"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Ilove is Norway",
+      "url": "https://open.spotify.com/track/5bchAjlBLukFat4Etxaon2"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1c2AlR9Z6KMoStzmywR5tk"
+      },
+      "artists": [
+        {
+          "name": "TOBIAS SMITH",
+          "url": "https://open.spotify.com/artist/0kWfS0CLOo584jVXxlimd3"
+        }
+      ],
+      "duration_ms": 110791,
+      "name": "Paulinha",
+      "url": "https://open.spotify.com/track/1XmQMot6C2j53NaSosf7Xp"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1c2AlR9Z6KMoStzmywR5tk"
+      },
+      "artists": [
+        {
+          "name": "TOBIAS SMITH",
+          "url": "https://open.spotify.com/artist/0kWfS0CLOo584jVXxlimd3"
+        }
+      ],
+      "duration_ms": 140132,
+      "name": "Virgo",
+      "url": "https://open.spotify.com/track/1Cacmmckzu9kj7L7rp9z5w"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Party at House (Live)",
+        "url": "https://open.spotify.com/album/3GN25FO6d4yChrUkoJM9g8"
+      },
+      "artists": [
+        {
+          "name": "KOBAYASHI",
+          "url": "https://open.spotify.com/artist/5e77TMtyACrIqzkZBCxHPk"
+        }
+      ],
+      "duration_ms": 137177,
+      "name": "The Power of the Spirit - Live",
+      "url": "https://open.spotify.com/track/0OnhoIwWcCks5VVV4Pfa5T"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Remember Stories (Live)",
+        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
+      },
+      "artists": [
+        {
+          "name": "Antonie Eyries",
+          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
+        }
+      ],
+      "duration_ms": 180096,
+      "name": "God Is Too Good - Live",
+      "url": "https://open.spotify.com/track/7sw8NsnhLxjrYGJfAYlYRV"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/2jgosrDhW8EuogguwbslYm"
+      },
+      "artists": [
+        {
+          "name": "RYAN TELLES",
+          "url": "https://open.spotify.com/artist/2przvm2lGrZjznJXs13jMw"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "The Bottom of the Well",
+      "url": "https://open.spotify.com/track/3v98hpTVmAhe7TzUnCJcYw"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
+      },
+      "artists": [
+        {
+          "name": "Helena Sams",
+          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
+        }
+      ],
+      "duration_ms": 98783,
+      "name": "Song of Peace",
+      "url": "https://open.spotify.com/track/2OksCuJQHSGRJxeyy2QNZP"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
+      },
+      "artists": [
+        {
+          "name": "Helena Sams",
+          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
+        }
+      ],
+      "duration_ms": 117521,
+      "name": "Cut the Wind",
+      "url": "https://open.spotify.com/track/2zDj76zFir3d1pfVdZsQT9"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
+      },
+      "artists": [
+        {
+          "name": "Helena Sams",
+          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
+        }
+      ],
+      "duration_ms": 108501,
+      "name": "Know How to Live",
+      "url": "https://open.spotify.com/track/5YylsobEQjjH2Pqrj6J97h"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "The Corners of Heaven",
+        "url": "https://open.spotify.com/album/7iKWpS0MJVkvTcel27EYjm"
+      },
+      "artists": [
+        {
+          "name": "Camille Louise",
+          "url": "https://open.spotify.com/artist/0d8SLsmfAvmnS6QqPTEx67"
+        }
+      ],
+      "duration_ms": 101622,
+      "name": "Ambient Dreams - Live",
+      "url": "https://open.spotify.com/track/4YE0ajYaNQU6zia6qTDtTn"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "To Start Again (Live)",
+        "url": "https://open.spotify.com/album/7fl6aQtYK1ZbZGYJR3H6r7"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/4NRiYwF3UC8jOYDyKXDScV"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/26PMXbqYcKUpmPOlGfqhGl"
+      },
+      "artists": [
+        {
+          "name": "REBECA BROCKEN",
+          "url": "https://open.spotify.com/artist/1DhDt3NFURbkb8glFsdfGg"
+        }
+      ],
+      "duration_ms": 107441,
+      "name": "Make Love Official",
+      "url": "https://open.spotify.com/track/1Wcv6YeP3sMEi7Lifb6e6A"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/21CDc8zVsDUUhkOsG3L8AF"
+      },
+      "artists": [
+        {
+          "name": "BIA LOVATTO",
+          "url": "https://open.spotify.com/artist/04lSWiO5r77pyV8qmmXHYM"
+        }
+      ],
+      "duration_ms": 141023,
+      "name": "My Father's House",
+      "url": "https://open.spotify.com/track/19k14mIp2yBot7MhTPupg6"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Cold Foam",
+        "url": "https://open.spotify.com/album/7toCOr4cd0FjmPcH5NhmAl"
+      },
+      "artists": [
+        {
+          "name": "ALEX CALDAZ",
+          "url": "https://open.spotify.com/artist/3CSVonh8IAx2aYwiGSDR1k"
+        }
+      ],
+      "duration_ms": 110466,
+      "name": "As Long as There Is Hope",
+      "url": "https://open.spotify.com/track/5M6vkS5lkacsXKek3CwRCw"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Remember Stories (Live)",
+        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
+      },
+      "artists": [
+        {
+          "name": "Antonie Eyries",
+          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
+        }
+      ],
+      "duration_ms": 175571,
+      "name": "Jesus Is the Way - Live",
+      "url": "https://open.spotify.com/track/6nMFe2lBZqUNfSwcWzuSfC"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
+      },
+      "artists": [
+        {
+          "name": "Helena Sams",
+          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
+        }
+      ],
+      "duration_ms": 95477,
+      "name": "I Didn't Realize",
+      "url": "https://open.spotify.com/track/7qWIIeCKPpy5LSczisa87a"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Love History",
+        "url": "https://open.spotify.com/album/1xTjNA4KCR0g2wFubBtUxt"
+      },
+      "artists": [
+        {
+          "name": "Rachel Sanchez",
+          "url": "https://open.spotify.com/artist/0NynFoh0rE7mChYZR2llYE"
+        }
+      ],
+      "duration_ms": 133619,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/5rKOlRvrqXFMdMqBesXuzp"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Ball Prince's",
+        "url": "https://open.spotify.com/album/27c4DAvOhiVlVW01LBsnzk"
+      },
+      "artists": [
+        {
+          "name": "Hugo Prada",
+          "url": "https://open.spotify.com/artist/0aBleB3uoPUABEYAlSKK30"
+        }
+      ],
+      "duration_ms": 135854,
+      "name": "Jamil and One Nights",
+      "url": "https://open.spotify.com/track/0MUYz3mFk0YfjosHHw6sLL"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/26PMXbqYcKUpmPOlGfqhGl"
+      },
+      "artists": [
+        {
+          "name": "REBECA BROCKEN",
+          "url": "https://open.spotify.com/artist/1DhDt3NFURbkb8glFsdfGg"
+        }
+      ],
+      "duration_ms": 108344,
+      "name": "Call Me Baby",
+      "url": "https://open.spotify.com/track/7LNHdZnNuiDmsfEFi5n1YC"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Remember Stories (Live)",
+        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
+      },
+      "artists": [
+        {
+          "name": "Antonie Eyries",
+          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "I Learned to Love You - Live",
+      "url": "https://open.spotify.com/track/5PF3AhDhiV1gJahC1YvY4z"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "World New",
+        "url": "https://open.spotify.com/album/69UWj6BZ3pqYVx5kazFVOA"
+      },
+      "artists": [
+        {
+          "name": "Bell Santanna",
+          "url": "https://open.spotify.com/artist/7IxSh6nQRpb1yeJYvopTxf"
+        }
+      ],
+      "duration_ms": 166899,
+      "name": "Everything I Can",
+      "url": "https://open.spotify.com/track/1USOhHYV8ywRKbcRavgJ16"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Passionate",
+        "url": "https://open.spotify.com/album/5d1n9q90NnXbVJqFgI20bK"
+      },
+      "artists": [
+        {
+          "name": "BRENO MORGAN",
+          "url": "https://open.spotify.com/artist/6iLCpqN9se5NYJI1Df1eyy"
+        }
+      ],
+      "duration_ms": 103076,
+      "name": "Stone Blonde",
+      "url": "https://open.spotify.com/track/3wTcpRxZpCxlusRNZjto1W"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
+      "album": {
+        "name": "Cold Foam",
+        "url": "https://open.spotify.com/album/7toCOr4cd0FjmPcH5NhmAl"
+      },
+      "artists": [
+        {
+          "name": "ALEX CALDAZ",
+          "url": "https://open.spotify.com/artist/3CSVonh8IAx2aYwiGSDR1k"
+        }
+      ],
+      "duration_ms": 110149,
+      "name": "Love Wins Everything",
+      "url": "https://open.spotify.com/track/3UmHeHK2qf49UbkJ2AGTP7"
+    },
+    {
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
@@ -301,7 +781,7 @@
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
@@ -317,39 +797,7 @@
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -365,27 +813,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -401,59 +829,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
-      },
-      "artists": [
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 165775,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
+      "added_at": "2024-07-10 09:37:12",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE"
@@ -483,390 +859,6 @@
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1c2AlR9Z6KMoStzmywR5tk"
-      },
-      "artists": [
-        {
-          "name": "TOBIAS SMITH",
-          "url": "https://open.spotify.com/artist/0kWfS0CLOo584jVXxlimd3"
-        }
-      ],
-      "duration_ms": 140132,
-      "name": "Virgo",
-      "url": "https://open.spotify.com/track/1Cacmmckzu9kj7L7rp9z5w"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/7HvkCdkx0TluVZFBoxr1Hq"
-      },
-      "artists": [
-        {
-          "name": "Jairo Jardim",
-          "url": "https://open.spotify.com/artist/4t6Dx9fNhEhfFvOJYudb01"
-        }
-      ],
-      "duration_ms": 110123,
-      "name": "Strong Crying",
-      "url": "https://open.spotify.com/track/7uNctR0bG5xppQKP9tHEwf"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Party Eletronic",
-        "url": "https://open.spotify.com/album/3sAU9Ct4FePrMwzNlwxNOC"
-      },
-      "artists": [
-        {
-          "name": "HAZUK FENDI",
-          "url": "https://open.spotify.com/artist/0GYRaNrlylXGGEy1Hj91zk"
-        }
-      ],
-      "duration_ms": 107798,
-      "name": "And Wanted to Be Yours",
-      "url": "https://open.spotify.com/track/1HQJydJoozKw7rkFyANwdo"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Love History",
-        "url": "https://open.spotify.com/album/1xTjNA4KCR0g2wFubBtUxt"
-      },
-      "artists": [
-        {
-          "name": "Rachel Sanchez",
-          "url": "https://open.spotify.com/artist/0NynFoh0rE7mChYZR2llYE"
-        }
-      ],
-      "duration_ms": 136637,
-      "name": "Guilt of Longing",
-      "url": "https://open.spotify.com/track/2yHdqmyJdZIZLgdO2nElx4"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/21CDc8zVsDUUhkOsG3L8AF"
-      },
-      "artists": [
-        {
-          "name": "BIA LOVATTO",
-          "url": "https://open.spotify.com/artist/04lSWiO5r77pyV8qmmXHYM"
-        }
-      ],
-      "duration_ms": 141023,
-      "name": "My Father's House",
-      "url": "https://open.spotify.com/track/19k14mIp2yBot7MhTPupg6"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/2jgosrDhW8EuogguwbslYm"
-      },
-      "artists": [
-        {
-          "name": "RYAN TELLES",
-          "url": "https://open.spotify.com/artist/2przvm2lGrZjznJXs13jMw"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "The Bottom of the Well",
-      "url": "https://open.spotify.com/track/3v98hpTVmAhe7TzUnCJcYw"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/26PMXbqYcKUpmPOlGfqhGl"
-      },
-      "artists": [
-        {
-          "name": "REBECA BROCKEN",
-          "url": "https://open.spotify.com/artist/1DhDt3NFURbkb8glFsdfGg"
-        }
-      ],
-      "duration_ms": 107441,
-      "name": "Make Love Official",
-      "url": "https://open.spotify.com/track/1Wcv6YeP3sMEi7Lifb6e6A"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Cold Foam",
-        "url": "https://open.spotify.com/album/7toCOr4cd0FjmPcH5NhmAl"
-      },
-      "artists": [
-        {
-          "name": "ALEX CALDAZ",
-          "url": "https://open.spotify.com/artist/3CSVonh8IAx2aYwiGSDR1k"
-        }
-      ],
-      "duration_ms": 110466,
-      "name": "As Long as There Is Hope",
-      "url": "https://open.spotify.com/track/5M6vkS5lkacsXKek3CwRCw"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Subtitle",
-        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
-      },
-      "artists": [
-        {
-          "name": "Helena Sams",
-          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
-        }
-      ],
-      "duration_ms": 108501,
-      "name": "Know How to Live",
-      "url": "https://open.spotify.com/track/5YylsobEQjjH2Pqrj6J97h"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "The Corners of Heaven",
-        "url": "https://open.spotify.com/album/7iKWpS0MJVkvTcel27EYjm"
-      },
-      "artists": [
-        {
-          "name": "Camille Louise",
-          "url": "https://open.spotify.com/artist/0d8SLsmfAvmnS6QqPTEx67"
-        }
-      ],
-      "duration_ms": 101622,
-      "name": "Ambient Dreams - Live",
-      "url": "https://open.spotify.com/track/4YE0ajYaNQU6zia6qTDtTn"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Party at House (Live)",
-        "url": "https://open.spotify.com/album/3GN25FO6d4yChrUkoJM9g8"
-      },
-      "artists": [
-        {
-          "name": "KOBAYASHI",
-          "url": "https://open.spotify.com/artist/5e77TMtyACrIqzkZBCxHPk"
-        }
-      ],
-      "duration_ms": 137177,
-      "name": "The Power of the Spirit - Live",
-      "url": "https://open.spotify.com/track/0OnhoIwWcCks5VVV4Pfa5T"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Love 5",
-        "url": "https://open.spotify.com/album/2DLNbQBMLt5pCLIKuvivdw"
-      },
-      "artists": [
-        {
-          "name": "DANIEL SAGATTO",
-          "url": "https://open.spotify.com/artist/1x7nm6EDfmlIz842HZ3pTh"
-        }
-      ],
-      "duration_ms": 75537,
-      "name": "Now Go - Gp Ensemble",
-      "url": "https://open.spotify.com/track/7xDvo9WYFgIHjWR7QAc564"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "iLove the World",
-        "url": "https://open.spotify.com/album/5qtIjON690GnS81Gsql9T1"
-      },
-      "artists": [
-        {
-          "name": "Rubby",
-          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Ilove is Norway",
-      "url": "https://open.spotify.com/track/5bchAjlBLukFat4Etxaon2"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Subtitle",
-        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
-      },
-      "artists": [
-        {
-          "name": "Helena Sams",
-          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
-        }
-      ],
-      "duration_ms": 98783,
-      "name": "Song of Peace",
-      "url": "https://open.spotify.com/track/2OksCuJQHSGRJxeyy2QNZP"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1c2AlR9Z6KMoStzmywR5tk"
-      },
-      "artists": [
-        {
-          "name": "TOBIAS SMITH",
-          "url": "https://open.spotify.com/artist/0kWfS0CLOo584jVXxlimd3"
-        }
-      ],
-      "duration_ms": 110791,
-      "name": "Paulinha",
-      "url": "https://open.spotify.com/track/1XmQMot6C2j53NaSosf7Xp"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Remember Stories (Live)",
-        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
-      },
-      "artists": [
-        {
-          "name": "Antonie Eyries",
-          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
-        }
-      ],
-      "duration_ms": 180096,
-      "name": "God Is Too Good - Live",
-      "url": "https://open.spotify.com/track/7sw8NsnhLxjrYGJfAYlYRV"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Subtitle",
-        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
-      },
-      "artists": [
-        {
-          "name": "Helena Sams",
-          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
-        }
-      ],
-      "duration_ms": 117521,
-      "name": "Cut the Wind",
-      "url": "https://open.spotify.com/track/2zDj76zFir3d1pfVdZsQT9"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Remember Stories (Live)",
-        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
-      },
-      "artists": [
-        {
-          "name": "Antonie Eyries",
-          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
-        }
-      ],
-      "duration_ms": 175571,
-      "name": "Jesus Is the Way - Live",
-      "url": "https://open.spotify.com/track/6nMFe2lBZqUNfSwcWzuSfC"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "To Start Again (Live)",
-        "url": "https://open.spotify.com/album/7fl6aQtYK1ZbZGYJR3H6r7"
-      },
-      "artists": [
-        {
-          "name": "Rubby",
-          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/4NRiYwF3UC8jOYDyKXDScV"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Subtitle",
-        "url": "https://open.spotify.com/album/2G8RV9GvC3W8R4xNVRq8JW"
-      },
-      "artists": [
-        {
-          "name": "Helena Sams",
-          "url": "https://open.spotify.com/artist/5hAEkdoMU6MI8QmGcAVEPN"
-        }
-      ],
-      "duration_ms": 95477,
-      "name": "I Didn't Realize",
-      "url": "https://open.spotify.com/track/7qWIIeCKPpy5LSczisa87a"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Ball Prince's",
-        "url": "https://open.spotify.com/album/27c4DAvOhiVlVW01LBsnzk"
-      },
-      "artists": [
-        {
-          "name": "Hugo Prada",
-          "url": "https://open.spotify.com/artist/0aBleB3uoPUABEYAlSKK30"
-        }
-      ],
-      "duration_ms": 135854,
-      "name": "Jamil and One Nights",
-      "url": "https://open.spotify.com/track/0MUYz3mFk0YfjosHHw6sLL"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Remember Stories (Live)",
-        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
-      },
-      "artists": [
-        {
-          "name": "Antonie Eyries",
-          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "I Learned to Love You - Live",
-      "url": "https://open.spotify.com/track/5PF3AhDhiV1gJahC1YvY4z"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/26PMXbqYcKUpmPOlGfqhGl"
-      },
-      "artists": [
-        {
-          "name": "REBECA BROCKEN",
-          "url": "https://open.spotify.com/artist/1DhDt3NFURbkb8glFsdfGg"
-        }
-      ],
-      "duration_ms": 108344,
-      "name": "Call Me Baby",
-      "url": "https://open.spotify.com/track/7LNHdZnNuiDmsfEFi5n1YC"
-    },
-    {
-      "added_at": "2024-07-09 17:38:43",
-      "album": {
-        "name": "Cold Foam",
-        "url": "https://open.spotify.com/album/7toCOr4cd0FjmPcH5NhmAl"
-      },
-      "artists": [
-        {
-          "name": "ALEX CALDAZ",
-          "url": "https://open.spotify.com/artist/3CSVonh8IAx2aYwiGSDR1k"
-        }
-      ],
-      "duration_ms": 110149,
-      "name": "Love Wins Everything",
-      "url": "https://open.spotify.com/track/3UmHeHK2qf49UbkJ2AGTP7"
     }
   ],
   "unique_name": "Top 50 - Luxembourg",

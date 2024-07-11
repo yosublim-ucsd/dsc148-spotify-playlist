@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Nivea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,113 likes - 100 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,189 likes - 100 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

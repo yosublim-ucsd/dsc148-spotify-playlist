@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > รวมเพลงสากลสุดฮิต และเพลงในกระแสตอนนี้\. The latest hits & viral tracks right now\. Cover: Fyeqoodgurl
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,837 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,844 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

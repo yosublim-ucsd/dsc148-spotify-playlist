@@ -1,12 +1,12 @@
 {
   "description": "This Is MYA. Los temas esenciales, todos en una lista.",
-  "num_followers": 39834,
+  "num_followers": 39854,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACFiqI9gCpsVEGPiHVzd+9t",
+  "snapshot_id": "Zox9gAAAAADf6hER0lIknkLQCup/uvtx",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Soltamos",
-        "url": "https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 198353,
-      "name": "Nunca Soltamos",
-      "url": "https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lado Triste (Remix)",
         "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Soltamos",
+        "url": "https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 198353,
+      "name": "Nunca Soltamos",
+      "url": "https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAZA TAZA",
-        "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 158522,
-      "name": "TAZA TAZA",
-      "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
+      "duration_ms": 191573,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+        "name": "TAZA TAZA",
+        "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 191573,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c"
+      "duration_ms": 158522,
+      "name": "TAZA TAZA",
+      "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
       "duration_ms": 148184,
       "name": "A Escondidas",
       "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Pi\u00e9nsalo (feat. Rombai)",
+      "url": "https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u"
     },
     {
       "added_at": null,
@@ -943,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Pi\u00e9nsalo (feat. Rombai)",
-      "url": "https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indiscutibles",
         "url": "https://open.spotify.com/album/0d7QAQ5aAXy74LiPFkWLBH"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda y Noche",
-        "url": "https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "D\u00eda y Noche",
-      "url": "https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 208026,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00eda y Noche",
+        "url": "https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "D\u00eda y Noche",
+      "url": "https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF"
     },
     {
       "added_at": null,

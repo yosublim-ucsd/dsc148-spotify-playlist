@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: KISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,329 likes - 682 songs - 1 day 17 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,686 likes - 682 songs - 1 day 17 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

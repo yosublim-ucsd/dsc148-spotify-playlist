@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: CINTHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,177 likes - 90 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,313 likes - 90 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

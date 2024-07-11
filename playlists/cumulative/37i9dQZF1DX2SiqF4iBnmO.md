@@ -2,7 +2,7 @@
 
 ### [808 Classics](https://open.spotify.com/playlist/37i9dQZF1DX2SiqF4iBnmO)
 
-> A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
+> Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
 90 songs - 7 hr 1 min
 

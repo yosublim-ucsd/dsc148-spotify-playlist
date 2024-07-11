@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,677 songs - 5 day 11 hr 16 min
+2,678 songs - 5 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [Ebbe](https://open.spotify.com/track/55mxfMmE8nzckEzfPGRqwU) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 3:32 | 2021-07-18 | 2021-07-19 |
 | [Echte Berliner](https://open.spotify.com/track/3UQmAyLKqje4RBLpMZGdIW) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Echte Berliner](https://open.spotify.com/album/0XsYPhRwVbL3fMALoQTsnk) | 2:33 | 2022-06-25 | 2022-06-28 |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-10-02 | 2023-11-12 |
+| [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 | 2024-07-10 |  |
 | [Egal](https://open.spotify.com/track/6zF5LE8eK9Bf98UwLVe8Du) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Egal](https://open.spotify.com/album/6ITpDSZZKmZejmS4EPMqPW) | 2:59 | 2024-02-24 | 2024-04-28 |
 | [Egal wie hoch](https://open.spotify.com/track/158x2q6kkau2zOK8IzjO0d) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Egal wie hoch](https://open.spotify.com/album/7CWFfsSnWC45RA5e08J7F5) | 2:25 | 2021-05-16 | 2021-05-23 |
 | [Eigentlich](https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Eigentlich](https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ) | 2:38 | 2022-07-16 | 2022-08-07 |
@@ -1865,7 +1866,7 @@
 | [Pirate](https://open.spotify.com/track/4rZCs12mDDseNSfpOIu5rc) | [Kasalla](https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S) | [Viva Express 5.0](https://open.spotify.com/album/22XeMrOFGzeCmL28kQrVkM) | 3:56 | 2024-02-09 | 2024-02-15 |
 | [Pirate](https://open.spotify.com/track/5e5C8eGXasN7JZApzBfopQ) | [Kasalla](https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S) | [Et jitt Kasalla!](https://open.spotify.com/album/6ELPZEfODg2DUvvgMPdvk6) | 3:56 | 2022-02-25 | 2023-02-22 |
 | [Pistazieneis](https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Pistazieneis](https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB) | 2:17 | 2024-07-06 |  |
-| [Pistoleta](https://open.spotify.com/track/61qNgUkD4ThD2DrmQSTH0X) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Augen Husky 2](https://open.spotify.com/album/0c5TX9ItLpEs1Z8wuA93dk) | 2:13 | 2024-05-11 |  |
+| [Pistoleta](https://open.spotify.com/track/61qNgUkD4ThD2DrmQSTH0X) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Augen Husky 2](https://open.spotify.com/album/0c5TX9ItLpEs1Z8wuA93dk) | 2:13 | 2024-05-11 | 2024-07-11 |
 | [Pistoleta](https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Pistoleta](https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU) | 2:13 | 2024-04-13 | 2024-05-12 |
 | [Platin](https://open.spotify.com/track/3LRFLqM4GEWCXvakg4rLtk) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Platin](https://open.spotify.com/album/4ECnmTmfk4Tli0d01iXm2S) | 3:09 | 2023-07-29 | 2023-07-31 |
 | [PLAYA'S CIRCLE](https://open.spotify.com/track/4t2xvZq61Ww2hpdvP1JoRw) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [PLAYA'S CIRCLE](https://open.spotify.com/album/0rE1mS53R8ACLjHbeQKCNl) | 3:28 | 2023-01-15 | 2023-01-23 |

@@ -427,6 +427,28 @@
     },
     {
       "album": {
+        "name": "Forever Young [Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)]",
+        "url": "https://open.spotify.com/album/6FDX3LJoKuDKaM7clzvuDZ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307653,
+      "name": "Forever Young - Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)",
+      "url": "https://open.spotify.com/track/3d8wAwAgFQn2oEIw8HI6Jb"
+    },
+    {
+      "album": {
         "name": "Planet Waves",
         "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
       },
@@ -438,7 +460,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 296133,
       "name": "Forever Young - Slow Version",
       "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
@@ -964,7 +986,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Song to Woody",
       "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
@@ -1758,7 +1780,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 192053,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"

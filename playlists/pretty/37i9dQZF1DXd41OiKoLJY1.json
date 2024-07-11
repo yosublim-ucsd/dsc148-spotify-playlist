@@ -1,6 +1,6 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Never Paco. Artwork: Isu Kim\n",
-  "num_followers": 60153,
+  "num_followers": 60171,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,30 @@
       "duration_ms": 280655,
       "name": "INLABOBO",
       "url": "https://open.spotify.com/track/6aLPS8nZqsCKV2OwgSFEe2"
+    },
+    {
+      "added_at": "2024-07-04 16:00:00",
+      "album": {
+        "name": "TWO SIDES (feat. Kalabrez)",
+        "url": "https://open.spotify.com/album/10t9dikPUCsUtP6JneQ8g3"
+      },
+      "artists": [
+        {
+          "name": "Luis V",
+          "url": "https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        },
+        {
+          "name": "Kalabrez",
+          "url": "https://open.spotify.com/artist/1GwadGz7UPgLBPAvkaFZKk"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "TWO SIDES (feat. Kalabrez)",
+      "url": "https://open.spotify.com/track/6lNrbmciTeydQYoFx4WixS"
     },
     {
       "added_at": "2024-07-04 16:00:00",

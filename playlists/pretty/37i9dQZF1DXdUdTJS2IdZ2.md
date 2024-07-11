@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Sherman Zhuo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,713 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,712 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [endless shine](https://open.spotify.com/track/1OUoxV1qoUGAxFngy2zcxB) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [endless shine](https://open.spotify.com/album/03cEdnJdRIxQ0n1FwXtK2D) | 3:01 |
-| 2 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:31 |
+| 2 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:30 |
 | 3 | [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 |
 | 4 | [Evolution Of NDP Songs](https://open.spotify.com/track/5DIxDHTTKBSsmQd8yvqfIi) | [MICappella](https://open.spotify.com/artist/7pOhEqKcqQyyKSxj8mmRKI) | [Evolution Of NDP Songs](https://open.spotify.com/album/1k9IbRlny2vNJe1L6DFUAp) | 5:14 |
 | 5 | [Evolution Of NDP Songs](https://open.spotify.com/track/5USHxCpDsBJlMFFC6CqkPc) | [The Island Voices](https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR) | [Evolution Of NDP Songs](https://open.spotify.com/album/7wCSnuRlGMSsVx5Jb0ZRVb) | 4:34 |

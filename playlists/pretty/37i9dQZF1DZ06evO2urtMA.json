@@ -1,12 +1,12 @@
 {
   "description": "This is Narrow Head. The essential tracks, all in one playlist.",
-  "num_followers": 1916,
+  "num_followers": 1917,
   "original_name": "This Is Narrow Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAADqXYHeYBVT7t/FKecwAalX",
+  "snapshot_id": "Zox9gAAAAACPzy5UQVC/uzDMbzhFVv6V",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 238464,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6Glr1Wc0TZ5Ta1BCbrvaHG"
+      "duration_ms": 185640,
+      "name": "Cool in Motion",
+      "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 185640,
-      "name": "Cool in Motion",
-      "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
+      "duration_ms": 238464,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6Glr1Wc0TZ5Ta1BCbrvaHG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-359 songs - 22 hr 18 min
+360 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-05-28 | 2022-04-13 |
 | [Heartbreak On The Dancefloor \(feat\. Frances\)](https://open.spotify.com/track/7LgOkzv8NTDeInrCLJnNru) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 3:15 | 2021-04-06 | 2022-10-02 |
 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 | 2022-09-02 |  |
-| [Heavy With Hoping](https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:01 | 2024-02-02 |  |
+| [Heavy With Hoping](https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:01 | 2024-02-02 | 2024-07-11 |
 | [Help Me Lose My Mind](https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe Version\)](https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp) | 4:04 | 2021-04-02 |  |
 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 | 2021-04-02 | 2024-04-19 |
 | [Here Comes The Rain \- Original Mix](https://open.spotify.com/track/0Od7e4432IiprdYvvdzJe4) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Deniz Kurtel](https://open.spotify.com/artist/6dXNn1zUugObsf4HRSnZJs) | [Here Comes The Rain](https://open.spotify.com/album/6wRCN5SbBHS406L4hUrSJz) | 7:16 | 2022-04-12 | 2022-04-19 |
@@ -223,6 +223,7 @@
 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 | 2023-08-25 |  |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-04-19 |  |
 | [not sorry](https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [not sorry](https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn) | 3:10 | 2024-06-28 |  |
+| [Nothing Ever Changes](https://open.spotify.com/track/4aoEq1EDG90hq53DR9DT2w) | [Bryce Alakai](https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B) | [Nothing Ever Changes](https://open.spotify.com/album/3NnNgFaFsLgrIKLne8GAys) | 2:54 | 2024-07-10 |  |
 | [Nothing Feels The Same](https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Nothing Feels The Same](https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o) | 3:01 | 2024-05-03 |  |
 | [Numb](https://open.spotify.com/track/51NQg3QIzvSwxZrrT6kEDx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Numb](https://open.spotify.com/album/3fun2FcGeEvBkWWEPhRxYN) | 3:50 | 2021-04-16 | 2024-05-18 |
 | [Ocean Drive](https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 3:26 | 2021-04-20 | 2024-07-06 |

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-14,399 songs - 31 day 2 hr 0 min
+14,400 songs - 31 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8985,6 +8985,7 @@
 | [Not Worthy](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 | 2023-05-11 | 2023-05-19 |
 | [Not Yet](https://open.spotify.com/track/3fwMbqUEH5U2jgOLq0Pfj3) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Not Yet](https://open.spotify.com/album/0UAfkJm7kBBQqWYCX5ZVDv) | 3:08 | 2024-03-21 | 2024-03-29 |
 | [Not Your Angel](https://open.spotify.com/track/6mZm8UsXesXTWZNPF3QKxq) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Not Your Angel](https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X) | 2:59 | 2024-06-13 | 2024-06-21 |
+| [not your cherry](https://open.spotify.com/track/6b1NQHfoth2oU8QF8CGjrk) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [not your cherry](https://open.spotify.com/album/6O3K7cjvA2YwLMyA1awAMf) | 3:21 | 2024-07-04 |  |
 | [not your fault](https://open.spotify.com/track/2jtHAE1bwV0qPnpg1KCMkH) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [not your fault](https://open.spotify.com/album/0Qq8puDyqqdmAWMUirix5o) | 3:45 | 2022-02-24 | 2022-03-04 |
 | [Not Your Girl](https://open.spotify.com/track/1pvsTzJULe1m5NfImDSS3h) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Not Your Girl](https://open.spotify.com/album/0z04G7cYu9EnVL0LlIZdWw) | 2:37 | 2022-11-17 | 2022-11-25 |
 | [Not Your Only One](https://open.spotify.com/track/4NvRCseHEd0HuIt63jVyT2) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Not Your Only One](https://open.spotify.com/album/4HTfYLdgcYfCSohIWawe7q) | 3:04 | 2024-01-18 | 2024-01-26 |
@@ -11146,7 +11147,7 @@
 | [Slo](https://open.spotify.com/track/5FTIkXAP1K5BLzOPTbxNOW) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Slo](https://open.spotify.com/album/3Nto6ptspgQ9HVBymWbJzN) | 2:52 | 2022-06-23 | 2022-07-01 |
 | [Slow](https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Slow](https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW) | 2:55 | 2022-07-28 | 2022-08-05 |
 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 | 2023-04-20 | 2023-04-28 |
-| [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Laszewo](https://open.spotify.com/artist/7ytetffNf8Df0lYmPxi9R2), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 | 2024-07-04 |  |
+| [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 | 2024-07-04 |  |
 | [Slow Down](https://open.spotify.com/track/0hgT59ZSZEkpgcBpgRGFls) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Slow Down](https://open.spotify.com/album/5mrKhnlSdH4MPgJvkRTLrP) | 2:29 | 2021-12-30 | 2022-01-07 |
 | [Slow It Down](https://open.spotify.com/track/18171YdqDGzCBecaLOo1ea) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Slow It Down](https://open.spotify.com/album/7IL0Nz2Z9TniZfpZ42dUDL) | 2:34 | 2022-09-29 | 2022-10-07 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-21 | 2024-03-29 |

@@ -1,12 +1,12 @@
 {
   "description": "What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.",
-  "num_followers": 107988,
+  "num_followers": 108004,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAj8fQbs7bV2mol2i4nPVlDWXm4U32b",
+  "snapshot_id": "AAAj/JuMJOeDOeR7HfG558+plaN6W3uR",
   "tracks": [
     {
       "added_at": "2024-03-29 14:33:31",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
+      "added_at": "2024-07-10 13:53:52",
+      "album": {
+        "name": "The Feeling's Mutual",
+        "url": "https://open.spotify.com/album/0F8Rw5zgKaNZPAElRxSVCy"
+      },
+      "artists": [
+        {
+          "name": "Milo Berra",
+          "url": "https://open.spotify.com/artist/2wYrP8wE4PaR92N8tPOh1d"
+        }
+      ],
+      "duration_ms": 159549,
+      "name": "The Feeling's Mutual",
+      "url": "https://open.spotify.com/track/6IAF9arqzSdRojDnslyoqh"
+    },
+    {
       "added_at": "2024-06-05 14:31:55",
       "album": {
         "name": "Lover",
@@ -453,6 +469,22 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
+      "added_at": "2024-07-10 14:59:25",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/5iSzdROTQXPbsEyzzsqqxr"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Widding",
+          "url": "https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb"
+        }
+      ],
+      "duration_ms": 176172,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
+    },
+    {
       "added_at": "2024-07-09 13:28:18",
       "album": {
         "name": "ruin july",
@@ -469,22 +501,6 @@
       "url": "https://open.spotify.com/track/24jV2UdYZkwbe14zBDoVPy"
     },
     {
-      "added_at": "2024-06-29 14:45:35",
-      "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/5iSzdROTQXPbsEyzzsqqxr"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Widding",
-          "url": "https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb"
-        }
-      ],
-      "duration_ms": 176172,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
-    },
-    {
       "added_at": "2024-07-05 23:00:40",
       "album": {
         "name": "Stay The Night",
@@ -499,6 +515,22 @@
       "duration_ms": 193090,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/2Yq8koklcbpOSVYMOvFWh4"
+    },
+    {
+      "added_at": "2024-07-10 17:02:12",
+      "album": {
+        "name": "Afrobeats Nation",
+        "url": "https://open.spotify.com/album/0FHXs530UWmHK0qFy74Y3B"
+      },
+      "artists": [
+        {
+          "name": "Kayo Adele",
+          "url": "https://open.spotify.com/artist/6b7piat9kd1q5WJlsTdfBe"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "I Don't Even Know",
+      "url": "https://open.spotify.com/track/1NWMyg0ZpkxodaagWNOjro"
     },
     {
       "added_at": "2024-03-24 02:32:55",
@@ -569,6 +601,22 @@
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
+      "added_at": "2024-07-10 13:19:22",
+      "album": {
+        "name": "PYH",
+        "url": "https://open.spotify.com/album/3lsAiKMEo9DRyQM65vCuFC"
+      },
+      "artists": [
+        {
+          "name": "Ki&T",
+          "url": "https://open.spotify.com/artist/5uRDg7PMhFEFaySEqaKt9i"
+        }
+      ],
+      "duration_ms": 135348,
+      "name": "PYH",
+      "url": "https://open.spotify.com/track/08Mxl9nMlGv0BF6VIe2doI"
+    },
+    {
       "added_at": "2024-07-06 06:00:34",
       "album": {
         "name": "Steel Breeze 2024 (Chatfield Remixes)",
@@ -587,6 +635,22 @@
       "duration_ms": 259963,
       "name": "You Don't Want Me Anymore (Acoustic) [Chatfield Remix]",
       "url": "https://open.spotify.com/track/7aqKLHzMeaiBHjd3Hld0Pq"
+    },
+    {
+      "added_at": "2024-07-10 11:06:51",
+      "album": {
+        "name": "Fast Talk",
+        "url": "https://open.spotify.com/album/3yi8CdAKJ2VHIG9NhxvsyX"
+      },
+      "artists": [
+        {
+          "name": "Tom Morgan",
+          "url": "https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c"
+        }
+      ],
+      "duration_ms": 149388,
+      "name": "Fast Talk",
+      "url": "https://open.spotify.com/track/5z0gNlg8OmYnUyt6RtR0jG"
     },
     {
       "added_at": "2024-07-05 23:00:30",
@@ -635,6 +699,26 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-07-10 17:01:34",
+      "album": {
+        "name": "Gotta",
+        "url": "https://open.spotify.com/album/5mtGu72IqoKw1mrPE7urdZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Whitley",
+          "url": "https://open.spotify.com/artist/515j6fONkNxb5EjrtHsTqN"
+        },
+        {
+          "name": "Dan's Dead",
+          "url": "https://open.spotify.com/artist/2nYdfmMNklO9CDtBlxqkh2"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Gotta",
+      "url": "https://open.spotify.com/track/3iGflVrKoY9f2DNW1utzeJ"
     },
     {
       "added_at": "2024-07-05 18:01:26",
@@ -699,22 +783,6 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
-    },
-    {
-      "added_at": "2024-06-29 19:18:45",
-      "album": {
-        "name": "Berlin I",
-        "url": "https://open.spotify.com/album/6U6fIsCGL3tSnceBghGmhM"
-      },
-      "artists": [
-        {
-          "name": "Joey Aronskind",
-          "url": "https://open.spotify.com/artist/2gdTcpZhwzAtoAJYNDysAk"
-        }
-      ],
-      "duration_ms": 151989,
-      "name": "Punk Ass",
-      "url": "https://open.spotify.com/track/6kV3ziIHE6gIg4tbgoZIEF"
     },
     {
       "added_at": "2024-07-08 19:24:49",
@@ -2027,74 +2095,6 @@
       "duration_ms": 149597,
       "name": "What's On Your Mind",
       "url": "https://open.spotify.com/track/0FVb71Ze5hVobgJ5k7m3L9"
-    },
-    {
-      "added_at": "2024-06-29 18:04:43",
-      "album": {
-        "name": "Where You From",
-        "url": "https://open.spotify.com/album/3ygvTvzlDrnMLJV7O9Nbxm"
-      },
-      "artists": [
-        {
-          "name": "Boicheckz",
-          "url": "https://open.spotify.com/artist/3kaKch6hjNnU8dRNaW1YT5"
-        }
-      ],
-      "duration_ms": 185557,
-      "name": "Where You From",
-      "url": "https://open.spotify.com/track/1xlFki8kIshAgJL0xFUDvT"
-    },
-    {
-      "added_at": "2024-06-29 18:03:32",
-      "album": {
-        "name": "Rains",
-        "url": "https://open.spotify.com/album/3lISlVBzYBHWZLElo9hC9b"
-      },
-      "artists": [
-        {
-          "name": "Adrian Pena",
-          "url": "https://open.spotify.com/artist/0EWnTsziZC8OnS091v0aXc"
-        },
-        {
-          "name": "Keenan Love",
-          "url": "https://open.spotify.com/artist/4CEalhhGcwO9pukA7EiHeb"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Rains",
-      "url": "https://open.spotify.com/track/04iWyQ0dt6wG4QIg2SAIFq"
-    },
-    {
-      "added_at": "2024-06-29 18:10:48",
-      "album": {
-        "name": "Easier Said Than Done",
-        "url": "https://open.spotify.com/album/3kjBE3ZxmGr4IXeFbbwSox"
-      },
-      "artists": [
-        {
-          "name": "TheLongoodBye",
-          "url": "https://open.spotify.com/artist/7n5v4ScowIXIA5xqOv2gle"
-        }
-      ],
-      "duration_ms": 200814,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/3efzgMi6Fcx8SUFdL6IBCh"
-    },
-    {
-      "added_at": "2024-06-29 12:01:16",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/5xvyXcM666P2DpIsrjRXZR"
-      },
-      "artists": [
-        {
-          "name": "Jack Kwon",
-          "url": "https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/0rsWCP5PW0Yh39kAY27smQ"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

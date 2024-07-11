@@ -2,9 +2,9 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story\. Cover \- Teri Baaton Mein Aisa Uljha Jiya
+> Let these songs be the background score to your love story\. Cover \- Mr\. & Mrs\. Mahi
 
-230 songs - 16 hr 11 min
+231 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Baliye Re \(From "Jersey"\)](https://open.spotify.com/track/5akb3M2p00EhXATJpHbUFD) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Baliye Re \(From "Jersey"\)](https://open.spotify.com/album/766Nv5EoEPjfsS5ONUoUja) | 3:07 | 2022-05-19 | 2023-01-04 |
 | [Bana Sharabi](https://open.spotify.com/track/2T1K8XIPSIcvXueBS6kw2L) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Bana Sharabi \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/5aCiRP8E4N9Tt0BosHPyfV) | 3:48 | 2022-12-15 | 2023-03-18 |
 | [Bandeya \- From "Dil Juunglee"](https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Bandeya \(From "Dil Juunglee"\)](https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h) | 3:04 | 2022-05-19 |  |
-| [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 | 2022-09-07 |  |
+| [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 | 2022-09-07 | 2024-07-11 |
 | [Bekhayali \(From "Kabir Singh"\)](https://open.spotify.com/track/1feANd8EfcDP5UqSvbheM3) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Bekhayali \(From "Kabir Singh"\)](https://open.spotify.com/album/5m5aIc0rrrPUMDARDnQzB9) | 6:11 | 2022-05-19 | 2022-12-16 |
 | [Boond Boond](https://open.spotify.com/track/1SgjQTc9BTGTgdjaVdbuZ0) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Hate Story Iv](https://open.spotify.com/album/0j4S24oduK76463zMwqy94) | 4:33 | 2023-03-27 | 2023-05-09 |
 | [Chale Aana](https://open.spotify.com/track/4clW7QGXTCYU5F5dTyfFJ2) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [De De Pyaar De](https://open.spotify.com/album/31lh22jsvWDf5ffgRAXaMs) | 4:31 | 2022-05-19 |  |
@@ -214,6 +214,7 @@
 | [Toota Jo Kabhi Tara](https://open.spotify.com/track/2xLaYf6XYIFz3tuUJjELAs) | [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [A Flying Jatt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cQKKwujNKugZkKru6rbgE) | 5:05 | 2024-05-28 |  |
 | [Tu Chahiye](https://open.spotify.com/track/3aaiAWCet6sbfOfLSn3g7i) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:32 | 2023-01-30 |  |
 | [Tu Hai Ki Nahi](https://open.spotify.com/track/4brSaQIT3bnnE41D042fgL) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Roy](https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf) | 5:33 | 2023-01-11 |  |
+| [Tu Hain Toh \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo) | [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Hunny](https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:43 | 2024-07-10 |  |
 | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/track/13tg1zpSfWyFQbv09a9LPD) | [Bobby\-Imran](https://open.spotify.com/artist/5HgB3r11CTMckYeopesztP), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/album/376E0BuJNLEggasPjj2MST) | 4:32 | 2023-05-26 | 2024-05-09 |
 | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM) | 3:20 | 2022-05-19 |  |
 | [Tu Jo Mila](https://open.spotify.com/track/7txLCGOXyDlDXTjtR1Sk4v) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:02 | 2023-01-30 | 2024-01-16 |

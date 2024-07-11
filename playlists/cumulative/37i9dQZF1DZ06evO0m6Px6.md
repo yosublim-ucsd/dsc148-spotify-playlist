@@ -2,7 +2,7 @@
 
 ### [This Is Harrison](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0m6Px6)
 
-> This is Harrison\. The essential tracks, all in one playlist.
+> This Is Harrison\. Los temas esenciales, todos en una lista.
 
 77 songs - 3 hr 39 min
 

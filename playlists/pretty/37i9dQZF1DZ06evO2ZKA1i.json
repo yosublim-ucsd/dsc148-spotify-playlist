@@ -1,12 +1,12 @@
 {
-  "description": "This Is Deep Purple. Los temas esenciales, todos en una lista.",
-  "num_followers": 288166,
+  "description": "This is Deep Purple. The essential tracks, all in one playlist.",
+  "num_followers": 288206,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACb7G+zBNdXRW775XHloVp7",
+  "snapshot_id": "Zox9gAAAAAAn/tdfL8vri9/YRWOK5qLE",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pictures of You",
-        "url": "https://open.spotify.com/album/5EC1eyGZyHGTTMQzO4YqSl"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/5jAJWEiul0dh390FLvF5ML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fireball (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 235960,
       "name": "Wasted Sunsets",
       "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/5EC1eyGZyHGTTMQzO4YqSl"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/5jAJWEiul0dh390FLvF5ML"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 326013,
       "name": "King of Dreams",
       "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 262093,
+      "name": "Mean Streak",
+      "url": "https://open.spotify.com/track/43OcdjkrK5lCmACNU3HSF2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 256626,
       "name": "Vavoom: Ted The Mechanic",
       "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "You Can't Do It Right - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "You Can't Do It Right - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Book of Taliesyn",
         "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 391866,
       "name": "Anthem - 2000 Remaster",
       "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "The Gypsy - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "The Gypsy - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extras: The Infinite B-Sides and Bonus Songs",
         "url": "https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 75706,
       "name": "Simple Folk",
       "url": "https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Love Don't Mean A Thing - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/4tStEMRJzynmOSlGTZyjhl"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Love Don't Mean A Thing - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/4tStEMRJzynmOSlGTZyjhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Lady Double Dealer - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR"
+      "duration_ms": 475240,
+      "name": "Flight of the Rat - 1995 Remaster",
+      "url": "https://open.spotify.com/track/3zhuhqAO2QHQKBK1zWYGrY"
     }
   ],
   "unique_name": "This Is Deep Purple",

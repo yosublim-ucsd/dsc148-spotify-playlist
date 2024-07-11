@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,959 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,008 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Mr\. Brightside](https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Mr\. Brightside](https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp) | 4:32 |
 | 150 | [Stand By Me](https://open.spotify.com/track/1FGvbfMafLBdymgrtGAZYh) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/5ZaWd8M09FAMH0otCM2M5D) | 4:05 |
 
-Snapshot ID: `ZWjUHgAAAAB2nNWrBrug2GwXiU8y9HpE`
+Snapshot ID: `Zo42NQAAAABvgTd+tG4IkW7ilWehMlWp`

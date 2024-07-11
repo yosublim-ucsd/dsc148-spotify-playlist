@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,249 likes - 40 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,384 likes - 40 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: : beabadoobee
 
-1,643 songs - 4 day 2 hr 59 min
+1,643 songs - 4 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [For All Time](https://open.spotify.com/track/6yu2Ct50UiLis9MmNxDkUf) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4M9zZ6jbePYVMHKMcI4Mt7) | 3:02 | 2023-09-01 | 2023-09-30 |
 | [Forbidden Doors](https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Forbidden Doors](https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu) | 3:54 | 2023-02-03 | 2023-04-09 |
 | [Forever](https://open.spotify.com/track/3Q9xCPaEU0vla6XzjIIKpx) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Forever](https://open.spotify.com/album/5GOTTBCBjwIyQfvl9zfhtW) | 3:45 | 2022-05-26 | 2022-06-25 |
-| [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:31 | 2024-07-04 |  |
+| [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:30 | 2024-07-04 |  |
 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 | 2022-10-29 |
 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-10-03 |
 | [Found a Job](https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Found a Job](https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7) | 4:12 | 2024-05-17 | 2024-07-05 |

@@ -2,7 +2,7 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. The essential tracks, all in one playlist.
+> This is Meg Smith\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
 
 23 songs - 1 hr 8 min
 

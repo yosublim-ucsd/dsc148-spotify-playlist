@@ -1,12 +1,12 @@
 {
-  "description": "This is Dominic Fike. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 80459,
+  "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
+  "num_followers": 80572,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACqT1xAaoyOA+ieqqAUXIN0",
+  "snapshot_id": "Zox9gAAAAAD9AgLXX8OSFU/3ltPWeWST",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
       "duration_ms": 141807,
       "name": "Hey Blondie",
       "url": "https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 76480,
+      "name": "Dominic\u2019s Interlude",
+      "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"
     }
   ],
   "unique_name": "This Is Dominic Fike",

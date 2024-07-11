@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-10",
-  "description": "Desde el Estadio de los \ud83d\udc79\ud83d\udc79\ud83d\udc79 Trueno nos comparte su nueva rola \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
-  "name": "Pelotero a la bola x Trueno",
+  "description": "La bola se va, se va, se va, se fue \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
+  "name": "Pelotero a la bola",
   "tracks": [
     {
       "album": {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 149706,
       "name": "De Ramones A Teran",
       "url": "https://open.spotify.com/track/038IDPIwCDdGdcC93RuiuE"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 142916,
       "name": "FUCK EL POLICE - REMIX",
       "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 150097,
       "name": "OHH BABY",
       "url": "https://open.spotify.com/track/0kwtg9F6dTUh8okKtdsgsO"
@@ -3404,7 +3404,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 206210,
       "name": "Son del Tlacololero",
       "url": "https://open.spotify.com/track/4abluGLBHKbRMie0VrCAgK"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 112331,
       "name": "THE ROOF IS ON FIRE",
       "url": "https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb"
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 158325,
       "name": "TRANKY FUNKY",
       "url": "https://open.spotify.com/track/2RGb1i12SiuWVU2EcVHY3G"
@@ -3976,6 +3976,24 @@
       "duration_ms": 252346,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"
     },
     {
       "album": {

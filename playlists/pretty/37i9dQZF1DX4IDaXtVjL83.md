@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: BE:FIRST X ATEEZ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,766 likes - 106 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,776 likes - 106 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

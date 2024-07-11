@@ -2347,6 +2347,28 @@
     },
     {
       "album": {
+        "name": "Broke My Heart Remixes",
+        "url": "https://open.spotify.com/album/2CTWvveW3GV8fkVB4TPpEs"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261187,
+      "name": "Broke My Heart - Champion Remix",
+      "url": "https://open.spotify.com/track/2GgOGIzfHAiJvFGDtRV2Cm"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5"
       },

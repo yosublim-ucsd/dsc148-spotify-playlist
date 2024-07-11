@@ -1,12 +1,12 @@
 {
   "description": "every main character needs their soundtrack. ",
-  "num_followers": 3690832,
+  "num_followers": 3716185,
   "original_name": "my life is a movie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo2qAAAAAAA83u5agpfMrx5rdvwAmCyp",
+  "snapshot_id": "Zo7LTAAAAACfNwBOa1RS8wPa1V0Fsn1/",
   "tracks": [
     {
       "added_at": "2024-07-09 21:22:08",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-09 19:09:54",
       "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L"
-      },
-      "artists": [
-        {
-          "name": "Take Care",
-          "url": "https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s"
-        }
-      ],
-      "duration_ms": 103500,
-      "name": "Think Of Me Once In A While, Take Care",
-      "url": "https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX"
-    },
-    {
-      "added_at": "2024-07-09 19:09:54",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 183440,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
+    },
+    {
+      "added_at": "2024-07-09 19:09:54",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 243907,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U"
     }
   ],
   "unique_name": "my life is a movie",

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Never Paco\. Artwork: Isu Kim
 
-2,494 songs - 6 day 2 hr 51 min
+2,495 songs - 6 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2297,6 +2297,7 @@
 | [twenty seven](https://open.spotify.com/track/4cehvQNMmaxaepbBLUTYRP) | [Audrey Milan](https://open.spotify.com/artist/1NRUBh6TEU3FcJ1cvnzZ2F) | [twenty seven](https://open.spotify.com/album/4SFwQOZ1pvEYoLTxZVYjsq) | 3:08 | 2023-09-21 | 2023-10-13 |
 | [Twentyfour](https://open.spotify.com/track/61tgud91RYuQnOxAqb7RCg) | [Mantelcity](https://open.spotify.com/artist/4Ez4V8MqwG0egdqaaQiHJq) | [Twentyfour](https://open.spotify.com/album/2JPm69hpVs6g6a8AXmjgr5) | 3:03 | 2023-07-13 | 2023-08-04 |
 | [Two Jobs](https://open.spotify.com/track/4s4zMchCBBtTFRMGXkIDi0) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Two Jobs](https://open.spotify.com/album/52aSZvjIxKsGtbsUBiWVSO) | 2:20 | 2024-06-20 |  |
+| [TWO SIDES \(feat\. Kalabrez\)](https://open.spotify.com/track/6lNrbmciTeydQYoFx4WixS) | [Luis V](https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9), [Kalabrez](https://open.spotify.com/artist/1GwadGz7UPgLBPAvkaFZKk) | [TWO SIDES \(feat\. Kalabrez\)](https://open.spotify.com/album/10t9dikPUCsUtP6JneQ8g3) | 3:20 | 2024-07-04 |  |
 | [Tête\-à\-tête](https://open.spotify.com/track/0WPRf37pOXeHLb8IdmbxgS) | [Hans Pagalan](https://open.spotify.com/artist/2uRXcHgMmh3J03rZrIlMOP) | [Tête\-à\-tête](https://open.spotify.com/album/7xpkXa1Zzggra05nCvtzdw) | 3:59 | 2023-05-11 | 2023-06-02 |
 | [U](https://open.spotify.com/track/2jZWsn7ay2PnEQmNTGO6C7) | [Jkey](https://open.spotify.com/artist/0iKx6KCKPA022Gu59vlNg2), [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7) | [U](https://open.spotify.com/album/1Ne0zVoR4BI8PWtJgSrb4V) | 3:35 | 2024-06-13 |  |
 | [U ARE MINE!](https://open.spotify.com/track/5xrZ2LEPlPpc9POXgEdAJ6) | [ANIKA NICOLE](https://open.spotify.com/artist/1aZ7b1KMeuKJND0RtyjvGV) | [U ARE MINE!](https://open.spotify.com/album/6b33lNCA5ExJzyHtN5PGD7) | 3:16 | 2022-04-07 | 2022-04-22 |

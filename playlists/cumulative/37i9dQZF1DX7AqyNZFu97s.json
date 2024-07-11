@@ -5997,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "Chicago Town",
+        "url": "https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207473,
+      "name": "Chicago Town",
+      "url": "https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H"
+    },
+    {
+      "album": {
         "name": "Play Your Part",
         "url": "https://open.spotify.com/album/6c49J0SiHWz0Emh0LYOtNx"
       },
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 248500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5"

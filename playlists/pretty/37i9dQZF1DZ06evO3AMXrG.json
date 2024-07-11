@@ -1,12 +1,12 @@
 {
-  "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
-  "num_followers": 231162,
+  "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
+  "num_followers": 231194,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACJDqQclo/Metdl1vKYs74L",
+  "snapshot_id": "Zox9gAAAAAALVj7sbQBiief5pvePVS4A",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 233333,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+        "name": "Cultura en Vivo",
+        "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 71333,
-      "name": "Enyoyando",
-      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
+      "duration_ms": 385933,
+      "name": "No Me Busques - En Vivo",
+      "url": "https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 382920,
       "name": "Ley Natural",
       "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cultura en Vivo",
-        "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 385933,
-      "name": "No Me Busques - En Vivo",
-      "url": "https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 57872,
+  "num_followers": 57891,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAA4OOxE4WA2cQg7jcA8h3ag",
+  "snapshot_id": "Zox9gAAAAABwatg13A6Q1KiTJTh9Dwy8",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 190360,
-      "name": "El Rey De Mil Coronas",
-      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+      "duration_ms": 178000,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az"
     },
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az"
+      "duration_ms": 129226,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 129226,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF"
+      "duration_ms": 168000,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
+      "duration_ms": 177306,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 177306,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
+      "duration_ms": 193893,
+      "name": "Me Refiero A Ti",
+      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Me Refiero A Ti",
-      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
+      "duration_ms": 137853,
+      "name": "Necesito Verte",
+      "url": "https://open.spotify.com/track/1VRKxi5SI03hPMZiSs1QSG"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos Con Sax, Vol. 2",
-        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "El Pavido Navido",
-      "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Casita De Adobe",
         "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 187560,
       "name": "Me Regalo Contigo",
       "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "El Pavido Navido",
+      "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Yo Te Amo Mar\u00eda",
+      "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 134000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9xitos Con Sax, Vol. 2",
-        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Yo Te Amo Mar\u00eda",
-      "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
     },
     {
       "added_at": null,

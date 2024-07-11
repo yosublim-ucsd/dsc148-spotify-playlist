@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover new Punjabi artists! Cover: Afan
+> Discover new Punjabi artists! Cover: Prabh Bains
 
-50 songs - 2 hr 24 min
+51 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [About You](https://open.spotify.com/track/5a2OkIZNf6ysvZKZsmIOxR) | [Rav X](https://open.spotify.com/artist/3zaV35echKlPH5F2dlinCq), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [About You](https://open.spotify.com/album/5ezBLlR4DRjRc3APXkeKQX) | 2:28 | 2024-07-03 |  |
 | [Affection](https://open.spotify.com/track/32g6xM4Lcn1edwMYP7nZZ9) | [Addy Saini](https://open.spotify.com/artist/4MxwauFt9SzunfDKNkuCM8) | [Affection](https://open.spotify.com/album/0rPy3BIr7pDIeQDYl8ao1i) | 1:10 | 2024-07-03 |  |
 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 | 2024-07-03 |  |
+| [Backhome](https://open.spotify.com/track/0GhRs7Mj3bJyHR94IswfXN) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Backhome](https://open.spotify.com/album/7LwdMsMPLn3RgCQpyBQKPY) | 2:42 | 2024-07-10 |  |
 | [BARREL](https://open.spotify.com/track/6rjyW0rSUTVwZO42QdsEbG) | [JATINDER SANDHU](https://open.spotify.com/artist/4cOSuBnGP1eqfqwk8eAnsq) | [BARREL](https://open.spotify.com/album/1g2MXouj62HSUnW3wsLDIO) | 2:12 | 2024-07-03 |  |
 | [Breed](https://open.spotify.com/track/6wh2PO9EVUPXCaJYzXXQsE) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Leo Rana](https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu) | [Breed](https://open.spotify.com/album/2cGBmj1TSZ3T0UROXRLOBp) | 2:18 | 2024-07-03 |  |
 | [Breeze](https://open.spotify.com/track/6Q3Vmb5Fic1bRv6EnQ1nsg) | [Supreet Singh](https://open.spotify.com/artist/6pICJ9L34VsLAdPfSpCT5n) | [Breeze](https://open.spotify.com/album/3DLvYUpFnSAp5yPpNzGYO7) | 3:04 | 2024-07-03 |  |
@@ -56,7 +57,7 @@
 | [Tera Khayal](https://open.spotify.com/track/4k5Q35dvIndAIVwOFlIRq4) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY), [Arshman Naeem](https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD) | [Tera Khayal](https://open.spotify.com/album/5h81rQX3YY2dTGlvWe1NsH) | 3:20 | 2024-07-03 |  |
 | [Vajah \(feat\. Sandeep Aulakh\)](https://open.spotify.com/track/6fCcsyrtvmHZykKYFETAMq) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Honey Dhillon](https://open.spotify.com/artist/0d4qS5KvrIwi0l5OMiftsH), [Sandeep Aulakh](https://open.spotify.com/artist/3allL5EVHCpBzNZHN2JCc5) | [Those Days](https://open.spotify.com/album/7gueC5Ubn0dbz8bGBuSBnj) | 3:50 | 2024-07-03 |  |
 | [Vanjara](https://open.spotify.com/track/6c3aaV7TSnCCnDAfPFwUAj) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [More Than Before](https://open.spotify.com/album/7IP5TCW1R4alX4miEBj7mT) | 2:47 | 2024-07-03 |  |
-| [Wow](https://open.spotify.com/track/6hgtL4QNCjzgYkxw9zUbve) | [Afan](https://open.spotify.com/artist/72OJ8ZA4JdD24oy34DweOX) | [Highway Hits](https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq) | 2:19 | 2024-07-03 |  |
+| [Wow](https://open.spotify.com/track/6hgtL4QNCjzgYkxw9zUbve) | [Afan](https://open.spotify.com/artist/72OJ8ZA4JdD24oy34DweOX) | [Highway Hits](https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq) | 2:19 | 2024-07-03 | 2024-07-11 |
 | [YOUTH WAVE](https://open.spotify.com/track/6OXaPFparqslpMCns4NqIr) | [Lovenoor](https://open.spotify.com/artist/1PLbOK3g7lqOANtCK1y4tw), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [YOUTH WAVE](https://open.spotify.com/album/4G8QmbeLMFwNbhC7WY3aol) | 2:35 | 2024-07-03 |  |
 
 \*This playlist was first scraped on 2024-07-05. Prior content cannot be recovered.

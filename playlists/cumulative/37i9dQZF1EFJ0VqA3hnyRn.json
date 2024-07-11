@@ -1059,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/2JdzDl1Hrf9FCrh2KslLpX"
+      },
+      "artists": [
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/2BVVBl3mlTyJRXxJQgrCEW"
+        },
+        {
+          "name": "Alexandra",
+          "url": "https://open.spotify.com/artist/6SJW81YySWIZxiNak4T0Ss"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193018,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/5EuZeqptc9gPyvBTI4XxvK"
+    },
+    {
+      "album": {
         "name": "Blind Justice",
         "url": "https://open.spotify.com/album/5v24HOnEY07CArXQReEC84"
       },
@@ -1070,7 +1092,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 236040,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi"
@@ -1804,6 +1826,24 @@
       "duration_ms": 121112,
       "name": "Grrrls",
       "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
+    },
+    {
+      "album": {
+        "name": "GX",
+        "url": "https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u6620\u6f54 GEmma Wu",
+          "url": "https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128516,
+      "name": "Gugoo Game (feat. PIKO\u592a\u90ce)",
+      "url": "https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7"
     },
     {
       "album": {
@@ -2738,6 +2778,24 @@
       "duration_ms": 222106,
       "name": "Live by the Gun (feat. Akon)",
       "url": "https://open.spotify.com/track/0CxCpL8uCAwThYevFxv6bb"
+    },
+    {
+      "album": {
+        "name": "Straight from the Studio: The Hits January 2016",
+        "url": "https://open.spotify.com/album/3xpISCse4tIpurM2nfaQDu"
+      },
+      "artists": [
+        {
+          "name": "The New Releases",
+          "url": "https://open.spotify.com/artist/0KcrR46L75FgSR7uRuIwqB"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227472,
+      "name": "Locked Away",
+      "url": "https://open.spotify.com/track/1tmtNTFj5e1lOZ5FF5D1uD"
     },
     {
       "album": {
@@ -4470,6 +4528,28 @@
       "duration_ms": 207440,
       "name": "Stadium",
       "url": "https://open.spotify.com/track/7CVQNMKzfWgKtawyUr0b6W"
+    },
+    {
+      "album": {
+        "name": "Kardi Gras Vol. 1: The Clash",
+        "url": "https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Sunshine (feat. JRDN)",
+      "url": "https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2"
     },
     {
       "album": {

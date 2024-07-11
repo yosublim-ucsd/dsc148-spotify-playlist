@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7bdI7Q9ffxcej6cfVUktvb">Lani Rose</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,085 likes - 98 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,126 likes - 98 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 94 | [Colors](https://open.spotify.com/track/6Sp8ojv0nTHp389DeJODxq) | [Constance Dees](https://open.spotify.com/artist/0kIBXBjW4OANrsRuMto6yu) | [Colors](https://open.spotify.com/album/17ghsvsTs3TJqtRqt79AxU) | 3:22 |
 | 95 | [You're Almost There \- Live](https://open.spotify.com/track/13qP1YwtiaE8F0V4Iuu0EL) | [Dana D\. Berry](https://open.spotify.com/artist/4ZwK3TviOkNzUcCn8XlHIJ), [Tanya Ray](https://open.spotify.com/artist/4f1iD3DnRZ5FYRQBv2LzYZ), [The Intentional Worshippers](https://open.spotify.com/artist/6PeAiv1SYwV9ckxlpZkZZM) | [Releasing Heaven, Vol\. 4: The Birthing Room \(Live\)](https://open.spotify.com/album/2zOrkJmX31KtB2hOVmWgsZ) | 6:25 |
 | 96 | [Witness \- Extended/Live](https://open.spotify.com/track/5mDFldrxQUJeuyYeKN2Hn5) | [Dexter Walker & Zion Movement](https://open.spotify.com/artist/0SyBadI2cJq9H6jhkmTQin), [Angela Spivey](https://open.spotify.com/artist/5IUZS5frAlxySZc6OEiYF2) | [Impact \(Live\)](https://open.spotify.com/album/0vIVx9Oqgkq7oiqOkPKdTR) | 6:05 |
-| 97 | ['Tis So Sweet](https://open.spotify.com/track/22RCV9eBuxWEpM3tDjR2Fm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | ['Tis So Sweet](https://open.spotify.com/album/2wheFooCqNgwlyHyq7x066) | 3:55 |
+| 97 | ['Tis So Sweet](https://open.spotify.com/track/22RCV9eBuxWEpM3tDjR2Fm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | ['Tis So Sweet](https://open.spotify.com/album/2wheFooCqNgwlyHyq7x066) | 3:55 |
 | 98 | [Sacred Cross](https://open.spotify.com/track/385zaihIIei4ofzmfOYrWB) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Sacred Cross](https://open.spotify.com/album/1QsUDuFvtx6AvXSMCIoGJP) | 3:55 |
 
 Snapshot ID: `ZodxCgAAAAA1HNq0RaE9ZjWGlcVN/ULZ`

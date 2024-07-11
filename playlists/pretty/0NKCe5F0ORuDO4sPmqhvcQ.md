@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,714 likes - 144 songs - 8 hr 7 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,714 likes - 146 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 142 | [Waited 4 U \- Disco Lines Remix](https://open.spotify.com/track/5NvHVlACuvo9gxiurxPbxf) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Waited 4 U \(Disco Lines Remix\)](https://open.spotify.com/album/1Wp3nivOj1034mx9oqBNo2) | 4:33 |
 | 143 | [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 |
 | 144 | [Alaska](https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Alaska](https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh) | 4:08 |
+| 145 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
+| 146 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
 
-Snapshot ID: `AAAp1pa3uUHbRaD9DvKR3SksZsCAsHTu`
+Snapshot ID: `AAAp2E/UPJE08Ym0PvujST5a5IQClKnc`

@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 53 min
+69 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [As Ruas Sabem Meu Nome](https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl) | [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX) | [Má Influência](https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw) | 2:57 | 2023-12-30 |  |
 | [Borboleta Azul](https://open.spotify.com/track/5PvO2hVi63iuEQjbIGIU7g) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 3:31 | 2023-12-30 | 2024-02-25 |
 | [BRONCA](https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [OgEMr](https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ) | 3:25 | 2023-12-30 |  |
-| [Buzz Lightyear](https://open.spotify.com/track/4svcCNuxugwP6wrSnoMIfB) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Buzz Lightyear](https://open.spotify.com/album/5dUK91bxsgiaYoXDktf6IO) | 4:13 | 2023-12-30 |  |
+| [Buzz Lightyear](https://open.spotify.com/track/0kVRf1PsgGElhXAyWm0Js3) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Buzz Lightyear](https://open.spotify.com/album/5GZUFukDPFGiRmVepQHjk7) | 4:13 | 2024-07-11 |  |
+| [Buzz Lightyear](https://open.spotify.com/track/4svcCNuxugwP6wrSnoMIfB) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Buzz Lightyear](https://open.spotify.com/album/5dUK91bxsgiaYoXDktf6IO) | 4:13 | 2023-12-30 | 2024-07-11 |
 | [Caso Perdido](https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Minha Ex é Minha Maior Fã](https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw) | 2:51 | 2024-06-17 |  |
 | [Coisa Fina](https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Coisa Fina](https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7) | 2:56 | 2023-12-30 |  |
 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 | 2023-12-30 |  |

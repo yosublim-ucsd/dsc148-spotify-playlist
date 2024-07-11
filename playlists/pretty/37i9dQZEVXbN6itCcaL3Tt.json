@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 263653,
+  "num_followers": 263738,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LiCgmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LiHyGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "zosta\u0144, prosz\u0119",
         "url": "https://open.spotify.com/album/4ZCCHJbKdusUv15RU5lJZH"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5i0KjwixfbjGyD1Dxa6vxS"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "PATOPOP (Vol. 1)",
         "url": "https://open.spotify.com/album/1vn8JolZTeJDIzD0Dbrhxv"
@@ -57,27 +57,7 @@
       "url": "https://open.spotify.com/track/1jxn3isffYQHcGmzy4Z309"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Chyba \u017ce z Tob\u0105",
-        "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
-      },
-      "artists": [
-        {
-          "name": "MODELKI",
-          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
-        },
-        {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Chyba \u017ce z Tob\u0105",
-      "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Woda Ksi\u0119\u017cycowa",
         "url": "https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb"
@@ -105,7 +85,7 @@
       "url": "https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Genziara",
         "url": "https://open.spotify.com/album/30VNP3Hclj06YduVMnjPP7"
@@ -121,23 +101,27 @@
       "url": "https://open.spotify.com/track/2nUpzFnUPY6Omv9XWa292d"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/6AyR9OVzXt4FokEcjtautT"
+        "name": "Chyba \u017ce z Tob\u0105",
+        "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
       },
       "artists": [
         {
-          "name": "SVM!R",
-          "url": "https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh"
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
         }
       ],
-      "duration_ms": 166764,
-      "name": "NDA",
-      "url": "https://open.spotify.com/track/1LTAYhorx76972Pr5ZOk8b"
+      "duration_ms": 131250,
+      "name": "Chyba \u017ce z Tob\u0105",
+      "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -165,23 +149,7 @@
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Kaprysy",
-        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 207169,
-      "name": "by\u0142o, min\u0119\u0142o",
-      "url": "https://open.spotify.com/track/5OC347cwcGpiwnHt0YmToq"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "och i ach",
         "url": "https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF"
@@ -197,39 +165,39 @@
       "url": "https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 207169,
+      "name": "by\u0142o, min\u0119\u0142o",
+      "url": "https://open.spotify.com/track/5OC347cwcGpiwnHt0YmToq"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "B012",
-        "url": "https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK"
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/6AyR9OVzXt4FokEcjtautT"
       },
       "artists": [
         {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+          "name": "SVM!R",
+          "url": "https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh"
         }
       ],
-      "duration_ms": 138600,
-      "name": "B012",
-      "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
+      "duration_ms": 166764,
+      "name": "NDA",
+      "url": "https://open.spotify.com/track/1LTAYhorx76972Pr5ZOk8b"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "SOBOTA WIECZ\u00d3R",
         "url": "https://open.spotify.com/album/3ve9nVA4gEYrA0m1OrL2P6"
@@ -249,7 +217,7 @@
       "url": "https://open.spotify.com/track/62x7s8C2GFiu9Ju3eSZ5GB"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -265,7 +233,39 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "B012",
+        "url": "https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "B012",
+      "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
@@ -293,7 +293,23 @@
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "Prawie straci\u0142em g\u0142os",
+        "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 144472,
+      "name": "Prawie straci\u0142em g\u0142os",
+      "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "ERA47",
         "url": "https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu"
@@ -313,23 +329,7 @@
       "url": "https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Prawie straci\u0142em g\u0142os",
-        "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
-      },
-      "artists": [
-        {
-          "name": "Chivas",
-          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
-        }
-      ],
-      "duration_ms": 144472,
-      "name": "Prawie straci\u0142em g\u0142os",
-      "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "GENERACJA CUZI",
         "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/5fqjgdj9SMB4Jjmyc9cY1J"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Dziewczyna Pop",
         "url": "https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB"
@@ -393,7 +393,23 @@
       "url": "https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "LEC\u0118 BO CHC\u0118",
         "url": "https://open.spotify.com/album/2ZQVhK7B598PmTwpZPoQHf"
@@ -425,23 +441,7 @@
       "url": "https://open.spotify.com/track/27Xvm20KQ8qMzVvaz32I98"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/3CgWmnnox6kF0NvJpZWSv8"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO"
@@ -497,23 +497,27 @@
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "in real life",
+        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 134025,
+      "name": "MILLIE WALKY",
+      "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -537,43 +541,23 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "in real life",
-        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 134025,
-      "name": "MILLIE WALKY",
-      "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Kaprysy",
-        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
-      "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "G",
         "url": "https://open.spotify.com/album/7CEzHDYHDSP9roSsiSM7Wr"
@@ -589,7 +573,39 @@
       "url": "https://open.spotify.com/track/7yHuqNnOtkfc2k9GF7nMMR"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
+      "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "7 DAM",
+        "url": "https://open.spotify.com/album/6Mu6pSBimQAd9i334j2nQw"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "duration_ms": 134068,
+      "name": "7 DAM",
+      "url": "https://open.spotify.com/track/0u4LafmewDz5L2FNqqWGud"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
@@ -609,23 +625,23 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "Power Up",
+        "url": "https://open.spotify.com/album/0iwUNQApuN2m00w8Y5opQ8"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+      "duration_ms": 218824,
+      "name": "Power Up",
+      "url": "https://open.spotify.com/track/0UUfAzaqo4pO0ikM7llaRJ"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Wosk",
         "url": "https://open.spotify.com/album/2Urv8R4iILFJDzrVrVoPDs"
@@ -645,7 +661,23 @@
       "url": "https://open.spotify.com/track/7KbJRPtHT3uVD2gmqO8A4u"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -673,23 +705,7 @@
       "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "7 DAM",
-        "url": "https://open.spotify.com/album/6Mu6pSBimQAd9i334j2nQw"
-      },
-      "artists": [
-        {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "7 DAM",
-      "url": "https://open.spotify.com/track/0u4LafmewDz5L2FNqqWGud"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
@@ -709,7 +725,99 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/0tbekMBVgamh1qFEoZJuio"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "OG ENZO",
+          "url": "https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "911",
+      "url": "https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "in real life",
+        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "duration_ms": 185084,
+      "name": "GRAWITACJA",
+      "url": "https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/6ay5i1EpdXJA1MO4216Cif"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/6esBajH4pfY0i61Vr53QWR"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Wolne duchy (feat. Daria Zawia\u0142ow, Mrozu & Kacperczyk)",
         "url": "https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie"
@@ -737,99 +845,39 @@
       "url": "https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/0tbekMBVgamh1qFEoZJuio"
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
       "artists": [
         {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "OG ENZO",
-          "url": "https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 149126,
-      "name": "911",
-      "url": "https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m"
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "in real life",
-        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 185084,
-      "name": "GRAWITACJA",
-      "url": "https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "On Me",
-        "url": "https://open.spotify.com/album/6ay5i1EpdXJA1MO4216Cif"
-      },
-      "artists": [
-        {
-          "name": "MODELKI",
-          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
-        },
-        {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/6esBajH4pfY0i61Vr53QWR"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
@@ -849,7 +897,27 @@
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
+      "album": {
+        "name": "EURO",
+        "url": "https://open.spotify.com/album/2XVL2sa2fVGNTwE35TcpVO"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Premixm",
+          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "EURO",
+      "url": "https://open.spotify.com/track/37CyqdFS6WulTiyNt6RV9m"
+    },
+    {
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "BLINDBOX",
         "url": "https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0"
@@ -865,59 +933,7 @@
       "url": "https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "ERA47",
         "url": "https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/0jvrgOlLkTZdA7zfOUWzQS"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "PLE\u015a\u0143",
         "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
@@ -953,23 +969,7 @@
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
-      "album": {
-        "name": "Kaprysy",
-        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 251455,
-      "name": "hip hip hura!",
-      "url": "https://open.spotify.com/track/2L8ynuwjZTbrJMOoUuApDA"
-    },
-    {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
         "name": "PATOPOP (Vol. 1)",
         "url": "https://open.spotify.com/album/1vn8JolZTeJDIzD0Dbrhxv"
@@ -997,24 +997,24 @@
       "url": "https://open.spotify.com/track/2D4DUc5XU6p8iBmzjPH9AZ"
     },
     {
-      "added_at": "2024-07-09 17:38:45",
+      "added_at": "2024-07-10 09:37:20",
       "album": {
-        "name": "EURO",
-        "url": "https://open.spotify.com/album/2XVL2sa2fVGNTwE35TcpVO"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Miszel",
-          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Premixm",
-          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 136000,
-      "name": "EURO",
-      "url": "https://open.spotify.com/track/37CyqdFS6WulTiyNt6RV9m"
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     }
   ],
   "unique_name": "Top 50 - Poland",

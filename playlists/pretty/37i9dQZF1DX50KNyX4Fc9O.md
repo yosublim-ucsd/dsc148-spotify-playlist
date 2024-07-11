@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Telenova
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,018 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,050 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,23 +12,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 2 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 |
 | 3 | [Discothèque Inside My Head](https://open.spotify.com/track/7vytqQKZBdWwpfA3aYPRGJ) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Discothèque Inside My Head](https://open.spotify.com/album/7f7H6iXK3osVKuBxLG7lpA) | 3:34 |
 | 4 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 |
-| 5 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
+| 5 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 |
 | 6 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
-| 7 | [When It Rains](https://open.spotify.com/track/3QZTCVkRbtZG3Jp4vwhV1F) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When It Rains](https://open.spotify.com/album/5rknaasYykSFpXCMy5m4Zh) | 2:49 |
+| 7 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 8 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
-| 9 | [Won't Stop \(feat\. Jessica Mauboy\)](https://open.spotify.com/track/2t8Gy9wUksUYw9AGJOaQPU) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Won't Stop](https://open.spotify.com/album/4urOV6FfIrPTOu9NfFmvTd) | 3:01 |
+| 9 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
 | 10 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
-| 11 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 |
-| 12 | [Two Friends](https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Two Friends](https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs) | 3:06 |
+| 11 | [When It Rains](https://open.spotify.com/track/3QZTCVkRbtZG3Jp4vwhV1F) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When It Rains](https://open.spotify.com/album/5rknaasYykSFpXCMy5m4Zh) | 2:49 |
+| 12 | [Won't Stop \(feat\. Jessica Mauboy\)](https://open.spotify.com/track/2t8Gy9wUksUYw9AGJOaQPU) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Won't Stop](https://open.spotify.com/album/4urOV6FfIrPTOu9NfFmvTd) | 3:01 |
 | 13 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 |
-| 14 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 |
-| 15 | [Think It's You](https://open.spotify.com/track/5tHBtdIwBIJP9zDZL95PIe) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [Think It's You](https://open.spotify.com/album/2yj8ScoVF6UnyCxe1242u4) | 3:32 |
+| 14 | [Two Friends](https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Two Friends](https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs) | 3:06 |
+| 15 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 |
 | 16 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 |
-| 17 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 |
-| 18 | [Lordy Lordy](https://open.spotify.com/track/2ooAOaBbGb5tAACmXAyLGD) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Lordy Lordy](https://open.spotify.com/album/2VTRLPiyn8LIQnkr2NZ2rD) | 3:50 |
-| 19 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
-| 20 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
-| 21 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
+| 17 | [Think It's You](https://open.spotify.com/track/5tHBtdIwBIJP9zDZL95PIe) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [Think It's You](https://open.spotify.com/album/2yj8ScoVF6UnyCxe1242u4) | 3:32 |
+| 18 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 |
+| 19 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 |
+| 20 | [Lordy Lordy](https://open.spotify.com/track/2ooAOaBbGb5tAACmXAyLGD) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Lordy Lordy](https://open.spotify.com/album/2VTRLPiyn8LIQnkr2NZ2rD) | 3:50 |
+| 21 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 22 | [See U In 3](https://open.spotify.com/track/6sZvLhRDxHPxpMxMxPRwVG) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [See U In 3](https://open.spotify.com/album/3maHSchNeIONEUwgnOYBnp) | 2:45 |
 | 23 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
 | 24 | [I DON'T WANNA LIVE IN A WORLD WITHOUT YOU](https://open.spotify.com/track/5JxsIHjPMcJORqwQquVK1k) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I DON'T WANNA LIVE IN A WORLD WITHOUT YOU](https://open.spotify.com/album/5TB7nqgOySwnb2GpgSxeTf) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Call Me Over](https://open.spotify.com/track/0AbelNIOOzvaWVihsOpxbp) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [And The Clouds Came Undone](https://open.spotify.com/album/5yTY0rpeaUJuGLmbqWDAiQ) | 4:04 |
 | 100 | [Borderline](https://open.spotify.com/track/1f3Fsm6XCioBVtk8MywKOs) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [Borderline](https://open.spotify.com/album/6GsRFcFLmBZtt6VeB2pcca) | 2:50 |
 
-Snapshot ID: `Zoaq4AAAAADdwQotDQen0QhE1qOdosYY`
+Snapshot ID: `Zo4gNAAAAABuSDxtq1Flvp6vveufS5s5`

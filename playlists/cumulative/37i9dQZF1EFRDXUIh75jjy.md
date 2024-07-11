@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 9 hr 41 min
+187 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Competition \- Single Edit](https://open.spotify.com/track/5l5TamK1eGSUAzBhsutyyk) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Competition](https://open.spotify.com/album/0HNBUptk47vF5IiBBAnmyV) | 3:08 | 2024-06-07 |  |
 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 | 2024-06-07 |  |
 | [Cry](https://open.spotify.com/track/0IdaqHIUoLiupO6Hc0Y8CO) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:31 | 2024-06-07 |  |
-| [Cry Baby](https://open.spotify.com/track/6oEM7RBZKXEQFxMqIdE7OW) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/4OfD5OiEll8cVpomJcq9GX) | 3:42 | 2024-06-07 |  |
+| [Cry Baby](https://open.spotify.com/track/0KXcvoQDhA4bt2hjhJcN7O) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/71JVxlGlLQHZZ1anFXkeej) | 3:42 | 2024-07-10 |  |
+| [Cry Baby](https://open.spotify.com/track/6oEM7RBZKXEQFxMqIdE7OW) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/4OfD5OiEll8cVpomJcq9GX) | 3:42 | 2024-06-07 | 2024-07-11 |
 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 | 2024-06-07 |  |
 | [Daydream](https://open.spotify.com/track/1TtjtIHYRJuu64TYRzF9U7) | [Chelsea Basham](https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz) | [Youngest](https://open.spotify.com/album/5PU9JkMbxGEtcspgUcgVwj) | 2:47 | 2024-06-07 |  |
 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 | 2024-06-07 |  |

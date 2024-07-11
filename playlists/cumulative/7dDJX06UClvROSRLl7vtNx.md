@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-448 songs - 19 hr 33 min
+449 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Holiday](https://open.spotify.com/track/3XIzACaLBacvVPZx5APc4r) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8) | [Holiday](https://open.spotify.com/album/1SQnxBv8ypaQVhhU5zAvdd) | 2:30 | 2023-10-27 |  |
 | [Home](https://open.spotify.com/track/3btdOaDH4o9B518GryM5RT) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Bucko.](https://open.spotify.com/artist/7amYz3MYdqevjGc0hyVk4r), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Home](https://open.spotify.com/album/7FddB5ZB33rW6GC88JFhNh) | 2:12 | 2024-02-02 | 2024-04-19 |
 | [Horizon \(So Blue\)](https://open.spotify.com/track/4q4IwjuMCZ5g9e9LwH9P3J) | [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Horizon \(So Blue\)](https://open.spotify.com/album/3So42AUVeG31u5L8IN1HvE) | 2:15 | 2024-01-27 |  |
+| [Hotel California](https://open.spotify.com/track/0CGnyglAc8wPFj8lus9P0W) | [live to love](https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Hotel California](https://open.spotify.com/album/6qtt9QJYtwYoO9K6FeNPhe) | 3:08 | 2024-07-10 |  |
 | [House Of Cards](https://open.spotify.com/track/6dCF9KJngOrJCmMuxFmBx1) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [House Of Cards](https://open.spotify.com/album/6ru1h6aqej9yk3r4gJzwMH) | 2:36 | 2023-11-05 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7l8ZciJEkbSpmL4jaKv4k9) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [How Deep Is Your Love](https://open.spotify.com/album/58llHvcuLwyZdMjRXC1af6) | 1:52 | 2024-02-04 | 2024-03-11 |
 | [How Will I Know](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Danny CLLS](https://open.spotify.com/artist/6d3nH8GbnopYSzp2u5qaFG), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [How Will I Know](https://open.spotify.com/album/5UVeoCXb9GJtXl3AiLk1RV) | 2:30 | 2024-05-04 | 2024-06-23 |

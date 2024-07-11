@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jiselle(\uc9c0\uc140))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Gist(\uc9c0\uc2a4\ud2b8))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -4079,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/27lTlZeBbBoAZ83PtjxPUl"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248213,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/1m7yg4UDxh2xco5eRq9UL5"
+    },
+    {
+      "album": {
         "name": "Moebius",
         "url": "https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ"
       },
@@ -4744,7 +4762,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 169276,
       "name": "Power",
       "url": "https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN"

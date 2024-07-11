@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,808 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,859 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [Amor Eterno](https://open.spotify.com/track/0drvU0khBZ3LzQDZYETczO) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Cuerdas, Amor y Guitarra](https://open.spotify.com/album/2fgb11bHq5kshVUKquCsKu) | 5:46 |
 | 100 | [Rayando el Sol](https://open.spotify.com/track/5q9YsFCYfgyo1vmkSMD8wl) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Serie de Colección 16 Auténticos Éxitos Antonio Bribiesca](https://open.spotify.com/album/65uwubNhA9Iyhgmdiy3CsX) | 3:06 |
 
-Snapshot ID: `ZdfeLwAAAAC9mMBiwXCP2r1JosR+Z5JJ`
+Snapshot ID: `Zo805gAAAACL3xxqMV6YWLnbje/Vk+uF`

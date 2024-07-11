@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,921 songs - 4 day 7 hr 27 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,922 songs - 4 day 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1929,5 +1929,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1919 | [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 |
 | 1920 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
 | 1921 | [Return to Zero Возвращайся Beztebya \- Slowed Reverb](https://open.spotify.com/track/5INzvllYMlajboTg4dcTIw) | [Marc Acardipane](https://open.spotify.com/artist/2hyRTXUyfd56j4siLF4zJx), [angel vox](https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw), [Dayerteq](https://open.spotify.com/artist/1fmBphPpwm9K2udLEXPXsd) | [Return to Zero Возвращайся Beztebya](https://open.spotify.com/album/6V23ydJxx6VErSJvN7AIaK) | 2:16 |
+| 1922 | [Hoe Down](https://open.spotify.com/track/4QchMCEGCbrorISE15WzOr) | [NYCSocialite](https://open.spotify.com/artist/6MzNAu6g7xSxh01on0lF4d) | [Hoe Down](https://open.spotify.com/album/3h5nYwvtxMgw9o2OvFxfQA) | 2:24 |
 
-Snapshot ID: `AAADI1nbFW4b+CyYK9Z4mZW+ZoM0beho`
+Snapshot ID: `AAADJKZMaYP7/W/KC3KEIgFL5K/2PXVg`

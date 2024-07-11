@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover new Punjabi artists! Cover: Afan
+> Discover new Punjabi artists! Cover: Prabh Bains
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wow](https://open.spotify.com/track/6hgtL4QNCjzgYkxw9zUbve) | [Afan](https://open.spotify.com/artist/72OJ8ZA4JdD24oy34DweOX) | [Highway Hits](https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq) | 2:19 |
-| 2 | [Chorni](https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:18 |
-| 3 | [Talks](https://open.spotify.com/track/4lC5EzS4NHJFcyUKLvX7Q0) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Talks](https://open.spotify.com/album/1sPAmVit3DiX4xEaIeRZnF) | 3:33 |
-| 4 | [Pasand](https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S) | [HRJXT](https://open.spotify.com/artist/4s5P33ladNMi7gcBMHwp9a), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Pasand](https://open.spotify.com/album/6IbHnrRFkokRd6jrOoSTfk) | 2:12 |
-| 5 | [Sunset](https://open.spotify.com/track/4oStWk8TYqWPmAvEJ6AhkN) | [Afan](https://open.spotify.com/artist/72OJ8ZA4JdD24oy34DweOX) | [Highway Hits](https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq) | 2:36 |
-| 6 | [Tareyan Di Loh](https://open.spotify.com/track/6uKrIW08JEFJixEWNmfzEm) | [Harsh Bilga](https://open.spotify.com/artist/4VKvXq0dgZMYWSOcbps6GT), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Tareyan Di Loh](https://open.spotify.com/album/1FC0b3hWzlLI8AAsrPqHkQ) | 3:10 |
-| 7 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
+| 1 | [Backhome](https://open.spotify.com/track/0GhRs7Mj3bJyHR94IswfXN) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Backhome](https://open.spotify.com/album/7LwdMsMPLn3RgCQpyBQKPY) | 2:42 |
+| 2 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
+| 3 | [Chorni](https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:18 |
+| 4 | [Talks](https://open.spotify.com/track/4lC5EzS4NHJFcyUKLvX7Q0) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Talks](https://open.spotify.com/album/1sPAmVit3DiX4xEaIeRZnF) | 3:33 |
+| 5 | [Pasand](https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S) | [HRJXT](https://open.spotify.com/artist/4s5P33ladNMi7gcBMHwp9a), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Pasand](https://open.spotify.com/album/6IbHnrRFkokRd6jrOoSTfk) | 2:12 |
+| 6 | [Sunset](https://open.spotify.com/track/4oStWk8TYqWPmAvEJ6AhkN) | [Afan](https://open.spotify.com/artist/72OJ8ZA4JdD24oy34DweOX) | [Highway Hits](https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq) | 2:36 |
+| 7 | [Tareyan Di Loh](https://open.spotify.com/track/6uKrIW08JEFJixEWNmfzEm) | [Harsh Bilga](https://open.spotify.com/artist/4VKvXq0dgZMYWSOcbps6GT), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Tareyan Di Loh](https://open.spotify.com/album/1FC0b3hWzlLI8AAsrPqHkQ) | 3:10 |
 | 8 | [Aadatan](https://open.spotify.com/track/0VKgIuXoAXsLGv5dwMq5jN) | [Prince Jadon](https://open.spotify.com/artist/3O3Ql9NcdVu82xHnvhAyK5) | [Aadatan](https://open.spotify.com/album/58HGDWL4l1rlGr4CQQwP8j) | 3:21 |
 | 9 | [MERA YAAR](https://open.spotify.com/track/5EkuhS6Fxi7JgwaNJaaVvB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [MERA YAAR](https://open.spotify.com/album/7Fq5g1BORrbYwavQKvmyHC) | 3:18 |
 | 10 | [Sara Pind Mittran Da](https://open.spotify.com/track/2WYFqWFRaI1m8PCsdwRA6w) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ) | [Sara Pind Mittran Da](https://open.spotify.com/album/3TL1nlrJaZbhNArzLIHssl) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Lovelorn](https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn) | [Pavvi Singh](https://open.spotify.com/artist/4p8vDVPxlrR6IVZvIwqsJF) | [Lovelorn](https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a) | 2:36 |
 | 50 | [Don't Care Zafar Brar](https://open.spotify.com/track/4MHgUhqvflHic2d2RVsdos) | [Zafar Brar](https://open.spotify.com/artist/5LinFD2B7eycr2rGuR93nY) | [Don't Care Zafar Brar](https://open.spotify.com/album/5atV7orCSrhPWAyw3uG3MT) | 2:31 |
 
-Snapshot ID: `ZoTjcAAAAADv15ErJsbzFP5fSPI0ITuR`
+Snapshot ID: `Zo4OQAAAAAAUiDKduT+o5zR407mLMj5U`

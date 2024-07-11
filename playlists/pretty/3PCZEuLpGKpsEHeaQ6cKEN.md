@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Scorz, Sirolf, Diandra Faye
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,402 likes - 200 songs - 10 hr 51 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,389 likes - 200 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 6 | [Set Me Free](https://open.spotify.com/track/68R0H67eY2eXBu6bOHMaQm) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Set Me Free](https://open.spotify.com/album/0OJ3DA76XJWizWaSFSjkIl) | 3:10 |
 | 7 | [Tokyo](https://open.spotify.com/track/3lCIcU6bHi5Yya1Ey5npdJ) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [MIMI](https://open.spotify.com/artist/2CVsdM6ChnaL6fO64E3a5n) | [Tokyo](https://open.spotify.com/album/6P3ClrdsEcLsgkg7In975b) | 2:25 |
 | 8 | [Larger Than Life](https://open.spotify.com/track/18W9I2wA2gvfzpo4Oqc04O) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Larger Than Life](https://open.spotify.com/album/7lzfAlDx8WeHENV6CDhHVG) | 2:55 |
-| 9 | [Dominator](https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK) | [Dominator](https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH) | 2:51 |
+| 9 | [Dominator](https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK), [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t) | [Dominator](https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH) | 2:51 |
 | 10 | [Free](https://open.spotify.com/track/2EVfXWxhsdR4izZEhfJNRq) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Free](https://open.spotify.com/album/0LWP67zCgd6X3cP7dcSMMB) | 3:16 |
 | 11 | [Be Good](https://open.spotify.com/track/3siKtQ0CHSOxALAMs7Ge00) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Be Good](https://open.spotify.com/album/6zapmHg7PVub9YiY03yGVh) | 2:54 |
 | 12 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |

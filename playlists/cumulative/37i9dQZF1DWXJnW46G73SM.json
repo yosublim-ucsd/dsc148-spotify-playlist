@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Ama Atkalm",
+        "url": "https://open.spotify.com/album/0utFvSDPNj6fVY2OnE0Fkk"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Ama Atkalm",
+      "url": "https://open.spotify.com/track/0K28bnnVZPcqA7MPfTueKU"
+    },
+    {
+      "album": {
         "name": "Amar 14",
         "url": "https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y"
       },
@@ -12149,6 +12167,24 @@
     },
     {
       "album": {
+        "name": "Wakla El Gaw",
+        "url": "https://open.spotify.com/album/1O1hcHN4ERMlbizV5zacUe"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Wakla El Gaw",
+      "url": "https://open.spotify.com/track/7E64Cu20JEDma6t3HT7xl6"
+    },
+    {
+      "album": {
         "name": "Wala Bakhtar",
         "url": "https://open.spotify.com/album/3cPCWyHeXAQevUgfGyorwC"
       },
@@ -15160,7 +15196,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 200388,
       "name": "\u0628\u064a\u062d\u0644\u0627\u0644\u0649",
       "url": "https://open.spotify.com/track/0ydpAWEnusQNwlfL0mgj3P"
@@ -19042,7 +19078,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 183143,
       "name": "\u064a\u0627 \u062e\u064a\u0628\u062a\u0648",
       "url": "https://open.spotify.com/track/3h8EZOFQRHDRu4OuyaE9LJ"

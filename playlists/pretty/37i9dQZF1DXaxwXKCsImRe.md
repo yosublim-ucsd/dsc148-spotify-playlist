@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > RADAR = promoting exciting artists! RADAR BNLX: <a href="spotify:artist:11T0XSkxSB5KUPTe8P8BOl">Sylvie Kreusch</a> \(cover\), The Vices, Berre, The Indien & Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,762 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,765 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2325,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "Baby, Baby",
+        "url": "https://open.spotify.com/album/6m6eOZ7x2otoKK3DaYEzea"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181256,
+      "name": "Baby, Baby",
+      "url": "https://open.spotify.com/track/4UGiaW74iNHBqtkkefW5Ee"
+    },
+    {
+      "album": {
         "name": "back from the dead",
         "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
       },
@@ -3480,7 +3502,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 218146,
       "name": "Blowing Kisses",
       "url": "https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Quanzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,355 likes - 141 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,361 likes - 141 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 114 | [寫DY神曲](https://open.spotify.com/track/5E99YbtnHBXevlTpJTJCQa) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Danny Koo](https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9) | [寫DY神曲](https://open.spotify.com/album/2UVmIlQbLPenk1ByzaLaui) | 2:59 |
 | 115 | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/track/14snAqF5iYj3sxIYurWJqx) | [陳建瑋](https://open.spotify.com/artist/6efddg2D2BhHmcYoV4pTqS), [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/album/39nGdvUtKAVHdJZdjsY0EC) | 4:48 |
 | 116 | [夢](https://open.spotify.com/track/7L8iXPtQCb7ELLff9Az4bY) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [夢](https://open.spotify.com/album/1olxR5StgQ10ZMv1cnX46k) | 3:54 |
-| 117 | [Nine Sols](https://open.spotify.com/track/4wBQyIBt9lGMAFIDMc75p8) | [珂拉琪](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [Nine Sols \(Original Soundtrack\)](https://open.spotify.com/album/6rfqS3gvex9trXEbv7fiab) | 5:02 |
+| 117 | [Nine Sols](https://open.spotify.com/track/4wBQyIBt9lGMAFIDMc75p8) | [珂拉琪 Collage](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [Nine Sols \(Original Soundtrack\)](https://open.spotify.com/album/6rfqS3gvex9trXEbv7fiab) | 5:02 |
 | 118 | [甘巴爹！我愛你！](https://open.spotify.com/track/6aEIxmIambRvxYopHdbrHY) | [P!SCO](https://open.spotify.com/artist/5ucZzHHKydsmjyZJT9vOWe) | [雷霆之愛](https://open.spotify.com/album/0EOGDwHmt6Sv0USjC4VAdW) | 4:29 |
 | 119 | [我們都幸福好嗎](https://open.spotify.com/track/2VgAVjoEPLigowroqQXwuS) | [鄒翰昇](https://open.spotify.com/artist/3QREf0xowwdIXqCC7p2w1T) | [我們都幸福好嗎](https://open.spotify.com/album/0MVxRQIH0nZWqDlrIixli9) | 4:06 |
 | 120 | [我愛不了我才選擇愛你](https://open.spotify.com/track/6akqjfc1F39uOTo5tRy29P) | [無菌室](https://open.spotify.com/artist/1TWFJLdiUtQ8oINAgyaal1) | [我愛不了我才選擇愛你](https://open.spotify.com/album/3aW9gpyMnOi3WbAS2HkWVf) | 2:55 |

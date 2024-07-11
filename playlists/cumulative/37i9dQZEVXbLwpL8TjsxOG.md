@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-931 songs - 2 day 6 hr 47 min
+932 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-03-28 | 2023-03-30 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-13 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-12 | 2023-07-16 |
+| [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 | 2024-07-10 |  |
 | [K同學](https://open.spotify.com/track/2QOMOEdrKdYjTJVi7aGIyG) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:00 | 2021-09-01 | 2021-09-02 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-27 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 | 2023-11-22 |
@@ -390,7 +391,7 @@
 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 | 2022-07-16 | 2022-08-24 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-12-04 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-03 | 2024-01-04 |
-| [ON](https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [ON](https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj) | 3:20 | 2023-10-05 | 2024-07-07 |
+| [ON](https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [ON](https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj) | 3:20 | 2023-10-05 |  |
 | [On my way](https://open.spotify.com/track/79letQC8rVM851Cz2ORR0z) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [On my way](https://open.spotify.com/album/2LBrOLQkQo3sisQP3v11ZT) | 5:15 | 2021-11-13 | 2022-02-13 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-03-27\* | 2021-05-29 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-04 | 2023-03-11 |
@@ -668,7 +669,7 @@
 | [先哭為敬](https://open.spotify.com/track/4QgsL3BOO0VvMAFhh2nZVU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [先哭為敬](https://open.spotify.com/album/0gFvFiJYdnFH8zACLXmImt) | 4:10 | 2021-05-09 | 2021-09-24 |
 | [先哭為敬 \- 尾班車 Version](https://open.spotify.com/track/48O2Nnm9M11blfiIlh5IBs) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [先哭為敬 \(尾班車 Version\)](https://open.spotify.com/album/3X68kofyyVFDeIWw1pJJ6O) | 3:55 | 2021-06-27 | 2021-07-11 |
 | [再次puppy love](https://open.spotify.com/track/0PS2hRWTqrTnZIZDvpurgt) | [193](https://open.spotify.com/artist/4lYAh2AEuTUZsFPmuS2luG) | [再次puppy love](https://open.spotify.com/album/4qzah4FEUbHIQ4jyU4KxiT) | 3:27 | 2022-01-16 | 2022-02-16 |
-| [再見 寧靜海](https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [再見 寧靜海](https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV) | 4:10 | 2023-01-19 |  |
+| [再見 寧靜海](https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [再見 寧靜海](https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV) | 4:10 | 2023-01-19 | 2024-07-11 |
 | [凡星](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 | 2021-08-28 | 2024-03-14 |
 | [初戀](https://open.spotify.com/track/1gGgVV7kyte91NOurgCbPo) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [初戀](https://open.spotify.com/album/3osmGX8eBAPlyeyQsYWUag) | 3:29 | 2022-05-15 | 2022-05-28 |
 | [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-05-19 | 2022-06-01 |
@@ -924,7 +925,7 @@
 | [霸道總裁](https://open.spotify.com/track/5p84NRJ6dOpaMTSqx5Fhil) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [霸道總裁](https://open.spotify.com/album/37G5n1hUVjNoKBP1p5L8kN) | 3:35 | 2023-08-25 | 2023-08-27 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-08-07 | 2023-08-18 |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2023-07-22 | 2023-07-24 |
-| [青春告別式](https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [青春告別式](https://open.spotify.com/album/0JQBICqyFVPL861mwgC8at) | 4:16 | 2024-01-01 |  |
+| [青春告別式](https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [青春告別式](https://open.spotify.com/album/0JQBICqyFVPL861mwgC8at) | 4:16 | 2024-01-01 | 2024-07-11 |
 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2021-05-30 | 2021-08-26 |
 | [靜靜](https://open.spotify.com/track/5rvJ9lvGq8hWhkCQEcer1x) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [靜靜](https://open.spotify.com/album/3TieX8iyJgg5spPuiUF3Qo) | 3:50 | 2022-08-06 | 2022-08-08 |
 | [風的形狀](https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [風的形狀](https://open.spotify.com/album/6izq53hfBehpRw4IlM9lT2) | 3:26 | 2021-07-25 |  |

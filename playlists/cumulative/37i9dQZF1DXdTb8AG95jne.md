@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: LEE SEUNG YOON\(이승윤\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Hyuk Oh, Sunset Rollercoaster\(혁오, 선셋 롤러코스터\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-742 songs - 1 day 21 hr 23 min
+743 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-28 | 2023-03-28 |
 | [Gloomy melody](https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Gloomy melody](https://open.spotify.com/album/5Ir0Ou7xH6smsOdvdelFYo) | 2:38 | 2024-04-30 | 2024-05-10 |
 | [Glow Stars](https://open.spotify.com/track/0J5vwP4zOkZxBBkJSFUIZr) | [서예안](https://open.spotify.com/artist/4XcyxfvYDxE4RhYNZlfyUD) | [Glow Stars](https://open.spotify.com/album/1tTDA9MOyLBhbD1RELSXsO) | 3:04 | 2024-04-30 | 2024-05-10 |
+| [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 |  |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2022-03-09 | 2022-07-19 |
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [Good bye blue days](https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Good bye blue days](https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe) | 4:11 | 2021-12-12 | 2022-07-28 |
@@ -325,7 +326,7 @@
 | [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2021-12-21 | 2024-05-01 |
 | [It's Alright](https://open.spotify.com/track/00vVtTOe1npIhSPDdnA0MY) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [It's Alright](https://open.spotify.com/album/25lujKqHjleqhEQaZBXHv4) | 3:48 | 2022-03-31 | 2022-04-22 |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-03-31 | 2022-04-21 |
-| [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 | 2024-05-08 |  |
+| [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 | 2024-05-08 | 2024-07-11 |
 | [It's Raining](https://open.spotify.com/track/33pFdhZM3hNMTq6QPJf1Mu) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [\[Vol.24\] You Hee yul's Sketchbook 10th Anniversary Project : 11th Voice 'Sketchbook X Sunwoojunga'](https://open.spotify.com/album/0ZJew5maK3dTxEqdBlOFgw) | 5:19 | 2021-12-21 | 2022-07-06 |
 | [It’s Not Easy](https://open.spotify.com/track/32bCGtVMTOJL9vHpaXly85) | [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF) | [It’s Not Easy](https://open.spotify.com/album/0DlghI0qWip2mrcNzamdQP) | 3:45 | 2022-08-19 | 2022-09-13 |
 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 | 2021-12-21 | 2022-05-13 |

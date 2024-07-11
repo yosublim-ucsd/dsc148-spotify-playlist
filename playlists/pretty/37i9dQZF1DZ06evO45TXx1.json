@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Luanna. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 9193,
+  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
+  "num_followers": 9220,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAAAFgw3bc01V9PPAChUCSZH",
+  "snapshot_id": "Zox9gAAAAAAEUqH3rhXJ2MFdmZRPgczr",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+        "name": "O Queridinho de Deus",
+        "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
       },
       "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        },
+        {
+          "name": "Correia",
+          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
         }
       ],
-      "duration_ms": 137553,
-      "name": "Quem Jura Mente",
-      "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
+      "duration_ms": 261463,
+      "name": "A Paz Que Eu Busco",
+      "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
     },
     {
       "added_at": null,
@@ -331,6 +343,26 @@
       "duration_ms": 196165,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 137553,
+      "name": "Quem Jura Mente",
+      "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
     },
     {
       "added_at": null,
@@ -379,30 +411,6 @@
       "duration_ms": 176098,
       "name": "Piranha",
       "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Queridinho de Deus",
-        "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 261463,
-      "name": "A Paz Que Eu Busco",
-      "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
     },
     {
       "added_at": null,
@@ -1139,22 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonde da Hello Kit",
-        "url": "https://open.spotify.com/album/1kIR6uovJBKOI83oqBOvFP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 108923,
-      "name": "Bonde da Hello Kit",
-      "url": "https://open.spotify.com/track/2SEyszdGq5AbigyKfvN2iB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fra\u00e7\u00e3o 3/4",
         "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
       },
@@ -1179,26 +1171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "REAL R&B",
-        "url": "https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j"
+        "name": "Bonde da Hello Kit",
+        "url": "https://open.spotify.com/album/1kIR6uovJBKOI83oqBOvFP"
       },
       "artists": [
         {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
         }
       ],
-      "duration_ms": 162711,
-      "name": "SEM BARULHO",
-      "url": "https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf"
+      "duration_ms": 108923,
+      "name": "Bonde da Hello Kit",
+      "url": "https://open.spotify.com/track/2SEyszdGq5AbigyKfvN2iB"
     },
     {
       "added_at": null,
@@ -1239,6 +1223,30 @@
       "duration_ms": 409756,
       "name": "Sem Compaix\u00e3o Bb",
       "url": "https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REAL R&B",
+        "url": "https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j"
+      },
+      "artists": [
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "SEM BARULHO",
+      "url": "https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf"
     },
     {
       "added_at": null,

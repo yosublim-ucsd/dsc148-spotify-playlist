@@ -1,12 +1,12 @@
 {
   "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
-  "num_followers": 32278,
+  "num_followers": 32289,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAADspGJI32a2JIPI64TEKxG3",
+  "snapshot_id": "Zox9gAAAAADKascPnGN3vRZQc6eKgYUx",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "El Jardin De Las Flores",
-      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos De (Vol. 2)",
         "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 194293,
       "name": "La Cosecha",
       "url": "https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "El Jardin De Las Flores",
+      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
     },
     {
       "added_at": null,

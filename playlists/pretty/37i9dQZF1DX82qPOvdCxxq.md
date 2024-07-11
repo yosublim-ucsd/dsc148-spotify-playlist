@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover:  <a href="spotify:artist:5VX8hxrcfJWwaTLiqGUHG3">TobyMac</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,819 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,841 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie!
 
-100 songs - 5 hr 48 min
+101 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Nightrun](https://open.spotify.com/track/5uL8V8oTBMrrvCukk5ydTi) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Nightrun](https://open.spotify.com/album/2cL87H8knMEobbnZpFFSSA) | 4:25 | 2024-06-27 |  |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-27 |  |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 |  |
+| [not your cherry](https://open.spotify.com/track/6b1NQHfoth2oU8QF8CGjrk) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [not your cherry](https://open.spotify.com/album/6O3K7cjvA2YwLMyA1awAMf) | 3:21 | 2024-06-27 |  |
 | [Ord som lämnats kvar](https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Ord som lämnats kvar](https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji) | 6:35 | 2024-06-27 |  |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-27 |  |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-27 |  |

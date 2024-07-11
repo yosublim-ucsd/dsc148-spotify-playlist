@@ -1,12 +1,12 @@
 {
-  "description": "This is Basement. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 9903,
+  "description": "This is Basement. The essential tracks, all in one playlist.",
+  "num_followers": 9910,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACR3rk0qmpOMWxt3CICro83",
+  "snapshot_id": "Zox9gAAAAAC2x/MtuiCdbdR8KvWxCtGU",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 248112,
-      "name": "Canada Square",
-      "url": "https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW"
+      "duration_ms": 116693,
+      "name": "Every Single Word",
+      "url": "https://open.spotify.com/track/6EWq4Z999qYzSBiLROh1Ak"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 116693,
-      "name": "Every Single Word",
-      "url": "https://open.spotify.com/track/6EWq4Z999qYzSBiLROh1Ak"
+      "duration_ms": 248112,
+      "name": "Canada Square",
+      "url": "https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW"
     },
     {
       "added_at": null,

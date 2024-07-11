@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:0VRj0yCOv2FXJNP47XQnx5">quavo</a> x <a href="spotify:artist:00FQb4jTyendYWaN8pK0wa">lana de rey</a> 🤌
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,684 likes - 68 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,686 likes - 68 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 12 | [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 |
 | 13 | [Mar Azul](https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Mar Azul](https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC) | 2:31 |
 | 14 | [Nasty \- Match My Chic Remix](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 |
-| 15 | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Laszewo](https://open.spotify.com/artist/7ytetffNf8Df0lYmPxi9R2), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 |
+| 15 | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Laszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 |
 | 16 | [Stuff I Don't Need](https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Stuff I Don't Need](https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe) | 2:54 |
 | 17 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 |
 | 18 | [To The Moon](https://open.spotify.com/track/7AsnKTRdwKacoyeKEiLPoT) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [To The Moon](https://open.spotify.com/album/2lmr6zYxnsKhBNePASuEob) | 3:02 |

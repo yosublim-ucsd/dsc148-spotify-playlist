@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,667 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,674 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 76 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
 | 77 | [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 |
 | 78 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
-| 79 | [Dominator](https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK) | [Dominator](https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH) | 2:51 |
+| 79 | [Dominator](https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK), [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t) | [Dominator](https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH) | 2:51 |
 | 80 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 |
 | 81 | [Tell Me](https://open.spotify.com/track/3pvuMKIcwgv9E1UXiwjDyH) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Fairground](https://open.spotify.com/artist/4dQlpFhvkptuBBL8Suvp7E) | [Tell Me](https://open.spotify.com/album/7C0qvVx8l3z9ffSkCeIdtW) | 3:17 |
 | 82 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |

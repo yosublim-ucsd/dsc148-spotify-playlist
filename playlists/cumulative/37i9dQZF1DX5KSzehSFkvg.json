@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "BOOM BOOM",
+        "url": "https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk"
+      },
+      "artists": [
+        {
+          "name": "Hind Ziadi",
+          "url": "https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212869,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4"
+    },
+    {
+      "album": {
         "name": "C'est pas joli",
         "url": "https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD"
       },

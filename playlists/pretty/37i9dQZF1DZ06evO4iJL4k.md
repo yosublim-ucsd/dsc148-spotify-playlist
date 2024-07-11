@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,047 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,472 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 44 | [Dentro de Você](https://open.spotify.com/track/15kW9fqlnorhFhzJosKu0F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Dentro de Você](https://open.spotify.com/album/5wSXLd7oIgwI6LGo3e0QzH) | 3:55 |
 | 45 | [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 |
 | 46 | [Nova Sorte](https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:10 |
-| 47 | [Vermelho Fogo \- Ao Vivo](https://open.spotify.com/track/4hx3eUopSeyzhIowdQmUBN) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:17 |
-| 48 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/5GflWMue0Hausplsa02rLr) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8) | 4:02 |
+| 47 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/5GflWMue0Hausplsa02rLr) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8) | 4:02 |
+| 48 | [Vermelho Fogo \- Ao Vivo](https://open.spotify.com/track/4hx3eUopSeyzhIowdQmUBN) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:17 |
 | 49 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/7s4e0robYmfsPC89q4W5YA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Show Case](https://open.spotify.com/album/7JEu7nDWBE72tKNHsTnIzF) | 2:17 |
 | 50 | [SANTO AMARO](https://open.spotify.com/track/2W1otaX5yQF4fCijymlvoM) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:32 |
-| 51 | [Poesias \(Medley\) \- Ao Vivo](https://open.spotify.com/track/1sqpuFuRB2nToPIPTODcdI) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 5:56 |
+| 51 | [Livre & Triste](https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:40 |
 
-Snapshot ID: `ZossAAAAAAC+U+dwV9g/sqeUOMmR5uSR`
+Snapshot ID: `Zox9gAAAAACBq+ZX/LC3IuE+g20/Sol3`

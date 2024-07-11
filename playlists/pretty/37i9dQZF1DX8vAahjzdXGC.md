@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: eaJ, Hindia
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,833 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,858 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 10 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 |
 | 11 | [Goyang Berdendang](https://open.spotify.com/track/2jXATlKZ8YTj1ohVxYNafK) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Goyang Berdendang](https://open.spotify.com/album/2kFbzEY9Ex4lGWNClq9RLO) | 3:54 |
 | 12 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 |
-| 13 | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/track/0p9mxMFcxh3xYz2ZhMPg65) | [Kara Chenoa](https://open.spotify.com/artist/2O0nFTBxaDlHNLVjELU0hu) | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/album/5KzDAHQOSpYt6e3JRrPWth) | 2:39 |
+| 13 | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/track/0p9mxMFcxh3xYz2ZhMPg65) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/album/5KzDAHQOSpYt6e3JRrPWth) | 2:39 |
 | 14 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
 | 15 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
 | 16 | [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 58 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 |
 | 59 | [TRAP](https://open.spotify.com/track/0Z6NlOmne7dIACtbbZff1H) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TRAP / GRAB ME \- Japanese ver\. \-](https://open.spotify.com/album/6bISpRR0lPsJWRyHUAaVWf) | 3:07 |
 | 60 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 |
-| 61 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:31 |
+| 61 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:30 |
 | 62 | [DJV](https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [DJV](https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W) | 2:46 |
 | 63 | [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 |
 | 64 | [El Pistolero](https://open.spotify.com/track/5lM3HtMkk3JuFWLAEZc08H) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Hotel Diablo: Floor 13 Edition](https://open.spotify.com/album/0qy27pEGeF1grFdsnK27w4) | 2:38 |

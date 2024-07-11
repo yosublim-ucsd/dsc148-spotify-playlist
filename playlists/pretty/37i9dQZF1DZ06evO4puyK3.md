@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This is Gloria Groove\. Todos os maiores hits em uma só playlist.
+> This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,899 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,944 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [Rebola \(Participação especial de Carlinhos Brown e Gloria Groove\)](https://open.spotify.com/track/7yHyGrwWRUdDVcZIC4HBdA) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 2:54 |
 | 50 | [BARULHADA](https://open.spotify.com/track/4wQBMjqW9zSS3Pwf1ApjhY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:36 |
 
-Snapshot ID: `ZossAAAAAAD2tOUqPBC6QjPG3qkV2M69`
+Snapshot ID: `Zox9gAAAAAC52/a8kb3581sMmsoQRxyY`

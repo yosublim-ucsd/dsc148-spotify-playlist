@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 落日飛車 \(Sunset Rollercoaster\) x HYUKOH
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,930 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,937 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 41 | [平庸](https://open.spotify.com/track/6YFr6wPwdAtv3ym5kAzRaJ) | [我們的日子有限公司](https://open.spotify.com/artist/2pDs6jIli6TN1v6FbHIh9R) | [平庸](https://open.spotify.com/album/4JLfOxKo5CBrybSl893tiy) | 4:12 |
 | 42 | [你在哪裡](https://open.spotify.com/track/4SBrGswUzLYp2uXNqSEYZ1) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G), [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [你在哪裡](https://open.spotify.com/album/6LT7YFr4Mw6MEUZIcy6Dz3) | 4:06 |
 | 43 | [狠操俱樂部](https://open.spotify.com/track/5VwHRwTh6zV1kBIW3FApTx) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL) | [狠操俱樂部](https://open.spotify.com/album/2KkpAHwcFULIdz2MoLZUny) | 3:48 |
-| 44 | [Nine Sols](https://open.spotify.com/track/4wBQyIBt9lGMAFIDMc75p8) | [珂拉琪](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [Nine Sols \(Original Soundtrack\)](https://open.spotify.com/album/6rfqS3gvex9trXEbv7fiab) | 5:02 |
+| 44 | [Nine Sols](https://open.spotify.com/track/4wBQyIBt9lGMAFIDMc75p8) | [珂拉琪 Collage](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [Nine Sols \(Original Soundtrack\)](https://open.spotify.com/album/6rfqS3gvex9trXEbv7fiab) | 5:02 |
 | 45 | [安份](https://open.spotify.com/track/1IxuS7Suf1WMZF8g4QcY4m) | [有感覺](https://open.spotify.com/artist/7uSnXddSw3Vrj8tM7tynMy) | [安份](https://open.spotify.com/album/59BhROuUObCxF3nokmhvWW) | 4:31 |
 | 46 | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h) | 3:48 |
 | 47 | [專屬的夏天](https://open.spotify.com/track/3rA0hkbOcgxmF00nu4KOz5) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [專屬的夏天](https://open.spotify.com/album/3T8aYgIZzLuF0FWyXFtxk3) | 3:13 |

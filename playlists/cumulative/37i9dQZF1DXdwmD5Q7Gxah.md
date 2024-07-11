@@ -4,7 +4,7 @@
 
 > happy 5 years of lorem\. thank you for listening :\) cover: Devon Again
 
-2,876 songs - 6 day 11 hr 14 min
+2,879 songs - 6 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1004,6 +1004,7 @@
 | [Golden](https://open.spotify.com/track/4muT5SrRNyssHaaDUQ18kz) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 5:14 | 2021-02-06 | 2021-03-09 |
 | [Golden Child](https://open.spotify.com/track/7GkVUzfruToUahCBk8GW0r) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Golden Child](https://open.spotify.com/album/1yt8iYtXCRNw6W3gThI3Pz) | 2:52 | 2022-07-15 | 2022-07-30 |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2021-12-22 | 2022-01-08 |
+| [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 | 2024-07-10 |  |
 | [Golden Lady](https://open.spotify.com/track/1bpaA5Pn4jlo1cRAOBNQnh) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:58 | 2021-07-17 | 2021-07-23 |
 | [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 6:15 | 2020-12-12 | 2021-01-12 |
 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 | 2022-04-27 | 2022-05-21 |
@@ -2161,6 +2162,7 @@
 | [She Don't Like Me](https://open.spotify.com/track/4FmXW5p7JwaVtJVEaJIMto) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [She Don't Like Me](https://open.spotify.com/album/6Sm5lKobNChQNdIonEObIe) | 3:03 | 2021-01-29 | 2021-03-06 |
 | [She Loves Me](https://open.spotify.com/track/341bqzt1REzbvIodveSRSJ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [She Loves Me](https://open.spotify.com/album/4Dev7WpJrZHivFji4u8HhU) | 2:35 | 2024-05-10 |  |
 | [She Plays Bass](https://open.spotify.com/track/3HsISqx1yY7IFQZzzgZrKD) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/1M3PMTh90ShsJfQ1AfHbGH) | 3:27 | 2019-08-23 | 2020-02-05 |
+| [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 | 2024-07-10 |  |
 | [Shed Head](https://open.spotify.com/track/1tI40eFNnHYsVWhKo5yhUT) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [Shed Head](https://open.spotify.com/album/5mhxYNAnqi2g1qg1go9Ezc) | 3:41 | 2022-05-12 | 2022-06-10 |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-06-21 | 2022-10-13 |
 | [Shimmer](https://open.spotify.com/track/6SFFmZFiDoTjQG3kdECxZa) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 5:00 | 2020-02-01 | 2020-02-20 |
@@ -2790,6 +2792,7 @@
 | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-08-19 | 2021-11-20 |
 | [Winter \(feat\. Mallrat\)](https://open.spotify.com/track/1DOMesJ7CQqJy7pgzghCS4) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Hey u x](https://open.spotify.com/album/1gvuirDIzJFcSqfrIn01Ld) | 3:07 | 2020-11-13 | 2020-11-27 |
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2021-11-20 | 2022-01-08 |
+| [Wish](https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Wish](https://open.spotify.com/album/1A1zf55JDCIn6qEAb1g8N8) | 3:08 | 2024-07-10 |  |
 | [Wish](https://open.spotify.com/track/2MJkQZEB0YNJbnQ59dZ0Pp) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 2:36 | 2024-02-21 | 2024-03-22 |
 | [Wish I Could Be Your Girl](https://open.spotify.com/track/0HKM1VLefFnpHhkqcMbrLL) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Wish I Could Be Your Girl](https://open.spotify.com/album/2KBuzBTOa5EKxOroLIKBtF) | 2:27 | 2020-11-07 | 2021-05-12 |
 | [Wish I Was](https://open.spotify.com/track/46wtbqcPC4C3WrWGas15ry) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Wish I Was](https://open.spotify.com/album/6xbpmDdtL3NgWGjv6j1pYq) | 4:10 | 2023-02-03 | 2023-02-22 |

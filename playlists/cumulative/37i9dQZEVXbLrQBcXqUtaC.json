@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -6810,7 +6810,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -9598,7 +9598,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 320030,
       "name": "K.",
       "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
@@ -11226,7 +11226,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -23647,6 +23647,24 @@
     },
     {
       "album": {
+        "name": "\u0633\u0648\u0631\u064a \u0635\u0645\u062e\u0629 | \u0639\u064a\u0648\u0646 \u0627\u0644\u0645\u0627 \u0628\u062a\u0639\u0634\u0642 \u0628\u062c\u0646\u0648\u0646 \u060c \u062a\u0639\u0627 \u064a\u062d\u0628\u064a\u0628\u064a \u062e\u0630\u0646\u064a \u0648 \u0631\u0648\u062d .",
+        "url": "https://open.spotify.com/album/17wHDCf8vNhGJRf5E7SWK4"
+      },
+      "artists": [
+        {
+          "name": "6RB Music",
+          "url": "https://open.spotify.com/artist/4GoRMDpTUTmKUN0uqY0Gsk"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206239,
+      "name": "\u0633\u0648\u0631\u064a \u0635\u0645\u062e\u0629 | \u0639\u064a\u0648\u0646 \u0627\u0644\u0645\u0627 \u0628\u062a\u0639\u0634\u0642 \u0628\u062c\u0646\u0648\u0646 \u060c \u062a\u0639\u0627 \u064a\u062d\u0628\u064a\u0628\u064a \u062e\u0630\u0646\u064a \u0648 \u0631\u0648\u062d .",
+      "url": "https://open.spotify.com/track/0CbpD5lB2WkZ1Zc4QrGd98"
+    },
+    {
+      "album": {
         "name": "\u0634\u0641\u062a \u0627\u0644\u0646\u062c\u0648\u0645",
         "url": "https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc"
       },
@@ -24646,7 +24664,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 210714,
       "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
       "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"

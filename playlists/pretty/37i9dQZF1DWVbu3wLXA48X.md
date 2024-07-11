@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: : beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,278 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,286 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 12 | [The Programme](https://open.spotify.com/track/1oGfkMoDlvraQCzNMIJf09) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [The Programme](https://open.spotify.com/album/00TmoTB679RXXCQLdrrNWn) | 4:36 |
 | 13 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 14 | [last great american summer](https://open.spotify.com/track/3K9Vf2JtFYuwk63GEKn4nM) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [last great american summer](https://open.spotify.com/album/4gnhFRs1UbrvYed4RluGt9) | 3:14 |
-| 15 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:31 |
+| 15 | [forever!](https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [forever!](https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq) | 2:30 |
 | 16 | [Follow You](https://open.spotify.com/track/1Q2pf5I7eyZZvENC2eIYZP) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Follow You](https://open.spotify.com/album/34O2W8EIX2LGMztjbj8HhY) | 4:24 |
 | 17 | [He's A Lad](https://open.spotify.com/track/5btBJ5bMhC5rj9hI5uG44I) | [Noah Dillon](https://open.spotify.com/artist/6g4VCntGKDE2bsGSPEjtal) | [He's A Lad](https://open.spotify.com/album/5oTg0D4D6qNCmtpkOskoYZ) | 3:50 |
 | 18 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |

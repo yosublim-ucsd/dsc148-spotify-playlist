@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YOUHA\(유하\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-706 songs - 1 day 18 hr 42 min
+707 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Addicted to TV](https://open.spotify.com/track/2OpUyPEh9mq0ZSrOMRIO7S) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [Addicted to TV](https://open.spotify.com/album/0tMersFXcFglAPfmHGiAug) | 3:44 | 2022-04-22 | 2022-07-27 |
 | [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-04-12 | 2023-07-12 |
 | [Adrenaline \- Italian Version](https://open.spotify.com/track/20Fw8w7OnlLRAUMWBBXZHC) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [VINCENZO \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7ciMBSnUz17sJ8crca1tOD) | 3:27 | 2022-05-03 | 2022-05-10 |
-| [After](https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [After \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I) | 3:45 | 2024-06-05 |  |
+| [After](https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [After \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I) | 3:45 | 2024-06-05 | 2024-07-11 |
 | [After the rain](https://open.spotify.com/track/7ixtNNaE45TecEqZtWbYRx) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [HOPE FOR THE FLOWER](https://open.spotify.com/album/4iY3YGIfLBlAz3NNwTmshr) | 4:42 | 2022-04-12 | 2022-04-22 |
 | [After Tonight](https://open.spotify.com/track/5KB3Qovr1wV5dapcWnnXDg) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [After Tonight](https://open.spotify.com/album/1Y0IXwWhiU2maaFcRyX7E5) | 4:25 | 2022-04-12 | 2022-07-27 |
 | [Aliens](https://open.spotify.com/track/5OhAdGaEG4WN3k4LdHx3nC) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [CELLOPHANE](https://open.spotify.com/album/4lW1x2le12GEKHdZVPFT8h) | 4:21 | 2022-04-12 | 2022-06-25 |
@@ -97,7 +97,7 @@
 | [BULLET](https://open.spotify.com/track/1jHSRIGQXYb126dtXq9Dl7) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [BULLY](https://open.spotify.com/track/4A0BDmZFJY7cXhGRaRIjb1) | [ABTB](https://open.spotify.com/artist/4xS1C9pM9EoHEM1Gxxzf4m) | [iii](https://open.spotify.com/album/2gv803EGREwibN37uQk2Em) | 3:46 | 2022-11-09 | 2022-12-13 |
 | [Burger](https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ) | 4:06 | 2022-10-02 | 2022-10-19 |
-| [BURN IT](https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [BURN IT](https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ) | 2:47 | 2024-06-27 | 2024-07-10 |
+| [BURN IT](https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [BURN IT](https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ) | 2:47 | 2024-06-27 |  |
 | [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 | 2024-07-04 |
 | [Butterfly](https://open.spotify.com/track/7kAs2Dw6ymVkriLrbjtGDD) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [CASTAWAY DIVA OST Part.2](https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix) | 4:07 | 2023-11-23 | 2023-12-30 |
 | [Butterfly Effect](https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 3:26 | 2022-04-12 | 2022-07-29 |
@@ -582,7 +582,7 @@
 | [TATTOO](https://open.spotify.com/track/2qDm3urhZhuBDZanIPFLuF) | [Daddy O Radio](https://open.spotify.com/artist/2CnlaPaWAPrHEu4TbR0pz9) | [GREEN TATTOO](https://open.spotify.com/album/0wsqgKLZxPY2pDvv1ii1Tp) | 3:12 | 2023-04-14 | 2023-04-21 |
 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 | 2022-10-02 | 2022-10-19 |
 | [Teddy bear](https://open.spotify.com/track/6ED0tnBoWmQdJHDBKL0w4e) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:59 | 2022-04-22 | 2022-07-26 |
-| [Tell 'em boys](https://open.spotify.com/track/0rZf7sBjvU2hj7TNBbn8qm) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:29 | 2024-06-26 |  |
+| [Tell 'em boys](https://open.spotify.com/track/0rZf7sBjvU2hj7TNBbn8qm) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:29 | 2024-06-26 | 2024-07-11 |
 | [TELL ME !](https://open.spotify.com/track/4yIt2M4psdz8Bs3RzTi2c2) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:15 | 2024-06-26 |  |
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |
 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-08-28 |  |
@@ -686,6 +686,7 @@
 | [You're right](https://open.spotify.com/track/3X4StHauTX08nwxvdzByae) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:36 | 2022-04-21 | 2022-07-23 |
 | [Young](https://open.spotify.com/track/4nlTKc5u6qiToCqjr3Z5IE) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP), [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [Young](https://open.spotify.com/album/5y5xxuMomFzgXvUJzetwxP) | 3:26 | 2022-04-12 | 2022-07-26 |
 | [Young Boy](https://open.spotify.com/track/2XRbYuPcNo5xlScjMxy2pX) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [NINE.i The 2nd Mini Album \[I \(Part.1\)\]](https://open.spotify.com/album/6ujhSpmWkRGIgKDin3WKlZ) | 3:30 | 2022-11-09 | 2023-06-12 |
+| [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 | 2024-07-10 |  |
 | [YOUNG! \(Feat\. Jayci yucca\)](https://open.spotify.com/track/4kWmBmzkq3GVW6rvCYXlJg) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/67tBDqUFKtbehv1dRLyQJy) | [UP](https://open.spotify.com/album/3BKgpuuOu0PIb2aYfk2p1O) | 3:11 | 2022-04-22 | 2022-07-28 |
 | [Youngblood \(From The Original TV Show "Begin Again Korea"\) Ep.1\-1](https://open.spotify.com/track/2hHfHsqusupS8iimTLpBVI) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Youngblood \(From The Original TV Show "Begin Again Korea"\) Ep.1\-1](https://open.spotify.com/album/3ejXv1mREH4JSTi2gg82hQ) | 4:38 | 2022-04-22 | 2022-04-26 |
 | [Your City](https://open.spotify.com/track/3nLUsvRPY4vQfTYFk9uEVp) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [YOUR CITY](https://open.spotify.com/album/2ey8EdjglcK5i167dwLCLp) | 3:36 | 2023-09-14 | 2023-09-21 |

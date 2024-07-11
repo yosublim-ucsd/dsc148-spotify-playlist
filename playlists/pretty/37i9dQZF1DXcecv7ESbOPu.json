@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 213805,
+  "num_followers": 213807,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "not your cherry",
+        "url": "https://open.spotify.com/album/6O3K7cjvA2YwLMyA1awAMf"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 201050,
+      "name": "not your cherry",
+      "url": "https://open.spotify.com/track/6b1NQHfoth2oU8QF8CGjrk"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "This Is The Sound Of Your Voice",
         "url": "https://open.spotify.com/album/4IitM3XDHnMJQQXcW65Dd4"
       },
@@ -1000,8 +1016,8 @@
           "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         },
         {
-          "name": "Laszewo",
-          "url": "https://open.spotify.com/artist/7ytetffNf8Df0lYmPxi9R2"
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         },
         {
           "name": "pluko",

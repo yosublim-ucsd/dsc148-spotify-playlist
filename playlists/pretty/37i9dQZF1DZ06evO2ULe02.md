@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 ### [This Is Aidan Bissett](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02)
 
-> This is Aidan Bissett\. The essential tracks, all in one playlist.
+> This is Aidan Bissett\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839 likes - 19 songs - 57 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 840 likes - 19 songs - 57 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 18 | [So High](https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [So High](https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb) | 2:49 |
 | 19 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 
-Snapshot ID: `ZossAAAAAAAVuhlpWpMGuuFOL2F2L8yA`
+Snapshot ID: `Zox9gAAAAACgCZN1QtaA3d1xFeJZ/P/t`

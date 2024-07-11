@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Yasmin Santos e mais mulheres no volume máximo! Co\-curadoria com Yasmin Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,698 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,882 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 38 | [Bora Testar](https://open.spotify.com/track/5sGpSASOFgc9WqvUR76Jqo) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Bora Testar](https://open.spotify.com/album/0cT2wFroLy3chvFZ2hWuI7) | 2:32 |
 | 39 | [Status](https://open.spotify.com/track/210jgouJg1YRS4rtp0xkNm) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Status](https://open.spotify.com/album/5aEKsmuiELa952fvaIyzri) | 2:23 |
 | 40 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |
-| 41 | [Dois Casados \- Ao Vivo](https://open.spotify.com/track/2v8gJHCScke0kcGABHVXaL) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz), [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Dois Casados \(Ao Vivo\)](https://open.spotify.com/album/6aXjySfKfqsVx15ZGzvPMB) | 2:38 |
-| 42 | [Camomila](https://open.spotify.com/track/4H7BHzd5avEDpCA6wWAbVi) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [Música](https://open.spotify.com/album/0OJttgbWradQ5U5dYLzPzi) | 3:07 |
+| 41 | [Camomila](https://open.spotify.com/track/4H7BHzd5avEDpCA6wWAbVi) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [Música](https://open.spotify.com/album/0OJttgbWradQ5U5dYLzPzi) | 3:07 |
+| 42 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |
 | 43 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/1isGVPazsjGdUd05I0ljjT) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:01 |
-| 44 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |
-| 45 | [Quero Você do Jeito Que Quiser](https://open.spotify.com/track/51uXmhqGR76tT2UeKZyeN6) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas, EP1](https://open.spotify.com/album/0Z4qKd1CG1VxOMt8knpoQK) | 3:35 |
-| 46 | [Flor E O Beija\-Flor](https://open.spotify.com/track/66N2SB1lgHPgJXVCjg6GXH) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Flor E O Beija\-Flor](https://open.spotify.com/album/1THJVUNwa03TGzh8tCJoJ3) | 3:22 |
-| 47 | [Cumbia Do Amor](https://open.spotify.com/track/6jYPKtej8Eb4DiiMxo2OUJ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 2:41 |
-| 48 | [Te Amo Demais](https://open.spotify.com/track/60hB23SG2YUoJQ06Kv0TEG) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:25 |
-| 49 | [Me Ame Mais](https://open.spotify.com/track/1wGuEAmgb6vbOz2re9pMNz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:41 |
-| 50 | [Infiel / Amante Não Tem Lar](https://open.spotify.com/track/1UGU4fJbnBlLV5TrludieQ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 5:18 |
+| 44 | [Quero Você do Jeito Que Quiser](https://open.spotify.com/track/51uXmhqGR76tT2UeKZyeN6) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas, EP1](https://open.spotify.com/album/0Z4qKd1CG1VxOMt8knpoQK) | 3:35 |
+| 45 | [Flor E O Beija\-Flor](https://open.spotify.com/track/66N2SB1lgHPgJXVCjg6GXH) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Flor E O Beija\-Flor](https://open.spotify.com/album/1THJVUNwa03TGzh8tCJoJ3) | 3:22 |
+| 46 | [Cumbia Do Amor](https://open.spotify.com/track/6jYPKtej8Eb4DiiMxo2OUJ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 2:41 |
+| 47 | [Te Amo Demais](https://open.spotify.com/track/60hB23SG2YUoJQ06Kv0TEG) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:25 |
+| 48 | [Me Ame Mais](https://open.spotify.com/track/1wGuEAmgb6vbOz2re9pMNz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:41 |
+| 49 | [Infiel / Amante Não Tem Lar](https://open.spotify.com/track/1UGU4fJbnBlLV5TrludieQ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 5:18 |
 
-Snapshot ID: `ZoVxQQAAAADAkWFwhDu4UQh85I6/v/Eq`
+Snapshot ID: `Zo35MAAAAAClzusssqEXcRzmHocrHqxW`

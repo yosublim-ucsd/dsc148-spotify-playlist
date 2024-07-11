@@ -1,13 +1,137 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 292133,
+  "num_followers": 292121,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAH/4a5pEVzHN2Jg+DhIVzrlNMskl13",
+  "snapshot_id": "AAAIAMKRR2EZrqxcLC9UPaiKLsEBvNGa",
   "tracks": [
+    {
+      "added_at": "2024-07-10 15:21:35",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/22Zs4tpLTAqBnAuJVdhPwz"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4Rsh3wewwWPt6tPh84UeNw"
+    },
+    {
+      "added_at": "2024-07-10 15:21:35",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
+    },
+    {
+      "added_at": "2024-07-10 15:21:35",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/1SIP2J0K5Gd0yfJ1leFkGp"
+      },
+      "artists": [
+        {
+          "name": "Megisto",
+          "url": "https://open.spotify.com/artist/7I71G5L7KmvTcTcBFUcL1h"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/3G5bdVaVsCbQB9NELmOvJ5"
+    },
+    {
+      "added_at": "2024-07-10 15:21:35",
+      "album": {
+        "name": "Throw You Back",
+        "url": "https://open.spotify.com/album/3IXEt5enXvH0BNZvUS59NC"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "duration_ms": 183993,
+      "name": "Throw You Back",
+      "url": "https://open.spotify.com/track/4vuAk1hRsvSC6gdO7kFf0d"
+    },
+    {
+      "added_at": "2024-07-10 15:21:35",
+      "album": {
+        "name": "Guess What",
+        "url": "https://open.spotify.com/album/2Fq5udXxfCitd3hbuB5Cn7"
+      },
+      "artists": [
+        {
+          "name": "Summum",
+          "url": "https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Guess What",
+      "url": "https://open.spotify.com/track/6DhrQT1JCGtIk93JDMV68t"
+    },
+    {
+      "added_at": "2024-07-10 15:21:35",
+      "album": {
+        "name": "The Mindshaker",
+        "url": "https://open.spotify.com/album/5Rwk3LQBqIEIV3F3namFtt"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "The Mindshaker",
+      "url": "https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce"
+    },
+    {
+      "added_at": "2024-07-10 15:21:35",
+      "album": {
+        "name": "Biohazard",
+        "url": "https://open.spotify.com/album/3r1FHmfWWjcEkjjas8SEic"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "KEYTON",
+          "url": "https://open.spotify.com/artist/5Tfpom9xTru2xTcnd2QBLi"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Biohazard",
+      "url": "https://open.spotify.com/track/4nq0OecQgxXExUMR9wOjk2"
+    },
     {
       "added_at": "2024-06-07 09:15:59",
       "album": {

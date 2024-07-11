@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum"
+      },
+      "artists": [
+        {
+          "name": "Famous Friend",
+          "url": "https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154181,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC"
+    },
+    {
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex"
       },

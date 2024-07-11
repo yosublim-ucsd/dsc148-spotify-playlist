@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-02",
-  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
+  "description": "This is Bear McCreary. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
   "name": "This Is Bear McCreary",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 243202,
       "name": "Escape from the Machines",
       "url": "https://open.spotify.com/track/2xyZON494V7biqOcJ4gwWX"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 226146,
       "name": "Master Thyself",
       "url": "https://open.spotify.com/track/0HtL5WPZBgjv3h1J8A8F0U"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 429440,
       "name": "The Key to Lallybroch",
       "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 135893,
       "name": "To the Begging I Will Go",
       "url": "https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX"

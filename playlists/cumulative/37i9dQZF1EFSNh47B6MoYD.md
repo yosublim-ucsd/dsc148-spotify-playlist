@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 10 hr 9 min
+166 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,9 +155,11 @@
 | [SOS \(SOS\)](https://open.spotify.com/track/7d7XiRp6pCmF5ROCYYbzyw) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:29 | 2023-03-09 |  |
 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 | 2023-03-09 |  |
 | [Super Top \(Top Demais\)](https://open.spotify.com/track/19avVvF9dxjDHjhnrq1ntb) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:42 | 2023-03-09 |  |
+| [Talénpro](https://open.spotify.com/track/5ihcx6z4ZOqsyIMy7oyACN) | [Generación Talénpro](https://open.spotify.com/artist/3QzJj9SjDd5TtDih8VtNK0) | [Talénpro](https://open.spotify.com/album/1MYfmwWbISTPsCMHjZCNFI) | 1:42 | 2024-07-10 |  |
 | [Tao Longe de Ti](https://open.spotify.com/track/5ITuats5IuKKmbddomOdHZ) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:24 | 2023-03-09 |  |
 | [Te Conozco de Antes](https://open.spotify.com/track/3nV4YAMolZe3PZAzMNZ7so) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:54 | 2023-03-09 |  |
 | [Te Necesito](https://open.spotify.com/track/3jZZ2SlQTFJ5yKDp3FOQNB) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 4:16 | 2023-03-09 |  |
+| [Tempo \- Versión Español](https://open.spotify.com/track/0SIRVXaGCeLsJekmL5n7jC) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Tempo](https://open.spotify.com/album/5vmTSQN7bleXF3mlZgieli) | 2:46 | 2024-07-10 |  |
 | [Ten Cuidao \- En Vivo](https://open.spotify.com/track/1Cb0jvXLZAaXeQpxMErBrD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:35 | 2023-03-09 |  |
 | [Tentación](https://open.spotify.com/track/5xalldFr8mKjbAE0WY2vtp) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8 \(Deluxe\)](https://open.spotify.com/album/33yUZhJNBRKhl4dbVC2h7K) | 3:12 | 2023-03-09 |  |
 | [Till Next time](https://open.spotify.com/track/2XLo4wd60y9C0BauROXN3j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Até Logo / Hasta Luego / Till Next Time](https://open.spotify.com/album/12h7zZIzbzYiAqzNAcFfrx) | 3:55 | 2023-12-13 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,488 songs - 5 day 9 hr 42 min
+2,489 songs - 5 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,6 +854,7 @@
 | [Festa na Roça / Olha pro Céu / Aquele Sâo Joâo](https://open.spotify.com/track/2WBKHm9QozGdU3MbtEkOi5) | [Ze Pipa](https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1) | [Festa Junina de São João na Sanfona](https://open.spotify.com/album/3xMSqJlipZC0MsRctd68px) | 9:32 | 2022-06-14 | 2022-07-06 |
 | [Festa na Roça / Olha pro Céu / Aquele Sâo Joâo \- Instrumental](https://open.spotify.com/track/3ibtDYkH3k0H0Uo1aCtttV) | [Ze Pipa](https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1) | [Festa Junina de São João na Sanfona \(Instrumental\)](https://open.spotify.com/album/66RE3lXWgeS00N38KnxDVW) | 9:32 | 2023-06-24 | 2023-07-03 |
 | [Festa na Roça / Sapecando / Pisei na Brasa](https://open.spotify.com/track/7FIb5o6Q6xtGgmpJDbn49F) | [Mario Zan](https://open.spotify.com/artist/67Gm64Bb5uv3qW4btQrr2F) | [Festa Junina: Mario Zan Sua Banda e Coro](https://open.spotify.com/album/6P3g2Dvs5vb3QpJsYp3T1e) | 5:39 | 2022-06-21 | 2023-07-03 |
+| [Fica](https://open.spotify.com/track/1ljK7B5aTI458owVWBppRp) | [Thiago Freitas](https://open.spotify.com/artist/26u3LeVpw9EOQLkNVX6NUj) | [Fica](https://open.spotify.com/album/55XOFfronxpjigXq0tzj7R) | 2:24 | 2024-07-10 |  |
 | [Fica Comigo \(Desfaz as Malas\)](https://open.spotify.com/track/3mFrhIxHYVXuSjKUYMs7Nj) | [BIGUINHO SENSAÇÃO](https://open.spotify.com/artist/0oCpDbaRP5G4lu1VpP7WIy) | [Fica Comigo \(Desfaz as Malas\)](https://open.spotify.com/album/0SjYDskRDPZQ5e0uy3HwxK) | 1:41 | 2023-12-26 | 2024-01-21 |
 | [FICA DE 4 DIZ QUEM TE PEGOU](https://open.spotify.com/track/5aex2mHlIOQGwpE8ln84hl) | [DJ Bill](https://open.spotify.com/artist/17icpWfcBCrC5Y9a8StPCN) | [FICA DE 4 DIZ QUEM TE PEGOU](https://open.spotify.com/album/5PMU6Cf3Td9igX3veRv2g0) | 2:04 | 2022-03-15 | 2022-04-13 |
 | [Fica Nervoso Não](https://open.spotify.com/track/5f4CVX0ZDIxyonXjz9w1rM) | [Gino & Geno](https://open.spotify.com/artist/2rGEXX2PXml6YnjkgOlWwT) | [Pode Chamar Nóis](https://open.spotify.com/album/6OlxaGcc9FabaMi1mngQ0j) | 2:54 | 2024-07-07 | 2024-07-10 |
@@ -1869,7 +1870,7 @@
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-09-06 | 2023-09-23 |
 | [RAM TCHUM](https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [RAM TCHUM](https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c) | 2:09 | 2024-03-19 | 2024-04-08 |
 | [Rancorosa \- Ao Vivo Em Brasília](https://open.spotify.com/track/7CUQQLRMIeSfa4m2uQcRHp) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Rancorosa \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/1A07EzPDoFwgJvDgIVPcpI) | 3:01 | 2023-04-18 | 2023-04-22 |
-| [RANDANDAN](https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:40 | 2024-07-09 |  |
+| [RANDANDAN](https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:40 | 2024-07-09 | 2024-07-11 |
 | [Rap do Bolsonaro](https://open.spotify.com/track/7xbMrAhm25dmsl2YJsuHbW) | [Raylton Soares](https://open.spotify.com/artist/0M2bYjItaK1AJ3dRuAJR7e) | [Rap do Bolsonaro](https://open.spotify.com/album/3jP4MUdG00FRJgmCxaDtO3) | 2:23 | 2022-10-03 | 2022-10-05 |
 | [Rap do solitario](https://open.spotify.com/track/0pTvGqoudfmA0xYhvSHNk4) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Sonhos](https://open.spotify.com/album/5C8jN6FwKWeNdeyXZO5SPn) | 5:13 | 2023-08-27 | 2023-09-04 |
 | [Rara](https://open.spotify.com/track/0K6cWUk2yXhPgwcDvYnhaQ) | [Lueny Moura](https://open.spotify.com/artist/4J8PDb1yM5j4D4t3CsM70f), [AYMEÊ](https://open.spotify.com/artist/2ab8aC5t1MroJyBCYV1FWD) | [Rara](https://open.spotify.com/album/0WfdMR6MT0GFtBOZna6ALJ) | 3:01 | 2024-02-24 | 2024-02-28 |

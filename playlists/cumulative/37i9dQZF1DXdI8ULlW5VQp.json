@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Joaquina en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lila Downs, Ni\u00f1a Pastori y Soledad en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -842,7 +842,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 174720,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 174080,
       "name": "Como La Cigarra",
       "url": "https://open.spotify.com/track/1J2sfCyClN1AUP6UByOz29"
@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+        "url": "https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170751,
+      "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+      "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
+    },
+    {
+      "album": {
         "name": "El estruendo",
         "url": "https://open.spotify.com/album/4YbJjjAjMzlg9prkNhoRQu"
       },
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 210055,
       "name": "El Mundo",
       "url": "https://open.spotify.com/track/5NGkOQpMzneM26Pr0a77uB"
@@ -2510,6 +2528,28 @@
       "duration_ms": 234613,
       "name": "J.",
       "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
+    },
+    {
+      "album": {
+        "name": "Juego De Feria",
+        "url": "https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "Juego De Feria",
+      "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
     },
     {
       "album": {
@@ -3452,7 +3492,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
@@ -3702,6 +3742,24 @@
       "duration_ms": 211006,
       "name": "nunca y despu\u00e9s",
       "url": "https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/3chBDiP97QKgFLAlVszXm1"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197274,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/2ThpWJnD1rJchQ6CSFT19z"
     },
     {
       "album": {
@@ -4064,7 +4122,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 169786,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/60qAecYHQPoTj7NfpMoldU"
@@ -4740,6 +4798,32 @@
       "duration_ms": 213230,
       "name": "tal vez el amor",
       "url": "https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ"
+    },
+    {
+      "album": {
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/0FFTHBdD5AP5XkVXSdMpEP"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197402,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/7kAiuVi660DGkT67MHVIwh"
     },
     {
       "album": {
@@ -5560,6 +5644,28 @@
       "duration_ms": 264098,
       "name": "Yo No Quiero Suerte",
       "url": "https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ"
+    },
+    {
+      "album": {
+        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
+        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196895,
+      "name": "Yo Nunca Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
     },
     {
       "album": {

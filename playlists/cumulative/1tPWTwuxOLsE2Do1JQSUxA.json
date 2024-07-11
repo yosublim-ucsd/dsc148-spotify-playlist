@@ -2527,6 +2527,28 @@
     },
     {
       "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Trey Parker",
+          "url": "https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
+    },
+    {
+      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },

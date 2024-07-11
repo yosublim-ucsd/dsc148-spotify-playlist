@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Elijah Kitaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,593 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,608 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 26 | [Muleleetu](https://open.spotify.com/track/15KycmRRSpjaczTTgwowex) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Muleleetu](https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D) | 2:38 |
 | 27 | [WEEKENDI](https://open.spotify.com/track/3hNKoxy3BOUWKNuqVY0G7p) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Zagazillions](https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6) | [Pleasure Pack \(241\)](https://open.spotify.com/album/67fcCi35ZS1liV0w75eAK2) | 2:57 |
 | 28 | [Wesudiya](https://open.spotify.com/track/6k856Fpj5VGtxwRdni0kcz) | [Deejay Crim](https://open.spotify.com/artist/3qYLieejswTVwmM04g4DHR), [Roger Kent](https://open.spotify.com/artist/37UJ1iyn5ShgY90OGMpxPy) | [Wesudiya](https://open.spotify.com/album/19z4YtKy1zu1Chk8bUuUye) | 3:01 |
-| 29 | [Kiki Naye](https://open.spotify.com/track/0oP11acxTwZ0fa5oyEaPZc) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV), [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Kiki Naye](https://open.spotify.com/album/5d30swJn03ZzY5CQIoPU7b) | 4:17 |
+| 29 | [Kiki Naye](https://open.spotify.com/track/0oP11acxTwZ0fa5oyEaPZc) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [Joka](https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw), [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Kiki Naye](https://open.spotify.com/album/5d30swJn03ZzY5CQIoPU7b) | 4:17 |
 | 30 | [Falling in Love](https://open.spotify.com/track/5aJ7cMRKGlNwe4Mpl7aNot) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [KatManDu](https://open.spotify.com/artist/1255i2Jr7gEHyppuqmnsm5) | [Falling In Love](https://open.spotify.com/album/1ZSLFbAvGTUNECT52W2KCJ) | 2:21 |
 | 31 | [Nteesa](https://open.spotify.com/track/5cYU1jOUJuoJIrxXGg8nnd) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Salongo Siraje](https://open.spotify.com/artist/3eQ4darYNRBrwqfMajhRLd) | [Nteesa](https://open.spotify.com/album/3Uqp5YcoDFG26NlMTT2NnI) | 3:06 |
 | 32 | [Nyambula](https://open.spotify.com/track/29p4uMNu5rFqqR3eXgQnfy) | [Pawa Ug](https://open.spotify.com/artist/6uSS4pQJnHudxFeBVDG3l8), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Nyambula](https://open.spotify.com/album/2XSkPLzMZnaJQUilLf2THo) | 2:44 |

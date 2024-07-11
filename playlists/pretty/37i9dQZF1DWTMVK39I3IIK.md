@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste nye knive i dansk musik! <a href="spotify:artist:5Ppbc55kNdjvxP8Tw2P8S9">APHACA</a> på forsiden🔪
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,120 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,132 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

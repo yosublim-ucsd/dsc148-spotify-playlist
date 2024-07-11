@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 205742,
+  "description": "This Is Los Cadetes De Linares. Los temas esenciales, todos en una lista.",
+  "num_followers": 205823,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAAJzIwebrNGiqO6EjyXRPF+",
+  "snapshot_id": "Zox9gAAAAABB5y/s+WgE+m/RmgMmmEHN",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Recuerdos Adios Amigo Del Alma",
-        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 140640,
-      "name": "Por Ser Tan Pobre",
-      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
+      "duration_ms": 160253,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+        "name": "Mis Recuerdos Adios Amigo Del Alma",
+        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 160253,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
+      "duration_ms": 140640,
+      "name": "Por Ser Tan Pobre",
+      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
     },
     {
       "added_at": null,

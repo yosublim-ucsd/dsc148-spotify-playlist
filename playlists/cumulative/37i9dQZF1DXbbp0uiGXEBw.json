@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Ch\u1ec9 C\u00f3 Th\u1ec3 L\u00e0 Anh",
+        "url": "https://open.spotify.com/album/05exQ0cMKWDNUlnVjR0dta"
+      },
+      "artists": [
+        {
+          "name": "TRANG",
+          "url": "https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Ch\u01b0a \u0110\u01b0\u1ee3c Y\u00eau Nh\u01b0 Th\u1ebf",
+      "url": "https://open.spotify.com/track/3Ndroo5HpBKKTRGYReAYHM"
+    },
+    {
+      "album": {
         "name": "Ch\u1eafc N\u00ean Th\u00f4i",
         "url": "https://open.spotify.com/album/6VcTEnzRECYkaldA2yD1Tz"
       },
@@ -512,7 +530,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 241629,
       "name": "Ch\u1ec9 L\u00e0",
       "url": "https://open.spotify.com/track/3dYExV96XLHbxgjnFIxCpe"
@@ -1438,6 +1456,28 @@
       "duration_ms": 198000,
       "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
       "url": "https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS"
+    },
+    {
+      "album": {
+        "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em (Suy Version)",
+        "url": "https://open.spotify.com/album/4ixBXfQkTeDD2AgOhhnz1g"
+      },
+      "artists": [
+        {
+          "name": "MYLINA",
+          "url": "https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y"
+        },
+        {
+          "name": "fueled by boba",
+          "url": "https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em - Suy Version",
+      "url": "https://open.spotify.com/track/1kmKeANKIVzsfKtMZ4Ei6Z"
     },
     {
       "album": {
@@ -3116,7 +3156,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"

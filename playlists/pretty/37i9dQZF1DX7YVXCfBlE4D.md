@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,783 likes - 170 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,888 likes - 170 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 169 | [Con Mi Corazon Te Espero](https://open.spotify.com/track/0GCvAA5pTwbH4kRpyRZBvk) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/0HuBWGxqsPyimBKnyivlVy) | 2:44 |
 | 170 | [Envidia](https://open.spotify.com/track/1h27UDtlLiEKvvDui0QVuC) | [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Mi Diario Musical](https://open.spotify.com/album/5akhxQagOxDAbWZqyWqXAG) | 3:09 |
 
-Snapshot ID: `ZhlOdgAAAACdFMd+MtdwRCbgyqt2AInB`
+Snapshot ID: `Zo8tvQAAAADIlbzv3ziDSXFRuN745gc6`

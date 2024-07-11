@@ -2,7 +2,7 @@
 
 ### [This Is Edicion Especial](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wkzYc)
 
-> This is Edicion Especial\. The essential tracks, all in one playlist.
+> This is Edicion Especial。アーティストの代表曲をひとつのプレイリストに。
 
 52 songs - 3 hr 13 min
 

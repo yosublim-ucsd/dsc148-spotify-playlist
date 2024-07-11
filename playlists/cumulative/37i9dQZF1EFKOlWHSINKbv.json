@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Don't Flatter Yourself",
+        "url": "https://open.spotify.com/album/4k7NTlpFnWeK4F1mME8S2q"
+      },
+      "artists": [
+        {
+          "name": "D-Why",
+          "url": "https://open.spotify.com/artist/2NEV1rTY8EalBHz91d3cW9"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221371,
+      "name": "2,000 Miles",
+      "url": "https://open.spotify.com/track/3hWxJGRO3noWNCUgv8blO6"
+    },
+    {
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -1557,6 +1575,28 @@
     },
     {
       "album": {
+        "name": "The Count in Cologne",
+        "url": "https://open.spotify.com/album/79hsQDmsHePmpPOiT32n83"
+      },
+      "artists": [
+        {
+          "name": "Count Bass D",
+          "url": "https://open.spotify.com/artist/3P1ULKxhVEpywj0hogWT44"
+        },
+        {
+          "name": "Retrogott",
+          "url": "https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179404,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/0476QBUmuCw9RREzcqnNES"
+    },
+    {
+      "album": {
         "name": "Beach House EP",
         "url": "https://open.spotify.com/album/2P0JJ9p0o3unqi6EK4iDQw"
       },
@@ -1731,6 +1771,28 @@
     },
     {
       "album": {
+        "name": "BEFORE WE GO",
+        "url": "https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290637,
+      "name": "NOT TOO DEEP (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/2ll0wHMe0R071XBl3TDaw2"
+    },
+    {
+      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/0iBO5wsvuNE3xY9V1cXfSm"
       },
@@ -1818,10 +1880,46 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 197684,
       "name": "Passport",
       "url": "https://open.spotify.com/track/24aKIsuJixaS49EJg0tIHB"
+    },
+    {
+      "album": {
+        "name": "Passport (\u30b7\u30f3\u30b0\u30eb\u7248)",
+        "url": "https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Passport - \u30b7\u30f3\u30b0\u30eb\u7248",
+      "url": "https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x"
+    },
+    {
+      "album": {
+        "name": "Perf",
+        "url": "https://open.spotify.com/album/1x6jfY3dd4dkIOGbucYhTc"
+      },
+      "artists": [
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130430,
+      "name": "Perf",
+      "url": "https://open.spotify.com/track/4lMeIutIcRAMltnmhYNZIR"
     },
     {
       "album": {
@@ -2545,6 +2643,32 @@
     },
     {
       "album": {
+        "name": "Cuffing Season",
+        "url": "https://open.spotify.com/album/02Pte1TJ00hQSaWJCyJLzm"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Aroc!",
+          "url": "https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259768,
+      "name": "Turn Down for You (feat. Tank & Aroc!)",
+      "url": "https://open.spotify.com/track/75e7DFaTCLylS4hMRjHW2U"
+    },
+    {
+      "album": {
         "name": "Unexpected Arrival",
         "url": "https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2"
       },
@@ -2621,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/0GQzps3pyIImxVgInHPTDe"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/3eIzChv8AqByBiRwxDMFxN"
+    },
+    {
+      "album": {
         "name": "TLC",
         "url": "https://open.spotify.com/album/0Etb5PXUH3sXTnC59r2MKZ"
       },
@@ -2636,7 +2778,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 226804,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/38wnxXZdT2v7I31mHJ3Puv"
@@ -2712,6 +2854,28 @@
       "duration_ms": 199179,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
+    },
+    {
+      "album": {
+        "name": "Wishlist (feat. K Camp)",
+        "url": "https://open.spotify.com/album/3B6mf4vrKbaafvZzQAgd7Q"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265813,
+      "name": "Wishlist (feat. K Camp)",
+      "url": "https://open.spotify.com/track/4LfmA7yIiKoQa8Vdm2xI6O"
     },
     {
       "album": {

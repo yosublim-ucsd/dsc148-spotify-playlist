@@ -20725,6 +20725,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Night",
+        "url": "https://open.spotify.com/album/3BqkmmzExBxbnc8FyheNaZ"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60348,
+      "name": "Peaceful Night",
+      "url": "https://open.spotify.com/track/7EsXtGQcOlqsFYvamEgDWb"
+    },
+    {
+      "album": {
         "name": "Peaceful Reflections",
         "url": "https://open.spotify.com/album/2kmbTDEENYriN3fuStkIbw"
       },

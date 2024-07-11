@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 53442,
+  "num_followers": 53458,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACF15C98DLaylIvbGpQHuOc",
+  "snapshot_id": "Zox9gAAAAAAiMV5zDRl94R5Sz/BcdEQZ",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
       "duration_ms": 179653,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "You Ain't Alone",
-      "url": "https://open.spotify.com/track/5J2EJXBh4gDN9ZIgMmksog"
     },
     {
       "added_at": null,

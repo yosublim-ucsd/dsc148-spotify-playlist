@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-259 songs - 15 hr 26 min
+263 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Can't Stop Dancin'](https://open.spotify.com/track/5NetSTs4dgiR6GLrZOQcwJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Can't Stop Dancin'](https://open.spotify.com/album/0fwnH770rSy9L2F172lTMu) | 3:18 | 2024-02-07 |  |
 | [Change](https://open.spotify.com/track/25wUMe5Y8edc6XHLFdHnJT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:38 | 2024-02-07 |  |
 | [Checking For You](https://open.spotify.com/track/19Qduas1mZwiAr4yUuBZXC) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:34 | 2024-02-07 |  |
-| [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 | 2024-02-07 |  |
+| [Close](https://open.spotify.com/track/5EuZeqptc9gPyvBTI4XxvK) | [Maori](https://open.spotify.com/artist/2BVVBl3mlTyJRXxJQgrCEW), [Alexandra](https://open.spotify.com/artist/6SJW81YySWIZxiNak4T0Ss) | [Close](https://open.spotify.com/album/2JdzDl1Hrf9FCrh2KslLpX) | 3:13 | 2024-07-10 |  |
+| [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 | 2024-02-07 | 2024-07-11 |
 | [Crazy](https://open.spotify.com/track/1nmypDEMIhxlgvZViMUmoZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Crazy](https://open.spotify.com/album/6fyg81ZmARpHaxNte8X5NE) | 3:05 | 2024-02-07 |  |
 | [Crazy Love \(feat\. Tarrus Riley\)](https://open.spotify.com/track/6yoI7MhAp0UuaaDcOjcVPt) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:33 | 2024-02-07 |  |
 | [Crazy Night \(feat\. R\. City\)](https://open.spotify.com/track/2AMFqw4VoOkSEmOT12VDib) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Untitled](https://open.spotify.com/album/3zlbXZZ6S0Wf29Eij8MCV9) | 3:34 | 2024-02-07 |  |
@@ -97,6 +98,7 @@
 | [Green Light Go](https://open.spotify.com/track/5ejaRY8r27tuC6trrwAZJQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Green Light Go](https://open.spotify.com/album/3orQldTQmLgJdqVaKZAln4) | 3:37 | 2024-02-07 |  |
 | [Grown Man Cry](https://open.spotify.com/track/4nuq3ahtDol0fj6oBOpc2b) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 3:38 | 2024-02-07 |  |
 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 | 2024-02-07 |  |
+| [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 | 2024-07-10 |  |
 | [Guns High](https://open.spotify.com/track/2SHDv2qlZnfXZUkdHecpPZ) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [DJ Khaled Presents Ace Hood Gutta](https://open.spotify.com/album/026UHaCSPyAdsz12UNzYFN) | 4:10 | 2024-02-07 |  |
 | [Hallelujah](https://open.spotify.com/track/1s8gMpKp8a2miBP4roDf4L) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:24 | 2024-02-07 |  |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2024-02-07 |  |
@@ -144,6 +146,7 @@
 | [Lingerie](https://open.spotify.com/track/4tf0POzZuU6h0jpjRoYEdh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:21 | 2024-02-07 |  |
 | [Lingo](https://open.spotify.com/track/6MC08PeFU5s2TOBGcqiBus) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Feed](https://open.spotify.com/album/10wCXH3D0GgPgZJCPcHuIn) | 2:46 | 2024-02-07 |  |
 | [Live by the Gun \(feat\. Akon\)](https://open.spotify.com/track/0CxCpL8uCAwThYevFxv6bb) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:42 | 2024-02-07 |  |
+| [Locked Away](https://open.spotify.com/track/1tmtNTFj5e1lOZ5FF5D1uD) | [The New Releases](https://open.spotify.com/artist/0KcrR46L75FgSR7uRuIwqB) | [Straight from the Studio: The Hits January 2016](https://open.spotify.com/album/3xpISCse4tIpurM2nfaQDu) | 3:47 | 2024-07-10 |  |
 | [Locked Away \(feat\. Adam Levine\)](https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:47 | 2024-02-07 |  |
 | [Losin' It](https://open.spotify.com/track/5pWcgT7W9pJOh6viBmehTm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Losin' It](https://open.spotify.com/album/62vzwQLiTzoVPwpG6ShQxG) | 3:56 | 2024-02-07 |  |
 | [Loudest Silence](https://open.spotify.com/track/6twjK7WfE9PpL4wveuudwD) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 4:07 | 2024-02-07 |  |
@@ -228,6 +231,7 @@
 | [Special](https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:54 | 2024-02-07 | 2024-03-02 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2024-03-01 |  |
 | [Stadium](https://open.spotify.com/track/7CVQNMKzfWgKtawyUr0b6W) | [The Melisizwe Brothers](https://open.spotify.com/artist/2CbEuEC9M3rUxpzYV3pZ8O) | [Stadium](https://open.spotify.com/album/1gTLQYbs9p41kfvNE9zdvk) | 3:27 | 2024-02-07 |  |
+| [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 | 2024-07-10 |  |
 | [Super Villain](https://open.spotify.com/track/3JKSCrtSnNdVWDACLVffRh) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Somewhere On The Other Side Of Nowhere](https://open.spotify.com/album/3sHUnrTHcNRTQurrUEoDbz) | 3:45 | 2024-02-07 |  |
 | [Sweet Spot](https://open.spotify.com/track/0kJxW8nJoFDqriiIh1u6HU) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:14 | 2024-02-07 |  |
 | [Take You Down](https://open.spotify.com/track/2YePYsIAjvrtqL8HQ9pI3b) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 4:06 | 2024-02-07 |  |

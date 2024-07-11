@@ -1,49 +1,13 @@
 {
   "description": "All your favorite Disney hits, including songs from The Lion King.",
-  "num_followers": 5354827,
+  "num_followers": 5355410,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmnqKwAAAADF7w8OwNUOeOfht3ImIA0+",
+  "snapshot_id": "Zo6F0AAAAADI39s+jkc5PczJbFIT1Ddj",
   "tracks": [
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Santino Fontana",
-          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
-        }
-      ],
-      "duration_ms": 124733,
-      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Tangled",
-        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "Something That I Want",
-      "url": "https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa"
-    },
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
@@ -52,13 +16,13 @@
       },
       "artists": [
         {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
         }
       ],
-      "duration_ms": 163386,
-      "name": "How Far I'll Go",
-      "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
+      "duration_ms": 163893,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -75,6 +39,22 @@
       "duration_ms": 202226,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "added_at": "2024-01-08 22:56:36",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -149,48 +129,24 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2024-04-30 18:37:55",
-      "album": {
-        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
-      },
-      "artists": [
-        {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Angelique Cabral",
-          "url": "https://open.spotify.com/artist/4sEFD7V049ZiliYdmXR9fJ"
-        },
-        {
-          "name": "Wish - Cast",
-          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Knowing What I Know Now",
-      "url": "https://open.spotify.com/track/1mN6jJnnHZeWaXDv8Rsoi4"
-    },
-    {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
       },
       "artists": [
         {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Santino Fontana",
+          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
         }
       ],
-      "duration_ms": 163893,
-      "name": "You're Welcome",
-      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
+      "duration_ms": 124733,
+      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -211,26 +167,6 @@
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
-    },
-    {
-      "added_at": "2024-04-30 18:37:55",
-      "album": {
-        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
-      },
-      "artists": [
-        {
-          "name": "Wish - Cast",
-          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "I'm A Star",
-      "url": "https://open.spotify.com/track/0F1TCjZ7rnMnK4Y4O5byP7"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -271,26 +207,6 @@
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
-    },
-    {
-      "added_at": "2024-04-30 18:37:55",
-      "album": {
-        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
-      },
-      "artists": [
-        {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "This Wish",
-      "url": "https://open.spotify.com/track/2srilwiYAXsMkmwny0RUQ3"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -361,6 +277,26 @@
       "url": "https://open.spotify.com/track/5UK5ZeUAzy3Am4VeU6ouV8"
     },
     {
+      "added_at": "2024-04-30 18:37:55",
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "This Wish",
+      "url": "https://open.spotify.com/track/2srilwiYAXsMkmwny0RUQ3"
+    },
+    {
       "added_at": "2024-01-08 22:56:36",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
@@ -401,6 +337,26 @@
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
     },
     {
+      "added_at": "2024-04-30 18:37:55",
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "I'm A Star",
+      "url": "https://open.spotify.com/track/0F1TCjZ7rnMnK4Y4O5byP7"
+    },
+    {
       "added_at": "2024-01-08 22:56:36",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
@@ -415,6 +371,22 @@
       "duration_ms": 111452,
       "name": "When I Am Older",
       "url": "https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74"
+    },
+    {
+      "added_at": "2024-01-08 22:56:36",
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Something That I Want",
+      "url": "https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa"
     },
     {
       "added_at": "2024-04-30 18:37:55",
@@ -611,30 +583,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
-      },
-      "artists": [
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Cast - The Little Mermaid",
-          "url": "https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/79juTmh89v1xqOLYsr6wSq"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
       },
@@ -707,6 +655,34 @@
       "duration_ms": 208226,
       "name": "Hawaiian Roller Coaster Ride",
       "url": "https://open.spotify.com/track/7GmiJVBAzWNikX5VkNQg85"
+    },
+    {
+      "added_at": "2024-04-30 18:37:55",
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Angelique Cabral",
+          "url": "https://open.spotify.com/artist/4sEFD7V049ZiliYdmXR9fJ"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Knowing What I Know Now",
+      "url": "https://open.spotify.com/track/1mN6jJnnHZeWaXDv8Rsoi4"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -791,54 +767,6 @@
       "duration_ms": 79293,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/0CKmN3Wwk8W4zjU0pqq2cv"
-    },
-    {
-      "added_at": "2024-04-30 18:37:55",
-      "album": {
-        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
-      },
-      "artists": [
-        {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Wish - Cast",
-          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Welcome To Rosas",
-      "url": "https://open.spotify.com/track/0Rl0MTCd5rMNxUbxCayrbn"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "The Lion King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
-      },
-      "artists": [
-        {
-          "name": "JD McCrary",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        },
-        {
-          "name": "Shahadi Wright Joseph",
-          "url": "https://open.spotify.com/artist/3qBrg0c1loxePyWQxp6F75"
-        },
-        {
-          "name": "John Oliver",
-          "url": "https://open.spotify.com/artist/0J5AcRTl5C6aBnxCxZKpf3"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "I Just Can't Wait to Be King",
-      "url": "https://open.spotify.com/track/2xUdYfY3LpJb4Iv37RypnO"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -939,38 +867,6 @@
       "duration_ms": 160800,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
-      },
-      "artists": [
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Awkwafina",
-          "url": "https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx"
-        },
-        {
-          "name": "Jacob Tremblay",
-          "url": "https://open.spotify.com/artist/1RuyU38m8bFrOef3EeRHM8"
-        },
-        {
-          "name": "Ensemble - The Little Mermaid",
-          "url": "https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Kiss the Girl",
-      "url": "https://open.spotify.com/track/4NMNwdmbiSGlDdMha5k6ks"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -1125,22 +1021,6 @@
       "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT"
     },
     {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Enchanted",
-        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
-      },
-      "artists": [
-        {
-          "name": "Jon McLaughlin",
-          "url": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "So Close - From \"Enchanted\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB"
-    },
-    {
       "added_at": "2024-02-06 01:14:11",
       "album": {
         "name": "Descendants 3 (Original TV Movie Soundtrack)",
@@ -1195,42 +1075,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Turning Red (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
-      },
-      "artists": [
-        {
-          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
-          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
-        },
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Finneas O'Connell",
-          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
-        },
-        {
-          "name": "Topher Ngo",
-          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
-        },
-        {
-          "name": "Grayson Villanueva",
-          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
-        },
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "U Know What's Up",
-      "url": "https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
       },
@@ -1279,22 +1123,6 @@
       "duration_ms": 117693,
       "name": "When You Wish Upon A Star",
       "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Walt Disney Records The Legacy Collection: Robin Hood",
-        "url": "https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD"
-      },
-      "artists": [
-        {
-          "name": "Nancy Adams",
-          "url": "https://open.spotify.com/artist/69ktA9CYo2KzvtMrP7An91"
-        }
-      ],
-      "duration_ms": 116946,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3M6YfoPwvvTHK1mnCQmqHI"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -1439,30 +1267,6 @@
       "duration_ms": 110986,
       "name": "In Summer - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7bG6SQBGZthPDG5QJL5Gf7"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
-      },
-      "artists": [
-        {
-          "name": "Awkwafina",
-          "url": "https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 121813,
-      "name": "The Scuttlebutt",
-      "url": "https://open.spotify.com/track/1xWsoIgBYgLfMkn2kBY7YI"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -1711,42 +1515,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "High School Musical: The Musical: The Series Season 3 (Episode 2) [From \"High School Musical: The Musical: The Series (Season 3)\"]",
-        "url": "https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd"
-      },
-      "artists": [
-        {
-          "name": "Cast of High School Musical: The Musical: The Series",
-          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 196619,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
       },
@@ -1819,22 +1587,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
-      },
-      "artists": [
-        {
-          "name": "Jonah Hauer-King",
-          "url": "https://open.spotify.com/artist/2I2IofADiLp0tdtqaGUwkb"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Wild Uncharted Waters",
-      "url": "https://open.spotify.com/track/5JKhXfLo9QUOV38egXmhcI"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Disney's Greatest Volume 1",
         "url": "https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY"
       },
@@ -1903,22 +1655,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -1931,38 +1667,6 @@
       "duration_ms": 185573,
       "name": "What's This?",
       "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd"
-      },
-      "artists": [
-        {
-          "name": "Jessica Darrow",
-          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
-        }
-      ],
-      "duration_ms": 186726,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 189132,
-      "name": "Into the Unknown - Panic! At The Disco Version",
-      "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -1987,30 +1691,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Hocus Pocus 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        },
-        {
-          "name": "Sarah Jessica Parker",
-          "url": "https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH"
-        },
-        {
-          "name": "Kathy Najimy",
-          "url": "https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "One Way or Another (Hocus Pocus 2 Version)",
-      "url": "https://open.spotify.com/track/3jGAUGvmWbPe2LPc8Hon1c"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack/Season 2)",
         "url": "https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM"
       },
@@ -2027,46 +1707,6 @@
       "duration_ms": 174380,
       "name": "The Rose Song",
       "url": "https://open.spotify.com/track/4qCySCQyiyLT2mVUOM2zdS"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "When You Wish Upon a Star (From \"Disney 100\")",
-        "url": "https://open.spotify.com/album/5AGZKi74CsJrmJ7hJAFNrH"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "When You Wish Upon a Star - From \"Disney 100\"",
-      "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
-      },
-      "artists": [
-        {
-          "name": "Emma Watson",
-          "url": "https://open.spotify.com/artist/4N3cNXg5phUzRzuJYYxQlV"
-        },
-        {
-          "name": "Luke Evans",
-          "url": "https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ"
-        },
-        {
-          "name": "Ensemble - Beauty and the Beast",
-          "url": "https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR"
-        }
-      ],
-      "duration_ms": 333265,
-      "name": "Belle",
-      "url": "https://open.spotify.com/track/1cPfKp9ThNZ1fez9itmUMN"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -2159,42 +1799,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 183734,
-      "name": "All Is Found - Kacey Musgraves Version",
-      "url": "https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Pat Carroll",
-          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "Poor Unfortunate Souls",
-      "url": "https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
       },
@@ -2227,38 +1831,6 @@
       "duration_ms": 160880,
       "name": "Kiss the Girl - Remastered 2014",
       "url": "https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Tangled",
-        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
-      },
-      "artists": [
-        {
-          "name": "Donna Murphy",
-          "url": "https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Mother Knows Best (Reprise) - From \"Tangled\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/1nrXPF5szKZhHr0iANiPcS"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Two Oruguitas",
-      "url": "https://open.spotify.com/track/6jPVyjPqp2BNUJnDSwm8tK"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -2315,78 +1887,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Pinocchio",
-        "url": "https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz"
-      },
-      "artists": [
-        {
-          "name": "Cliff Edwards",
-          "url": "https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn"
-        },
-        {
-          "name": "Disney Studio Chorus",
-          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/1WrPa4lrIddctGWAIYYfP9"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Mulan (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
-      },
-      "artists": [
-        {
-          "name": "Lea Salonga",
-          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
-        },
-        {
-          "name": "Beth Fowler",
-          "url": "https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV"
-        },
-        {
-          "name": "Marni Nixon",
-          "url": "https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ"
-        },
-        {
-          "name": "Chorus - Mulan",
-          "url": "https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Honor To Us All",
-      "url": "https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
-      },
-      "artists": [
-        {
-          "name": "Ilene Woods",
-          "url": "https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj"
-        },
-        {
-          "name": "Mice Chorus",
-          "url": "https://open.spotify.com/artist/3gcnVAcMBdtYbril7EqBz6"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "A Dream Is a Wish Your Heart Makes",
-      "url": "https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -2407,42 +1907,6 @@
       "duration_ms": 69813,
       "name": "Remember Me (Lullaby)",
       "url": "https://open.spotify.com/track/2cFGv8v5DcbJXHEdzouFne"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Turning Red (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
-      },
-      "artists": [
-        {
-          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
-          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
-        },
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Finneas O'Connell",
-          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
-        },
-        {
-          "name": "Topher Ngo",
-          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
-        },
-        {
-          "name": "Grayson Villanueva",
-          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
-        },
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "1 True Love",
-      "url": "https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -2471,26 +1935,6 @@
       "duration_ms": 213640,
       "name": "Hakuna Matata - From \"The Lion King\" Soundtrack",
       "url": "https://open.spotify.com/track/5khPZny1Hf4w1XyHrZ6T0n"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 101176,
-      "name": "Start of Something New - Nini Version",
-      "url": "https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -2547,46 +1991,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Tarzan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
-      },
-      "artists": [
-        {
-          "name": "Rosie O'Donnell",
-          "url": "https://open.spotify.com/artist/4V8U8U6LwsHGyRTLCt9t19"
-        },
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        },
-        {
-          "name": "Cast - Tarzan",
-          "url": "https://open.spotify.com/artist/3KA60L5qrdSZ0BYad8hmK2"
-        }
-      ],
-      "duration_ms": 135466,
-      "name": "Trashin' The Camp",
-      "url": "https://open.spotify.com/track/4qn3XK6IW2cKjWjSk37t6p"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 223835,
-      "name": "Lead the Way",
-      "url": "https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Disney Summer Songs",
         "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
@@ -2599,22 +2003,6 @@
       "duration_ms": 160586,
       "name": "Into The Open Air - From \"Brave\"/Soundtrack",
       "url": "https://open.spotify.com/track/0buWWJU9TGVJUWCkEsHKos"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Colombia, Mi Encanto",
-      "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -2687,22 +2075,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
-      },
-      "artists": [
-        {
-          "name": "Dan Stevens",
-          "url": "https://open.spotify.com/artist/5lLVsxABqSuosfqAoLQeXV"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/3Yn97I3qIj7Px0Bi4rkD2q"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "ZOMBIES 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
       },
@@ -2731,38 +2103,6 @@
       "duration_ms": 165604,
       "name": "Come on Out",
       "url": "https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "A Goofy Movie",
-        "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
-      },
-      "artists": [
-        {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "Stand Out",
-      "url": "https://open.spotify.com/track/48UDhM2xL9wUuYLfrpK2Jv"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Cars (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Real Gone",
-      "url": "https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -2815,22 +2155,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Toy Story Favorites",
-        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Saving Mr. Banks (Original Motion Picture Soundtrack [Deluxe Edition])",
         "url": "https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12"
       },
@@ -2875,38 +2199,6 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Wreck-It Ralph",
-        "url": "https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "When Can I See You Again? - From \"Wreck-It Ralph\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"",
-      "url": "https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
         "name": "Mary Poppins",
         "url": "https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d"
       },
@@ -2919,78 +2211,6 @@
       "duration_ms": 249040,
       "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217996,
-      "name": "Reflection (2020)",
-      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
-      },
-      "artists": [
-        {
-          "name": "Billy Crystal",
-          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
-        },
-        {
-          "name": "John Goodman",
-          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
-        }
-      ],
-      "duration_ms": 217786,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Sleeping Beauty",
-        "url": "https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54"
-      },
-      "artists": [
-        {
-          "name": "Chorus - Sleeping Beauty",
-          "url": "https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Main Title / Once Upon A Dream / Prologue - From \"Sleeping Beauty\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/4qKDjmz094Bu2wMepNuwVN"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN"
     }
   ],
   "unique_name": "Disney Hits",

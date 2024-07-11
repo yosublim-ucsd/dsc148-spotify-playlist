@@ -1,12 +1,12 @@
 {
-  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 149851,
+  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
+  "num_followers": 149858,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAABrHtNsxxvjQmW5yOyUNbW6",
+  "snapshot_id": "Zox9gAAAAACOlwp1FYnzVyExmG3V6Ubj",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nueva Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Dos Almas",
         "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 186513,
       "name": "Cuando Dos Almas",
       "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nueva Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
     },
     {
       "added_at": null,

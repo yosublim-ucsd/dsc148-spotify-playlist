@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,017 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,018 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 52 | [ice \(feat\. BAMBII\)](https://open.spotify.com/track/6hJctn0h0dnTfpijZcK8E9) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [ice \(feat\. BAMBII\)](https://open.spotify.com/album/26MoAtmtvBMP1VP5Oc5uox) | 1:54 |
 | 53 | [Time and Space \(feat\. J\. Lamotta\)](https://open.spotify.com/track/7dXpHafbZc5CCdqWWz4ARo) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [N.A.Ï](https://open.spotify.com/artist/75HjSvUmFQGnZETfFDdMLj), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Time and Space \(feat\. J\. Lamotta\)](https://open.spotify.com/album/5dB2gJ1hiZAIgdwwSAEisg) | 3:06 |
 | 54 | [ANIYA](https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [ANIYA](https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY) | 2:56 |
-| 55 | [Living](https://open.spotify.com/track/4mEHEDEH6GwpisVWgPAenA) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [This is my life](https://open.spotify.com/album/0vcAC3O85hMPsdjNnC8H7w) | 2:44 |
+| 55 | [Living](https://open.spotify.com/track/4mEHEDEH6GwpisVWgPAenA) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [This is my life](https://open.spotify.com/album/0vcAC3O85hMPsdjNnC8H7w) | 2:44 |
 | 56 | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/1X55aNgEX0J7rNQ8e21dxF) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/album/7snxSdifKDEkIUOCMvfklx) | 4:15 |
 | 57 | [Right Ear](https://open.spotify.com/track/2RWkSgk5ecNRQce6BMxYOJ) | [takeisme](https://open.spotify.com/artist/6VK5u98WZKhNKuIfDUHoXl), [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1) | [Right Ear](https://open.spotify.com/album/5gooh5xIFM2B7Saco37Vuu) | 3:21 |
 | 58 | [なながつ](https://open.spotify.com/track/17GTBkTaCMn3qXgwsPhJVf) | [HOTEL DONUTS](https://open.spotify.com/artist/1x9lMUggTk6KWnluVbjUXF), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [雲居ハルカ](https://open.spotify.com/artist/3hMQhv3fe9uKGFYcJnzwQU) | [なながつ](https://open.spotify.com/album/7hPbVoNautzqOZyrhNiGs5) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Drifted](https://open.spotify.com/track/2SvJOXCRwPHDkpXSYWfv6l) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Drifted](https://open.spotify.com/album/0qc3iTsNst2Iov8gEYyA8m) | 3:52 |
 | 70 | [Don't Look Back \- NUU$HI Remix](https://open.spotify.com/track/5EKSkoADpyGHJ9jFcvFUOF) | [SASAKRECT](https://open.spotify.com/artist/2DcBqvgOlMtC3K4uGQZ9v8), [NUU$HI](https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Hanagata](https://open.spotify.com/artist/12TrT3DcsxGAxARKh3vfxP) | [Don't Look Back \(NUU$HI Remix\)](https://open.spotify.com/album/38SG1m3hraeYtrIaUxEi6g) | 3:02 |
 
-Snapshot ID: `ZoqtcAAAAABa6CljTS5hMlEG0QPKOAzI`
+Snapshot ID: `Zo4CWwAAAAA056IjBJ31svLB3TB/Fh2j`

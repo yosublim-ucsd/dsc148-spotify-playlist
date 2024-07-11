@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=YoxMG14\_TC\-zhugQbjb28g">Diamond Platnumz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604,285 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,604,489 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

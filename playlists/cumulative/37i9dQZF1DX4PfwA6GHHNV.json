@@ -2995,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216612,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
+    },
+    {
+      "album": {
         "name": "Tudo \u00c9 Pra Sempre Agora",
         "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
       },

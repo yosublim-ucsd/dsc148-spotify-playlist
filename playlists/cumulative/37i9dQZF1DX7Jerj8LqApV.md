@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-118 songs - 7 hr 52 min
+122 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [dahan\-dahan](https://open.spotify.com/track/3pT7wGF5w6Jhgj7w08dCeQ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [dahan\-dahan](https://open.spotify.com/album/0xWLRLBLyorsbEwOeWzklC) | 4:24 | 2024-06-05 |  |
 | [Dal'wang Patinig](https://open.spotify.com/track/1RuU3Nuwnv5RZExtG5w94l) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Dal'wang Patinig](https://open.spotify.com/album/5e1cXY60hFMJYetPBFl2di) | 3:49 | 2023-11-10 | 2023-12-09 |
 | [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 | 2023-11-10 | 2024-02-27 |
-| [edsa](https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [edsa](https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y) | 3:28 | 2024-06-05 |  |
+| [edsa](https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [edsa](https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y) | 3:28 | 2024-06-05 | 2024-07-11 |
 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 | 2024-04-17 | 2024-07-10 |
 | [Gabi](https://open.spotify.com/track/6bRB6pvgrVRAi1VdFz9TJb) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Sad Songs and Bullshit Part 1](https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv) | 5:17 | 2023-10-18 | 2023-11-21 |
 | [Gunita](https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Gunita](https://open.spotify.com/album/2njjzX0FQpIS3W8COYGpBR) | 4:13 | 2024-05-08 | 2024-06-06 |
@@ -55,7 +55,7 @@
 | [KELAN](https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KELAN](https://open.spotify.com/album/6xIotKOoU9blLewoX4q0ns) | 4:10 | 2024-02-07 | 2024-02-21 |
 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 | 2023-10-18 |  |
 | [Klaro](https://open.spotify.com/track/1jG9Gzu5qarOo1v4qKjLwe) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Klaro](https://open.spotify.com/album/5ZM2rCkiq7huULAPjbAsIZ) | 4:08 | 2024-02-07 | 2024-02-21 |
-| [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 | 2023-10-18 |  |
+| [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 | 2023-10-18 | 2024-07-11 |
 | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/track/143x7pgmHXYdHhTJUoeoma) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/album/3Y5UOySXapMRA2Krxq8r3S) | 4:28 | 2023-10-18 | 2024-01-11 |
 | [Kundiman](https://open.spotify.com/track/6Al0RruBBzC6ft8u1p78hG) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:39 | 2023-10-18 | 2024-04-19 |
 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 | 2024-04-17 |  |
@@ -66,6 +66,7 @@
 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 | 2023-10-18 | 2024-07-10 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-18 |  |
 | [Lihim](https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Lihim](https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65) | 5:20 | 2024-02-28 |  |
+| [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-10 |  |
 | [Magkasalungat](https://open.spotify.com/track/0sKerGQuXqWR505d25aIDT) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Magkasalungat](https://open.spotify.com/album/5fldRn3p12GzDIygnWoHLI) | 2:48 | 2024-04-03 | 2024-04-19 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-06-05 |  |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2023-10-18 |  |
@@ -85,6 +86,7 @@
 | [Never Close Enough](https://open.spotify.com/track/0GJNCSUYSDNyYJlbp6cLD8) | [Kristel Fulgar](https://open.spotify.com/artist/1260cBYXTbcaPim1WPOXFG) | [Never Close Enough](https://open.spotify.com/album/0rCGtPHkwr7Kvhoz0AIur2) | 4:15 | 2024-02-20 | 2024-04-04 |
 | [Ni Yao De Ai](https://open.spotify.com/track/0GiRQNwTZvDFXojuuJaSFg) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Ni Yao De Ai](https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj) | 4:10 | 2024-02-20 | 2024-04-04 |
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-12-08 | 2024-06-23 |
+| [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-10 |  |
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-10-18 | 2023-12-02 |
 | [Pagod](https://open.spotify.com/track/6HAJc8mpLVLiY4M9hRm1g9) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Pagod](https://open.spotify.com/album/1YUwrb26GfU9wBvoPA3rVT) | 4:12 | 2023-10-25 | 2023-11-11 |
 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-05-15 | 2024-06-09 |
@@ -99,7 +101,8 @@
 | [Paraluman](https://open.spotify.com/track/1etOJ1EIVf7Qf51rmm0Zmd) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 5:12 | 2023-12-08 | 2024-04-06 |
 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 | 2023-11-10 | 2024-04-19 |
 | [Pelikula](https://open.spotify.com/track/663vZfMh88Uo2bfTx6wiE4) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4Ufwb1ZIfcSK4GKGzfZipb) | 3:24 | 2023-10-18 | 2024-04-19 |
-| [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 | 2024-04-17 |  |
+| [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 | 2024-04-17 | 2024-07-11 |
+| [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-10 |  |
 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2023-12-08 |  |
 | [Room](https://open.spotify.com/track/3WJo7bV3Hi9BgwnVq13SK6) | [Stell](https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0) | [Room](https://open.spotify.com/album/3yyf40UEKCP9sZbAxYdGih) | 3:43 | 2024-07-09 |  |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 |  |
@@ -107,6 +110,7 @@
 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2024-04-17 | 2024-05-09 |
 | [Sagada](https://open.spotify.com/track/2wh4fGevm9QWeZtUXEJYCp) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sagada](https://open.spotify.com/album/5atwOm2uqTx0Zy9Hc3K0xs) | 4:10 | 2024-02-20 | 2024-03-30 |
 | [Same Ground](https://open.spotify.com/track/5ghwi50zKaBUuWoSA1tPCw) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Same Ground](https://open.spotify.com/album/57ixBNu71U56E9NJ5JRX60) | 3:22 | 2023-10-25 | 2023-11-11 |
+| [sana hindi na lang](https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [sana hindi na lang](https://open.spotify.com/album/1uzlXLSHMKR4lRQMJjJ0Oa) | 3:16 | 2024-07-10 |  |
 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 | 2023-10-18 | 2023-11-11 |
 | [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 | 2024-04-03 |  |
 | [sige, sayaw!](https://open.spotify.com/track/1oodIcBpmQLOJybpGwv6lw) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [sige, sayaw!](https://open.spotify.com/album/6iWaYp0ISeGnDq5iqvPJaz) | 3:46 | 2024-02-28 | 2024-04-04 |
@@ -122,7 +126,7 @@
 | [Victim](https://open.spotify.com/track/7JyXUBn67ouH8RtY7sZWp9) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Victim](https://open.spotify.com/album/0ylk6CxtRaKfRb5X3YBS8V) | 3:52 | 2023-11-10 | 2023-12-09 |
 | [waiting 4 u \(delulu\)](https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [waiting 4 u \(delulu\)](https://open.spotify.com/album/4IT8FqSv8iUlPJUZdwU29r) | 3:28 | 2023-11-10 | 2023-12-09 |
 | [Wala Nang Iba](https://open.spotify.com/track/6wJWjSeyr2usaQBTcvRR0R) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Wala Nang Iba](https://open.spotify.com/album/7g9dG9c9BodUL5Ubns2XgH) | 4:09 | 2023-10-18 | 2023-10-26 |
-| [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2023-10-18 |  |
+| [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2023-10-18 | 2024-07-11 |
 | [YK](https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj) | [Cean Jr.](https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m) | [YK](https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS) | 2:50 | 2023-10-18 | 2024-04-19 |
 | [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 | 2023-10-18 | 2024-06-11 |
 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 | 2023-10-18 | 2024-04-19 |

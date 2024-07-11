@@ -1,12 +1,12 @@
 {
-  "description": "This Is Trivium. Los temas esenciales, todos en una lista.",
-  "num_followers": 78290,
+  "description": "This is Trivium. The essential tracks, all in one playlist.",
+  "num_followers": 78306,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAADeeFcTt0D1aDO5i6TuGNBi",
+  "snapshot_id": "Zox9gAAAAAA+R7onkI97/S0gJeXvPIj6",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 302466,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 321161,
+      "name": "Until the World Goes Cold",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Throes of Perdition",
-      "url": "https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 269220,
       "name": "The Defiant",
       "url": "https://open.spotify.com/track/1OsDIdCx9t0khbY88vFpLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Throes of Perdition",
+      "url": "https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 387400,
-      "name": "Kirisute Gomen",
-      "url": "https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 228926,
       "name": "Bleed Into Me",
       "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 387400,
+      "name": "Kirisute Gomen",
+      "url": "https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 226426,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Villainy Thrives",
-      "url": "https://open.spotify.com/track/7LUxLggr0vvXXGS9o8Xq80"
     }
   ],
   "unique_name": "This Is Trivium",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19219,
+  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
+  "num_followers": 19227,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAAUEQevI0QH2MXcnrZEyPvc",
+  "snapshot_id": "Zox9gAAAAACDCU9xdGqJqF5VkEnfcOMk",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Em Fervente Orac\u0327a\u0303o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redimido (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 347413,
       "name": "Redimido - Ao Vivo",
       "url": "https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Orac\u0327a\u0303o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Risen Savior (Sing My Soul) [Live]",
-        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 449054,
-      "name": "Risen Savior (Sing My Soul) - Live",
-      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
         "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 366814,
       "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
       "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Risen Savior (Sing My Soul) [Live]",
+        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
     },
     {
       "added_at": null,

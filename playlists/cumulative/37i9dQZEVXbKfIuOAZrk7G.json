@@ -5301,6 +5301,32 @@
     },
     {
       "album": {
+        "name": "Beckham",
+        "url": "https://open.spotify.com/album/6ZEqRfMQX2vh8ctVljqGYy"
+      },
+      "artists": [
+        {
+          "name": "hellcat",
+          "url": "https://open.spotify.com/artist/26mv8vTi4eQS9HBOy6dAj4"
+        },
+        {
+          "name": "Denizlpsevv",
+          "url": "https://open.spotify.com/artist/4pgSIfKXAJIobPChLgCBC2"
+        },
+        {
+          "name": "TOR4TRIX",
+          "url": "https://open.spotify.com/artist/7zBe99x5uLeU3VTNP2Nmyb"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154259,
+      "name": "Beckham",
+      "url": "https://open.spotify.com/track/2lAJItkS94iyJb72ZirxWx"
+    },
+    {
+      "album": {
         "name": "Beckham (Kyle Richh)",
         "url": "https://open.spotify.com/album/6dgd4B1VLzKDejQunFNIfT"
       },
@@ -33766,7 +33792,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"

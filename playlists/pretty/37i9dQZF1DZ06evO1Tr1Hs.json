@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 23201,
+  "num_followers": 23317,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAAClxQ6Ve1K7a/N+YyJM86Zj",
+  "snapshot_id": "Zox9gAAAAABWobgnUntxnwH1OfuDW4cI",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 150318,
-      "name": "Lookbook",
-      "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
+      "duration_ms": 152368,
+      "name": "Swag Overload",
+      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 166863,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
+      "duration_ms": 150318,
+      "name": "Lookbook",
+      "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
     },
     {
       "added_at": null,
@@ -639,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
       "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Stunt",
-      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
+      "duration_ms": 166863,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
     },
     {
       "added_at": null,
@@ -691,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homixide Lifestyle",
+        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Stunt",
+      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teen X",
         "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
       },
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 99683,
-      "name": "Pissed Off",
-      "url": "https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ"
+      "duration_ms": 105508,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
     },
     {
       "added_at": null,
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 105508,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
+      "duration_ms": 99683,
+      "name": "Pissed Off",
+      "url": "https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ"
     },
     {
       "added_at": null,

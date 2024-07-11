@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 195448,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/0RCFwZ4GluILfF8VDJoJV8"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 155666,
       "name": "Labels. (ft. Moneybagg Yo, BIA)",
       "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 198200,
       "name": "Pi\u00f1ata (feat. BIA, Kap G & Justin Quiles)",
       "url": "https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ"
@@ -2027,6 +2027,36 @@
     },
     {
       "album": {
+        "name": "Su\u00e9ltate (From Sing 2)",
+        "url": "https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai"
+      },
+      "artists": [
+        {
+          "name": "Sam i",
+          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210631,
+      "name": "Su\u00e9ltate (From Sing 2) (with Sam i & Jarina De Marco feat. Anitta, BIA)",
+      "url": "https://open.spotify.com/track/5GFcYCn3ciDSFTRYOi4oVY"
+    },
+    {
+      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
       },
@@ -2050,7 +2080,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 210631,
       "name": "Su\u00e9ltate (with Sam i & Jarina De Marco feat. Anitta, BIA) - From Sing 2",
       "url": "https://open.spotify.com/track/3nUcCMjX6up5Ik95sTpNU0"

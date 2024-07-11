@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132619,
+  "num_followers": 132631,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAADLJN3utk4jxvLfZPLhTAjN",
+  "snapshot_id": "Zox9gAAAAACr2u20J8OZZX6ZSFTc6ITz",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 287602,
+      "name": "Com os Olhos da F\u00e9",
+      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 321039,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 287602,
-      "name": "Com os Olhos da F\u00e9",
-      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aleluya",
-        "url": "https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        }
-      ],
-      "duration_ms": 334831,
-      "name": "Aleluya",
-      "url": "https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melhor Amigo",
         "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 335481,
       "name": "Melhor Amigo",
       "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aleluya",
+        "url": "https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        }
+      ],
+      "duration_ms": 334831,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4"
     },
     {
       "added_at": null,

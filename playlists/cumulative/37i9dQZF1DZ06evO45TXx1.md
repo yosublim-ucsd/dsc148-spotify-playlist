@@ -2,7 +2,7 @@
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Mc Luanna\. The essential tracks, all in one playlist.
 
 69 songs - 3 hr 28 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 | 2023-12-30 |  |
 | [44](https://open.spotify.com/track/54Am9PMURLJ6NcJApP4l05) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 2:45 | 2023-12-30 |  |
-| [A Paz Que Eu Busco](https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 4:21 | 2024-07-08 |  |
+| [A Paz Que Eu Busco](https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Correia](https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 4:21 | 2024-07-08 |  |
 | [Abismo](https://open.spotify.com/track/7ptPCmSQieWgksqU1DSVKg) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Abismo](https://open.spotify.com/album/1KuI1btBtMULYp09Pg0GLA) | 2:54 | 2023-12-30 | 2024-03-15 |
 | [AGILIDADE](https://open.spotify.com/track/7aTSVvdzV8GRiWNX7lgkrC) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [AGILIDADE](https://open.spotify.com/album/0WViaVdGPXcK3RwXPuMA4c) | 2:27 | 2023-12-30 | 2024-01-29 |
 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 | 2024-04-08 |  |

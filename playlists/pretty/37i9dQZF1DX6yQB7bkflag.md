@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: BABYMONSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,106 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,110 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 19 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 |
 | 20 | [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 |
 | 21 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 |
-| 22 | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/track/0p9mxMFcxh3xYz2ZhMPg65) | [Kara Chenoa](https://open.spotify.com/artist/2O0nFTBxaDlHNLVjELU0hu) | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/album/5KzDAHQOSpYt6e3JRrPWth) | 2:39 |
+| 22 | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/track/0p9mxMFcxh3xYz2ZhMPg65) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/album/5KzDAHQOSpYt6e3JRrPWth) | 2:39 |
 | 23 | [Wahai Tuan](https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Wahai Tuan](https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz) | 3:14 |
 | 24 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
 | 25 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |

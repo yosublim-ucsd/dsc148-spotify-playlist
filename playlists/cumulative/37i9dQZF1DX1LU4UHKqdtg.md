@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: BOYNEXTDOOR
 
-1,108 songs - 2 day 11 hr 52 min
+1,109 songs - 2 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [Redlight](https://open.spotify.com/track/1YUQeCQyj8sNKNkFjxweTo) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Redlight](https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn) | 3:22 | 2022-11-10 | 2023-01-25 |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-15 | 2024-03-20 |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 | 2022-11-11 |
+| [REVERSE \- Drama Edit](https://open.spotify.com/track/6vcNwgGAmINOsAznFM46SK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE \(Drama Edit\)](https://open.spotify.com/album/5ru6dS6Mu7LL1RfflP3Sy6) | 1:25 | 2024-07-09 |  |
 | [RICA RICA](https://open.spotify.com/track/4bZTk4AT2azHqOzGoK5lNg) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE Special Album RICA RICA](https://open.spotify.com/album/7LzUdQlqeFLiw1QnxvK2wW) | 3:26 | 2022-11-02 | 2023-01-18 |
 | [RIDE](https://open.spotify.com/track/1pzYdhRwUEr8QdQkIjqjuc) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [RIDE](https://open.spotify.com/album/2ra6N1nUydQ9MtpuQwTZLa) | 3:47 | 2022-11-02 | 2022-11-16 |
 | [Ride or Die](https://open.spotify.com/track/2RwslZwBLIBEPYjAI6SCBq) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Ride or Die](https://open.spotify.com/album/4kT8yc13rLN4MKbPCbCQHW) | 3:12 | 2022-03-03 | 2022-04-13 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,126 likes - 81 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,189 likes - 81 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MANSA MUSA](https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MANSA MUSA](https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K) | 3:24 |
-| 2 | [My Home](https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [My Home](https://open.spotify.com/album/1pOkzp7ZgdxckdOKpAqEMr) | 3:09 |
-| 3 | [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 |
-| 4 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 |
-| 5 | [Haunted](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
-| 6 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 |
+| 1 | [My Home](https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [My Home](https://open.spotify.com/album/1pOkzp7ZgdxckdOKpAqEMr) | 3:09 |
+| 2 | [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 |
+| 3 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 |
+| 4 | [Haunted](https://open.spotify.com/track/5mURF77s0QlIuB9g2hUMyO) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Haunted](https://open.spotify.com/album/12cKMWQluS9TIpoYBxYlAj) | 2:23 |
+| 5 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 |
+| 6 | [MANSA MUSA](https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MANSA MUSA](https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K) | 3:24 |
 | 7 | [SexyBack](https://open.spotify.com/track/7JOa48N3aoaGnYxe9R9Xcf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [SexyBack](https://open.spotify.com/album/3mcIatUp7Z0thywXI2V9ID) | 2:59 |
 | 8 | [I Found You](https://open.spotify.com/track/2AVhYqb9unDWQbQgJ7IhwY) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Brian Michael Hinds](https://open.spotify.com/artist/3RekI3eGV7rHLL3li7jdqQ) | [I Found You](https://open.spotify.com/album/0Rqi5gamIVikYV4T0K1M4s) | 2:46 |
 | 9 | [Adagio For Strings \(Bulletproof\)](https://open.spotify.com/track/6XBjUSSBhUyWwcXZPNhyTE) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Adagio For Strings \(Bulletproof\)](https://open.spotify.com/album/1XlbyHxgU1ijE5HwApbLXe) | 2:27 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 80 | [Seven Nation Army](https://open.spotify.com/track/4mqPF5Ic9tsS49vfTy5MGU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PaSt](https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [Seven Nation Army](https://open.spotify.com/album/3OCv6QK1Pb7hHpEjgwnuRb) | 2:37 |
 | 81 | [The Oldskool Vibe](https://open.spotify.com/track/1ZDN8tSXQfoqbggBIEnwZb) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [The Oldskool Vibe](https://open.spotify.com/album/1lYsHgck3vQxMXqk01r0tl) | 2:22 |
 
-Snapshot ID: `ZocbYAAAAABDbT1tHUl+pU06s0Yl38o4`
+Snapshot ID: `Zo6IPAAAAACnh4waW3oeOB4urtSF1Vm5`

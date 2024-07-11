@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Ayaan Lall, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Prince Sharma, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/53KIKIIuX87USzhUPpGUXM"
+      },
+      "artists": [
+        {
+          "name": "Prince Sharma",
+          "url": "https://open.spotify.com/artist/2FMda77WYJdpehvWbSmMyP"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7bMsJ2tmj5vvHit40O43MG"
+    },
+    {
+      "album": {
         "name": "Adhe Adhe",
         "url": "https://open.spotify.com/album/5wjBhICa7rPYw3UpRF7sC9"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 187365,
       "name": "Ankhon Ke Samandar",
       "url": "https://open.spotify.com/track/38uaI3aYNeBXAVlYc7ASMa"
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 164117,
       "name": "Bahane",
       "url": "https://open.spotify.com/track/29BjRUeGcNMyNrNjd8sFWB"
@@ -9358,7 +9376,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 97142,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/0xsTJO7pAHMasq7sALhpws"
@@ -10790,6 +10808,24 @@
       "duration_ms": 198000,
       "name": "Kabhi Kabhi",
       "url": "https://open.spotify.com/track/6mh140yXGpf0ABlVna1out"
+    },
+    {
+      "album": {
+        "name": "Kabhi Sunlo",
+        "url": "https://open.spotify.com/album/08FD0lOzps0Vpb8as7zsBA"
+      },
+      "artists": [
+        {
+          "name": "Nishi Chauhan",
+          "url": "https://open.spotify.com/artist/48N1w5HaFEbJTs07fvA1e3"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Kabhi Sunlo",
+      "url": "https://open.spotify.com/track/6MlQwp9nBZPcnQ7nkznQs3"
     },
     {
       "album": {
@@ -13156,7 +13192,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 180972,
       "name": "Leave You Never",
       "url": "https://open.spotify.com/track/4ONqlAUliAhR4LBda3TRhb"
@@ -18833,6 +18869,24 @@
     },
     {
       "album": {
+        "name": "Saawan",
+        "url": "https://open.spotify.com/album/0b9GYu9ZIbLFjjxxUWllBf"
+      },
+      "artists": [
+        {
+          "name": "Akbar Wasif",
+          "url": "https://open.spotify.com/artist/07G9Nz6p26J0cI3VhLzMrT"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Saawan",
+      "url": "https://open.spotify.com/track/7ypLdzlFPCPkNSQw1E7RK2"
+    },
+    {
+      "album": {
         "name": "Saawariya",
         "url": "https://open.spotify.com/album/2QbSeltyE7UbW1UCKXrGHz"
       },
@@ -19062,6 +19116,24 @@
       "duration_ms": 195015,
       "name": "Sahib-E-Dil",
       "url": "https://open.spotify.com/track/0g0XGGRkVBxxBrYYfLonre"
+    },
+    {
+      "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/2EGArOMF8fBFw4KGtxuQ5c"
+      },
+      "artists": [
+        {
+          "name": "Harman Dhami",
+          "url": "https://open.spotify.com/artist/6JPIvy1NlXk7I3qhAFFNnJ"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191150,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/64nN6Q4gvEi9Fv0ayL5eGn"
     },
     {
       "album": {
@@ -20870,6 +20942,28 @@
       "duration_ms": 205000,
       "name": "Sunday Bubble",
       "url": "https://open.spotify.com/track/2J9XYOShIxRPu7v7B8P7Zj"
+    },
+    {
+      "album": {
+        "name": "Sunflower Dreams",
+        "url": "https://open.spotify.com/album/2lytnNGXjz0hdIuq69bTz2"
+      },
+      "artists": [
+        {
+          "name": "Garv",
+          "url": "https://open.spotify.com/artist/1aA2dt7wQ72Cmb7WdlZkYn"
+        },
+        {
+          "name": "Navyug",
+          "url": "https://open.spotify.com/artist/4adwj9Z1zcgF7Os33tzs4Q"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Sunflower Dreams",
+      "url": "https://open.spotify.com/track/3oKgHHQkRf7atgRvFlef9s"
     },
     {
       "album": {
@@ -23250,7 +23344,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 169687,
       "name": "Uljhan",
       "url": "https://open.spotify.com/track/6iHFYrR8IKRMfjXYJCNjA1"

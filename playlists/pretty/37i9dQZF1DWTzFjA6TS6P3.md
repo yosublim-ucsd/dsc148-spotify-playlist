@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 
 > All songs from South Korean survival hip\-hop TV show 'School Rapper\(고등래퍼\)\. Cover: TRADE L \(Season 4 Winner\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,606 likes - 107 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,615 likes - 107 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 | 9 | [Red Light \(Feat\. BIG Naughty\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3) | [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 4:30 |
 | 10 | [CALL ME \(Feat\. sogumm\)](https://open.spotify.com/track/5NkPrv8FYhZuV5dBGhlwq9) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:24 |
 | 11 | [I’M FINE \(Feat\. Yumdda\)](https://open.spotify.com/track/5w2WQ24nkuhuPArfvBLCvX) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 2:38 |
-| 12 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
+| 12 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 13 | [ISLAND BOYS \(Feat\. sokodomo, pH\-1\)](https://open.spotify.com/track/4oI2C9d4zYW3nVkKj19btE) | [Lil Bemo](https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:17 |
 | 14 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 |
 | 15 | [DNA \(Feat\. Jay Park\)](https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 \- Team Battle:Textbook Rap Battle2](https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p) | 3:08 |

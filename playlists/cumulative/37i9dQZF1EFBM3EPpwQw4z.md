@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 7 hr 5 min
+124 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Good Morning](https://open.spotify.com/track/0xHzSnfmVCvc6rOfS2MIxV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:58 | 2023-12-30 |  |
 | [Hands \- Dcup Deep Bitch Remix](https://open.spotify.com/track/2QA6VgbU86I3iRSwVsT4ZE) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [Revolution \(Remixed\)](https://open.spotify.com/album/1Cl1yqiVaj9lQr5mD5I8M1) | 4:29 | 2023-12-30 |  |
 | [Heater](https://open.spotify.com/track/7953uVZSJG2MJGYOrilJDr) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:53 | 2023-12-30 |  |
-| [High](https://open.spotify.com/track/3bMWUPo0RTat0TNycMOu6l) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [High](https://open.spotify.com/album/4fRbiuip4KpgpfwNl0ZrqI) | 3:31 | 2023-12-30 |  |
+| [High](https://open.spotify.com/track/3bMWUPo0RTat0TNycMOu6l) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [High](https://open.spotify.com/album/4fRbiuip4KpgpfwNl0ZrqI) | 3:31 | 2023-12-30 | 2024-07-11 |
+| [High \- Benson Remix](https://open.spotify.com/track/511oneseWVZRrSPuno4qgG) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [High \(Benson Remix\)](https://open.spotify.com/album/1G1Xk8DeGIjuGNPcYiXTVb) | 3:27 | 2024-07-10 |  |
 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 | 2023-12-30 |  |
 | [Jungle Gym](https://open.spotify.com/track/239JsGOqqmnTnvi0m8z95r) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:41 | 2023-12-30 |  |
 | [Let Me Know](https://open.spotify.com/track/29310yrKMYwmCw9yJwZJXV) | [Terace](https://open.spotify.com/artist/0OV8LLvJaGRRsSlBsBKdUl) | [Let Me Know](https://open.spotify.com/album/5WOyodAauh50nUftaZ355E) | 4:35 | 2023-12-30 |  |
@@ -68,6 +69,7 @@
 | [Love Focus](https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Love Focus](https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF) | 3:58 | 2024-03-08 |  |
 | [Love is Love \(Rainbow Family\)](https://open.spotify.com/track/5pCCM63CTua6J8PszAZdyZ) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:24 | 2023-12-30 |  |
 | [Make a Mess](https://open.spotify.com/track/4z6ZDa9a4GTWUhwbH6CRh0) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:45 | 2023-12-30 |  |
+| [Make Your Move](https://open.spotify.com/track/5e4R55vfc66MwriJSN9cDA) | [Gabe Ruth](https://open.spotify.com/artist/0evGXiUWevQ66dh3cJbK2P), [Rosie Kate](https://open.spotify.com/artist/0xrLQlrBpNDgPr0DrBmpxg) | [Make Your Move](https://open.spotify.com/album/60Pguyahz1pUacVjDmXZsV) | 2:20 | 2024-07-10 |  |
 | [Medicine](https://open.spotify.com/track/6X7yev8AOYCxhRIWXSLjS4) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Medicine](https://open.spotify.com/album/0Kfkm4MFAZhMKjveL3wXDK) | 3:02 | 2023-12-30 |  |
 | [Melt](https://open.spotify.com/track/6aVYTDaMDECUES9XJDHwQx) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Melt](https://open.spotify.com/album/6Koo4jCXN821I8hMjwjaey) | 3:22 | 2023-12-30 |  |
 | [Mindset \(Took A Little While\)](https://open.spotify.com/track/50cAt6TDwjlGDnsuxI3tBk) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Ember EP](https://open.spotify.com/album/2leC9bFdVDkE4feqKf7xOX) | 4:04 | 2023-12-30 |  |
@@ -100,6 +102,7 @@
 | [Standing Too Close](https://open.spotify.com/track/0YI4yEe1LAFYhJq3J2sOS4) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Standing Too Close](https://open.spotify.com/album/0bvnoBq3jC1yQSdyO8CfKf) | 3:22 | 2023-12-30 |  |
 | [Straight Hair Curly Hair](https://open.spotify.com/track/0Bx5ia4iDyFtp4nGaG2rXJ) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:23 | 2023-12-30 |  |
 | [Stranded](https://open.spotify.com/track/7dGc9PVajCX7ZEWt8Tu6qv) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 4:48 | 2023-12-30 |  |
+| [Strobe Lights \(feat\. Kilian & Jo\) \- Henry Green Remix](https://open.spotify.com/track/5bbkYK9F86AI6AYr0HmeNU) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Kilian & Jo](https://open.spotify.com/artist/75axmxcpFNiQiMTZFWGMWn), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Strobe Lights \(feat\. Kilian & Jo\) \[Henry Green Remix\]](https://open.spotify.com/album/1wo1WiFhLh9dSjDW2XkJ1L) | 4:15 | 2024-07-10 |  |
 | [Supafine \- DCUP vs\. Lenno](https://open.spotify.com/track/3mnQJLfdD3Vq10fdDuyZEB) | [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Versus](https://open.spotify.com/album/0u5F2n2CKwowG4QcI3VBTs) | 4:34 | 2023-12-30 |  |
 | [Swear I Lost Myself](https://open.spotify.com/track/46juGXFzApK5CRGsXvOKFu) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:46 | 2023-12-30 |  |
 | [Symphony](https://open.spotify.com/track/2j6K9dEkGG3eJKRng4vS4R) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Symphony](https://open.spotify.com/album/5STco3794zKBQC6e3Uz3WN) | 2:49 | 2024-06-06 |  |
@@ -117,7 +120,7 @@
 | [Together We Fly](https://open.spotify.com/track/62QM2O99ggvA4GY0OOpcVw) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:09 | 2023-12-30 |  |
 | [Toothbrush Time](https://open.spotify.com/track/74PbbRXfYrw2FpIar3v8p3) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:48 | 2023-12-30 |  |
 | [Tropical](https://open.spotify.com/track/3Xr7uULlUS81hG6cndfIb9) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:18 | 2023-12-30 |  |
-| [Under the Influence](https://open.spotify.com/track/41Y6rsPcgKgdmvbQeZRzUD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Kilian & Jo](https://open.spotify.com/artist/75axmxcpFNiQiMTZFWGMWn) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:53 | 2023-12-30 |  |
+| [Under the Influence](https://open.spotify.com/track/41Y6rsPcgKgdmvbQeZRzUD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Kilian & Jo](https://open.spotify.com/artist/75axmxcpFNiQiMTZFWGMWn) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:53 | 2023-12-30 | 2024-07-11 |
 | [Until I Find You](https://open.spotify.com/track/3wRZ4NPqxNUXWXM0IZw8Qs) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:48 | 2023-12-30 |  |
 | [Upside Down Frown](https://open.spotify.com/track/6hEgMKHsM9U0ForXDXKCYp) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:06 | 2023-12-30 |  |
 | [Venus x Mars](https://open.spotify.com/track/2TRBrHV1YaCN1s3S11f9AK) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Venus x Mars](https://open.spotify.com/album/3Bs1qbFLE8EHmOdaV0Mj2F) | 4:29 | 2023-12-30 |  |

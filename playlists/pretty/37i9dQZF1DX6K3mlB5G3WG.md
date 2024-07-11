@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,461 likes - 84 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,474 likes - 84 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

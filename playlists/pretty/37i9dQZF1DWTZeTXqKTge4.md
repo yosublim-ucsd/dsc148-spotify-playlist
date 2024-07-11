@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia, A2h
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,308 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,322 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 3 | [TARD LA NUIT](https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [DZ D’AMERIQUE](https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi) | 3:36 |
 | 4 | [Frank Sinatra](https://open.spotify.com/track/5sEzMtfOrzAKDFQnkaCkGH) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Frank Sinatra](https://open.spotify.com/album/72aZxjlqwxx0ZN265M0F0Q) | 3:16 |
 | 5 | [Oui monsieur](https://open.spotify.com/track/3idjVa2TQt9OP1sN5Xp8AA) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Le cheval blanc de Napoléon](https://open.spotify.com/album/3ZoWSR9Fay4WzDRgemaC00) | 3:27 |
-| 6 | [18](https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [18](https://open.spotify.com/album/4GgfLtSUNl4RhDdGYFUz45) | 3:25 |
+| 6 | [18](https://open.spotify.com/track/1ql8A7vfO3SEedqedSozyX) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [18](https://open.spotify.com/album/4GgfLtSUNl4RhDdGYFUz45) | 2:58 |
 | 7 | [Dériver](https://open.spotify.com/track/3ftBRDmLdaahjAPfjiZ1UN) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [PRINCE](https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4) | 3:25 |
 | 8 | [Conscious Rapper](https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Conscious Rapper](https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce) | 3:34 |
 | 9 | [DOUBLE F](https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LA VIE RAPIDE](https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI) | 2:23 |

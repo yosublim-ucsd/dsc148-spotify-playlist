@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Personification of summer! So hot that I can't relate 📸 Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,714 likes - 150 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,514,140 likes - 150 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

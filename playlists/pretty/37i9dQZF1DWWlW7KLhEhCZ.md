@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Froid
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,299 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,313 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Paz Que Eu Busco](https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 4:21 |
+| 1 | [A Paz Que Eu Busco](https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Correia](https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 4:21 |
 | 2 | [Me Impressiona](https://open.spotify.com/track/2a9jpGdN9jg0eQMPy2WSxe) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [Kew](https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Me Impressiona](https://open.spotify.com/album/3lC1wMky0NXSS7Omuvato6) | 5:28 |
 | 3 | [Mano Vivendo Igual Boy](https://open.spotify.com/track/5ICELaIuFc3NgalhMWHTZO) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [22Carter](https://open.spotify.com/artist/24sb2kORK0YNkpoUxnBuC3) | [Mano Vivendo Igual Boy](https://open.spotify.com/album/5JVTUDKuBG9dlZpTuozqsk) | 3:47 |
 | 4 | [Superficial](https://open.spotify.com/track/1e0gwbwYDglB5jDzACIxzj) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Superficial](https://open.spotify.com/album/3vhZlqpbymc0Ur4X6ZKBZJ) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "Nouamane Belaiachi en t\u00eate des hits populaires au Maroc.",
-  "num_followers": 261539,
+  "num_followers": 261603,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoz2zwAAAADtEmBWAd/Lyl7J4inz3ihn",
+  "snapshot_id": "Zo5HVAAAAACcrwzEGbCq8u2fikAgilBh",
   "tracks": [
     {
       "added_at": "2024-07-08 18:11:53",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-07-08 18:11:53",
       "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
+      },
+      "artists": [
+        {
+          "name": "Ali S",
+          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
+        }
+      ],
+      "duration_ms": 163932,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
+    },
+    {
+      "added_at": "2024-07-08 18:11:53",
+      "album": {
         "name": "Rouhi",
         "url": "https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 195375,
       "name": "Allo",
       "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
-    },
-    {
-      "added_at": "2024-07-08 18:11:53",
-      "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
-      },
-      "artists": [
-        {
-          "name": "Ali S",
-          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
     },
     {
       "added_at": "2024-07-08 18:11:53",

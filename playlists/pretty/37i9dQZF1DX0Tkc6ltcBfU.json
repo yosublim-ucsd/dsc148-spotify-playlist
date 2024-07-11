@@ -1,12 +1,12 @@
 {
   "description": "The hottest out the south. Cover: GloRilla",
-  "num_followers": 1211120,
+  "num_followers": 1211510,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZodvwAAAAAAhGYDocpz8u5/Ah8EeSqmB",
+  "snapshot_id": "Zo7EpAAAAABu3GdVh9HII9mCNSO6mhNT",
   "tracks": [
     {
       "added_at": "2024-07-05 04:00:00",
@@ -123,6 +123,22 @@
       "duration_ms": 414893,
       "name": "Red Leather",
       "url": "https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1671,22 +1687,6 @@
       "duration_ms": 185866,
       "name": "Handz Up",
       "url": "https://open.spotify.com/track/2A2ShorxYJRX2sLzF7cpUT"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Big Mama",
-      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "added_at": "2024-07-05 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Bronny James
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jayson Tatum and A'ja Wilson
 
 609 songs - 1 day 6 hr 52 min
 

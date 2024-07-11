@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Debbii Dawson
 
-1,834 songs - 4 day 2 hr 34 min
+1,835 songs - 4 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Baby Lay Your Head Down](https://open.spotify.com/track/5fbnIAZDVlcPfKOnYeUn1d) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Baby Lay Your Head Down](https://open.spotify.com/album/0wkGlMn6cgQ3L7LA70dXfl) | 3:44 | 2023-01-27 | 2023-02-04 |
 | [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 | 2022-05-06 | 2022-05-14 |
 | [Baby Why](https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Baby Why](https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu) | 2:44 | 2022-07-29 | 2023-07-29 |
+| [Baby, Baby](https://open.spotify.com/track/4UGiaW74iNHBqtkkefW5Ee) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Baby, Baby](https://open.spotify.com/album/6m6eOZ7x2otoKK3DaYEzea) | 3:01 | 2024-07-10 |  |
 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 | 2024-05-17 |  |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2021-05-22 | 2021-06-05 |
 | [Backseat Rider](https://open.spotify.com/track/0nWhWuaLLCcJS0D19np9Cb) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Backseat Rider](https://open.spotify.com/album/4IHYugfRUshTMuomhElH14) | 3:28 | 2021-04-24 | 2021-07-04 |
@@ -196,7 +197,7 @@
 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 | 2024-01-20 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-16 | 2024-03-30 |
 | [Bloom](https://open.spotify.com/track/444ttSty5Ed694k93ZrUov) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Bloom](https://open.spotify.com/album/0nqm9sYBMc4ns9MXHp29Q2) | 3:31 | 2024-06-21 |  |
-| [Blowing Kisses](https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Blowing Kisses](https://open.spotify.com/album/6Oajf1XG7NyTjo4xcH7C6F) | 3:38 | 2024-06-28 |  |
+| [Blowing Kisses](https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Blowing Kisses](https://open.spotify.com/album/6Oajf1XG7NyTjo4xcH7C6F) | 3:38 | 2024-06-28 | 2024-07-11 |
 | [Blue](https://open.spotify.com/track/193bPH6VVqnEde43kRbn1W) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Blue](https://open.spotify.com/album/6GrrIAJtxjw5ZObE7ycNSY) | 3:20 | 2021-12-04 | 2022-03-26 |
 | [blue](https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:33 | 2022-07-15 | 2022-08-13 |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-07-29 | 2023-06-03 |

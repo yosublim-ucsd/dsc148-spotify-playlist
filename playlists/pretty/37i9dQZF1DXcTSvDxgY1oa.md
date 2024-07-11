@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > geosy op de cover van de Popronde 2024\. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

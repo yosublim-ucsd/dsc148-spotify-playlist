@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The best in South African and global Pop\. Cover: <a href="https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0?si=jHS0wa8oRlCxhJeZIV9\_sw">Anacy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,832 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

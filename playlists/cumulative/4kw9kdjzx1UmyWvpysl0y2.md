@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-767 songs - 1 day 20 hr 4 min
+769 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-09-17 |
 | [A Game Of Fairies](https://open.spotify.com/track/2rvY72BOiaKVatWch8DT4b) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [A Game Of Fairies](https://open.spotify.com/album/4aW2r0pFeRUDuo3OvRchGk) | 3:56 | 2023-09-05 | 2024-01-11 |
 | [A Moment Apart](https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0) | [Matrx](https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M) | [A Moment Apart](https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz) | 3:34 | 2021-11-19 | 2022-02-19 |
+| [A Sudden Display Of Life](https://open.spotify.com/track/5qYZZL0iuEwHs1JJlVk63Q) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8), [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [A Sudden Display Of Life](https://open.spotify.com/album/4WJ71uIq1XFJz4skDuYZsN) | 3:39 | 2024-07-10 |  |
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
 | [About U](https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About U](https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare) | 3:18 | 2023-05-15 | 2023-08-10 |
 | [about you](https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb) | [about you](https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP) | 2:43 | 2024-05-10 |  |
@@ -758,6 +759,7 @@
 | [Wild Time](https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Wild Time](https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN) | 3:51 | 2022-05-12 | 2022-07-23 |
 | [Wish You Stayed](https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Wish You Stayed](https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg) | 3:00 | 2022-09-06 | 2022-11-05 |
 | [Wish You Stayed](https://open.spotify.com/track/5Ab3nqZshtBT3LthZf9Kix) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:00 | 2022-11-19 | 2022-11-22 |
+| [wish.](https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [Ellii](https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e) | [wish.](https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ) | 3:26 | 2024-07-10 |  |
 | [With U](https://open.spotify.com/track/2u4dejYhJszoo17e1W2WLW) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [With U](https://open.spotify.com/album/3mBwB6v0WiqCNysrWmgJqj) | 4:12 | 2023-08-21 | 2023-12-14 |
 | [Without You](https://open.spotify.com/track/5KuMYx5VncjdS6CSuurWlk) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Without You](https://open.spotify.com/album/1PS4HKWlVVopci1ElsHCoc) | 2:30 | 2022-08-23 | 2022-11-01 |
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |

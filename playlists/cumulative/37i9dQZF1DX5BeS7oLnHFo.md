@@ -4,7 +4,7 @@
 
 > Djmubarak: حزييين الوقت في غيااابك، حلوة دنيتك فيني\. الغلاف
 
-41 songs - 1 hr 59 min
+42 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ala El Hadi](https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ala El Hadi](https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH) | 2:38 | 2024-06-24 |  |
 | [Alhamdullah](https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Alhamdullah](https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y) | 3:05 | 2024-06-24 |  |
 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 | 2024-06-24 |  |
+| [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 | 2024-07-10 |  |
 | [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 | 2024-06-24 |  |
 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 | 2024-06-24 |  |
 | [FLOATING](https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Floating](https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s) | 3:11 | 2024-06-24 |  |
@@ -36,7 +37,7 @@
 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 | 2024-06-24 |  |
 | [SRT](https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Rissi Tempo](https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2) | [SRT](https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0) | 3:20 | 2024-06-24 |  |
 | [Theeb](https://open.spotify.com/track/1LiiKjHg9vlk3592zUThYM) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Theeb](https://open.spotify.com/album/4G7QlmmtmBm8MZSZ0FgNbQ) | 2:06 | 2024-06-24 |  |
-| [Triple The Sauce](https://open.spotify.com/track/1NHtfF16W0LPm5dKUOKqWf) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [Kriracha](https://open.spotify.com/artist/5TSJcirRznrsWng7uyvnGA) | [Triple The Sauce](https://open.spotify.com/album/1uEpenVJB0tqIVpTbi7Ssd) | 2:04 | 2024-06-24 |  |
+| [Triple The Sauce](https://open.spotify.com/track/1NHtfF16W0LPm5dKUOKqWf) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [Kriracha](https://open.spotify.com/artist/5TSJcirRznrsWng7uyvnGA) | [Triple The Sauce](https://open.spotify.com/album/1uEpenVJB0tqIVpTbi7Ssd) | 2:04 | 2024-06-24 | 2024-07-11 |
 | [Wala Shai](https://open.spotify.com/track/4tGcsPIxrrwDm6DWZf0MCY) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 2:50 | 2024-06-24 |  |
 | [Ween Yabu](https://open.spotify.com/track/2JvrzoueEOcl6cYhnnI8XS) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [Ween Yabu](https://open.spotify.com/album/1Fa0JCaLqGpUctiOcABxY5) | 3:23 | 2024-06-24 |  |
 | [الجلسة الاولى : فريستايل](https://open.spotify.com/track/4dvz8mbfDaERCEFa1gt9fV) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [الجلسة الاولى : فريستايل](https://open.spotify.com/album/0UA4g53jHzmPvYdQM0EKEe) | 2:16 | 2024-06-24 |  |

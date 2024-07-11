@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Kai Đinh, MIN, Hoàng Dũng
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,210 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,220 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 26 | [Yên Bình Có Quá Đắt Không](https://open.spotify.com/track/0A0oqleZkyD8FN6aW48Jzn) | [Khiem](https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c) | [Yên Bình Có Quá Đắt Không](https://open.spotify.com/album/0dGOEyWETuAkrhOyXCuVzy) | 4:08 |
 | 27 | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/2anWKmV4Je8175CHvemHV9) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/album/1p3STHvnQGSVsZGiKij4Je) | 4:24 |
 | 28 | [Từng Quen](https://open.spotify.com/track/3un8UkiPHJjlsrTHQnisXH) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Từng Quen](https://open.spotify.com/album/2M0vYJZddXn6qRpeVtGvDZ) | 2:54 |
-| 29 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
+| 29 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
 | 30 | [Nắng có mang em về](https://open.spotify.com/track/6kCU6i8iRrAAmJJ8Sj4JYC) | [Shartnuss](https://open.spotify.com/artist/2BoU3GzyaG397l5ci1twa9), [Tr.D](https://open.spotify.com/artist/6jiITlNS4hrm3dq90ZDftJ), [Phankeo](https://open.spotify.com/artist/2rv0GwxSEWKhz54nLluNhK) | [Luv](https://open.spotify.com/album/4zz6bSF50QAYylIlckj77v) | 4:14 |
 | 31 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 |
 | 32 | [đưa em về nhàa](https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy) | 4:00 |

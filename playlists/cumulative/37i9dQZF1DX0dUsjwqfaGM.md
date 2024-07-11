@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: NGHI
 
-110 songs - 6 hr 25 min
+111 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Mập Mờ](https://open.spotify.com/track/1VPZWsMQaGsYkR3fBakklP) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Dancing Queen](https://open.spotify.com/album/2Gjv7giZNiHRmD45yS6NId) | 3:45 | 2024-04-02 |  |
 | [Mập Mờ \(feat\. RIN9\)](https://open.spotify.com/track/3tKNOjg2saBDd76aOtr314) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf) | [Mập Mờ \(feat\. RIN9\)](https://open.spotify.com/album/0hQQ4AUaI7l5OPpdBDYm7T) | 3:51 | 2024-02-01 | 2024-04-19 |
 | [ngày mây đen](https://open.spotify.com/track/57dSk370IBJTwMgyE5cAUI) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Paylist](https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3) | 2:58 | 2023-07-05 | 2024-04-03 |
+| [người bán nỗi buồn](https://open.spotify.com/track/0Tc4FDsS2QLk78RqKT7YG1) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [người bán nỗi buồn](https://open.spotify.com/album/4FjcMPgzGx5oF3V1NIt3Yv) | 4:00 | 2024-07-10 |  |
 | [Nhà Cung Trăng](https://open.spotify.com/track/3lRV0Dgn3oMEeRPL1bCjZl) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [Hacrayon](https://open.spotify.com/artist/5lDqGFw7xo0SmLL4VfEFRh) | [Nhà Cung Trăng](https://open.spotify.com/album/12Y3Rct6ciKgjb4klOhHJe) | 2:45 | 2024-02-01 |  |
 | [NICOT!NE](https://open.spotify.com/track/6bHUW6F0VTOHoiXVX7IjHA) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [NICOT!NE](https://open.spotify.com/album/5y7rMRphWLC64hLb2OUwr8) | 3:44 | 2022-09-09 | 2024-04-03 |
 | [Nếu Ngày Mai Tôi Không Trở Về](https://open.spotify.com/track/33Lp6YwMsoES08PFMHgO28) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 3:53 | 2023-04-13 | 2024-04-03 |

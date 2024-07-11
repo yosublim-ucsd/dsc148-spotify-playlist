@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43288,
+  "num_followers": 43299,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZossAAAAAACzrV15MCkJdU9we4bn1g1K",
+  "snapshot_id": "Zox9gAAAAAASloJOqRYbx9ousei3D9+0",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
-        "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 168503,
-      "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
-      "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 235518,
       "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
       "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
+        "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 168503,
+      "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
+      "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Do You Still Love Me?",
+      "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Down In A Hole (Live)",
         "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 241052,
       "name": "Down In A Hole - Live from Eugene, OR. 2023.",
       "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Do You Still Love Me?",
-      "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
       "duration_ms": 226036,
       "name": "Amy",
       "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Black Diamond (Live from Madison, WI. 2023)",
+        "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
+      "duration_ms": 146072,
+      "name": "Black Diamond - Live from Madison, WI. 2023",
+      "url": "https://open.spotify.com/track/4ROi74e8WRjli3wgTcHyZG"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Diamond (Live from Madison, WI. 2023)",
-        "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 146072,
-      "name": "Black Diamond - Live from Madison, WI. 2023",
-      "url": "https://open.spotify.com/track/4ROi74e8WRjli3wgTcHyZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
         "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
       },
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+        "name": "I Do Not Feel Like Being Good",
+        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 166693,
-      "name": "I Was Here",
-      "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
+      "duration_ms": 195440,
+      "name": "How Much Light",
+      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "I Was Here",
+      "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
         "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 238859,
       "name": "Harvest Moon - Live from Calgary, AL. 2023",
       "url": "https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Do Not Feel Like Being Good",
-        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "How Much Light",
-      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
     },
     {
       "added_at": null,

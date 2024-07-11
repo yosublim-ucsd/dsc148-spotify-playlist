@@ -1,15 +1,31 @@
 {
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jiselle(\uc9c0\uc140))",
-  "num_followers": 52255,
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Gist(\uc9c0\uc2a4\ud2b8))",
+  "num_followers": 52251,
   "original_name": "K-R&B Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo0jTAAAAAAD7SZw0IYnMXKjWBe/NqF0",
+  "snapshot_id": "Zo5TkQAAAABQs7m3nuDHZV6cU2n75G+a",
   "tracks": [
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
+      "album": {
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/27lTlZeBbBoAZ83PtjxPUl"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/1m7yg4UDxh2xco5eRq9UL5"
+    },
+    {
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Too Passionate",
         "url": "https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/1w6ao8wqrRg5rOEKsZ3Qyy"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/3K7HY3ilH0IA6anq6l9RcN"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/2WZKsCUDta0F8VgZtLCba7"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "ANIYA",
         "url": "https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/1EOt2UEK3yFaIxgnFvkSri"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/7AWXUa5Sjpm9mcd38SMT6S"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "SUDA",
         "url": "https://open.spotify.com/album/7m98itIoQ6Ptgk5JJC4Ic5"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/3t6ljynTF1LLr8NVKCjrlS"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "DOMINO",
         "url": "https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Sometimes (feat. blessed.)",
         "url": "https://open.spotify.com/album/1Gx1NuB64DGPjaDb9jBKn5"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/7IyiHQNSqyVoaWF7V9YURH"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "SLOWLY (Feat. g0nny)",
         "url": "https://open.spotify.com/album/2Wb44G2nZPHVzdlce8gCdT"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/2RAMFRLHUFiTXywPA7yq6w"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "BODY",
         "url": "https://open.spotify.com/album/2Y1kBEbRAm3rCWf2GkAMQh"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/0zr9voDmEdrRoa7uT81KzS"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Like that",
         "url": "https://open.spotify.com/album/49i3C9ZMmMAXUBL0xbfrO3"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/671MmXvmZ9x9omUge6U2qE"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/7GYf2XFOAveTxSGeywG5sg"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0FtfIPuIazFRQGTgl6vG4c"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2Sicd3C7DWxRN9KXpDJVFc"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Soul Pop City",
         "url": "https://open.spotify.com/album/1ivOqUQNxIf2HD7oBFCv3K"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/5OFXhFNNw608Y64izmaNcj"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "BODY",
         "url": "https://open.spotify.com/album/2Y1kBEbRAm3rCWf2GkAMQh"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/6geEUOolvgqId1vwTJgm4p"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Swear",
         "url": "https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Hangman",
         "url": "https://open.spotify.com/album/46WvBK1tP7Cjla2lgkBaC9"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/4547YWizllfrQtsVPkqq8D"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "2 Minutes",
         "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Re-back",
         "url": "https://open.spotify.com/album/2TYVuGJboMg8mvM3vUplxE"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/0SmhVSccWVbjcuNkMrsBsV"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Bad Time (feat. NOA)",
         "url": "https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/79Fan5vqzeU7ygiZwk642Z"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/7a6VxCRfQB5GpdUIiCJYTl"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Reed",
         "url": "https://open.spotify.com/album/2ODXFLBbWprQ5Eq7ONM6St"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/0aPq9xDq5OWNiCRvDjBUVI"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Dog's Desire",
         "url": "https://open.spotify.com/album/0ZRoTmOxkXQOZL4KshfU0N"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/0zWXjCqHDcbAusF4CvuDw8"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Hold Me Up",
         "url": "https://open.spotify.com/album/0cNcrqOqpRJ89wTHw3e6k0"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/1SbOXVok2b7VsxXsTOnPpM"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Jay Park Season 1",
         "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "WORDS",
         "url": "https://open.spotify.com/album/5oGk1KUbLadVunvl2jaY6J"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/6lvHTbbCotiic58AA421g1"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Roommates",
         "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Normal Love",
         "url": "https://open.spotify.com/album/1Y2OnLgXy5Pa7m0YHY5PGQ"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/5S3kJyqUmYgF0sbD00Ao8K"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "\"hello i'm lofi\" vol.2",
         "url": "https://open.spotify.com/album/1WF08n7syPhgfdTkvpKHWG"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/2kGuQlfqDWFvz6HgtBRwEe"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "izzana (Feat. OLNL)",
         "url": "https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Playground",
         "url": "https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/2J0icYKdk19idztc0KgvHO"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/0nQGxsU4YRp30FEVCaugdq"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Like a Star",
         "url": "https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Re (Feat. Leellamarz)",
         "url": "https://open.spotify.com/album/5z4KcU9tzN8s2vS61RMwnX"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/489WdoslgFRu6bgI3CGKOF"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Like a Dream (Feat. Mingginyu, TRADE L, Touch the Sky)",
         "url": "https://open.spotify.com/album/7o3eV7XuFrYI4TxmSWk2cT"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/1wKoQyKMKXnjkkMlNuZA14"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "dear goodbye",
         "url": "https://open.spotify.com/album/3FLSiFdNlZl8MgsDHhydO0"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/1uwVqKjMf2wVVwRkDe2Xt6"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "JAMI (feat. THAMA)",
         "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Lemonade (feat. Woo)",
         "url": "https://open.spotify.com/album/4sSmFOHTd175JCHtrnOVdW"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/2FbJYBCv0fyEHNDdrVoMiL"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Frame Narrative",
         "url": "https://open.spotify.com/album/7auICUiN0Fwsk0egwzzF4D"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/48uFYEit9rEVqraiPON5Hm"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Cinema Pt. 2",
         "url": "https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Fake Happy",
         "url": "https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "SIDE",
         "url": "https://open.spotify.com/album/6GO5T0RNrBgnwppYd0CLO3"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/6tQxgxb63XBelPTNtD02I2"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Fancy - Spotify Singles",
         "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
@@ -849,23 +865,7 @@
       "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jang",
-          "url": "https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8"
-        }
-      ],
-      "duration_ms": 169276,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN"
-    },
-    {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Rainy Season (The Last 10 Years X Whee In)",
         "url": "https://open.spotify.com/album/06k52VffVztZNVAkF1fENg"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/3R0MJY27A02NNakf4Kgbka"
     },
     {
-      "added_at": "2024-07-09 11:47:24",
+      "added_at": "2024-07-10 09:25:37",
       "album": {
         "name": "Chi-Ka",
         "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 7 hr 6 min
+126 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Hustle Harder](https://open.spotify.com/track/2SS3wA4pk7jutREHgojJcb) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Nobody's Smiling \(Deluxe\)](https://open.spotify.com/album/0ymZEUngBCetAJcJaqO63b) | 3:58 | 2022-06-04 |  |
 | [I Don't Like It, I Love It \(feat\. Robin Thicke & Verdine White\)](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:44 | 2022-06-04 |  |
 | [I Fly \(feat\. Faouzia\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/1uEYffw14ktvXSnlAyMtng) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [I Fly \(feat\. Faouzia\)](https://open.spotify.com/album/3JT6cqOX3SPdemZMq9T2JW) | 2:31 | 2022-06-04 |  |
-| [I Know Somebody](https://open.spotify.com/track/1TLrmgpirIhAkh2Morfe6w) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [I Know Somebody](https://open.spotify.com/album/3G26jgzF1849FOY2jZ08ew) | 3:05 | 2022-06-04 |  |
+| [I Know Somebody](https://open.spotify.com/track/1TLrmgpirIhAkh2Morfe6w) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [I Know Somebody](https://open.spotify.com/album/3G26jgzF1849FOY2jZ08ew) | 3:05 | 2022-06-04 | 2024-07-11 |
 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 | 2022-06-04 |  |
 | [I Need to Know](https://open.spotify.com/track/7wghz3QGJe4cclJDUjxnBq) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:34 | 2022-06-04 |  |
 | [I Would Like](https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:46 | 2022-06-04 |  |
@@ -94,7 +94,8 @@
 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 | 2022-06-04 |  |
 | [Nothing Is Stopping You](https://open.spotify.com/track/2YhBJbeXBz2VsthtV5O4bY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:03 | 2022-06-04 |  |
 | [Nothing Like L.A.](https://open.spotify.com/track/22VhoVIaVeJx1fvS46OkdU) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [I Am The West](https://open.spotify.com/album/1WXp9ofuosOWHVjkEnvuzL) | 3:20 | 2022-06-04 |  |
-| [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 | 2022-06-04 |  |
+| [Outro](https://open.spotify.com/track/0MC2N1iCUYSmweQ1fyGwzj) | [Born](https://open.spotify.com/artist/2h8Vt4bOHRnuT4Xpke3GHz) | [Grautöne](https://open.spotify.com/album/76ePdJKTbh5cgBq25yT6U0) | 1:45 | 2024-07-10 |  |
+| [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 | 2022-06-04 | 2024-07-11 |
 | [Paranoid](https://open.spotify.com/track/0dhh7PwPsKce4PenDZrUox) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:04 | 2022-06-04 |  |
 | [Poppin Bottles](https://open.spotify.com/track/2pwPtne9zCNTsyYZDLHxDf) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:20 | 2022-06-04 |  |
 | [Powerful \(feat\. Jussie Smollett & Alicia Keys\)](https://open.spotify.com/track/0VcRFRoWqQfXDjFNO6LBJO) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 4:00 | 2022-06-04 |  |

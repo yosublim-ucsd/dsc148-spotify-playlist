@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 330000,
       "name": "Bichigyal - Remix",
       "url": "https://open.spotify.com/track/4v45rww5vNHvlu3iqdwa9u"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 157760,
       "name": "casifebrero",
       "url": "https://open.spotify.com/track/0S7NfMrU4SWZXU4pcGYhZh"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
@@ -5569,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Me dijeron que te vieron drogada en Brasil",
+        "url": "https://open.spotify.com/album/0tKpUJPvAbmK8z04TTYVi8"
+      },
+      "artists": [
+        {
+          "name": "Ozcar Horna",
+          "url": "https://open.spotify.com/artist/4JOOKz96jWDN2rqvkgCBY7"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310273,
+      "name": "Me dijeron que te vieron drogada en Brasil",
+      "url": "https://open.spotify.com/track/3AmZdj6edd6BXljasfeJPh"
+    },
+    {
+      "album": {
         "name": "Y Pinto... El Arrebato Guacho",
         "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
@@ -7230,7 +7248,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-11",
       "duration_ms": 198354,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
@@ -7938,7 +7956,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 124689,
       "name": "SAN TURRONA",
       "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"

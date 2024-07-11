@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 
 > El icuiricui, el matalacachimba y el ruletero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,385 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,471 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 124 | [Mas Que Amigos \- En vivo](https://open.spotify.com/track/2i6er0a1fHBsxibw8g3jNX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo Vol\. One](https://open.spotify.com/album/56p8CK0TWqMnwCHN8yqG0N) | 3:07 |
 | 125 | [El Paciente](https://open.spotify.com/track/2omJSQbSy5nFNVj1qAQ64M) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Paciente](https://open.spotify.com/album/09uWytPkBJfcBDkv0KY5Hl) | 3:31 |
 
-Snapshot ID: `ZfPj4AAAAAAJp5VDqSXSnH+oYxRx056U`
+Snapshot ID: `Zo8vRAAAAAD9NaF5L/YwT8t4LgXFqYkW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74">Diary</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,167 likes - 60 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,451 likes - 60 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

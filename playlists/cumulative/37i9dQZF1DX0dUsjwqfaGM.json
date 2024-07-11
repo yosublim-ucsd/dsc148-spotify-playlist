@@ -1549,6 +1549,36 @@
     },
     {
       "album": {
+        "name": "ng\u01b0\u1eddi b\u00e1n n\u1ed7i bu\u1ed3n",
+        "url": "https://open.spotify.com/album/4FjcMPgzGx5oF3V1NIt3Yv"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00ed Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM"
+        },
+        {
+          "name": "Trung Qu\u00e2n",
+          "url": "https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q"
+        },
+        {
+          "name": "RIN9",
+          "url": "https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf"
+        },
+        {
+          "name": "DREAMeR",
+          "url": "https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I"
+        }
+      ],
+      "date_added": "2024-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240444,
+      "name": "ng\u01b0\u1eddi b\u00e1n n\u1ed7i bu\u1ed3n",
+      "url": "https://open.spotify.com/track/0Tc4FDsS2QLk78RqKT7YG1"
+    },
+    {
+      "album": {
         "name": "Nh\u00e0 Cung Tr\u0103ng",
         "url": "https://open.spotify.com/album/12Y3Rct6ciKgjb4klOhHJe"
       },
