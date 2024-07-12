@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Tyler ICU, Shallipoppi, Lojay",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Tay Iwar",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -1762,6 +1762,32 @@
       "duration_ms": 229386,
       "name": "Get Busy (Mshikashika)",
       "url": "https://open.spotify.com/track/5kTKXAvNPxUjvHybQmhwpo"
+    },
+    {
+      "album": {
+        "name": "GOLD II",
+        "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "GOLD",
+          "url": "https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174089,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0Tl69SxWCzFa4PD5TRZhR0"
     },
     {
       "album": {
@@ -4288,7 +4314,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
@@ -4650,7 +4676,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189129,
       "name": "Test My Patience",
       "url": "https://open.spotify.com/track/2b9M5HCxQfO2eW9QrkjKcI"

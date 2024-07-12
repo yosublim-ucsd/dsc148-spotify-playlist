@@ -3823,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "Luna mar",
+        "url": "https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "Luna mar",
+      "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
+    },
+    {
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
       },
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 167501,
       "name": "NO TE VAS",
       "url": "https://open.spotify.com/track/0fnaiFtqcDqppcB8poxNpY"

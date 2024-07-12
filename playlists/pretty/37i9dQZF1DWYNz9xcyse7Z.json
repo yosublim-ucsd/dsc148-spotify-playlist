@@ -1,6 +1,6 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 109924,
+  "num_followers": 110116,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-07-03 18:44:36",
       "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 178128,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
+    },
+    {
+      "added_at": "2024-07-03 18:44:36",
+      "album": {
         "name": "El Diablo y el Federal",
         "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 156942,
       "name": "Rama Verde",
       "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
-    },
-    {
-      "added_at": "2024-07-03 18:44:36",
-      "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 178128,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
     },
     {
       "added_at": "2024-07-03 18:44:36",

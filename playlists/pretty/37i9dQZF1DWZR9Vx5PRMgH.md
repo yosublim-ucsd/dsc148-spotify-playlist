@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,718 likes - 25 songs - 1 day 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,718 likes - 25 songs - 1 day 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 | 19 | [EP.50 I QUE OSO MI 1RA VEZ I FT\. DAMITAS HISTERIA](https://open.spotify.com/episode/0fDzeuvQAcE3mKOMzK4Hif) | [Poderosas Podcast](https://open.spotify.com/show/67OcUr4XafenPfLJwvixkA) | [Poderosas Podcast](https://open.spotify.com/album/67OcUr4XafenPfLJwvixkA) | 1:13:37 |
 | 20 | [Menú para un orgasmo, mecarillas, arte , erotismo y pornografia.](https://open.spotify.com/episode/0Jhl9Ez1bsKnkUfT1Rmcru) | [The F\* Talk](https://open.spotify.com/show/3qQvFH5jBPPF7JdbtbsaiX) | [The F\* Talk](https://open.spotify.com/album/3qQvFH5jBPPF7JdbtbsaiX) | 39:23 |
 | 21 | [Monólogo: AMOR PROPIO](https://open.spotify.com/episode/5f22EXTK0IXRo9qJZEubyK) | [Sabiduría Psicodélica](https://open.spotify.com/show/59hn8iZSQLztLp3cFp2ykM) | [Sabiduría Psicodélica](https://open.spotify.com/album/59hn8iZSQLztLp3cFp2ykM) | 44:05 |
-| 22 | [EP.125: YO NO NACÍ FEMINISTA](https://open.spotify.com/episode/6cnffrQry55Pt5PZ4ZQAvj) | [LIBRE&LOCA](https://open.spotify.com/show/2Rldfy8hmjP3fnLOgdlpEx) | [LIBRE&LOCA](https://open.spotify.com/album/2Rldfy8hmjP3fnLOgdlpEx) | 29:25 |
+| 22 | [EP.125: YO NO NACÍ FEMINISTA](https://open.spotify.com/episode/6cnffrQry55Pt5PZ4ZQAvj) | [LIBRE&LOCA](https://open.spotify.com/show/2Rldfy8hmjP3fnLOgdlpEx) | [LIBRE&LOCA](https://open.spotify.com/album/2Rldfy8hmjP3fnLOgdlpEx) | 29:05 |
 | 23 | [T4EP3: ¿ESTÁS ENAMORAD@ DE LA PERSONA O DE SU POTENCIAL?](https://open.spotify.com/episode/6pzbUHQcFkS4Pw4DByLfl5) | [La Verdad Sin Filtro](https://open.spotify.com/show/0zBOfO0P2oqdra8hLEuSzq) | [La Verdad Sin Filtro](https://open.spotify.com/album/0zBOfO0P2oqdra8hLEuSzq) | 44:12 |
 | 24 | [87 Decidir no ser mamá: duelo y libertad con Romina Sacre](https://open.spotify.com/episode/3iQAt7tBjOMHHUSuPM0bvF) | [Más Allá del Rosa](https://open.spotify.com/show/6xKpLdvm45jVLp7gD9O3DY) | [Más Allá del Rosa](https://open.spotify.com/album/6xKpLdvm45jVLp7gD9O3DY) | 3:08:45 |
 | 25 | [183: Date permiso de sentir para sanar](https://open.spotify.com/episode/1eJdvdpHz9CzDGXC4HCvaj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 28:38 |

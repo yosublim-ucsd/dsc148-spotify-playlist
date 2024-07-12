@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3qhOHj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3qhOHj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3qhOHj)
 
-### [This Is ミスター・ビッグ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qhOHj)
+### [This Is Mr\. Big](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qhOHj)
 
-> This is ミスター・ビッグ。アーティストの代表曲をひとつのプレイリストに。
+> This Is Mr\. Big\. Los temas esenciales, todos en una lista.
 
 56 songs - 3 hr 47 min
 

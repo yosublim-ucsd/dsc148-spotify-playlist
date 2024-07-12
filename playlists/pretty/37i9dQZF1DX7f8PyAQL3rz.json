@@ -1,6 +1,6 @@
 {
   "description": "wiuzin t\u00e1 de volta na pegada de fortal",
-  "num_followers": 1393506,
+  "num_followers": 1393666,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,22 @@
     {
       "added_at": "2024-07-05 03:03:00",
       "album": {
-        "name": "Fala na Cara",
-        "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
       "artists": [
         {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "DJ Ak beats",
-          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 171707,
-      "name": "Fala na Cara",
-      "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
+      "duration_ms": 130375,
+      "name": "Preferida",
+      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
     },
     {
       "added_at": "2024-07-05 03:03:00",
@@ -955,22 +951,26 @@
     {
       "added_at": "2024-07-05 03:03:00",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+        "name": "Fala na Cara",
+        "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 130375,
-      "name": "Preferida",
-      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
+      "duration_ms": 171707,
+      "name": "Fala na Cara",
+      "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
     },
     {
       "added_at": "2024-07-05 03:03:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-07-05 03:03:00",
       "album": {
-        "name": "ECL\u00c9TICO - LADO A",
-        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Giro Louco",
-      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
-    },
-    {
-      "added_at": "2024-07-05 03:03:00",
-      "album": {
         "name": "Assault (Carro Bicho)",
         "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 409846,
       "name": "Assault (Carro Bicho)",
       "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
+    },
+    {
+      "added_at": "2024-07-05 03:03:00",
+      "album": {
+        "name": "ECL\u00c9TICO - LADO A",
+        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Giro Louco",
+      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
     },
     {
       "added_at": "2024-07-05 03:03:00",
@@ -1387,6 +1387,54 @@
       "duration_ms": 162506,
       "name": "Celine",
       "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+    },
+    {
+      "added_at": "2024-07-05 03:03:00",
+      "album": {
+        "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
+        "url": "https://open.spotify.com/album/6KgnlBPf54hiTXIBNtfYcJ"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "duration_ms": 532941,
+      "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
+      "url": "https://open.spotify.com/track/398GQsAm55L04n4LcBgzFP"
     },
     {
       "added_at": "2024-07-05 03:03:00",
@@ -1475,34 +1523,6 @@
     {
       "added_at": "2024-07-05 03:03:00",
       "album": {
-        "name": "RELATOS",
-        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 166091,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/6OeFHH7a0WE6fdpfD1PVPD"
-    },
-    {
-      "added_at": "2024-07-05 03:03:00",
-      "album": {
         "name": "Disposi\u00e7\u00e3o e Atividade",
         "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
       },
@@ -1563,50 +1583,30 @@
     {
       "added_at": "2024-07-05 03:03:00",
       "album": {
-        "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
-        "url": "https://open.spotify.com/album/6KgnlBPf54hiTXIBNtfYcJ"
+        "name": "RELATOS",
+        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
         }
       ],
-      "duration_ms": 532941,
-      "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
-      "url": "https://open.spotify.com/track/398GQsAm55L04n4LcBgzFP"
+      "duration_ms": 166091,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/6OeFHH7a0WE6fdpfD1PVPD"
     },
     {
       "added_at": "2024-07-05 03:03:00",

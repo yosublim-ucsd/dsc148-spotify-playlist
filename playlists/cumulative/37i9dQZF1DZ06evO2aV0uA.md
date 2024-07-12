@@ -2,7 +2,7 @@
 
 ### [This Is Lamb of God](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aV0uA)
 
-> This is Lamb of God\. The essential tracks, all in one playlist.
+> This Is Lamb of God\. Los temas esenciales, todos en una lista.
 
 111 songs - 7 hr 59 min
 

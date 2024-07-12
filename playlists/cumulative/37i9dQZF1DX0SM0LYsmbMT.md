@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,175 songs - 6 day 15 hr 26 min
+4,177 songs - 6 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,7 @@
 | [Catch the Wind](https://open.spotify.com/track/6cUMztYsgtLDy11HjjxXru) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Catch the Wind](https://open.spotify.com/album/409xo8qXrU9EhBy1HUcH6f) | 2:53 | 2020-07-18 | 2021-02-01 |
 | [Catch\-A\-Bus](https://open.spotify.com/track/7JKjSDSNoOxneR1kghcG7W) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Catch\-A\-Bus](https://open.spotify.com/album/5k9TvCsay2ZIMOwn1fxq2Q) | 2:08 | 2021-08-22 | 2023-02-17 |
 | [Catching Bugs](https://open.spotify.com/track/1yUnku9iBoXnF7uOruq4Cl) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Latenite Joints 011](https://open.spotify.com/album/0YYXhAQa9UG6Vdwn0dmqzG) | 2:12 | 2021-02-20 | 2021-06-25 |
-| [Catching Up](https://open.spotify.com/track/29mfgThswjC445STQmW3ts) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Catching Up](https://open.spotify.com/album/6he0y4JvNkd4waD0Gm2BWq) | 2:08 | 2024-04-25 |  |
+| [Catching Up](https://open.spotify.com/track/29mfgThswjC445STQmW3ts) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Catching Up](https://open.spotify.com/album/6he0y4JvNkd4waD0Gm2BWq) | 2:08 | 2024-04-25 | 2024-07-12 |
 | [Caterpillar](https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Caterpillar](https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU) | 3:06 | 2023-11-13 | 2023-11-24 |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-04-06 | 2023-08-11 |
 | [Cavernas Agua](https://open.spotify.com/track/00rvAn9PRUxJhWeTYetQek) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Cavernas Agua](https://open.spotify.com/album/0qsRlxZnIg4PwLshkfcG5f) | 2:26 | 2024-02-08 | 2024-03-08 |
@@ -2967,7 +2967,7 @@
 | [Rising Moon](https://open.spotify.com/track/5IbwF6bzr5wlNFyK3UJpdT) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Rising Moon](https://open.spotify.com/album/7i3gwD1h2DOXwl2Q2gPiR5) | 2:57 | 2022-10-26 | 2022-12-24 |
 | [Ritual](https://open.spotify.com/track/2aHus7YxSJEVYHlNBD2kTY) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Ritual](https://open.spotify.com/album/2K6V5Es5jOm7Y1ciiu11pN) | 3:12 | 2023-01-20 | 2023-02-17 |
 | [Rituals](https://open.spotify.com/track/2Kj4ySw4J6OYBnKEMtIV52) | [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Rituals](https://open.spotify.com/album/4P0B0Vg4vmaAjcGqsOq3qE) | 2:51 | 2021-09-17 | 2021-10-22 |
-| [River And Sea](https://open.spotify.com/track/58G5JNr9Q0qzXLGIq7wcaj) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [River And Sea](https://open.spotify.com/album/4yE1y3MU5BFkxa6ec7dS7B) | 1:57 | 2023-11-23 |  |
+| [River And Sea](https://open.spotify.com/track/58G5JNr9Q0qzXLGIq7wcaj) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [River And Sea](https://open.spotify.com/album/4yE1y3MU5BFkxa6ec7dS7B) | 1:57 | 2023-11-23 | 2024-07-12 |
 | [Rivers](https://open.spotify.com/track/2n89leLHpks1bl9f0v998L) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Puzzle EP](https://open.spotify.com/album/4RKP7grsXRYZ4wqyZPGmqF) | 1:58 | 2022-09-22 | 2022-11-04 |
 | [Riverside](https://open.spotify.com/track/3RW7SqiMivZaOqpRCPtBoH) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Riverside](https://open.spotify.com/album/6MFnPWqA9QsKGcemskp71H) | 2:14 | 2022-02-17 | 2022-11-20 |
 | [Riverside](https://open.spotify.com/track/7bpslE0Bb4juoM1LiBml1U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Riverside](https://open.spotify.com/album/1E7NoHUGc7h7x2eajwTH2B) | 2:14 | 2022-11-24 | 2024-01-05 |
@@ -3105,6 +3105,7 @@
 | [Sensual Context](https://open.spotify.com/track/39Ovc3dehl7rJXrrJzhrUC) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Sensual Context](https://open.spotify.com/album/07sX3vRxtKaglW936i4qxm) | 2:24 | 2021-09-25 | 2022-03-11 |
 | [Sentimental Mood](https://open.spotify.com/track/4xaP5YpRUeg25Nz7n9llJR) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Sentimental Mood](https://open.spotify.com/album/7z3FQQgkw70sLgjngXWe4Z) | 2:27 | 2023-10-19 | 2023-11-14 |
 | [sentiments](https://open.spotify.com/track/707WwrkBaJzeWh9m7uLRMm) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [sentiments](https://open.spotify.com/album/0v561qUCf02eQ6LKjGp8eo) | 1:42 | 2022-02-17 | 2022-09-09 |
+| [Seoulful](https://open.spotify.com/track/4oo7hOz1c8gku4sfGT9jFA) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Seoulful](https://open.spotify.com/album/2CvRi7lOeqiqS1ps3HOfIi) | 2:34 | 2024-07-04 |  |
 | [September \- Skate Session](https://open.spotify.com/track/5x3aqT4bdq4Qmp6w6W43dt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [September \- Skate Session](https://open.spotify.com/album/0qMz1CaHcGjEYR5xe42Bx4) | 2:27 | 2019-09-27 | 2019-12-20 |
 | [Serenade](https://open.spotify.com/track/1rXS2A2Nyqdv9IBRf99Zrr) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF) | [Serenade](https://open.spotify.com/album/1h8OC7LO2NsUxNPYQACMV3) | 3:49 | 2019-05-26\* | 2019-09-06 |
 | [Serenade](https://open.spotify.com/track/6mWkfIwCTisQRZ7YaUfBqB) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Serenade](https://open.spotify.com/album/3iYk9Ymb7moaCxdtgIaGlK) | 2:16 | 2024-01-11 | 2024-01-27 |
@@ -3484,6 +3485,7 @@
 | [Sunflower Fields](https://open.spotify.com/track/5x06pW7r0lebJulesKVnSS) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunflower Fields](https://open.spotify.com/album/0NsxmwGazJCuTta9ln196Z) | 1:38 | 2023-03-30 |  |
 | [Sunflowers](https://open.spotify.com/track/0CjjvJyeefX4M4Alm36agK) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Sunflowers](https://open.spotify.com/album/3ByoZJmjiiRpkkAPdssXm3) | 1:51 | 2021-10-06 | 2021-10-29 |
 | [Sunkissed](https://open.spotify.com/track/6sI2PKNUkwTJexvW4FYrah) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Sunkissed](https://open.spotify.com/album/2jFuqRfCGbNAdgLzySkdWp) | 2:18 | 2024-06-28 |  |
+| [Sunlight](https://open.spotify.com/track/7jSono8RS7mhnOMr2A5SHk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunlight](https://open.spotify.com/album/5T7xtmPY9xQnd0wyKNnzmX) | 2:24 | 2024-07-04 |  |
 | [Sunny](https://open.spotify.com/track/5IMN6U2yKva50QhZd8AtqU) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunny](https://open.spotify.com/album/5HiUSNQJvZLUQLBWo0kgbH) | 1:48 | 2023-02-23 | 2023-05-12 |
 | [sunny](https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [sunny](https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ) | 2:19 | 2019-05-26\* | 2020-04-29 |
 | [Sunny](https://open.spotify.com/track/5m89mdit6X1w6Z1L7fy5Fz) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Sunny](https://open.spotify.com/album/7oZz5cqt7XLpvRYEj0B2bo) | 2:09 | 2021-08-20 | 2021-09-17 |

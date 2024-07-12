@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Jack McKeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,191 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,207 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 27 | [Blackberry Blossoms](https://open.spotify.com/track/3jGs1PvhoJPpaoVTEks6QN) | [Joseph Decosimo](https://open.spotify.com/artist/3Vw9RxxYIYSReHU2vWVPNA), [Luke Richardson](https://open.spotify.com/artist/2K54IYxmIumYwuuvpxNMCG), [Cleek Schrey](https://open.spotify.com/artist/0tistOQrvub8D7QXQ70Sr8) | [Beehive Cathedral](https://open.spotify.com/album/3AvoBKpbB6p9gNsFqRgA9O) | 2:32 |
 | 28 | [She's Heavenly](https://open.spotify.com/track/08dgd5ijfEtgqu9dFlwrNT) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [She's Heavenly](https://open.spotify.com/album/1VYgoApxYPgg4fw0LMGp0M) | 3:33 |
 | 29 | [Rise Up \(feat\. Vernon Reid\)](https://open.spotify.com/track/6NOs4tmAEkX32O6unSrlpB) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Vernon Reid](https://open.spotify.com/artist/1nCiDbYWnN9G4VQ4LxeyxD) | [Blackgrass: From West Virginia to 125th St](https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x) | 3:25 |
-| 30 | [He Would've Wrote Em' All](https://open.spotify.com/track/3l3w4s8oMWXD2kGCpV2k8q) | [Sage Palser](https://open.spotify.com/artist/4889ISXftMpuCQzPRGL1es), [Dave Adkins](https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz) | [He Would've Wrote Em' All](https://open.spotify.com/album/1MLjG9iZVhm5IaSLltETDN) | 3:08 |
+| 30 | [He Would've Wrote Em' All](https://open.spotify.com/track/3l3w4s8oMWXD2kGCpV2k8q) | [Sage and Prairie Wildfire](https://open.spotify.com/artist/1MyHKd78nbJboMPfsgFgA7), [Dave Adkins](https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz) | [He Would've Wrote Em' All](https://open.spotify.com/album/1MLjG9iZVhm5IaSLltETDN) | 3:08 |
 | 31 | [High Country Road Trip](https://open.spotify.com/track/3T0aGMpYEoZ5Jgvikk4aZG) | [Rebecca Frazier](https://open.spotify.com/artist/1f53wqZtEmpVAsBvzWUKo8), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Barry Bales](https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds), [Josh Swift](https://open.spotify.com/artist/1kW9SxqyT6xoFxKgLj3rXQ), [Shelby Means](https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj), [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [High Country Road Trip](https://open.spotify.com/album/3ipheRV2bV8XpbkqHI7yoR) | 4:28 |
 | 32 | [It's Alive](https://open.spotify.com/track/39jCXgc3bJziag2bsjk9eo) | [Gangstagrass](https://open.spotify.com/artist/1VKDHdy3cj1YP4zmWwyOL3) | [The Blackest Thing on the Menu](https://open.spotify.com/album/0QSJf6HZhBk5AO5aaMIh62) | 3:24 |
 | 33 | [Queen of Hearts](https://open.spotify.com/track/6CapK6i8NzCHNjORFaIDiv) | [Lonesome River Band](https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU) | [The Winning Hand](https://open.spotify.com/album/1hbPveREJXWDaCdZvkYIA5) | 2:36 |

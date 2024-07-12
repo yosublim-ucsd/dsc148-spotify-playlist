@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,770 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,778 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 20 | [OVER THE TOP](https://open.spotify.com/track/3TSe07q4ZTuJFrw6S4K8ij) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [OVER THE TOP](https://open.spotify.com/album/2OQ4pCRx5xooSECzVftnPM) | 5:01 |
 | 21 | [DREAMIN' ON](https://open.spotify.com/track/1rxh0iojvTB24C6BpOdfC1) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 3:55 |
 | 22 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |
-| 23 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 |
+| 23 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [MORI JUNTA](https://open.spotify.com/artist/3brl5UMCC0mmdVaSJDFvfg), [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 |
 | 24 | [私がいるよ](https://open.spotify.com/track/4kOg6GJfo1M4UntuWNcD7i) | [TOMATO CUBE](https://open.spotify.com/artist/23OQe0T0ugZZBMT33jHx03) | [ＴＯＭＡＴＯ ＣＵＢＥ](https://open.spotify.com/album/3Mp9iOLNx6Ikd7V2bVuuj6) | 3:58 |
 | 25 | [しょうちのすけ](https://open.spotify.com/track/6G8uYcvbeQUcZFRotTUJEx) | [Suiteisho\-jo](https://open.spotify.com/artist/3hwWcZNHs2MXyC1e8JjAnY) | [16 \-sixteen\-](https://open.spotify.com/album/2IIdJPW3oosPTi6FoA1GXp) | 3:54 |
 | 26 | [BEFORE DAWN](https://open.spotify.com/track/70svbAw8qdNgEt271120u6) | [AI\-SACHI](https://open.spotify.com/artist/0NB3FoktZLjieA6PLykBK9) | [ONE PIECE 20th Anniversary BEST ALBUM \(Vol.2\)](https://open.spotify.com/album/2KEoWfLib0VdkbGLtaOVER) | 3:17 |

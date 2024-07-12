@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 304066,
       "name": "Decided",
       "url": "https://open.spotify.com/track/5T10KXbxd6sQ4XuhKvVUBg"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 248800,
       "name": "LOVE is GAME",
       "url": "https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 246840,
       "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
@@ -3342,7 +3342,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 242440,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/0eSnPMln0L2taBufLZhbuA"
@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 287373,
       "name": "ReTale",
       "url": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei"
@@ -3874,7 +3874,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 285680,
       "name": "Sing a Wing Song",
       "url": "https://open.spotify.com/track/7ybH7Xhh53NiARzbKLFByD"
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 301626,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/1ugp2kWdXkuruWPIhETwU4"
@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 251880,
       "name": "Super Lover",
       "url": "https://open.spotify.com/track/5CKZKAat1cJhMTRtSx2KJA"
@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 263386,
       "name": "Understand? Understand!",
       "url": "https://open.spotify.com/track/5Njh2fLFh7MuHzdd9lxODP"
@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 208960,
       "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30b8\u30e5\u30a8\u30eb \uff5e\u9b45\u60d1\u306e\u91d1\u525b\u77f3\uff5e",
       "url": "https://open.spotify.com/track/5rTbdRz9rN6RsVuc30xcKK"
@@ -5386,6 +5386,28 @@
       "duration_ms": 222013,
       "name": "\u30df\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30bb\u30ec\u30e2\u30cb\u30fc\u3078\u306e\u62db\u5f85\u72b6",
       "url": "https://open.spotify.com/track/1rwXHLpbjNHYFTmj0Vgj0r"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 14 Charlotte\u30fbCharlotte",
+        "url": "https://open.spotify.com/album/3Fbpi07fJnHysSlDTVkurF"
+      },
+      "artists": [
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271240,
+      "name": "\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30df\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/0Ui0Pvm3V1UuyRarO79IiX"
     },
     {
       "album": {
@@ -6120,7 +6142,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 265600,
       "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
       "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
@@ -6314,7 +6336,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 287293,
       "name": "\u77b3\u306e\u4e2d\u306e\u30b7\u30ea\u30a6\u30b9",
       "url": "https://open.spotify.com/track/0eH3a5sDLfG8eXsdQIggQF"
@@ -6502,7 +6524,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

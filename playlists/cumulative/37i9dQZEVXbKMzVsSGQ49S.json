@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 187350,
       "name": "33 Key Weights",
       "url": "https://open.spotify.com/track/70JMpxrni5w8DZu2No3TeK"
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 155219,
       "name": "Bloqueei",
       "url": "https://open.spotify.com/track/5tDAf9ncBOKjiVxeOxdX3M"
@@ -5492,7 +5492,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 206707,
       "name": "Can You Trust Me",
       "url": "https://open.spotify.com/track/2q6F9uAITbbFHxWJNv6kcy"
@@ -16106,7 +16106,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 157611,
       "name": "Hvert ertu a\u00f0 fara?",
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
@@ -17546,6 +17546,24 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/5c4wYHjufKxWvbppqBZC3H"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79386,
+      "name": "Infinite Affection",
+      "url": "https://open.spotify.com/track/3AxDEWKkCuMtK6zmaikt99"
     },
     {
       "album": {
@@ -21907,6 +21925,24 @@
     },
     {
       "album": {
+        "name": "iLove the World",
+        "url": "https://open.spotify.com/album/5qtIjON690GnS81Gsql9T1"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Magic Moonlight",
+      "url": "https://open.spotify.com/track/2oPldDo8zVZJeKVkolqiSU"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -23253,6 +23289,24 @@
     },
     {
       "album": {
+        "name": "To Start Again (Live)",
+        "url": "https://open.spotify.com/album/7fl6aQtYK1ZbZGYJR3H6r7"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "Moonlight Dreams",
+      "url": "https://open.spotify.com/track/41AlgewPTFVjxODx9qq1rC"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -23746,7 +23800,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/0OP8vwExIbQNNwB2bU7gH1"
@@ -31784,7 +31838,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 150883,
       "name": "Sofa urtub\u00f6rn",
       "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
@@ -40932,7 +40986,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 99613,
       "name": "\u00d3skasteinar",
       "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"

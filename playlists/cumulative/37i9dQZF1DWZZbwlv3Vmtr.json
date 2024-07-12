@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 121626,
       "name": "actually",
       "url": "https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB"
@@ -8751,6 +8751,24 @@
     },
     {
       "album": {
+        "name": "milk.",
+        "url": "https://open.spotify.com/album/34QZsWE3puQEb48CQRNl4c"
+      },
+      "artists": [
+        {
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137308,
+      "name": "milk.",
+      "url": "https://open.spotify.com/track/3uW7iYsXcWtXHMn0SXAJrX"
+    },
+    {
+      "album": {
         "name": "outwards",
         "url": "https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk"
       },
@@ -10744,6 +10762,24 @@
       "duration_ms": 128000,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/3jDAHdOLVtOHSqW6qLR41G"
+    },
+    {
+      "album": {
+        "name": "perfect enough",
+        "url": "https://open.spotify.com/album/5CL1h5mNbbBfZp5lfSk2Iv"
+      },
+      "artists": [
+        {
+          "name": "Mist Ant",
+          "url": "https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106860,
+      "name": "perfect enough",
+      "url": "https://open.spotify.com/track/2RZ7FOdEaC7iXHh9b6SQtE"
     },
     {
       "album": {
@@ -15658,7 +15694,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 156750,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV"

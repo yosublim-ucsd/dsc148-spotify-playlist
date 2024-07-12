@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: Dollypran",
-  "num_followers": 131697,
+  "num_followers": 131714,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,22 @@
     {
       "added_at": "2024-07-09 08:48:51",
       "album": {
-        "name": "EL Moled (Red Bull Sada sot)",
-        "url": "https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG"
+        "name": "Yemken",
+        "url": "https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri"
       },
       "artists": [
         {
-          "name": "Lege-Cy",
-          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+          "name": "Ramez Naguib",
+          "url": "https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
         }
       ],
-      "duration_ms": 159845,
-      "name": "EL Moled - Red Bull Sada sot",
-      "url": "https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ"
+      "duration_ms": 147677,
+      "name": "Matghebsh",
+      "url": "https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5"
     },
     {
       "added_at": "2024-07-09 08:48:51",
@@ -491,22 +495,18 @@
     {
       "added_at": "2024-07-09 08:48:51",
       "album": {
-        "name": "Yemken",
-        "url": "https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri"
+        "name": "EL Moled (Red Bull Sada sot)",
+        "url": "https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG"
       },
       "artists": [
         {
-          "name": "Ramez Naguib",
-          "url": "https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2"
-        },
-        {
-          "name": "Arsenik",
-          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
         }
       ],
-      "duration_ms": 147677,
-      "name": "Matghebsh",
-      "url": "https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5"
+      "duration_ms": 159845,
+      "name": "EL Moled - Red Bull Sada sot",
+      "url": "https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ"
     },
     {
       "added_at": "2024-07-09 08:48:51",
@@ -547,6 +547,34 @@
     {
       "added_at": "2024-07-09 08:48:51",
       "album": {
+        "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
+        "url": "https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl"
+      },
+      "artists": [
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        },
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "R3",
+          "url": "https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4"
+        },
+        {
+          "name": "Tayeb Santo",
+          "url": "https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD"
+        }
+      ],
+      "duration_ms": 230654,
+      "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
+      "url": "https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm"
+    },
+    {
+      "added_at": "2024-07-09 08:48:51",
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN"
       },
@@ -563,34 +591,6 @@
       "duration_ms": 182638,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb"
-    },
-    {
-      "added_at": "2024-07-09 08:48:51",
-      "album": {
-        "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
-        "url": "https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl"
-      },
-      "artists": [
-        {
-          "name": "HADY MOAMER",
-          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
-        },
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "name": "R3 | \u0631\u0639",
-          "url": "https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4"
-        },
-        {
-          "name": "Tayeb Santo",
-          "url": "https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD"
-        }
-      ],
-      "duration_ms": 230654,
-      "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
-      "url": "https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm"
     },
     {
       "added_at": "2024-07-09 08:48:51",

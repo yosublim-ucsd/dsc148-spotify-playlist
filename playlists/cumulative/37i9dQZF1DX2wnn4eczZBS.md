@@ -2,7 +2,7 @@
 
 ### [indiepuntnl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> indie & indiepop in het Nederlands\. Cover: Willem
+> indie & indiepop in het Nederlands\. Cover: Eefje de Visser
 
 57 songs - 2 hr 58 min
 
@@ -61,7 +61,7 @@
 | [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 |  |
 | [wist je niet](https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd), [Jeroen Antoine](https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO) | [wist je niet](https://open.spotify.com/album/0Vcj7qiQeCSuWXmLnhvJZO) | 2:43 | 2024-06-26 |  |
 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 | 2024-06-26 |  |
-| [Zachte Landing](https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Zachte Landing](https://open.spotify.com/album/3sDk5V1SdMtYnOpwUrruq4) | 3:21 | 2024-06-26 |  |
+| [Zachte Landing](https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Zachte Landing](https://open.spotify.com/album/3sDk5V1SdMtYnOpwUrruq4) | 3:23 | 2024-06-26 |  |
 | [Zonder Iets Te Doen](https://open.spotify.com/track/3seONUa4YlZIsPcIJvkxkE) | [FRÉ](https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf) | [Atmosfeer](https://open.spotify.com/album/4FLFr07DNpeBUHj9Aj2CV4) | 3:05 | 2024-06-26 |  |
 | [Zonder Liedjes](https://open.spotify.com/track/11eXLYhb5zZT7S54E9xC3b) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 3:00 | 2024-06-26 |  |
 | [Zwijgrecht](https://open.spotify.com/track/489EDOr96zRHruVh5gH50G) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Zwijgrecht](https://open.spotify.com/album/7K8aEYuq4d07q3xzh2em2z) | 1:20 | 2024-06-26 |  |

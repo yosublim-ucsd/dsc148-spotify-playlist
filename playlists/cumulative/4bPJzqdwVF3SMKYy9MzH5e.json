@@ -25438,6 +25438,10 @@
         {
           "name": "Mc Grigo 22",
           "url": "https://open.spotify.com/artist/3FPXlDlvOoKaDRrqQcFH8l"
+        },
+        {
+          "name": "DJ LG O \u00daNICO",
+          "url": "https://open.spotify.com/artist/6vXefTObujjgjmVoazbBXz"
         }
       ],
       "date_added": "2023-12-22",
@@ -25449,24 +25453,20 @@
     },
     {
       "album": {
-        "name": "R4v3 B0y (feat. Krystal)",
+        "name": "R4v3 B0y",
         "url": "https://open.spotify.com/album/7eUjgoQDrXMcXj5EIfKVHs"
       },
       "artists": [
         {
           "name": "S3RL",
           "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
-        },
-        {
-          "name": "Krystal",
-          "url": "https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH"
         }
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179665,
-      "name": "R4v3 B0y (feat. Krystal)",
+      "name": "R4v3 B0y",
       "url": "https://open.spotify.com/track/1hle6BL2dCurJdd5Xoywlb"
     },
     {

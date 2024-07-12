@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe indie, rock en alternative. Cover: Kasabian",
-  "num_followers": 54774,
+  "num_followers": 54782,
   "original_name": "New Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo0C3wAAAAAKMAtQCDRe+c9Q2TJsJ2zy",
+  "snapshot_id": "ZpBV4AAAAAD98vBtzEdvAF50mqxHmeMS",
   "tracks": [
     {
       "added_at": "2024-07-04 22:00:00",
@@ -39,6 +39,54 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "added_at": "2024-06-24 10:25:23",
+      "album": {
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 170383,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
+    },
+    {
+      "added_at": "2024-06-24 10:25:23",
+      "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 258939,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -121,36 +169,20 @@
       "url": "https://open.spotify.com/track/6mvPDUqfCE5XHfVvsdebdi"
     },
     {
-      "added_at": "2024-06-24 10:25:23",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Supersad",
-        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+        "name": "A Note About Time",
+        "url": "https://open.spotify.com/album/2CJ2pASXDPONHZLu76rFbF"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Daryll-Ann",
+          "url": "https://open.spotify.com/artist/671hK274ypvrV5RiWyxjk7"
         }
       ],
-      "duration_ms": 170383,
-      "name": "Supersad",
-      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 258939,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
+      "duration_ms": 200893,
+      "name": "A Note About Time",
+      "url": "https://open.spotify.com/track/3Eml7xiwuYQVJLTEQQMbjI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -183,38 +215,6 @@
       "duration_ms": 190893,
       "name": "a great escape",
       "url": "https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 300487,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Lonsdale Slipons",
+        "url": "https://open.spotify.com/album/6O5pX1TqnuDbXLHQOpwaoS"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "duration_ms": 133066,
+      "name": "Lonsdale Slipons",
+      "url": "https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs"
+    },
+    {
       "added_at": "2024-06-24 10:25:23",
       "album": {
         "name": "Darkest Lullaby",
@@ -315,22 +331,6 @@
       "duration_ms": 190817,
       "name": "Darkest Lullaby",
       "url": "https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "added_at": "2024-07-09 09:29:03",
@@ -349,20 +349,20 @@
       "url": "https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm"
     },
     {
-      "added_at": "2024-06-24 10:25:23",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Starburster",
-        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+        "name": "Feed You To My Dog",
+        "url": "https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "GUNMOLL",
+          "url": "https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba"
         }
       ],
-      "duration_ms": 221450,
-      "name": "Starburster",
-      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+      "duration_ms": 196973,
+      "name": "Feed You To My Dog",
+      "url": "https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -427,6 +427,22 @@
       "duration_ms": 217680,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/7nJKD6ZjF3t6jvrBQdgsHN"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Downwards",
+        "url": "https://open.spotify.com/album/5UHRcOCp0VYzkNOfOg4WXw"
+      },
+      "artists": [
+        {
+          "name": "Bongloard",
+          "url": "https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Downwards",
+      "url": "https://open.spotify.com/track/4QzU8IMWxU3c9ech5Xg8YA"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -943,22 +959,6 @@
       "duration_ms": 151141,
       "name": "Fun Fact",
       "url": "https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Tata's Lie",
-        "url": "https://open.spotify.com/album/0u0r2SIoz7i5dgD5Ctw9LF"
-      },
-      "artists": [
-        {
-          "name": "GUNMOLL",
-          "url": "https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "Tata's Lie",
-      "url": "https://open.spotify.com/track/6KEbPvohiPRqky2TcYFwQG"
     },
     {
       "added_at": "2024-06-24 10:25:23",

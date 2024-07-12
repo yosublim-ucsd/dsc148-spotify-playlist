@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1759369,
+  "num_followers": 1759361,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Vas a Destrozarme",
-        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "c\u00f3mo acaba",
         "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Luna (pag.1)",
+        "url": "https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 169790,
+      "name": "Luna (pag.1)",
+      "url": "https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Baladas Tatuadas Vol. 1",
         "url": "https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Luna (pag.1)",
-        "url": "https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG"
+        "name": "Vas a Destrozarme",
+        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
       },
       "artists": [
         {
-          "name": "Marcelo Rubio",
-          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 169790,
-      "name": "Luna (pag.1)",
-      "url": "https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS"
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
     },
     {
       "added_at": "2024-06-28 04:00:00",

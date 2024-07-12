@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,149 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,155 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 87 | [Sun Lo](https://open.spotify.com/track/1BIKYnZlHtpv0xWdgbVT7t) | [Sharmeen Javed](https://open.spotify.com/artist/58BZTZbr9WYBP7EqIm5BaA), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Sun Lo](https://open.spotify.com/album/5KIQkicQ9hDsnP4AhCwEEx) | 2:39 |
 | 88 | [2hi2](https://open.spotify.com/track/4g7mhAfH1c607joUYfdCNi) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [2hi2](https://open.spotify.com/album/1hSAdssthgJyhgRbtx09yY) | 2:41 |
 | 89 | [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 |
-| 90 | [AKHAN DA JAADU](https://open.spotify.com/track/5GlFjJTPqzuylcR3fvLAx4) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Ashhal Haider Khan](https://open.spotify.com/artist/7jXOX30GA7YsD74DgYgyIG) | [AKHAN DA JAADU](https://open.spotify.com/album/4wBqNvBSEE2oqASsexVsXM) | 2:14 |
+| 90 | [AKHAN DA JAADU](https://open.spotify.com/track/5GlFjJTPqzuylcR3fvLAx4) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Ashal Haider Khan](https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR) | [AKHAN DA JAADU](https://open.spotify.com/album/4wBqNvBSEE2oqASsexVsXM) | 2:14 |
 
 Snapshot ID: `ZnUe9gAAAADvaQY9Zxf3GMpCbH8L/pZG`

@@ -4,7 +4,7 @@
 
 > love peace techno
 
-279 songs - 18 hr 5 min
+280 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Bananas](https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [Bananas](https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT) | 3:11 | 2023-04-27 | 2023-05-06 |
 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 | 2024-05-23 |  |
 | [BEEZ IN THE TRAP](https://open.spotify.com/track/0lgkdXfvjW9XbbkdK9mCmk) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [BEEZ IN THE TRAP](https://open.spotify.com/album/5j79Xb6tUJe2FV5T3fhaHu) | 2:46 | 2024-03-22 | 2024-03-30 |
+| [beine spüren \- Paul Seul remix](https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [beine spüren \(Paul Seul remix\)](https://open.spotify.com/album/1ifWtNI7hW0ybxmoMoAl2W) | 4:15 | 2024-07-04 |  |
 | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/album/5wXSYWE44yMtGpsmsMlW9F) | 1:48 | 2024-03-22 |  |
-| [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-10-20 | 2024-07-05 |
+| [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-10-20 |  |
 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 | 2024-07-04 |  |
 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 | 2023-03-25 |  |
 | [Blow Ya Mind \- DJ Daddy Trance Remix](https://open.spotify.com/track/3iLQehOg4428qsiYSDrRqN) | [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Blow Ya Mind \(DJ Daddy Trance Remix\)](https://open.spotify.com/album/7BfuBVZAwSaFBV4WSDsB2O) | 3:03 | 2023-11-23 | 2024-04-26 |
@@ -251,7 +252,7 @@
 | [Süchtig](https://open.spotify.com/track/7kfNHOOQv8OiugNq8EBTJq) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [Süchtig](https://open.spotify.com/album/1JHZkE47fe2K9oO3NUN4iA) | 2:59 | 2023-11-23 | 2023-12-01 |
 | [Take That](https://open.spotify.com/track/1rRBOQnG1Y86iszGf4J7Px) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz), [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX) | [Take That](https://open.spotify.com/album/7cFPpACcw4uo8ioN0IY2Px) | 5:46 | 2023-04-18 | 2023-05-19 |
 | [Techno Installation](https://open.spotify.com/track/2FSqCe7FJvmFit3u1UXVHf) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Techno Installation](https://open.spotify.com/album/7snbKvrdJ6oCp4qmhUsEdO) | 6:48 | 2023-03-10 | 2023-03-25 |
-| [Tell Me Daddy](https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Tell Me Daddy](https://open.spotify.com/album/4HMoL4sjAVMylMnSdcLbMs) | 2:49 | 2024-01-29 |  |
+| [Tell Me Daddy](https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Tell Me Daddy](https://open.spotify.com/album/4HMoL4sjAVMylMnSdcLbMs) | 2:49 | 2024-01-29 | 2024-07-12 |
 | [The Birds](https://open.spotify.com/track/4y5vPe12J3gvJnHGWhQHIw) | [Question Mark](https://open.spotify.com/artist/41REvYlvUU3FCP5f65Jllh) | [The Birds](https://open.spotify.com/album/604EFAWi0vIAt9PTqSd5eb) | 5:48 | 2024-07-04 |  |
 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 | 2023-03-10 |  |
 | [The Landing](https://open.spotify.com/track/36W1soqGRXbQrpUtLSSc9u) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Landing](https://open.spotify.com/album/161Brygq1lYB7XlUGndwUF) | 6:20 | 2023-06-09 | 2023-06-16 |

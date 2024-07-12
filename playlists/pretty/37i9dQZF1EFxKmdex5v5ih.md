@@ -269,8 +269,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 259 | [Dinner and a Movie \- Live in Brooklyn](https://open.spotify.com/track/6SfkvhDoA8IZ90zBoBaoOE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 3:55 |
 | 260 | [All Over Again](https://open.spotify.com/track/4WCo09kjrwfQtKE2C7rP5i) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 3:13 |
 | 261 | [Sugar Daddy](https://open.spotify.com/track/2ZaXufYEd6MgPqh1alHWke) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Heels in Hand](https://open.spotify.com/album/1U9H7bv1yLnbFafYTXnRBg) | 3:05 |
-| 262 | [Get Out Of My Head](https://open.spotify.com/track/3wtP6999cOPF4OrUpBuOCM) | [Kin Crew](https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA) | [Get Out Of My Head](https://open.spotify.com/album/5VykmMHLPSfh5zFSGssr7u) | 2:08 |
-| 263 | [Typical](https://open.spotify.com/track/5sGTgu8E6XIUcYX6KbAaW9) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Typical](https://open.spotify.com/album/52EEYalE16TZY5EkdDr5zX) | 2:10 |
+| 262 | [Typical](https://open.spotify.com/track/5sGTgu8E6XIUcYX6KbAaW9) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Typical](https://open.spotify.com/album/52EEYalE16TZY5EkdDr5zX) | 2:10 |
+| 263 | [Get Out Of My Head](https://open.spotify.com/track/3wtP6999cOPF4OrUpBuOCM) | [Kin Crew](https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA) | [Get Out Of My Head](https://open.spotify.com/album/5VykmMHLPSfh5zFSGssr7u) | 2:08 |
 | 264 | [Audacity](https://open.spotify.com/track/4RHn4YaCPnQhnnP3HyygaP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:48 |
 | 265 | [Ready Or Not](https://open.spotify.com/track/1LOXdPvVrWx9JU7yZmSnSQ) | [Michael Logen](https://open.spotify.com/artist/7KaasLUJvHN32JTeXBmowR) | [New Medicine](https://open.spotify.com/album/2IkjbRNgiMne7mWlagevtY) | 3:23 |
 | 266 | [Complicated](https://open.spotify.com/track/31GXHFevmu4KTxqPTVnkve) | [Forty Deuce](https://open.spotify.com/artist/2610KIn3zomd6mqydeSfNy) | [Nothing To Lose](https://open.spotify.com/album/0DHu5Darq1YOs3wK6H7tTd) | 3:05 |
@@ -301,4 +301,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 291 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 | 292 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 
-Snapshot ID: `AbWWYgAAAABq59u1JcVsxH3p/owBmjl8`
+Snapshot ID: `AbWcRAAAAAANRJPuvd3tPHqOl/n367RN`

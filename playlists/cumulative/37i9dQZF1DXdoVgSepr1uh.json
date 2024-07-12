@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Perreo hecho en Argentina. Foto: Angela Torres.",
+  "description": "Perreo hecho en Argentina. Foto: El Osito Wito & Nashy-Nashai",
   "name": "Reggaet\u00f3n Argentino",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 197647,
       "name": "Blokeao",
       "url": "https://open.spotify.com/track/5au1ohqMri0oI2JyCbkl9J"
@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 170666,
       "name": "Sola",
       "url": "https://open.spotify.com/track/11dFlKwg74zqz13R83sZ93"
@@ -4377,6 +4377,28 @@
     },
     {
       "album": {
+        "name": "Sudando",
+        "url": "https://open.spotify.com/album/1sGIPnZUcKLCvabCrNfJfT"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sudando",
+      "url": "https://open.spotify.com/track/4G01f7K0V0Dl1EBn15Vt9w"
+    },
+    {
+      "album": {
         "name": "Suelta, Sola y Tranquila (feat. MYA)",
         "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
       },
@@ -4392,7 +4414,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 149929,
       "name": "Suelta, Sola y Tranquila (feat. MYA)",
       "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
@@ -4702,6 +4724,28 @@
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "album": {
+        "name": "Traidora",
+        "url": "https://open.spotify.com/album/32Uzq23qwnDQTC9iLmYRZS"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        },
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204045,
+      "name": "Traidora",
+      "url": "https://open.spotify.com/track/1tpg9Wm99OHeK0ohJXrUX1"
     },
     {
       "album": {

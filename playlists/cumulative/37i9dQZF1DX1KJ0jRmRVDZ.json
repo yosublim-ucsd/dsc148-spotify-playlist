@@ -8151,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "\u3046\u3044\u9ea6\u7551\u3067\u3064\u304b\u307e\u3048\u3066",
+        "url": "https://open.spotify.com/album/5YQWZlU81pZSIxJ80i5CAs"
+      },
+      "artists": [
+        {
+          "name": "\u3057\u3050\u308c\u3046\u3044",
+          "url": "https://open.spotify.com/artist/4QmmjQcHDOxrHKUHtpBVyt"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "\u3046\u3044\u9ea6\u7551\u3067\u3064\u304b\u307e\u3048\u3066",
+      "url": "https://open.spotify.com/track/4PXTz0TbOtqE3cGWImYri3"
+    },
+    {
+      "album": {
         "name": "\u3046\u3049\u30fc\u3057\u3083\u3093\u3060\u3093\u3059",
         "url": "https://open.spotify.com/album/1QFNAYjtRUN2UjKLmcF8Y8"
       },
@@ -8502,7 +8520,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 234613,
       "name": "\u3053\u3068\u3070\u306e\u3053\u308a",
       "url": "https://open.spotify.com/track/6FVFzDQ5U7GKr7EkNFawG4"
@@ -9384,7 +9402,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 193960,
       "name": "\u307f\u3061\u3065\u308c",
       "url": "https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO"
@@ -13321,6 +13339,32 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+        "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
+      },
+      "artists": [
+        {
+          "name": "GEMN",
+          "url": "https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew"
+        },
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        },
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+      "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a3\u30ca\u30fc\u30ec",
         "url": "https://open.spotify.com/album/59JFCRRQCXAU3pb0AbzvD0"
       },
@@ -15378,7 +15422,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 150506,
       "name": "\u507d\u9854",
       "url": "https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O"

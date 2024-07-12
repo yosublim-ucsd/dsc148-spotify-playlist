@@ -1,28 +1,28 @@
 {
-  "description": "De nieuwste popliedjes. Cover: ROND\u00c9",
-  "num_followers": 97373,
+  "description": "De nieuwste popliedjes. Cover: Davina Michelle",
+  "num_followers": 97365,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZovQhAAAAACvtt/ZyIFlKD7JUan0zT6a",
+  "snapshot_id": "ZpBV4AAAAACqEmqwIxXaxs2RO4Etntaj",
   "tracks": [
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-04 14:00:00",
       "album": {
-        "name": "Taking My Love Back",
-        "url": "https://open.spotify.com/album/66xNNEPz96RqJIKlw6728p"
+        "name": "All Is Ours",
+        "url": "https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT"
       },
       "artists": [
         {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
         }
       ],
-      "duration_ms": 141133,
-      "name": "Taking My Love Back",
-      "url": "https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu"
+      "duration_ms": 221081,
+      "name": "All Is Ours",
+      "url": "https://open.spotify.com/track/1rxLCrJvvAH1gzcgEF7Sa2"
     },
     {
       "added_at": "2024-07-02 08:14:00",
@@ -41,20 +41,36 @@
       "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
     },
     {
-      "added_at": "2024-07-04 14:00:00",
+      "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "All Is Ours",
-        "url": "https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT"
+        "name": "Taking My Love Back",
+        "url": "https://open.spotify.com/album/66xNNEPz96RqJIKlw6728p"
       },
       "artists": [
         {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
         }
       ],
-      "duration_ms": 221081,
-      "name": "All Is Ours",
-      "url": "https://open.spotify.com/track/1rxLCrJvvAH1gzcgEF7Sa2"
+      "duration_ms": 141133,
+      "name": "Taking My Love Back",
+      "url": "https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2024-07-08 11:41:56",
@@ -73,24 +89,20 @@
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+      "duration_ms": 196363,
+      "name": "Tears For Fun",
+      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -173,6 +185,26 @@
       "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
     },
     {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
       "added_at": "2024-07-04 22:00:00",
       "album": {
         "name": "Moonlight To Sunrise",
@@ -243,6 +275,22 @@
       "duration_ms": 143211,
       "name": "I Wanna Thank Me (feat. Niecy Nash)",
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -525,6 +573,22 @@
       "url": "https://open.spotify.com/track/7jo2PagbFYgcFe85hrCC1K"
     },
     {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Don't Call",
+        "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 229105,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
+    },
+    {
       "added_at": "2024-06-24 09:09:28",
       "album": {
         "name": "CVNTY",
@@ -623,22 +687,6 @@
       "duration_ms": 154639,
       "name": "Chase It (Mmm Da Da Da)",
       "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "day i die",
-        "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "day i die",
-      "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
     },
     {
       "added_at": "2024-06-10 14:56:03",
@@ -887,22 +935,6 @@
     {
       "added_at": "2024-06-10 14:56:03",
       "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 186232,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
         "name": "JESS",
         "url": "https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE"
       },
@@ -947,38 +979,6 @@
       "duration_ms": 170029,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "YOUNGER ME",
-        "url": "https://open.spotify.com/album/6ikyXmmKQY2xBz6EXCxvlX"
-      },
-      "artists": [
-        {
-          "name": "Inge Lamboo",
-          "url": "https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "YOUNGER ME",
-      "url": "https://open.spotify.com/track/3zltYP3YIcvM1LkMT1Mitr"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "I tell everyone about you",
-        "url": "https://open.spotify.com/album/5OAjZsMKliYqXaKsTZZnXf"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 180558,
-      "name": "I tell everyone about you",
-      "url": "https://open.spotify.com/track/7BmXvGEFDk8uPudvlJPCcB"
     },
     {
       "added_at": "2024-06-10 14:56:03",

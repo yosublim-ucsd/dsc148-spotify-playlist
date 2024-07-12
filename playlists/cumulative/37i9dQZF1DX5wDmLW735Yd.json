@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Cameron Hayes",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Ana\u00efs",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Chin Swinger",
+        "url": "https://open.spotify.com/album/0A1oh41H55PoohnmBtaWpq"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230057,
+      "name": "Chin Swinger",
+      "url": "https://open.spotify.com/track/0KVgc62jZaVle4LG4WjgbG"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/1vozxbiPOwTB8r7rhX1015"
       },
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172389,
       "name": "Crowded Roomz",
       "url": "https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe"
@@ -6291,6 +6309,28 @@
     },
     {
       "album": {
+        "name": "Hurricane (feat. Leah Guest)",
+        "url": "https://open.spotify.com/album/0AykD0vZXh4qotarIZaein"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Leah Guest",
+          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Hurricane (feat. Leah Guest)",
+      "url": "https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u"
+    },
+    {
+      "album": {
         "name": "Hydra",
         "url": "https://open.spotify.com/album/1Hw7Ldk0hSQ0pDHaK9F9bv"
       },
@@ -6456,7 +6496,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 290742,
       "name": "I Told Ya",
       "url": "https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM"
@@ -10737,6 +10777,32 @@
     },
     {
       "album": {
+        "name": "Real Hot",
+        "url": "https://open.spotify.com/album/1DxUQVcVsoklWJzDaJ8ymI"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        },
+        {
+          "name": "Naomi Cowan",
+          "url": "https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163005,
+      "name": "Real Hot",
+      "url": "https://open.spotify.com/track/77v4EvOOKhfcElCWzRoBMB"
+    },
+    {
+      "album": {
         "name": "InHer World",
         "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
       },
@@ -11692,7 +11758,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189693,
       "name": "Selecta (feat. Stefflon Don)",
       "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
@@ -11754,6 +11820,28 @@
       "duration_ms": 223526,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3q2uX1BAjCiKmhEQiqWZTD"
+    },
+    {
+      "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/11cGr25AvbD3iahomIPaNc"
+      },
+      "artists": [
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "L-Side",
+          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/3HrYBjMhKco2izd1cC7rJ9"
     },
     {
       "album": {

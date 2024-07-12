@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: クリープハイプ \*👉 <a href="https://spice.eplus.jp/articles/330285?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-6,919 songs - 17 day 16 hr 49 min
+6,920 songs - 17 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4041,6 +4041,7 @@
 | [Their Stories Continue](https://open.spotify.com/track/0foBPY0vcmXOdpXTIb8B7P) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL), [D.O](https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS) | [Their Stories Continue](https://open.spotify.com/album/3K84dx4ngb96W4Ggv1FLIW) | 3:34 | 2023-07-11 | 2023-07-19 |
 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 | 2024-01-31 |
 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 | 2023-02-14 | 2023-02-22 |
+| [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-10 |  |
 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 | 2023-12-26 | 2024-01-10 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-07 | 2024-05-15 |
 | [Think About It](https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Think About It](https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB) | 4:01 | 2024-05-14 | 2024-05-22 |

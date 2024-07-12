@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Axel Brizzy
+> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Sarah Suhairi
 
-65 songs - 3 hr 25 min
+66 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 |  |
 | [RISE](https://open.spotify.com/track/35WeXPdntwzMh11x92LWYf) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [RISE](https://open.spotify.com/album/170PSJTTmPwKLWYkLeDMNP) | 3:04 | 2024-06-27 |  |
 | [SAH \- Acoustic Version](https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(Acoustic Version\)](https://open.spotify.com/album/30D0nzroAeNHica06GaB1P) | 3:49 | 2024-06-27 |  |
+| [SAH \- LoFi Version](https://open.spotify.com/track/6I02gQUsWeOVng5r7s0B60) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(LoFi Version\)](https://open.spotify.com/album/3b5eJkbzPp5bWnE0dFBZSE) | 3:10 | 2024-07-11 |  |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-27 |  |
 | [Shadow After Noon](https://open.spotify.com/track/6g7ElVPamAdH5XQpwxECQb) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Shadow After Noon](https://open.spotify.com/album/00NhjwtAj3rfc2E3uG1Wo0) | 3:42 | 2024-06-27 |  |
 | [SUN MOON](https://open.spotify.com/track/5sOmxPPHICzHN9cd6CbuyV) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [SUN MOON](https://open.spotify.com/album/6P1F1i3kKY039lRdzQBPa4) | 2:27 | 2024-06-27 |  |

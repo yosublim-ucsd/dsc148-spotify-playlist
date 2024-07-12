@@ -1597,6 +1597,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -5348,7 +5374,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -27216,7 +27242,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -41908,6 +41934,24 @@
       "duration_ms": 140689,
       "name": "\u0427\u0451\u0440\u043d\u044b\u0439 \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
       "url": "https://open.spotify.com/track/5FJssp1RN96K5AI7K2gJLY"
+    },
+    {
+      "album": {
+        "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434\u043a\u0430",
+        "url": "https://open.spotify.com/album/3zF5GBYnMldcJq1eTYZYLd"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0438\u043d\u0430\u0435\u0432\u0430",
+          "url": "https://open.spotify.com/artist/0zR4pGeKJictWoIOwPYbYZ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168894,
+      "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434\u043a\u0430",
+      "url": "https://open.spotify.com/track/0iLaVAFazlX7I9VdIBFulE"
     },
     {
       "album": {

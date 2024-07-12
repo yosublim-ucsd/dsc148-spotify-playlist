@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Over October",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Eliza Maturan",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Atin Ang Walang Hanggan",
+        "url": "https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe"
+      },
+      "artists": [
+        {
+          "name": "SunKissed Lola",
+          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203883,
+      "name": "Atin Ang Walang Hanggan",
+      "url": "https://open.spotify.com/track/3wyps5olGora4qX2g02DuK"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u"
       },
@@ -302,7 +320,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 175396,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
@@ -360,6 +378,24 @@
       "duration_ms": 188000,
       "name": "bet",
       "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J"
+      },
+      "artists": [
+        {
+          "name": "Belle Mariano",
+          "url": "https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Biglaan",
+      "url": "https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr"
     },
     {
       "album": {
@@ -730,7 +766,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 281565,
       "name": "Fruitcake - From \"Fruitcake\"",
       "url": "https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH"
@@ -1534,7 +1570,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 251688,
       "name": "Maria Clara",
       "url": "https://open.spotify.com/track/4WSs8HHZQgzz6eGEVvi3wW"
@@ -1971,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Oh Giliw Ko",
+        "url": "https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I"
+      },
+      "artists": [
+        {
+          "name": "The Knobs",
+          "url": "https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316125,
+      "name": "Oh Giliw Ko",
+      "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
+    },
+    {
+      "album": {
         "name": "Oh, Giliw",
         "url": "https://open.spotify.com/album/7naEAFv60JMoihI6OABet9"
       },
@@ -2267,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Puntirya",
+        "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Puntirya",
+      "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
+    },
+    {
+      "album": {
         "name": "pwede ba kitang ligawan?",
         "url": "https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki"
       },
@@ -2278,7 +2350,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 135860,
       "name": "pwede ba kitang ligawan?",
       "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
@@ -2852,7 +2924,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
@@ -3008,6 +3080,24 @@
       "duration_ms": 303786,
       "name": "You'll Be Safe Here",
       "url": "https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1"
+    },
+    {
+      "album": {
+        "name": "Your Universe (GG Official Soundtrack)",
+        "url": "https://open.spotify.com/album/1L1usyi9r1Gce8geasjViJ"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225453,
+      "name": "Your Universe - GG Official Soundtrack",
+      "url": "https://open.spotify.com/track/2jfU598QxlKwKwTaiPZhzp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm"

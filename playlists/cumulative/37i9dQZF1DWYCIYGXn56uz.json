@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Alfa",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Albe",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 162725,
       "name": "A VOLTE",
       "url": "https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172718,
       "name": "Altamente Mia",
       "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 202403,
       "name": "Bonjour Adieu",
       "url": "https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef"
@@ -3522,7 +3522,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 162524,
       "name": "GUAGLI\u00d2",
       "url": "https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH"
@@ -3820,7 +3820,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 156960,
       "name": "Innamorato",
       "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189406,
       "name": "La rabbia non ti basta",
       "url": "https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu"
@@ -4426,6 +4426,28 @@
       "duration_ms": 132363,
       "name": "lipgloss",
       "url": "https://open.spotify.com/track/43J1dnrDwNWDGfXBZhnfYb"
+    },
+    {
+      "album": {
+        "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+        "url": "https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        },
+        {
+          "name": "MAGENTA FLORA",
+          "url": "https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145320,
+      "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+      "url": "https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ"
     },
     {
       "album": {
@@ -4812,7 +4834,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 174879,
       "name": "MERCOLED\u00cc MAI",
       "url": "https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs"
@@ -5018,6 +5040,28 @@
       "duration_ms": 195229,
       "name": "Milano dannata",
       "url": "https://open.spotify.com/track/2cXh3ehVTlvWjcAb7aLELE"
+    },
+    {
+      "album": {
+        "name": "Mille Notti",
+        "url": "https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173416,
+      "name": "Mille Notti",
+      "url": "https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj"
     },
     {
       "album": {
@@ -6450,7 +6494,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186902,
       "name": "PRIMO AL MONDO",
       "url": "https://open.spotify.com/track/2mo05Hp6Vym4rLhwisNAh4"
@@ -6666,7 +6710,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 197343,
       "name": "RANDAGI",
       "url": "https://open.spotify.com/track/1nELZxAVX7ibdrXxYcc4Pj"
@@ -7391,6 +7435,24 @@
     },
     {
       "album": {
+        "name": "Dimmi a che ora finisce l'amore",
+        "url": "https://open.spotify.com/album/4DZWdEA5mqCqkJYXt6VEWq"
+      },
+      "artists": [
+        {
+          "name": "Blue Phelix",
+          "url": "https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Sogni Di Carta",
+      "url": "https://open.spotify.com/track/4kNHKjNYAzGhnkKQO4Qoto"
+    },
+    {
+      "album": {
         "name": "Sitcom triste",
         "url": "https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6"
       },
@@ -7570,6 +7632,28 @@
       "duration_ms": 204605,
       "name": "Splendere",
       "url": "https://open.spotify.com/track/4caPWsdclt1rBrzPyMTo6J"
+    },
+    {
+      "album": {
+        "name": "STACEY",
+        "url": "https://open.spotify.com/album/4P9SEweuk2pOPyNopaXKil"
+      },
+      "artists": [
+        {
+          "name": "Ethos",
+          "url": "https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7"
+        },
+        {
+          "name": "Bori",
+          "url": "https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207725,
+      "name": "STACEY",
+      "url": "https://open.spotify.com/track/0LnfEYt0a0ttklFD4mby8l"
     },
     {
       "album": {
@@ -8301,6 +8385,24 @@
     },
     {
       "album": {
+        "name": "Ultimo addio",
+        "url": "https://open.spotify.com/album/7vs04FRFm1oifBdzXdGvgb"
+      },
+      "artists": [
+        {
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155482,
+      "name": "Ultimo addio",
+      "url": "https://open.spotify.com/track/4E6p6inBpalGEPkxQAFBy2"
+    },
+    {
+      "album": {
         "name": "ULTRAS",
         "url": "https://open.spotify.com/album/0hQNb6VoV23XmGVjLdogIJ"
       },
@@ -8768,7 +8870,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 122156,
       "name": "VITA TERREMOTO",
       "url": "https://open.spotify.com/track/0xHJK91SKPQ2jeR2RTJdP2"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:5Ppbc55kNdjvxP8Tw2P8S9\">APHACA</a> p\u00e5 forsiden\ud83d\udd2a",
+  "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:6J9AFauvtJJ8brNaiWwWat\">Sira Jovina</a> p\u00e5 forsiden\ud83d\udd2a",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Gi' Mig Lige",
+        "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161608,
+      "name": "Gi' Mig Lige",
+      "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
+    },
+    {
+      "album": {
         "name": "Go Fast Go Slow",
         "url": "https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG"
       },
@@ -966,7 +984,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 191437,
       "name": "Ny Og N\u00e6",
       "url": "https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9"

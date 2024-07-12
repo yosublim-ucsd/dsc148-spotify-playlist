@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover :  Krishnam Pranaya Sakhi
 
-1,238 songs - 3 day 3 hr 23 min
+1,239 songs - 3 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -972,6 +972,7 @@
 | [Panchali \- From " Kandor Mane Kathe "](https://open.spotify.com/track/0gJw0vFsSs3oxuoDB5N6cO) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Varsha B Suresh](https://open.spotify.com/artist/2s8PQOvFwO1u3V38n85U5W), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Gowtham Yashodhara](https://open.spotify.com/artist/5SJuQhyuTlyRVcTfcQQK5E) | [Panchali \(From " Kandor Mane Kathe "\)](https://open.spotify.com/album/6I7CMAQO82MQJHfjEVkB9f) | 3:41 | 2023-08-01 | 2023-10-12 |
 | [Paravasha \(from "Grey Games"\)](https://open.spotify.com/track/73xfwYEsymSfVofTD6OKfs) | [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s), [Atrangi Funkaar](https://open.spotify.com/artist/1uvi7MKXfrVYQITj0VTIdf) | [Paravasha \(from "Grey Games"\)](https://open.spotify.com/album/6KWlSdjzSuVb9krzNb76RG) | 4:14 | 2024-02-29 | 2024-05-23 |
 | [Pardana \- From "Balipe"](https://open.spotify.com/track/7Cd3vSJ5zKO618jyPQiGZL) | [Kalavathi Dayanand](https://open.spotify.com/artist/06hgurxpkKN9vV49B830LS), [Dayananda G Kathalsar](https://open.spotify.com/artist/3zL2JWKx8h1jnL6D4xrvTx), [Akash Reddy](https://open.spotify.com/artist/71JGFO5mgqGqeiiG06pBrq) | [Pardana \(From "Balipe"\)](https://open.spotify.com/album/2VbIv579L4LnROh8SFgQuh) | 2:38 | 2024-05-14 |  |
+| [Party Anthem \(From "Back Bencherz"\)](https://open.spotify.com/track/3aVGfzcrtn9qLbmMUM6cmy) | [V.M\. Mahalingam](https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Jathin Aryan](https://open.spotify.com/artist/6Fhd9bLVmCsCZ9fHy3z5Qs) | [Party Anthem \(From "Back Bencherz"\)](https://open.spotify.com/album/3gvLWkXdAYCM5waHpHuEIV) | 4:03 | 2024-07-11 |  |
 | [Party Freak](https://open.spotify.com/track/1sAiw411pa8rVZv7ZTwbh4) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Party Freak](https://open.spotify.com/album/1jwAwJN0OMmzcNPThfzsAX) | 4:00 | 2021-12-06 | 2022-02-03 |
 | [Pasandaagavne \- \(from "Kaatera"\)](https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Pasandaagavne \( from"Kaatera"\)](https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga) | 3:31 | 2023-12-05 | 2024-02-23 |
 | [Peg Song](https://open.spotify.com/track/1y2ZQXSzAzPF1CQUPX9wdG) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ), [Vismay Vinayak](https://open.spotify.com/artist/7xFHHaQ1cDKKyaG6Q0zekN), [Umesh Mijar](https://open.spotify.com/artist/1sKReGsoaaOvHYJAQmN2N7) | [Mr\. Madimaye](https://open.spotify.com/album/2exhsxVgCKRR6PAKOxbqlr) | 3:56 | 2024-01-15 | 2024-03-01 |

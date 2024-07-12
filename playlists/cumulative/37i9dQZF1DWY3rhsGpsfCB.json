@@ -3741,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Gold Coast",
+        "url": "https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB"
+    },
+    {
+      "album": {
         "name": "Gone (Abebe Bikila)",
         "url": "https://open.spotify.com/album/18nylQsLYIMdHvNXgfPVuO"
       },
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 182428,
       "name": "Happy",
       "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
@@ -4004,6 +4022,28 @@
       "duration_ms": 179828,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
+    },
+    {
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl"
+      },
+      "artists": [
+        {
+          "name": "Higo",
+          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
+        },
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138138,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig"
     },
     {
       "album": {
@@ -4854,7 +4894,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 213897,
       "name": "Into The Water",
       "url": "https://open.spotify.com/track/6rB4NvhTRyQWzLzFHliwJz"
@@ -5750,7 +5790,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
@@ -8671,6 +8711,32 @@
     },
     {
       "album": {
+        "name": "GOLD II",
+        "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "GOLD",
+          "url": "https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191658,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
+    },
+    {
+      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ"
       },
@@ -9240,7 +9306,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 212593,
       "name": "Shady",
       "url": "https://open.spotify.com/track/0N0avWHBgmoKLqmyMlEHvZ"
@@ -9782,6 +9848,28 @@
       "duration_ms": 178604,
       "name": "SPEED DIAL",
       "url": "https://open.spotify.com/track/2he239VQ9kzPwd4YtOHvVu"
+    },
+    {
+      "album": {
+        "name": "Pt. 4: The Witch",
+        "url": "https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        },
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/6NWiVGfM7MmJkx2R5KJNgp"
     },
     {
       "album": {

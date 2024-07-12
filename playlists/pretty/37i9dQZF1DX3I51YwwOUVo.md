@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2024 Artists to Watch! Cover: SNOW WIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,987 likes - 89 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,994 likes - 89 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 10 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
 | 11 | [Bail Money](https://open.spotify.com/track/3y4fkeM3YMkmOz4WMyBF2L) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Bail Money](https://open.spotify.com/album/3S4pTxBN9cjRuByvquZKhn) | 3:24 |
 | 12 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 13 | [Damn These Forces](https://open.spotify.com/track/7AuNXwgiihfpxY6Y9iSvFs) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 3: The Dying of Self](https://open.spotify.com/album/0HNHiByjs6Qsfkw2XZ0XeC) | 3:30 |
+| 13 | [Damn These Forces](https://open.spotify.com/track/7AuNXwgiihfpxY6Y9iSvFs) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 3: The Dying of Self](https://open.spotify.com/album/0HNHiByjs6Qsfkw2XZ0XeC) | 3:30 |
 | 14 | [Off the Map](https://open.spotify.com/track/4D6SOP98ZKMs0pg4WDyDGu) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Off the Map](https://open.spotify.com/album/4bnv6LEx079pjHJBACEosh) | 3:02 |
 | 15 | [FRIKI](https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [FRIKI](https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL) | 3:09 |
 | 16 | [Salsa y Clase](https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Salsa y Clase](https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA) | 3:42 |

@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 159658,
+  "num_followers": 159688,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Sosamann",
+          "url": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "What About Me (feat. Sosamann)",
+      "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Sosamann",
-          "url": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
-        }
-      ],
-      "duration_ms": 216961,
-      "name": "What About Me (feat. Sosamann)",
-      "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
         "name": "Oasis Sky",
         "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 202991,
       "name": "Inkeri",
       "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
-      },
-      "artists": [
-        {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 213133,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+      },
+      "artists": [
+        {
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
         "name": "Basement Grooves",
         "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 169142,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
-      },
-      "artists": [
-        {
-          "name": "hohoman16",
-          "url": "https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk"
-        },
-        {
-          "name": "Isla K",
-          "url": "https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
+      },
+      "artists": [
+        {
+          "name": "hohoman16",
+          "url": "https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk"
+        },
+        {
+          "name": "Isla K",
+          "url": "https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
-        "name": "Closer to Hell",
-        "url": "https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg"
-      },
-      "artists": [
-        {
-          "name": "Deb Fan",
-          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Closer to Hell",
-      "url": "https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
         "name": "Virtual Lover",
         "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 174907,
       "name": "Virtual Lover",
       "url": "https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
+        "name": "Closer to Hell",
+        "url": "https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Closer to Hell",
+      "url": "https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
         "name": "Hello, I said",
         "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 200597,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2024-07-01 02:32:43",
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 179523,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
-    },
-    {
-      "added_at": "2024-07-01 02:32:43",
-      "album": {
-        "name": "The House That I Live In",
-        "url": "https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML"
-      },
-      "artists": [
-        {
-          "name": "Lydia Lee",
-          "url": "https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F"
-        }
-      ],
-      "duration_ms": 182343,
-      "name": "Don\u2019t Matter",
-      "url": "https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh"
     },
     {
       "added_at": "2024-07-01 02:32:43",
@@ -1751,6 +1735,22 @@
       "duration_ms": 229200,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt"
+    },
+    {
+      "added_at": "2024-07-01 02:32:43",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 190642,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

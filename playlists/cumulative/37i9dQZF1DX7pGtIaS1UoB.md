@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-357 songs - 21 hr 11 min
+358 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [撒娇只对你有效 \- 真人互动影游《恋爱单选题》主题曲](https://open.spotify.com/track/5fvrJqFKGlVXQGLUlxVs6k) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [撒娇只对你有效 \(真人互动影游《恋爱单选题》主题曲\)](https://open.spotify.com/album/69fb1BAbz9oerXRSnDOzHZ) | 2:02 | 2024-05-27 |  |
 | [敬嘮叨](https://open.spotify.com/track/7B3O98DIT9hOVB8sbwgtYY) | [繆以欣](https://open.spotify.com/artist/43aTla1ZVfTG1AUNhhbqsv) | [如果心情會說話](https://open.spotify.com/album/5BwIe4tDn9K8LVKJP1uFyr) | 3:58 | 2022-07-18 | 2022-07-20 |
 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 |  |
-| [时空恋人](https://open.spotify.com/track/4Wr8vehBhV6cUbhDP60nX4) | [海哲明](https://open.spotify.com/artist/6hBMO1pup13SkItc7yxBbr), [云汐](https://open.spotify.com/artist/7hcRBeXgHkJKfg7uGMr7ag) | [时空恋人](https://open.spotify.com/album/0B6RIITSLOFMK07ZkoVPb3) | 3:08 | 2024-06-27 |  |
+| [时空恋人](https://open.spotify.com/track/4Wr8vehBhV6cUbhDP60nX4) | [海哲明](https://open.spotify.com/artist/6hBMO1pup13SkItc7yxBbr), [云汐](https://open.spotify.com/artist/7hcRBeXgHkJKfg7uGMr7ag) | [时空恋人](https://open.spotify.com/album/0B6RIITSLOFMK07ZkoVPb3) | 3:08 | 2024-06-27 | 2024-07-12 |
 | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 | 2022-06-06 |  |
 | [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 | 2023-07-03 | 2023-10-15 |
 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 | 2022-07-25 | 2024-01-10 |
@@ -252,6 +252,7 @@
 | [星晴](https://open.spotify.com/track/1BRoZRAK2XdrSgJ0AJu3eM) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON) | 4:19 | 2024-01-08 | 2024-04-19 |
 | [是你啊](https://open.spotify.com/track/4Qu4L6TmIJoFzumjxp3lGw) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa) | [不枉年少](https://open.spotify.com/album/2WuKpPZ2qoabkAeyCU6Y9e) | 3:55 | 2022-06-13 | 2022-07-18 |
 | [暗戀的感覺](https://open.spotify.com/track/1wCJA9Ur1J98AP1OOjU2gF) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH) | [暗戀的感覺](https://open.spotify.com/album/1n2kMiYBEpvJ5CLHaqYuxZ) | 3:20 | 2023-05-08 | 2023-05-16 |
+| [最最靠近愛情的那天](https://open.spotify.com/track/0vPAePR4Z5tTx3yGPO8KxI) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [最最靠近愛情的那天](https://open.spotify.com/album/0xQcsH0do8tKqRRr4JUY0F) | 3:07 | 2024-07-11 |  |
 | [月光森林](https://open.spotify.com/track/5j73bSHAoFQW84vwb64lJQ) | [兔子牙](https://open.spotify.com/artist/5IKSF0sUp4qqybBa8tjOqW) | [月光森林](https://open.spotify.com/album/363MAMYrjcQVlG3mvilLDX) | 3:20 | 2022-07-04 | 2022-07-14 |
 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 | 2022-06-06 |  |
 | [有空記得約我 \- 電視電影《雜貨店》主題曲](https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [有空記得約我 \(電視電影《雜貨店》主題曲\)](https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV) | 4:03 | 2022-06-06 | 2022-09-03 |

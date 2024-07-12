@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Nonaria
 
-194 songs - 13 hr 54 min
+195 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Don't Start Now](https://open.spotify.com/track/5QU6DL9fRllFfXlS0n5Tb1) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Don't Start Now](https://open.spotify.com/album/447GoOsDCUjZFN8Tvotgtf) | 3:20 | 2022-09-02 | 2022-11-25 |
 | [Don't Stop](https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Nicky Manuputty](https://open.spotify.com/artist/1O9pkJRFRbdwy1yKCOyh9k) | [Don't Stop](https://open.spotify.com/album/4cl4iGS3sCdPg2UrrT75Ho) | 3:22 | 2023-06-29 |  |
 | [Don't You Worry](https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN) | [Reggie Pryor](https://open.spotify.com/artist/6Qyyfa0rATJXEpCQcfDosZ), [Jeremy Monteiro](https://open.spotify.com/artist/6k5z740XzUQCbtToofslkV) | [Don't You Worry](https://open.spotify.com/album/1aWfATwUsPr6m9QWpvHtc0) | 2:57 | 2022-09-02 |  |
+| [Donny](https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [Dengarkanlah Radio](https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4) | 2:19 | 2024-07-11 |  |
 | [Donuts](https://open.spotify.com/track/1nZm5r1XiZlIng4uMVgQvu) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Yance Manusama](https://open.spotify.com/artist/0bRoeRfOv39qIM4UbGj7Kw), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Grady Boanerges](https://open.spotify.com/artist/0bnPVgEHt7i6WBI3n5H1S7) | [Donuts](https://open.spotify.com/album/26ds8Q5NFxGkwQP163fJSb) | 5:44 | 2023-09-29 |  |
 | [Dream Lulubye](https://open.spotify.com/track/14BlgC34sdKKTEvcuhMPOv) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Agam Hamzah](https://open.spotify.com/artist/0Q93JEJbQhqMkTZOvC764M) | [Dream Lulubye](https://open.spotify.com/album/1i43dJTiD4TFpcQ5p35J6g) | 6:30 | 2023-03-24 |  |
 | [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 | 2023-03-09 |  |

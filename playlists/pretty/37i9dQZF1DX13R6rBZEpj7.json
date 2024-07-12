@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 217422,
+  "num_followers": 217550,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3vAAAAAA3MLk1OUAo7EaOLf/jLI/b",
+  "snapshot_id": "Zo/9LgAAAAAFbiF3zltAZX12ST3zFupp",
   "tracks": [
     {
       "added_at": "2024-07-05 00:01:00",
@@ -611,18 +611,22 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Cutty Dub 23",
-        "url": "https://open.spotify.com/album/2GWudukTcN6t7xhMzHigkq"
+        "name": "Rude Boyz",
+        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
         }
       ],
-      "duration_ms": 262285,
-      "name": "Cutty Dub 23",
-      "url": "https://open.spotify.com/track/4btfN4wAlOCadvxFztH9bm"
+      "duration_ms": 205454,
+      "name": "Rude Boyz",
+      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -639,6 +643,22 @@
       "duration_ms": 223725,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Cutty Dub 23",
+        "url": "https://open.spotify.com/album/2GWudukTcN6t7xhMzHigkq"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 262285,
+      "name": "Cutty Dub 23",
+      "url": "https://open.spotify.com/track/4btfN4wAlOCadvxFztH9bm"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -687,26 +707,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Rude Boyz",
-        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Rude Boyz",
-      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "Party Right / Snake Charmer",
         "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Kamikaze Cosworth",
-        "url": "https://open.spotify.com/album/5065pz5SdcvXeaSDZUvI8w"
-      },
-      "artists": [
-        {
-          "name": "Mat Zo",
-          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
-        }
-      ],
-      "duration_ms": 250116,
-      "name": "Kamikaze Cosworth",
-      "url": "https://open.spotify.com/track/3wogShbhU5OxHtr7DrFogX"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "Friday Nights (efan Remix)",
         "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 206571,
       "name": "Friday Nights (efan Remix)",
       "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Kamikaze Cosworth",
+        "url": "https://open.spotify.com/album/5065pz5SdcvXeaSDZUvI8w"
+      },
+      "artists": [
+        {
+          "name": "Mat Zo",
+          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
+        }
+      ],
+      "duration_ms": 250116,
+      "name": "Kamikaze Cosworth",
+      "url": "https://open.spotify.com/track/3wogShbhU5OxHtr7DrFogX"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -963,42 +963,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Energy Gang",
-        "url": "https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0"
-      },
-      "artists": [
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "Energy Gang",
-      "url": "https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Stop Dawdling / The Streets",
-        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 265454,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "EGODEATH",
         "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
@@ -1019,22 +983,38 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Seshame Street EP",
-        "url": "https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6"
+        "name": "Stop Dawdling / The Streets",
+        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
       },
       "artists": [
         {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Party Starter (feat. Slick Don)",
-      "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
+      "duration_ms": 265454,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Energy Gang",
+        "url": "https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "Energy Gang",
+      "url": "https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1059,6 +1039,26 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "Seshame Street EP",
+        "url": "https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Party Starter (feat. Slick Don)",
+      "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "Songs Of Praise",
         "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 176000,
       "name": "Songs Of Praise - Radio Edit",
       "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Dapper",
-        "url": "https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Cleva Thoughts",
-          "url": "https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Dapper",
-      "url": "https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1119,6 +1099,26 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "Dapper",
+        "url": "https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Cleva Thoughts",
+          "url": "https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Dapper",
+      "url": "https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "Ikebana - EP",
         "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
       },
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "Want (ur body)",
+        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 274672,
+      "name": "Want (ur body)",
+      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 237293,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Want (ur body)",
-        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 274672,
-      "name": "Want (ur body)",
-      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "BABE?",
-        "url": "https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi"
+        "name": "Haters",
+        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
       },
       "artists": [
         {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
         }
       ],
-      "duration_ms": 210635,
-      "name": "STUCK ON U",
-      "url": "https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT"
+      "duration_ms": 178714,
+      "name": "Haters",
+      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Haters",
-        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
+        "name": "BABE?",
+        "url": "https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi"
       },
       "artists": [
         {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
         }
       ],
-      "duration_ms": 178714,
-      "name": "Haters",
-      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
+      "duration_ms": 210635,
+      "name": "STUCK ON U",
+      "url": "https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     }
   ],
   "unique_name": "Bassline Bangers",

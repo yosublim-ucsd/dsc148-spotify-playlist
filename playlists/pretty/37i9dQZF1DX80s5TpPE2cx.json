@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11064,
+  "num_followers": 11074,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
         },
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 186401,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -315,22 +311,26 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Where Dem Dey",
-        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
       "artists": [
         {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Where Dem Dey",
-      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "SARO",
         "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 182475,
       "name": "SARO",
       "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Catching a Wav",
-      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 124751,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Catching a Wav",
+      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Lifesize Teddy",
-        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
-      },
-      "artists": [
-        {
-          "name": "Lifesize Teddy",
-          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "Supa Sigh",
         "url": "https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 212506,
       "name": "Supa Sigh",
       "url": "https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "Lifesize Teddy",
+        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
+      },
+      "artists": [
+        {
+          "name": "Lifesize Teddy",
+          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
     },
     {
       "added_at": "2024-06-24 06:54:45",

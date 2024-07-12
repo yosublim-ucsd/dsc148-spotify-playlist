@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 532280,
+  "num_followers": 532295,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-05 13:38:51",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 127346,
-      "name": "Let's Have A Party",
-      "url": "https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o"
-    },
-    {
-      "added_at": "2024-07-05 13:38:51",
-      "album": {
         "name": "Our Brand",
         "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
+    },
+    {
+      "added_at": "2024-07-05 13:38:51",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 127346,
+      "name": "Let's Have A Party",
+      "url": "https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o"
     },
     {
       "added_at": "2024-07-05 13:38:51",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-07-05 13:38:51",
       "album": {
-        "name": "Happy Rokkenrol! Vol. 2",
-        "url": "https://open.spotify.com/album/1I51JBGJpNGGEqCEPNGjnr"
-      },
-      "artists": [
-        {
-          "name": "Esa Pulliainen",
-          "url": "https://open.spotify.com/artist/7dZrUotZctNzR1NFr5uKra"
-        },
-        {
-          "name": "Mr. Breathless",
-          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
-        }
-      ],
-      "duration_ms": 141413,
-      "name": "Teddy Boy Flick Knife Rock'n'Roll",
-      "url": "https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4"
-    },
-    {
-      "added_at": "2024-07-05 13:38:51",
-      "album": {
         "name": "Rockabilly Cats",
         "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
       },
@@ -723,18 +703,22 @@
     {
       "added_at": "2024-07-05 13:38:51",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
+        "name": "Happy Rokkenrol! Vol. 2",
+        "url": "https://open.spotify.com/album/1I51JBGJpNGGEqCEPNGjnr"
       },
       "artists": [
         {
-          "name": "Fatboy",
-          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
+          "name": "Esa Pulliainen",
+          "url": "https://open.spotify.com/artist/7dZrUotZctNzR1NFr5uKra"
+        },
+        {
+          "name": "Mr. Breathless",
+          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
         }
       ],
-      "duration_ms": 166040,
-      "name": "Bad News From Pretty Red Lips",
-      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
+      "duration_ms": 141413,
+      "name": "Teddy Boy Flick Knife Rock'n'Roll",
+      "url": "https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4"
     },
     {
       "added_at": "2024-07-05 13:38:51",
@@ -751,6 +735,22 @@
       "duration_ms": 155000,
       "name": "Musta Notta Gotta Lotta",
       "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
+    },
+    {
+      "added_at": "2024-07-05 13:38:51",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
+      },
+      "artists": [
+        {
+          "name": "Fatboy",
+          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Bad News From Pretty Red Lips",
+      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
     },
     {
       "added_at": "2024-07-05 13:38:51",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-05 13:38:51",
       "album": {
-        "name": "Ideas of Love",
-        "url": "https://open.spotify.com/album/20REkK3lmFtR8F77ls05XH"
-      },
-      "artists": [
-        {
-          "name": "AT's Roots & Ramblin'",
-          "url": "https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O"
-        }
-      ],
-      "duration_ms": 180372,
-      "name": "Ideas of Love",
-      "url": "https://open.spotify.com/track/2CroqpGLYfhN8Xpa4xMfRz"
-    },
-    {
-      "added_at": "2024-07-05 13:38:51",
-      "album": {
         "name": "Tear It Up: The Complete Legedary Coral Recordings",
         "url": "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2024-07-05 13:38:51",
       "album": {
-        "name": "In the Middle of the Night",
-        "url": "https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd"
+        "name": "Ideas of Love",
+        "url": "https://open.spotify.com/album/20REkK3lmFtR8F77ls05XH"
       },
       "artists": [
         {
-          "name": "Top Cats",
-          "url": "https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy"
+          "name": "AT's Roots & Ramblin'",
+          "url": "https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O"
         }
       ],
-      "duration_ms": 160286,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq"
+      "duration_ms": 180372,
+      "name": "Ideas of Love",
+      "url": "https://open.spotify.com/track/2CroqpGLYfhN8Xpa4xMfRz"
     },
     {
       "added_at": "2024-07-05 13:38:51",
@@ -863,6 +847,22 @@
       "duration_ms": 166226,
       "name": "Jungle Rock",
       "url": "https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy"
+    },
+    {
+      "added_at": "2024-07-05 13:38:51",
+      "album": {
+        "name": "In the Middle of the Night",
+        "url": "https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd"
+      },
+      "artists": [
+        {
+          "name": "Top Cats",
+          "url": "https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy"
+        }
+      ],
+      "duration_ms": 160286,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq"
     },
     {
       "added_at": "2024-07-05 13:38:51",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-05 13:38:51",
       "album": {
-        "name": "Tennessee Stomp",
-        "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
-      },
-      "artists": [
-        {
-          "name": "Hillbilly Casino",
-          "url": "https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Debt With the Devil",
-      "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
-    },
-    {
-      "added_at": "2024-07-05 13:38:51",
-      "album": {
         "name": "Lip Lickin' Lou",
         "url": "https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-07-05 13:38:51",
       "album": {
-        "name": "1957-1959",
-        "url": "https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp"
+        "name": "Tennessee Stomp",
+        "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
       },
       "artists": [
         {
-          "name": "Joe Bennett & The Sparkletones",
-          "url": "https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP"
+          "name": "Hillbilly Casino",
+          "url": "https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO"
         }
       ],
-      "duration_ms": 129026,
-      "name": "Black Slacks",
-      "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
+      "duration_ms": 133693,
+      "name": "Debt With the Devil",
+      "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
     },
     {
       "added_at": "2024-07-05 13:38:51",
@@ -959,6 +943,22 @@
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"
+    },
+    {
+      "added_at": "2024-07-05 13:38:51",
+      "album": {
+        "name": "1957-1959",
+        "url": "https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp"
+      },
+      "artists": [
+        {
+          "name": "Joe Bennett & The Sparkletones",
+          "url": "https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP"
+        }
+      ],
+      "duration_ms": 129026,
+      "name": "Black Slacks",
+      "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
     },
     {
       "added_at": "2024-07-05 13:38:51",

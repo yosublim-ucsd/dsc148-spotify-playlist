@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,487 songs - 3 day 9 hr 11 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,490 songs - 3 day 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1495,5 +1495,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1485 | [Forsaken](https://open.spotify.com/track/7cyecRXZ6UTnNqARZ1eeng) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Forsaken](https://open.spotify.com/album/4QcTmGj1mTaiYdAfApZJPC) | 2:51 |
 | 1486 | [Drums In My Hand \- Atomic Warfare Edit](https://open.spotify.com/track/5parjW5CRSYnS8FzZMRPx6) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Atomic Warfare EP](https://open.spotify.com/album/17h9UZuzLevVf9YpbdEEqU) | 1:26 |
 | 1487 | [Break Away](https://open.spotify.com/track/3tVUc2cAezwllNaiykckN5) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Break Away](https://open.spotify.com/album/17XXbvNgd4Fz5J7tBFCqiN) | 3:18 |
+| 1488 | [I Make You Shine](https://open.spotify.com/track/36mE5EAeGYh9p7z1cv0sHT) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [I Make You Shine](https://open.spotify.com/album/3n6Q6fOaOJKZp5LtwTt96S) | 2:49 |
+| 1489 | [Do You Think About Me?](https://open.spotify.com/track/0yxGKAoQbBUh2u2FGghUzC) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:05 |
+| 1490 | [DR34M$](https://open.spotify.com/track/55EPegD9KficI9lrBqqnwG) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [DR34M$](https://open.spotify.com/album/10M4qb2LIWkOk2dZWWo6os) | 2:36 |
 
-Snapshot ID: `AAAF/OTsRAbJU/+lb709UARRYZEKE1ct`
+Snapshot ID: `AAAF/7Uj6sn/qkrYWND3VMnSpP908brG`

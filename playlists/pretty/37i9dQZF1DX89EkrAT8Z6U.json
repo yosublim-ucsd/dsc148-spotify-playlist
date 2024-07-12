@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1119955,
+  "num_followers": 1120616,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "die",
         "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 99560,
       "name": "die",
       "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Benbow Crescent",
+        "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 149145,
+      "name": "Hatchback",
+      "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": ">one (greater than one)",
         "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 130666,
       "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Benbow Crescent",
-        "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 149145,
-      "name": "Hatchback",
-      "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -673,38 +673,6 @@
       "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "50k",
-        "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
-      },
-      "artists": [
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "50k",
-      "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
-    },
-    {
-      "added_at": "2024-06-11 20:16:14",
-      "album": {
-        "name": "Plenty Guns",
-        "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 86928,
-      "name": "Plenty Guns",
-      "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
-    },
-    {
       "added_at": "2024-06-11 20:16:14",
       "album": {
         "name": "NO HANDS",
@@ -723,6 +691,38 @@
       "duration_ms": 180580,
       "name": "PACKAPUNCH (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 99807,
+      "name": "WTH",
+      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "50k",
+        "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "50k",
+      "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "JoJo Pose",
         "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
       },
@@ -815,8 +799,24 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
+    },
+    {
+      "added_at": "2024-06-11 20:16:14",
+      "album": {
+        "name": "Plenty Guns",
+        "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 99807,
-      "name": "WTH",
-      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+      "duration_ms": 86928,
+      "name": "Plenty Guns",
+      "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Righteous",
-        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
-      },
-      "artists": [
-        {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
-        }
-      ],
-      "duration_ms": 163910,
-      "name": "Righteous",
-      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lost It All",
         "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 143587,
       "name": "OLIVIA",
       "url": "https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Righteous",
+        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 163910,
+      "name": "Righteous",
+      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
     },
     {
       "added_at": "2024-05-22 11:00:00",

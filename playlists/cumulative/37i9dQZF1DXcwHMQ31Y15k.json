@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk, Woro Widowati",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Wandra Restusiyan",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -2465,6 +2465,28 @@
     },
     {
       "album": {
+        "name": "Kluwung",
+        "url": "https://open.spotify.com/album/67y625KS6Ypy0VgGtQSInS"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        },
+        {
+          "name": "SKA 86",
+          "url": "https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360709,
+      "name": "Kluwung",
+      "url": "https://open.spotify.com/track/5MA4UbGgEudBETXGCAxI1p"
+    },
+    {
+      "album": {
         "name": "Kok Iso Yo?",
         "url": "https://open.spotify.com/album/54wJfSjpNpNSC9lFPb9DVO"
       },
@@ -3750,6 +3772,24 @@
       "duration_ms": 254000,
       "name": "NGANGGUR",
       "url": "https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA"
+    },
+    {
+      "album": {
+        "name": "NGANGGUR",
+        "url": "https://open.spotify.com/album/0EcAko6sPzM102RUZPHJDj"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252174,
+      "name": "NGANGGUR",
+      "url": "https://open.spotify.com/track/6iMMuySltINE30e82840cg"
     },
     {
       "album": {
@@ -5335,6 +5375,28 @@
     },
     {
       "album": {
+        "name": "Saktenane",
+        "url": "https://open.spotify.com/album/5UIUBFgEEBdc70lgSH38ko"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        },
+        {
+          "name": "Radit Fasolla",
+          "url": "https://open.spotify.com/artist/135t3ftsP9hvglGlUtsElh"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350741,
+      "name": "Saktenane",
+      "url": "https://open.spotify.com/track/4o9SsLbCaxSHoAMkUoC2Iu"
+    },
+    {
+      "album": {
         "name": "Saktenane 2",
         "url": "https://open.spotify.com/album/0Jaba6NDAsXAVgoBNZmNSh"
       },
@@ -5818,6 +5880,24 @@
       "duration_ms": 352000,
       "name": "Sido Rondo (feat. Mas Tutur)",
       "url": "https://open.spotify.com/track/0CxgPOuTACNddFQC82zu9l"
+    },
+    {
+      "album": {
+        "name": "SING BISO",
+        "url": "https://open.spotify.com/album/5TBQZJeEyA99kMpzXvlcCW"
+      },
+      "artists": [
+        {
+          "name": "SKA 86",
+          "url": "https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230945,
+      "name": "SING BISO",
+      "url": "https://open.spotify.com/track/1MrU4LSCrw5D3W1fCh1McQ"
     },
     {
       "album": {

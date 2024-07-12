@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6p4TJxzMRDe.md) - [plain]
 
 > Dance all night to the best songs ever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,672,848 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,673,146 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 15625,
+  "num_followers": 15623,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
-    },
-    {
-      "added_at": "2024-07-09 07:51:22",
-      "album": {
         "name": "You Might (Feat. SHIRT)",
         "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
@@ -171,18 +155,38 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
+    },
+    {
+      "added_at": "2024-07-09 07:51:22",
+      "album": {
+        "name": "WONDO Project : LOVE RECIPE, Vol.1",
+        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "LOVE RECIPE",
+      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
     },
     {
       "added_at": "2024-07-09 07:51:22",
@@ -227,6 +231,22 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2024-07-09 07:51:22",
+      "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
-    },
-    {
-      "added_at": "2024-07-09 07:51:22",
-      "album": {
-        "name": "WONDO Project : LOVE RECIPE, Vol.1",
-        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "LOVE RECIPE",
-      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
     },
     {
       "added_at": "2024-07-09 07:51:22",
@@ -300,13 +300,29 @@
       },
       "artists": [
         {
-          "name": "Youngjae",
+          "name": "YOUNGJAE",
           "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
       "duration_ms": 204533,
       "name": "Errr Day",
       "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
+    },
+    {
+      "added_at": "2024-07-09 07:51:22",
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2024-07-09 07:51:22",
@@ -335,22 +351,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2024-07-09 07:51:22",
-      "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2024-07-09 07:51:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
-        "name": "The Midnight Studio, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/05RRa78WXts7BSKxNHFT7a"
-      },
-      "artists": [
-        {
-          "name": "g1nger",
-          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Love So Beautiful",
-      "url": "https://open.spotify.com/track/1Q7vzuuqv96muUUBDgFNoI"
-    },
-    {
-      "added_at": "2024-07-09 07:51:22",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2024-07-09 07:51:22",
+      "album": {
+        "name": "The Midnight Studio, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/05RRa78WXts7BSKxNHFT7a"
+      },
+      "artists": [
+        {
+          "name": "g1nger",
+          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Love So Beautiful",
+      "url": "https://open.spotify.com/track/1Q7vzuuqv96muUUBDgFNoI"
     },
     {
       "added_at": "2024-07-09 07:51:22",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
+        "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
+        "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "28k LOVE!!",
+      "url": "https://open.spotify.com/track/1udqJr6D9UDqW7gsLAUhq5"
+    },
+    {
+      "added_at": "2024-07-09 07:51:22",
+      "album": {
         "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
-        "name": "Trust in Me (Piano by Cho Youngsoo)",
-        "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Trust in Me (Piano by Cho Youngsoo)",
-      "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
-    },
-    {
-      "added_at": "2024-07-09 07:51:22",
-      "album": {
         "name": "FRR",
         "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
-        "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
-        "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
+        "name": "Trust in Me (Piano by Cho Youngsoo)",
+        "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
       },
       "artists": [
         {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 213800,
-      "name": "28k LOVE!!",
-      "url": "https://open.spotify.com/track/1udqJr6D9UDqW7gsLAUhq5"
+      "duration_ms": 241413,
+      "name": "Trust in Me (Piano by Cho Youngsoo)",
+      "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
     },
     {
       "added_at": "2024-07-09 07:51:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-09 07:51:22",
       "album": {
-        "name": "Sea&U&I",
-        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
-      },
-      "artists": [
-        {
-          "name": "polar",
-          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Sea&U&I",
-      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
-    },
-    {
-      "added_at": "2024-07-09 07:51:22",
-      "album": {
         "name": "I LUV U (with MIRANI)",
         "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 235197,
       "name": "I LUV U (with MIRANI)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
+    },
+    {
+      "added_at": "2024-07-09 07:51:22",
+      "album": {
+        "name": "Sea&U&I",
+        "url": "https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W"
+      },
+      "artists": [
+        {
+          "name": "polar",
+          "url": "https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Sea&U&I",
+      "url": "https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9"
     },
     {
       "added_at": "2024-07-09 07:51:22",

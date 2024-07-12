@@ -1,6 +1,6 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 350248,
+  "num_followers": 350260,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
+        "name": "Facing A Task Unfinished",
+        "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 315986,
+      "name": "He Will Hold Me Fast",
+      "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
         "name": "Sabbath",
         "url": "https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 212133,
       "name": "Sabbath",
       "url": "https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "Facing A Task Unfinished",
-        "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "He Will Hold Me Fast",
-      "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Onward & Upward",
-        "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 290831,
-      "name": "Digital Death",
-      "url": "https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
+        "name": "Onward & Upward",
+        "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 290831,
+      "name": "Digital Death",
+      "url": "https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -555,6 +555,26 @@
       "duration_ms": 194102,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Be My Shalom",
+        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "Be My Shalom",
+      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -591,26 +611,6 @@
       "duration_ms": 247000,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "Be My Shalom",
-        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "Be My Shalom",
-      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Way Maker (Acoustic)",
-        "url": "https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 253378,
-      "name": "Way Maker - Acoustic",
-      "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "You Are My Salvation",
         "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
+        "name": "Way Maker (Acoustic)",
+        "url": "https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 253378,
+      "name": "Way Maker - Acoustic",
+      "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
         "name": "Known, Seen, Loved (LIVE from the Quarry)",
         "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
       },
@@ -867,6 +867,38 @@
       "duration_ms": 187264,
       "name": "Known, Seen, Loved (LIVE from the Quarry)",
       "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "With My Lips",
+        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "With My Lips",
+      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Heaven's Eyes",
+        "url": "https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Heaven's Eyes",
+      "url": "https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -891,34 +923,18 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Heaven's Eyes",
-        "url": "https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt"
+        "name": "Help Is on the Way",
+        "url": "https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV"
       },
       "artists": [
         {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 273426,
-      "name": "Heaven's Eyes",
-      "url": "https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "With My Lips",
-        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "With My Lips",
-      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
+      "duration_ms": 220454,
+      "name": "Help Is on the Way",
+      "url": "https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -959,22 +975,6 @@
       "duration_ms": 263089,
       "name": "Harbor",
       "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "Help Is on the Way",
-        "url": "https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 220454,
-      "name": "Help Is on the Way",
-      "url": "https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 303141,
-      "name": "Midnight - Radio Version",
-      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
       },
@@ -1167,18 +1151,34 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
       },
       "artists": [
         {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+      "duration_ms": 303141,
+      "name": "Midnight - Radio Version",
+      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Selah - EP",
+        "url": "https://open.spotify.com/album/47jnz1CVIPk3gq1BhdVlIA"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 284401,
+      "name": "The Wreck",
+      "url": "https://open.spotify.com/track/5nVSProqTU4RYONccBvte5"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1199,18 +1199,34 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Selah - EP",
-        "url": "https://open.spotify.com/album/47jnz1CVIPk3gq1BhdVlIA"
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
       "artists": [
         {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
         }
       ],
-      "duration_ms": 284401,
-      "name": "The Wreck",
-      "url": "https://open.spotify.com/track/5nVSProqTU4RYONccBvte5"
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+      },
+      "artists": [
+        {
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+        "name": "Psalm 16",
+        "url": "https://open.spotify.com/album/3d9KcEGWRjeffR65JxSB6t"
       },
       "artists": [
         {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+          "name": "Megan Brown",
+          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
         }
       ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
+      "duration_ms": 269498,
+      "name": "Psalm 16",
+      "url": "https://open.spotify.com/track/1rgIhsWQQ6JUWHQDiVlHPG"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1283,22 +1299,6 @@
       "duration_ms": 214554,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "Psalm 16",
-        "url": "https://open.spotify.com/album/3d9KcEGWRjeffR65JxSB6t"
-      },
-      "artists": [
-        {
-          "name": "Megan Brown",
-          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
-        }
-      ],
-      "duration_ms": 269498,
-      "name": "Psalm 16",
-      "url": "https://open.spotify.com/track/1rgIhsWQQ6JUWHQDiVlHPG"
     },
     {
       "added_at": "2024-06-23 02:52:54",

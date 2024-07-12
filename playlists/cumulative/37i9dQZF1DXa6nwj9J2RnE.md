@@ -2,9 +2,9 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: Sef & Abel
+> edgy en met karakter\. cover: Sandor Dayala
 
-145 songs - 7 hr 51 min
+148 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Als Je Me Loslaat](https://open.spotify.com/track/1Tml6FZEX7iOYZAn6Qc3Wl) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Als Je Me Loslaat](https://open.spotify.com/album/19zvB5ueqojjM90lILpZ9M) | 2:50 | 2023-02-23 | 2024-05-10 |
 | [Als Water](https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 2:34 | 2024-03-07 | 2024-06-14 |
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2023-02-23 | 2023-06-09 |
-| [Barst](https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Barst](https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT) | 4:11 | 2024-03-28 |  |
+| [Barst](https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Barst](https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT) | 4:11 | 2024-03-28 | 2024-07-12 |
 | [Bee Suits](https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB) | [LIJO](https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC) | [Bee Suits](https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ) | 3:51 | 2023-03-31 | 2024-05-10 |
+| [Begrijpen](https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Begrijpen](https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd) | 3:16 | 2024-07-11 |  |
 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 | 2023-02-23 | 2023-08-25 |
 | [Bloed In Mijn Bloed](https://open.spotify.com/track/5UuvuYtxL6z5h5g02XTcs3) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Bloed In Mijn Bloed](https://open.spotify.com/album/6imc4krabQCDfV7AcOvoth) | 3:58 | 2023-05-05 | 2024-05-10 |
 | [Blokke Gepikt](https://open.spotify.com/track/59B2swrX8DdCl0zDXrHXu9) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:29 | 2024-06-25 |  |
@@ -35,8 +36,9 @@
 | [De Constructie](https://open.spotify.com/track/3g017qh4UEXI197SLGOTHH) | [Manu](https://open.spotify.com/artist/4dJKsG8SJJ6f8Ov5eKp41r), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [De Herontdekking van de Hemel](https://open.spotify.com/album/172ilQwAfgCFlnRLgFw21K) | 3:29 | 2024-06-13 |  |
 | [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 | 2023-02-23 | 2023-11-02 |
 | [De Leven](https://open.spotify.com/track/1RA3cTcU9xGnT5GNi6y7dO) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/2d0wssa9SabKowuZXc0gKn) | 4:04 | 2023-02-23 | 2023-09-01 |
-| [De Leven](https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf) | 2:41 | 2023-11-07 |  |
+| [De Leven](https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf) | 2:41 | 2023-11-07 | 2024-07-12 |
 | [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 | 2023-02-23 | 2023-05-06 |
+| [Een Vak Apart](https://open.spotify.com/track/0HYQ5ecpzJjrF7ikjH86My) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Narco X Styn, Vol\. 1](https://open.spotify.com/album/4gI8wrYyoWCFbUBwkYbJ1l) | 1:43 | 2024-07-11 |  |
 | [ENERGIE](https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN), [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [ENERGIE](https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl) | 4:01 | 2023-09-29 |  |
 | [eventjes verliefd](https://open.spotify.com/track/795QtrTw8oPj6A3r37VRLk) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd) | [Maankind](https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm) | 2:28 | 2024-04-25 |  |
 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 | 2023-04-27 | 2024-06-14 |
@@ -94,7 +96,7 @@
 | [Our Time Is Here](https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq) | [XILLAN](https://open.spotify.com/artist/4NTqnS8zPIpfzdNBcqK8Ly) | [Crowning Gods](https://open.spotify.com/album/3kC8B6AG2U2xrKNJYfj7f5) | 3:25 | 2023-02-23 | 2023-09-30 |
 | [OUT LOUD](https://open.spotify.com/track/7BMOCSHP4JqzgRa4Dukf2W) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [UTTERLY MISTAKEN](https://open.spotify.com/album/0IkT1RbrxEQLDv59ySR6ca) | 2:25 | 2023-10-12 |  |
 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 | 2024-02-16 |
-| [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-22 |  |
+| [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-22 | 2024-07-12 |
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 | 2024-03-08 |
 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 | 2024-06-21 |  |
 | [round and round](https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [round and round](https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c) | 3:22 | 2024-03-28 |  |
@@ -148,6 +150,7 @@
 | [wolken](https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [mensenkind](https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM) | 2:24 | 2023-10-12 |  |
 | [Woman Life Freedom](https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Woman Life Freedom](https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF) | 4:12 | 2023-02-23 | 2023-11-08 |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-03-16 | 2024-06-26 |
+| [Young Boys](https://open.spotify.com/track/2Z6xysTOfIExe2jyIVkvu0) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Twintig](https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU) | 2:46 | 2024-07-11 |  |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2023-02-23 | 2023-04-28 |
 | [Zondagskind](https://open.spotify.com/track/5hWgdvdXXvq6l9ezrFeI8F) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:45 | 2023-02-23 | 2023-04-01 |
 | [Zonder](https://open.spotify.com/track/4ZMYnbAOkyOIhfuA0hHHq0) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Zonder](https://open.spotify.com/album/1yPgri8VVGPHaHoI8Mc18h) | 3:25 | 2023-04-27 | 2024-06-14 |

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:JeongSaebyeok\(정새벽\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:IMSEMO\(임세모\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-511 songs - 1 day 6 hr 27 min
+512 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,8 +472,9 @@
 | [With me 오늘이 지나면](https://open.spotify.com/track/12NNRxfewZV8ey2qxQv9pa) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Dingo X BRANDNEW MUSIC](https://open.spotify.com/album/5LTNMxhEkangYCNUldlQI9) | 4:01 | 2021-12-10 | 2022-07-29 |
 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 | 2022-01-13 |  |
 | [Words of Wisdom](https://open.spotify.com/track/1s2FOsNIZNM6u3scHunCyT) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Words of Wisdom](https://open.spotify.com/album/6ZeWlNzAQfkaaQDK5VK0L7) | 5:06 | 2022-05-02 | 2022-06-08 |
-| [yellow flower](https://open.spotify.com/track/4zgtv325Jmhf4ZWhChaPfu) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [yellow flower](https://open.spotify.com/album/2mfAhk6glwWiONPKoIL1zW) | 3:01 | 2024-06-27 |  |
+| [yellow flower](https://open.spotify.com/track/4zgtv325Jmhf4ZWhChaPfu) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [yellow flower](https://open.spotify.com/album/2mfAhk6glwWiONPKoIL1zW) | 3:01 | 2024-06-27 | 2024-07-12 |
 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 | 2021-12-10 | 2024-05-09 |
+| [You are](https://open.spotify.com/track/05dg8ZW2BZYJEPlUJYogXU) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [You are](https://open.spotify.com/album/6Y7YRK2kyPKybM9Ue1RrHI) | 2:53 | 2024-07-11 |  |
 | [You Back Then \(feat\. Jayeong Seo\)](https://open.spotify.com/track/4XDZgn5CyKMLzwMPQcEXzy) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [Jayeong Seo](https://open.spotify.com/artist/5VfkNtwpuckyczvncQElcB) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:00 | 2022-03-31 | 2022-04-21 |
 | [You Don't Know How I Wanna Hold You](https://open.spotify.com/track/27VyASzAp0CWCVSlrJO5Pq) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Boong\-](https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc) | 3:37 | 2022-03-31 | 2022-04-18 |
 | [You have done well](https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A) | [이정민](https://open.spotify.com/artist/7jgBLUmhwwTsywCJfcztkC) | [You have done well](https://open.spotify.com/album/12HCGXiulJ1v7cJz5hcXUA) | 3:05 | 2023-01-14 | 2023-01-26 |

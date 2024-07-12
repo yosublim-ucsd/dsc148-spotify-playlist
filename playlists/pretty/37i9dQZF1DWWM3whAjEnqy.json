@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43416,
+  "num_followers": 43417,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Waves (Acoustic)",
+        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 248176,
+      "name": "Waves - Acoustic",
+      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Waves (Acoustic)",
-        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 248176,
-      "name": "Waves - Acoustic",
-      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Perennial",
         "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 305120,
       "name": "Mended",
       "url": "https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 228587,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Recordings Of The Middle East",
         "url": "https://open.spotify.com/album/0s8tM3NW7sgDmP6B3Cn6I6"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+        "name": "California",
+        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
       },
       "artists": [
         {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
         }
       ],
-      "duration_ms": 223040,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
+      "duration_ms": 228587,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Vantage Point",
         "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Palo Alto",
-        "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
-      },
-      "artists": [
-        {
-          "name": "Jack River",
-          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
-        }
-      ],
-      "duration_ms": 199584,
-      "name": "Palo Alto",
-      "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 203250,
       "name": "These Days",
       "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Palo Alto",
+        "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
+      },
+      "artists": [
+        {
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        }
+      ],
+      "duration_ms": 199584,
+      "name": "Palo Alto",
+      "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Blue Sky Blue",
-        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "After Hours, Close To Dawn",
         "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 202000,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Blue Sky Blue",
+        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
     },
     {
       "added_at": "2023-11-15 02:04:48",

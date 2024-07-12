@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: MNNK Bro\. \(Takashi Murakami & JP THE WAVY\)
 
-870 songs - 1 day 20 hr 51 min
+872 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [City Flag](https://open.spotify.com/track/03MAIrxY1r3THbcKj0Mfvy) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [City Flag](https://open.spotify.com/album/1iXvP0VFfGGH1VbFNtmRFS) | 2:05 | 2024-05-15 | 2024-07-03 |
 | [City of Dreams](https://open.spotify.com/track/267d40lCGIJAZAax0dyNlT) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [City of Dreams](https://open.spotify.com/album/0yrmb9XElDSEAGjC6cxQcL) | 2:54 | 2024-04-02 | 2024-04-19 |
 | [City of Dreams](https://open.spotify.com/track/6XzzEK2IOp8uRpdFvYLtk7) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [City of Dreams](https://open.spotify.com/album/4VdDCndn5OJvBt5DVNO0kw) | 2:54 | 2024-04-02 |  |
+| [City of Dreams \- Remix](https://open.spotify.com/track/1jLOzPEfQ4HEF4DFJJ7qvC) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [$MOKE OG](https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [City of Dreams \(Remix\)](https://open.spotify.com/album/30x3oQ1y1eVcdBx6lOJMlx) | 2:54 | 2024-07-11 |  |
 | [Cloud](https://open.spotify.com/track/4DjUTo5NhS4MgsSZMc8MCr) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo) | [Cloud](https://open.spotify.com/album/2zpTmknuqqywtD3n2MxQzr) | 3:44 | 2023-12-13 | 2024-02-21 |
 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 | 2024-01-30 | 2024-06-05 |
 | [Cold Life](https://open.spotify.com/track/2dr8YOQ4qVdwe7quKIhSph) | [Eric.B.Jr](https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [EASTSIDEBABY](https://open.spotify.com/album/78aZZPnT74tVsYwP9kMMvs) | 3:34 | 2024-07-10 |  |
@@ -509,6 +510,7 @@
 | [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 | 2024-01-12 | 2024-02-13 |
 | [NOROSHI](https://open.spotify.com/track/4eDcDZXIcdidReeWrrcVer) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 3:32 | 2024-02-12 | 2024-04-19 |
 | [nukemichi](https://open.spotify.com/track/6eZjtJJb3zMzPV4LDdtO8a) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [SMITH\-CN](https://open.spotify.com/artist/6VLEPLY41MCqeb7lojdEVR), [shootz](https://open.spotify.com/artist/2wXc4SbZCvWVOgRRyRTrRw) | [CHOUJI&CN pt.2](https://open.spotify.com/album/7bCauv9IwyZJKouse93Y0c) | 2:28 | 2024-02-28 | 2024-03-13 |
+| [OASIS](https://open.spotify.com/track/4ifCRZPUTBnCrU2r2shKk2) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [OASIS](https://open.spotify.com/album/2cWObaaFMcUI3xDVmViVB9) | 2:14 | 2024-07-11 |  |
 | [Oboresounahodo](https://open.spotify.com/track/0cYopjWQjMk4CXCuBFDv4A) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW), [Billy Laurent](https://open.spotify.com/artist/64ysMi7mJ9cs9f0fhpDJuM), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Oboresounahodo](https://open.spotify.com/album/4sRDMulpWKhmUd0B5YgI6w) | 3:09 | 2023-12-20 | 2023-12-27 |
 | [Ocean](https://open.spotify.com/track/1UITSxN96W4yMS9c4EXzrq) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Ocean / Only You](https://open.spotify.com/album/7lZtcGMM2GVpUutGTvTYIc) | 3:46 | 2024-01-23 | 2024-04-24 |
 | [Ocean](https://open.spotify.com/track/5YsWlhntxtCQssejNhhGVi) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Ocean / Only You](https://open.spotify.com/album/0Qe4JAYJjWfXuQd3OnhhbK) | 3:46 | 2024-01-24 | 2024-04-19 |

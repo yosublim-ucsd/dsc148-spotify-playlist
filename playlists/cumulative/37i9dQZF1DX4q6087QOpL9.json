@@ -3125,6 +3125,28 @@
     },
     {
       "album": {
+        "name": "It's Alright (Felix Dickinson Remix)",
+        "url": "https://open.spotify.com/album/5TQkvWjd14kFdZMYJ15GJx"
+      },
+      "artists": [
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+        },
+        {
+          "name": "Felix Dickinson",
+          "url": "https://open.spotify.com/artist/2GofebLNzSdGLYaz3U1NZu"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544146,
+      "name": "It's Alright (Felix Dickinson Remix)",
+      "url": "https://open.spotify.com/track/2VhsxUaKEWxM7rD1ZaB3gB"
+    },
+    {
+      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
@@ -5570,7 +5592,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 502764,
       "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Extended Remix",
       "url": "https://open.spotify.com/track/3FveN91PgDsWiyVg0wZ4TN"

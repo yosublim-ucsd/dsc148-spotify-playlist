@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > umuulan nanaman?
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,690 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,704 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 8 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 9 | [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 |
 | 10 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
-| 11 | [WE ALWAYS KNEW](https://open.spotify.com/track/4rF1g157m2RG9N7NNrZJSo) | [TOFU \(TH\)](https://open.spotify.com/artist/3KlU9aJDoNkCSOdCmgX2GT) | [WE ALWAYS KNEW](https://open.spotify.com/album/5kwWI5Q3PWFOLf6uVhwBKL) | 5:01 |
+| 11 | [WE ALWAYS KNEW](https://open.spotify.com/track/4rF1g157m2RG9N7NNrZJSo) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9) | [WE ALWAYS KNEW](https://open.spotify.com/album/5kwWI5Q3PWFOLf6uVhwBKL) | 5:01 |
 | 12 | [Bugambilya](https://open.spotify.com/track/5V1UJ03fQBUIdmFUy9CKVR) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Somber](https://open.spotify.com/album/3NnuuyP11cyqfqH4nOXuEH) | 4:35 |
 | 13 | [Kausapin Mo Naman](https://open.spotify.com/track/0LSC8TvQcO3kafrUkSruNY) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Kausapin Mo Naman](https://open.spotify.com/album/0487bPsY8hI6kr4Icmt3Sj) | 4:04 |
 | 14 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,670 songs - 3 day 19 hr 28 min
+1,671 songs - 3 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Ai Coração](https://open.spotify.com/track/25l25dLwkUGmvWx8N9gE8g) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Ai Coração](https://open.spotify.com/album/4dEIT8yEBY152fcLo67fVY) | 2:54 | 2023-05-15 | 2023-05-20 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-09 | 2021-08-30 |
 | [Akmuo](https://open.spotify.com/track/1oRnqEgjFPgezATqJvvbfa) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 2:49 | 2024-03-22 | 2024-04-07 |
+| [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-11 |  |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2021-12-28 | 2022-03-16 |
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-11-30 | 2021-12-29 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-30 | 2022-08-01 |
@@ -1539,7 +1540,7 @@
 | [Vandens Ženklai \- Late Pal Remix](https://open.spotify.com/track/2nyeHzzLN8a2vT65zavwNF) | [Hiperbolė](https://open.spotify.com/artist/3ZFyBdeq0XQ2qeUZ2TGJX7), [Late Pal](https://open.spotify.com/artist/64DEapgmv6F3XOthfkkavF) | [Vandens Ženklai \(Late Pal Remix\)](https://open.spotify.com/album/4ZXdmUPjLsdtWrDJsWh2dm) | 2:03 | 2021-08-23 | 2022-01-04 |
 | [Vandenyne](https://open.spotify.com/track/6ylbOdO015EjqIdmVcbe0X) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [SOS](https://open.spotify.com/album/3fHD08f0WSSeAkpPwbUwju) | 3:20 | 2021-05-09 | 2021-05-10 |
 | [Vasara](https://open.spotify.com/track/72IfyOLWPQMu0pPBkq7H5o) | [Jazzu](https://open.spotify.com/artist/1wFdWxzcJOmD61tZBVk0lu) | [Vasara](https://open.spotify.com/album/2ZprTkXHWWXFiZtgf6sf5N) | 4:11 | 2021-07-04 | 2021-08-31 |
-| [Vasaros Mergaitės](https://open.spotify.com/track/27xc4u7iFXOvSuwOHRGrn8) | [Natalija Bunke](https://open.spotify.com/artist/7JnMOQerkDxyg5jSGjhD9Q), [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Vasaros Mergaitės](https://open.spotify.com/album/4VRbyLzIKCToj1ltDEbOMG) | 2:47 | 2024-06-21 |  |
+| [Vasaros Mergaitės](https://open.spotify.com/track/27xc4u7iFXOvSuwOHRGrn8) | [Natalija Bunke](https://open.spotify.com/artist/7JnMOQerkDxyg5jSGjhD9Q), [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Vasaros Mergaitės](https://open.spotify.com/album/4VRbyLzIKCToj1ltDEbOMG) | 2:47 | 2024-06-21 | 2024-07-12 |
 | [Vasarą galvoj minoras](https://open.spotify.com/track/1wGPGvj0moDoKMMVwFWFLj) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Vasarą galvoj minoras](https://open.spotify.com/album/1zv3ZtZNyjViwE7wRI9ajp) | 3:24 | 2021-08-10 | 2022-09-18 |
 | [Važiuoju Kur Širdis](https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa) | [GJan](https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy) | [Važiuoju Kur Širdis](https://open.spotify.com/album/5jUi7zJHx8ZWwQNgtEUJ2O) | 3:45 | 2023-05-03 | 2023-11-14 |
 | [Važiuoju Kur Širdis](https://open.spotify.com/track/56dRTtIRW7JYJajIWp4aTg) | [GJan](https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy) | [Verkiu Raudonų Vyšnių Sode](https://open.spotify.com/album/2Ww3sadhLaKl4fscYZiQmE) | 3:45 | 2024-01-21 | 2024-01-30 |

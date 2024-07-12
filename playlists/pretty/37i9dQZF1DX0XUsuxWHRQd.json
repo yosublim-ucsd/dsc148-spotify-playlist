@@ -1,12 +1,12 @@
 {
   "description": "New music from Eminem, GloRilla and newcomer Cash Cobain.",
-  "num_followers": 15976288,
+  "num_followers": 15977354,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zod5bgAAAADTOV5GgcM7l20Br7pdGdGD",
+  "snapshot_id": "Zo9YwAAAAABhprsBeldtFHxXbQRJN101",
   "tracks": [
     {
       "added_at": "2024-07-05 04:41:18",
@@ -175,6 +175,22 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-07-11 04:00:00",
+      "album": {
+        "name": "It Takes a Thief",
+        "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        }
+      ],
+      "duration_ms": 334440,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
     },
     {
       "added_at": "2024-07-05 04:41:18",

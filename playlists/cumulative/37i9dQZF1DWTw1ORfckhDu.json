@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Averagekidluke, KERZA ja william.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa SHRTY.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184000,
       "name": "Aika J\u00e4tt\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6Y3OtijfBvbWSNU90apBTn"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 187857,
       "name": "Anarkiaa (feat. MELO)",
       "url": "https://open.spotify.com/track/34GbnrLuIiMJ9snwFZ310Q"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 199713,
       "name": "IAMLEGEND (feat. Kriso)",
       "url": "https://open.spotify.com/track/0XbnyF4BIum4vFHPLAbrOi"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 138965,
       "name": "Kaikki mun kaverit",
       "url": "https://open.spotify.com/track/7bqrkNjtpGJslg62RISG56"
@@ -4884,6 +4884,24 @@
       "duration_ms": 178924,
       "name": "Kokonaan sun",
       "url": "https://open.spotify.com/track/6LCQb46zSJWbcfniC8GRx1"
+    },
+    {
+      "album": {
+        "name": "Kokonainen",
+        "url": "https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159024,
+      "name": "Kokonainen",
+      "url": "https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN"
     },
     {
       "album": {
@@ -5748,6 +5766,24 @@
       "duration_ms": 192687,
       "name": "Liian kivaa",
       "url": "https://open.spotify.com/track/7JhpyMSlc7HyTABLEhPdH8"
+    },
+    {
+      "album": {
+        "name": "Liian l\u00e4hel aurinkoo",
+        "url": "https://open.spotify.com/album/2bLwEBPZKGkZyM0mAZZa7m"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159901,
+      "name": "Liian l\u00e4hel aurinkoo",
+      "url": "https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1"
     },
     {
       "album": {
@@ -7039,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/5Dd1MHK8gsN6XJx1d9djQB"
+      },
+      "artists": [
+        {
+          "name": "DON KJ",
+          "url": "https://open.spotify.com/artist/519EsXmqMIma59ErI9icYK"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199241,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/6GXqIaJEE0dOV2ULa9ybDK"
+    },
+    {
+      "album": {
         "name": "Moneyman",
         "url": "https://open.spotify.com/album/0JWbvbbeSoZgSOXvWs3ZFZ"
       },
@@ -7326,6 +7380,24 @@
       "duration_ms": 202773,
       "name": "M\u00c4 EN VOI H\u00c4VII",
       "url": "https://open.spotify.com/track/5fB4hLoPMGRtGbVAzDHQWi"
+    },
+    {
+      "album": {
+        "name": "M\u00e4 ja s\u00e4",
+        "url": "https://open.spotify.com/album/4PtxU2feS3XlCuHzfj0Eeu"
+      },
+      "artists": [
+        {
+          "name": "Coozii & Zeno",
+          "url": "https://open.spotify.com/artist/0qk9pt8n5hIwcgTIFVtaFa"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178196,
+      "name": "M\u00e4 ja s\u00e4",
+      "url": "https://open.spotify.com/track/3vSkV4Bi80zYeTLM0mCkFR"
     },
     {
       "album": {
@@ -10254,7 +10326,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 150000,
       "name": "Syd\u00e4n kaipaa Hesuliin",
       "url": "https://open.spotify.com/track/7hVgfkKkFB0KMi173SGZ2O"
@@ -10510,6 +10582,24 @@
       "duration_ms": 206583,
       "name": "Taivaan kannel",
       "url": "https://open.spotify.com/track/0vcebaHvQUvGmWeooHZvo3"
+    },
+    {
+      "album": {
+        "name": "Vieraslaji",
+        "url": "https://open.spotify.com/album/65DJRI5MPflz0NdKFaFhEU"
+      },
+      "artists": [
+        {
+          "name": "Huge L",
+          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Takaisin Pasilaan",
+      "url": "https://open.spotify.com/track/37Sre4CH0fqK4N7BsuvSPi"
     },
     {
       "album": {
@@ -11607,6 +11697,28 @@
     },
     {
       "album": {
+        "name": "Vaarallinen Nainen",
+        "url": "https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155338,
+      "name": "Vaarallinen Nainen",
+      "url": "https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93"
+    },
+    {
+      "album": {
         "name": "OLIPA KERRAN",
         "url": "https://open.spotify.com/album/0dRhX7witstdBf06bioo8E"
       },
@@ -11752,7 +11864,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 166791,
       "name": "Vapaa",
       "url": "https://open.spotify.com/track/7qZHZuyTKHkPTpHssgGS34"
@@ -12233,6 +12345,24 @@
     },
     {
       "album": {
+        "name": "V\u00e4ritetyt sadut",
+        "url": "https://open.spotify.com/album/1CH5si7MTIG1ntQwhGjKqg"
+      },
+      "artists": [
+        {
+          "name": "N.E.O",
+          "url": "https://open.spotify.com/artist/2W16iqdU9pi3KACiNNZEH4"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146145,
+      "name": "V\u00e4ritetyt sadut",
+      "url": "https://open.spotify.com/track/3TJmSCYOOZjKvWngXA2EWB"
+    },
+    {
+      "album": {
         "name": "V\u00e4\u00e4r\u00e4ss\u00e4",
         "url": "https://open.spotify.com/album/2oVv0BEObK6mAwKq1UftuX"
       },
@@ -12348,7 +12478,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 171487,
       "name": "WHITEBOY",
       "url": "https://open.spotify.com/track/1Pr2Fzp0UO1h7NrgCbCHGx"

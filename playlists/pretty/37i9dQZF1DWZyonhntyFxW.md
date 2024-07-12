@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > اجمد اغاني السين\. غلاف: مهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,740 likes - 41 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,884 likes - 41 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 14 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 |
 | 15 | [Mashy 3almaya](https://open.spotify.com/track/3pvFAPBiDUQPX5vxjZu4f9) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [El Sadaat](https://open.spotify.com/artist/2w5WXQsG6LL3W5VV3Cdb5T) | [Mashy 3almaya](https://open.spotify.com/album/5RCZizYMvmyhcY75A8c32C) | 3:25 |
 | 16 | [3ereft Eimtek](https://open.spotify.com/track/6dXIXxMazGdBaCEFcvgCA1) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [3ereft Eimtek](https://open.spotify.com/album/6JT4VHNlL5aZQgOvRcePif) | 2:15 |
-| 17 | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [R3 \| رع](https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4), [Tayeb Santo](https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD) | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl) | 3:50 |
+| 17 | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [R3](https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4), [Tayeb Santo](https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD) | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl) | 3:50 |
 | 18 | [Taw3ya](https://open.spotify.com/track/6wMQp7F7B09atuwvrqR9gC) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 3:28 |
 | 19 | [Matghebsh](https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5) | [Ramez Naguib](https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Yemken](https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri) | 2:27 |
 | 20 | [سكة](https://open.spotify.com/track/3LFoLm13Aped0za3Qx8PAO) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [سكة](https://open.spotify.com/album/5EHEsSOcBExuVkeMKayq45) | 3:14 |

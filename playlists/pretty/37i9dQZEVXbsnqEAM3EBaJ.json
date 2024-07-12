@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACQSJ/wNnM6pwV4po2pShex",
+  "snapshot_id": "AAAAAAAAAABHnASVDGAO+bhCRw20ye5R",
   "tracks": [
     {
       "added_at": "2024-07-05 04:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
-        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Keep Pushin' - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Papercuts: Instrumentals",
         "url": "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H"
       },
@@ -147,22 +131,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
+        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
         }
       ],
-      "duration_ms": 216253,
-      "name": "Sandpaper (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
+      "duration_ms": 223546,
+      "name": "Keep Pushin' - Live, Hamburg, 1979",
+      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -195,6 +175,26 @@
       "duration_ms": 216268,
       "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
       "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "Sandpaper (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Black Bear Don't Care (Gothminister Remix)",
-        "url": "https://open.spotify.com/album/1ywke8AocVQU2LYdj250BX"
-      },
-      "artists": [
-        {
-          "name": "Oddko",
-          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
-        },
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Black Bear Don't Care (Gothminister Remix)",
-      "url": "https://open.spotify.com/track/2O4TJS6lXOv3WHDBxhLIHf"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Linger (Iain Cook Remix)",
         "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
       },
@@ -387,6 +367,26 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Black Bear Don't Care (Gothminister Remix)",
+        "url": "https://open.spotify.com/album/1ywke8AocVQU2LYdj250BX"
+      },
+      "artists": [
+        {
+          "name": "Oddko",
+          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
+        },
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Black Bear Don't Care (Gothminister Remix)",
+      "url": "https://open.spotify.com/track/2O4TJS6lXOv3WHDBxhLIHf"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
         "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 163330,
       "name": "Buddy Holly - Spotify Anniversaries Version - Live",
       "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Higher (Live At Freeman Coliseum / 1999)",
-        "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 364894,
-      "name": "Higher - Live At Freeman Coliseum / 1999",
-      "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -455,18 +439,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Aisumasen (I\u2019m Sorry) [Ultimate Mix]",
-        "url": "https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY"
+        "name": "Higher (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
         }
       ],
-      "duration_ms": 279784,
-      "name": "Aisumasen (I'm Sorry) - Ultimate Mix",
-      "url": "https://open.spotify.com/track/4LJsW2Db80OBypNtD79n7k"
+      "duration_ms": 364894,
+      "name": "Higher - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -483,6 +467,42 @@
       "duration_ms": 195555,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Aisumasen (I\u2019m Sorry) [Ultimate Mix]",
+        "url": "https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 279784,
+      "name": "Aisumasen (I'm Sorry) - Ultimate Mix",
+      "url": "https://open.spotify.com/track/4LJsW2Db80OBypNtD79n7k"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Undefeated Eyes",
+        "url": "https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 266429,
+      "name": "Undefeated Eyes",
+      "url": "https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -527,26 +547,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Undefeated Eyes",
-        "url": "https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 266429,
-      "name": "Undefeated Eyes",
-      "url": "https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
         "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
       },
@@ -583,6 +583,26 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Early Daze",
+        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez, Evelyn Cornejo, Coco Leon & El Pacha)",
         "url": "https://open.spotify.com/album/6xWukFtWuufu0IvGSwXOST"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 256417,
       "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez, Evelyn Cornejo, Coco Leon & El Pacha)",
       "url": "https://open.spotify.com/track/4c0KDHLLWVZgtlJLdt2ZDr"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Early Daze",
-        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 151578,
-      "name": "freak on a leash - lofi",
-      "url": "https://open.spotify.com/track/68Y09eztj5gaGcY6jJBdpV"
+      "duration_ms": 120000,
+      "name": "blind - lofi",
+      "url": "https://open.spotify.com/track/0nOAqwyTeddVOUC9KZBb8I"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 202120,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": "2024-07-05 04:00:00",

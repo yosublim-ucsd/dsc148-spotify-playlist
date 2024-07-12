@@ -22393,6 +22393,24 @@
     },
     {
       "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/3W5W4mg6IpU5bKjNUNMwR1"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60304,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/3szhwBNbmqkMh15oDzA0Rk"
+    },
+    {
+      "album": {
         "name": "Modern Piano Lullabies, Vol. 2",
         "url": "https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp"
       },
@@ -23780,6 +23798,24 @@
       "duration_ms": 64191,
       "name": "Seeking The Horizon",
       "url": "https://open.spotify.com/track/0qa0TY4jVYKimB2562Fdus"
+    },
+    {
+      "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/1eOjNPYspaxIL1XRdtJXRx"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60294,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/3JvzgrRFai8mYkl53iBp6J"
     },
     {
       "album": {
@@ -29746,6 +29782,24 @@
       "duration_ms": 61415,
       "name": "Violin Sunset",
       "url": "https://open.spotify.com/track/3OKDKntyeYm1JMdoD4nr0m"
+    },
+    {
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/6czOu86mPtL4YLmMa8Iam4"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60227,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/0RkZ9nFrEmGBwbfeYNxFgz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-186 songs - 8 hr 19 min
+187 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 |  |
 | [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 | 2023-01-12 |  |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2023-01-12 | 2023-04-14 |
-| [Frontside](https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Frontside](https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK) | 2:40 | 2024-06-14 |  |
+| [Frontside](https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Frontside](https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK) | 2:40 | 2024-06-14 | 2024-07-12 |
 | [frozen biome](https://open.spotify.com/track/1vFxL80Q1etX9noPv9rGmO) | [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [frozen biome](https://open.spotify.com/album/7rbqTTCd4uzPS2UpjMI5r3) | 2:00 | 2024-06-07 | 2024-06-15 |
 | [Full Wet's](https://open.spotify.com/track/5ZwZXIPPrM8tglWmUHq60a) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Full Wet's](https://open.spotify.com/album/59q8662jceuRnzPeEgxhbs) | 2:20 | 2023-04-13 | 2023-06-02 |
 | [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2023-01-12 | 2024-06-08 |
@@ -107,6 +107,7 @@
 | [Marijus](https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC) | [Colin Jubilee](https://open.spotify.com/artist/0DNgrGKyrlJRgQm1AF7oZ8) | [Marijus](https://open.spotify.com/album/4fZ55qsRlCk4cZK06WUmNh) | 2:46 | 2023-09-29 |  |
 | [Melting Away](https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Melting Away](https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ) | 3:06 | 2023-04-20 |  |
 | [Merits](https://open.spotify.com/track/2BVSKW7MV2zVhew0GcbW9G) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7) | [Merits](https://open.spotify.com/album/6PAaMZ7PcRN3LtLg1F7ifY) | 1:43 | 2023-01-12 | 2023-05-02 |
+| [Millia](https://open.spotify.com/track/0sUNV4asStRuzKZt00srik) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Millia](https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x) | 2:20 | 2024-06-28 |  |
 | [Modified Strat Mode](https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Modified Strat Mode](https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG) | 1:57 | 2023-04-20 | 2023-08-19 |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 | 2023-11-26 |  |

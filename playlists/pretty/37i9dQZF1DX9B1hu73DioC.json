@@ -1,6 +1,6 @@
 {
   "description": "Vibey indie tracks for park hangs, summer get togethers, or self care. ",
-  "num_followers": 834748,
+  "num_followers": 834892,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,18 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Hard Times / Bad Trips",
-        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
       },
       "artists": [
         {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        },
-        {
-          "name": "Lucys",
-          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 128000,
-      "name": "I hope that you think of me",
-      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -119,18 +115,22 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Coastal Grooves",
-        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
+        "name": "Hard Times / Bad Trips",
+        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        },
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
         }
       ],
-      "duration_ms": 292373,
-      "name": "Champagne Coast",
-      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
+      "duration_ms": 128000,
+      "name": "I hope that you think of me",
+      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Prep-School Gangsters",
-      "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 233360,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
+      "duration_ms": 228546,
+      "name": "Prep-School Gangsters",
+      "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 203516,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "butterfly (so free)",
-        "url": "https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO"
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
       "artists": [
         {
-          "name": "daste.",
-          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 186061,
-      "name": "butterfly (so free)",
-      "url": "https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba"
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
+        "name": "butterfly (so free)",
+        "url": "https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO"
+      },
+      "artists": [
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 186061,
+      "name": "butterfly (so free)",
+      "url": "https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
         "name": "Method Actor",
         "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 231708,
       "name": "Method Actor",
       "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
         "name": "NEVER AGAIN",
         "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
         "name": "Oas",
         "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/1iM2E9fPRRzADkK1EitFWr"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/3cQJowYPZdx2mpmVhrRk2e"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iM2E9fPRRzADkK1EitFWr"
       },
       "artists": [
         {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 236106,
-      "name": "Forget Me Not",
-      "url": "https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll"
+      "duration_ms": 226306,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/3cQJowYPZdx2mpmVhrRk2e"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1199,6 +1183,22 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 236106,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
+        "name": "There\u2019s no Other",
+        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 155801,
+      "name": "There\u2019s no Other",
+      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
         "name": "With Balance",
         "url": "https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "There\u2019s no Other",
-        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+        "name": "To Your Own Devices",
+        "url": "https://open.spotify.com/album/0zm80nUu0uXDNmVsiRfutJ"
       },
       "artists": [
         {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 155801,
-      "name": "There\u2019s no Other",
-      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+      "duration_ms": 201632,
+      "name": "To Your Own Devices",
+      "url": "https://open.spotify.com/track/7F7tkvQTutq9Hkx4XibCj3"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1291,22 +1307,6 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1375,6 +1375,38 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
         "name": "there is one place we're all going",
         "url": "https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq"
       },
@@ -1395,22 +1427,6 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
         "name": "Mika's Laundry",
         "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "To Your Own Devices",
-        "url": "https://open.spotify.com/album/0zm80nUu0uXDNmVsiRfutJ"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 201632,
-      "name": "To Your Own Devices",
-      "url": "https://open.spotify.com/track/7F7tkvQTutq9Hkx4XibCj3"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
         "name": "on the pisces moon",
         "url": "https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU"
       },
@@ -1455,6 +1455,26 @@
       "duration_ms": 166021,
       "name": "on the pisces moon",
       "url": "https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
+        "name": "It Gets Better",
+        "url": "https://open.spotify.com/album/2xJtRIh8Tmjfz8YjHyP8aX"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        },
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "It Gets Better",
+      "url": "https://open.spotify.com/track/38UXvQmxp5HxbhBNaHiC8D"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1499,22 +1519,18 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "It Gets Better",
-        "url": "https://open.spotify.com/album/2xJtRIh8Tmjfz8YjHyP8aX"
+        "name": "Sing Spaceship, Sing!",
+        "url": "https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        },
-        {
-          "name": "Husbands",
-          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+          "name": "Moon Panda",
+          "url": "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
         }
       ],
-      "duration_ms": 258000,
-      "name": "It Gets Better",
-      "url": "https://open.spotify.com/track/38UXvQmxp5HxbhBNaHiC8D"
+      "duration_ms": 208407,
+      "name": "SummerBrain",
+      "url": "https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "Sing Spaceship, Sing!",
-        "url": "https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv"
-      },
-      "artists": [
-        {
-          "name": "Moon Panda",
-          "url": "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
-        }
-      ],
-      "duration_ms": 208407,
-      "name": "SummerBrain",
-      "url": "https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
         "name": "It Could Be Me",
         "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 127458,
       "name": "It Could Be Me",
       "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
-    },
-    {
-      "added_at": "2024-07-05 16:45:34",
-      "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/47GRGVpoDs4prZR1dGTOa4"
-      },
-      "artists": [
-        {
-          "name": "Kidsnot$aints.",
-          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL"
     },
     {
       "added_at": "2024-07-05 16:45:34",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 185245,
+      "name": "Someone I Could Love",
+      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
+    },
+    {
+      "added_at": "2024-07-05 16:45:34",
+      "album": {
         "name": "Coyote, You're My Star",
         "url": "https://open.spotify.com/album/61wuHnPthO5vApg52y9n30"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-05 16:45:34",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/47GRGVpoDs4prZR1dGTOa4"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Kidsnot$aints.",
+          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
         }
       ],
-      "duration_ms": 185245,
-      "name": "Someone I Could Love",
-      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
+      "duration_ms": 158000,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL"
     },
     {
       "added_at": "2024-07-05 16:45:34",

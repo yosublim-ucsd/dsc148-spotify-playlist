@@ -1,6 +1,6 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 205894,
+  "num_followers": 205887,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Tarjeta De Navidad, VOL. II",
         "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
       },
@@ -655,22 +639,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Laura Xmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Patrick Williams Orchestra",
-          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 181146,
-      "name": "Va a nevar (with the Patrick Williams Orchestra)",
-      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -687,6 +667,26 @@
       "duration_ms": 221302,
       "name": "Noche de Paz",
       "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Laura Xmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Patrick Williams Orchestra",
+          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
+        }
+      ],
+      "duration_ms": 181146,
+      "name": "Va a nevar (with the Patrick Williams Orchestra)",
+      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Feliz Christmas (Vol. 1)",
-        "url": "https://open.spotify.com/album/04P0Tmoq7JlFW5vQIw6T3E"
+        "name": "Eterna Navidad (US Version)",
+        "url": "https://open.spotify.com/album/78v5jMZria78NZVsostS4t"
       },
       "artists": [
         {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 202520,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/41Ogug754mzHgkMjbTpzuF"
+      "duration_ms": 143386,
+      "name": "Campanas De Plata",
+      "url": "https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj"
     }
   ],
   "unique_name": "Latin Christmas Classics",

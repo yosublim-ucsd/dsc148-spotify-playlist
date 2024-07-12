@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Smino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,322,813 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322,953 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 85 | [GOOD NUMBERS](https://open.spotify.com/track/3qHQZV3MDfoyM6BFCht5dE) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [GOOD NUMBERS](https://open.spotify.com/album/2Z9vG7X29iudJL17wlX3fi) | 3:50 |
 | 86 | [F\*\*k The Rap Game](https://open.spotify.com/track/5qZ6ni14zTVPlnuQ2iSeLE) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [F\*\*k The Rap Game](https://open.spotify.com/album/5MUIJ1AGDtARYt2sYcTtYC) | 4:10 |
 | 87 | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL) | 3:09 |
-| 88 | [Heart](https://open.spotify.com/track/2uQlc9vQdNs4w9741xyigq) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [You Are Here, Start.](https://open.spotify.com/album/46bbTFklJdJ1VfoVN5w7LK) | 3:18 |
+| 88 | [Heart](https://open.spotify.com/track/2uQlc9vQdNs4w9741xyigq) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Moody Bank$](https://open.spotify.com/artist/3Bkgi0sMvqUR03r6ZGHmGM) | [You Are Here, Start.](https://open.spotify.com/album/46bbTFklJdJ1VfoVN5w7LK) | 3:18 |
 | 89 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq) | 3:33 |
 | 90 | [Everybody Can’t Go \(with Kyle Banks\)](https://open.spotify.com/track/0aJa0ipSM7jaUVy6H3Yg7L) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 2:24 |
 | 91 | [GURBS & YOUNGS \(feat\. Larry June\)](https://open.spotify.com/track/5BDDt3tVIa9W5kiJmJZ2Ww) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [GURBS & YOUNGS \(feat\. Larry June\)](https://open.spotify.com/album/6LgepmFqbY8ZRQxIyocLol) | 3:28 |

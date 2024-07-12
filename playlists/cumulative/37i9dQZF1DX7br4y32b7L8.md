@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-516 songs - 1 day 2 hr 15 min
+518 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Gek Doen \(Annemijn\)](https://open.spotify.com/track/2dUuayEzxpegdZx2zdrJTF) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Gek Doen \(Annemijn\)](https://open.spotify.com/album/4beFwZAnElEtwVYVZEe9rX) | 2:00 | 2024-04-10 |  |
 | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/track/0SznGXywmezP2t8hI9NDkw) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/album/3U0ck9Ps7JzuRPN6eNFeNC) | 2:41 | 2023-07-30 | 2023-12-15 |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2023-02-23 | 2023-03-04 |
+| [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-11 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-16 | 2023-06-27 |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2023-03-24 | 2024-03-19 |
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-04-05 | 2023-05-02 |
@@ -491,7 +492,7 @@
 | [Vatos Locos](https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL) | 2:43 | 2023-05-10 | 2023-06-22 |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-18 |  |
 | [Verliefd Op Je Moeder](https://open.spotify.com/track/7i23TTo8rtoPiEDeMzn7Af) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Joelito Cortes](https://open.spotify.com/artist/7dFAnqjYvsqYLixFroWPYw) | [Verliefd Op Je Moeder](https://open.spotify.com/album/18cFTTLVDDjtgWDVqJ3oPd) | 3:21 | 2024-03-16 | 2024-04-09 |
-| [Viva Hollandia \- Oranje Versie](https://open.spotify.com/track/04rYjvkkgtZk4i6D6TOVnY) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Viva Hollandia](https://open.spotify.com/album/4YltuZhK8fLiEs22ysMVI4) | 2:52 | 2024-07-10 |  |
+| [Viva Hollandia \- Oranje Versie](https://open.spotify.com/track/04rYjvkkgtZk4i6D6TOVnY) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Viva Hollandia](https://open.spotify.com/album/4YltuZhK8fLiEs22ysMVI4) | 2:52 | 2024-07-10 | 2024-07-12 |
 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2023-08-11 | 2023-12-15 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-07 | 2024-03-22 |
 | [Volg Je Niet](https://open.spotify.com/track/4gfHKRWnz0TJUNodIOv1tw) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VIER](https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy) | 3:14 | 2023-07-04 | 2023-09-07 |
@@ -499,6 +500,7 @@
 | [Vraagtekens](https://open.spotify.com/track/1HMV4HV1r7icaylIaadle6) | [Vxlious](https://open.spotify.com/artist/0Bzf7UfWcqZ7ATMQ1Mx6sf) | [Vraagtekens](https://open.spotify.com/album/5LiHaTVav0xAbZRAWUwqGH) | 2:07 | 2023-09-06 | 2023-10-03 |
 | [Vreemde Eend](https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj) | [Lisanne Dijkstra](https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk) | [Vreemde Eend](https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm) | 2:28 | 2023-07-04 | 2023-11-01 |
 | [Wagwan](https://open.spotify.com/track/13sO1jcA6RxBPYC79dYGxg) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kater Karma](https://open.spotify.com/artist/4uoA55AcDfXP6BqttlThF2) | [Wagwan](https://open.spotify.com/album/5irEqy9aZI4PRKOwMvNKPQ) | 2:54 | 2024-04-04 | 2024-05-24 |
+| [Wat Een Droom Kan Doen](https://open.spotify.com/track/79AxAgyA3ahLtiZIAm9lV9) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wat Een Droom Kan Doen](https://open.spotify.com/album/1LvAqwKxsCvF7FQ0IsiI4h) | 1:34 | 2024-07-11 |  |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-07 | 2023-05-10 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 | 2023-03-10 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-03-03 | 2023-04-19 |

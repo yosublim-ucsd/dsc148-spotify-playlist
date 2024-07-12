@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 615423,
+  "num_followers": 615824,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-09 16:31:34",
       "album": {
-        "name": "\u904b\u547d",
-        "url": "https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e"
-      },
-      "artists": [
-        {
-          "name": "sumika",
-          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "\u904b\u547d",
-      "url": "https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq"
-    },
-    {
-      "added_at": "2024-07-09 16:31:34",
-      "album": {
         "name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
         "url": "https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 223613,
       "name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
       "url": "https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7"
+    },
+    {
+      "added_at": "2024-07-09 16:31:34",
+      "album": {
+        "name": "\u904b\u547d",
+        "url": "https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "\u904b\u547d",
+      "url": "https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq"
     },
     {
       "added_at": "2024-07-09 16:31:34",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-09 16:31:34",
       "album": {
-        "name": "\u88f8\u306e\u52c7\u8005",
-        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "\u88f8\u306e\u52c7\u8005",
-      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
-    },
-    {
-      "added_at": "2024-07-09 16:31:34",
-      "album": {
         "name": "\u6253\u4e0a\u82b1\u706b",
         "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-07-09 16:31:34",
       "album": {
-        "name": "Shouted Serenade",
-        "url": "https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB"
+        "name": "\u88f8\u306e\u52c7\u8005",
+        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
       },
       "artists": [
         {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 233240,
-      "name": "Shouted Serenade",
-      "url": "https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov"
+      "duration_ms": 201973,
+      "name": "\u88f8\u306e\u52c7\u8005",
+      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
     },
     {
       "added_at": "2024-07-09 16:31:34",
@@ -1075,6 +1059,22 @@
       "duration_ms": 231066,
       "name": "spiral",
       "url": "https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE"
+    },
+    {
+      "added_at": "2024-07-09 16:31:34",
+      "album": {
+        "name": "Shouted Serenade",
+        "url": "https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Shouted Serenade",
+      "url": "https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov"
     },
     {
       "added_at": "2024-07-09 16:31:34",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-09 16:31:34",
       "album": {
-        "name": "TM NETWORK THE SINGLES 1",
-        "url": "https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0"
-      },
-      "artists": [
-        {
-          "name": "TM NETWORK",
-          "url": "https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Get Wild",
-      "url": "https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb"
-    },
-    {
-      "added_at": "2024-07-09 16:31:34",
-      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 191146,
       "name": "\u6c38\u9060\u306b\u5149\u308c (Everlasting Shine)",
       "url": "https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut"
+    },
+    {
+      "added_at": "2024-07-09 16:31:34",
+      "album": {
+        "name": "TM NETWORK THE SINGLES 1",
+        "url": "https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0"
+      },
+      "artists": [
+        {
+          "name": "TM NETWORK",
+          "url": "https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Get Wild",
+      "url": "https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb"
     },
     {
       "added_at": "2024-07-09 16:31:34",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-09 16:31:34",
       "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 231385,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
+    },
+    {
+      "added_at": "2024-07-09 16:31:34",
+      "album": {
         "name": "FREEDOM",
         "url": "https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41"
       },
@@ -1539,6 +1555,54 @@
       "duration_ms": 318320,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu"
+    },
+    {
+      "added_at": "2024-07-09 16:31:34",
+      "album": {
+        "name": "give it back",
+        "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
+      },
+      "artists": [
+        {
+          "name": "C\u00f6 shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "give it back",
+      "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
+    },
+    {
+      "added_at": "2024-07-09 16:31:34",
+      "album": {
+        "name": "ROAD OF MAJOR II",
+        "url": "https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh"
+      },
+      "artists": [
+        {
+          "name": "Road Of Major",
+          "url": "https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ"
+        }
+      ],
+      "duration_ms": 261833,
+      "name": "\u5fc3\u7d75",
+      "url": "https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM"
+    },
+    {
+      "added_at": "2024-07-09 16:31:34",
+      "album": {
+        "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
+        "url": "https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u3086\u306a",
+          "url": "https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC"
+        }
+      ],
+      "duration_ms": 197881,
+      "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
+      "url": "https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8"
     },
     {
       "added_at": "2024-07-09 16:31:34",
@@ -1563,22 +1627,6 @@
     {
       "added_at": "2024-07-09 16:31:34",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 231385,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
-    },
-    {
-      "added_at": "2024-07-09 16:31:34",
-      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
@@ -1591,54 +1639,6 @@
       "duration_ms": 272036,
       "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
       "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
-    },
-    {
-      "added_at": "2024-07-09 16:31:34",
-      "album": {
-        "name": "ROAD OF MAJOR II",
-        "url": "https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh"
-      },
-      "artists": [
-        {
-          "name": "Road Of Major",
-          "url": "https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ"
-        }
-      ],
-      "duration_ms": 261833,
-      "name": "\u5fc3\u7d75",
-      "url": "https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM"
-    },
-    {
-      "added_at": "2024-07-09 16:31:34",
-      "album": {
-        "name": "give it back",
-        "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
-      },
-      "artists": [
-        {
-          "name": "C\u00f6 shu Nie",
-          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "give it back",
-      "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
-    },
-    {
-      "added_at": "2024-07-09 16:31:34",
-      "album": {
-        "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
-        "url": "https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS"
-      },
-      "artists": [
-        {
-          "name": "\u307f\u3086\u306a",
-          "url": "https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC"
-        }
-      ],
-      "duration_ms": 197881,
-      "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
-      "url": "https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8"
     },
     {
       "added_at": "2024-07-09 16:31:34",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-07-09 16:31:34",
       "album": {
-        "name": "\u7a81\u7834\u53e3 / \u81ea\u6162\u306b\u306a\u308a\u305f\u3044",
-        "url": "https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB"
+        "name": "\u660e\u3051\u661f",
+        "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 255080,
-      "name": "\u7a81\u7834\u53e3",
-      "url": "https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT"
+      "duration_ms": 269000,
+      "name": "\u660e\u3051\u661f",
+      "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
     }
   ],
   "unique_name": "Anime On Replay",

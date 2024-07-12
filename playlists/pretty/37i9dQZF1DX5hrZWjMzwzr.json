@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10365,
+  "num_followers": 10364,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "N\u00d3\u017b",
+        "url": "https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr"
+      },
+      "artists": [
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        },
+        {
+          "name": "LEEO",
+          "url": "https://open.spotify.com/artist/5bjlaptdRxdTCicOIX7k2P"
+        }
+      ],
+      "duration_ms": 153939,
+      "name": "N\u00d3\u017b",
+      "url": "https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Mam Ci\u0119",
         "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 141500,
       "name": "Mam Ci\u0119",
       "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "N\u00d3\u017b",
-        "url": "https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr"
-      },
-      "artists": [
-        {
-          "name": "Qry",
-          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
-        },
-        {
-          "name": "LEEO",
-          "url": "https://open.spotify.com/artist/5bjlaptdRxdTCicOIX7k2P"
-        }
-      ],
-      "duration_ms": 153939,
-      "name": "N\u00d3\u017b",
-      "url": "https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Start",
-        "url": "https://open.spotify.com/album/76Qeh82FyrDRuFfqXMIflr"
-      },
-      "artists": [
-        {
-          "name": "K\u0119K\u0119",
-          "url": "https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Start",
-      "url": "https://open.spotify.com/track/6KDupfSJDH75bwFnkVYn6O"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "ZAZA",
         "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 228000,
       "name": "nigdy wi\u0119cej 2022",
       "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Start",
+        "url": "https://open.spotify.com/album/76Qeh82FyrDRuFfqXMIflr"
+      },
+      "artists": [
+        {
+          "name": "K\u0119K\u0119",
+          "url": "https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Start",
+      "url": "https://open.spotify.com/track/6KDupfSJDH75bwFnkVYn6O"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -995,6 +995,42 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Czarny \u015al\u0105sk",
+        "url": "https://open.spotify.com/album/5v2v9p4n6Z1MuGS11wTwfy"
+      },
+      "artists": [
+        {
+          "name": "Kaliber 44",
+          "url": "https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx"
+        },
+        {
+          "name": "Grubson",
+          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
+        },
+        {
+          "name": "Fokus",
+          "url": "https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck"
+        },
+        {
+          "name": "Rahim",
+          "url": "https://open.spotify.com/artist/0sKdZaAhTTobH1I6OHB2tY"
+        },
+        {
+          "name": "Abradab",
+          "url": "https://open.spotify.com/artist/0wip5D37aCfjuD39Pmbp1q"
+        },
+        {
+          "name": "DJ Eprom",
+          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
+        }
+      ],
+      "duration_ms": 278636,
+      "name": "Czarny \u015al\u0105sk",
+      "url": "https://open.spotify.com/track/0YYvmuW2qBIetZ907QPw35"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "ZERO SNU",
         "url": "https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG"
       },
@@ -1031,42 +1067,6 @@
       "duration_ms": 195555,
       "name": "ZERO SNU",
       "url": "https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Czarny \u015al\u0105sk",
-        "url": "https://open.spotify.com/album/5v2v9p4n6Z1MuGS11wTwfy"
-      },
-      "artists": [
-        {
-          "name": "Kaliber 44",
-          "url": "https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx"
-        },
-        {
-          "name": "Grubson",
-          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
-        },
-        {
-          "name": "Fokus",
-          "url": "https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck"
-        },
-        {
-          "name": "Rahim",
-          "url": "https://open.spotify.com/artist/0sKdZaAhTTobH1I6OHB2tY"
-        },
-        {
-          "name": "Abradab",
-          "url": "https://open.spotify.com/artist/0wip5D37aCfjuD39Pmbp1q"
-        },
-        {
-          "name": "DJ Eprom",
-          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
-        }
-      ],
-      "duration_ms": 278636,
-      "name": "Czarny \u015al\u0105sk",
-      "url": "https://open.spotify.com/track/0YYvmuW2qBIetZ907QPw35"
     },
     {
       "added_at": "2024-02-27 08:21:33",

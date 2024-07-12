@@ -1023,36 +1023,6 @@
     },
     {
       "album": {
-        "name": "Piano Trio No. 3 in C Minor, Op. 1, No. 3/II. Andante cantabile con variazioni",
-        "url": "https://open.spotify.com/album/68q3yTkL4BARSPZDzaOkSa"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Emanuel Ax",
-          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
-        },
-        {
-          "name": "Leonidas Kavakos",
-          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
-        }
-      ],
-      "date_added": "2022-09-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 458586,
-      "name": "II. Andante cantabile con variazioni",
-      "url": "https://open.spotify.com/track/0F2Htrs5xXvQaid44GLIHq"
-    },
-    {
-      "album": {
         "name": "Beethoven: Mass in C Major & Other Sacred Works",
         "url": "https://open.spotify.com/album/1T4l9QydDgPMCmyS5oNCcv"
       },
@@ -2116,6 +2086,36 @@
       "duration_ms": 265640,
       "name": "Piano Sonata No. 8 In C Minor, Op. 13 -\"Path\u00e9tique\": 3. Rondo (Allegro) - Live",
       "url": "https://open.spotify.com/track/4Cfc0OGMViDPGspOK3zogx"
+    },
+    {
+      "album": {
+        "name": "Piano Trio No. 3 in C Minor, Op. 1, No. 3/II. Andante cantabile con variazioni",
+        "url": "https://open.spotify.com/album/68q3yTkL4BARSPZDzaOkSa"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458586,
+      "name": "Piano Trio No. 3 in C Minor, Op. 1, No. 3: II. Andante cantabile con variazioni",
+      "url": "https://open.spotify.com/track/0F2Htrs5xXvQaid44GLIHq"
     },
     {
       "album": {

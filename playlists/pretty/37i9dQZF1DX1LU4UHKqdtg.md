@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: BOYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,228 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,297 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 64 | [Super Lady](https://open.spotify.com/track/105qee9D4ARiRZPZDvGDoH) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0AxwDje2klNIOVKvMTtwdZ) | 2:32 |
 | 65 | [Like A Dream](https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Lovely Runner, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5fqhw5RIuAu14Na1ld2FFC) | 4:09 |
 | 66 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
-| 67 | [I AM U](https://open.spotify.com/track/4UiISrmqduta1AzsX6b2Ob) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [I AM U](https://open.spotify.com/album/0jAHtkDLtzFKq62JBlA4Hv) | 3:27 |
+| 67 | [I AM U](https://open.spotify.com/track/4UiISrmqduta1AzsX6b2Ob) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [I AM U](https://open.spotify.com/album/0jAHtkDLtzFKq62JBlA4Hv) | 3:27 |
 | 68 | [SWEAT](https://open.spotify.com/track/4ZctVsBwqHcq5sHW9FMDiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/1xAi69VFSIh8aoY0qFaWxE) | 3:11 |
 | 69 | [Pitter\-Patter\-Love \- JAPANESE ver.](https://open.spotify.com/track/07JfEFdoUWjTHh8CLWfF6J) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [MAKE A FANTASY](https://open.spotify.com/album/5prBWkcBTTD6cRukF1xZsB) | 3:21 |
 | 70 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 |

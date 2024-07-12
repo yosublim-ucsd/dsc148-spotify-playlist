@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=KUZp91ddT0KaVJ2rY5I_Vg>Moses Bliss</a>",
+  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=4xD-kH0vQt2t8vcRGj963A>Theresa Phondo</a>",
   "name": "Be Lifted ",
   "tracks": [
     {
@@ -7007,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "Theresa Phondo",
+        "url": "https://open.spotify.com/album/2UMRplzblsIzW07Mr9SIX6"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/3EdKqTX7D0vZ8hzz2cCj73"
+    },
+    {
+      "album": {
         "name": "Yahweh Be Praised",
         "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
       },
@@ -7152,7 +7170,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154000,
       "name": "Yewo",
       "url": "https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE"

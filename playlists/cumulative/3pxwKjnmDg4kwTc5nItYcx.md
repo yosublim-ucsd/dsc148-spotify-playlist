@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-789 songs - 1 day 18 hr 22 min
+790 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/track/06SCbxyjwwX6hj9eMLsYHi) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/album/2uHzfyr7PQmAMZ9bmpxmxE) | 3:51 | 2021-03-06 |  |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2019-11-25 | 2021-05-12 |
 | [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 | 2022-09-27 |  |
+| [In The End](https://open.spotify.com/track/4yRyjnMFwqltWzsYew0eRL) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [In The End](https://open.spotify.com/album/0sQVaFnxg1emo37Zee9jTK) | 3:37 | 2024-07-11 |  |
 | [In The Window Frame](https://open.spotify.com/track/35Jj1GwanVp2Hd092JQ67X) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [In The Window Frame](https://open.spotify.com/album/3GuI0z31Fex80Uut5XLmTJ) | 3:26 | 2020-05-15 | 2021-05-12 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-12-08 |  |
 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 | 2023-11-10 |  |

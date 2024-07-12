@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,985 songs - 3 day 3 hr 38 min
+1,986 songs - 3 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [amber lights](https://open.spotify.com/track/4xbJ6k1wNNLtw9ZvAdgApZ) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [amber lights](https://open.spotify.com/album/4AVJJggB3lvbTxNCBQVTng) | 2:00 | 2024-06-07 |  |
 | [american midsummer](https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [american midsummer](https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd) | 2:48 | 2023-08-17 |  |
 | [Amsterdam](https://open.spotify.com/track/5mH8y8JKcR4EFnjE0gptQv) | [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Amsterdam](https://open.spotify.com/album/3SPkCiHZqB0ULe0aU133vd) | 1:39 | 2022-07-08 | 2022-12-03 |
-| [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2022-10-28 |  |
+| [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2022-10-28 | 2024-07-12 |
 | [amuse or lose](https://open.spotify.com/track/1NL0EdraCNLtTkpNIqi5te) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [amuse or lose](https://open.spotify.com/album/6yrLul2c3ENpLe2vawKVPk) | 2:00 | 2022-10-28 | 2023-04-21 |
 | [And That Was It](https://open.spotify.com/track/3p3OPAGKwZVDX9wq6fRiQl) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [A Time for Dinosaurs](https://open.spotify.com/album/7uhhF93AA2bkzVxkmMK1cQ) | 3:00 | 2023-04-20 |  |
 | [And the guitar plays on](https://open.spotify.com/track/5Vs3zHvwNJn03ZN5Qg7NBE) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [Baker's Dozen](https://open.spotify.com/album/5oKbjKVE9c4SRo9Ny0lKf6) | 2:35 | 2022-04-15 | 2022-10-01 |
@@ -821,6 +821,7 @@
 | [Icecoffee Season](https://open.spotify.com/track/5TeLSirV20P8TpjjCvDpfd) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Icecoffee Season](https://open.spotify.com/album/2SIQj1Mn0RROzHSCQaH17b) | 1:59 | 2022-07-15 | 2023-10-06 |
 | [Iced Out](https://open.spotify.com/track/6N8OGfRHG6gqfpq1BULhzg) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Iced Out](https://open.spotify.com/album/6EujA0zskGp3NsefxPmOX9) | 2:03 | 2024-03-22 | 2024-06-14 |
 | [Idyllic](https://open.spotify.com/track/5AveowMyJKst81mznnDn3q) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Idyllic](https://open.spotify.com/album/64uSGFrQ3szLAWUBe4KfyR) | 1:58 | 2023-03-20 | 2024-02-09 |
+| [If So](https://open.spotify.com/track/5aUtGFhNUeNjX5piVkJera) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [If So](https://open.spotify.com/album/1H3MVoueBdHkp05j6chiXv) | 1:48 | 2024-07-05 |  |
 | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN) | 2:42 | 2023-04-03 | 2023-10-20 |
 | [Imagination](https://open.spotify.com/track/4Iep4ODqp0YyxZq95DFGHB) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Imagination](https://open.spotify.com/album/0wbZQsx17Lg2TCUjDAubdl) | 2:35 | 2022-08-19 | 2022-12-24 |
 | [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2023-08-17 | 2024-02-02 |
@@ -983,7 +984,7 @@
 | [Lofi Love Letters](https://open.spotify.com/track/789uQasgZdah7LSojyotDI) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Lofi Love Letters](https://open.spotify.com/album/2CAnay3Wx9e0o1yrqthFDj) | 2:03 | 2024-01-19 | 2024-04-20 |
 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 | 2022-11-11 |  |
 | [London Calling](https://open.spotify.com/track/3Rma06ObNiWcTwDlClo1mB) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [London Calling](https://open.spotify.com/album/4gBDKJ2HdnUqybh3Haqs8m) | 1:34 | 2022-12-16 | 2023-09-16 |
-| [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-06-06 | 2024-07-08 |
+| [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-06-06 |  |
 | [Lonely Boy](https://open.spotify.com/track/7uUHvMv1aCOYWbt2YYCZEJ) | [Hektoor](https://open.spotify.com/artist/3a9L5KQZtwvdJp8rECooRC) | [Lonely Boy](https://open.spotify.com/album/29Tx5FY3iqxgSTK54JwTcS) | 2:36 | 2022-04-15 | 2022-09-02 |
 | [lonely paradise](https://open.spotify.com/track/4PayKAGYOAQY0IgD4Lj7Gd) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [lonely paradise](https://open.spotify.com/album/0TZzs1RY8tom6nAG4TLhNV) | 2:47 | 2024-02-02 |  |
 | [Lonely Ride](https://open.spotify.com/track/1Eye203Jrl7hqNh3Fp0W7B) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Lonely Ride](https://open.spotify.com/album/53Jt4oMPoYd1o68Ptaicfl) | 2:15 | 2022-11-18 | 2023-02-07 |
@@ -1758,7 +1759,7 @@
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2022-04-15 | 2022-06-10 |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 |  |
 | [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2022-11-25 |  |
-| [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-07-13 |  |
+| [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-07-13 | 2024-07-12 |
 | [The sea that forgot the past](https://open.spotify.com/track/1mViogHkkvCrautHVmmkAI) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [edgarddd](https://open.spotify.com/artist/5hhz5oUTkVnBxC3YpYm5Ve) | [Exit](https://open.spotify.com/album/6qgtK04UoX18RtSLnKHz5D) | 1:37 | 2022-04-15 | 2022-11-12 |
 | [The Smokeroom Band](https://open.spotify.com/track/21Wl7gBjfJuhNHe66c3LOu) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 3:27 | 2022-04-15 | 2022-06-25 |
 | [The Spy Hunter](https://open.spotify.com/track/1AMBXDrCOcfzXIKaJF23yx) | [Pensive Strider](https://open.spotify.com/artist/32v1SzCcOazNtxUl8CQQyB) | [Life Finds A Way](https://open.spotify.com/album/2c6XwUzMBg6jbkxrLl9cQi) | 2:53 | 2022-04-15 | 2022-06-25 |

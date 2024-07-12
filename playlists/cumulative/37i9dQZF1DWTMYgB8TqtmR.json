@@ -4225,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Fantasi \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5iTMZDsFx6oB07qzN7di2N"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177583,
+      "name": "Fantasi \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/3jGkygcJraGPQ47TOH0wMw"
+    },
+    {
+      "album": {
         "name": "Farv\u00e4l",
         "url": "https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ"
       },

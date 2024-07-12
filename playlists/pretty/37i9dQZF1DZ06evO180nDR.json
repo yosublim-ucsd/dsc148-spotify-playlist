@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 28925,
+  "num_followers": 28968,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAACsAlXJbfE5FwdsfcO2Q95a",
+  "snapshot_id": "Zo3PAAAAAAAwUG8JLNdoswhI1JhP0ZvF",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue Un Placer",
         "url": "https://open.spotify.com/album/39dU0zdn3mhDzE8O3mhzqZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 267151,
       "name": "Fue Un Placer",
       "url": "https://open.spotify.com/track/1xbJgNrATP9zyCKiM3o6NW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Equipo del Terror",
-        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
-      },
-      "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 204313,
-      "name": "El Equipo del Terror",
-      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre Guerrera",
         "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 246026,
       "name": "Sangre Guerrera",
       "url": "https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Equipo del Terror",
+        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 204313,
+      "name": "El Equipo del Terror",
+      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
     },
     {
       "added_at": null,

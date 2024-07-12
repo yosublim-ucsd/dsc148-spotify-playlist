@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Nostalgix",
-  "num_followers": 445497,
+  "num_followers": 445530,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dhunga",
-        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Toxic Rob",
-          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Dhunga",
-      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Hood To The Hills",
         "url": "https://open.spotify.com/album/3Py45dN2PGVXuEUdniiOhX"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 196938,
       "name": "Hood To The Hills",
       "url": "https://open.spotify.com/track/6Kipu6y1dNwNrP3dvlw7Q9"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Intoxicated",
@@ -1531,6 +1547,26 @@
       "duration_ms": 196190,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
+      },
+      "artists": [
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 123241,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1573,42 +1609,6 @@
       "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
-      },
-      "artists": [
-        {
-          "name": "Luxo",
-          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
-        },
-        {
-          "name": "PINEO & LOEB",
-          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
-        }
-      ],
-      "duration_ms": 161428,
-      "name": "Chrome",
-      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "BAD",
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
       },
       "artists": [
         {
-          "name": "Ashton Adams",
-          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+          "name": "Luxo",
+          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
         },
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "PINEO & LOEB",
+          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
         }
       ],
-      "duration_ms": 123241,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
+      "duration_ms": 161428,
+      "name": "Chrome",
+      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Goons",
-        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Goons",
-      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 242437,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1799,6 +1799,34 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Mobbing",
+        "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Big Tone",
+          "url": "https://open.spotify.com/artist/6tsUXFsa7L3tIMCjzOEEdP"
+        },
+        {
+          "name": "A-Wax",
+          "url": "https://open.spotify.com/artist/4uUpfGMXZlncCRFtvUzh3O"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mobbing",
+      "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Cheeky Little Club Banger",
         "url": "https://open.spotify.com/album/3eBUIVfTVE2KjM8nRSbRuk"
       },
@@ -1851,34 +1879,6 @@
       "duration_ms": 139077,
       "name": "Underground Bass",
       "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Mobbing",
-        "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Big Tone",
-          "url": "https://open.spotify.com/artist/6tsUXFsa7L3tIMCjzOEEdP"
-        },
-        {
-          "name": "A-Wax",
-          "url": "https://open.spotify.com/artist/4uUpfGMXZlncCRFtvUzh3O"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Mobbing",
-      "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Let's Rock",
         "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
       },
@@ -1995,38 +2011,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "HABANERO",
-        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "HABANERO",
-      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -2051,22 +2035,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Drinks & Pills",
-        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
       },
       "artists": [
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "GOTT",
-          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Drinks & Pills",
-      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
+      "duration_ms": 155624,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2087,50 +2067,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dancing With My Boyz",
-        "url": "https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig"
+        "name": "Drinks & Pills",
+        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
       },
       "artists": [
         {
-          "name": "Avi Sic",
-          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "Dancing With My Boyz",
-      "url": "https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/41Fj5MCDZiuNpK6EqtK0mg"
-      },
-      "artists": [
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
         {
-          "name": "Myles O'Neal",
-          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
+          "name": "GOTT",
+          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
         }
       ],
-      "duration_ms": 146250,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "CASH",
-        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CASH",
-      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
+      "duration_ms": 180000,
+      "name": "Drinks & Pills",
+      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2151,6 +2103,38 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Dancing With My Boyz",
+        "url": "https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig"
+      },
+      "artists": [
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "Dancing With My Boyz",
+      "url": "https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/3HzScxQ9vXfj5eIoizsyY7"
       },
@@ -2163,26 +2147,6 @@
       "duration_ms": 128716,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Hit It Back",
-        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Hit It Back",
-      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2207,6 +2171,42 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/41Fj5MCDZiuNpK6EqtK0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Neal",
+          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "LIMIT",
         "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
@@ -2223,22 +2223,6 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Kiss Like This",
-        "url": "https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 143148,
-      "name": "Kiss Like This",
-      "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2263,6 +2247,22 @@
       "duration_ms": 135937,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Kiss Like This",
+        "url": "https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 143148,
+      "name": "Kiss Like This",
+      "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2315,6 +2315,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Veni, Vidi, Vici",
         "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
       },
@@ -2339,38 +2359,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
+        "name": "Gonna Get Back",
+        "url": "https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ"
       },
       "artists": [
         {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
         }
       ],
-      "duration_ms": 195268,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Up is Down",
-        "url": "https://open.spotify.com/album/6oEri5AEs70JB2Gf4IsALb"
-      },
-      "artists": [
-        {
-          "name": "Zingara",
-          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
-        }
-      ],
-      "duration_ms": 205975,
-      "name": "Up is Down",
-      "url": "https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ"
+      "duration_ms": 142857,
+      "name": "Gonna Get Back",
+      "url": "https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC"
     }
   ],
   "unique_name": "Nasty Bits",

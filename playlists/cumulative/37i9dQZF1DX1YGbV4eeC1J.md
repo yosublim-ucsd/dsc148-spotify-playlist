@@ -2,7 +2,7 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Mocco Genius
+> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Lava Lava
 
 211 songs - 12 hr 4 min
 
@@ -162,7 +162,7 @@
 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 | 2023-03-30 |  |
 | [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-02-22 |  |
 | [Number One \(feat\. Zuchu\)](https://open.spotify.com/track/3E3aGiIEpAtuVD0wPjDSsi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One \(feat\. Zuchu\)](https://open.spotify.com/album/3uSWtkSEGvuCeafCDL47eu) | 3:33 | 2024-03-14 | 2024-03-22 |
-| [Pambe Tu](https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Pambe Tu](https://open.spotify.com/album/3By27Rll9J132bK0qKxObI) | 4:00 | 2024-03-14 | 2024-03-22 |
+| [Pambe Tu](https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Pambe Tu](https://open.spotify.com/album/3By27Rll9J132bK0qKxObI) | 4:00 | 2024-03-14 |  |
 | [Peddi](https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 3:47 | 2022-05-26 | 2023-06-16 |
 | [Peke Yangu](https://open.spotify.com/track/6eJGx1fIVOrbz1l9C4udP2) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Peke Yangu Club Version](https://open.spotify.com/album/79UMH1TfPJ3chYKToIhpM7) | 2:53 | 2024-05-16 | 2024-06-28 |
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 | 2023-12-01 |

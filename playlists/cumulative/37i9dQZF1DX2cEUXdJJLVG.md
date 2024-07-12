@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-358 songs - 21 hr 20 min
+359 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-11-30 | 2024-04-19 |
 | [Lover/Friend](https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7) | 4:19 | 2024-05-24 |  |
 | [Loving Game](https://open.spotify.com/track/4WX5mpZqlMxAJifk8TzmKB) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Loving Game](https://open.spotify.com/album/5N1U9cCnhW8tH2h3vvQojQ) | 2:29 | 2023-02-02 |  |
-| [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 |  |
+| [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 | 2024-07-12 |
 | [Mama's House](https://open.spotify.com/track/0HRIdpyDnnLqX5Aqs1akD7) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Mama's House](https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9) | 3:23 | 2022-09-09 |  |
 | [Manifesting](https://open.spotify.com/track/2XdZMTKMHb3Je7Prcmxtps) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Manifesting](https://open.spotify.com/album/4ObW0M1vdnhLmFlwSTxu4P) | 2:48 | 2024-03-07 |  |
 | [Manifesto \(feat\. Jungle By Night\)](https://open.spotify.com/track/0a4dravjLsr8lygvwBHNoN) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 7:23 | 2023-05-25 |  |
@@ -291,6 +291,7 @@
 | [So I Lie](https://open.spotify.com/track/1erZEUKhZ03cHHD0vOr8aQ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Art Dealer Chic 4](https://open.spotify.com/album/0HjWJuW1StzouaOWndsxt9) | 3:57 | 2022-09-09 | 2023-07-08 |
 | [Softly \- Cuppy Remix](https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Softly \(Cuppy Remix\)](https://open.spotify.com/album/4QJjnkrmYwQ3YypwLENCUQ) | 2:31 | 2022-09-09 | 2024-02-02 |
 | [Someone Special](https://open.spotify.com/track/4idEjqHVBPG2y2nTukwUys) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Someone Special](https://open.spotify.com/album/4u3seoESGmhG7etMrgrdaL) | 3:18 | 2022-09-22 |  |
+| [Something New \(feat\. MAX RAD\)](https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Something New \(feat\. MAX RAD\)](https://open.spotify.com/album/3LfWQjsfzBbMrK1XsKvky4) | 2:50 | 2024-07-11 |  |
 | [Something New \- Kraak & Smaak Remix Edit](https://open.spotify.com/track/279sQU1hHoEwLleB1dTmS2) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Muhsinah](https://open.spotify.com/artist/2xMBRdUYQjgJezQ8lNGQq5), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Something New \(Kraak & Smaak Remixes\)](https://open.spotify.com/album/3IZIsNJS0sdV30Sp1Xj1YC) | 4:14 | 2023-02-23 |  |
 | [Soul Caliber \(Remix\)](https://open.spotify.com/track/455v0kWFW362VlD22VJFvz) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [h0wdy](https://open.spotify.com/artist/2Cub16XBwQ5vWVzVveNLH1), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [Soul Caliber \(Remix\)](https://open.spotify.com/album/6hEiPo9qf1SegYq6l6f3tF) | 3:44 | 2022-12-05 |  |
 | [Soul Liberator \- Kerem Akdağ Remix](https://open.spotify.com/track/3T0wb0HTqKGhEMdTCn3gUt) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Sanguita Akkrum](https://open.spotify.com/artist/2InEuUF9oBtn5E8IstCrIs), [Kerem Akdağ](https://open.spotify.com/artist/5DxrSUpHixL1t8os9E7xOz) | [Pleasure Centre Remixed](https://open.spotify.com/album/5ica5FqEeFkG3vOmhj8Ey7) | 3:08 | 2022-09-09 | 2022-09-16 |

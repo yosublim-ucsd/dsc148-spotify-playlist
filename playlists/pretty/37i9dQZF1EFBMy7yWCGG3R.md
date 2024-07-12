@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,367 likes - 242 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,372 likes - 241 songs - 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,12 +243,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 233 | [Who You Are](https://open.spotify.com/track/3xg7PX8PzLHzvejaShh2tt) | [Julia](https://open.spotify.com/artist/5invLjAbMjYAs5zAzPgvOD) | [Super Girl](https://open.spotify.com/album/1Cc0VhEOuzBebDytKToJmC) | 3:17 |
 | 234 | [Clean](https://open.spotify.com/track/5RJZVsJ1AtdlmUjO9ZJz0U) | [Container 90](https://open.spotify.com/artist/4MHWISvr8CHu0KwaZKUCuS) | [World ChampionShit](https://open.spotify.com/album/5pcxqalhjZjgdGQcff7hgH) | 4:27 |
 | 235 | [Don't Mind \- A.P\. Remix](https://open.spotify.com/track/6B919zI8u4Qw9HVa7J0oYS) | [Sopik](https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm), [A.P.](https://open.spotify.com/artist/2CDW0Jl4tv5lKunTPozN3k) | [Don't Mind \[Remixes\]](https://open.spotify.com/album/0Qu12kcCWN9M1rWy57ae6T) | 6:55 |
-| 236 | [Deep](https://open.spotify.com/track/2mRANoyiyjfoxIDtI9C9DQ) | [Parks](https://open.spotify.com/artist/2nRMldKyULLsRAeMI9ojM5) | [Snowblind](https://open.spotify.com/album/0zu8zQgbQf1PSeIrliOHe8) | 6:46 |
-| 237 | [how do we get back to love?](https://open.spotify.com/track/0ksqaOzbJ9G2Z3UoBQpT1m) | [FIELDS](https://open.spotify.com/artist/5BLQASl9i5xT1xsB40S1HO) | [how do we get back to love?](https://open.spotify.com/album/2MQwrv39ialAwb8SmXOHU2) | 3:19 |
-| 238 | [Follow Me](https://open.spotify.com/track/1yXfzJv2XPRkb0yO1mdEH7) | [James Eagle](https://open.spotify.com/artist/3wwS8vlx9xmeH9fRrVjAgc) | [Garden Music](https://open.spotify.com/album/2a8A9URycJ8IZZjOPUt5pY) | 1:41 |
-| 239 | [Extra](https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj) | [Nick G](https://open.spotify.com/artist/34JaTpOGE15tJ1cJIfIsdD), [Young Truck](https://open.spotify.com/artist/6icQfbZCZWXEPOwpWrZixw) | [Extra](https://open.spotify.com/album/72wRKVCoeAFKnjUOzva2xL) | 2:53 |
-| 240 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
-| 241 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
-| 242 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
+| 236 | [how do we get back to love?](https://open.spotify.com/track/0ksqaOzbJ9G2Z3UoBQpT1m) | [FIELDS](https://open.spotify.com/artist/5BLQASl9i5xT1xsB40S1HO) | [how do we get back to love?](https://open.spotify.com/album/2MQwrv39ialAwb8SmXOHU2) | 3:19 |
+| 237 | [Follow Me](https://open.spotify.com/track/1yXfzJv2XPRkb0yO1mdEH7) | [James Eagle](https://open.spotify.com/artist/3wwS8vlx9xmeH9fRrVjAgc) | [Garden Music](https://open.spotify.com/album/2a8A9URycJ8IZZjOPUt5pY) | 1:41 |
+| 238 | [Extra](https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj) | [Nick G](https://open.spotify.com/artist/34JaTpOGE15tJ1cJIfIsdD), [Young Truck](https://open.spotify.com/artist/6icQfbZCZWXEPOwpWrZixw) | [Extra](https://open.spotify.com/album/72wRKVCoeAFKnjUOzva2xL) | 2:53 |
+| 239 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
+| 240 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
+| 241 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AbWWYgAAAACcQ7m7Q8LJag9uyQO1JYa2`
+Snapshot ID: `AbWcQgAAAAAg3d8DU1BudlOPv62sU5KI`

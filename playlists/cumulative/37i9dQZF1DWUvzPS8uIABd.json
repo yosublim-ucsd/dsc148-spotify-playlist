@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa TUULI.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Mouhous.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "Corazon (feat. Neo)",
+        "url": "https://open.spotify.com/album/0RuVIwOJCWsdbaIu1uPTrj"
+      },
+      "artists": [
+        {
+          "name": "Henriguez",
+          "url": "https://open.spotify.com/artist/2tdief92DCo0dq3uz28kSE"
+        },
+        {
+          "name": "Neo",
+          "url": "https://open.spotify.com/artist/41kvT8ol7IQdZKnzfGPtR1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Corazon (feat. Neo)",
+      "url": "https://open.spotify.com/track/31edJBPQJPtk1zDTWMZLU9"
+    },
+    {
+      "album": {
         "name": "Delulu",
         "url": "https://open.spotify.com/album/0IYb2MAl3qPlRZxqKkRM8x"
       },
@@ -157,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Ei syd\u00e4nt\u00e4 saa",
+        "url": "https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt"
+      },
+      "artists": [
+        {
+          "name": "Niilo",
+          "url": "https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191788,
+      "name": "Ei syd\u00e4nt\u00e4 saa",
+      "url": "https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2"
+    },
+    {
+      "album": {
         "name": "Ekana",
         "url": "https://open.spotify.com/album/6vLBltWNU8MI9NqDID036W"
       },
@@ -168,7 +208,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 128459,
       "name": "Ekana",
       "url": "https://open.spotify.com/track/35zQA4ZcPpUv1CX5JSPCIF"
@@ -194,6 +234,24 @@
       "duration_ms": 166153,
       "name": "En sit\u00e4 tarkoittanut",
       "url": "https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl"
+    },
+    {
+      "album": {
+        "name": "Ensimm\u00e4inen",
+        "url": "https://open.spotify.com/album/4Gc4tQY56HWjTYdeKz7UwS"
+      },
+      "artists": [
+        {
+          "name": "Figaro",
+          "url": "https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "Ensimm\u00e4inen",
+      "url": "https://open.spotify.com/track/50tcwQjG65UpG70enZidJl"
     },
     {
       "album": {
@@ -248,7 +306,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 175599,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/3Ay9iQbe62f6AutBCNhTZ6"
@@ -376,7 +434,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 179787,
       "name": "Joku jonka tunsin",
       "url": "https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx"
@@ -474,7 +532,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 144214,
       "name": "Kertaakaan",
       "url": "https://open.spotify.com/track/0sShbPmnjtEv3Uf7Qt0rc0"
@@ -492,10 +550,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172035,
       "name": "Koko Ilta",
       "url": "https://open.spotify.com/track/1GdTpbJcVCL8ZVYzeV4ca6"
+    },
+    {
+      "album": {
+        "name": "Kokonainen",
+        "url": "https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159024,
+      "name": "Kokonainen",
+      "url": "https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN"
     },
     {
       "album": {
@@ -572,10 +648,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 214815,
       "name": "Lalala (Happysad)",
       "url": "https://open.spotify.com/track/1uqODFXcvaJZPXFOxldLyZ"
+    },
+    {
+      "album": {
+        "name": "Liian l\u00e4hel aurinkoo",
+        "url": "https://open.spotify.com/album/2bLwEBPZKGkZyM0mAZZa7m"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159901,
+      "name": "Liian l\u00e4hel aurinkoo",
+      "url": "https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1"
     },
     {
       "album": {
@@ -594,7 +688,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 146333,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB"
@@ -642,6 +736,24 @@
       "duration_ms": 203909,
       "name": "Lupaa et s\u00e4 l\u00e4het",
       "url": "https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c"
+    },
+    {
+      "album": {
+        "name": "Lutkajenkka",
+        "url": "https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB"
+      },
+      "artists": [
+        {
+          "name": "Vgr",
+          "url": "https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162440,
+      "name": "Lutkajenkka",
+      "url": "https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv"
     },
     {
       "album": {
@@ -736,7 +848,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 166320,
       "name": "Norppa kivell\u00e4",
       "url": "https://open.spotify.com/track/2zFDRptDDg9FC5ZFM0UINl"
@@ -758,6 +870,28 @@
       "duration_ms": 205213,
       "name": "N\u00f6ss\u00f6\u00f6 el\u00e4m\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB"
+    },
+    {
+      "album": {
+        "name": "Ota mut takas (feat. Ville Veikka)",
+        "url": "https://open.spotify.com/album/1CARdA6I2UNChyv6Njcsua"
+      },
+      "artists": [
+        {
+          "name": "EME",
+          "url": "https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5"
+        },
+        {
+          "name": "Ville Veikka",
+          "url": "https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193588,
+      "name": "Ota mut takas (feat. Ville Veikka)",
+      "url": "https://open.spotify.com/track/6kbZCTF1nRX5hby64Z1Wmq"
     },
     {
       "album": {
@@ -932,7 +1066,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 149013,
       "name": "Scifi",
       "url": "https://open.spotify.com/track/6SZY31ETyZ4qT8NnKG42BO"
@@ -1070,7 +1204,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 178666,
       "name": "Stunttaa",
       "url": "https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO"
@@ -1096,7 +1230,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 216423,
       "name": "Supersankari (feat. Petri Nyg\u00e5rd & Pasi ja Anssi)",
       "url": "https://open.spotify.com/track/0poUe9N88O5j3GgyZWVfJR"
@@ -1179,6 +1313,28 @@
     },
     {
       "album": {
+        "name": "TRAFIK!",
+        "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132888,
+      "name": "TRAFIK!",
+      "url": "https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su"
+    },
+    {
+      "album": {
         "name": "Tuli mit\u00e4 vaan",
         "url": "https://open.spotify.com/album/0pZfxk1Qim7Ul3HaF6RkJB"
       },
@@ -1202,6 +1358,24 @@
       "duration_ms": 197054,
       "name": "Tuli mit\u00e4 vaan",
       "url": "https://open.spotify.com/track/5O37M1e9u0BvcMOVedVbYx"
+    },
+    {
+      "album": {
+        "name": "Tuonelan tuulet",
+        "url": "https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC"
+      },
+      "artists": [
+        {
+          "name": "Ikuinenkes\u00e4",
+          "url": "https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Tuonelan tuulet",
+      "url": "https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE"
     },
     {
       "album": {
@@ -1245,6 +1419,50 @@
     },
     {
       "album": {
+        "name": "T\u00e4n\u00e4\u00e4n juodaan liikaa (feat. SUOMEN PELI)",
+        "url": "https://open.spotify.com/album/3NrWHkYHbQ32pYG5nWFptV"
+      },
+      "artists": [
+        {
+          "name": "Hesa\u00c4ij\u00e4",
+          "url": "https://open.spotify.com/artist/31l5HEi8RuEjCwU46y49Hf"
+        },
+        {
+          "name": "SUOMEN PELI",
+          "url": "https://open.spotify.com/artist/27MFM28QS21aphrFWyYfdj"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "T\u00e4n\u00e4\u00e4n juodaan liikaa (feat. SUOMEN PELI)",
+      "url": "https://open.spotify.com/track/7jJDaoCXDuURraNCgYtTfH"
+    },
+    {
+      "album": {
+        "name": "Vaarallinen Nainen",
+        "url": "https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155338,
+      "name": "Vaarallinen Nainen",
+      "url": "https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93"
+    },
+    {
+      "album": {
         "name": "Vaisto (feat. Juuna Chill)",
         "url": "https://open.spotify.com/album/3CvcY3DQFo8nLf8pA4qCG5"
       },
@@ -1278,7 +1496,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 160350,
       "name": "Valheista kaunein",
       "url": "https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp"

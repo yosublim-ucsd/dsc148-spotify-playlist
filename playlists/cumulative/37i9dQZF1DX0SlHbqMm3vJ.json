@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Boy Spyce",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: DBanj",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 167423,
       "name": "Blood Tonic",
       "url": "https://open.spotify.com/track/5JiTgli1D3CpDsFpDFDgyJ"
@@ -2161,6 +2161,32 @@
     },
     {
       "album": {
+        "name": "Childish Things",
+        "url": "https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK"
+      },
+      "artists": [
+        {
+          "name": "Dessire\u00e9",
+          "url": "https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV"
+        },
+        {
+          "name": "Gyedu-Blay Ambolley",
+          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
+        },
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181747,
+      "name": "Childish Things",
+      "url": "https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX"
+    },
+    {
+      "album": {
         "name": "Analyze Love",
         "url": "https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj"
       },
@@ -2598,6 +2624,28 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
+    },
+    {
+      "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158939,
+      "name": "CWT (feat. BNXN)",
+      "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
     },
     {
       "album": {
@@ -3758,7 +3806,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154285,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5PrV2pNuK9THNbBbtqqwe0"
@@ -3776,7 +3824,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 129576,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
@@ -6116,6 +6164,24 @@
       "duration_ms": 173207,
       "name": "Kiss N Tell",
       "url": "https://open.spotify.com/track/7nSWzUr4SoqZny0BozXegP"
+    },
+    {
+      "album": {
+        "name": "KOKO",
+        "url": "https://open.spotify.com/album/3NHLco72CZlcLjhteobxzr"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/3ZwcOu974vlPmNQkDUNwMO"
     },
     {
       "album": {
@@ -10237,6 +10303,24 @@
     },
     {
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "album": {
         "name": "Somali Rose",
         "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
       },
@@ -10906,7 +10990,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 156164,
       "name": "Tension",
       "url": "https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF"

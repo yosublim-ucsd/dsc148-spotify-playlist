@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. ALT BLK ERA",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Harpy",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -186,6 +186,28 @@
       "duration_ms": 264000,
       "name": "3310",
       "url": "https://open.spotify.com/track/1vxK7sEWuAqmoAOBfUWz7S"
+    },
+    {
+      "album": {
+        "name": "70% Dead",
+        "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222145,
+      "name": "70% Dead (with Corey Taylor)",
+      "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
     },
     {
       "album": {
@@ -1759,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Glitch: Lvl 1",
+        "url": "https://open.spotify.com/album/3guAqxZJEr79KX9qELtC8k"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168947,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/7IfI7jyQqMl1yRrZ9KlNpJ"
+    },
+    {
+      "album": {
         "name": "nx future",
         "url": "https://open.spotify.com/album/0V6z9eQZ3gHe7ivNgKuifF"
       },
@@ -1922,7 +1962,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 143538,
       "name": "BOSH!",
       "url": "https://open.spotify.com/track/6Hf2I4DtHyXVRig1SufGMh"
@@ -2256,7 +2296,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 128746,
       "name": "buzz",
       "url": "https://open.spotify.com/track/1AH3MVzJ5N6WyPyXirqqti"
@@ -2394,6 +2434,24 @@
       "duration_ms": 151966,
       "name": "Cauterize",
       "url": "https://open.spotify.com/track/3Hlx9j7ozvM2JnqEbrBvoo"
+    },
+    {
+      "album": {
+        "name": "CBA",
+        "url": "https://open.spotify.com/album/61gvPnaFVPZOBOxdVykX2s"
+      },
+      "artists": [
+        {
+          "name": "Nova May",
+          "url": "https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "CBA",
+      "url": "https://open.spotify.com/track/1S6e18JIM3yX43F7cnKuWb"
     },
     {
       "album": {
@@ -4382,7 +4440,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 137500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
@@ -4722,6 +4780,28 @@
       "duration_ms": 215965,
       "name": "Faces Change",
       "url": "https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY"
+    },
+    {
+      "album": {
+        "name": "FAI2",
+        "url": "https://open.spotify.com/album/4oixW61TxurrdJ1ZJ89oVC"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        },
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196184,
+      "name": "FAI2",
+      "url": "https://open.spotify.com/track/2QsvwtsfSGFyHDuZD7xzQD"
     },
     {
       "album": {
@@ -5102,7 +5182,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 153250,
       "name": "Finger",
       "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
@@ -5406,7 +5486,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 192314,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/0XczwSIVWCjH800SBieNkC"
@@ -5716,7 +5796,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 193680,
       "name": "Gazer",
       "url": "https://open.spotify.com/track/65sHwFYUKAMO4Wg3pJVZOZ"
@@ -6164,7 +6244,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 263862,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/79U3vQSqh7ONz2kunmB6Ri"
@@ -6960,7 +7040,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 135399,
       "name": "Hide Your Kids",
       "url": "https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j"
@@ -7180,7 +7260,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 148500,
       "name": "hush your mouth!",
       "url": "https://open.spotify.com/track/3SmWq8EWHI9c0QF0zQ6Oi5"
@@ -8109,6 +8189,24 @@
     },
     {
       "album": {
+        "name": "INSECT",
+        "url": "https://open.spotify.com/album/2PeXvgtArcePH8sLXgE2TB"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "INSECT",
+      "url": "https://open.spotify.com/track/2vI0ZtZJSz5HAfJGJUFA7g"
+    },
+    {
+      "album": {
         "name": "Camouflage",
         "url": "https://open.spotify.com/album/5f5QFBWEVi0ew8VZX89kFY"
       },
@@ -8836,6 +8934,24 @@
       "duration_ms": 201000,
       "name": "KSALOL KRAZY",
       "url": "https://open.spotify.com/track/4DsZninoUAg6pNfKtCquml"
+    },
+    {
+      "album": {
+        "name": "KURAMA",
+        "url": "https://open.spotify.com/album/59YcMu5XXdEjiQMuOrxEfO"
+      },
+      "artists": [
+        {
+          "name": "Frozemode",
+          "url": "https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158458,
+      "name": "KURAMA",
+      "url": "https://open.spotify.com/track/2YknhdcajS4sXAKfGdDFSe"
     },
     {
       "album": {
@@ -11167,6 +11283,24 @@
     },
     {
       "album": {
+        "name": "Not My God Anymore",
+        "url": "https://open.spotify.com/album/35UC41GShM2LG3pm07LSbL"
+      },
+      "artists": [
+        {
+          "name": "Harpy",
+          "url": "https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170735,
+      "name": "Not My God Anymore",
+      "url": "https://open.spotify.com/track/4hsf9k441EY0OH9f2tYpiQ"
+    },
+    {
+      "album": {
         "name": "Not Yours Never Was",
         "url": "https://open.spotify.com/album/0olqiaBJPPoECCG5CCbu7s"
       },
@@ -12827,6 +12961,24 @@
     },
     {
       "album": {
+        "name": "more than dead to me",
+        "url": "https://open.spotify.com/album/6f0WJXiql5NWTjRkisnVq0"
+      },
+      "artists": [
+        {
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132159,
+      "name": "roe's interlude",
+      "url": "https://open.spotify.com/track/1tidcc2QmF1dZN263LZuAb"
+    },
+    {
+      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -13534,7 +13686,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 164350,
       "name": "Slaughterhouse",
       "url": "https://open.spotify.com/track/2ihOfzUITCgdd5Q3GGrkHB"
@@ -13632,7 +13784,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 188307,
       "name": "smile",
       "url": "https://open.spotify.com/track/7tu9g2cQxMFD6F9fBDvjga"
@@ -13784,7 +13936,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 174629,
       "name": "Sour Diesel",
       "url": "https://open.spotify.com/track/7FVM8VRNUwYEPnwT6jfQfF"
@@ -15368,7 +15520,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 131250,
       "name": "Uncle Fred",
       "url": "https://open.spotify.com/track/7tVc2fhAogS0Yo5zsPSh66"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light, Hawk",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RICTA",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "Bad Boy 2",
+        "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/22v0nQAXYjRlRcO9KFKYgN"
+    },
+    {
+      "album": {
         "name": "ALLOS KOSMOS",
         "url": "https://open.spotify.com/album/0mDVQlkoUAf15IHHVydmjt"
       },
@@ -112,7 +134,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161031,
       "name": "ALLOS KOSMOS",
       "url": "https://open.spotify.com/track/4BcY2rR86rRQhi6gsFIKiE"
@@ -134,7 +156,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 188473,
       "name": "Apotoma",
       "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
@@ -189,6 +211,32 @@
     },
     {
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/7oLxV1HLIyM3qWxMrVq8J0"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        },
+        {
+          "name": "Rampo",
+          "url": "https://open.spotify.com/artist/6TA6DApj7L6w8pCnM9DWfg"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/3rrxhhuSWx0qWbmjVSwpx1"
+    },
+    {
+      "album": {
         "name": "BBL",
         "url": "https://open.spotify.com/album/76PCA23rpGR0s18PSfIEqi"
       },
@@ -226,7 +274,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 140705,
       "name": "BEEF",
       "url": "https://open.spotify.com/track/3Djxd5r5yTskQWEkLXWIWN"
@@ -314,7 +362,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 209491,
       "name": "CARBON",
       "url": "https://open.spotify.com/track/66xAuuPku6qkjXo1wVVVPf"
@@ -605,6 +653,32 @@
     },
     {
       "album": {
+        "name": "FLASH",
+        "url": "https://open.spotify.com/album/5EAYWsvFcf1kj8hwZhySRb"
+      },
+      "artists": [
+        {
+          "name": "Sapranov",
+          "url": "https://open.spotify.com/artist/0ydmHwy5hFIaJEoZWWcKxC"
+        },
+        {
+          "name": "Musah",
+          "url": "https://open.spotify.com/artist/2AWgf4OSoExCcIuwIbZClh"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "FLASH",
+      "url": "https://open.spotify.com/track/2aTjJ9ixvc58G4WEw05Boc"
+    },
+    {
+      "album": {
         "name": "Fotia",
         "url": "https://open.spotify.com/album/6oh21YYghqAoChMbgRX0El"
       },
@@ -664,7 +738,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 136988,
       "name": "GG",
       "url": "https://open.spotify.com/track/63SDCmsnESL8xoY12YZPsc"
@@ -719,6 +793,80 @@
     },
     {
       "album": {
+        "name": "HABIBI",
+        "url": "https://open.spotify.com/album/2IIfo5Gx3Uc9ihOtql0iqJ"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119153,
+      "name": "HABIBI",
+      "url": "https://open.spotify.com/track/0CPhqd0ZX0CUW2qU5uZP2q"
+    },
+    {
+      "album": {
+        "name": "HELLO KITTY",
+        "url": "https://open.spotify.com/album/6xRkMas5Vr3HcMWlPuNl9q"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Savv",
+          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151125,
+      "name": "HELLO KITTY",
+      "url": "https://open.spotify.com/track/0gfgnxJBDGfKWUf4pSVbtE"
+    },
+    {
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/6YnJqmSdeTOl5n2fGOMsN5"
+      },
+      "artists": [
+        {
+          "name": "\u039d.\u039f.\u0395.",
+          "url": "https://open.spotify.com/artist/32YyBhznrvsMy7KtZRZxU5"
+        },
+        {
+          "name": "Dj Paris",
+          "url": "https://open.spotify.com/artist/2SPcc674zxWa2igyUZCASd"
+        },
+        {
+          "name": "big sosa",
+          "url": "https://open.spotify.com/artist/1VAJ4gIgkjSpbpjv7PjaAL"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5P8xgPPGAyNTFsKRPoXzX8"
+    },
+    {
+      "album": {
         "name": "JELLO",
         "url": "https://open.spotify.com/album/127NMlwKs5WeyVCPsjY91z"
       },
@@ -742,7 +890,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 120000,
       "name": "JELLO",
       "url": "https://open.spotify.com/track/0TUIyu0cbBAXmMZpau9gyA"
@@ -1097,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5qG5y6SRTfGo04942HUpDS"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
+    },
+    {
+      "album": {
         "name": "OLE",
         "url": "https://open.spotify.com/album/5zx3izI5OvVu99ikBKau4N"
       },
@@ -1163,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "PLAIN JANE",
+        "url": "https://open.spotify.com/album/4SCsSHeYkx46cu5Niyki1a"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Younggbeatz",
+          "url": "https://open.spotify.com/artist/5jF0NtCmF4JWI7NxdcsHmE"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "PLAIN JANE",
+      "url": "https://open.spotify.com/track/1a929Dhxncp5JHP8hFqPF4"
+    },
+    {
+      "album": {
         "name": "Pre Za Ki",
         "url": "https://open.spotify.com/album/0CYhzv8lk2aMXgy5XBkxsD"
       },
@@ -1178,6 +1366,24 @@
       "duration_ms": 168793,
       "name": "Pornstar .i.",
       "url": "https://open.spotify.com/track/3ijZezhpvrHubmkbOGj6bJ"
+    },
+    {
+      "album": {
+        "name": "#kosovoisalbania",
+        "url": "https://open.spotify.com/album/6QlBtdGncxLgDmyk5g3eVu"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120009,
+      "name": "Prishtina",
+      "url": "https://open.spotify.com/track/1BuBPgJyWGSZ4PcLISga4x"
     },
     {
       "album": {
@@ -1340,7 +1546,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 156000,
       "name": "SCARS",
       "url": "https://open.spotify.com/track/5HABP6Jx4xqp35Lnn7Mikk"
@@ -1362,7 +1568,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189183,
       "name": "SERVICE",
       "url": "https://open.spotify.com/track/5WCUggpYwkiTOAqu4b92FJ"
@@ -1421,6 +1627,58 @@
     },
     {
       "album": {
+        "name": "Bad Boy 2",
+        "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145788,
+      "name": "Superstars",
+      "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"
+    },
+    {
+      "album": {
+        "name": "TANAPU",
+        "url": "https://open.spotify.com/album/4WpSnL7U9neH4E1hQjUask"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "TANAPU",
+      "url": "https://open.spotify.com/track/2vRUn3ggWiCXnlq42mfbGP"
+    },
+    {
+      "album": {
         "name": "Teleia Sxesh",
         "url": "https://open.spotify.com/album/0J2rFWwTiGvyhtMOvnnw6z"
       },
@@ -1462,7 +1720,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 150000,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/24jT60T9L0pKKuLG9FOe1I"
@@ -1528,7 +1786,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 111428,
       "name": "TTG",
       "url": "https://open.spotify.com/track/1oQeqOY7x547NT2sIoLNyd"
@@ -1630,7 +1888,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 220800,
       "name": "Xenodohio",
       "url": "https://open.spotify.com/track/0f5EgNuK5oPUlgfoSHa7ai"

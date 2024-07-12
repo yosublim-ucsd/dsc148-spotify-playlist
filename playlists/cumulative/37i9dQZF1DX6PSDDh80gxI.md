@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Il meglio dell’indie italiano! Giuse The Lizia e centomilacarie in cover
+> Il meglio dell’indie italiano! Cover: Angelica 💚
 
-63 songs - 3 hr 15 min
+66 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Come no](https://open.spotify.com/track/10H2O7Rg5GdMjDXVcuxHXP) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Come no](https://open.spotify.com/album/2PjLX5cv86MOlpx7pI56gX) | 2:33 | 2024-06-27 |  |
 | [Corriamo senza futuro](https://open.spotify.com/track/2Fku8rTogu9G0xd6r1J5kh) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Corriamo senza futuro](https://open.spotify.com/album/3EnPF5Rdj1rd5dDPMi0lHY) | 2:50 | 2024-06-27 |  |
 | [Cupido](https://open.spotify.com/track/4OFqJ6OnEYXNNcFZl2fOPJ) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy) | [Cupido](https://open.spotify.com/album/4Tr7myKPPvoxijKwuDjLdi) | 2:47 | 2024-06-27 |  |
+| [Domani \(feat\. Nashley\)](https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Domani \(feat\. Nashley\)](https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn) | 2:57 | 2024-07-11 |  |
 | [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 |  |
 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 | 2024-06-27 |  |
 | [Flavio](https://open.spotify.com/track/4fsvWE5P0MC7KgwlSpCK1R) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [DENTRO](https://open.spotify.com/album/2z1yhHOmoGKbf6QG8HTjmV) | 3:02 | 2024-06-27 |  |
@@ -48,8 +49,9 @@
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 |  |
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-06-27 |  |
 | [Occhi Blu](https://open.spotify.com/track/324rbmmKBqubCFX3PCY2xf) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Occhi Blu](https://open.spotify.com/album/5cdWqN1USAxqaenqenOs65) | 3:04 | 2024-06-27 |  |
-| [OKAY OKAY \(S1 E2\)](https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm) | 2:55 | 2024-06-27 |  |
+| [OKAY OKAY \(S1 E2\)](https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-06-27 |  |
+| [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 | 2024-07-11 |  |
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-06-27 |  |
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 |  |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 |  |
@@ -62,14 +64,15 @@
 | [STRANO DESERTO ᨎ \(con Cosmo, Rares\)](https://open.spotify.com/track/1YFhKr5EldFs93ywTtSzLi) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:31 | 2024-06-27 |  |
 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 |  |
 | [Terra bruciata](https://open.spotify.com/track/7rY0vHCtgNI37kMY9wIkCg) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2024-06-27 |  |
+| [Tokyo 20](https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Tokyo 20 / Spirito](https://open.spotify.com/album/3vSYheKa4APkJSC03A77Bo) | 3:21 | 2024-07-11 |  |
 | [Trasparente](https://open.spotify.com/track/7K51Wblkit2uioRGADynFB) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Trasparente](https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT) | 3:17 | 2024-06-27 |  |
 | [Tu con me hai chiuso](https://open.spotify.com/track/5EDkL5ZFCbroL36R8ZmPsX) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Tu con me hai chiuso](https://open.spotify.com/album/4S5w44QBiLFDaSbW6gUlPL) | 3:20 | 2024-06-27 |  |
 | [tutta vera](https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [tutta vera](https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5) | 3:19 | 2024-06-27 |  |
 | [Tutti](https://open.spotify.com/track/3G5VUAzCpvaaWEMk9NkHFT) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 4:10 | 2024-06-27 |  |
-| [Tutti contro tutti](https://open.spotify.com/track/3Qi2tRCAstmItgnf1qpq71) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Tutti contro tutti](https://open.spotify.com/album/0MKxiFxj7Palssg4NDjh5h) | 2:47 | 2024-06-27 |  |
+| [Tutti contro tutti](https://open.spotify.com/track/3Qi2tRCAstmItgnf1qpq71) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Tutti contro tutti](https://open.spotify.com/album/0MKxiFxj7Palssg4NDjh5h) | 2:47 | 2024-06-27 | 2024-07-12 |
 | [Tutto Qui](https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Tutto Qui](https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN) | 3:31 | 2024-06-27 |  |
 | [Un Altro Universo](https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Un Altro Universo](https://open.spotify.com/album/6jBiHku5XSMNvJpoJuTRLQ) | 3:20 | 2024-06-27 |  |
-| [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 |  |
+| [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 | 2024-07-12 |
 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

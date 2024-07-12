@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 209997,
+  "num_followers": 210011,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 216426,
       "name": "Knocks Me Off My Feet",
       "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "One Hundred Ways",
+      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Let Me In Your Life",
         "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 226493,
       "name": "Too Hot - Single Version",
       "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "One Hundred Ways",
-      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Back to your Place",
-        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Back to your Place",
-      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Secret Combination",
         "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 255506,
       "name": "You Might Need Somebody",
       "url": "https://open.spotify.com/track/57nTGfnZJSytMCCVpM18ND"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Rhythm Of Life",
-      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Jewels In The Crown",
         "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 206053,
       "name": "When She Was My Girl",
       "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -751,22 +767,6 @@
       "duration_ms": 239600,
       "name": "September When I First Met You - Single Version",
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "OLD SONGS, SAME LOVE",
-        "url": "https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "I'M A MAN - MIDNIGHT VERSION",
-      "url": "https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Givin' It Up",
         "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 301000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "OLD SONGS, SAME LOVE",
+        "url": "https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "I'M A MAN - MIDNIGHT VERSION",
+      "url": "https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 364853,
+      "name": "A Warm Summer Night",
+      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/4BGdofQQeiBDvxDowj2akW"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+        "name": "Love Oh Love",
+        "url": "https://open.spotify.com/album/63QvEGahoi8TbcSNp0dT3e"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
         }
       ],
-      "duration_ms": 364853,
-      "name": "A Warm Summer Night",
-      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
+      "duration_ms": 178933,
+      "name": "So in Love with You",
+      "url": "https://open.spotify.com/track/7yLQMOBHYEkFkFQcEoNEpR"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1063,22 +1079,6 @@
       "duration_ms": 250120,
       "name": "Float On",
       "url": "https://open.spotify.com/track/0i38ukkDaXt4bCP0osIbz0"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Love Oh Love",
-        "url": "https://open.spotify.com/album/63QvEGahoi8TbcSNp0dT3e"
-      },
-      "artists": [
-        {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "So in Love with You",
-      "url": "https://open.spotify.com/track/7yLQMOBHYEkFkFQcEoNEpR"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Stax Volt Chartbusters Vol 1",
-        "url": "https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE"
-      },
-      "artists": [
-        {
-          "name": "Mel & Tim",
-          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Starting All Over Again",
-      "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "So Glad I Found You",
         "url": "https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY"
       },
@@ -1239,18 +1223,34 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Black Diamond (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
+        "name": "Stax Volt Chartbusters Vol 1",
+        "url": "https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Mel & Tim",
+          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
         }
       ],
-      "duration_ms": 200174,
-      "name": "Heaven Help",
-      "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
+      "duration_ms": 230920,
+      "name": "Starting All Over Again",
+      "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Oceans Of Emotions",
+        "url": "https://open.spotify.com/album/6pSJafRQHluTE8jM4hnEBt"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/48GQiMwNxi0gIyQO147aq8"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Oceans Of Emotions",
-        "url": "https://open.spotify.com/album/6pSJafRQHluTE8jM4hnEBt"
+        "name": "Black Diamond (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/48GQiMwNxi0gIyQO147aq8"
+      "duration_ms": 200174,
+      "name": "Heaven Help",
+      "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1307,6 +1307,22 @@
       "duration_ms": 235733,
       "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
       "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "I Can't See Myself Leaving You",
+      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1339,22 +1355,6 @@
       "duration_ms": 278333,
       "name": "'Til You Come Back to Me",
       "url": "https://open.spotify.com/track/7D3rmjinop0EDd9ouwTaT1"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "I Can't See Myself Leaving You",
-      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Sensual Journey",
+        "url": "https://open.spotify.com/album/3BKn8cFKsgaUKmFAvYVnhK"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Just Don't Wanna Be Lonely",
+      "url": "https://open.spotify.com/track/2d7XPNOWJ8HS0iSgJXRAJ9"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "This Close To You",
         "url": "https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 211306,
       "name": "This Close To You",
       "url": "https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Sensual Journey",
-        "url": "https://open.spotify.com/album/3BKn8cFKsgaUKmFAvYVnhK"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Just Don't Wanna Be Lonely",
-      "url": "https://open.spotify.com/track/2d7XPNOWJ8HS0iSgJXRAJ9"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Two Eyes",
+        "url": "https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3"
+      },
+      "artists": [
+        {
+          "name": "Brenda Russell",
+          "url": "https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "It's Something",
+      "url": "https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Billy Preston & Syreeta (Expanded Edition)",
         "url": "https://open.spotify.com/album/2GAD8e7SJ79yfRblYuGfP0"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 219306,
       "name": "With You I'm Born Again",
       "url": "https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Two Eyes",
-        "url": "https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3"
-      },
-      "artists": [
-        {
-          "name": "Brenda Russell",
-          "url": "https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "It's Something",
-      "url": "https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u"
     },
     {
       "added_at": "2024-07-03 15:11:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With By The Coast, LAVE, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,824 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,825 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Downtown Lights](https://open.spotify.com/track/41fgMr2SXvOHUlIe9fMDoJ) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:57 |
 | 50 | [Dialtone](https://open.spotify.com/track/0IsB9kYyUfWVxFP85bFAmX) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [Dialtone](https://open.spotify.com/album/0fBvgPPG4ivVersSP7GvoR) | 3:44 |
 
-Snapshot ID: `Zo9J8AAAAAATh0SNSQNQsaWEiwAvD562`
+Snapshot ID: `ZpB1pAAAAAA8wEKq4g1Kt7r3eCWWEOTG`

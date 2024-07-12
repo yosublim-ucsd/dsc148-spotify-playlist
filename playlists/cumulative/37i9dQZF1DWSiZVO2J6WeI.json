@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 236124,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
@@ -2037,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170176,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
+    },
+    {
+      "album": {
         "name": "Elusive Thoughts",
         "url": "https://open.spotify.com/album/2IYILu4PofhTJ0KaYAQC17"
       },
@@ -3031,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "Hidden Valley",
+        "url": "https://open.spotify.com/album/1xMahjlI61f6O6DBDFPfP3"
+      },
+      "artists": [
+        {
+          "name": "neon cosmo",
+          "url": "https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178479,
+      "name": "Hidden Valley",
+      "url": "https://open.spotify.com/track/7L1Q7yKHRHZ2dQFr1jjhTn"
+    },
+    {
+      "album": {
         "name": "Painted Illusions",
         "url": "https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS"
       },
@@ -3730,7 +3766,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 176000,
       "name": "Life Seeds",
       "url": "https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin"
@@ -4839,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Periodically",
+        "url": "https://open.spotify.com/album/32L36dBciDzIYTStJ8frzs"
+      },
+      "artists": [
+        {
+          "name": "Qualeis",
+          "url": "https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177924,
+      "name": "Periodically",
+      "url": "https://open.spotify.com/track/2Ghf0JCPF7rh8q2QTBAjoO"
+    },
+    {
+      "album": {
         "name": "Peripateo",
         "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
       },
@@ -5898,7 +5952,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 176007,
       "name": "Star Landing",
       "url": "https://open.spotify.com/track/5bVoFNkEvizQkTX0ZIS3M7"

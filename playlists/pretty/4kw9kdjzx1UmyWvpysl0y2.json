@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125905,
+  "num_followers": 125902,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASqdJyS5X/AZZwcqfZd6of+Vb3Xmc3",
+  "snapshot_id": "AAASsHo/9+CQVJkJFQKcZC0snAphrqJP",
   "tracks": [
+    {
+      "added_at": "2024-07-11 07:57:43",
+      "album": {
+        "name": "Crisis / Magazine",
+        "url": "https://open.spotify.com/album/3OssBn9F6T2VSaCjZ150lv"
+      },
+      "artists": [
+        {
+          "name": "Solomon France",
+          "url": "https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp"
+        },
+        {
+          "name": "Hailure",
+          "url": "https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn"
+        }
+      ],
+      "duration_ms": 193953,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH"
+    },
     {
       "added_at": "2024-07-10 09:35:03",
       "album": {
@@ -1135,66 +1155,6 @@
       "duration_ms": 215862,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/5uk6ghqCN4wYDeHIQSNAFS"
-    },
-    {
-      "added_at": "2024-04-23 14:42:54",
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/06AIpflCIvYljD1FPbrU8J"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        },
-        {
-          "name": "Blood Groove & Kikis",
-          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/3phEyCMH5CW7e21bSfTJpx"
-    },
-    {
-      "added_at": "2024-04-22 14:19:05",
-      "album": {
-        "name": "Together As One (Remixes)",
-        "url": "https://open.spotify.com/album/3dM2A27Ki3TlqHMVaaxyb3"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Herobust",
-          "url": "https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "Someone To Forget - BUSTED by Herobust",
-      "url": "https://open.spotify.com/track/4upSQkSLPZjoUAAnqhxlry"
-    },
-    {
-      "added_at": "2024-04-19 16:19:04",
-      "album": {
-        "name": "Doorman",
-        "url": "https://open.spotify.com/album/6YPPtqhN5yMSXIt7py2808"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Doorman",
-      "url": "https://open.spotify.com/track/2Jb8KZOgoSCzbZ8oVKuOcV"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

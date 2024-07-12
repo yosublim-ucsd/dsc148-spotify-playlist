@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-261 songs - 15 hr 50 min
+262 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |
 | [Priya Priya](https://open.spotify.com/track/16cpJ0xgeanA767VKsu4MC) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Priya Priya](https://open.spotify.com/album/4MtmaOUM9dfMbcQi1qt4sE) | 4:37 | 2023-09-22 |  |
 | [Priyamvadha](https://open.spotify.com/track/2EGJx8mbYurKtFtu1JvPlZ) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Priyamvadha](https://open.spotify.com/album/6CpYGQNXbnaWwNcOmenKpr) | 3:30 | 2023-04-10 | 2023-06-06 |
+| [Priyatama](https://open.spotify.com/track/31tg2XG4DzvSu2x2uUCAGp) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priyatama](https://open.spotify.com/album/4C6FkjwFVI5udfQpRA7kWs) | 2:56 | 2024-07-11 |  |
 | [Raa Vaa](https://open.spotify.com/track/3K7Dq1MHzhTEDr4drclzf4) | [Allen Joel](https://open.spotify.com/artist/4VgwS9mXpnbVKAK1tnTMpY) | [Raa Vaa](https://open.spotify.com/album/4LFFe3v6lZytrsV5yCjoBt) | 4:04 | 2023-09-27 | 2024-01-19 |
 | [Raagala Kougili](https://open.spotify.com/track/0FEVJKn7Vvw1f822QN1ZSw) | [Pavan Cherukumilli](https://open.spotify.com/artist/29aXKnUQ2PdTgNstCIsHGo), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Raagala Kougili](https://open.spotify.com/album/5ToMhSEybdY3EoYy3YMdZC) | 3:22 | 2024-03-17 |  |
 | [Raagalani](https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8), [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Raagalani](https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1) | 2:38 | 2022-07-18 | 2023-06-21 |

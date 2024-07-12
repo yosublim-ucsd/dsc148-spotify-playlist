@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: HYUKOH, Sunset Rollercoaster",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: The Jansen (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "All The Way Home",
+        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167100,
+      "name": "All The Way Home",
+      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
+    },
+    {
+      "album": {
         "name": "All Things Left Behind",
         "url": "https://open.spotify.com/album/0V5G0XvyE0EtqCr2IzhyhZ"
       },
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 212321,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/3gw7wDia6YZfngCTPw8Eon"
@@ -2000,6 +2018,28 @@
       "duration_ms": 222352,
       "name": "Balloon - Sunset Rollercoaster Remake",
       "url": "https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b"
+    },
+    {
+      "album": {
+        "name": "Bara To Yaju",
+        "url": "https://open.spotify.com/album/0dt3tdiGB5wUf23Cm8liJ5"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262216,
+      "name": "Bara To Yaju",
+      "url": "https://open.spotify.com/track/25u8erynTO1nKCYcJSAhRu"
     },
     {
       "album": {
@@ -5908,7 +5948,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 187973,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/2ZKImeiY1yIkiIhlVVyz2b"
@@ -8005,6 +8045,28 @@
     },
     {
       "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260430,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF"
+    },
+    {
+      "album": {
         "name": "Go Higher",
         "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
@@ -8354,6 +8416,24 @@
       "duration_ms": 255510,
       "name": "HANSEL AND GRETEL",
       "url": "https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn"
+    },
+    {
+      "album": {
+        "name": "Durja Bersahaja",
+        "url": "https://open.spotify.com/album/3HL3eXVeW5G4gVRNQGVEwb"
+      },
+      "artists": [
+        {
+          "name": "The Jansen",
+          "url": "https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261975,
+      "name": "Hanya Ada Kegelapan yang Menunggumu Di Sana",
+      "url": "https://open.spotify.com/track/0kMMtFGMNokZROdiK6uG4x"
     },
     {
       "album": {
@@ -9270,6 +9350,24 @@
       "duration_ms": 275000,
       "name": "How Are You",
       "url": "https://open.spotify.com/track/5CAI7JfvqBKKbdkXs5wKE5"
+    },
+    {
+      "album": {
+        "name": "How Could You Still Love Me",
+        "url": "https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264362,
+      "name": "How Could You Still Love Me",
+      "url": "https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1"
     },
     {
       "album": {
@@ -10581,6 +10679,24 @@
     },
     {
       "album": {
+        "name": "In the end we\u2019re just",
+        "url": "https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "In the end we\u2019re just",
+      "url": "https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7"
+    },
+    {
+      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/6ypB6NcnTat9NKd81cS9nD"
       },
@@ -10924,7 +11040,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 258090,
       "name": "Jangan Biar",
       "url": "https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK"
@@ -11316,6 +11432,24 @@
       "duration_ms": 116033,
       "name": "Keeping Love",
       "url": "https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX"
+    },
+    {
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/2k4BOhOjINPaPn2foFTpNk"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214621,
+      "name": "Kewpid",
+      "url": "https://open.spotify.com/track/0mxKq6T6Yd0iGbJ4n0QEBF"
     },
     {
       "album": {
@@ -11970,7 +12104,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 176216,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/4Id1V7jy2XXmCYWIflaq8Z"
@@ -12400,7 +12534,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 180769,
       "name": "Louder",
       "url": "https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs"
@@ -12696,7 +12830,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 228888,
       "name": "Loving And Letting Go",
       "url": "https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw"
@@ -15240,7 +15374,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 170578,
       "name": "Oh My God!",
       "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
@@ -15968,7 +16102,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189555,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
@@ -18082,7 +18216,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 203331,
       "name": "She is a Dream Pop girl",
       "url": "https://open.spotify.com/track/7AIH2Yv5rg0gXNs0tAoSpq"
@@ -18534,6 +18668,24 @@
       "duration_ms": 362833,
       "name": "So Human (feat. TALA)",
       "url": "https://open.spotify.com/track/4InSeposZUrX2aIFfiAJMN"
+    },
+    {
+      "album": {
+        "name": "SO RIGHT",
+        "url": "https://open.spotify.com/album/1WChRm1I6Y5JlEpwL51ao5"
+      },
+      "artists": [
+        {
+          "name": "PENNY",
+          "url": "https://open.spotify.com/artist/6mSWVj4UUz57gPQsTN426N"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "SO RIGHT",
+      "url": "https://open.spotify.com/track/7vIa0OBF8vdkGh2IL8lLxg"
     },
     {
       "album": {
@@ -19336,7 +19488,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 147207,
       "name": "strawberry sunshine",
       "url": "https://open.spotify.com/track/2WaJSAlGlIzd9XAGb0NR6M"
@@ -20371,6 +20523,24 @@
     },
     {
       "album": {
+        "name": "Teenage Years",
+        "url": "https://open.spotify.com/album/4wwDH2rLj9iB2eUltgzrUY"
+      },
+      "artists": [
+        {
+          "name": "Low Pink",
+          "url": "https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250680,
+      "name": "Teenage Years",
+      "url": "https://open.spotify.com/track/4Ft96mSN2Yy3BWwZ9mgcSX"
+    },
+    {
+      "album": {
         "name": "Teenager",
         "url": "https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ"
       },
@@ -20846,7 +21016,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 233500,
       "name": "Things will fall to its place",
       "url": "https://open.spotify.com/track/7aoYrQTzLk4tGOwRrFBmdj"
@@ -21140,7 +21310,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 144793,
       "name": "tired",
       "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
@@ -21368,6 +21538,24 @@
       "duration_ms": 179428,
       "name": "touch/feelings",
       "url": "https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk"
+    },
+    {
+      "album": {
+        "name": "Town",
+        "url": "https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU"
+      },
+      "artists": [
+        {
+          "name": "Ishbel Warifa",
+          "url": "https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Town",
+      "url": "https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh"
     },
     {
       "album": {
@@ -23338,6 +23526,28 @@
       "duration_ms": 231422,
       "name": "Witches",
       "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6yNqjn10LSEtt9jtWy1qpG"
+      },
+      "artists": [
+        {
+          "name": "cellosux",
+          "url": "https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj"
+        },
+        {
+          "name": "Shan Capri",
+          "url": "https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5iqGjegieFX6k8mi8KmPu9"
     },
     {
       "album": {

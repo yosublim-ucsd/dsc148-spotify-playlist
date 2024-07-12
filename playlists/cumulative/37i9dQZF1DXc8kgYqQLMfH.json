@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 149250,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 131500,
       "name": "Confident strut",
       "url": "https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF"
@@ -6300,7 +6300,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Fat Cap",
       "url": "https://open.spotify.com/track/3nBvqYMvBUn00wIPnn28Yu"
@@ -9532,6 +9532,24 @@
       "duration_ms": 104259,
       "name": "it_s less dangerous",
       "url": "https://open.spotify.com/track/0mAlO6oD3KSyJwOQoD11qx"
+    },
+    {
+      "album": {
+        "name": "Itinerant",
+        "url": "https://open.spotify.com/album/376Pv5WxfgEJJjuRWKId2y"
+      },
+      "artists": [
+        {
+          "name": "Fthmlss",
+          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162041,
+      "name": "Itinerant",
+      "url": "https://open.spotify.com/track/6cmlL15AlkdyWQIzlhTFyM"
     },
     {
       "album": {
@@ -13280,7 +13298,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 118400,
       "name": "neon reflections",
       "url": "https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg"
@@ -16770,7 +16788,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 164487,
       "name": "seek somebody",
       "url": "https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi"

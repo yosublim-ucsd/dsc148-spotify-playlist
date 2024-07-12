@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,295 likes - 424 songs - 1 day 0 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,301 likes - 425 songs - 1 day 0 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 73 | [Let's Hurt Tonight](https://open.spotify.com/track/05sCp83gcMm1iecYydKJS3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:14 |
 | 74 | [I Know Places](https://open.spotify.com/track/6EwNJz8CuVsrsLvXprJ20Q) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:15 |
 | 75 | [Lucky Strike](https://open.spotify.com/track/4rpzPAbwJboZQw2p9T5T3f) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:05 |
-| 76 | [Brighter Than The Sun](https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:51 |
-| 77 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
+| 76 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
+| 77 | [Brighter Than The Sun](https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:51 |
 | 78 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
 | 79 | [West Coast](https://open.spotify.com/track/1B7Vir1E4FcFPP5tUzDSmR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 3:15 |
 | 80 | [Battlefield](https://open.spotify.com/track/0wGPUxi4tuxfSeR0DtHFSp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/493cZBXesSA3z8UBKkwjQi) | 4:01 |
@@ -308,15 +308,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 298 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
 | 299 | [It's A Shame](https://open.spotify.com/track/3WANeXpetY3TAi6PTlIMpc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:50 |
 | 300 | [Save You](https://open.spotify.com/track/7IaJyaE8pCQjOgvXUAJeat) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 4:02 |
-| 301 | [Gypsy Woman](https://open.spotify.com/track/2LW2Or5IY5lMtMOjqGVI0c) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Dignity](https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF) | 3:14 |
-| 302 | [Get Mine](https://open.spotify.com/track/67aM9AJ569kEdJSLBIiOTz) | [DAVIS](https://open.spotify.com/artist/1Nejskv080HulTwcWnNPUr) | [Crooked Finger](https://open.spotify.com/album/0CyVbusmbDNR7nnJ84DyRu) | 3:32 |
-| 303 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
-| 304 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 |
-| 305 | [Girls Like Me \(From Songland\)](https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Girls Like Me \(From Songland\)](https://open.spotify.com/album/0ZERnGKcGJaYPLa5nlGQP7) | 3:15 |
-| 306 | [Let Go](https://open.spotify.com/track/1x3Sxgpq3MIyZUi9v2W1ZT) | [Brother Phelps](https://open.spotify.com/artist/4B1XcPipnpGOpuNZeAA1eQ) | [Let Go](https://open.spotify.com/album/5kkOQ9122GxlXlORmJSpzX) | 3:39 |
-| 307 | [Sucker Punch](https://open.spotify.com/track/5phIlbhXRbIgZwf8yFlSWv) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:26 |
-| 308 | [Trap Door](https://open.spotify.com/track/7Jf6ay2g947vLxqRUkC09Q) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 3:54 |
-| 309 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 |
+| 301 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 |
+| 302 | [Gypsy Woman](https://open.spotify.com/track/2LW2Or5IY5lMtMOjqGVI0c) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Dignity](https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF) | 3:14 |
+| 303 | [Get Mine](https://open.spotify.com/track/67aM9AJ569kEdJSLBIiOTz) | [DAVIS](https://open.spotify.com/artist/1Nejskv080HulTwcWnNPUr) | [Crooked Finger](https://open.spotify.com/album/0CyVbusmbDNR7nnJ84DyRu) | 3:32 |
+| 304 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
+| 305 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 |
+| 306 | [Girls Like Me \(From Songland\)](https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Girls Like Me \(From Songland\)](https://open.spotify.com/album/0ZERnGKcGJaYPLa5nlGQP7) | 3:15 |
+| 307 | [Let Go](https://open.spotify.com/track/1x3Sxgpq3MIyZUi9v2W1ZT) | [Brother Phelps](https://open.spotify.com/artist/4B1XcPipnpGOpuNZeAA1eQ) | [Let Go](https://open.spotify.com/album/5kkOQ9122GxlXlORmJSpzX) | 3:39 |
+| 308 | [Sucker Punch](https://open.spotify.com/track/5phIlbhXRbIgZwf8yFlSWv) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:26 |
+| 309 | [Trap Door](https://open.spotify.com/track/7Jf6ay2g947vLxqRUkC09Q) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 3:54 |
 | 310 | [Impossible](https://open.spotify.com/track/3aBTWIK4C9Tx5D5PjtwOKR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:23 |
 | 311 | [Sleep](https://open.spotify.com/track/69Ju6N9298O1h9YS9eSUp1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud \(Deluxe\)](https://open.spotify.com/album/1J7OJuxxZ0qqLnzAFFregQ) | 5:54 |
 | 312 | [Crowded Places \("From Songland"\)](https://open.spotify.com/track/2Z8LY7VxDOwm3lPvTOE2kR) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Crowded Places \(From "Songland"\)](https://open.spotify.com/album/5DORDernNVnDd9fVVlk7OM) | 2:30 |
@@ -432,5 +432,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 422 | [Won't Walk Away](https://open.spotify.com/track/4TOvwLHReu2LywMpfoUcSJ) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Reason](https://open.spotify.com/album/21rolf1dBBSNqsEZqC7L7l) | 3:41 |
 | 423 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 424 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
+| 425 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `AbWWmQAAAACAQRl0kDm/nEMJlM9SMpmv`
+Snapshot ID: `AbWcOQAAAAA4u5BLLz6vRlVCMKRh434L`

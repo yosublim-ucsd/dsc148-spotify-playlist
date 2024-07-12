@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 174767,
       "name": "GIRL'S TALK",
       "url": "https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5"
@@ -5459,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "Zillion playerZ",
+        "url": "https://open.spotify.com/album/3k7fFBLCHh85ECnRM9ct9R"
+      },
+      "artists": [
+        {
+          "name": "FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
+        },
+        {
+          "name": "nqrse",
+          "url": "https://open.spotify.com/artist/5eduWHej9M7DxUUO3jokA3"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Zillion playerZ",
+      "url": "https://open.spotify.com/track/2yncUOzVrCGQpnyS1T0k9y"
+    },
+    {
+      "album": {
         "name": "zoo",
         "url": "https://open.spotify.com/album/5B5PoyeYH7Tep7UFdKik1a"
       },
@@ -7598,7 +7620,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 261226,
       "name": "\u507d\u611b\u3068\u30cf\u30a4\u30dc\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1ETWk0RLFJBl8HEBC7DGf5"
@@ -8210,7 +8232,7 @@
       },
       "artists": [
         {
-          "name": "Higuchi Ai",
+          "name": "Ai Higuchi",
           "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
         }
       ],
@@ -9098,6 +9120,24 @@
       "duration_ms": 250613,
       "name": "\u82b1\u4e00\u5301",
       "url": "https://open.spotify.com/track/7xwmx6snj1GphKH9ihzo8e"
+    },
+    {
+      "album": {
+        "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+        "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+      "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
     },
     {
       "album": {

@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 62 | [New Tattoo](https://open.spotify.com/track/0EfF9CEGOp1qbk8IZbMDpT) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:31 |
 | 63 | [Supposed](https://open.spotify.com/track/4756zA32smjHNNnu1mvGmE) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:50 |
 | 64 | [Smoke Clouds](https://open.spotify.com/track/4j6a2JkoaJ8hDRxyTeH2Sk) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:57 |
-| 65 | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/track/37PtW9bccg3KULj4nWAjEY) | [MOKS](https://open.spotify.com/artist/19ykePlANf2icrCUi6trQz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/album/5KhioDLlcd5a4DYrLRr0fP) | 3:53 |
-| 66 | [Running Away](https://open.spotify.com/track/425PpIsnEbeVtMp6GJj7jX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 4:08 |
+| 65 | [Running Away](https://open.spotify.com/track/425PpIsnEbeVtMp6GJj7jX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 4:08 |
+| 66 | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/track/37PtW9bccg3KULj4nWAjEY) | [MOKS](https://open.spotify.com/artist/19ykePlANf2icrCUi6trQz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/album/5KhioDLlcd5a4DYrLRr0fP) | 3:53 |
 | 67 | [From Me To You I Hate Everybody](https://open.spotify.com/track/0H8peJeFlnNVmnkljyQBuz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:35 |
 | 68 | [Wolves](https://open.spotify.com/track/07TgFELXJuTNKjqOnmAjzF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:20 |
 | 69 | [If We Can Get Through This We Can Get Through Anything](https://open.spotify.com/track/3SwshlmimrMsFhONlKjgbS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:34 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 96 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 97 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AbWWgAAAAADDum2dKhf1sPPPbWjFDOL2`
+Snapshot ID: `AbWcFgAAAAAYUcQgPQBj+FatcX3aNOdD`

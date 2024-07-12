@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Amalu",
+        "url": "https://open.spotify.com/album/28JRQOBgS56TdjewpaFYk9"
+      },
+      "artists": [
+        {
+          "name": "Nayan Meti",
+          "url": "https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136061,
+      "name": "Amalu",
+      "url": "https://open.spotify.com/track/6wQcIY7csh8pNjdRIPpGsS"
+    },
+    {
+      "album": {
         "name": "Amma",
         "url": "https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ"
       },
@@ -2332,6 +2350,24 @@
       "duration_ms": 295687,
       "name": "Homecoming (The Ayodhya Anthem) - Kannada",
       "url": "https://open.spotify.com/track/6SQAUBzXknH8EGJ4aynrSk"
+    },
+    {
+      "album": {
+        "name": "Hosa adhyaya",
+        "url": "https://open.spotify.com/album/519BLskxufHDlMobhwyj2C"
+      },
+      "artists": [
+        {
+          "name": "Pride",
+          "url": "https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164570,
+      "name": "Hosa adhyaya",
+      "url": "https://open.spotify.com/track/1febx1RdbtCLkNgTdR4r0m"
     },
     {
       "album": {

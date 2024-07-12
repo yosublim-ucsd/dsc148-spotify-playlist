@@ -87,6 +87,24 @@
     },
     {
       "album": {
+        "name": "09/07",
+        "url": "https://open.spotify.com/album/3GoJmCHoHq5y0ESNbMwl5G"
+      },
+      "artists": [
+        {
+          "name": "Sosad.97",
+          "url": "https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144137,
+      "name": "09/07",
+      "url": "https://open.spotify.com/track/4BwVUtx3EARjkGlKdoaFm9"
+    },
+    {
+      "album": {
         "name": "1000 Motivos",
         "url": "https://open.spotify.com/album/75AryEv90n1ocgWbRv9UC8"
       },
@@ -451,6 +469,28 @@
     },
     {
       "album": {
+        "name": "AHORA Y ANTES",
+        "url": "https://open.spotify.com/album/4jXhT1CLeUkXNVoaj9SUEJ"
+      },
+      "artists": [
+        {
+          "name": "Neska",
+          "url": "https://open.spotify.com/artist/1IMX8AG0s31WtvCLk4QEWJ"
+        },
+        {
+          "name": "Seijas",
+          "url": "https://open.spotify.com/artist/1QnAx5hsMtwSzKOR06v5Hj"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "AHORA Y ANTES",
+      "url": "https://open.spotify.com/track/2wbRM0fSvUsD2QLsY1NuHo"
+    },
+    {
+      "album": {
         "name": "Ahora Y Siempre",
         "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
       },
@@ -580,6 +620,24 @@
       "duration_ms": 181956,
       "name": "ALMA ROTA",
       "url": "https://open.spotify.com/track/6XYQ4HtRmAKnbCaSqqyfaC"
+    },
+    {
+      "album": {
+        "name": "Altercado",
+        "url": "https://open.spotify.com/album/6dSflCHbGLhhl8KZCQzPVG"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/7rAjVJgwZhvmMIt5vfyNGn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151858,
+      "name": "Altercado",
+      "url": "https://open.spotify.com/track/0Uz7GP4TXH4Y4uAQQmBwH9"
     },
     {
       "album": {
@@ -1039,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "BETTY BETTY",
+        "url": "https://open.spotify.com/album/1f0Jrx4x6ibyB1FbXq0jdE"
+      },
+      "artists": [
+        {
+          "name": "Las Ninyas del Corro",
+          "url": "https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133800,
+      "name": "BETTY BETTY",
+      "url": "https://open.spotify.com/track/0NUCPmyrjOPsoXbEhAzh3Q"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu"
       },
@@ -1270,7 +1350,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 211940,
       "name": "Buscavidas",
       "url": "https://open.spotify.com/track/1cFwOGilcDonTLlHyeVvGn"
@@ -1288,7 +1368,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 167706,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/6QzmOTXnv79L7EdDItlc2p"
@@ -1446,7 +1526,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 249600,
       "name": "Cansao de To",
       "url": "https://open.spotify.com/track/7ziZS7Bmrs7vNXqc2aSsOw"
@@ -2427,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda Que Yo Quiera",
+        "url": "https://open.spotify.com/album/1sUHtr9N1sUm5oFG5mcVPG"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110634,
+      "name": "El D\u00eda Que Yo Quiera",
+      "url": "https://open.spotify.com/track/4ovo8SoNQpM3jweBCJxKEi"
+    },
+    {
+      "album": {
         "name": "El Patr\u00f3n",
         "url": "https://open.spotify.com/album/4fjrmQ6vZ6Ic5a6vJEqOmo"
       },
@@ -2646,7 +2744,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 151551,
       "name": "Estamos Bien",
       "url": "https://open.spotify.com/track/6P6n6fL8pNvhKjQhUr4zXQ"
@@ -5442,7 +5540,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 146301,
       "name": "No Puede Ser",
       "url": "https://open.spotify.com/track/6SLzDi4oyKhhKNJdc8aqSD"
@@ -5526,6 +5624,28 @@
       "duration_ms": 240000,
       "name": "No temas",
       "url": "https://open.spotify.com/track/4sgi1JD8StfO3LVTVYicpo"
+    },
+    {
+      "album": {
+        "name": "No Volver",
+        "url": "https://open.spotify.com/album/4Jrm2w3D9EBF6opB4U6jqc"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Facundo Majdalani",
+          "url": "https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203104,
+      "name": "No Volver",
+      "url": "https://open.spotify.com/track/2N9lZ8JLYk0H5qwfV50vPw"
     },
     {
       "album": {
@@ -7000,7 +7120,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161372,
       "name": "Somos un Eclipse",
       "url": "https://open.spotify.com/track/332Gog5zsiYmQC8a2vVg1T"
@@ -7312,7 +7432,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 150000,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/0UaGF7qjLqoWBFt8heKjds"
@@ -7585,6 +7705,24 @@
     },
     {
       "album": {
+        "name": "Tu Silueta",
+        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
+      },
+      "artists": [
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170480,
+      "name": "Tu Silueta",
+      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
+    },
+    {
+      "album": {
         "name": "TURBO // Epifan\u00eda",
         "url": "https://open.spotify.com/album/7Ka64TengUUjqhIu9JsAc2"
       },
@@ -7772,6 +7910,28 @@
       "duration_ms": 162858,
       "name": "Venom",
       "url": "https://open.spotify.com/track/27J91XekBNLcwVzH9n89qi"
+    },
+    {
+      "album": {
+        "name": "Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/3stLEN6sI1ZM0Lq5XJBsdC"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "DJ Big Falanges",
+          "url": "https://open.spotify.com/artist/0fJsrG3Oj6PFBPPG8ZVSbv"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187411,
+      "name": "Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/0WvdUGtbek5nzlbnoR8YJT"
     },
     {
       "album": {
@@ -8022,7 +8182,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 144692,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V"

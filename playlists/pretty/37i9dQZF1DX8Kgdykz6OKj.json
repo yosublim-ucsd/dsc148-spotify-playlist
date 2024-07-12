@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1301745,
+  "num_followers": 1302276,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "3:AM (feat. Erykah Badu)",
-        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "DaLouIsBack",
-        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 157201,
-      "name": "DaLouIsBack",
-      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1063,6 +1047,38 @@
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Eerf Evil",
+          "url": "https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+        },
+        {
+          "name": "Outrageous Claims",
+          "url": "https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Chase It",
+      "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1107,34 +1123,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+        "name": "DaLouIsBack",
+        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Asher Kosher",
-          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
-        },
-        {
-          "name": "Eerf Evil",
-          "url": "https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm"
-        },
-        {
-          "name": "Joe Beard",
-          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
-        },
-        {
-          "name": "Outrageous Claims",
-          "url": "https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih"
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Chase It",
-      "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
+      "duration_ms": 157201,
+      "name": "DaLouIsBack",
+      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Northside",
         "url": "https://open.spotify.com/album/0hLjVlDpKDXTevkmF8AwqW"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 170195,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/6gGfplhh2VslZlRvWcLNEQ"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Out Of My Hands (feat. Oddisee)",
-        "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
-      },
-      "artists": [
-        {
-          "name": "GR\u20acY",
-          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Out Of My Hands (feat. Oddisee)",
-      "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "One of Those Feelings",
         "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 156342,
       "name": "One of Those Feelings",
       "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Out Of My Hands (feat. Oddisee)",
+        "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acY",
+          "url": "https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Out Of My Hands (feat. Oddisee)",
+      "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "2 Piece",
         "url": "https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 186666,
       "name": "Bacc 2 Harlem",
       "url": "https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Connection (Remix)",
-        "url": "https://open.spotify.com/album/2GrNc5KugrKao4k6JPFwfY"
-      },
-      "artists": [
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Brittney Carter",
-          "url": "https://open.spotify.com/artist/32YAZ7xdjxw5RWBevTCUUM"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "Connection - Remix",
-      "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Cosca",
         "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
       },
@@ -1807,6 +1787,46 @@
       "duration_ms": 116756,
       "name": "Cosca",
       "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Still Not In Space",
+        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
+      },
+      "artists": [
+        {
+          "name": "wnbl",
+          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
+        },
+        {
+          "name": "Mike Nasa",
+          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
+        }
+      ],
+      "duration_ms": 176149,
+      "name": "Still Not In Space",
+      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Connection (Remix)",
+        "url": "https://open.spotify.com/album/2GrNc5KugrKao4k6JPFwfY"
+      },
+      "artists": [
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Brittney Carter",
+          "url": "https://open.spotify.com/artist/32YAZ7xdjxw5RWBevTCUUM"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "Connection - Remix",
+      "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1895,22 +1915,42 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Still Not In Space",
-        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
+        "name": "Premium",
+        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
       },
       "artists": [
         {
-          "name": "wnbl",
-          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
+          "name": "Padre T\u00f3xico",
+          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
         },
         {
-          "name": "Mike Nasa",
-          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
         }
       ],
-      "duration_ms": 176149,
-      "name": "Still Not In Space",
-      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
+      "duration_ms": 168000,
+      "name": "Premium",
+      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o"
+      },
+      "artists": [
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 193362,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1939,26 +1979,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o"
-      },
-      "artists": [
-        {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 193362,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Zoe",
         "url": "https://open.spotify.com/album/0PU8QxQsi07bJl0SO6KNmz"
       },
@@ -1971,26 +1991,6 @@
       "duration_ms": 193904,
       "name": "Zoe",
       "url": "https://open.spotify.com/track/7AdvTJBXmJ3WhedAQGrS9D"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Premium",
-        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
-      },
-      "artists": [
-        {
-          "name": "Padre T\u00f3xico",
-          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Premium",
-      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
     },
     {
       "added_at": "2024-07-05 04:00:00",

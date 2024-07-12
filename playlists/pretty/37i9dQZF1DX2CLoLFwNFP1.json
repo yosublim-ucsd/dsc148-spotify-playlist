@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 39095,
+  "num_followers": 39143,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Son Malas (Feat. Jay Park)",
-        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
-      },
-      "artists": [
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 148640,
-      "name": "Son Malas",
-      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Playinwitme (Remix) [feat. Jay Park]",
         "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 193060,
       "name": "Playinwitme (Remix) [feat. Jay Park]",
       "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Son Malas (Feat. Jay Park)",
+        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
+      },
+      "artists": [
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 148640,
+      "name": "Son Malas",
+      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1172,13 +1172,17 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 178374,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
+      "duration_ms": 209374,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1196,17 +1200,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
+      "duration_ms": 178374,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
         "url": "https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 223728,
       "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
       "url": "https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/6qJ6mDO8ZgAlmYrdYmfPtj"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "All The Way Up (K)",
+      "url": "https://open.spotify.com/track/6lp2MvqEBSdL3L84GAvl4o"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 219053,
       "name": "All Day (Flex)",
       "url": "https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "[Vol.66] You Hee yul's Sketchbook : 40th Voice 'Sketchbook X Jay Park'",
-        "url": "https://open.spotify.com/album/4NB7wMyRsRUQ1TZ2GivpDS"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/3u1lKhxd2XV8f77aZAsRkN"
     }
   ],
   "unique_name": "This Is Jay Park",

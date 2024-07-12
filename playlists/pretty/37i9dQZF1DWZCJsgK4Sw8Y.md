@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,434 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,488 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 44 | [Embers And Envelopes](https://open.spotify.com/track/4ArUnW8s0cuJLKVFmkCA2F) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/3qdzT7kFqXnAKum9hYXXOz) | 4:18 |
 | 45 | [Faith Like That](https://open.spotify.com/track/6RQKQCnrdFsN1fFwAMqpLp) | [Jonah33](https://open.spotify.com/artist/0Chu9tSPIjW9bGr5OLlvy0) | [Jonah33](https://open.spotify.com/album/1Stml9q5yeDQI1cSz3o8AR) | 4:24 |
 | 46 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
-| 47 | [Horizon](https://open.spotify.com/track/78nsDXdPdsSEgQ7uE8o1JU) | [38th Parallel](https://open.spotify.com/artist/7iKsdIqgy2s5xMbKiVafjv) | [Turn the Tides](https://open.spotify.com/album/1gTvrOuCP6SjwS8aCFiFBo) | 3:53 |
+| 47 | [Horizon](https://open.spotify.com/track/78nsDXdPdsSEgQ7uE8o1JU) | [38th Parallel](https://open.spotify.com/artist/7iKsdIqgy2s5xMbKiVafjv) | [Turn The Tides](https://open.spotify.com/album/1gTvrOuCP6SjwS8aCFiFBo) | 3:53 |
 | 48 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
 | 49 | [One Time \- Earthsuit 2000 Album Version](https://open.spotify.com/track/1Q9o5YS8sF60FpCzhG7628) | [Earthsuit](https://open.spotify.com/artist/0ues6uPY9fNQNLlpV9Qxqr) | [Kaleidoscope Superior](https://open.spotify.com/album/0t0depqHMDvV1M2Zvm4bXp) | 4:20 |
 | 50 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |

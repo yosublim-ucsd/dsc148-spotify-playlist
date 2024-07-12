@@ -4,7 +4,7 @@
 
 > RADAR = promoting exciting artists! RADAR BNLX: <a href="spotify:artist:11T0XSkxSB5KUPTe8P8BOl">Sylvie Kreusch</a> \(cover\), The Vices, Berre, The Indien & Roxy Dekker
 
-186 songs - 9 hr 49 min
+187 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Erop Of Eronder](https://open.spotify.com/track/1dCSj3mSC1mulxiBoWgDNV) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:41 | 2023-06-23 | 2024-01-19 |
 | [Fist In My Pocket](https://open.spotify.com/track/3dO1OecfYAGfiB3GFcPWnd) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 5:07 | 2022-11-03 | 2024-01-19 |
 | [Fuck the World \(feat\. Boslen\)](https://open.spotify.com/track/2tQtz7I7B8bHJyVsh3pdsu) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Fuck the World \(feat\. Boslen\)](https://open.spotify.com/album/6ZTXNtbfkNghi8H69m36JU) | 2:26 | 2023-03-10 | 2023-09-15 |
+| [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-11 |  |
 | [get older](https://open.spotify.com/track/0Ry8KfNAJIuKQBskXsF0ee) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [not going anywhere](https://open.spotify.com/album/2JJWyPspAEHpWybdHPtFzi) | 2:57 | 2023-09-14 |  |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-02-03 | 2022-03-19 |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/1S6dAn7JVM7f0TPabCjS3Y) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/2bfob7z1a7651fvK2kCf5a) | 4:23 | 2023-07-20 | 2023-07-26 |
@@ -148,7 +149,7 @@
 | [Running Backwards Into The Future](https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16) | 3:54 | 2023-03-08 | 2023-06-05 |
 | [Running Backwards Into The Future](https://open.spotify.com/track/7dvwk1q1jCt8lYY3S7Duog) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Red / Yellow / Blue](https://open.spotify.com/album/4jsaaN4FCIJRNHkikQulD2) | 3:54 | 2023-05-22 | 2024-04-19 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-10-17 | 2023-09-15 |
-| [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-12-12 |  |
+| [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-12-12 | 2024-07-12 |
 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 | 2023-03-08 | 2023-09-15 |
 | [Scars On My Skin](https://open.spotify.com/track/2GLh4XC9C7FJQorZ1160kT) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug), [HMLSS](https://open.spotify.com/artist/5Ft8jDLOn1p42XMZjekdBs) | [Scars On My Skin](https://open.spotify.com/album/3Otn8P0b8DHJpLLX5QyrF0) | 3:04 | 2023-01-27 | 2023-09-15 |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-02-25 | 2022-08-26 |

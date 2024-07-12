@@ -2,7 +2,7 @@
 
 ### [Rimas Frescas ](https://open.spotify.com/playlist/37i9dQZF1DWWqt6nKwdYgN)
 
-> ¡Lo más fresco del hip\-hop en español! Eptos Uno en portada.
+> ¡Lo más fresco del hip\-hop en español! Loyaltty en portada.
 
 598 songs - 1 day 9 hr 1 min
 

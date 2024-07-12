@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36219,
+  "num_followers": 36229,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Du kriegst mich nicht zur\u00fcck",
-        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
-      },
-      "artists": [
-        {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Du kriegst mich nicht zur\u00fcck",
-      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 164425,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Du kriegst mich nicht zur\u00fcck",
+        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
+      },
+      "artists": [
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Du kriegst mich nicht zur\u00fcck",
+      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Atrevida",
-        "url": "https://open.spotify.com/album/4kzAbL8Xc7eCUG4eRh7RZe"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        },
-        {
-          "name": "EAZ",
-          "url": "https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW"
-        }
-      ],
-      "duration_ms": 170065,
-      "name": "Atrevida",
-      "url": "https://open.spotify.com/track/58nKfhlWsJ3pFEQDW7Mel7"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Atrevida",
+        "url": "https://open.spotify.com/album/4kzAbL8Xc7eCUG4eRh7RZe"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        },
+        {
+          "name": "EAZ",
+          "url": "https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW"
+        }
+      ],
+      "duration_ms": 170065,
+      "name": "Atrevida",
+      "url": "https://open.spotify.com/track/58nKfhlWsJ3pFEQDW7Mel7"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "torn",
-        "url": "https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 163115,
-      "name": "torn",
-      "url": "https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 157906,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "torn",
+        "url": "https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 163115,
+      "name": "torn",
+      "url": "https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 165257,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 165257,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 177269,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -751,18 +767,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "2560",
-        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
       },
       "artists": [
         {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
         }
       ],
-      "duration_ms": 198586,
-      "name": "2560",
-      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
+      "duration_ms": 150794,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -783,18 +799,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Zeilen f\u00fcr dich",
-        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
+        "name": "Botanical Garden",
+        "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Anna Erhard",
+          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
         }
       ],
-      "duration_ms": 197506,
-      "name": "Zeilen f\u00fcr dich",
-      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
+      "duration_ms": 188740,
+      "name": "Botanical Garden",
+      "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Flight Mode",
-        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 150794,
-      "name": "Flight Mode",
-      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Softly Speaking",
         "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Botanical Garden",
-        "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
-      },
-      "artists": [
-        {
-          "name": "Anna Erhard",
-          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
-        }
-      ],
-      "duration_ms": 188740,
-      "name": "Botanical Garden",
-      "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Full 180",
         "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 216249,
       "name": "Full 180",
       "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Zeilen f\u00fcr dich",
+        "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Zeilen f\u00fcr dich",
+      "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -899,8 +899,24 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "highway love estate",
-        "url": "https://open.spotify.com/album/2rpZAnxSvqRIlfofiAi7Pj"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
+      },
+      "artists": [
+        {
+          "name": "Marc Sway",
+          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "silver lining",
+        "url": "https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5"
       },
       "artists": [
         {
@@ -908,29 +924,25 @@
           "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
         }
       ],
-      "duration_ms": 231189,
-      "name": "highway love estate",
-      "url": "https://open.spotify.com/track/6yDXUscVGQ9w5P0qVP9Hnf"
+      "duration_ms": 222986,
+      "name": "silver lining",
+      "url": "https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC"
     },
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Pirdutu cori",
-        "url": "https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD"
+        "name": "rabbit holes",
+        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
       },
       "artists": [
         {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
-        },
-        {
-          "name": "Pippo Pollina",
-          "url": "https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 219946,
-      "name": "Pirdutu cori",
-      "url": "https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8"
+      "duration_ms": 216307,
+      "name": "rabbit holes",
+      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -983,22 +995,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
-      },
-      "artists": [
-        {
-          "name": "Marc Sway",
-          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Milchstrass (feat. Aaron Asteria)",
         "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
@@ -1019,22 +1015,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "babyboy",
-        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
+        "name": "Pirdutu cori",
+        "url": "https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD"
       },
       "artists": [
         {
-          "name": "Nomuel",
-          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
         },
         {
-          "name": "Milxn",
-          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
+          "name": "Pippo Pollina",
+          "url": "https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ"
         }
       ],
-      "duration_ms": 170235,
-      "name": "babyboy",
-      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
+      "duration_ms": 219946,
+      "name": "Pirdutu cori",
+      "url": "https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1071,8 +1067,8 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "silver lining",
-        "url": "https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5"
+        "name": "highway love estate",
+        "url": "https://open.spotify.com/album/2rpZAnxSvqRIlfofiAi7Pj"
       },
       "artists": [
         {
@@ -1080,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
         }
       ],
-      "duration_ms": 222986,
-      "name": "silver lining",
-      "url": "https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC"
+      "duration_ms": 231189,
+      "name": "highway love estate",
+      "url": "https://open.spotify.com/track/6yDXUscVGQ9w5P0qVP9Hnf"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "rabbit holes",
-        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
+        "name": "babyboy",
+        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
       },
       "artists": [
         {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        },
+        {
+          "name": "Milxn",
+          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
         }
       ],
-      "duration_ms": 216307,
-      "name": "rabbit holes",
-      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
+      "duration_ms": 170235,
+      "name": "babyboy",
+      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1139,34 +1139,34 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Kiss Me in the Morning",
-        "url": "https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc"
+        "name": "Mi Mundo",
+        "url": "https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq"
       },
       "artists": [
         {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 207096,
-      "name": "Kiss Me in the Morning",
-      "url": "https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co"
+      "duration_ms": 176086,
+      "name": "Mi Mundo",
+      "url": "https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT"
     },
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+        "name": "NEW FRIENDS",
+        "url": "https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Skyler Wind",
+          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
         }
       ],
-      "duration_ms": 179617,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+      "duration_ms": 173183,
+      "name": "NEW FRIENDS",
+      "url": "https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf"
     }
   ],
   "unique_name": "Swiss Made",

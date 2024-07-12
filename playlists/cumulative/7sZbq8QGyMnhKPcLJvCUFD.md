@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-563 songs - 1 day 4 hr 45 min
+564 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [numbers](https://open.spotify.com/track/4qF8OCdowrImJ8To54Xfzo) | [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [numbers](https://open.spotify.com/album/04MxkL5HrdLkF7SXqtxW2D) | 2:35 | 2023-03-10 | 2023-08-10 |
 | [Nunca](https://open.spotify.com/track/39tVEd3FP8xQix5eOEsnZT) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Maria\-Lea](https://open.spotify.com/artist/3JJ77d8rkL5KfvNNOjp3zg) | [Nunca](https://open.spotify.com/album/5wWjtihZAD8ckCkEhJHgYa) | 2:31 | 2023-12-13 | 2024-04-17 |
 | [Oblivion](https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/3OIFSAU72optxkAdxjyoUF) | 3:50 | 2023-08-08 | 2024-01-13 |
+| [OFFLINE](https://open.spotify.com/track/1OJCShDuK5Nt65EvtzOKER) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/4VNlFLwUEOLU2X0FvIi2NG) | [OFFLINE](https://open.spotify.com/album/35HuahdvG1p9pFHllhSAAX) | 2:39 | 2024-07-11 |  |
 | [Oh My Gawd](https://open.spotify.com/track/3wBFnFG8GTTdY6VzMyJ1wQ) | [Crushed Candy](https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1) | [Oh My Gawd](https://open.spotify.com/album/3VRnwIygZQl33g9i4C2L5Q) | 2:04 | 2024-02-06 |  |
 | [Old School](https://open.spotify.com/track/2H1M1zD08kZI5GuG4smljN) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Old School](https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5) | 2:44 | 2022-07-08 | 2023-04-28 |
 | [Omen](https://open.spotify.com/track/2bjtlNmO8Rf5Bl4rxNl3GJ) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Omen](https://open.spotify.com/album/1R22jTxrC9kIYip1RbCduE) | 2:57 | 2023-08-08 | 2024-02-17 |

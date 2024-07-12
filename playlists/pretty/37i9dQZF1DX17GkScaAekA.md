@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,095 likes - 74 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,363 likes - 74 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 28 | [Adagietto](https://open.spotify.com/track/3EO1jW8meUV5olvl3UTD6W) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Sebastian Knauer](https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh) | [This Is \(Not\) Beethoven](https://open.spotify.com/album/2GV1ljxc2JbgX4RCLu89mb) | 2:22 |
 | 29 | [Orphée \- Arr\. for Piano duet / Act 1: III\. La chambre d'Orphée](https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Glass: Orphée: III\. La chambre d'Orphée / Act 1 \- Arr\. for Piano duet](https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi) | 1:59 |
 | 30 | [24 Préludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/4TdplSGjf7izKmKe81pt6b) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Chopin: 26 Preludes](https://open.spotify.com/album/3baJOyeM5b3t8CoOOeRKH6) | 1:51 |
-| 31 | [I\. Allegro moderato](https://open.spotify.com/track/3R3d9GdiGr5hYHTIwKaVjw) | [Baldassare Galuppi](https://open.spotify.com/artist/65fAk5vQnO9gmOCk2wPkuT), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [I\. Allegro moderato](https://open.spotify.com/album/51i7eo6ivT0dQxYx6eHsVx) | 2:10 |
+| 31 | [Passatempo al cembalo, Sonata No\. 3 in C Minor: I\. Allegro moderato](https://open.spotify.com/track/3R3d9GdiGr5hYHTIwKaVjw) | [Baldassare Galuppi](https://open.spotify.com/artist/65fAk5vQnO9gmOCk2wPkuT), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [I\. Allegro moderato](https://open.spotify.com/album/51i7eo6ivT0dQxYx6eHsVx) | 2:10 |
 | 32 | [3 Romances, Op\. 11: No\. 1, Andante](https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 3:02 |
 | 33 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2wlUU8uTvjeCetz0EyeF5M) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/album/1rOnSUZnWw9cR0CBikcRRT) | 4:18 |
 | 34 | [Young Birches, Op\. 128, No\. 2](https://open.spotify.com/track/4VVEfBXep7FdOt524jkfLF) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Joanne Polk](https://open.spotify.com/artist/0Hgrwj6TQd1u3pQ1vNwGP3) | [Beach: Variations on Balkan Themes Op\. 60, Maria Funerale, Cadenza, Scottish Legend Op\. 54 No\. 1, etc.](https://open.spotify.com/album/3dldJuQko5BkfCOo6O8UJR) | 2:39 |

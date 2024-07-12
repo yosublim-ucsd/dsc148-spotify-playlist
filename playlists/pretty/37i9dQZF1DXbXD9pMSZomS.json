@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 467337,
+  "num_followers": 467442,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
-      },
-      "artists": [
-        {
-          "name": "Becky Ford",
-          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
+      },
+      "artists": [
+        {
+          "name": "Becky Ford",
+          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 214602,
       "name": "Restless",
       "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -555,6 +555,22 @@
       "duration_ms": 213333,
       "name": "199X",
       "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Everytime EP",
+        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -639,22 +655,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Everytime EP",
-        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        }
-      ],
-      "duration_ms": 308269,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "I Knew It",
         "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
       },
@@ -671,6 +671,74 @@
       "duration_ms": 224390,
       "name": "I Knew It",
       "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Everytime (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 221166,
+      "name": "Everytime - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "About Our Amore",
+        "url": "https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw"
+      },
+      "artists": [
+        {
+          "name": "KOKO.IT",
+          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
+        }
+      ],
+      "duration_ms": 304272,
+      "name": "About Our Amore",
+      "url": "https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 221900,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -695,38 +763,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "About Our Amore",
-        "url": "https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw"
-      },
-      "artists": [
-        {
-          "name": "KOKO.IT",
-          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
-        }
-      ],
-      "duration_ms": 304272,
-      "name": "About Our Amore",
-      "url": "https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 221900,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "I'm In Love",
         "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
       },
@@ -739,42 +775,6 @@
       "duration_ms": 272760,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Everytime (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        },
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 221166,
-      "name": "Everytime - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Be Free",
-        "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
-      },
-      "artists": [
-        {
-          "name": "J Boogie's Dubtronic Science",
-          "url": "https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv"
-        },
-        {
-          "name": "Carlos Araiza",
-          "url": "https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Dosages, Vol. 2",
         "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Beats On Boat: Made in M",
-        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
       },
       "artists": [
         {
-          "name": "Made in M",
-          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+          "name": "J Boogie's Dubtronic Science",
+          "url": "https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv"
+        },
+        {
+          "name": "Carlos Araiza",
+          "url": "https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y"
         }
       ],
-      "duration_ms": 339130,
-      "name": "Flightmode On",
-      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
+      "duration_ms": 349560,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -883,6 +867,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Beats On Boat: Made in M",
+        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
+      },
+      "artists": [
+        {
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+        }
+      ],
+      "duration_ms": 339130,
+      "name": "Flightmode On",
+      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Mellow Mornings",
         "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
       },
@@ -895,42 +895,6 @@
       "duration_ms": 154814,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Milkyway",
-        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
-      },
-      "artists": [
-        {
-          "name": "Worldtraveller",
-          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Storm in a Teacup",
-        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
-      },
-      "artists": [
-        {
-          "name": "Koisu",
-          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
-        },
-        {
-          "name": "Omaure",
-          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
-        }
-      ],
-      "duration_ms": 293764,
-      "name": "A Piece of Mind",
-      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -967,6 +931,42 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Storm in a Teacup",
+        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
+      },
+      "artists": [
+        {
+          "name": "Koisu",
+          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
+        },
+        {
+          "name": "Omaure",
+          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
+        }
+      ],
+      "duration_ms": 293764,
+      "name": "A Piece of Mind",
+      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Milkyway",
+        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
       },
@@ -999,30 +999,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Moon II Remixes Pt. II",
-        "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
+        "name": "Lies (DJ Ross' Friendly Remix)",
+        "url": "https://open.spotify.com/album/7H9Lis82mKKJGhRuFG9S1R"
       },
       "artists": [
         {
-          "name": "Iron Curtis",
-          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
+          "name": "Temptress",
+          "url": "https://open.spotify.com/artist/5I39KEsxUpLOVrWe1IYToI"
         },
         {
-          "name": "Johannes Albert",
-          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
-        },
-        {
-          "name": "Lisa Toh",
-          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
-        },
-        {
-          "name": "Erdbeerschnitzel",
-          "url": "https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx"
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
         }
       ],
-      "duration_ms": 277567,
-      "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
-      "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
+      "duration_ms": 438000,
+      "name": "Lies - DJ Ross' Friendly Remix",
+      "url": "https://open.spotify.com/track/5EH8ZhirwYoNHfDjQNXHC0"
     }
   ],
   "unique_name": "Lo-Fi House",

@@ -4,7 +4,7 @@
 
 > 
 
-1,488 songs - 3 day 9 hr 14 min
+1,491 songs - 3 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Do It Like This](https://open.spotify.com/track/5WFEmA3s3v5CqDRuhZoQox) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Do It Like This](https://open.spotify.com/album/0ddXCnHH0mn3Fchd5tb3eg) | 3:40 | 2022-10-05 |  |
 | [Do Or Die \- Refract Remix](https://open.spotify.com/track/3jWSTMDUKMgnbSKmrb199T) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Refract](https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm) | [Do Or Die \(Refract Remix\)](https://open.spotify.com/album/0gjLOJHeQvXUKxOs47AYdr) | 3:09 | 2023-03-06 |  |
 | [Do You Lift?](https://open.spotify.com/track/0jzavUzVth0IUdg60ILgx1) | [Mike Enemy](https://open.spotify.com/artist/1OKLZ6g7k4btXpP37eCnVO), [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Natalia Moon](https://open.spotify.com/artist/6l6zQOPNxcOlDMQUFil2Gs), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Do You Lift?](https://open.spotify.com/album/2zEsVxwsCRQOAemvHfLGN3) | 3:28 | 2023-03-06 |  |
+| [Do You Think About Me?](https://open.spotify.com/track/0yxGKAoQbBUh2u2FGghUzC) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:05 | 2024-07-11 |  |
 | [Do You Want It \- Edit](https://open.spotify.com/track/77cE9ME7MX6hNpwMn8qUUE) | [KLIO](https://open.spotify.com/artist/7IGMJ3A8I6Sa2GlJ8qprcz), [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5) | [Rewind & Play](https://open.spotify.com/album/09qAO3q4TNPlw69XlFAs5l) | 1:39 | 2023-10-24 |  |
 | [Dogbite](https://open.spotify.com/track/7yox1hSTYWNoebrodpKRnt) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [without Permission](https://open.spotify.com/album/5up0roguf8Ty6lUDIoBfS5) | 2:00 | 2022-08-11 |  |
 | [Doki Doki \- Extended Mix](https://open.spotify.com/track/1BdzTVIvrqb3W9p7NlvQGu) | [Maddo](https://open.spotify.com/artist/6jLrTGtm0wmB2dDIYS1US9), [Lollypop Lane](https://open.spotify.com/artist/6OBSrFdcO8PTjgCPqYB9FS) | [Doki Doki](https://open.spotify.com/album/7DYFMILSNO5WdT4DsNb8Nt) | 3:03 | 2022-11-16 |  |
@@ -352,6 +353,7 @@
 | [Double D](https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Double D](https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK) | 3:28 | 2022-09-08 |  |
 | [Down To Earth](https://open.spotify.com/track/3kihuUqBuMDO6tXGUY65s9) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Rest In Pieces](https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr) | 2:52 | 2023-04-21 |  |
 | [Down With The E \- Tatsunoshin Remix](https://open.spotify.com/track/7jIHPF0CLlnq6GuVXmr56G) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Down With The E \(Tatsunoshin Remix\)](https://open.spotify.com/album/6YicmYup82NxtKrxjwRGn1) | 2:56 | 2023-04-10 |  |
+| [DR34M$](https://open.spotify.com/track/55EPegD9KficI9lrBqqnwG) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [DR34M$](https://open.spotify.com/album/10M4qb2LIWkOk2dZWWo6os) | 2:36 | 2024-07-11 |  |
 | [Dream Up \- kors k Remix](https://open.spotify.com/track/5j6dFGY2oVg47wLGwH72nZ) | [DJ Shimamura](https://open.spotify.com/artist/3w4XD20Uhwh95PA6Hjfd0M), [Mari\*F](https://open.spotify.com/artist/1B5gXWmWIPU0LKVIpYHJKx), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ) | [Dream Up \(kors k Remix\)](https://open.spotify.com/album/7zENTXepNOXr8bNEd1VRLB) | 4:43 | 2022-09-27 |  |
 | [Drifting Away](https://open.spotify.com/track/28lyEHZrnmRJETHMrnyTjB) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Drifting Away](https://open.spotify.com/album/5aLrJHWb2OwLbNLpp7t4Ug) | 4:26 | 2023-05-06 |  |
 | [Drifting Away \- Extended Mix](https://open.spotify.com/track/6TX6t2DkZ6nrfQKfcMG2gh) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drifting Away](https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi) | 3:21 | 2023-01-21 |  |
@@ -643,6 +645,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/4SuMB4zYiQod44r2Q1kXLq) | [Toxin](https://open.spotify.com/artist/26RTam2yuuEEPEOUacIT8o), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [i like the way you kiss me](https://open.spotify.com/album/0KXdKUrHPtsRDZuQ7VWb3j) | 2:56 | 2024-05-03 |  |
 | [I Like The Way You Kiss Me \- Uptempo Edit](https://open.spotify.com/track/1Q4Ndw21wSor4ZAY7ycAmz) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [I Like The Way You Kiss Me \(Uptempo Edit\)](https://open.spotify.com/album/5VVaAnzdPdLIA8A2CKI8Xt) | 2:39 | 2024-05-12 |  |
 | [I Love It](https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [I Love It](https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK) | 2:09 | 2024-04-09 |  |
+| [I Make You Shine](https://open.spotify.com/track/36mE5EAeGYh9p7z1cv0sHT) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [I Make You Shine](https://open.spotify.com/album/3n6Q6fOaOJKZp5LtwTt96S) | 2:49 | 2024-07-11 |  |
 | [I NEED U](https://open.spotify.com/track/01z52s7dMbzZAPYIjcLQUU) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [I NEED U](https://open.spotify.com/album/5DXyKXUkVNtpA1Gl9HISwQ) | 3:21 | 2024-06-21 |  |
 | [I Wanna Live](https://open.spotify.com/track/57jMN6YemUojabtxDUm9JI) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [I Wanna Live](https://open.spotify.com/album/2uC5gLWEn11uheW0003mHm) | 2:25 | 2024-04-09 |  |
 | [I Was On Pills](https://open.spotify.com/track/0LDbDL0J1FzUJHTpuXRPSj) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 3:27 | 2022-08-23 |  |

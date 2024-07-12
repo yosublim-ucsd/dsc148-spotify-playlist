@@ -2,7 +2,7 @@
 
 ### [This Is Kasey Chambers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PLAE6)
 
-> This is Kasey Chambers\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Kasey Chambers\. The essential tracks, all in one playlist.
 
 62 songs - 3 hr 37 min
 

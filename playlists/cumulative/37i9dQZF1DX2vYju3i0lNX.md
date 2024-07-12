@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,026 songs - 2 day 12 hr 25 min
+1,029 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [A Love Devine](https://open.spotify.com/track/5TyZn6zFqw8tA6S5qdMheG) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Stand](https://open.spotify.com/album/1LFfPnj2bH1O8D8FGyQhvt) | 2:21 | 2021-12-07 | 2023-05-05 |
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-13 |  |
 | [A Minor Thing](https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Minor Thing](https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv) | 3:37 | 2024-04-16 |  |
+| [A New Story](https://open.spotify.com/track/2vgXZPi6Kh0iKWzI0Cw1pf) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [A New Story](https://open.spotify.com/album/3txv5NrvYUyxgEwxCHlYlG) | 3:41 | 2024-07-08 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-30 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4pIF1SiB1GMFOFfo6OhrOi) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Here, There And Everywhere](https://open.spotify.com/album/0YDrnRN4lgzFDIWLtNLz2F) | 3:05 | 2021-12-07 | 2022-08-31 |
 | [A Note's Journey](https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz) | [Isaiah Lewis](https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP) | [A Note's Journey](https://open.spotify.com/album/7DsmLchOkUIMsesLaVWkWn) | 3:48 | 2023-12-08 |  |
@@ -182,6 +183,7 @@
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
 | [Closing Time](https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Closing Time](https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh) | 3:36 | 2023-10-20 |  |
 | [Cloud Gazing with Her](https://open.spotify.com/track/2It5saSY1cKq4b3F9TiEWT) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Cloud Gazing with Her](https://open.spotify.com/album/5qf0OJFsADPqkTNPSUGMGB) | 3:35 | 2024-02-02 |  |
+| [Clouded Mind](https://open.spotify.com/track/1HaE5tQ6TF3XA0on2OgO7T) | [Par Noir](https://open.spotify.com/artist/0AbbEMo6kKsdeH9dDEMFG9) | [Clouded Mind](https://open.spotify.com/album/2ocMON2Jz9IaFlyUVDeqiV) | 3:27 | 2024-07-08 |  |
 | [Clouds Across the Sky](https://open.spotify.com/track/0OUhJHr2nci0RHw8GPYL0q) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Clouds Across the Sky](https://open.spotify.com/album/4zEyjWpg4T9qTvF4JifMZ9) | 2:35 | 2024-06-11 |  |
 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 | 2023-10-06 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 | 2024-06-25 |
@@ -261,6 +263,7 @@
 | [Even If It Breaks My Heart](https://open.spotify.com/track/2smYdzIk06dlNfIK509OHl) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Even If It Breaks My Heart](https://open.spotify.com/album/3YuJiO9uN5AC6qIlIcZnIX) | 3:31 | 2024-03-22 |  |
 | [Every Time We Say Goodbye](https://open.spotify.com/track/7FRzl3GfBSkTTVzkpjTjnU) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 2:45 | 2023-04-27 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-08 |  |
+| [Everything and Nothing](https://open.spotify.com/track/0AGbSr475KpVcGPwbI1hBu) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Everything and Nothing](https://open.spotify.com/album/6RlYKrwbK3qDnjdHOYBflB) | 3:24 | 2024-07-08 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/5skJZRiUtObQ6tR130S5O1) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 2:41 | 2021-12-07 | 2023-01-06 |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2021-12-07 | 2023-03-10 |
 | [Everything I Love](https://open.spotify.com/track/3FVN9XVNvU2hc4HADT4I4i) | [Noodlin' Collective](https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY) | [Everything I Love](https://open.spotify.com/album/02xsVD9c3xV3SEIvqrf4v7) | 2:50 | 2023-05-25 |  |

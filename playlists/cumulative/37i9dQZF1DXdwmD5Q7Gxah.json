@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 200624,
       "name": "Angel Blessings",
       "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
@@ -9434,7 +9434,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 170109,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/4xghRTAU6Hqjyf4MO1gr6w"
@@ -16812,7 +16812,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 142000,
       "name": "Fortune Eyes",
       "url": "https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC"
@@ -22142,7 +22142,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 120314,
       "name": "i don't really feel it anymore",
       "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"
@@ -30194,7 +30194,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -42657,6 +42657,24 @@
     },
     {
       "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y"
+    },
+    {
+      "album": {
         "name": "Sour Apple",
         "url": "https://open.spotify.com/album/00hJ6NRmX5LfBKGUbKb4TB"
       },
@@ -43622,7 +43640,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 148400,
       "name": "stick of gum",
       "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
@@ -45756,7 +45774,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
@@ -51170,7 +51188,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 57313,
       "name": "whatever it takes",
       "url": "https://open.spotify.com/track/3QDFH3hLEZZzz8Em1Wlkrb"

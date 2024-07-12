@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Noah Dillon",
+  "description": "New and local indie noise. Cover: King Gizzard & The Lizard Wizard",
   "name": "Local Noise",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 257084,
       "name": "AFTERBIAS",
       "url": "https://open.spotify.com/track/3LqQOYcWauYqd7gtohdbYL"
+    },
+    {
+      "album": {
+        "name": "Lustre",
+        "url": "https://open.spotify.com/album/4476oK9dDwXluywz166CT1"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224849,
+      "name": "Ahead Of Myself",
+      "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
     },
     {
       "album": {
@@ -149,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
+    },
+    {
+      "album": {
         "name": "BLOOD ON THE DRUMS (The Thorns)",
         "url": "https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa"
       },
@@ -178,7 +214,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 271000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4O5UrhsAv2PnDMOKvU8cJw"
@@ -401,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Digging The Hole",
+        "url": "https://open.spotify.com/album/3FBzGX9bwOQYA2gyCVnyTd"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207093,
+      "name": "Digging The Hole",
+      "url": "https://open.spotify.com/track/7ae8QazzhjvSC6spposca2"
+    },
+    {
+      "album": {
         "name": "Don't Let Me Down Easy",
         "url": "https://open.spotify.com/album/2c6huLgcVNejsRn2Od7m9d"
       },
@@ -448,10 +502,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 246973,
       "name": "Draw the Line",
       "url": "https://open.spotify.com/track/7dt2qvpL4LO1MizChvAFhf"
+    },
+    {
+      "album": {
+        "name": "Enmore",
+        "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162182,
+      "name": "Enmore",
+      "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
     },
     {
       "album": {
@@ -592,7 +664,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154111,
       "name": "Guns in the Air",
       "url": "https://open.spotify.com/track/03k0shYB0aWPcCD5JFsDH1"
@@ -646,10 +718,28 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 294005,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/52T1LYNEAtaUdCHbZgxixa"
+    },
+    {
+      "album": {
+        "name": "Hey...",
+        "url": "https://open.spotify.com/album/7C4Hm4v7wvvSFV6pRHkCX4"
+      },
+      "artists": [
+        {
+          "name": "Bronte Alva",
+          "url": "https://open.spotify.com/artist/0pOi3jQPLxu1ruQahY1Twm"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185337,
+      "name": "Hey...",
+      "url": "https://open.spotify.com/track/5kEyWXpQE5hYbqmKHhehkp"
     },
     {
       "album": {
@@ -707,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/5IKnXI7rlrQT8jJ7y7XMps"
+      },
+      "artists": [
+        {
+          "name": "Bellwether",
+          "url": "https://open.spotify.com/artist/1t8CbTXoOS38BZLxuVcNlo"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183579,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/095RuNxw9kLodCTvfjA7P5"
+    },
+    {
+      "album": {
         "name": "How Dare You Fall In Love In This City",
         "url": "https://open.spotify.com/album/3USTrE8ybIHl8Ax8vL5C5A"
       },
@@ -754,7 +862,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 228128,
       "name": "I Can Wait",
       "url": "https://open.spotify.com/track/1tlLIciSeMZbUyBPCFUZJK"
@@ -790,7 +898,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 191243,
       "name": "I Speak Tongues",
       "url": "https://open.spotify.com/track/4NMeVS4orsFiYmqdymTqmI"
@@ -866,7 +974,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 166312,
       "name": "I\u2019m Sure You\u2019ve Heard",
       "url": "https://open.spotify.com/track/0Pi1tFmFEwxGFNQYjNLjjd"
@@ -884,7 +992,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 180722,
       "name": "Jump The Gate",
       "url": "https://open.spotify.com/track/2QDkHgXb6gEknHrDsitC7I"
@@ -909,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "l8tely",
+        "url": "https://open.spotify.com/album/2m8IBDHZaJXiJbMxgCAaYM"
+      },
+      "artists": [
+        {
+          "name": "TOWNS",
+          "url": "https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183057,
+      "name": "l8tely",
+      "url": "https://open.spotify.com/track/605xSDYczz0yXWHkuYlldD"
+    },
+    {
+      "album": {
         "name": "Stung!",
         "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
       },
@@ -924,6 +1050,24 @@
       "duration_ms": 214414,
       "name": "Last Elvis",
       "url": "https://open.spotify.com/track/5dcPOcBRdtXO8RWrVVEGgJ"
+    },
+    {
+      "album": {
+        "name": "Le Risque",
+        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214125,
+      "name": "Le Risque",
+      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
     },
     {
       "album": {
@@ -956,10 +1100,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 209414,
       "name": "Level",
       "url": "https://open.spotify.com/track/2YWOrav3BwXayiej6xQw1O"
+    },
+    {
+      "album": {
+        "name": "LIFE'S A BEACH",
+        "url": "https://open.spotify.com/album/1HwL8IFy1uGNVovNkbwOyn"
+      },
+      "artists": [
+        {
+          "name": "CHEAP-SKATE",
+          "url": "https://open.spotify.com/artist/3c3StjVdJb72LvLknQfbEC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "LIFE'S A BEACH",
+      "url": "https://open.spotify.com/track/0QQsTOO7UVwVBW1nbQALC2"
     },
     {
       "album": {
@@ -992,7 +1154,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 207189,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2OtUyvATrWPXSVxwMNMfqX"
@@ -1147,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "ONLY ONE MODE",
+        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172949,
+      "name": "NO LOVE BUT FOR OUR OWN",
+      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
+    },
+    {
+      "album": {
         "name": "Not My Day",
         "url": "https://open.spotify.com/album/7hmfSPU0fWDsVd3RbrImKB"
       },
@@ -1291,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Pink Smoke",
+        "url": "https://open.spotify.com/album/3RPe2D0NvKostJO4GbnfcM"
+      },
+      "artists": [
+        {
+          "name": "Quivers",
+          "url": "https://open.spotify.com/artist/0YUqHKQEwFgGaDVSaHTS55"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267553,
+      "name": "Pink Smoke",
+      "url": "https://open.spotify.com/track/7qJswKoIImLc8pPN8LtEJb"
+    },
+    {
+      "album": {
         "name": "Quick To Judge",
         "url": "https://open.spotify.com/album/5ABPF5L78iw0EWKKebshUv"
       },
@@ -1414,6 +1612,24 @@
       "duration_ms": 138576,
       "name": "Safety Pin",
       "url": "https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp"
+    },
+    {
+      "album": {
+        "name": "Towards the Sun",
+        "url": "https://open.spotify.com/album/3F3rp5JZyHObOhgEyN2Uqx"
+      },
+      "artists": [
+        {
+          "name": "Fan Club",
+          "url": "https://open.spotify.com/artist/5g0xvAbzuQsBsKPXEmKfxF"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160654,
+      "name": "Sedate",
+      "url": "https://open.spotify.com/track/6ltMjqTcCviZnoClCZteg8"
     },
     {
       "album": {
@@ -1543,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "slut era",
+        "url": "https://open.spotify.com/album/26Aap3VdSgDzBzxvY38Us7"
+      },
+      "artists": [
+        {
+          "name": "annie hamilton",
+          "url": "https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155318,
+      "name": "slut era",
+      "url": "https://open.spotify.com/track/7r3ivjllaf9eJeeYbjpfKf"
+    },
+    {
+      "album": {
         "name": "Hibiscus Radio",
         "url": "https://open.spotify.com/album/5j1IhvkzvrXTlhjkY4hdNN"
       },
@@ -1608,7 +1842,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 210502,
       "name": "STRUNG OUT",
       "url": "https://open.spotify.com/track/5xYkAqW73WUUuSkDUAqmXm"
@@ -1687,6 +1921,42 @@
     },
     {
       "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/6itdzMjqZ2A7ISVrqxkFUH"
+      },
+      "artists": [
+        {
+          "name": "Hayley Mary",
+          "url": "https://open.spotify.com/artist/0jVHJ8I9hODEGcXruenrdH"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252183,
+      "name": "The Lonely One",
+      "url": "https://open.spotify.com/track/5O8wMCUN8ZvYb4m4HkDNK7"
+    },
+    {
+      "album": {
+        "name": "The Star",
+        "url": "https://open.spotify.com/album/7pQOpxeKg37wHO3U7xPBm9"
+      },
+      "artists": [
+        {
+          "name": "Nice Biscuit",
+          "url": "https://open.spotify.com/artist/1HDNxhUcc8y6JukY45KHyv"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249908,
+      "name": "The Star",
+      "url": "https://open.spotify.com/track/0Mwf8cc8YQGJkabUyNjFlY"
+    },
+    {
+      "album": {
         "name": "Think Again, Motherf*cker",
         "url": "https://open.spotify.com/album/2zHr7RS1GPrtsiF0grSLaa"
       },
@@ -1752,7 +2022,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 188492,
       "name": "Through The Trees",
       "url": "https://open.spotify.com/track/0bmuiRqdjPBtFmCIcb4uCR"
@@ -1770,7 +2040,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 227000,
       "name": "Tonight, I",
       "url": "https://open.spotify.com/track/699mnYsUGvnx3hP5WfcRRA"
@@ -1842,7 +2112,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184528,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/5HDYxR2djkR6rV1Zz9NaF9"
@@ -1878,7 +2148,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186529,
       "name": "WEIRDO",
       "url": "https://open.spotify.com/track/58ltuTmgwKkRGydyLP1K2w"

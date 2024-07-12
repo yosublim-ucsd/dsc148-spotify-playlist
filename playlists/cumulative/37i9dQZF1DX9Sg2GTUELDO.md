@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover：Sammi 鄭秀文
 
-324 songs - 19 hr 34 min
+329 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2024-06-27 |  |
 | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 | 2024-06-27 |  |
 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 | 2024-06-27 |  |
+| [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 | 2024-07-11 |  |
 | [一手造成](https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [一手造成](https://open.spotify.com/album/3B822JL4gtdMgJVXqdz40o) | 3:38 | 2024-06-27 |  |
 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 | 2024-06-27 |  |
 | [三人之境](https://open.spotify.com/track/6A7w1iRnVhtD4BJJcXqbTz) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [三人之境](https://open.spotify.com/album/2srLj2cAbXMvsPwM1SOvgK) | 3:38 | 2024-06-27 |  |
@@ -127,6 +128,7 @@
 | [世界以痛吻我而我歌唱 \- Blooming Underwater Live 2023](https://open.spotify.com/track/4xppAcBGump7jNZRG9A75C) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Blooming Underwater Live 2023](https://open.spotify.com/album/0BvkIZ2SL9gKirC5oKM1bx) | 4:13 | 2024-06-27 |  |
 | [九千九百九十九個我](https://open.spotify.com/track/5IDSQYCmhVAlwmynAs8Xtc) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [九千九百九十九個我](https://open.spotify.com/album/0Rxb2n9pLdDgCyEqMAadsO) | 3:29 | 2024-06-27 |  |
 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2024-06-27 |  |
+| [五瓣玫瑰](https://open.spotify.com/track/3DyvkGveb7MCJgwlUo1VH7) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [五瓣玫瑰](https://open.spotify.com/album/0HfLp4LA5G3QAbrb8JLr8p) | 3:31 | 2024-07-11 |  |
 | [人若海](https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [人若海](https://open.spotify.com/album/0t5tBgasdVVPco3oTbhyJb) | 3:09 | 2024-06-27 |  |
 | [仍會等](https://open.spotify.com/track/3FGadTlzoJ5F4UtUMWrL3h) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [仍會等](https://open.spotify.com/album/4qMZ8lSzM9GXYEXv3WKa0f) | 3:19 | 2024-06-27 |  |
 | [他不是你](https://open.spotify.com/track/4A6uVEFbhT7TO9zXq9pRAL) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [他不是你](https://open.spotify.com/album/7swXlMv4USdhFuENlRRXGq) | 4:11 | 2024-06-27 |  |
@@ -177,6 +179,7 @@
 | [夢想與夢](https://open.spotify.com/track/2aVETk75kz1k0xh7zxi83q) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX), [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [WE ARE TWINS](https://open.spotify.com/album/3SKJDhMkmIFrE4RQRtiMDS) | 3:11 | 2024-06-27 |  |
 | [大半夜未肯睡](https://open.spotify.com/track/0fucNPeujolYdigae25LyP) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [大半夜未肯睡](https://open.spotify.com/album/0xZ83szptwJfrtcZkIR1Ih) | 4:25 | 2024-06-27 |  |
 | [大開眼界](https://open.spotify.com/track/7n75RcZhhR97zJeWnuCqNt) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [大開眼界](https://open.spotify.com/album/7rwqS0ITSHUyEfo4X4a67X) | 3:29 | 2024-06-27 |  |
+| [天下看娃娃](https://open.spotify.com/track/6tjsENHZl0qX3YVRSt1u4l) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 4:16 | 2024-07-11 |  |
 | [天使999%](https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [天使999%](https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1) | 2:50 | 2024-06-27 |  |
 | [天光前](https://open.spotify.com/track/5UlWJqt2iwFInXuNbEIJYg) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [天光前](https://open.spotify.com/album/6YkSTBMkKxFVL8myvSCy8U) | 4:01 | 2024-06-27 |  |
 | [天氣之女](https://open.spotify.com/track/6FsfLl1iG0zrbXfiJHl00y) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [天氣之女](https://open.spotify.com/album/1qyTHpCoEhSgSF4bQK1y1F) | 3:24 | 2024-06-27 |  |
@@ -230,6 +233,7 @@
 | [收聲多謝](https://open.spotify.com/track/6UBbSrmg2XMWFTe9rImahv) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [收聲多謝](https://open.spotify.com/album/41LEXHiUDcHlhXpdPvmKf2) | 3:17 | 2024-06-27 |  |
 | [放下放不下](https://open.spotify.com/track/0g6Uj4I65W3gmZy1ssWbRA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [放下放不下](https://open.spotify.com/album/53ItEcBUVgE1lFTQZUb3wG) | 3:50 | 2024-06-27 |  |
 | [放下的頻率](https://open.spotify.com/track/0u844cmWxduPxpdZHZAgMY) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [放下的頻率](https://open.spotify.com/album/5K83IIsTEpcugyWkykKYXc) | 4:26 | 2024-06-27 |  |
+| [數到十](https://open.spotify.com/track/6rTFggXwImkDdz6ZqseDSX) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [數到十](https://open.spotify.com/album/0aGvJzZ9ni0fjXFCyXyr1f) | 4:14 | 2024-07-11 |  |
 | [旅程多得你守望](https://open.spotify.com/track/4L6rDbkkbJ1F6CC1Irhkxf) | [Natalie Ho](https://open.spotify.com/artist/7zhpwTqTMnxpH4d2cUGdnB) | [旅程多得你守望](https://open.spotify.com/album/7zzuxlNTOCdf0EWrV0UhFX) | 3:14 | 2024-06-27 |  |
 | [旅行日誌](https://open.spotify.com/track/7mfCXZLzCY3veX4q9NZnb0) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [旅行日誌](https://open.spotify.com/album/4RYDzvNTkUOVWNejzEzl4l) | 3:29 | 2024-06-27 |  |
 | [日光漂白 \- 電影《白日之下》主題曲](https://open.spotify.com/track/7dFSEqM5DnBnYgwtQWQkhV) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [日光漂白 \(電影《白日之下》主題曲\)](https://open.spotify.com/album/0kJ7mNzLwlPGYc9f7ITuHo) | 4:21 | 2024-06-27 |  |
@@ -281,6 +285,7 @@
 | [社畜完全體](https://open.spotify.com/track/5zc0B9YxMhanwdDp5D3B9S) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [社畜完全體](https://open.spotify.com/album/3cmzJdniYEVObAZAHS3dqd) | 4:23 | 2024-06-27 |  |
 | [神的不在場證明](https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [神的不在場證明](https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD) | 4:32 | 2024-06-27 |  |
 | [私奔記](https://open.spotify.com/track/0XRRL7HKdhOF3AADcuZ4mE) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [私奔記](https://open.spotify.com/album/5WcEqKh7qlndDxeUdM1Evz) | 4:20 | 2024-06-27 |  |
+| [空白 \- 劇集《反黑英雄》插曲](https://open.spotify.com/track/0M2R3vU87nu7iMCiBLAmFx) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [空白 \(劇集《反黑英雄》插曲\)](https://open.spotify.com/album/2qGq3NSnw9VpyaZJhO5GEO) | 4:01 | 2024-07-11 |  |
 | [窮人的薔薇](https://open.spotify.com/track/0mOa18v5rXhg8CRTPQIe3u) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [窮人的薔薇](https://open.spotify.com/album/4F8549onRnd1d5tYwT8qmT) | 5:18 | 2024-06-27 |  |
 | [經痛不及我心痛](https://open.spotify.com/track/0IAFA8XugTtMuRibXAFMnG) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [經痛不及我心痛](https://open.spotify.com/album/1B1Z8wDPacZLqC3uILeV9q) | 3:13 | 2024-06-27 |  |
 | [綜藝魂](https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [綜藝魂](https://open.spotify.com/album/1hr4bMBHAQU6m9LyujNbm7) | 3:58 | 2024-06-27 |  |

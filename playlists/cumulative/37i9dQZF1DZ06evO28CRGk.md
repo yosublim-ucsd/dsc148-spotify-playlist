@@ -2,7 +2,7 @@
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Marco Polo\. The essential tracks, all in one playlist.
 
 84 songs - 4 hr 33 min
 

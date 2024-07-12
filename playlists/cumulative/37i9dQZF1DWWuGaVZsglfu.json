@@ -461,6 +461,28 @@
     },
     {
       "album": {
+        "name": "Jangan Biar",
+        "url": "https://open.spotify.com/album/3N2eeiam5GShzMMDo4ejoz"
+      },
+      "artists": [
+        {
+          "name": "Ramayan",
+          "url": "https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN"
+        },
+        {
+          "name": "Lunadira",
+          "url": "https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258090,
+      "name": "Jangan Biar",
+      "url": "https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK"
+    },
+    {
+      "album": {
         "name": "Janji",
         "url": "https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT"
       },

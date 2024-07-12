@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug">  رضا البحراوي </a>
 
-261 songs - 19 hr 7 min
+262 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Shyaf Nafsk](https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Shyaf Nafsk](https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd) | 3:56 | 2024-02-29 | 2024-04-12 |
 | [Sohab Fashosh](https://open.spotify.com/track/6est6D0K9z0XDcrLYNWF7k) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sohab Fashosh](https://open.spotify.com/album/45MjD1llZDYUhlcVEw5Yw4) | 3:36 | 2021-12-16 | 2022-12-21 |
 | [Taalan Aleina](https://open.spotify.com/track/0bIdj84kcikKQMjltR9Hbc) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Taalan Aleina](https://open.spotify.com/album/4qNBlXf4jgPTD9xLpx3EuG) | 4:02 | 2021-12-16 | 2022-07-29 |
-| [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 | 2021-12-16 |  |
+| [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 | 2021-12-16 | 2024-07-12 |
 | [Tekhasemny Tesalehny](https://open.spotify.com/track/2ZNi4Z77qPdry0nSiopx2z) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Bosy](https://open.spotify.com/artist/5qLw7iz4Ttj3cR07fE3gBZ), [Emy Samir Ghanem](https://open.spotify.com/artist/3aTtd4WaA8s5Vg55t6HM69), [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t) | [Tekhasemny Tesalehny](https://open.spotify.com/album/54nsVUYHDewXrGkVA5MDal) | 4:46 | 2021-12-16 | 2022-07-29 |
 | [Tetgawzeny Ya Amar](https://open.spotify.com/track/2komkcL0eobM6WKwGK7RNZ) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Negom El Asdekaa 1](https://open.spotify.com/album/72yUWiF3HQhpoHKrzusVTz) | 4:27 | 2022-04-23 | 2023-05-12 |
 | [Togar Saada](https://open.spotify.com/track/5VWGBXKbb8xrAjwcbmAxtv) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Togar Saada](https://open.spotify.com/album/0tp0RCyY4MU5KdmQsZSt0T) | 4:27 | 2021-12-16 | 2023-05-12 |
@@ -246,6 +246,7 @@
 | [قلب ابوكي](https://open.spotify.com/track/3JXPI8tKQjzs9AT8SESNN5) | [Semsem Shehab](https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4) | [قلب ابوكي](https://open.spotify.com/album/3C0X6Od6hW9Tw19kZh3cm2) | 4:19 | 2023-09-19 | 2023-11-16 |
 | [قلب بابا](https://open.spotify.com/track/1qJcl8I6eWgPerLc5bNIVf) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [قلب بابا](https://open.spotify.com/album/1Xb5H73qEs6UD2WokrbtT7) | 4:04 | 2023-02-23 | 2023-05-12 |
 | [كاس العذاب](https://open.spotify.com/track/691pg3e2jxVBpIyuokCsf6) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [كاس العذاب](https://open.spotify.com/album/7Kwjlfuqw1QjmK5hHyFovJ) | 4:13 | 2021-12-16 | 2023-05-12 |
+| [كبير كبير انا ايوة كبير](https://open.spotify.com/track/1nFuVbs2Nrc4YctsmJCRUu) | [عدوية شعبان عبد الرحيم](https://open.spotify.com/artist/05qj74OxicZQjvEiU2ywXp) | [كبير كبير انا ايوة كبير](https://open.spotify.com/album/34NPTEoOIUHb45ZxyQ3Y4T) | 5:03 | 2024-07-11 |  |
 | [كدة لا](https://open.spotify.com/track/2Y1F31MQD5DDakUxAu4qrz) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hamada EL Lithy](https://open.spotify.com/artist/3bdPUtoaJM9R08UHSgPvRd) | [كدة لا](https://open.spotify.com/album/5EkGNhY1l7ErqHN6wW42ma) | 3:36 | 2024-02-23 |  |
 | [كلام مبتكلمش](https://open.spotify.com/track/1JdiJ4wAMKhPsXGL6iTwoK) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [كلام مبتكلمش](https://open.spotify.com/album/1kwZYe92wXq7AsP5xIepWm) | 3:39 | 2021-12-16 | 2022-04-23 |
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-06-27 | 2024-01-26 |

@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "dirty little secret",
+        "url": "https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "dirty little secret",
+      "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
+    },
+    {
+      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
@@ -1930,6 +1948,24 @@
       "duration_ms": 292235,
       "name": "Holod",
       "url": "https://open.spotify.com/track/3uuZgHc57MBoBchsETeecJ"
+    },
+    {
+      "album": {
+        "name": "Nightmare State / Television Choir",
+        "url": "https://open.spotify.com/album/0wF2jadXWC7KPV02HWrbSx"
+      },
+      "artists": [
+        {
+          "name": "Pleasure Nature",
+          "url": "https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235924,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/7CYzSfN0VUzM2BuDsOivtz"
     },
     {
       "album": {
@@ -3086,7 +3122,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184528,
       "name": "Nostalgic Dreams",
       "url": "https://open.spotify.com/track/6dK0pi0CMTkOzvWGPDCv4h"
@@ -4484,7 +4520,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172117,
       "name": "Youth Cults",
       "url": "https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK"

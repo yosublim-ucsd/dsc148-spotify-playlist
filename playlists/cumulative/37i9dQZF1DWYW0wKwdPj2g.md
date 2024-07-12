@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Sinach
 
-89 songs - 11 hr 40 min
+91 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2024-02-23 |  |
 | [Chanzo \- Live](https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw) | [Rehema Simfukwe](https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu) | [Chanzo \(Live\)](https://open.spotify.com/album/3GuJna16plebttcjo2CWWG) | 9:42 | 2024-02-23 |  |
 | [Cornerstone Live \- Live](https://open.spotify.com/track/56LotXpD5t2JTrdWyuz7j1) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Cornerstone Live](https://open.spotify.com/album/76ZIA5faEpQeoWcN9K9obr) | 8:08 | 2024-03-15 |  |
+| [Dance Anyhow](https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Dance Anyhow](https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d) | 8:24 | 2024-07-12 |  |
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-17 |  |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-23 |  |
 | [Done so Much](https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Cyzn](https://open.spotify.com/artist/0dA0oeFfSMIZc43fl7g5tc) | [Done so Much](https://open.spotify.com/album/5eehtoGboiXAaJEHZgbtN4) | 8:43 | 2024-02-23 |  |
@@ -67,6 +68,7 @@
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2024-02-23 |  |
 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 | 2024-03-01 |  |
 | [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 | 2024-05-24 |  |
+| [Nothing But The Blood \- Live](https://open.spotify.com/track/0QWtBHKR8yLhA2H55TyB2h) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Kymberli Joye](https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy) | [Nothing But The Blood \(Live\)](https://open.spotify.com/album/73k5ivCtC4hKJeeTKuZM2n) | 7:25 | 2024-07-12 |  |
 | [Ntate Kemang \- Live](https://open.spotify.com/track/6PeraA6oM2pDVWXRLbKx8t) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p), [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa) | [Songs From Spirit Of Praise \(Live\)](https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK) | 4:29 | 2024-02-23 |  |
 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 | 2024-06-14 |  |
 | [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 | 2024-02-23 |  |

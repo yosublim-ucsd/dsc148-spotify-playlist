@@ -2,23 +2,25 @@
 
 ### [A Shot Of Indie](https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR)
 
-> For your daily dosis of music with an Indie twist\. Cover: Sylvie Kreusch
+> For your daily dosis of music with an Indie twist\. Cover: Chappell Roan
 
-72 songs - 4 hr 5 min
+77 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9TH OF THE MONTH](https://open.spotify.com/track/55rlL4BY1WMef32ka1g11V) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [9TH OF THE MONTH](https://open.spotify.com/album/1dQVN4OJtWIUEkRb64fD1N) | 2:03 | 2024-06-24 |  |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-24 |  |
+| [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 |  |
 | [All A Mystery](https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [All A Mystery](https://open.spotify.com/album/33NhYguzpm450MS00ZxbC0) | 3:09 | 2024-06-24 |  |
 | [All That's Good Comes With Some Risk](https://open.spotify.com/track/6S5KGieDdf1DEEkuU6KAH8) | [Go Fishing!](https://open.spotify.com/artist/1xGjuJkX70b8AnKHOysE7r) | [All That’s Good Comes With Some Risk](https://open.spotify.com/album/45AgkUoy9dPh1ZoC9DQ4bN) | 3:37 | 2024-06-24 |  |
 | [Anymore](https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Anymore](https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB) | 4:08 | 2024-06-24 | 2024-07-10 |
 | [Ascend to Heaven](https://open.spotify.com/track/6zHSlc8G9xnrueRFYyLGqS) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [The Ascent](https://open.spotify.com/album/40W3nyoiqb0x0OgCPM07aN) | 3:23 | 2024-06-24 |  |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-24 |  |
-| [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-24 |  |
+| [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-24 | 2024-07-12 |
+| [Busy Doing Nothing](https://open.spotify.com/track/3lDmfwvKqwyDiZUSGNCUHY) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Busy Doing Nothing](https://open.spotify.com/album/4RXMH98NmrxMkInHxnp4mS) | 3:08 | 2024-07-11 |  |
 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 | 2024-06-24 | 2024-07-10 |
-| [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-24 |  |
-| [Can't Be Alone](https://open.spotify.com/track/1U7DdSB2WU9Y2EtzNIwdur) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Can't Be Alone](https://open.spotify.com/album/6EuFDMjA4Rf4qmOfwsOS7z) | 3:33 | 2024-06-24 |  |
+| [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-24 | 2024-07-12 |
+| [Can't Be Alone](https://open.spotify.com/track/1U7DdSB2WU9Y2EtzNIwdur) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Can't Be Alone](https://open.spotify.com/album/6EuFDMjA4Rf4qmOfwsOS7z) | 3:33 | 2024-06-24 | 2024-07-12 |
 | [Caroline \(i should’ve known better\)](https://open.spotify.com/track/6iUWx0rsWeFZoOjl9CMJ62) | [Gos Rosling](https://open.spotify.com/artist/2zJha56ZWbPFutom5jySwf) | [Caroline \(i should’ve known better\)](https://open.spotify.com/album/7akMIKWLQ83YzA6G4DYefd) | 4:07 | 2024-06-24 |  |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-27 |  |
 | [Dancing in the Dirt](https://open.spotify.com/track/6SzIWDgalsxa2IIJ24C6Ik) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Dancing in the Dirt](https://open.spotify.com/album/4nxLC4lq2pNY1wDx2Nztgk) | 3:15 | 2024-06-24 |  |
@@ -29,7 +31,7 @@
 | [Electro Poetry](https://open.spotify.com/track/3EDuRcNu7dnoRiXypeJhbA) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Electro Poetry](https://open.spotify.com/album/1yA0VdE5V711Hw6M1YZuoa) | 3:32 | 2024-07-09 |  |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-06-24 |  |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-09 |  |
-| [Everybody Knows](https://open.spotify.com/track/2o7RGgpWWr8eQMidtLlNNi) | [The Bony King of Nowhere](https://open.spotify.com/artist/1yToTiAOIt4mXKlHBP8vyv) | [Everybody Knows](https://open.spotify.com/album/4TSxrcY6rxsiCeTP4QlFEd) | 4:05 | 2024-06-24 |  |
+| [Everybody Knows](https://open.spotify.com/track/2o7RGgpWWr8eQMidtLlNNi) | [The Bony King of Nowhere](https://open.spotify.com/artist/1yToTiAOIt4mXKlHBP8vyv) | [Everybody Knows](https://open.spotify.com/album/4TSxrcY6rxsiCeTP4QlFEd) | 4:05 | 2024-06-24 | 2024-07-12 |
 | [everything, everything](https://open.spotify.com/track/07seC0rRllphiN1IBjwVxs) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [everything, everything](https://open.spotify.com/album/66BqyUv8JAh1rOMddnnCJv) | 4:19 | 2024-06-24 |  |
 | [Flip The Switch](https://open.spotify.com/track/3l8rZA9CwuIpCDd9u0UQt0) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Flip The Switch](https://open.spotify.com/album/2rOTzM0jRcR5OzJ8dtAFrM) | 4:56 | 2024-07-09 |  |
 | [Give It Back to Me](https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Give It Back to Me](https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0) | 4:22 | 2024-06-24 | 2024-07-10 |
@@ -45,11 +47,12 @@
 | [In My Room](https://open.spotify.com/track/1v8ciwOzwSSaZYDW5jXgEr) | [Giant Julie](https://open.spotify.com/artist/20npHsmynFR5Ty3qJeeIu0) | [In My Room](https://open.spotify.com/album/0kivE1tzHdMBzh1ZmJ6Njt) | 3:49 | 2024-07-09 |  |
 | [In Our Blood](https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7) | 3:27 | 2024-06-24 | 2024-07-10 |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-24 |  |
+| [it takes a long time to feel free](https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [it takes a long time to feel free](https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP) | 4:35 | 2024-07-11 |  |
 | [Kaleidoscope](https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Kaleidoscope](https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U) | 3:22 | 2024-06-24 |  |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-24 |  |
 | [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 | 2024-06-24 |  |
 | [Lost in Some Dream](https://open.spotify.com/track/5800FfpvzRObVCdIYOrDtJ) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Lost in Some Dream](https://open.spotify.com/album/0qpe8DnGxrth4rWMeMcMs1) | 3:27 | 2024-06-24 |  |
-| [Lover To Stranger](https://open.spotify.com/track/1WmU3Ub6nCef9OSRjeZONV) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Lover To Stranger](https://open.spotify.com/album/5NrtDGCWjsQpWYIZdpktog) | 3:39 | 2024-06-24 |  |
+| [Lover To Stranger](https://open.spotify.com/track/1WmU3Ub6nCef9OSRjeZONV) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Lover To Stranger](https://open.spotify.com/album/5NrtDGCWjsQpWYIZdpktog) | 3:39 | 2024-06-24 | 2024-07-12 |
 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-07-09 |  |
 | [Miss You](https://open.spotify.com/track/37wueS34bitqZI6O0QfgQB) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Miss You](https://open.spotify.com/album/778XeIiWHwnTEloYYAGkzI) | 3:55 | 2024-06-24 |  |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-24 |  |
@@ -60,7 +63,9 @@
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-24 |  |
 | [No Relation](https://open.spotify.com/track/2CmvMQEPeCSnfOXelqycbk) | [Naive Set](https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh) | [No Relation / Moving Target](https://open.spotify.com/album/5ZHgZ8FkNTfQofkj03Bmli) | 4:02 | 2024-06-24 |  |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 |  |
+| [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2024-07-11 |  |
 | [perfume](https://open.spotify.com/track/1efpLeEhZoX202uzuCoT7F) | [LO\-FI LE\-VI](https://open.spotify.com/artist/3HitWnKrqivUZgOBLj4SJ6) | [bluey](https://open.spotify.com/album/19K1kvE8m1DjWPfXOwFCcZ) | 1:42 | 2024-06-24 |  |
+| [Rat King](https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Rat King](https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1) | 3:43 | 2024-07-11 |  |
 | [Ride or Die](https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Ride or Die](https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg) | 3:24 | 2024-06-24 |  |
 | [Sea](https://open.spotify.com/track/1QZTziCtLzrIhARxNkx2sj) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Airship](https://open.spotify.com/album/0sXwmyVeldUXU2ilDCZYMp) | 4:02 | 2024-06-24 |  |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-24 |  |

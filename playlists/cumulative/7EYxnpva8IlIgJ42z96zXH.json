@@ -11873,6 +11873,28 @@
     },
     {
       "album": {
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/5dSzvbgAgtZ3MWuJwgVbhn"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206700,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2nVBisvPxcBnHHyn2PPaQK"
+    },
+    {
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/5uxgZnwoHDH7wDLBxAo7j9"
       },
@@ -16374,7 +16396,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 212460,
       "name": "Thunderstorm (feat. Deyaz)",
       "url": "https://open.spotify.com/track/0FM3AeTbUEZETmbbHWSyGK"

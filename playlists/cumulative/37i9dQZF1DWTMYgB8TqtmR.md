@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-765 songs - 1 day 14 hr 32 min
+766 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 | 2022-07-28 | 2022-09-30 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-06-17 | 2022-07-08 |
 | [Fan va dyrt](https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Fan va dyrt](https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj) | 3:06 | 2023-10-05 | 2023-11-03 |
+| [Fantasi – Spotify Singles](https://open.spotify.com/track/3jGkygcJraGPQ47TOH0wMw) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Fantasi – Spotify Singles](https://open.spotify.com/album/5iTMZDsFx6oB07qzN7di2N) | 2:57 | 2024-07-11 |  |
 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 | 2023-09-14 | 2023-12-25 |
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-12-16 | 2022-01-21 |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-01-31 | 2023-05-03 |

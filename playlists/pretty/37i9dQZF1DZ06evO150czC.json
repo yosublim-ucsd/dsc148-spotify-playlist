@@ -1,12 +1,12 @@
 {
-  "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19809,
+  "description": "This is Midian Lima. The essential tracks, all in one playlist.",
+  "num_followers": 19822,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAAAL7Qc+ttOu/0LocpwGtpxg",
+  "snapshot_id": "Zo3PAAAAAAAuczi3KsDbyvl7ZexlBHC9",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mais Um Dia",
-        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Mais Um Dia",
-      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinto o Teu Poder (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
       },
@@ -759,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mais Um Dia",
+        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Mais Um Dia",
+      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vencer ou Vencer (Ao Vivo)",
         "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 274274,
-      "name": "Lugar Seguro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irresist\u00edvel Gl\u00f3ria",
         "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 275945,
       "name": "Irresist\u00edvel Gl\u00f3ria",
       "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desperta",
-        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
-      },
-      "artists": [
-        {
-          "name": "Cleyde Jane",
-          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 228530,
-      "name": "Desperta",
-      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
       "duration_ms": 581938,
       "name": "A Igreja Vem / Porque Ele Vive - Drive In",
       "url": "https://open.spotify.com/track/2wcrkFGIDMyHJlcxh5ShXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desperta",
+        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
+      },
+      "artists": [
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 228530,
+      "name": "Desperta",
+      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
     },
     {
       "added_at": null,

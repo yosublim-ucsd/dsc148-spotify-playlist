@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 105087,
+  "num_followers": 105123,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Confrontaci\u00f3n",
-        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 195049,
-      "name": "Enemigo a las Puertas",
-      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 192880,
       "name": "Sols El Poble Salva Al Poble",
       "url": "https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Confrontaci\u00f3n",
+        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 195049,
+      "name": "Enemigo a las Puertas",
+      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+      },
+      "artists": [
+        {
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+        }
+      ],
+      "duration_ms": 147653,
+      "name": "Escupe",
+      "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 147653,
-      "name": "Escupe",
-      "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
-      },
-      "artists": [
-        {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Versos de Rabia",
         "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 217130,
       "name": "Ke Felicidad!",
       "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+      },
+      "artists": [
+        {
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Arder\u00e1n",
-        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 182335,
-      "name": "Arder\u00e1n",
-      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 170585,
       "name": "Vieja Guardia",
       "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Arder\u00e1n",
+        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 182335,
+      "name": "Arder\u00e1n",
+      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Su Acierto",
         "url": "https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 165739,
       "name": "Su Acierto",
       "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Cagaos",
-        "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
-      },
-      "artists": [
-        {
-          "name": "Colapso",
-          "url": "https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e"
-        }
-      ],
-      "duration_ms": 157411,
-      "name": "Cagaos",
-      "url": "https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 151134,
       "name": "Humanos",
       "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Cagaos",
+        "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
+      },
+      "artists": [
+        {
+          "name": "Colapso",
+          "url": "https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e"
+        }
+      ],
+      "duration_ms": 157411,
+      "name": "Cagaos",
+      "url": "https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "El Futuro No Espera (Versi\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/15v8wPgDNyMPspiG5P9Xhk"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "duration_ms": 262566,
+      "name": "El Futuro No Espera (Versi\u00f3n 2024)",
+      "url": "https://open.spotify.com/track/5yUkQEHXeihHaEqwc5nkOY"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
         "url": "https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "El Futuro No Espera (Versi\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/15v8wPgDNyMPspiG5P9Xhk"
-      },
-      "artists": [
-        {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
-        }
-      ],
-      "duration_ms": 262566,
-      "name": "El Futuro No Espera (Versi\u00f3n 2024)",
-      "url": "https://open.spotify.com/track/5yUkQEHXeihHaEqwc5nkOY"
     },
     {
       "added_at": "2024-06-27 22:00:00",

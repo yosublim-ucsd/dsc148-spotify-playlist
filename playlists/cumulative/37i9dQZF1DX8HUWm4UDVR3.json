@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Charlotte Cardin",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Lancelot",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 118834,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK"
@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Nique le champagne",
+        "url": "https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "Nique le champagne",
+      "url": "https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9"
+    },
+    {
+      "album": {
         "name": "Tout ce que l'on ne devient pas",
         "url": "https://open.spotify.com/album/0HJxteAp9XRvMFbWp7MXwe"
       },
@@ -3586,10 +3604,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 166093,
       "name": "TU M'RENDS FOU (spooky bitch)",
       "url": "https://open.spotify.com/track/6Ra93KBC44jqzesIBGPG6x"
+    },
+    {
+      "album": {
+        "name": "Tu me plais",
+        "url": "https://open.spotify.com/album/7psZewDZnQ8KU77x5zjNoV"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00e9",
+          "url": "https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Tu me plais",
+      "url": "https://open.spotify.com/track/2gXGAKs0YNFxl4Nsv62lWj"
     },
     {
       "album": {

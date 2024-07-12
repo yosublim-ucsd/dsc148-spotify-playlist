@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Nivea Soares",
-  "num_followers": 1058189,
+  "num_followers": 1058299,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,18 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
       },
       "artists": [
         {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 350274,
-      "name": "A Boa Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
+      "duration_ms": 419280,
+      "name": "\u00danico - Live",
+      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -331,18 +327,22 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "\u00danico (Live)",
-        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+        "name": "A Boa Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 419280,
-      "name": "\u00danico - Live",
-      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
+      "duration_ms": 350274,
+      "name": "A Boa Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -523,46 +523,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "\u00danico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        }
-      ],
-      "duration_ms": 456676,
-      "name": "\u00danico - Ao vivo",
-      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Promessas (Promises) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 347927,
-      "name": "Promessas (Promises) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Clamo Jesus",
         "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
@@ -587,6 +547,26 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Promessas (Promises) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 347927,
+      "name": "Promessas (Promises) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Esperan\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 319866,
       "name": "Esperan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "\u00danico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "duration_ms": 456676,
+      "name": "\u00danico - Ao vivo",
+      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
         "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 378000,
       "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
       "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Peregrino (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 330220,
+      "name": "Peregrino - Ao vivo",
+      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Palavras",
         "url": "https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 266086,
       "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Peregrino (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 330220,
-      "name": "Peregrino - Ao vivo",
-      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 342306,
+      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 342306,
-      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
+        "name": "Carta de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa"
       },
       "artists": [
         {
@@ -1420,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 381302,
-      "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
+      "duration_ms": 308506,
+      "name": "Carta de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Estou Te Esperando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 411745,
+      "name": "Estou Te Esperando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -1471,6 +1491,26 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 381302,
+      "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -1491,46 +1531,6 @@
       "duration_ms": 643046,
       "name": "EGITO",
       "url": "https://open.spotify.com/track/2cZBpX5PIIwekpJntOqH2G"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Carta de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 308506,
-      "name": "Carta de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Estou Te Esperando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 411745,
-      "name": "Estou Te Esperando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
     },
     {
       "added_at": "2024-07-05 03:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
-  "num_followers": 963778,
+  "num_followers": 963832,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -135,42 +135,6 @@
     {
       "added_at": "2024-07-09 10:06:05",
       "album": {
-        "name": "Una Vida Pasada",
-        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Una Vida Pasada",
-      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
       },
@@ -191,6 +155,42 @@
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
     },
     {
       "added_at": "2024-07-09 10:06:05",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-07-09 10:06:05",
       "album": {
+        "name": "Dios Te Cuide",
+        "url": "https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 198947,
+      "name": "Dios Te Cuide",
+      "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
         "name": "Hermosa Casualidad",
         "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 205779,
       "name": "Hermosa Casualidad",
       "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
-        "name": "Dios Te Cuide",
-        "url": "https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 198947,
-      "name": "Dios Te Cuide",
-      "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
     },
     {
       "added_at": "2024-07-09 10:06:05",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-09 10:06:05",
       "album": {
-        "name": "Mil preguntas",
-        "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
-      },
-      "artists": [
-        {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
-        }
-      ],
-      "duration_ms": 199701,
-      "name": "Mil preguntas",
-      "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
         "name": "Dime Solo Si Has Pensao",
         "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 175715,
       "name": "Dime Solo Si Has Pensao",
       "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
+        "name": "Mil preguntas",
+        "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 199701,
+      "name": "Mil preguntas",
+      "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
     },
     {
       "added_at": "2024-07-09 10:06:05",
@@ -599,22 +599,26 @@
     {
       "added_at": "2024-07-09 10:06:05",
       "album": {
-        "name": "A Las 12",
-        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
         }
       ],
-      "duration_ms": 188693,
-      "name": "A Las 12",
-      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
+      "duration_ms": 151105,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03"
     },
     {
       "added_at": "2024-07-09 10:06:05",
@@ -635,6 +639,26 @@
       "duration_ms": 147907,
       "name": "El Principio de algo",
       "url": "https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
+        "name": "A Las 12",
+        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "A Las 12",
+      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
     },
     {
       "added_at": "2024-07-09 10:06:05",
@@ -687,30 +711,6 @@
       "duration_ms": 168292,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jhosy",
-          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
-        }
-      ],
-      "duration_ms": 151105,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03"
     },
     {
       "added_at": "2024-07-09 10:06:05",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-09 10:06:05",
       "album": {
-        "name": "EL FORASTERO",
-        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "EL FORASTERO",
-      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
         "name": "Puede K Nos Liemos",
         "url": "https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 156103,
       "name": "Puede K Nos Liemos",
       "url": "https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
+        "name": "EL FORASTERO",
+        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "EL FORASTERO",
+      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
     },
     {
       "added_at": "2024-07-09 10:06:05",

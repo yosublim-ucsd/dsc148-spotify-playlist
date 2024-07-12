@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Chloe Qisha\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: LANA\. Artwork: Isu Kim.
 
-732 songs - 1 day 16 hr 3 min
+739 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [cigarettes](https://open.spotify.com/track/56pjUTbjQQAvMGK97U01lv) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [ALN](https://open.spotify.com/artist/7tQmpZdpsmgXdJNatZgy88) | [cigarettes](https://open.spotify.com/album/5ybfSO3a1mFrdLST3kEuCL) | 4:00 | 2022-01-13 | 2022-06-17 |
 | [Cinematic \(Watch It\)](https://open.spotify.com/track/2F9LeO8NZbpjNK8RjKYgod) | [Kyle Waves](https://open.spotify.com/artist/4JI8Ua08Ilxh3BVUZTSdiR) | [Cinematic \(Watch It\)](https://open.spotify.com/album/3BvAN2Phq4qKSKziSEXo8D) | 3:25 | 2024-05-09 |  |
 | [CINNAMON](https://open.spotify.com/track/7wp6i0aBomwDrmim65xhZA) | [P\_NEDA](https://open.spotify.com/artist/45NB3nfn6wOMwJApY4xUOy) | [CINNAMON](https://open.spotify.com/album/3wjo6ctFVmOPQqHWQ1NoLa) | 3:37 | 2023-05-04 | 2023-11-18 |
+| [Circus](https://open.spotify.com/track/4781XkXxJngw9YjlKJ21e9) | [LANA](https://open.spotify.com/artist/23IETu4hBOXIXr59a48DMi), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Circus](https://open.spotify.com/album/6xwGU2bbSKlzBXp4Xdl4Te) | 3:15 | 2024-07-11 |  |
 | [CLOCKS](https://open.spotify.com/track/56CKqn47hCTDrRGHNM1OfG) | [Jazzmi](https://open.spotify.com/artist/7KrcZwVhhtxpE1HdpTpdz4), [Tengku Hadhira](https://open.spotify.com/artist/1hYVYkpJFZO2rpNFMFfokq) | [CLOCKS](https://open.spotify.com/album/4jb5yrzOJ0pDNjXtVGy41D) | 3:33 | 2023-11-23 | 2024-02-16 |
 | [Close Enough](https://open.spotify.com/track/7z4e9pBBxzUQGxrGogD3ad) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [Close Enough](https://open.spotify.com/album/63ZHJkXV6NuCdW3naAeSXL) | 3:46 | 2022-08-25 | 2022-09-23 |
 | [Closer](https://open.spotify.com/track/5GSBtTk0ixAo3cVz6D1oSr) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Closer](https://open.spotify.com/album/4uRcOcIaEvFEfNtr38tgY7) | 2:32 | 2021-12-01 | 2023-01-13 |
@@ -128,6 +129,7 @@
 | [COMPANY](https://open.spotify.com/track/0mQRWrVbY2dp1RgPUjpFyt) | [Istifarah](https://open.spotify.com/artist/6RlOPeRGZkaYKZMzLHXK0n) | [COMPANY](https://open.spotify.com/album/6zj1I6mw3QoImrZZftTo8S) | 3:30 | 2023-02-23 | 2023-05-12 |
 | [Compressor](https://open.spotify.com/track/4OMi1ql6RahvkKJdxuf83l) | [Fatbear](https://open.spotify.com/artist/4bOgJxVtOTrSbmW08Eycsg) | [Compressor](https://open.spotify.com/album/3PBtmDzribEhv1IMGIwJ87) | 3:32 | 2024-05-09 |  |
 | [confetti](https://open.spotify.com/track/0gH7FwKIMs6v9sM3s6RA3K) | [Stephanie Tay](https://open.spotify.com/artist/4CpuhhOxqqit4PIKng15m0), [Jodi Tan](https://open.spotify.com/artist/6YhrHJxtfv9Bv6oNt27tv3) | [confetti](https://open.spotify.com/album/3m9Q8vL6UxYx1RtIgDc3Kp) | 3:11 | 2022-01-20 | 2022-03-11 |
+| [Confidence Pill](https://open.spotify.com/track/3lPvyY9229GYb4x5NNAKTc) | [Lyrit](https://open.spotify.com/artist/1Tqn6Bs7PVO5mk9kApUgB1) | [Confidence Pill](https://open.spotify.com/album/4IRP9TAX0PcOhISTT5yMBA) | 2:42 | 2024-07-11 |  |
 | [Constantly \(Falling in Love\)](https://open.spotify.com/track/3AUBmGDppUI1BKbbAVl13F) | [Michael Noah](https://open.spotify.com/artist/2ojD8pNHaaxw4dJJ0ab38g) | [Constantly \(Falling in Love\)](https://open.spotify.com/album/5aH9sixHiydlT3NjCMPIpl) | 4:18 | 2022-01-13 | 2022-06-17 |
 | [Counterpart](https://open.spotify.com/track/5IDxT7F5fFeqJ6t6V88QfV) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Counterpart](https://open.spotify.com/album/32kZbnPUa3a6fUAcCaYvdy) | 3:31 | 2023-10-19 | 2024-01-19 |
 | [crash](https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2h4fJ50NqNXgFcCMwXEVlG) | 3:58 | 2023-11-02 |  |
@@ -138,7 +140,9 @@
 | [Cross Your Ts](https://open.spotify.com/track/7ntV3iO4MlBJ2rQpugkcOz) | [The Colour Fool](https://open.spotify.com/artist/0WkO6vRNHwdCiW2Zirn4Th) | [Cross Your Ts](https://open.spotify.com/album/6tmj6PVA4FR3ML1iEaQedL) | 3:35 | 2022-10-27 | 2023-03-18 |
 | [Crush](https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Crush](https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR) | 4:46 | 2023-09-14 | 2024-01-19 |
 | [cry.](https://open.spotify.com/track/45DuBvXgIRhfxwdvRXlSdO) | [Kitty Purrnaz](https://open.spotify.com/artist/5CRMilXf5gELXf6m2Ml3dx) | [cry.](https://open.spotify.com/album/1WMcSusB1B2ovJrKXyGlSv) | 3:36 | 2021-12-01 | 2022-01-14 |
+| [CULTURE.](https://open.spotify.com/track/2hS0bQeaJjBNLBFmdNJ0hL) | [Khali Infamous](https://open.spotify.com/artist/3gZ9oSc9r4OODgRi2c4XHT) | [CULTURE.](https://open.spotify.com/album/3ExtiBAzn3oWDnOSfRCyUz) | 2:04 | 2024-07-11 |  |
 | [CUPID](https://open.spotify.com/track/53pObSUVFW8P5JLuu0SN4l) | [bearyl](https://open.spotify.com/artist/1RTygMFRokco6yIqV3BoQ6), [huanghuang](https://open.spotify.com/artist/3s1CFa7jsoFemnpD0kmCAt) | [CUPID](https://open.spotify.com/album/0rmSr2gg85ahsyJEiOXaVS) | 2:02 | 2023-11-02 | 2024-01-19 |
+| [Cupidtised](https://open.spotify.com/track/32velN3R2wxbBJ6ha6uTAX) | [Kaiwyn](https://open.spotify.com/artist/7KqSxgQomU7jjasnfmzWkZ), [Celyn Chow](https://open.spotify.com/artist/6NgdkxR6IVoGKIEywRSS3w) | [Cupidtised](https://open.spotify.com/album/7cmZevkJ2az2uPwIOoUr8D) | 2:53 | 2024-07-11 |  |
 | [Curbside](https://open.spotify.com/track/45owrs44Fa3IW2HwVqpgzV) | [tammie](https://open.spotify.com/artist/1Gxrj4vLRdOAqw0ERUgnfb) | [Curbside](https://open.spotify.com/album/4HZvNaCq58PbPRMaHlwCPd) | 2:40 | 2023-06-26 | 2024-02-16 |
 | [Cut Ties](https://open.spotify.com/track/4xHNQVwYa7yuUiSJUzjorW) | [LXCID](https://open.spotify.com/artist/7CzfdV5fXI7qxhY4LrbwcV) | [Cut Ties](https://open.spotify.com/album/1ugH4Q4SoBsAcfKq36gsqM) | 4:09 | 2024-01-11 | 2024-05-10 |
 | [Cut Your Hair](https://open.spotify.com/track/3nT4bNK5rzgpHwr1nMSqas) | [ki mi](https://open.spotify.com/artist/4d39hDGApIZV3x5obwnVpZ), [Hell Boi](https://open.spotify.com/artist/0MaNIO1pTWTWVEZVbEpVxk) | [Cut Your Hair](https://open.spotify.com/album/4rbIDeMwdQJk5rSKLFHl1q) | 3:10 | 2024-07-04 |  |
@@ -226,6 +230,7 @@
 | [GD](https://open.spotify.com/track/3O6Wx3cGuFljZLZ7Sch70j) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [GD](https://open.spotify.com/album/6nKqkVw5u94HKRx4Navbww) | 3:06 | 2024-05-23 |  |
 | [GD Signature](https://open.spotify.com/track/0esa7Nk9hE2O45jfQV4Z6d) | [Zaymm](https://open.spotify.com/artist/40FIQdFbpXD918cRXNvJzq) | [GD Signature](https://open.spotify.com/album/6bzRfWNx0U4JnBL42N3SHd) | 2:47 | 2023-08-10 | 2024-02-16 |
 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 | 2023-05-11 | 2023-08-18 |
+| [get to the car!](https://open.spotify.com/track/7L1xmtnXyi2WVEqcJ4qpNP) | [swij](https://open.spotify.com/artist/0gW3VB0blRjQBgTMBpyaZ7), [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [get to the car!](https://open.spotify.com/album/6kFJixqfuvEzB1tvUh7CnA) | 2:39 | 2024-07-11 |  |
 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 | 2022-01-20 | 2022-06-17 |
 | [Glass Stained Eyes](https://open.spotify.com/track/3khvk04lq9szSbyeFDH8AH) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Everything Is](https://open.spotify.com/album/0peIMKBxWe8WVIFdUYs0OD) | 5:03 | 2022-11-30 | 2023-01-13 |
 | [Glitter and Gold](https://open.spotify.com/track/4Zu7NqrE9qhgg48j6pikVL) | [Amrita Soon](https://open.spotify.com/artist/0amxkyGtZNA3pn83mkrtNz) | [Glitter and Gold](https://open.spotify.com/album/7zBoL9ctHMRbjLdYG2czol) | 3:29 | 2022-01-13 | 2022-06-17 |
@@ -393,6 +398,7 @@
 | [Men Like Flowers Too](https://open.spotify.com/track/3wsCHr8jXkDszpSPcd7i5k) | [Danial Bogers](https://open.spotify.com/artist/0XxGdPB0f99TZN9ddwdrfN) | [Men Like Flowers Too](https://open.spotify.com/album/7HZzuurQw8RcFiRGlx6mDS) | 3:19 | 2024-05-31 |  |
 | [Men\-Mory](https://open.spotify.com/track/2bH1RexrSNXoFHMS4Pq6XD) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [Goldfish](https://open.spotify.com/artist/0vhp1BhCnnPzmpknRG6JMv) | [Men\-Mory](https://open.spotify.com/album/6sxdxaRMcoWjHePp6Np5TT) | 2:59 | 2022-01-13 | 2023-01-13 |
 | [Mend](https://open.spotify.com/track/6ANFvWkNplQF5HfZif4Wbm) | [Alyssa Lie](https://open.spotify.com/artist/0NBpSJAS22KwlDXFuY5DfL) | [Mend](https://open.spotify.com/album/4zRqmckENkL72AIqGCTJoW) | 3:16 | 2021-12-01 | 2023-01-13 |
+| [mend your heart](https://open.spotify.com/track/6tVWMiYgPFPFu8g5g8RggO) | [justseow](https://open.spotify.com/artist/0hDAO7mJrK3VSdatUp1kQL) | [mend your heart](https://open.spotify.com/album/5RS8a6as1nraLXx9m2LTEy) | 2:34 | 2024-07-11 |  |
 | [Menunggu](https://open.spotify.com/track/7InRTm84qWaAhEIvcg97ai) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Menunggu](https://open.spotify.com/album/0B2S4u0uLlT2z3BTqjcYMl) | 2:56 | 2022-03-25 | 2022-07-15 |
 | [Mess it Up](https://open.spotify.com/track/58fAWitI1FzkpU2ZaY5BTz) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Mess it Up](https://open.spotify.com/album/2n18Eh4bdKX3JQm9mXNytW) | 2:14 | 2024-05-09 |  |
 | [midnight](https://open.spotify.com/track/2qfhWH1YdfYtZ86nFFZeDt) | [Rush Martines](https://open.spotify.com/artist/2DfGCdKwXsfavSVSlcefIC) | [midnight](https://open.spotify.com/album/52ZpwE72Y4bGcyY4XjkFre) | 3:13 | 2022-07-07 | 2022-09-16 |
@@ -428,6 +434,7 @@
 | [No Expectations](https://open.spotify.com/track/255DXKzTMcHZTpqZTNN5mB) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [No Expectations](https://open.spotify.com/album/5zvKO4ck19WnibKtvaYx1h) | 2:49 | 2022-08-25 | 2022-09-23 |
 | [No Regrets](https://open.spotify.com/track/46oQB6Qahebtv8DlS28mXk) | [ARQ : Azlan Ramli Quartet](https://open.spotify.com/artist/1ACg6P1wMsuBiS4y9Rs8gZ) | [No Regrets](https://open.spotify.com/album/2nGSNsVsSRejg8fQ8ostpz) | 3:10 | 2023-11-17 | 2024-02-16 |
 | [Nobody](https://open.spotify.com/track/0lcZSetBstXq1Oe1xzt4wu) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Nobody](https://open.spotify.com/album/6cGFCElyZtnfHCkCXnRr83) | 2:00 | 2024-01-18 |  |
+| [Nobody](https://open.spotify.com/track/2rBogyu8QXOSXunXg8k6Tv) | [Trevor Wong](https://open.spotify.com/artist/7lUtDltJHYLdzNwn4kVNjI) | [Nobody](https://open.spotify.com/album/0bL8Lnsopf96RI8QbmBLw4) | 2:52 | 2024-07-11 |  |
 | [nobody else](https://open.spotify.com/track/0aHNMjGs5KkQw6UJuWaYfV) | [fahmy.](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG), [BDK NIP](https://open.spotify.com/artist/7eugoeLuyxuWEUDD46UHZa) | [nobody else](https://open.spotify.com/album/1DmEV4KrXrnHDOEtpNWcHf) | 2:34 | 2022-07-14 | 2022-09-16 |
 | [Nobody Else](https://open.spotify.com/track/5CpwqX9hhBfc9OZervbfV8) | [FARIS Z](https://open.spotify.com/artist/76LDoX8rLTMv5CpaBUOKoa), [Nik Qistina](https://open.spotify.com/artist/03efOnpjBbPqls3v5R0SBk) | [Nobody Else](https://open.spotify.com/album/2UOPEY2WYSS7UBqOlFskb3) | 3:14 | 2023-03-02 | 2023-03-04 |
 | [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 | 2022-03-31 | 2023-01-13 |

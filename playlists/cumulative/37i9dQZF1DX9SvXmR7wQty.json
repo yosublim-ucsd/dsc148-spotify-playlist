@@ -18901,6 +18901,24 @@
     },
     {
       "album": {
+        "name": "H\u00c9H\u00c9 H\u00c9",
+        "url": "https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138326,
+      "name": "H\u00c9H\u00c9 H\u00c9",
+      "url": "https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD"
+    },
+    {
+      "album": {
         "name": "H\u00e9ritage",
         "url": "https://open.spotify.com/album/5PZa10Sd89gIJq7eDQPqQP"
       },
@@ -27332,7 +27350,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 201055,
       "name": "Les Montgolfi\u00e8res",
       "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
@@ -36878,7 +36896,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 208645,
       "name": "Play",
       "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
@@ -42118,7 +42136,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 157643,
       "name": "Sentiments",
       "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"

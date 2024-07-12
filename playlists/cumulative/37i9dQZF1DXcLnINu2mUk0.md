@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Nenny
 
-625 songs - 1 day 9 hr 19 min
+626 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 | 2024-02-16 | 2024-06-21 |
 | [Negritude](https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2) | [Euryy](https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Negritude](https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE) | 3:17 | 2023-06-22 | 2023-07-07 |
 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 | 2023-04-27 | 2023-05-26 |
-| [Nha Primero Amor](https://open.spotify.com/track/3GCHMMMA3vFtqqlFp2skQk) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Dareal General](https://open.spotify.com/artist/7itE86R6ishEmuNJjHevRg) | [Nha Primero Amor](https://open.spotify.com/album/4IxGXXvpUhv94oKwl5ddj0) | 3:33 | 2024-07-04 |  |
+| [Nha Primero Amor](https://open.spotify.com/track/3GCHMMMA3vFtqqlFp2skQk) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Dareal General](https://open.spotify.com/artist/7itE86R6ishEmuNJjHevRg) | [Nha Primero Amor](https://open.spotify.com/album/4IxGXXvpUhv94oKwl5ddj0) | 3:33 | 2024-07-04 | 2024-07-12 |
 | [NIAGARA](https://open.spotify.com/track/0FF1VE2GNCkHQWVu4Yh98M) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [NIAGARA](https://open.spotify.com/album/5DcpE1LAHLT7G9g1Fm1BG3) | 2:33 | 2024-04-25 | 2024-05-16 |
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 | 2023-03-11 |
 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 | 2024-06-13 |  |
@@ -521,6 +521,7 @@
 | [Silêncio](https://open.spotify.com/track/6qJWEAvblrl03o5lSTKpbI) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Silêncio](https://open.spotify.com/album/1Bzk3BwhxS5lLdFAH5tLzN) | 2:16 | 2023-06-29 | 2023-07-09 |
 | [Silêncio](https://open.spotify.com/track/7weWL4qWlqHmwwk6NNVUGd) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Miguela](https://open.spotify.com/album/5bqBMrmLgZKzvMKvsTyvyL) | 2:58 | 2024-02-09 | 2024-03-01 |
 | [SINAIS](https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/22NWHS3nYaoo34h7CSGFme) | [SINAIS](https://open.spotify.com/album/4TQEeYV8ixyAnV2s4MOmFI) | 2:29 | 2023-01-20 | 2023-02-10 |
+| [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 | 2024-07-11 |  |
 | [Sinergy](https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK) | [YANAGUI](https://open.spotify.com/artist/2hDOcSFCU43glzID9X24dU), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [Sinergy](https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth) | 4:06 | 2023-05-11 | 2023-06-02 |
 | [Single](https://open.spotify.com/track/66NZgERUem7kGQhD8Q3dmw) | [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Pop\-Snacks](https://open.spotify.com/album/6QnafQGisP0YllLTxlGFv2) | 2:12 | 2023-11-17 | 2023-12-09 |
 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 | 2023-06-22 | 2023-12-09 |

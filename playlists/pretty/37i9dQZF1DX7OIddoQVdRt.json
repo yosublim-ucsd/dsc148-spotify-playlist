@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 623283,
+  "num_followers": 623310,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Stained Glass Windows",
-        "url": "https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb"
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
       },
       "artists": [
         {
-          "name": "Rudy Currence",
-          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 275620,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/5WowSj4txQLAl48zdUQSZP"
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "I See Miracles",
-        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+        "name": "Stained Glass Windows",
+        "url": "https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb"
       },
       "artists": [
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
         }
       ],
-      "duration_ms": 260431,
-      "name": "I See Miracles",
-      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+      "duration_ms": 275620,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/5WowSj4txQLAl48zdUQSZP"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "He Loves Me",
         "url": "https://open.spotify.com/album/5gV5rh660Bi8NPBc5a0766"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 367306,
       "name": "I See Good",
       "url": "https://open.spotify.com/track/3d1ZDOFoNd6ruROmgrgdK8"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "I Got Out",
-        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
-      },
-      "artists": [
-        {
-          "name": "Bryan Popin",
-          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
-        }
-      ],
-      "duration_ms": 297653,
-      "name": "I Got Out",
-      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "You Kept Me",
         "url": "https://open.spotify.com/album/2CpcvaCDxcQ31XAP3zP5VD"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 319910,
       "name": "You Kept Me",
       "url": "https://open.spotify.com/track/5ax8IDf487EyohGC8v1oF7"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "I Got Out",
+        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
+      },
+      "artists": [
+        {
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
+        }
+      ],
+      "duration_ms": 297653,
+      "name": "I Got Out",
+      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Nobody But God",
+        "url": "https://open.spotify.com/album/3NmK2Q1MXkotwhXku6hn4u"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        },
+        {
+          "name": "Faith City Music",
+          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
+        }
+      ],
+      "duration_ms": 196271,
+      "name": "Nobody But God",
+      "url": "https://open.spotify.com/track/228U9lzEqF0muDxx5q3T4u"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
         "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
       },
@@ -919,22 +939,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Nobody But God",
-        "url": "https://open.spotify.com/album/3NmK2Q1MXkotwhXku6hn4u"
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
       "artists": [
         {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         },
         {
-          "name": "Faith City Music",
-          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         }
       ],
-      "duration_ms": 196271,
-      "name": "Nobody But God",
-      "url": "https://open.spotify.com/track/228U9lzEqF0muDxx5q3T4u"
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -955,22 +975,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+        "name": "In Him There Is No Sorrow",
+        "url": "https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+          "name": "Donald Lawrence & Company",
+          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
         },
         {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+      "duration_ms": 377460,
+      "name": "In Him There Is No Sorrow",
+      "url": "https://open.spotify.com/track/1eaob8lv7dnnn282p6j28d"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -999,22 +1019,26 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "In Him There Is No Sorrow",
-        "url": "https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa"
+        "name": "Welcome to Faith City",
+        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
       "artists": [
         {
-          "name": "Donald Lawrence & Company",
-          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
         },
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "Faith City Music",
+          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
         }
       ],
-      "duration_ms": 377460,
-      "name": "In Him There Is No Sorrow",
-      "url": "https://open.spotify.com/track/1eaob8lv7dnnn282p6j28d"
+      "duration_ms": 285106,
+      "name": "Jesus (feat. Le'andria Johnson)",
+      "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1067,30 +1091,6 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Welcome to Faith City",
-        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        },
-        {
-          "name": "Faith City Music",
-          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "Jesus (feat. Le'andria Johnson)",
-      "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        }
-      ],
-      "duration_ms": 254069,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "He Can Handle It (Live)",
         "url": "https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 249022,
       "name": "He Can Handle It (Radio Edit) - Live",
       "url": "https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "duration_ms": 254069,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN"
+      },
+      "artists": [
+        {
+          "name": "Keyla Richardson",
+          "url": "https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW"
+        }
+      ],
+      "duration_ms": 262315,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Tap Into It (The Source)",
         "url": "https://open.spotify.com/album/5jw01W5oU1yIznSc9tVSnn"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 313448,
       "name": "Tap Into It (The Source)",
       "url": "https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN"
-      },
-      "artists": [
-        {
-          "name": "Keyla Richardson",
-          "url": "https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW"
-        }
-      ],
-      "duration_ms": 262315,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps"
     },
     {
       "added_at": "2024-02-02 06:37:59",

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 430055,
+  "num_followers": 430222,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "The Very Best of The Everly Brothers",
@@ -343,6 +327,22 @@
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Green, Green Grass Of Home",
         "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 184893,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
@@ -699,6 +683,22 @@
       "duration_ms": 181666,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/5JccvAiwcZ7n3urnXqWPsG"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Take A Look",
-        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Anyone Who Knows What Love Is (Will Understand)",
-      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "The Golden Hits of The Everly Brothers",
@@ -875,6 +859,22 @@
       "duration_ms": 169160,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Take A Look",
+        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Anyone Who Knows What Love Is (Will Understand)",
+      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
+        "name": "Presenting Rosie & the Originals",
+        "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
         }
       ],
-      "duration_ms": 113066,
-      "name": "(Ummmm, Oh Yeah) Dearest",
-      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
+      "duration_ms": 227600,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Presenting Rosie & the Originals",
-        "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
       },
       "artists": [
         {
-          "name": "Rosie & The Originals",
-          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
+      "duration_ms": 113066,
+      "name": "(Ummmm, Oh Yeah) Dearest",
+      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "The Lost Album",
-        "url": "https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu"
-      },
-      "artists": [
-        {
-          "name": "Peter Sarstedt",
-          "url": "https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B"
-        }
-      ],
-      "duration_ms": 287720,
-      "name": "Where Do You Go To (My Lovely) - Re-Recorded",
-      "url": "https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Bobby Vee",
@@ -1539,6 +1523,22 @@
       "duration_ms": 149973,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "The Lost Album",
+        "url": "https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu"
+      },
+      "artists": [
+        {
+          "name": "Peter Sarstedt",
+          "url": "https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Where Do You Go To (My Lovely) - Re-Recorded",
+      "url": "https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
-        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Love In Vain - Remastered 2019",
-      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Sealed with a Kiss and All the Great Hits, 1960 - 1962",
         "url": "https://open.spotify.com/album/3FJUdwzyGayneGvwrtlf5s"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 162666,
       "name": "Sealed with a Kiss",
       "url": "https://open.spotify.com/track/4Kir60nu0v2dcBVSxVhCQc"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
+        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Love In Vain - Remastered 2019",
+      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Chapel of Love",
         "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 170874,
       "name": "Chapel of Love",
       "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Hello Louis - The Hit Years (1963-1969)",
-        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 137466,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2159,18 +2159,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
+        "name": "Hello Louis - The Hit Years (1963-1969)",
+        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+      "duration_ms": 137466,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 259946,
       "name": "Come Together - Remastered",
       "url": "https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
     },
     {
       "added_at": "2022-05-30 13:00:37",

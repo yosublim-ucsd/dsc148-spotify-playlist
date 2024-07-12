@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1926401,
+  "num_followers": 1926423,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 253733,
-      "name": "I Need Never Get Old",
-      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
+      "duration_ms": 253493,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 253493,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
+      "duration_ms": 253733,
+      "name": "I Need Never Get Old",
+      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "True Sadness",
-        "url": "https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Ain't No Man",
-      "url": "https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
+        "name": "True Sadness",
+        "url": "https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Ain't No Man",
+      "url": "https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Put It Together",
-      "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
         "name": "Nightjar and the Nightingale",
         "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 169177,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Put It Together",
+      "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
+        "name": "In The Wind",
+        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
+      },
+      "artists": [
+        {
+          "name": "MAGIC GIANT",
+          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
         "name": "Start Right Now (feat. Laney Jones)",
         "url": "https://open.spotify.com/album/7MjoLuhICM6thmuzQOLfQr"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 194230,
       "name": "Start Right Now (feat. Laney Jones)",
       "url": "https://open.spotify.com/track/5AqNpVjueURnEaMDzIrUl8"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
-        "name": "In The Wind",
-        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
-      },
-      "artists": [
-        {
-          "name": "MAGIC GIANT",
-          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+      "duration_ms": 186786,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 162980,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+        "name": "In The Water",
+        "url": "https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb"
       },
       "artists": [
         {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn"
+      "duration_ms": 181906,
+      "name": "In The Water",
+      "url": "https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "In The Water",
-        "url": "https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb"
-      },
-      "artists": [
-        {
-          "name": "Pierce Brothers",
-          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "In The Water",
-      "url": "https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
         "name": "Headlights / Summer Bird",
         "url": "https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ"
       },
@@ -1475,22 +1459,6 @@
       "duration_ms": 191980,
       "name": "Summer Bird",
       "url": "https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
-        "name": "Strawberry Mansion - Side A",
-        "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mighty Soul",
-      "url": "https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -1511,6 +1479,22 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
         "name": "Give Me The Reason (Stripped Acoustic)",
         "url": "https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/7d6ECwiSQEikOrJt5SNWMo"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
+        "name": "Strawberry Mansion - Side A",
+        "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Mighty Soul",
+      "url": "https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ"
     },
     {
       "added_at": "2024-07-05 19:45:39",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-05 19:45:39",
       "album": {
-        "name": "Shabang",
-        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
-      },
-      "artists": [
-        {
-          "name": "Scott McMicken and THE EVER-EXPANDING",
-          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
-        }
-      ],
-      "duration_ms": 250962,
-      "name": "Diamonds In The Snow",
-      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
-    },
-    {
-      "added_at": "2024-07-05 19:45:39",
-      "album": {
         "name": "Fast Like a Match",
         "url": "https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 161013,
       "name": "Fast Like a Match",
       "url": "https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc"
+    },
+    {
+      "added_at": "2024-07-05 19:45:39",
+      "album": {
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
+      },
+      "artists": [
+        {
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
+        }
+      ],
+      "duration_ms": 250962,
+      "name": "Diamonds In The Snow",
+      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
     },
     {
       "added_at": "2024-07-05 19:45:39",

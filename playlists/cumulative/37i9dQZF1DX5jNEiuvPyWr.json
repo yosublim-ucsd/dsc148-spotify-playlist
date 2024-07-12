@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Green Montana",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Karmen",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168186,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/2oTV3Qc22CRhI3iaonpxPX"
@@ -3817,6 +3817,28 @@
     },
     {
       "album": {
+        "name": "MOTEL STUDIO 2",
+        "url": "https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
+        },
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "LA LUNE",
+      "url": "https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa"
+    },
+    {
+      "album": {
         "name": "La paume",
         "url": "https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL"
       },
@@ -4708,6 +4730,32 @@
       "duration_ms": 175433,
       "name": "MILLA",
       "url": "https://open.spotify.com/track/04vzFIKxbPInvQOgYoIrYS"
+    },
+    {
+      "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/0FMHpaHU0slUQQrCJr1BTO"
+      },
+      "artists": [
+        {
+          "name": "Hofmann",
+          "url": "https://open.spotify.com/artist/4dHYnkZpHvtz8I9oXZWQue"
+        },
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        },
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190178,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/3B9jxMUPRpJJRTXQNpM8Jb"
     },
     {
       "album": {
@@ -7690,7 +7738,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168000,
       "name": "\u00c7a donne pas envie",
       "url": "https://open.spotify.com/track/0NqUKviaU5ACy1QO1SzE5g"

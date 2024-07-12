@@ -1,12 +1,12 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 28803,
+  "num_followers": 28842,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsS6wAAAACAmXt2DjpJuw5ieyG2a9zK",
+  "snapshot_id": "ZpAhjAAAAACBq8srUWv2hzB6/hY2JunM",
   "tracks": [
     {
       "added_at": "2022-07-11 22:47:32",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/6sYVMo726IFEkeMyv1Xh6Q"
     },
     {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Dora The Explorer",
-        "url": "https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF"
-      },
-      "artists": [
-        {
-          "name": "Dora The Explorer",
-          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
-        }
-      ],
-      "duration_ms": 68706,
-      "name": "La Lechuza",
-      "url": "https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM"
-    },
-    {
       "added_at": "2022-08-06 01:10:19",
       "album": {
         "name": "Animalitos",
@@ -571,6 +555,22 @@
       "duration_ms": 139853,
       "name": "Animalitos",
       "url": "https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Dora The Explorer",
+        "url": "https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF"
+      },
+      "artists": [
+        {
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+        }
+      ],
+      "duration_ms": 68706,
+      "name": "La Lechuza",
+      "url": "https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Dora The Explorer World Adventure",
-        "url": "https://open.spotify.com/album/4tNe4BNIrslkswQP5Y26JG"
-      },
-      "artists": [
-        {
-          "name": "Dora The Explorer",
-          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Mi Chacra",
-      "url": "https://open.spotify.com/track/5zP8jxoTuAudT8i8orZzIn"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Adelante",
         "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 192065,
       "name": "La Pequena Arana-Bonus",
       "url": "https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Diego, Dora & Friends' Animal Jamboree",
+        "url": "https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD"
+      },
+      "artists": [
+        {
+          "name": "Diego, Dora & Friends",
+          "url": "https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Animal Jam",
+      "url": "https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -719,18 +719,18 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Diego, Dora & Friends' Animal Jamboree",
-        "url": "https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD"
+        "name": "Dora The Explorer World Adventure",
+        "url": "https://open.spotify.com/album/4tNe4BNIrslkswQP5Y26JG"
       },
       "artists": [
         {
-          "name": "Diego, Dora & Friends",
-          "url": "https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V"
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Animal Jam",
-      "url": "https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6"
+      "duration_ms": 191933,
+      "name": "Mi Chacra",
+      "url": "https://open.spotify.com/track/5zP8jxoTuAudT8i8orZzIn"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Dora The Explorer",
-        "url": "https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF"
-      },
-      "artists": [
-        {
-          "name": "Dora The Explorer",
-          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
-        }
-      ],
-      "duration_ms": 96533,
-      "name": "El Coqui",
-      "url": "https://open.spotify.com/track/7yufdKdMxeVRPf3S5rOdw1"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "\u00a1Fantastico!",
         "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 121405,
       "name": "Gato Astronauta",
       "url": "https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Diego, Dora & Friends' Animal Jamboree",
+        "url": "https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD"
+      },
+      "artists": [
+        {
+          "name": "Diego, Dora & Friends",
+          "url": "https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/4D0y7AbTatziBTlScK4RZm"
     }
   ],
   "unique_name": "Los Animalitos",

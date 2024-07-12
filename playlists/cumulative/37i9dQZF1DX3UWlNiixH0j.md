@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: a子 \(ako\)
 
-1,748 songs - 4 day 12 hr 28 min
+1,750 songs - 4 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Crying Dancer](https://open.spotify.com/track/1jqdn9pXhWXsASjMhn0u8k) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Crying Dancer](https://open.spotify.com/album/57Hy9sa2xYdcElkTaQbjaR) | 3:48 | 2023-01-24 | 2023-02-01 |
 | [Crying Dancer](https://open.spotify.com/track/6CbJ0K5F6Qndwd6f7Sf88s) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Crying Dancer](https://open.spotify.com/album/6VvlOmuGYDIsF6w6X0twMb) | 3:48 | 2023-01-24 | 2023-01-26 |
 | [Ctrl Z \(feat\. Foi\)](https://open.spotify.com/track/2eonLjVLwcaGt9GZT5urhI) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [Ctrl Z \(feat\. Foi\)](https://open.spotify.com/album/5JrSCjgBmW2kTKIVvJSXen) | 3:09 | 2023-06-27 | 2023-12-13 |
-| [Cubism](https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Cubism](https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx) | 3:13 | 2024-04-02 |  |
+| [Cubism](https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Cubism](https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx) | 3:13 | 2024-04-02 | 2024-07-12 |
 | [Cupola](https://open.spotify.com/track/71UswHFBFmtTNOApdXAwHY) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Cupola](https://open.spotify.com/album/5vmOw1BJjkie4AhqPkyLox) | 3:48 | 2023-05-04 | 2023-06-03 |
 | [C’mon](https://open.spotify.com/track/0ZsWcdP0P7qfhhvbwe0Wxl) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [C’mon](https://open.spotify.com/album/7rXZMVvllOfTKfzehvIs04) | 3:23 | 2023-07-04 | 2023-07-12 |
 | [Daidai](https://open.spotify.com/track/4aIkJ57mTcNDluNttXBi5R) | [Saboten Neon House](https://open.spotify.com/artist/4YiEZJEh5hD4zNhPtTpp5C) | [Daidai / A Cup of Coffee](https://open.spotify.com/album/0IRVaCORb4vwBSyhVaNdnm) | 3:08 | 2023-04-11 | 2023-04-21 |
@@ -534,6 +534,7 @@
 | [Lily](https://open.spotify.com/track/66sSLulLtyGjwt33C4XE2n) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Lily](https://open.spotify.com/album/1elWcJyr9tqhnpt8uZXUFR) | 4:27 | 2024-04-30 | 2024-05-22 |
 | [Link](https://open.spotify.com/track/52DdvqVipvD6SsdxumQlLa) | [DIMWORK](https://open.spotify.com/artist/1LF1v18dJ7OGuGdju3T56d) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 4:53 | 2023-08-08 | 2023-08-16 |
 | [Living Fool](https://open.spotify.com/track/0e1kW8RRrYyhyBmAaLzNaG) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Living Fool](https://open.spotify.com/album/0Vaq53yG0l4tjNP2AmIj7v) | 3:01 | 2024-06-25 |  |
+| [LONELINESS WILL SHINE](https://open.spotify.com/track/4Ieq7cQhnpdvxkRIALTT1D) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [NOW I SEE THE LIGHT](https://open.spotify.com/album/1AgU32hdZ8BOx6cWVB7Ucv) | 5:56 | 2024-07-09 |  |
 | [lonely & lonely](https://open.spotify.com/track/4GGmUBA5w9sABmbnnBLee9) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [lonely & lonely](https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR) | 3:57 | 2023-08-15 | 2023-08-23 |
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 | 2024-02-23 |
 | [Lonely star](https://open.spotify.com/track/3RB4JDN3ctAJOgd01vpjDi) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 3:47 | 2024-02-28 | 2024-04-17 |
@@ -595,6 +596,7 @@
 | [Mild Child](https://open.spotify.com/track/22SRljDCEqspX5xTeFn6jd) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Mild Child](https://open.spotify.com/album/6xZ7LBjsMfANHQAMt7wmWk) | 4:13 | 2024-06-11 | 2024-06-26 |
 | [Miles Day Blues](https://open.spotify.com/track/5rmYtVeUM7Lr4G6BxJAd2J) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Miles Day Blues](https://open.spotify.com/album/1OKgxHur481MYFpS7GJlp9) | 5:10 | 2023-09-26 | 2023-10-04 |
 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 | 2023-03-28 | 2023-04-07 |
+| [MIND TRAIN](https://open.spotify.com/track/7dxIIrRMTVsTWHX7k7SL0P) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [MIND TRAIN](https://open.spotify.com/album/7ox2xuAn7inZC9V3M4MMkn) | 9:03 | 2024-07-09 |  |
 | [Mini Hen](https://open.spotify.com/track/3gmRgbpu7qH6oCv60JlzYe) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [Mini Hen](https://open.spotify.com/album/1CaIzrqlja8PsRsokXh8w4) | 2:12 | 2024-02-20 | 2024-02-28 |
 | [Miragesong](https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Miragesong](https://open.spotify.com/album/1UlKV6Ue1vVWHmnTzisGbt) | 4:45 | 2023-01-12 | 2023-01-25 |
 | [MIRROR](https://open.spotify.com/track/6BH26KLvdWAgWyh5ITG3Li) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 2:00 | 2023-06-22 | 2023-10-11 |
@@ -761,7 +763,7 @@
 | [primitive age](https://open.spotify.com/track/5pVsEjvZDeuAQxe67pafm4) | [Akiyama ritsuki](https://open.spotify.com/artist/7Lb20kUMIBtHb0dqfR7vB9) | [SAL.LIGHTER](https://open.spotify.com/album/4oBBpnt1HORElrqqIma5zM) | 4:51 | 2023-09-22 | 2023-10-04 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-12 | 2024-02-21 |
 | [Promenade](https://open.spotify.com/track/2TRdlT1pZaARZBh6rBOVuC) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [Promenade](https://open.spotify.com/album/6MWwsRzFB63os13VAZ43V9) | 3:42 | 2023-12-12 | 2024-01-10 |
-| [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 | 2024-04-16 |  |
+| [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 | 2024-04-16 | 2024-07-12 |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-05-10 |
 | [PUMP](https://open.spotify.com/track/5SUxFWrEAE6FVzxCntey2B) | [からくりごっこ](https://open.spotify.com/artist/07cSxamWHryr28hmS0SYbo) | [ASHITA RESORT](https://open.spotify.com/album/3FWZBAGbYqf9MQKceWv9Ao) | 3:34 | 2024-04-16 | 2024-04-24 |
 | [Pure Green](https://open.spotify.com/track/5BTPjsqZlFKsvXaSaNEnTc) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Pure Green](https://open.spotify.com/album/145Ga4i1lUhkXAFLBFBco1) | 4:02 | 2024-04-30 | 2024-06-22 |

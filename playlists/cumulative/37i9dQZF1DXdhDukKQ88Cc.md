@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den største danske rap lige nu <a href="spotify:album:0vYywoBHcZgwW08A2rA9fU">@KENNY</a> 😮‍💨
+> den største danske rap lige nu, call <a href="spotify:album:7AmzcJSCXx4xQgZSFs0kov">911</a> 🚨
 
-200 songs - 8 hr 39 min
+204 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/track/5od1j7k88aLQoLJdj4xdoq) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/album/5D5P9ieuXW4WEtprfjCj4M) | 3:11 | 2024-02-22 | 2024-05-14 |
 | [AMAL PT\. 2](https://open.spotify.com/track/7zH44zeRQPJdkNmKJyNvrL) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [AMAL PT\. 2](https://open.spotify.com/album/1fxN0kfZA3pus0HH1LfCJi) | 3:14 | 2024-01-11 |  |
 | [ANDERLEDES](https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw) | [MEMZ](https://open.spotify.com/artist/6XvIKkATarRkAZppLCdLVY) | [ANDERLEDES](https://open.spotify.com/album/7azznQEPvB5GM2olU0M8X2) | 1:55 | 2023-11-10 | 2023-12-14 |
+| [Astralis](https://open.spotify.com/track/7C7PFBbwFC3e0XQF4utbQX) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [ASTRALIS](https://open.spotify.com/album/5IN3zS8PZ2uabDDKzVqJtS) | 2:36 | 2024-07-11 |  |
 | [Baby Mama](https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [Baby Mama](https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf) | 2:58 | 2023-09-21 | 2024-01-19 |
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-09-21 | 2023-12-14 |
 | [Baggen](https://open.spotify.com/track/1I3SW3d0TGH1NWY0tfK4QH) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Baggen](https://open.spotify.com/album/1X7LxXRddLunOvIu3gXDTP) | 2:20 | 2023-11-10 | 2024-01-19 |
@@ -30,6 +31,7 @@
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 |  |
 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 | 2024-03-07 |  |
 | [Black Ops](https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Black Ops](https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT) | 2:36 | 2024-04-11 |  |
+| [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 | 2024-04-25 |  |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/45YtsGktecYqg2o9yeFJ5o) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl) | 1:45 | 2024-05-02 |  |
@@ -71,7 +73,7 @@
 | [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 | 2024-01-11 |  |
 | [Et Par Timer](https://open.spotify.com/track/1eEc7r9BeHoiE9XYjLRoSx) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Et Par Timer](https://open.spotify.com/album/57KyTFA1EXOs6ZDL0CrA5W) | 2:27 | 2024-04-25 |  |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 | 2024-02-23 |
-| [Eurobando](https://open.spotify.com/track/0nvHRs2XP1BbaAs3wOdI6j) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:47 | 2024-06-20 |  |
+| [Eurobando](https://open.spotify.com/track/0nvHRs2XP1BbaAs3wOdI6j) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:47 | 2024-06-20 | 2024-07-12 |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 | 2023-12-14 |
 | [FEAR NOBODY](https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FEAR NOBODY](https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN) | 2:46 | 2024-02-08 |  |
 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 | 2023-09-21 | 2023-11-11 |
@@ -153,6 +155,7 @@
 | [Psykosebarn](https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Psykosebarn](https://open.spotify.com/album/1bVTGCNXPtNVjznVGYpCGx) | 2:10 | 2023-09-21 |  |
 | [Purple Rain \(Stadig Lay\)](https://open.spotify.com/track/4xcXzfGf4ciBBaIOfvgrmk) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Purple Rain \(Stadig Lay\)](https://open.spotify.com/album/6Ormh81VLPFjapNBQUNfS1) | 2:47 | 2024-04-18 | 2024-04-26 |
 | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22) | 1:53 | 2023-09-21 | 2023-12-14 |
+| [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-11 |  |
 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 | 2023-09-21 | 2024-02-23 |
 | [Rock with It](https://open.spotify.com/track/0H5Q7G69hxQs8qdkD6rmRJ) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Rock with It](https://open.spotify.com/album/0vs2X0QGBP3RSK7jtzLOrE) | 2:25 | 2023-09-29 | 2024-01-19 |
 | [Roll With It](https://open.spotify.com/track/3LrSFkh0r57DlAzj9MCerw) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:27 | 2023-11-10 |  |
@@ -195,6 +198,7 @@
 | [Ups](https://open.spotify.com/track/7aLi7SODrTLkxBnENkYGps) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Ups](https://open.spotify.com/album/0lkWgl4t6t5qWoEr9Ew289) | 2:27 | 2024-02-15 | 2024-02-23 |
 | [USTOPPELIG](https://open.spotify.com/track/0R4tUBZQFD5PEcw2QMr2iy) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [USTOPPELIG](https://open.spotify.com/album/3WN3SEL9e7tf32zbNQWnaG) | 2:18 | 2024-01-04 | 2024-01-19 |
 | [Uwawe](https://open.spotify.com/track/3BzCCqPqIsheyW4DyLM1ut) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Uwawe](https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy) | 2:19 | 2023-12-08 | 2024-05-14 |
+| [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 |  |
 | [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 | 2024-01-16 | 2024-03-08 |
 | [VEND OM](https://open.spotify.com/track/3v18HYLfMVttHbUEfOwbMb) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [VEND OM](https://open.spotify.com/album/27ztKpAJgGgqF7db7syLIs) | 3:30 | 2024-06-06 |  |
 | [VERDEN RUNDT](https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:23 | 2024-05-23 |  |

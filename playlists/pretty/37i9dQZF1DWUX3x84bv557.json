@@ -1,44 +1,32 @@
 {
-  "description": "De nieuwste Nederlandse pop! Cover: Tabitha",
-  "num_followers": 162904,
+  "description": "De nieuwste Nederlandse pop! Cover: Roxy Dekker & Ronnie Flex",
+  "num_followers": 162924,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocbYAAAAACC5cNC3EnlGIAEXIYydN16",
+  "snapshot_id": "ZpBV4AAAAADJxU5Y6pedyeEBs1L1bCp0",
   "tracks": [
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Heling",
-        "url": "https://open.spotify.com/album/2oDzb0tTK7Iy3kLA8xlf4E"
+        "name": "Gaan We Weg?",
+        "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
       },
       "artists": [
         {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        }
-      ],
-      "duration_ms": 139743,
-      "name": "Heling",
-      "url": "https://open.spotify.com/track/79WaMgt0AKB74sqqPo9Kdw"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Geef Me Het Leven",
-        "url": "https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk"
-      },
-      "artists": [
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
         {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 195863,
-      "name": "Geef Me Het Leven",
-      "url": "https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx"
+      "duration_ms": 141775,
+      "name": "Gaan We Weg?",
+      "url": "https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -73,20 +61,68 @@
       "url": "https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "My Energy",
-        "url": "https://open.spotify.com/album/2nIa4dTSiQbaloTwCP1XVh"
+        "name": "Sowieso",
+        "url": "https://open.spotify.com/album/6qHb1I8crdjoT1f3MlX25a"
       },
       "artists": [
         {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
         }
       ],
-      "duration_ms": 175111,
-      "name": "My Energy",
-      "url": "https://open.spotify.com/track/5pvyiofS9B2guLpka9wWeZ"
+      "duration_ms": 138325,
+      "name": "Sowieso",
+      "url": "https://open.spotify.com/track/020Ctks6NzM9htzWdFsI37"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Geef Me Het Leven",
+        "url": "https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 195863,
+      "name": "Geef Me Het Leven",
+      "url": "https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Nog \u00c9\u00e9n Laatste Dans",
+        "url": "https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Nog \u00c9\u00e9n Laatste Dans",
+      "url": "https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Heling",
+        "url": "https://open.spotify.com/album/2oDzb0tTK7Iy3kLA8xlf4E"
+      },
+      "artists": [
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "duration_ms": 139743,
+      "name": "Heling",
+      "url": "https://open.spotify.com/track/79WaMgt0AKB74sqqPo9Kdw"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -113,36 +149,20 @@
       "url": "https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb"
     },
     {
-      "added_at": "2024-06-17 22:07:56",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Wat Er Ook Gebeurt",
-        "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
+        "name": "Ik Was Je Bijna Gaan Geloven",
+        "url": "https://open.spotify.com/album/6QbHqYpvirgx1Mrp6Iyu53"
       },
       "artists": [
         {
-          "name": "Xerxes",
-          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+          "name": "Sterre Koning",
+          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
         }
       ],
-      "duration_ms": 188614,
-      "name": "Wat Er Ook Gebeurt",
-      "url": "https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "THT",
-        "url": "https://open.spotify.com/album/1PQq1sf55eaZZYAX2vAUik"
-      },
-      "artists": [
-        {
-          "name": "Lola Ced\u00e8s",
-          "url": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "THT",
-      "url": "https://open.spotify.com/track/5E0hwdmpaHl698nbHM7YCK"
+      "duration_ms": 198489,
+      "name": "Ik Was Je Bijna Gaan Geloven",
+      "url": "https://open.spotify.com/track/5Loh94Ra2Unv4p4BAGs2Jd"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -165,6 +185,38 @@
       "url": "https://open.spotify.com/track/5dDTrE9ePpX0nGY1naajL0"
     },
     {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "My Energy",
+        "url": "https://open.spotify.com/album/2nIa4dTSiQbaloTwCP1XVh"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
+        }
+      ],
+      "duration_ms": 175111,
+      "name": "My Energy",
+      "url": "https://open.spotify.com/track/5pvyiofS9B2guLpka9wWeZ"
+    },
+    {
+      "added_at": "2024-06-17 22:07:56",
+      "album": {
+        "name": "Wat Er Ook Gebeurt",
+        "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "duration_ms": 188614,
+      "name": "Wat Er Ook Gebeurt",
+      "url": "https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF"
+    },
+    {
       "added_at": "2024-06-20 22:00:00",
       "album": {
         "name": "Zolang ik geef",
@@ -183,18 +235,50 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Loop me iets tegemoet",
-        "url": "https://open.spotify.com/album/6xSovQMNpORzvhDRjjrPND"
+        "name": "THT",
+        "url": "https://open.spotify.com/album/1PQq1sf55eaZZYAX2vAUik"
       },
       "artists": [
         {
-          "name": "Sophia Mason",
-          "url": "https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv"
+          "name": "Lola Ced\u00e8s",
+          "url": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
         }
       ],
-      "duration_ms": 151143,
-      "name": "Loop me iets tegemoet",
-      "url": "https://open.spotify.com/track/1beyJVORcXULB0XNLnfeRW"
+      "duration_ms": 188263,
+      "name": "THT",
+      "url": "https://open.spotify.com/track/5E0hwdmpaHl698nbHM7YCK"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/3kAKyM2R2msmtss0IXzbbD"
+      },
+      "artists": [
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "duration_ms": 151707,
+      "name": "De Melodie",
+      "url": "https://open.spotify.com/track/5KL7gog3nmUwG5q3fBGMsi"
+    },
+    {
+      "added_at": "2024-06-17 22:07:56",
+      "album": {
+        "name": "Het Geluid Van Stilte",
+        "url": "https://open.spotify.com/album/4vKBjBPUUBmQSTYtouAIFH"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "duration_ms": 142075,
+      "name": "Het Geluid Van Stilte",
+      "url": "https://open.spotify.com/track/7M3Ep9kaUWHi7CfXcKSykz"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -231,6 +315,22 @@
       "duration_ms": 150000,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/3beecTSkxr0m2oFNicbrKW"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sereen (Deluxe)",
+        "url": "https://open.spotify.com/album/3tj7xLvpZRJ7AoEHv6GAAz"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "duration_ms": 120612,
+      "name": "Niemand voor Elkaar",
+      "url": "https://open.spotify.com/track/5M4k2zgIC4lO7W94GD0nWv"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -271,22 +371,6 @@
       "duration_ms": 203439,
       "name": "Het Is Voorbij",
       "url": "https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Het Geluid Van Stilte",
-        "url": "https://open.spotify.com/album/4vKBjBPUUBmQSTYtouAIFH"
-      },
-      "artists": [
-        {
-          "name": "BENR",
-          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
-        }
-      ],
-      "duration_ms": 142075,
-      "name": "Het Geluid Van Stilte",
-      "url": "https://open.spotify.com/track/7M3Ep9kaUWHi7CfXcKSykz"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -355,6 +439,22 @@
       "duration_ms": 174315,
       "name": "Niet Meer Terug",
       "url": "https://open.spotify.com/track/66N1MWt8bWfw0P5EbIAGtP"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Loop me iets tegemoet",
+        "url": "https://open.spotify.com/album/6xSovQMNpORzvhDRjjrPND"
+      },
+      "artists": [
+        {
+          "name": "Sophia Mason",
+          "url": "https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv"
+        }
+      ],
+      "duration_ms": 151143,
+      "name": "Loop me iets tegemoet",
+      "url": "https://open.spotify.com/track/1beyJVORcXULB0XNLnfeRW"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -879,22 +979,6 @@
       "duration_ms": 184800,
       "name": "Mama",
       "url": "https://open.spotify.com/track/7iVTRKxQYlZheRkU2kLsT9"
-    },
-    {
-      "added_at": "2024-06-17 22:07:56",
-      "album": {
-        "name": "Op Het Balkon",
-        "url": "https://open.spotify.com/album/1fyXAy7SAkLfQCW8n6Pwjf"
-      },
-      "artists": [
-        {
-          "name": "Sterre Koning",
-          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
-        }
-      ],
-      "duration_ms": 156747,
-      "name": "Op Het Balkon",
-      "url": "https://open.spotify.com/track/1RsP5AgQ5xQsA4SEuiGfHf"
     },
     {
       "added_at": "2024-06-17 22:07:56",

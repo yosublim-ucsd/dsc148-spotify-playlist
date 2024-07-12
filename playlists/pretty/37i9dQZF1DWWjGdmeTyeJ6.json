@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Devin Malik, Artwork: Isu Kim.",
-  "num_followers": 1202206,
+  "num_followers": 1202283,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo613gAAAACy/91SK68Xf+4TsVdh1Exg",
+  "snapshot_id": "ZpA2kAAAAABOeZrW7JIdaRKqmBV5gVBp",
   "tracks": [
     {
       "added_at": "2024-07-03 16:32:13",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-07-10 15:50:34",
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
         "name": "don't want u to die",
         "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 188306,
       "name": "don't want u to die",
       "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
-        "name": "SOCIALITE RODEO",
-        "url": "https://open.spotify.com/album/3sAzc8Kh3uH4lva8kw6ifU"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 140125,
-      "name": "LAUREL CANYON",
-      "url": "https://open.spotify.com/track/4xiV0w3ymIK2OomdbumBu9"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-07-10 15:50:34",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+        "name": "SOCIALITE RODEO",
+        "url": "https://open.spotify.com/album/3sAzc8Kh3uH4lva8kw6ifU"
       },
       "artists": [
         {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
         }
       ],
-      "duration_ms": 162920,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
+      "duration_ms": 140125,
+      "name": "LAUREL CANYON",
+      "url": "https://open.spotify.com/track/4xiV0w3ymIK2OomdbumBu9"
     },
     {
       "added_at": "2024-07-03 16:32:13",
@@ -139,18 +139,34 @@
     {
       "added_at": "2024-07-10 15:50:34",
       "album": {
-        "name": "Cold Caller",
-        "url": "https://open.spotify.com/album/6cu9qXzpFVNGU8ARlfqvH2"
+        "name": "FANGIRL",
+        "url": "https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y"
       },
       "artists": [
         {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
         }
       ],
-      "duration_ms": 185787,
-      "name": "Cold Caller",
-      "url": "https://open.spotify.com/track/5QKbilwxACHAIJMNGjt6rX"
+      "duration_ms": 288800,
+      "name": "FANGIRL",
+      "url": "https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "salma",
+        "url": "https://open.spotify.com/album/3IYbmtXh9mkbXlkvDCJzF7"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "salma",
+      "url": "https://open.spotify.com/track/0BY7J3wneD0hjvKWkSuGvL"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -175,22 +191,6 @@
     {
       "added_at": "2024-07-10 15:50:34",
       "album": {
-        "name": "A DAY IN THE LIFE",
-        "url": "https://open.spotify.com/album/1rU7Y7BEYb8vuHBZFysGch"
-      },
-      "artists": [
-        {
-          "name": "SWO",
-          "url": "https://open.spotify.com/artist/6UvJUIvpXyFT0frVb5Dkio"
-        }
-      ],
-      "duration_ms": 279365,
-      "name": "A DAY IN THE LIFE",
-      "url": "https://open.spotify.com/track/0PCxSSljCWFwstkOpjvJV7"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -207,18 +207,34 @@
     {
       "added_at": "2024-07-10 15:50:34",
       "album": {
-        "name": "FANGIRL",
-        "url": "https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y"
+        "name": "Cold Caller",
+        "url": "https://open.spotify.com/album/6cu9qXzpFVNGU8ARlfqvH2"
       },
       "artists": [
         {
-          "name": "Negro Impacto",
-          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
         }
       ],
-      "duration_ms": 288800,
-      "name": "FANGIRL",
-      "url": "https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt"
+      "duration_ms": 185787,
+      "name": "Cold Caller",
+      "url": "https://open.spotify.com/track/5QKbilwxACHAIJMNGjt6rX"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "A DAY IN THE LIFE",
+        "url": "https://open.spotify.com/album/1rU7Y7BEYb8vuHBZFysGch"
+      },
+      "artists": [
+        {
+          "name": "SWO",
+          "url": "https://open.spotify.com/artist/6UvJUIvpXyFT0frVb5Dkio"
+        }
+      ],
+      "duration_ms": 279365,
+      "name": "A DAY IN THE LIFE",
+      "url": "https://open.spotify.com/track/0PCxSSljCWFwstkOpjvJV7"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -235,22 +251,6 @@
       "duration_ms": 206456,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/1SHpHu0loVuIXvasFr5qsA"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
-        "name": "salma",
-        "url": "https://open.spotify.com/album/3IYbmtXh9mkbXlkvDCJzF7"
-      },
-      "artists": [
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "salma",
-      "url": "https://open.spotify.com/track/0BY7J3wneD0hjvKWkSuGvL"
     },
     {
       "added_at": "2024-06-26 07:01:00",
@@ -271,22 +271,38 @@
     {
       "added_at": "2024-07-10 15:50:34",
       "album": {
-        "name": "Number One Priority",
-        "url": "https://open.spotify.com/album/15D4U88mgCd8z0szWVer7D"
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/7BpYzs8J7OtAqIM7ZOBSsY"
       },
       "artists": [
         {
-          "name": "Dive Time",
-          "url": "https://open.spotify.com/artist/1ZpbgunAuy4Ut5iRDdu4aA"
+          "name": "Gil sm",
+          "url": "https://open.spotify.com/artist/7q4GRFWV3ZltRW3lR3HfFK"
         },
         {
-          "name": "yungatita",
-          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+          "name": "Reek0",
+          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
         }
       ],
-      "duration_ms": 134588,
-      "name": "Number One Priority",
-      "url": "https://open.spotify.com/track/3oz24Qjaq304RpvDBqOPy8"
+      "duration_ms": 264732,
+      "name": "Saturday Morning",
+      "url": "https://open.spotify.com/track/1bpxgPC0W8t6WPRUdi72Pa"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "Godard The Director",
+        "url": "https://open.spotify.com/album/60emmlz3sibbVamREfBVnB"
+      },
+      "artists": [
+        {
+          "name": "sandy crow",
+          "url": "https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC"
+        }
+      ],
+      "duration_ms": 120923,
+      "name": "Godard The Director",
+      "url": "https://open.spotify.com/track/7DINGLhXq3j4g6SoK7wgZr"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -303,6 +319,90 @@
       "duration_ms": 226849,
       "name": "Firing Sideways",
       "url": "https://open.spotify.com/track/1twpf8UNkH362vXO63l28C"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "Yard Work 3",
+        "url": "https://open.spotify.com/album/78CT8v621JLojFqkXVv17G"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "No Questions",
+      "url": "https://open.spotify.com/track/5fBF6TcN4zJXmI9M8PW1Ri"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/5rEiMSXSWmiyaBjD1bq5Gz"
+      },
+      "artists": [
+        {
+          "name": "SirLockeHolmes",
+          "url": "https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev"
+        }
+      ],
+      "duration_ms": 180895,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1puLOV6sF1MQxZHHrG7Zbt"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "callmepretty",
+        "url": "https://open.spotify.com/album/77YRVmMourluyvaxnjD3pt"
+      },
+      "artists": [
+        {
+          "name": "CARSTEN2X",
+          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
+        }
+      ],
+      "duration_ms": 110750,
+      "name": "callmepretty",
+      "url": "https://open.spotify.com/track/4J797axvbOfmcYylSrrmK7"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "red white & me",
+        "url": "https://open.spotify.com/album/5RLVZJNNtKoGhgXScdA87i"
+      },
+      "artists": [
+        {
+          "name": "Mae Mae",
+          "url": "https://open.spotify.com/artist/53ZthSp6EXqpBgOKrS5EsL"
+        }
+      ],
+      "duration_ms": 189223,
+      "name": "red white & me",
+      "url": "https://open.spotify.com/track/2lf1RpYl1VkjuRL82TQDD5"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "Number One Priority",
+        "url": "https://open.spotify.com/album/15D4U88mgCd8z0szWVer7D"
+      },
+      "artists": [
+        {
+          "name": "Dive Time",
+          "url": "https://open.spotify.com/artist/1ZpbgunAuy4Ut5iRDdu4aA"
+        },
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "duration_ms": 134588,
+      "name": "Number One Priority",
+      "url": "https://open.spotify.com/track/3oz24Qjaq304RpvDBqOPy8"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -337,72 +437,20 @@
       "url": "https://open.spotify.com/track/7LeOk7c4D0TfUHRSD0JfKJ"
     },
     {
-      "added_at": "2024-07-10 15:50:34",
+      "added_at": "2024-07-03 16:32:13",
       "album": {
-        "name": "red white & me",
-        "url": "https://open.spotify.com/album/5RLVZJNNtKoGhgXScdA87i"
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
       "artists": [
         {
-          "name": "Mae Mae",
-          "url": "https://open.spotify.com/artist/53ZthSp6EXqpBgOKrS5EsL"
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
         }
       ],
-      "duration_ms": 189223,
-      "name": "red white & me",
-      "url": "https://open.spotify.com/track/2lf1RpYl1VkjuRL82TQDD5"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
-        "name": "Godard The Director",
-        "url": "https://open.spotify.com/album/60emmlz3sibbVamREfBVnB"
-      },
-      "artists": [
-        {
-          "name": "sandy crow",
-          "url": "https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC"
-        }
-      ],
-      "duration_ms": 120923,
-      "name": "Godard The Director",
-      "url": "https://open.spotify.com/track/7DINGLhXq3j4g6SoK7wgZr"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/5rEiMSXSWmiyaBjD1bq5Gz"
-      },
-      "artists": [
-        {
-          "name": "SirLockeHolmes",
-          "url": "https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev"
-        }
-      ],
-      "duration_ms": 180895,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1puLOV6sF1MQxZHHrG7Zbt"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/7BpYzs8J7OtAqIM7ZOBSsY"
-      },
-      "artists": [
-        {
-          "name": "Gil sm",
-          "url": "https://open.spotify.com/artist/7q4GRFWV3ZltRW3lR3HfFK"
-        },
-        {
-          "name": "Reek0",
-          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
-        }
-      ],
-      "duration_ms": 264732,
-      "name": "Saturday Morning",
-      "url": "https://open.spotify.com/track/1bpxgPC0W8t6WPRUdi72Pa"
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -419,22 +467,6 @@
       "duration_ms": 168588,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/3r6gtBHcftDdPhHYWbqjiF"
-    },
-    {
-      "added_at": "2024-07-03 16:32:13",
-      "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -471,22 +503,6 @@
     {
       "added_at": "2024-07-10 15:50:34",
       "album": {
-        "name": "Yard Work 3",
-        "url": "https://open.spotify.com/album/78CT8v621JLojFqkXVv17G"
-      },
-      "artists": [
-        {
-          "name": "Pote Baby",
-          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
-        }
-      ],
-      "duration_ms": 110400,
-      "name": "No Questions",
-      "url": "https://open.spotify.com/track/5fBF6TcN4zJXmI9M8PW1Ri"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
         "name": "Receipts",
         "url": "https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP"
       },
@@ -499,38 +515,6 @@
       "duration_ms": 204280,
       "name": "Receipts",
       "url": "https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
-        "name": "callmepretty",
-        "url": "https://open.spotify.com/album/77YRVmMourluyvaxnjD3pt"
-      },
-      "artists": [
-        {
-          "name": "CARSTEN2X",
-          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
-        }
-      ],
-      "duration_ms": 110750,
-      "name": "callmepretty",
-      "url": "https://open.spotify.com/track/4J797axvbOfmcYylSrrmK7"
-    },
-    {
-      "added_at": "2024-07-10 15:50:34",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/01QnhdhVE2rLBjiVahcPYo"
-      },
-      "artists": [
-        {
-          "name": "Boxtrod",
-          "url": "https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx"
-        }
-      ],
-      "duration_ms": 172217,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2bDwawwkbYx0C12feCFaoW"
     },
     {
       "added_at": "2024-07-10 15:50:34",
@@ -579,6 +563,22 @@
       "duration_ms": 190710,
       "name": "Waste Your Time",
       "url": "https://open.spotify.com/track/1JYnRn2QfNs2SLA1otuZ2Q"
+    },
+    {
+      "added_at": "2024-07-10 15:50:34",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/01QnhdhVE2rLBjiVahcPYo"
+      },
+      "artists": [
+        {
+          "name": "Boxtrod",
+          "url": "https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx"
+        }
+      ],
+      "duration_ms": 172217,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2bDwawwkbYx0C12feCFaoW"
     },
     {
       "added_at": "2024-07-10 15:50:34",

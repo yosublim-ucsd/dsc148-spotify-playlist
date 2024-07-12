@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,846 likes - 110 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,896 likes - 110 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 31 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 |
 | 32 | [Running](https://open.spotify.com/track/23a8sZQihpGchTB8ordsLP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/1GHtn56z5l7TGf7COQJgOo) | 5:03 |
 | 33 | [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 |
-| 34 | [Now Or Never \(feat\. IVERSON\)](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [IVERSON](https://open.spotify.com/artist/13XZKsVSXSkB5i7uVjNqTi) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 |
+| 34 | [Now Or Never \(feat\. IVERSON\)](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [IVERSON](https://open.spotify.com/artist/37Ta8OzT2wEZDyTaCYqzEo) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 |
 | 35 | [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 |
 | 36 | [Boys](https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Elouiza](https://open.spotify.com/artist/3gP9ZZWiL9bdSBZLtNqbTv) | [Boys](https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw) | 2:49 |
 | 37 | [Spiritual](https://open.spotify.com/track/68A1vnbgyfjs8v7Qbqm6D9) | [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Spiritual](https://open.spotify.com/album/3iffE7yucOjQQclqnpm8Gv) | 3:20 |

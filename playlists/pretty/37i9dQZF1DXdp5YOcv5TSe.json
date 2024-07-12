@@ -1,6 +1,6 @@
 {
   "description": "The official G2 Esports playlist. Cover: G2 R6",
-  "num_followers": 70332,
+  "num_followers": 70421,
   "original_name": "G2 Esports",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290426,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
         "name": "Ningu\u00e9m T\u00e1 Puro!",
         "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 163500,
       "name": "400K",
       "url": "https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 290426,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
     },
     {
       "added_at": "2024-07-03 07:52:33",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "Ningu\u00e9m T\u00e1 Puro",
-        "url": "https://open.spotify.com/album/6OhCaNW6ldTBX4CWxuoQHk"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        }
-      ],
-      "duration_ms": 87804,
-      "name": "Ningu\u00e9m T\u00e1 Puro",
-      "url": "https://open.spotify.com/track/1Od9NokLPxoWIZKIbImt6P"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
         "name": "M\u00e1quina do Tempo",
         "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
       },
@@ -407,6 +387,26 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
+        "name": "Ningu\u00e9m T\u00e1 Puro",
+        "url": "https://open.spotify.com/album/6OhCaNW6ldTBX4CWxuoQHk"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "duration_ms": 87804,
+      "name": "Ningu\u00e9m T\u00e1 Puro",
+      "url": "https://open.spotify.com/track/1Od9NokLPxoWIZKIbImt6P"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
         "name": "Clandestina (feat. Emma Peters) [Cocaina Remix]",
         "url": "https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82"
       },
@@ -431,30 +431,6 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "n\u00e9e-nah",
-        "url": "https://open.spotify.com/album/4rdRRSa0PSQca066SdtsWT"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "n\u00e9e-nah",
-      "url": "https://open.spotify.com/track/6TdFkofgTvN0WfnWFmh4a6"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 156000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
+        "name": "n\u00e9e-nah",
+        "url": "https://open.spotify.com/album/4rdRRSa0PSQca066SdtsWT"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "n\u00e9e-nah",
+      "url": "https://open.spotify.com/track/6TdFkofgTvN0WfnWFmh4a6"
     },
     {
       "added_at": "2024-07-03 07:52:33",

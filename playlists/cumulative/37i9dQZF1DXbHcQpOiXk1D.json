@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Nubiyan Twist",
+  "description": "The best from Britain's vibrant scene. Cover: berlioz",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 222089,
       "name": "Diversions",
       "url": "https://open.spotify.com/track/5maJJT6lHNA9p7bvLRBzD5"
@@ -7696,6 +7696,24 @@
       "duration_ms": 418640,
       "name": "opedge",
       "url": "https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri"
+    },
+    {
+      "album": {
+        "name": "open this wall",
+        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156688,
+      "name": "open this wall",
+      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
     },
     {
       "album": {

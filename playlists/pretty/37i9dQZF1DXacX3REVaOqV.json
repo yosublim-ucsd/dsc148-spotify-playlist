@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 500261,
+  "num_followers": 500274,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "365 (Thr33 6ix 5ive)",
-        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 151283,
-      "name": "365 (Thr33 6ix 5ive)",
-      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
         "name": "Count On My Love",
         "url": "https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 356008,
       "name": "Count On My Love",
       "url": "https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "365 (Thr33 6ix 5ive)",
+        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 151283,
+      "name": "365 (Thr33 6ix 5ive)",
+      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "LOOKING FOR JOY",
-        "url": "https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "LOOKING FOR JOY",
-      "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "LOOKING FOR JOY",
+        "url": "https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "LOOKING FOR JOY",
+      "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
+        "name": "Higher Than You",
+        "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Higher Than You",
+      "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
         "name": "OOH",
         "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 316320,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/6HdbvXwjglsjSnV9H4XTEX"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
-        "name": "Higher Than You",
-        "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "Higher Than You",
-      "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "Trapped",
-        "url": "https://open.spotify.com/album/0Hxtes4PBdDwW22sgGf9Z0"
-      },
-      "artists": [
-        {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
-        },
-        {
-          "name": "Hotswing",
-          "url": "https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Trapped - Club Mix",
-      "url": "https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
         "name": "Beautiful Day (feat. Liisi Lafontaine)",
         "url": "https://open.spotify.com/album/1bwb9TFemPzbyJMru309sq"
       },
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/0Hxtes4PBdDwW22sgGf9Z0"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Hotswing",
+          "url": "https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Trapped - Club Mix",
+      "url": "https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
         "name": "Magic Garden EP",
         "url": "https://open.spotify.com/album/2Hc2n3IJED7YQD1PKkkcPf"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 173507,
       "name": "Magic Garden",
       "url": "https://open.spotify.com/track/2wZ061VVOcR5GeCIab6wj2"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "Put A Spell On You",
+        "url": "https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Put A Spell On You",
+      "url": "https://open.spotify.com/track/4EtEO4KP634oHaVSq9JAcf"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "Put A Spell On You",
-        "url": "https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj"
-      },
-      "artists": [
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Put A Spell On You",
-      "url": "https://open.spotify.com/track/4EtEO4KP634oHaVSq9JAcf"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
         "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
         "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 215648,
       "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
       "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "Two Hearts EP",
+        "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Two Hearts - Original Mix",
+      "url": "https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1703,38 +1719,6 @@
       "duration_ms": 170900,
       "name": "Weekend Vibes (feat. Lee Wilson)",
       "url": "https://open.spotify.com/track/1e0nFnixmxUsDZuYUtDzDG"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
-        "name": "Two Hearts EP",
-        "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Two Hearts - Original Mix",
-      "url": "https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
-        "name": "To The Edge",
-        "url": "https://open.spotify.com/album/2goO9zUUcVVarJaIaJ7b4r"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 132360,
-      "name": "To The Edge",
-      "url": "https://open.spotify.com/track/3NXQNu3prstzuveOGaZ5SG"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1767,22 +1751,18 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "Hear The Voices",
-        "url": "https://open.spotify.com/album/7KHlAoSZAnsxN9wH9l0iXO"
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
       },
       "artists": [
         {
-          "name": "Greg Van Bueren",
-          "url": "https://open.spotify.com/artist/4XaX11VVNHfq7Rbbn1E5Gk"
-        },
-        {
-          "name": "Dutchican Soul",
-          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
         }
       ],
-      "duration_ms": 212086,
-      "name": "Hear The Voices - Edit",
-      "url": "https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye"
+      "duration_ms": 183475,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1799,6 +1779,26 @@
       "duration_ms": 162530,
       "name": "Soul",
       "url": "https://open.spotify.com/track/2bmQDLkG6Ws7p5qbaoe3Rl"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "Hear The Voices",
+        "url": "https://open.spotify.com/album/7KHlAoSZAnsxN9wH9l0iXO"
+      },
+      "artists": [
+        {
+          "name": "Greg Van Bueren",
+          "url": "https://open.spotify.com/artist/4XaX11VVNHfq7Rbbn1E5Gk"
+        },
+        {
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        }
+      ],
+      "duration_ms": 212086,
+      "name": "Hear The Voices - Edit",
+      "url": "https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
         "name": "SAHARA",
         "url": "https://open.spotify.com/album/2TiChCfHbe8bqkBoyEwgou"
       },
@@ -1855,6 +1839,26 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/0JShXoABxshoSXM0UKA5d2"
+      },
+      "artists": [
+        {
+          "name": "Seamus Haji",
+          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
+        },
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        }
+      ],
+      "duration_ms": 294243,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/48Ict4mmBJTxBpY5CmpKgC"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
         "name": "Gotta Dance",
         "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
       },
@@ -1867,6 +1871,22 @@
       "duration_ms": 197796,
       "name": "Gotta Dance",
       "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1895,58 +1915,18 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/0JShXoABxshoSXM0UKA5d2"
+        "name": "To The Edge",
+        "url": "https://open.spotify.com/album/2goO9zUUcVVarJaIaJ7b4r"
       },
       "artists": [
         {
-          "name": "Seamus Haji",
-          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
-        },
-        {
-          "name": "Mike Dunn",
-          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
         }
       ],
-      "duration_ms": 294243,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/48Ict4mmBJTxBpY5CmpKgC"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
-        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Sydney Jo Jackson",
-          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
+      "duration_ms": 132360,
+      "name": "To The Edge",
+      "url": "https://open.spotify.com/track/3NXQNu3prstzuveOGaZ5SG"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -1971,18 +1951,22 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/7e58nrriVytxTTmvPEwahO"
+        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
       },
       "artists": [
         {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
         }
       ],
-      "duration_ms": 173040,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/2FTrQJHsRnrizj5hbc6q8T"
+      "duration_ms": 140190,
+      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -2015,6 +1999,46 @@
       "duration_ms": 484795,
       "name": "Allright (Just A Tribute)",
       "url": "https://open.spotify.com/track/335FKrShvaqwh2oVphhLHn"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "Try Again (David Penn Remix)",
+        "url": "https://open.spotify.com/album/4Kmbp37GhFOiqlG5TAcQgf"
+      },
+      "artists": [
+        {
+          "name": "James Mac",
+          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+        },
+        {
+          "name": "Vall",
+          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Try Again - David Penn Remix",
+      "url": "https://open.spotify.com/track/4sUNETrVRQx5pNNMIiLBzA"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/7e58nrriVytxTTmvPEwahO"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/2FTrQJHsRnrizj5hbc6q8T"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -2055,30 +2079,6 @@
       "duration_ms": 222822,
       "name": "Body Music",
       "url": "https://open.spotify.com/track/5uGYA6fEITkT1Qkwp2Dt8c"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
-        "name": "Try Again (David Penn Remix)",
-        "url": "https://open.spotify.com/album/4Kmbp37GhFOiqlG5TAcQgf"
-      },
-      "artists": [
-        {
-          "name": "James Mac",
-          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
-        },
-        {
-          "name": "Vall",
-          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Try Again - David Penn Remix",
-      "url": "https://open.spotify.com/track/4sUNETrVRQx5pNNMIiLBzA"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
-    },
-    {
-      "added_at": "2024-07-08 11:36:33",
-      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5JbjrwkXD1x8OWzaeONVXM"
       },
@@ -2179,18 +2163,18 @@
     {
       "added_at": "2024-07-08 11:36:33",
       "album": {
-        "name": "Weapons of Peace",
-        "url": "https://open.spotify.com/album/4KDdTK5jvpYextPXiDGF0x"
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
       },
       "artists": [
         {
-          "name": "Slow Motion",
-          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Now Is Gone",
-      "url": "https://open.spotify.com/track/7f0Wj4VRdNj8aPC3s9NcbH"
+      "duration_ms": 173296,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
     },
     {
       "added_at": "2024-07-08 11:36:33",
@@ -2235,6 +2219,22 @@
       "duration_ms": 186666,
       "name": "Move With Me - Todd Terry Remix",
       "url": "https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75"
+    },
+    {
+      "added_at": "2024-07-08 11:36:33",
+      "album": {
+        "name": "Weapons of Peace",
+        "url": "https://open.spotify.com/album/4KDdTK5jvpYextPXiDGF0x"
+      },
+      "artists": [
+        {
+          "name": "Slow Motion",
+          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Now Is Gone",
+      "url": "https://open.spotify.com/track/7f0Wj4VRdNj8aPC3s9NcbH"
     },
     {
       "added_at": "2024-07-08 11:36:33",

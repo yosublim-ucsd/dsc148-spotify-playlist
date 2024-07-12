@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHtRbeXUG4mI3alq4fIgaI2yF7n+aX",
+  "snapshot_id": "AAAHtvs9alz7c/mbvkrbK1xVLT2OmYse",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1109,10 +1109,10 @@
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
     },
     {
-      "added_at": "2024-05-24 00:41:06",
+      "added_at": "2024-07-12 00:40:05",
       "album": {
-        "name": "Oops",
-        "url": "https://open.spotify.com/album/4tlS687oUK0RCcm31RpY2h"
+        "name": "Heartache Land",
+        "url": "https://open.spotify.com/album/31MGcKyJbg39qzpVxoLqvl"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4"
         }
       ],
-      "duration_ms": 150520,
-      "name": "Oops",
-      "url": "https://open.spotify.com/track/5jLKiyce5UhfI0siP2uRoE"
+      "duration_ms": 175980,
+      "name": "Heartache Land",
+      "url": "https://open.spotify.com/track/5WnVIimnmVHsElmQI2vIzY"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1147,6 +1147,26 @@
       "duration_ms": 249836,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk"
+    },
+    {
+      "added_at": "2024-05-24 00:41:06",
+      "album": {
+        "name": "Oops",
+        "url": "https://open.spotify.com/album/4tlS687oUK0RCcm31RpY2h"
+      },
+      "artists": [
+        {
+          "name": "Devinity",
+          "url": "https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai"
+        },
+        {
+          "name": "Ra\u00efko",
+          "url": "https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4"
+        }
+      ],
+      "duration_ms": 150520,
+      "name": "Oops",
+      "url": "https://open.spotify.com/track/5jLKiyce5UhfI0siP2uRoE"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1261,6 +1281,26 @@
       "url": "https://open.spotify.com/track/2WjxSe0iEAF18pON4KeWcx"
     },
     {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "MILLENNIAL",
+          "url": "https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp"
+        }
+      ],
+      "duration_ms": 209076,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
+    },
+    {
       "added_at": "2024-06-07 00:41:05",
       "album": {
         "name": "Start Again",
@@ -1283,26 +1323,6 @@
       "duration_ms": 157142,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/1LPMktEFTcExqYm2x4D0Rf"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "MILLENNIAL",
-          "url": "https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp"
-        }
-      ],
-      "duration_ms": 209076,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1381,6 +1401,26 @@
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
       "added_at": "2024-05-24 00:41:06",
       "album": {
         "name": "Forever",
@@ -1403,26 +1443,6 @@
       "duration_ms": 214000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1wr89veeTymkZ5aj1iYd3u"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1461,6 +1481,26 @@
       "url": "https://open.spotify.com/track/37NZqOoR0dw71kbDCRnsKc"
     },
     {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Addict",
+        "url": "https://open.spotify.com/album/5dudS3F8bE4CgRo3PmaLJd"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 165004,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
+    },
+    {
       "added_at": "2024-03-29 11:27:06",
       "album": {
         "name": "Lucky Ones (Farzin Salehi Remix)",
@@ -1483,26 +1523,6 @@
       "duration_ms": 166000,
       "name": "Lucky Ones - Farzin Salehi Remix",
       "url": "https://open.spotify.com/track/7jw9iJIXkNYkDA0KW1LyT0"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Addict",
-        "url": "https://open.spotify.com/album/5dudS3F8bE4CgRo3PmaLJd"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 165004,
-      "name": "Addict",
-      "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1589,22 +1609,6 @@
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
-      "added_at": "2024-05-24 00:41:06",
-      "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/7IDqsWjCn6DGTr9k0Y3P1I"
-      },
-      "artists": [
-        {
-          "name": "YNKKX",
-          "url": "https://open.spotify.com/artist/7klhTKzoyunogGr1Gij4v3"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/4cLlOI9NR6J9VDpEPZeviH"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Know Your Worth",
@@ -1623,6 +1627,22 @@
       "duration_ms": 181436,
       "name": "Know Your Worth",
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
+    },
+    {
+      "added_at": "2024-05-24 00:41:06",
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/7IDqsWjCn6DGTr9k0Y3P1I"
+      },
+      "artists": [
+        {
+          "name": "YNKKX",
+          "url": "https://open.spotify.com/artist/7klhTKzoyunogGr1Gij4v3"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/4cLlOI9NR6J9VDpEPZeviH"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1701,26 +1721,6 @@
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
     },
     {
-      "added_at": "2024-03-08 11:28:03",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/6bI1fZTRhAksKESoFrwK2N"
-      },
-      "artists": [
-        {
-          "name": "Luxor",
-          "url": "https://open.spotify.com/artist/2sGP16uyA0hFA8Q3bGLhAU"
-        },
-        {
-          "name": "UnderWater Project",
-          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/21Hx7LnM8oN6cwTdZiw7bd"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Crooked (VAANCE & Herrin Remix)",
@@ -1745,20 +1745,24 @@
       "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
     },
     {
-      "added_at": "2024-05-08 00:38:06",
+      "added_at": "2024-03-08 11:28:03",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5XXS1AeuX563jVZQaudTXA"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/6bI1fZTRhAksKESoFrwK2N"
       },
       "artists": [
         {
-          "name": "Dj Aaron Kennedy",
-          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
+          "name": "Luxor",
+          "url": "https://open.spotify.com/artist/2sGP16uyA0hFA8Q3bGLhAU"
+        },
+        {
+          "name": "UnderWater Project",
+          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
+      "duration_ms": 178064,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/21Hx7LnM8oN6cwTdZiw7bd"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1781,24 +1785,20 @@
       "url": "https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9"
     },
     {
-      "added_at": "2024-03-29 11:27:06",
+      "added_at": "2024-05-08 00:38:06",
       "album": {
-        "name": "Drive (Johnson edit)",
-        "url": "https://open.spotify.com/album/1t2QdZyDDVf4IRR0h3ecV6"
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5XXS1AeuX563jVZQaudTXA"
       },
       "artists": [
         {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
-        },
-        {
-          "name": "Johnson",
-          "url": "https://open.spotify.com/artist/0zpI7dHUzfKewZXuidIYHv"
+          "name": "Dj Aaron Kennedy",
+          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
         }
       ],
-      "duration_ms": 196407,
-      "name": "Drive (Johnson edit)",
-      "url": "https://open.spotify.com/track/2tH6i2BLB6FL4M9mBw7lSs"
+      "duration_ms": 174720,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1821,24 +1821,24 @@
       "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
     },
     {
-      "added_at": "2023-10-13 12:01:03",
+      "added_at": "2024-03-29 11:27:06",
       "album": {
-        "name": "Here We Are",
-        "url": "https://open.spotify.com/album/1MFFaKmsJrEpe3yGyzjS69"
+        "name": "Drive (Johnson edit)",
+        "url": "https://open.spotify.com/album/1t2QdZyDDVf4IRR0h3ecV6"
       },
       "artists": [
         {
-          "name": "Bassanova",
-          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
         },
         {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+          "name": "Johnson",
+          "url": "https://open.spotify.com/artist/0zpI7dHUzfKewZXuidIYHv"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/62Yf325p76wEBIvz5lzVIl"
+      "duration_ms": 196407,
+      "name": "Drive (Johnson edit)",
+      "url": "https://open.spotify.com/track/2tH6i2BLB6FL4M9mBw7lSs"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1859,6 +1859,26 @@
       "duration_ms": 214687,
       "name": "Easier (feat. LOWES) - Radio Edit",
       "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
+    },
+    {
+      "added_at": "2023-10-13 12:01:03",
+      "album": {
+        "name": "Here We Are",
+        "url": "https://open.spotify.com/album/1MFFaKmsJrEpe3yGyzjS69"
+      },
+      "artists": [
+        {
+          "name": "Bassanova",
+          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/62Yf325p76wEBIvz5lzVIl"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1945,6 +1965,22 @@
       "url": "https://open.spotify.com/track/2SHKnOAz5CbUYhyxipfWr9"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Turn Up This Song",
+        "url": "https://open.spotify.com/album/2Q4uiWyQlOr9P2mFdCxbym"
+      },
+      "artists": [
+        {
+          "name": "Lorenz Koin",
+          "url": "https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A"
+        }
+      ],
+      "duration_ms": 176428,
+      "name": "Turn Up This Song",
+      "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
+    },
+    {
       "added_at": "2024-03-01 11:28:04",
       "album": {
         "name": "Crave Your Love",
@@ -1963,22 +1999,6 @@
       "duration_ms": 159374,
       "name": "Crave Your Love",
       "url": "https://open.spotify.com/track/0faJm8CQ7zFaXsxgvJ9wg7"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Turn Up This Song",
-        "url": "https://open.spotify.com/album/2Q4uiWyQlOr9P2mFdCxbym"
-      },
-      "artists": [
-        {
-          "name": "Lorenz Koin",
-          "url": "https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A"
-        }
-      ],
-      "duration_ms": 176428,
-      "name": "Turn Up This Song",
-      "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
     },
     {
       "added_at": "2023-12-13 11:28:03",
@@ -2039,26 +2059,6 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
-    },
-    {
-      "added_at": "2024-07-09 00:41:03",
-      "album": {
-        "name": "All My Friends (Eden Prince Remix)",
-        "url": "https://open.spotify.com/album/4lXBBbiEgwTzcfAkqdXJV1"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        },
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "All My Friends - Eden Prince Remix",
-      "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
     }
   ],
   "unique_name": "EDM Top 100",

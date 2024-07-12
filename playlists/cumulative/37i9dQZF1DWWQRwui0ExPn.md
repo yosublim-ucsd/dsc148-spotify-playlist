@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,854 songs - 10 day 19 hr 49 min
+6,856 songs - 10 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5425,7 +5425,7 @@
 | [Solstice](https://open.spotify.com/track/43y8XcUmPueWegBIFQ6qcS) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Nebula](https://open.spotify.com/album/6mFiJrO3AiTNeD3WSZ43cB) | 2:02 | 2019-06-23 | 2020-06-09 |
 | [Sombra](https://open.spotify.com/track/74XsMWXyHzAcnGxvWNOzq0) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Paraiso](https://open.spotify.com/album/4QG5orCEB5uFSWkD5caTJ6) | 2:08 | 2022-06-24 | 2022-10-07 |
 | [Sombra Bajo El Limero](https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Sombra Bajo El Limero](https://open.spotify.com/album/1l2pU8jmFRH9TsgF8H64UX) | 3:02 | 2022-09-02 | 2022-12-03 |
-| [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 | 2023-12-08 |  |
+| [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 | 2023-12-08 | 2024-07-12 |
 | [Some Love](https://open.spotify.com/track/7w8qIRMuhDxNrP3H5FwwsI) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Some Love](https://open.spotify.com/album/3tVVOw9QaTC9ugqi3rMD7y) | 2:26 | 2023-01-20 | 2023-05-19 |
 | [Some One](https://open.spotify.com/track/4iP5Qoj2qSXb9oCnlh9U5o) | [Dahonex](https://open.spotify.com/artist/5DqHSSVsM197BIQWe0ILCI) | [Some One](https://open.spotify.com/album/0NCV4HIcR50KoFCfIKn7kO) | 1:29 | 2023-07-27 | 2023-09-29 |
 | [Some Patience](https://open.spotify.com/track/4MKs7L2GSOvHtipIH4kbok) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Some Patience](https://open.spotify.com/album/7aYXqSkRJzlZWcfO7F7zNo) | 2:37 | 2021-12-03 | 2022-06-24 |
@@ -5685,6 +5685,7 @@
 | [Summer Sunset](https://open.spotify.com/track/09yEygKxlwjllW2rD6iqyQ) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Summer Sunset](https://open.spotify.com/album/7DydKcM0nQ9QoleUGEHweV) | 1:33 | 2022-06-24 | 2022-10-07 |
 | [Summer Sunsets](https://open.spotify.com/track/28JS5yh2EvhRqJSlIHPhkB) | [Aesthetic Sounds](https://open.spotify.com/artist/0grE7QiQX0ceIa5n3DIsHS) | [Summer Sunsets](https://open.spotify.com/album/7MRqMSLfrVRtAtSHmIcvnM) | 1:52 | 2022-02-14 | 2022-07-22 |
 | [Summer Swagger](https://open.spotify.com/track/0MYlqzYMaFURjJuWMfemgq) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Lofi Beats For The Beach](https://open.spotify.com/album/38Wq88sYy6wJZjgsdTUuXA) | 2:18 | 2023-08-03 | 2023-08-26 |
+| [Summer Terrace](https://open.spotify.com/track/6DGkaLOpNEnpyFIPeGk6m3) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Summer Terrace](https://open.spotify.com/album/5tg54rnrBCfhAxdq9gHvjC) | 2:14 | 2024-07-05 |  |
 | [Summertime Darkness](https://open.spotify.com/track/2OXzDXOfTdrKuj8N4cvawA) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Summertime Darkness](https://open.spotify.com/album/7fVpnEm9dgvboxZxDdG5ax) | 2:13 | 2022-06-17 | 2022-10-28 |
 | [Summertime Madness](https://open.spotify.com/track/7M0qeMNYfKwsKtinDD1sqM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Summertime Madness](https://open.spotify.com/album/1B41xzrHvce2WUzFN72RvJ) | 3:20 | 2022-08-12 | 2022-12-24 |
 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-13 | 2023-01-14 |
@@ -6583,6 +6584,7 @@
 | [What I Ever Wished For](https://open.spotify.com/track/4YAHjyurI5EIwNO1tFyjE4) | [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1), [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [What I Ever Wished For](https://open.spotify.com/album/33fy0T55E63F7XnFmiddmI) | 1:45 | 2022-12-23 | 2023-12-15 |
 | [What I think](https://open.spotify.com/track/4WW2T0w4GUOwTeINGASyjB) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [On My Mind](https://open.spotify.com/album/0QE3T2GjXkxxgjJ6PKhj8O) | 2:22 | 2021-07-29 | 2022-03-12 |
 | [What If We Met](https://open.spotify.com/track/5aPtpl2s3lQdQWEnIPzNNJ) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [What If We Met](https://open.spotify.com/album/3fY7YY6B2LIUJ9fA7VZkzs) | 2:01 | 2020-07-07 | 2021-10-02 |
+| [What If?](https://open.spotify.com/track/41eXLEZ0AVtVm9hAzh1rpb) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [What If?](https://open.spotify.com/album/74bZANaITlH5CXfYL4bs2S) | 2:24 | 2024-07-05 |  |
 | [What Moves Me](https://open.spotify.com/track/4a7bT36eojKD5MhenGhtwj) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [What Moves Me](https://open.spotify.com/album/1DSDOVtqBIygjRRF5JffDW) | 2:40 | 2022-08-05 | 2022-11-18 |
 | [What R U Takin'](https://open.spotify.com/track/7cziDoATAIL6MJiosqWkkG) | [Franky Newton](https://open.spotify.com/artist/4zrzZyQKgahX46AI1tP594) | [What R U Takin'](https://open.spotify.com/album/7MgGdtl8r5vwW2gBrBIWNg) | 2:49 | 2023-03-16 | 2023-08-26 |
 | [What U Want](https://open.spotify.com/track/6KAtBgU0j09aBKwkYg87Vs) | [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg), [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [What U Want](https://open.spotify.com/album/6c3pNDSEK8S9Z9BsL7takW) | 2:41 | 2023-01-13 | 2023-06-08 |
@@ -6662,7 +6664,7 @@
 | [Wichita](https://open.spotify.com/track/2zbTK6I0usacoWgxFBnsrG) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Monomo](https://open.spotify.com/artist/2dmpVwPMr9wEkPAgntGyqY) | [Wichita](https://open.spotify.com/album/06xt02MpiLzMxSS5nrEJhW) | 2:16 | 2022-03-11 | 2022-08-05 |
 | [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 | 2024-01-26 |  |
 | [Wide Skies](https://open.spotify.com/track/6W7tZLkHcNGs4EFMw0zeLl) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Wide Skies](https://open.spotify.com/album/4yASLf0tfVRa6Aq8aCTsw1) | 2:31 | 2022-12-16 | 2023-11-24 |
-| [Widescreen](https://open.spotify.com/track/6TlSIO4gI1fo14p7KKuOsC) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Widescreen](https://open.spotify.com/album/33rVAlzDqarkiME8PvS70M) | 2:12 | 2024-01-19 |  |
+| [Widescreen](https://open.spotify.com/track/6TlSIO4gI1fo14p7KKuOsC) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Widescreen](https://open.spotify.com/album/33rVAlzDqarkiME8PvS70M) | 2:12 | 2024-01-19 | 2024-07-12 |
 | [Wie ein Stein](https://open.spotify.com/track/7nhnrb8OjaJACxPRv8eLYc) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Wie ein Stein](https://open.spotify.com/album/47Afo2R5CRzwXw0Bgg6ReL) | 2:14 | 2021-07-29 | 2022-03-12 |
 | [wild blue yonder](https://open.spotify.com/track/50rMrfQJS1ENUWTo5lJLS3) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu) | [wild blue yonder](https://open.spotify.com/album/4UZcjVH3KKVgfGCnMPXMou) | 2:12 | 2023-01-20 | 2024-01-05 |
 | [Wild Dreams](https://open.spotify.com/track/4lke2maACdsWr6iYXJAfQd) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Wild Dreams](https://open.spotify.com/album/0uI90jEDIjXgC806kqLuys) | 1:58 | 2023-05-03 | 2023-10-20 |

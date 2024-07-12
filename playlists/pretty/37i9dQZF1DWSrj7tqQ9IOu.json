@@ -1,15 +1,15 @@
 {
   "description": "The best French indie tracks right now. Cover : Emma Hoet",
-  "num_followers": 404281,
+  "num_followers": 404291,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocbYAAAAAAYddyFzSz6A76gsDJ560AV",
+  "snapshot_id": "ZpBV4AAAAADY60EzWgNCGV3OVzMBRGBN",
   "tracks": [
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "MOLITOR 24",
         "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 242979,
+      "name": "Lost and found",
+      "url": "https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Sunset Park (Extended version)",
         "url": "https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Lost and found",
-        "url": "https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 242979,
-      "name": "Lost and found",
-      "url": "https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Juste toi et moi",
         "url": "https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Amber Eyes",
         "url": "https://open.spotify.com/album/67JTOVjd0Ya8S2EgzpoLl4"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6DrkAx1pj4KdRTfDsmWcEP"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Many Lives",
         "url": "https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX"
@@ -121,23 +121,7 @@
       "url": "https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Ciao Paris!",
-        "url": "https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 205791,
-      "name": "Ciao Paris!",
-      "url": "https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Les pieds dans l'eau",
         "url": "https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72"
@@ -157,7 +141,23 @@
       "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Ciao Paris!",
+        "url": "https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 205791,
+      "name": "Ciao Paris!",
+      "url": "https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "un million de petits chocs",
         "url": "https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "SANTS",
         "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
@@ -249,7 +249,27 @@
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "L'hiver au soleil",
+        "url": "https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv"
+      },
+      "artists": [
+        {
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        },
+        {
+          "name": "Cliff Schneider",
+          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "L'hiver au soleil",
+      "url": "https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Palmiers rivi\u00e8res",
         "url": "https://open.spotify.com/album/77MDV4dCwp4U5ctsl6K5gL"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "\u00c9motions satur\u00e9es (feat. TheFrenchKris)",
         "url": "https://open.spotify.com/album/1g1N1xWro8IfsjIWzBmcbK"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Massilia (feat. Adrien Gallo)",
         "url": "https://open.spotify.com/album/7vXq8ytmwhwgPjnFuw7GBM"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/3uyff2dTTwyOKsHnAK300y"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Mustang",
         "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Love from the Other Side",
         "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Oddy",
         "url": "https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Cold Touch",
         "url": "https://open.spotify.com/album/5A9UiXaNf69PtKCcTm0bY0"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/5SL769u0mPWC6b7XyXghFz"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Can't Get You Out Of My Mind",
         "url": "https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "BPM",
         "url": "https://open.spotify.com/album/6o7G1i2yGIA8VJsaKoBHCh"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "R\u00eave parti",
         "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Matcha Queen",
         "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Lost and found",
         "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Won't Come Back",
         "url": "https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "M\u00e9diterran\u00e9e",
         "url": "https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Romantisme",
         "url": "https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "The Wedding Song",
         "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Even Now",
         "url": "https://open.spotify.com/album/1XrUW4FChuC6EjR99b8xPh"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "FVTVRVM",
         "url": "https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Oups (with Anna Majidson)",
         "url": "https://open.spotify.com/album/548fOsnovdf4bJEegsglBs"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/01dU9DRJrWmYUunj8Jt40P"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "SEASONS",
         "url": "https://open.spotify.com/album/0ySU41tw4sVCQVWnmb9XmL"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/2TeFJiZe6eFIM2aAjp8leW"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Countdown",
         "url": "https://open.spotify.com/album/5cNJnRrIRQ8agjsqtpD8HK"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Superpouvoirs",
         "url": "https://open.spotify.com/album/1s03eumLRPRG0deQfniyds"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/4H9bfPHh0Kn298kVKb1Vlo"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "DUI",
         "url": "https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Xany",
         "url": "https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "BETTER PLACE",
         "url": "https://open.spotify.com/album/08ieQlcdmu8tcAjIJLq7eK"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/59vMIi4rwjO9LRIDU5TrtG"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "V\u00e9g\u00e9tal",
         "url": "https://open.spotify.com/album/6iJIfQv03arV8wBZYFDKtQ"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/2xTXlI2LSQSVmXD7NjKG7i"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Flegme",
         "url": "https://open.spotify.com/album/0YH5sQoVXmhOsEc1FYP0WJ"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "what have u done",
         "url": "https://open.spotify.com/album/0kHHrX6HtCzG7occ1xeRmr"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/2CVjS07I3t34ULLDSPRLLW"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Baby, Come Over Tonight",
         "url": "https://open.spotify.com/album/3UEEg6yw0frHPjYnIeX52M"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/6NBOxEUNUwZkKZFft4xopF"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/5MYeJHotwiB6cvr20NG78u"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/1QlQ6aOrUCQ46dcFTXlAo8"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Side Quest",
         "url": "https://open.spotify.com/album/3ws96T2S43qUuNt1vyYjHq"
@@ -793,23 +813,7 @@
       "url": "https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Blinds",
-        "url": "https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8"
-      },
-      "artists": [
-        {
-          "name": "Nina Versyp",
-          "url": "https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy"
-        }
-      ],
-      "duration_ms": 165145,
-      "name": "Blinds",
-      "url": "https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "rentrer chez moi",
         "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
@@ -825,7 +829,7 @@
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Gratte-ciel",
         "url": "https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia"
@@ -841,7 +845,7 @@
       "url": "https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Every Little Thing",
         "url": "https://open.spotify.com/album/3zePOpjgo3CVKu0X49DADi"
@@ -857,7 +861,7 @@
       "url": "https://open.spotify.com/track/3CU1weXfgyyYe6sN1V50Ee"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Quitter la ville",
         "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"

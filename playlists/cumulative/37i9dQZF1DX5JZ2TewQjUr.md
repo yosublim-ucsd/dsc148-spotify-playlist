@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Joya, Juniper Care
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: The Low Mays
 
-1,085 songs - 2 day 13 hr 25 min
+1,091 songs - 2 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [afternoon bike rides](https://open.spotify.com/track/3mS16K8RGzxyXZ4YhUpOeu) | [Kei Valentine](https://open.spotify.com/artist/62N80uNLvKhiVGKX9V7G87) | [afternoon bike rides](https://open.spotify.com/album/1JavLUZH1IoCUc16ugpAuf) | 2:56 | 2023-07-20 | 2023-09-15 |
 | [ALIVE](https://open.spotify.com/track/72EhouMPHQDFLogEyocYjO) | [KASA](https://open.spotify.com/artist/2npcg8bjHorVxVkRyy7iFO), [Arms Attraction](https://open.spotify.com/artist/7lWuDBtj52fegBOCCDfvbk) | [ALIVE](https://open.spotify.com/album/51ktLYJ5fHbJdK68fPSrKC) | 4:19 | 2023-08-10 | 2023-09-01 |
 | [All My Love](https://open.spotify.com/track/1ExNXn8ERb68JSTT5nnn3x) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [All My Love](https://open.spotify.com/album/6fTQEzoj3lTf2vMuJnKTLf) | 4:02 | 2023-11-02 | 2024-01-05 |
+| [ALL NIGHT LONG](https://open.spotify.com/track/0PYshrNafj2XfIGTrJGw2U) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [ALL NIGHT LONG](https://open.spotify.com/album/5Nbfl8uOl0wvgYuuu7jWRV) | 2:20 | 2024-07-11 |  |
 | [Alright](https://open.spotify.com/track/5bWrBCQfvSwL6bwsBYH4fm) | [Bruit](https://open.spotify.com/artist/4om4AJx0y9wMusLtRNsRPE) | [Alright](https://open.spotify.com/album/0AF9jPK5ATg27lFbQDMdvp) | 3:47 | 2023-02-16 | 2023-03-18 |
 | [alright](https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND) | [alright](https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4) | 2:12 | 2023-11-23 | 2024-02-02 |
 | [Amidst the concrete](https://open.spotify.com/track/1kKO5dyVwCrvHUkrgTr8HG) | [Kiden](https://open.spotify.com/artist/3K6RzPx0eI1QD11un1Cm3U), [Loisey](https://open.spotify.com/artist/4mkRfl4lbz4A0O9jNlPnqN) | [Amidst the concrete](https://open.spotify.com/album/7sdeTiNHw3Zx3CeRF18fM9) | 2:57 | 2022-07-28 | 2022-09-09 |
@@ -59,6 +60,7 @@
 | [Baby If I Were An Android](https://open.spotify.com/track/6T4M2QS50qXTwxCKucI9F5) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Baby If I Were An Android](https://open.spotify.com/album/6cDptgXegkhuujPJ003bsf) | 4:24 | 2023-07-27 | 2023-11-03 |
 | [Baby Toof \(Demo\)](https://open.spotify.com/track/3glZWaY1rWHXUmC43ZaCmZ) | [Velvet Elvis](https://open.spotify.com/artist/2M9MLexyTDC0WWMZFelLuE) | [Baby Toof \(Demo\)](https://open.spotify.com/album/4njotXVY7z8G894rzXP0TJ) | 3:52 | 2024-02-08 | 2024-05-10 |
 | [BACK](https://open.spotify.com/track/5xSO1TWCn3uqiLXPw1O7iS) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [BACK](https://open.spotify.com/album/59MAZgl1mUdrk5gOzXNA5O) | 4:09 | 2024-04-25 |  |
+| [back0ntrackk](https://open.spotify.com/track/29lzCfqtOeP82f5nEavgHw) | [SeeYouTmr](https://open.spotify.com/artist/2p1CsJyPqchYSy2wJO0JQX), [Staggy](https://open.spotify.com/artist/6Ab5uovR5hBj7leyBdxadR) | [back0ntrackk](https://open.spotify.com/album/2WwRA8BEdurijrF70Fy6zn) | 1:38 | 2024-07-11 |  |
 | [Bad Coffee & Liquor Club](https://open.spotify.com/track/4JA1QRKFcsDZiV1p8vySQf) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [Bad Coffee & Liquor Club](https://open.spotify.com/album/1dHJm91fNNgxinlcwSH0gi) | 2:48 | 2024-02-15 | 2024-05-10 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-03-18 |
 | [Balenciaga Store Girl](https://open.spotify.com/track/2IU51LT4SmBPJIi7oBVZKz) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Balenciaga Store Girl](https://open.spotify.com/album/0bqoYF1b2TFurEuhzG5oCh) | 2:56 | 2023-11-02 | 2024-01-05 |
@@ -366,6 +368,7 @@
 | [like this.](https://open.spotify.com/track/1u06UpwEtMpKZM0t2sNBlB) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [like this.](https://open.spotify.com/album/3Ekhh7ssCTsnvLbAibEhXa) | 2:19 | 2023-06-22 | 2023-11-03 |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-07-16 | 2022-11-04 |
 | [linger on](https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [linger on](https://open.spotify.com/album/30vksPo2RNA1yAco5kitiA) | 3:24 | 2023-10-12 | 2024-01-05 |
+| [Live as usual](https://open.spotify.com/track/19cctzlmvchDryLzcFfXVn) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Live as usual](https://open.spotify.com/album/6zPvOXHOZFmF2XJ1Yev2kF) | 4:36 | 2024-07-11 |  |
 | [live better](https://open.spotify.com/track/1SKBZtrsuUbMu2uSukIbZB) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [live better](https://open.spotify.com/album/5HrGcG7mIAWeyy0IVr3CF3) | 3:53 | 2023-03-24 | 2023-07-14 |
 | [London \(Live Version\)](https://open.spotify.com/track/3qAh3vHbkjv6aU4uGup7Nk) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [London \(Live Version\)](https://open.spotify.com/album/5Hck9WPH2ceGio4m6yAWBx) | 5:28 | 2023-02-16 | 2023-07-14 |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2022-09-01 | 2023-02-03 |
@@ -386,6 +389,7 @@
 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 | 2023-08-10 | 2023-12-01 |
 | [Lurch](https://open.spotify.com/track/23UHhRbTmYijznf3RTbO9O) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Lurch](https://open.spotify.com/album/3hmBRBfr7oQeDH1WjVs0uG) | 4:39 | 2023-03-16 | 2023-07-14 |
 | [luxurious](https://open.spotify.com/track/1C2LgGRHLGcDxeygfisTfy) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [luxurious](https://open.spotify.com/album/725F2IeYGTXx4lSta203WB) | 4:10 | 2024-01-05 | 2024-05-10 |
+| [M+\(Seizure\)](https://open.spotify.com/track/2j2d7OY1uTQiE48kKUkVFg) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [M+\(Seizure\)](https://open.spotify.com/album/3yHqU7YNlOUMT4xJtPaEJJ) | 2:48 | 2024-07-11 |  |
 | [M.O.B \(My Own Boss\)](https://open.spotify.com/track/7iNtZTnk5iXHYjQTZKZ4M3) | [Big Sammy](https://open.spotify.com/artist/1JsfjzT0JNGa8neELgJBhX) | [M.O.B \(My Own Biz\)](https://open.spotify.com/album/2olCQySy1I4q9w0C47fGq1) | 3:17 | 2023-10-27 | 2024-01-05 |
 | [MADE TO BE](https://open.spotify.com/track/1VL8G5WxMALRbYPKZouss3) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [MADE TO BE](https://open.spotify.com/album/1y3YJ3TYwgo6kE09ar15k8) | 3:08 | 2023-11-09 | 2024-01-05 |
 | [Magnetism of Hades Remix](https://open.spotify.com/track/2Bp5WUDxtrbF5hUwJrCfoF) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [DylanHing](https://open.spotify.com/artist/0fJGSPa3GA3WshZq490glo) | [Magnetism of Hades Remix](https://open.spotify.com/album/41uGtFXeAgO78jm5QwzBsF) | 3:30 | 2022-05-26 | 2022-09-09 |
@@ -497,6 +501,7 @@
 | [Pocket Ace](https://open.spotify.com/track/7EVzF5KAzsdPn1OkclaS2q) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx), [Lay\-zG](https://open.spotify.com/artist/4NH6YkxBQW8mfgNLPwnzgE) | [Pocket Ace](https://open.spotify.com/album/5uAup8XzfMmZv3zji3gKeg) | 2:34 | 2023-11-16 | 2024-01-05 |
 | [poison ivy!](https://open.spotify.com/track/0YqCIpNWeKlQQ1XUvllmWr) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [poison ivy!](https://open.spotify.com/album/4UrbrGPvXxIfHXOA0P4Gjb) | 2:44 | 2024-01-11 | 2024-05-10 |
 | [POP THAT SHIT](https://open.spotify.com/track/1UFVCU3yUSbTFpDGITkBs6) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1), [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK) | [POP THAT SHIT](https://open.spotify.com/album/0nTzfNhyvIKE7AybqRgfGt) | 2:23 | 2023-09-14 | 2023-12-01 |
+| [Popstar in the 6](https://open.spotify.com/track/0IgIzG3NHLdrlE1QKRQtkW) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Popstar in the 6](https://open.spotify.com/album/5Yg3yKEv3DFJWsGgxvNkzc) | 3:18 | 2024-07-11 |  |
 | [Powerful \(Slowed Down in the Next Room\)](https://open.spotify.com/track/1MPojg75zTJXbADIqM08KX) | [Lucid](https://open.spotify.com/artist/5CSUqW56M3YgpoawrT6Pjr), [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Powerful \(Slowed Down in the Next Room\)](https://open.spotify.com/album/6jMuzs27TFDDehKOhvTVtc) | 1:34 | 2024-05-09 |  |
 | [Pretend](https://open.spotify.com/track/5FrRc247Vd0xAZpIw0wNyH) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Pretend](https://open.spotify.com/album/06QUCNgUMQuniwmCmlQtya) | 3:08 | 2024-03-28 |  |
 | [Pretending To Be Somebody Else](https://open.spotify.com/track/1xmCOkRdfGkGuOa0TLRD7d) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [Pretending To Be Somebody Else](https://open.spotify.com/album/68UShtWizNHmHZE4r7MkgO) | 3:57 | 2023-05-25 | 2023-09-01 |
@@ -937,6 +942,7 @@
 | [有啲嘢唔講得](https://open.spotify.com/track/3B7HiByTGUFZucAnzgUxIw) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA) | [有啲嘢唔講得](https://open.spotify.com/album/6bjo2tylboKAk7YFUfnva1) | 3:03 | 2022-05-26 | 2022-07-29 |
 | [有邊個想做廢青](https://open.spotify.com/track/34dGK3a62hFVge22O19gUW) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl), [Kmicgor@Ragpickers](https://open.spotify.com/artist/2NgXoMxmFivqsMVGVny2KK) | [有邊個想做廢青](https://open.spotify.com/album/5oRZfgSR9mnt0ojjiI86Q9) | 4:42 | 2023-01-19 | 2023-05-26 |
 | [有邊個清楚我。](https://open.spotify.com/track/3maqosSuSnOu478FqXFOfQ) | [NTopic](https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ) | [有邊個清楚我。](https://open.spotify.com/album/2B6pEEuilt4nSwALRHBqkI) | 2:59 | 2023-12-14 | 2024-02-16 |
+| [望咩望 \(俾車撞\) Look Both Ways](https://open.spotify.com/track/0gaQMMJGAMulQdtiKFMehq) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [人生贏家3: 酒火入魔 Life Winners 3: Highway to Hell](https://open.spotify.com/album/27I1EgdNUg5eMD6pXASUec) | 2:54 | 2024-07-11 |  |
 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 | 2024-03-14 |  |
 | [末世情書](https://open.spotify.com/track/5aEzkY4D0HdU0CyUoJWnmm) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [末世情書](https://open.spotify.com/album/0TMwkt9ibpPMNW3EWWhV6j) | 4:40 | 2022-10-13 | 2023-03-18 |
 | [末世智慧 Apocalypse](https://open.spotify.com/track/6KmbJH5XuXhL3w6OAmyR2A) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [末世智慧 Apocalypse](https://open.spotify.com/album/1AhIKPjhIYzQwbafMB8OqD) | 4:44 | 2023-10-05 | 2023-12-01 |

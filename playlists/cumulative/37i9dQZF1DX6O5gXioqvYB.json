@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: marzo",
+  "description": "La nuova scena indie italiana! Cover: ceneri",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 185624,
       "name": "21:15",
       "url": "https://open.spotify.com/track/7fpxvlQ0jIKwxj2YjBLrHt"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161703,
       "name": "Andando Molto Piano",
       "url": "https://open.spotify.com/track/5cxkweImoqytdiJ2GF3SB4"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 125684,
       "name": "Appeso",
       "url": "https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 139800,
       "name": "Basilico",
       "url": "https://open.spotify.com/track/6XkkzEM5GJZRrJUOnKJ0h3"
@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Estate Lachea",
+        "url": "https://open.spotify.com/album/3gUebY15KykhIStuskHmpM"
+      },
+      "artists": [
+        {
+          "name": "Brando Madonia",
+          "url": "https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195086,
+      "name": "Costellazione",
+      "url": "https://open.spotify.com/track/5Jox5uSfaGkJ2Wm7zXEzTY"
+    },
+    {
+      "album": {
         "name": "DIMEDITE",
         "url": "https://open.spotify.com/album/5cI9Q2szBMyGNlQXctG08e"
       },
@@ -481,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Cinque canzoni",
+        "url": "https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug"
+      },
+      "artists": [
+        {
+          "name": "Oratio",
+          "url": "https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223557,
+      "name": "Federico",
+      "url": "https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2"
+    },
+    {
+      "album": {
         "name": "FERMARE L'ET\u00c0 (feat. Enrico Nigiotti)",
         "url": "https://open.spotify.com/album/0nG3UwE8qNTeJxpXBRRu3K"
       },
@@ -550,7 +590,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 176666,
       "name": "Follia",
       "url": "https://open.spotify.com/track/26zx0Jw1N3CdspZRhGwW8z"
@@ -604,7 +644,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 174615,
       "name": "Giornata vuota",
       "url": "https://open.spotify.com/track/21mU3hgMOlsBY51Ns7tO19"
@@ -644,7 +684,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 183307,
       "name": "L'ET\u00c0 D'ORO",
       "url": "https://open.spotify.com/track/1BIYMcbLkm9Wo9NKudb3jn"
@@ -705,6 +745,28 @@
     },
     {
       "album": {
+        "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+        "url": "https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        },
+        {
+          "name": "MAGENTA FLORA",
+          "url": "https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145320,
+      "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+      "url": "https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ"
+    },
+    {
+      "album": {
         "name": "Non c'\u00e8 pi\u00f9 tempo",
         "url": "https://open.spotify.com/album/057GVwIW5vzooi7SHHYgeT"
       },
@@ -716,7 +778,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 193453,
       "name": "Luna elettrica",
       "url": "https://open.spotify.com/track/6A7Pwen2tv5m9ddiFi0D3a"
@@ -832,7 +894,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 160400,
       "name": "MEGAGALATTICO",
       "url": "https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG"
@@ -890,10 +952,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 159533,
       "name": "Nel cielo pi\u00f9 nero",
       "url": "https://open.spotify.com/track/1Ty9Tt0jBLvD7xenWomg2d"
+    },
+    {
+      "album": {
+        "name": "Niente di buono",
+        "url": "https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO"
+      },
+      "artists": [
+        {
+          "name": "Peripezie",
+          "url": "https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144259,
+      "name": "Niente di buono",
+      "url": "https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK"
     },
     {
       "album": {
@@ -1059,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "ROCCASECCA",
+        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157624,
+      "name": "Penso Penso Penso",
+      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
+    },
+    {
+      "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy"
       },
@@ -1128,7 +1226,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 159737,
       "name": "Profumo di dolore (feat. EDONiCO)",
       "url": "https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV"
@@ -1164,7 +1262,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 149217,
       "name": "Rumore",
       "url": "https://open.spotify.com/track/620MwmY8pV08hAixU1bKn6"
@@ -1190,6 +1288,28 @@
       "duration_ms": 129750,
       "name": "SALSEDINE",
       "url": "https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv"
+    },
+    {
+      "album": {
+        "name": "Sambo (feat. Serepocaiontas)",
+        "url": "https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde"
+      },
+      "artists": [
+        {
+          "name": "MOX",
+          "url": "https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It"
+        },
+        {
+          "name": "Serepocaiontas",
+          "url": "https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Sambo (feat. Serepocaiontas)",
+      "url": "https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260"
     },
     {
       "album": {
@@ -1266,10 +1386,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 216359,
       "name": "SOTTOCASSA",
       "url": "https://open.spotify.com/track/6fdNKvSzGtQMysIQMkfCOc"
+    },
+    {
+      "album": {
+        "name": "Mi hai visto piangere in un club",
+        "url": "https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN"
+      },
+      "artists": [
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        },
+        {
+          "name": "ATARDE",
+          "url": "https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183555,
+      "name": "Sto impazzendo (piangi) (feat. Atarde)",
+      "url": "https://open.spotify.com/track/6mPmLz3mxRoLWGfLDHSTnC"
     },
     {
       "album": {
@@ -1309,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "SURF",
+        "url": "https://open.spotify.com/album/22ezapOjCnojqDdOw4rzOZ"
+      },
+      "artists": [
+        {
+          "name": "WISM",
+          "url": "https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170937,
+      "name": "SURF",
+      "url": "https://open.spotify.com/track/4SWcY5POd5yyGBcP9uPzYp"
+    },
+    {
+      "album": {
         "name": "Terra Promessa",
         "url": "https://open.spotify.com/album/2GTlsoI6zoUHXLsMlWYIcf"
       },
@@ -1324,6 +1484,24 @@
       "duration_ms": 175403,
       "name": "Terra Promessa",
       "url": "https://open.spotify.com/track/7zXVRY8P0o2NmYxNQ7CxgK"
+    },
+    {
+      "album": {
+        "name": "tilt",
+        "url": "https://open.spotify.com/album/61rbZKR0tNU5ImzbKQf9gz"
+      },
+      "artists": [
+        {
+          "name": "Parrelle",
+          "url": "https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169578,
+      "name": "tilt",
+      "url": "https://open.spotify.com/track/2JYtO885AdTPes9p3neSbF"
     },
     {
       "album": {
@@ -1374,7 +1552,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 171178,
       "name": "T\u00e8 al limone",
       "url": "https://open.spotify.com/track/01MUVpv95WyB9h4eP5kY78"
@@ -1446,7 +1624,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 162539,
       "name": "Una come te",
       "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"
@@ -1468,6 +1646,24 @@
       "duration_ms": 181848,
       "name": "vita lenta",
       "url": "https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC"
+    },
+    {
+      "album": {
+        "name": "Vocine",
+        "url": "https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B"
+      },
+      "artists": [
+        {
+          "name": "tellynonpiangere",
+          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Vocine",
+      "url": "https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq"
     },
     {
       "album": {

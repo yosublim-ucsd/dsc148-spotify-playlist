@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 181020,
       "name": "Another Day Another Dollar (Tholi Mali)",
       "url": "https://open.spotify.com/track/3gfSLbTXJENmq8uRlr64Fu"
@@ -3645,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Destiny's Child",
+        "url": "https://open.spotify.com/album/4V9ZBpD5gkk5dBaMNSb67M"
+      },
+      "artists": [
+        {
+          "name": "Yung Tyran",
+          "url": "https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133673,
+      "name": "Destiny's Child",
+      "url": "https://open.spotify.com/track/0oKtquFwfWFOBCZVKeDq9h"
+    },
+    {
+      "album": {
         "name": "Di Shet'e",
         "url": "https://open.spotify.com/album/4uXN8bVwKcvRodNJ4xTDsE"
       },
@@ -4708,7 +4726,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186263,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
@@ -5098,7 +5116,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 253090,
       "name": "FTL CYPHER",
       "url": "https://open.spotify.com/track/4YMcQJEYTY7tNjH3DcKEs1"
@@ -6672,7 +6690,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 166478,
       "name": "iFilimu",
       "url": "https://open.spotify.com/track/2XJJe5RxR3Fq1gNjTXfPzI"
@@ -13792,7 +13810,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 233173,
       "name": "Strike A Pose",
       "url": "https://open.spotify.com/track/6YEdzv23PAqZodhBFfPBR6"
@@ -15708,6 +15726,28 @@
       "duration_ms": 226914,
       "name": "Up To",
       "url": "https://open.spotify.com/track/4iY5WNI5CnUO47RJdiRGKO"
+    },
+    {
+      "album": {
+        "name": "Home (Yard Edition)",
+        "url": "https://open.spotify.com/album/135PbNHsRKY5U4GS0gBvmM"
+      },
+      "artists": [
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        },
+        {
+          "name": "Imani Basquiat",
+          "url": "https://open.spotify.com/artist/0BFt0fxpu1k96TEIeEd1xu"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Up To You",
+      "url": "https://open.spotify.com/track/2JLm7OPi9VHU0E8ouGGohg"
     },
     {
       "album": {

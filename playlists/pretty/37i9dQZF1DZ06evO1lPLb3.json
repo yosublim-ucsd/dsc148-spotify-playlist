@@ -1,12 +1,12 @@
 {
-  "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 47990,
+  "description": "This is Peggy Gou. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 48024,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAABzJQKClfd+c5srGJpRgYdv",
+  "snapshot_id": "Zo3PAAAAAAD8AWIWnLM0ZLrAqhYRpzj5",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Makes You Forget (Itgehane)",
+        "url": "https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "It Makes You Forget (Itgehane) - Edit",
+      "url": "https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex"
     },
     {
       "added_at": null,

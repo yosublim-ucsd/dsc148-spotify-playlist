@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-478 songs - 1 day 1 hr 20 min
+479 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bad](https://open.spotify.com/track/2WrxGpnCvpwiQkcHDDmVXc) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/63pt4WgsnKd5kJ3O5DBPD6) | 2:30 | 2021-12-16 | 2022-07-29 |
 | [Bad](https://open.spotify.com/track/4p1yzpajuKXwZKBQ7PyH9x) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/3uCJttNNrmUgW1jVKRHDWv) | 2:30 | 2022-07-28 | 2023-04-07 |
 | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/track/7FOqaLMa7WYCwFHfZPmgqh) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/album/2BAPA4h1cirlhNLDuQYqPY) | 3:29 | 2021-12-16 | 2022-01-11 |
-| [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-16 |  |
+| [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-16 | 2024-07-12 |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-03-25 | 2022-07-08 |
 | [Badman Love \- Remix](https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Badman Love](https://open.spotify.com/album/7CSNUozGeW1fzxvDjY1RvA) | 2:48 | 2021-12-16 | 2023-04-06 |
 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 | 2022-07-18 |  |
@@ -180,6 +180,7 @@
 | [Good Good](https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Good Good](https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX) | 3:56 | 2021-12-16 | 2023-04-07 |
 | [Good Place](https://open.spotify.com/track/0xdSZzzOf3e15T4QgfBEI2) | [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P), [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Good Place](https://open.spotify.com/album/7xLtXYJK4oYUoSsa4a7BSe) | 1:59 | 2021-12-16 | 2022-07-29 |
 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:15 | 2021-12-16 | 2022-01-26 |
+| [Habri Porta](https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Habri Porta](https://open.spotify.com/album/61gJqPymaMSdlFuE1U42qg) | 2:26 | 2024-07-11 |  |
 | [Handle It](https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Handle It](https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK) | 3:23 | 2021-12-16 |  |
 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 | 2024-02-23 |  |
 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 | 2022-03-25 | 2022-10-03 |

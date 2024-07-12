@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 185760,
       "name": "Empire",
       "url": "https://open.spotify.com/track/3hHlgSx6ezhonHwGyFcH3S"
@@ -1762,6 +1762,24 @@
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
+    },
+    {
+      "album": {
+        "name": "Television Promises",
+        "url": "https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT"
+      },
+      "artists": [
+        {
+          "name": "BLOXX",
+          "url": "https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219111,
+      "name": "Television Promises",
+      "url": "https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5"
     },
     {
       "album": {

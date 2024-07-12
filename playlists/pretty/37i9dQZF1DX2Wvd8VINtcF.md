@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,966 likes - 128 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,958 likes - 128 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 43 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 |
 | 44 | [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 |
 | 45 | [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 |
-| 46 | [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 |
+| 46 | [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 |
 | 47 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |
 | 48 | [Little Foot Big Foot \(feat\. Young Nudy\)](https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 |
 | 49 | [STILL](https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [STILL](https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3) | 2:02 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 75 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 76 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
 | 77 | [Take Me To America \- Stuzzi Remix](https://open.spotify.com/track/2JAlP7vy7OoGMc6eWrXskM) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Take Me To America \(Stuzzi Remix\)](https://open.spotify.com/album/0rt5q4jo5izn8C70dLdALr) | 4:00 |
-| 78 | [Babymoma](https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Babymoma](https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv) | 2:52 |
+| 78 | [Babymoma](https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Babymoma](https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv) | 2:52 |
 | 79 | [Poison Cookie ft\. AUDREY NUNA](https://open.spotify.com/track/49fSj7bWWBfsi8thBoHN3S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Poison Cookie ft\. AUDREY NUNA](https://open.spotify.com/album/2Lt2LwVh3NWx3P96GxkGjq) | 2:37 |
 | 80 | [Heartbreaker](https://open.spotify.com/track/6nObP35sGhlw5hpjONEh4w) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ), [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Lesson Learned](https://open.spotify.com/album/4ffSf8cwzPrmbaFHkSpNBi) | 3:00 |
 | 81 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 |

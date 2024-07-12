@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Charlotte Cardin
+> La pop française annonce la couleur\. Photo : Lancelot
 
-204 songs - 10 hr 7 min
+206 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bébé](https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Bébé](https://open.spotify.com/album/7adtShWeqe2YtwzB4bVKpg) | 3:00 | 2023-11-23 | 2024-01-26 |
 | [Bêtise](https://open.spotify.com/track/6OmdFCxnpRCwuMX9kprUXU) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Bêtise](https://open.spotify.com/album/4oYPlPRZRLpvuFWGDQJepf) | 3:01 | 2024-03-28 |  |
 | [C'est ciao !](https://open.spotify.com/track/7GGSkQIglpa4FC3OIsMkXb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [C'est ciao !](https://open.spotify.com/album/5sEYaSuLlMiFcwtR2rEs6x) | 2:19 | 2024-06-27 |  |
-| [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2024-04-18 |  |
+| [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2024-04-18 | 2024-07-12 |
 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-09 | 2024-01-26 |
 | [CC SAVA](https://open.spotify.com/track/6HoSoaAfrL9F3lZMuMVZFb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [CC SAVA](https://open.spotify.com/album/0fk7JDzCzSLdQpvV2u3l2S) | 3:07 | 2023-10-12 | 2023-12-15 |
 | [Ce que dit la rumeur](https://open.spotify.com/track/486i7XnscjuJ59ktUrdlAQ) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO) | [Ce que dit la rumeur](https://open.spotify.com/album/2Y3BJaibqZ9aOfdW60ad0r) | 2:42 | 2023-09-14 | 2023-09-22 |
@@ -139,6 +139,7 @@
 | [Morose](https://open.spotify.com/track/6h9sz00y2BxWK7luVV5moD) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Je cherche encore...](https://open.spotify.com/album/4NTg4TxZozULTYTH2evyuA) | 2:49 | 2024-05-30 |  |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-02-29 |  |
 | [Même en enfer](https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est qui ?](https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha) | 2:45 | 2023-07-27 | 2023-10-13 |
+| [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 | 2024-07-11 |  |
 | [Normandie](https://open.spotify.com/track/304a160jxpVs2JYVWtoR4N) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW), [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Tout ce que l'on ne devient pas](https://open.spotify.com/album/0HJxteAp9XRvMFbWp7MXwe) | 2:25 | 2024-04-25 | 2024-05-17 |
 | [Nuit d'hiver](https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nuit d'hiver](https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH) | 3:08 | 2024-03-21 |  |
 | [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 | 2023-11-09 | 2023-12-22 |
@@ -199,7 +200,8 @@
 | [Tombée In Love](https://open.spotify.com/track/3A6Co1ShZ3F6z0nBjG40Za) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Tombée In Love](https://open.spotify.com/album/1QfcmGQDxGefWqG0qBAc8m) | 2:44 | 2023-07-27 | 2023-09-15 |
 | [Tristesse](https://open.spotify.com/track/7duqAqQUm0vYSaXzavXhfn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Tristesse](https://open.spotify.com/album/2knIF0Z25bt6E8fYWYhOqJ) | 3:31 | 2023-07-27 | 2023-09-22 |
 | [Trop bonnes](https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95) | 2:32 | 2023-07-27 | 2023-09-08 |
-| [TU M'RENDS FOU \(spooky bitch\)](https://open.spotify.com/track/6Ra93KBC44jqzesIBGPG6x) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [LE CLUB C'EST VOUS](https://open.spotify.com/album/6ApAbH2lJXkm5LiM8QS3qI) | 2:46 | 2024-03-28 |  |
+| [TU M'RENDS FOU \(spooky bitch\)](https://open.spotify.com/track/6Ra93KBC44jqzesIBGPG6x) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [LE CLUB C'EST VOUS](https://open.spotify.com/album/6ApAbH2lJXkm5LiM8QS3qI) | 2:46 | 2024-03-28 | 2024-07-12 |
+| [Tu me plais](https://open.spotify.com/track/2gXGAKs0YNFxl4Nsv62lWj) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [Tu me plais](https://open.spotify.com/album/7psZewDZnQ8KU77x5zjNoV) | 3:07 | 2024-07-11 |  |
 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 | 2023-10-05 | 2024-03-29 |
 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 | 2024-07-05 |  |
 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-02-22 |  |

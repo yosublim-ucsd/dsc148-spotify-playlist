@@ -4,7 +4,7 @@
 
 > African dance party music from the continent to Paris\. Photo : Josey
 
-189 songs - 10 hr 49 min
+190 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 | 2022-08-26 |
-| [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 |  |
+| [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 | 2024-07-12 |
 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 | 2024-01-05 |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
@@ -154,6 +154,7 @@
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 | 2023-06-09 |
 | [On Est Puissant](https://open.spotify.com/track/4mWZwZ51xakJxKs9sMbASX) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [On Est Puissant](https://open.spotify.com/album/6uCH7SU24RiZ1qIlkdsTOO) | 3:25 | 2023-09-07 | 2024-05-24 |
 | [On me guette](https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt) | [Anaconda 512](https://open.spotify.com/artist/26taS43MiYz1bsD7q1QKQ9) | [On me guette](https://open.spotify.com/album/3ZHGhTQS1hYrIYQTeyxDu1) | 3:58 | 2023-04-06 | 2023-08-25 |
+| [On peut relancer](https://open.spotify.com/track/13EDSww23FnPJVumRromVz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [On peut relancer](https://open.spotify.com/album/5J57nwOyNgvKLa1RDPLsJQ) | 2:51 | 2024-07-11 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 | 2022-12-09 |
 | [Papa arrive](https://open.spotify.com/track/1623sw26SCie7IvE1yUKCp) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Lumière](https://open.spotify.com/album/6DbZeMqndcEBZiJT65WbbI) | 2:56 | 2023-10-19 | 2023-12-01 |
 | [petite position](https://open.spotify.com/track/1QbjKkAwxDQ49KtplR54Gz) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [zagpa le requin](https://open.spotify.com/artist/2a77lQyTgbEF3iGy1Dl8V9) | [petite position](https://open.spotify.com/album/6sqTDg1fnpCzNcC1zryqsM) | 3:27 | 2024-01-11 | 2024-03-08 |

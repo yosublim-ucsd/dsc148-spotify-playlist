@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 268365,
       "name": "After All These Years",
       "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 709453,
       "name": "Alikho Lelifana Nalo (Live at Durban Icc)",
       "url": "https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172035,
       "name": "Altar (Hosanna)",
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186909,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 714119,
       "name": "Do to Me What You Want",
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 691541,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 158746,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 210599,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
@@ -1386,6 +1386,28 @@
       "duration_ms": 237631,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08"
+    },
+    {
+      "album": {
+        "name": "I Carry God",
+        "url": "https://open.spotify.com/album/2nx9CnLKR95SAONx2Clzqn"
+      },
+      "artists": [
+        {
+          "name": "Abimbola Funke Fagun",
+          "url": "https://open.spotify.com/artist/1EHVpqPo4ZxRBrKqhL49po"
+        },
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211645,
+      "name": "I Carry God",
+      "url": "https://open.spotify.com/track/0xXddFk3eUcd8SGdkxKOzp"
     },
     {
       "album": {
@@ -1618,7 +1640,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 455680,
       "name": "Jabulani Sesingabantwana - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L"
@@ -1784,7 +1806,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 247246,
       "name": "Kama Si We",
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 235747,
       "name": "Malaika x Bien",
       "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
@@ -2468,7 +2490,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 270810,
       "name": "Not Alone - Live",
       "url": "https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35"
@@ -2734,7 +2756,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
@@ -2792,7 +2814,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Owawani",
       "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
@@ -2880,7 +2902,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 559994,
       "name": "Prayer - Live",
       "url": "https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY"
@@ -2927,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Since No. 11",
+        "url": "https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167192,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9"
+    },
+    {
+      "album": {
         "name": "Rise Up (Lazarus)",
         "url": "https://open.spotify.com/album/03vhlBbQj9TOuyVVSv0D3J"
       },
@@ -2946,7 +2990,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 165689,
       "name": "Rise Up (Lazarus)",
       "url": "https://open.spotify.com/track/04LAy5aSyniUfX6sXnjsF5"
@@ -3038,7 +3082,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 204121,
       "name": "Somebody's Child",
       "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
@@ -3318,7 +3362,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
@@ -3532,7 +3576,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"

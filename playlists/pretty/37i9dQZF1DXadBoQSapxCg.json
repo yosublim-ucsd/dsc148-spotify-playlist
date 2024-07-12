@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 311842,
+  "num_followers": 311856,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Day",
-        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 161819,
-      "name": "Clich\u00ea",
-      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 164583,
       "name": "Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 161819,
+      "name": "Clich\u00ea",
+      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -899,6 +899,30 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "12 Horas",
+        "url": "https://open.spotify.com/album/5VgIC6o6AQjqxIeLgkEod5"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 157056,
+      "name": "12 Horas",
+      "url": "https://open.spotify.com/track/0sL06GkUHIOiSpzPnOPHFy"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
       },
@@ -911,6 +935,22 @@
       "duration_ms": 140596,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -939,22 +979,6 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -1003,30 +1027,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "12 Horas",
-        "url": "https://open.spotify.com/album/5VgIC6o6AQjqxIeLgkEod5"
-      },
-      "artists": [
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 157056,
-      "name": "12 Horas",
-      "url": "https://open.spotify.com/track/0sL06GkUHIOiSpzPnOPHFy"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "1 em 100",
         "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
       },
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Paga pra Ver",
+        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Paga pra Ver",
+      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 230437,
       "name": "V\u00eanus (feat. A\u00edsha)",
       "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Paga pra Ver",
-        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
-      },
-      "artists": [
-        {
-          "name": "Barretin",
-          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Paga pra Ver",
-      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "S\u00f3 Mais Uma",
-        "url": "https://open.spotify.com/album/4U6UA1n5SnOH8xE5YiViEF"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
       },
       "artists": [
         {
-          "name": "Davi Sabbag",
-          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
-        },
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 179031,
-      "name": "S\u00f3 Mais Uma",
-      "url": "https://open.spotify.com/track/0NtDg9vRn4ksaVKBz6qbma"
+      "duration_ms": 193191,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
     }
   ],
   "unique_name": "Rala e Rola",

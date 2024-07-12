@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,583 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,626 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 21 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
 | 22 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
 | 23 | [Congo Square](https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [South Of I\-10](https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO) | 6:20 |
-| 24 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
-| 25 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
+| 24 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
+| 25 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
 | 26 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
 | 27 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
 | 28 | [Down On The Farm](https://open.spotify.com/track/0dDjBeUnkgwFJIym4rhhR2) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Hubcap Music](https://open.spotify.com/album/2M9xzSsGMgTr2kVjlkbpBT) | 3:50 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 42 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 |
 | 43 | [The River \(Live\)](https://open.spotify.com/track/46Iid9PQ2ul14y7WzO95JZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tour De Force: Live In London \- The Borderline](https://open.spotify.com/album/2defwrQq8wg12ERYrnG6v3) | 6:57 |
 | 44 | [Death Letter Blues](https://open.spotify.com/track/10Gk3art7qE7JKBe6jhN4E) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [The Roots](https://open.spotify.com/album/0qiFwGYof01onnlq0DhZUy) | 5:28 |
-| 45 | [Hard Times a\-Comin'](https://open.spotify.com/track/2nY8hajgBVPaWZpd6sUIRi) | [Cal Williams Jr](https://open.spotify.com/artist/1aqS60cnKUnBC1QlQGaG45) | [Little Black Crow](https://open.spotify.com/album/734mbE26nI6Tjj8bgaRwAa) | 4:59 |
-| 46 | [4 Cars](https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [4 Cars](https://open.spotify.com/album/02jDWz1Dyidvl6zV05SOJn) | 3:29 |
-| 47 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
-| 48 | [Living On Death Row](https://open.spotify.com/track/1iq6EiS1cpMM6881DyHZlY) | [Ben Hemming](https://open.spotify.com/artist/5zRxZcc8PFj6QlgbQoc04g) | [Living On Death Row](https://open.spotify.com/album/2Ih4qCEgwESdt3Au8I8RSp) | 3:22 |
+| 45 | [4 Cars](https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [4 Cars](https://open.spotify.com/album/02jDWz1Dyidvl6zV05SOJn) | 3:29 |
+| 46 | [Hard Times a\-Comin'](https://open.spotify.com/track/2nY8hajgBVPaWZpd6sUIRi) | [Cal Williams Jr](https://open.spotify.com/artist/1aqS60cnKUnBC1QlQGaG45) | [Little Black Crow](https://open.spotify.com/album/734mbE26nI6Tjj8bgaRwAa) | 4:59 |
+| 47 | [Living On Death Row](https://open.spotify.com/track/1iq6EiS1cpMM6881DyHZlY) | [Ben Hemming](https://open.spotify.com/artist/5zRxZcc8PFj6QlgbQoc04g) | [Living On Death Row](https://open.spotify.com/album/2Ih4qCEgwESdt3Au8I8RSp) | 3:22 |
+| 48 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
 | 49 | [I Can't Be Satisfied / Chicago Calling \- Live at the Sinkkasten, Frankfurt, May 1984](https://open.spotify.com/track/6J1GdimzG8csTIjDl3vJWC) | [Dave Kelly](https://open.spotify.com/artist/1d6BAagJzxbgBt0wwhB7hz) | [40 Years on \- a Recollection](https://open.spotify.com/album/6IXUQlu71xys7PUn2mm0Lc) | 4:53 |
 | 50 | [Just Got Paid](https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 4:27 |
 

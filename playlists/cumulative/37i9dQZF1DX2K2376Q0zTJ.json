@@ -6339,6 +6339,24 @@
     },
     {
       "album": {
+        "name": "Ice Palace",
+        "url": "https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200825,
+      "name": "Ice Palace",
+      "url": "https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX"
+    },
+    {
+      "album": {
         "name": "On This Planet",
         "url": "https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e"
       },
@@ -8828,7 +8846,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 208972,
       "name": "Miyanosawa",
       "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"

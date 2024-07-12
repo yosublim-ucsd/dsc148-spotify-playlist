@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,640 songs - 4 day 16 hr 41 min
+1,641 songs - 4 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Fractures](https://open.spotify.com/track/6oXOYP3Xcx5ff6ixfIzwwh) | [Anderholm](https://open.spotify.com/artist/0CQb2TobJEI0LmUopqks5N), [Alexandra Pride](https://open.spotify.com/artist/0GmzPKyW9nL9FE2gkLEDjj) | [Fractures](https://open.spotify.com/album/0i9NgGVskCk0hbHJsg1GPW) | 4:22 | 2020-02-29\* | 2020-03-16 |
 | [Frangipani](https://open.spotify.com/track/4I7u21ZlgZzCR0cmv30PuN) | [Kaiyan](https://open.spotify.com/artist/2LTLYlJsnetSUuVQEnVNrE) | [Hinterland Rhapsody / Frangipani](https://open.spotify.com/album/7AmGcLQgkmIGfnhfKamEsS) | 4:21 | 2022-05-25 | 2022-07-29 |
 | [Free](https://open.spotify.com/track/0dF4YiBOZK45rPynM4No12) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Free](https://open.spotify.com/album/3rBaD95XtCe7VDlsm6JmE8) | 3:55 | 2021-08-06 | 2022-07-29 |
+| [Fresh Air](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Fresh Air](https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu) | 2:16 | 2024-07-02 |  |
 | [Friction](https://open.spotify.com/track/4R5rqIqYBUtHueqsnoT1n0) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Friction](https://open.spotify.com/album/3RMRv768S5F0SBa8EKVAx7) | 4:04 | 2020-05-18 | 2020-07-18 |
 | [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-22 | 2024-05-02 |
 | [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-21 | 2024-04-19 |
@@ -678,7 +679,7 @@
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-12-04 | 2023-09-09 |
 | [I Care \- Intro](https://open.spotify.com/track/5NMa4Z4rtWqyt6VN7h2bpo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:33 | 2020-05-18 | 2020-07-03 |
 | [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 | 2023-04-28 |  |
-| [I Don't Mind](https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [I Don't Mind](https://open.spotify.com/album/30uNseNC2aGePZTVoXGYQP) | 4:58 | 2024-04-19 |  |
+| [I Don't Mind](https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [I Don't Mind](https://open.spotify.com/album/30uNseNC2aGePZTVoXGYQP) | 4:58 | 2024-04-19 | 2024-07-12 |
 | [I feel alive](https://open.spotify.com/track/7qn6DBMuuU3W6MH7IqT4k5) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [In Retrospect](https://open.spotify.com/album/33mhWPOgig7dfb0P5yFDjU) | 2:15 | 2020-03-16 | 2021-01-11 |
 | [I Found You \- Prospa Remix](https://open.spotify.com/track/2LenfxaYtwKW8LwYXu8sqw) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [I Found You \(Prospa Remix\)](https://open.spotify.com/album/0jDkEfxSXzCUK9noxG2wCL) | 4:01 | 2023-09-08 | 2023-09-22 |
 | [I Get You](https://open.spotify.com/track/6ClgdWhFNpAGAMFAjAbor1) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Get You](https://open.spotify.com/album/6C4LwRgUfaPVnbYgDHfsEC) | 3:57 | 2020-03-17 | 2020-10-09 |

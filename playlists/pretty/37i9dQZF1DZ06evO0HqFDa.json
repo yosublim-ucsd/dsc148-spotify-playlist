@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ramin Djawadi. Los temas esenciales, todos en una lista.",
-  "num_followers": 47389,
+  "description": "This is Ramin Djawadi. The essential tracks, all in one playlist.",
+  "num_followers": 47407,
   "original_name": "This Is Ramin Djawadi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAAAIKdLKGcDDrIfdHKSzPSKg",
+  "snapshot_id": "Zo3PAAAAAAAg+HCNadZqd9FahC5D1ZWw",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 150623,
-      "name": "Jenny of Oldstones",
-      "url": "https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm"
+      "duration_ms": 131888,
+      "name": "A Song of Ice and Fire",
+      "url": "https://open.spotify.com/track/1AvLUHxSunGMWWRfEFmWSC"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 131888,
-      "name": "A Song of Ice and Fire",
-      "url": "https://open.spotify.com/track/1AvLUHxSunGMWWRfEFmWSC"
+      "duration_ms": 150623,
+      "name": "Jenny of Oldstones",
+      "url": "https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game of Thrones (Music from the HBO\u00ae Series - Season 6)",
-        "url": "https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL"
+        "name": "Game of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 173991,
-      "name": "My Watch Has Ended",
-      "url": "https://open.spotify.com/track/0SdHiRgv1yZtiPYuRnbUfu"
+      "duration_ms": 93106,
+      "name": "Blood of the Dragon",
+      "url": "https://open.spotify.com/track/0Y7n1RE7g1kkPc6CQCdfuO"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game of Thrones: Season 5 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ"
+        "name": "Game of Thrones (Music from the HBO\u00ae Series - Season 6)",
+        "url": "https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 93106,
-      "name": "Blood of the Dragon",
-      "url": "https://open.spotify.com/track/0Y7n1RE7g1kkPc6CQCdfuO"
+      "duration_ms": 173991,
+      "name": "My Watch Has Ended",
+      "url": "https://open.spotify.com/track/0SdHiRgv1yZtiPYuRnbUfu"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game of Thrones: Season 4 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl"
+        "name": "Game of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 109986,
-      "name": "Two Swords",
-      "url": "https://open.spotify.com/track/4195MldSyGNuWsI6zb2qrv"
+      "duration_ms": 188506,
+      "name": "Dance of Dragons",
+      "url": "https://open.spotify.com/track/31ZZ6UK4InCAb3AgoNMKol"
     }
   ],
   "unique_name": "This Is Ramin Djawadi",

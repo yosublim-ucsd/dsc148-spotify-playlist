@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 290210,
+  "num_followers": 290279,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
     },
     {
+      "added_at": "2024-07-09 21:33:38",
+      "album": {
+        "name": "DEGENERATE",
+        "url": "https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "DEGENERATE",
+      "url": "https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO"
+    },
+    {
       "added_at": "2023-12-07 20:09:02",
       "album": {
         "name": "Barbie & Ken",
@@ -139,22 +155,6 @@
       "duration_ms": 135000,
       "name": "Barbie & Ken",
       "url": "https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx"
-    },
-    {
-      "added_at": "2024-07-09 21:33:38",
-      "album": {
-        "name": "DEGENERATE",
-        "url": "https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "DEGENERATE",
-      "url": "https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
     },
     {
+      "added_at": "2024-07-09 21:33:38",
+      "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
+    },
+    {
       "added_at": "2023-12-07 20:09:02",
       "album": {
         "name": "DOMINATION",
@@ -347,22 +363,6 @@
       "duration_ms": 226861,
       "name": "Cheers To Goodbye (feat. Spencer Charnas)",
       "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
-    },
-    {
-      "added_at": "2024-07-09 21:33:38",
-      "album": {
-        "name": "It's Supposed To Hurt",
-        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 212086,
-      "name": "It's Supposed To Hurt",
-      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
-      },
-      "artists": [
-        {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 328015,
       "name": "Faking It",
       "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+      },
+      "artists": [
+        {
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
-      },
-      "artists": [
-        {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Whispers of Your Death",
         "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 174213,
       "name": "Whispers of Your Death",
       "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "BLOODSUCKERS",
-        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Bloodsuckers",
-      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Picasso On The Concrete",
         "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190080,
       "name": "Picasso On The Concrete",
       "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "BLOODSUCKERS",
+        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Bloodsuckers",
+      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Touch the Corpse",
-        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
-      },
-      "artists": [
-        {
-          "name": "Irving Force",
-          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "Touch the Corpse",
-      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Alone I...",
         "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 280549,
       "name": "Alone I Burn - Radio Edit",
       "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Touch the Corpse",
+        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
+      },
+      "artists": [
+        {
+          "name": "Irving Force",
+          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "Touch the Corpse",
+      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
     },
     {
-      "added_at": "2024-07-09 21:33:38",
-      "album": {
-        "name": "The Product Of My Love",
-        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
-      },
-      "artists": [
-        {
-          "name": "Druidess",
-          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Sniffing Accountant",
-      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
-    },
-    {
       "added_at": "2023-12-07 20:09:02",
       "album": {
         "name": "What's The Holy (Nobel) Today?",
@@ -1287,6 +1271,22 @@
       "duration_ms": 226712,
       "name": "What's The Holy (Nobel) Today?",
       "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
+    },
+    {
+      "added_at": "2024-07-09 21:33:38",
+      "album": {
+        "name": "The Product Of My Love",
+        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+      },
+      "artists": [
+        {
+          "name": "Druidess",
+          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Sniffing Accountant",
+      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Dr\u00fdsill",
-        "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
-        }
-      ],
-      "duration_ms": 532351,
-      "name": "Dr\u00fdsill",
-      "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 202804,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Dr\u00fdsill",
+        "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstafir",
+          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+        }
+      ],
+      "duration_ms": 532351,
+      "name": "Dr\u00fdsill",
+      "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
-      },
-      "artists": [
-        {
-          "name": "King Yosef",
-          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
-        }
-      ],
-      "duration_ms": 269265,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Animo",
         "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Only Paradise Lost",
-        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
       },
       "artists": [
         {
-          "name": "vedawave",
-          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
+          "name": "King Yosef",
+          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Only Paradise Lost",
-      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
+      "duration_ms": 269265,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1699,6 +1683,22 @@
       "duration_ms": 319560,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Only Paradise Lost",
+        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
+      },
+      "artists": [
+        {
+          "name": "vedawave",
+          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Only Paradise Lost",
+      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
     },
     {
       "added_at": "2023-12-07 20:09:02",

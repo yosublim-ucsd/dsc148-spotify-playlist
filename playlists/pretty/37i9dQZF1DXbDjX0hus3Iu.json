@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 499539,
+  "num_followers": 499620,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Ghost Train from Georgia",
-        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 355226,
-      "name": "Miss Understanding",
-      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Bishop Black",
         "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 245906,
       "name": "Southern Hospitality",
       "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Ghost Train from Georgia",
+        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 355226,
+      "name": "Miss Understanding",
+      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Southern Delight/Barefoot Jerry",
         "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
       },
       "artists": [
         {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
         }
       ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1311,6 +1295,38 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+      },
+      "artists": [
+        {
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Brickyard Road",
+        "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
+      },
+      "artists": [
+        {
+          "name": "Johnny Van Zant",
+          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
+        }
+      ],
+      "duration_ms": 308800,
+      "name": "Party in the Parking Lot",
+      "url": "https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Brickyard Road",
-        "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
       },
       "artists": [
         {
-          "name": "Johnny Van Zant",
-          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 308800,
-      "name": "Party in the Parking Lot",
-      "url": "https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd"
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2024-07-05 17:03:45",

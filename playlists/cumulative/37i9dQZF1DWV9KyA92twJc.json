@@ -1301,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05de\u05d9\u05dd \u05d4\u05e7\u05d3\u05d5\u05e9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3UvWQrHP5tTPLU9wc36FX0"
+      },
+      "artists": [
+        {
+          "name": "Tohar",
+          "url": "https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS"
+        },
+        {
+          "name": "ATAR MAYNER",
+          "url": "https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225821,
+      "name": "\u05d4\u05de\u05d9\u05dd \u05d4\u05e7\u05d3\u05d5\u05e9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5DqxfeM3LYqSTiiB1NORSu"
+    },
+    {
+      "album": {
         "name": "\u05d5\u05d9\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d9 \u05d5\u05d9\u05e6'\u05d9",
         "url": "https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N"
       },
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 297983,
       "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"

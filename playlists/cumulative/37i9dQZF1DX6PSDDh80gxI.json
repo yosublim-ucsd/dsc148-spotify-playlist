@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il meglio dell\u2019indie italiano! Giuse The Lizia e centomilacarie in cover",
+  "description": "Il meglio dell\u2019indie italiano! Cover: Angelica \ud83d\udc9a",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -270,6 +270,28 @@
       "duration_ms": 167875,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/4OFqJ6OnEYXNNcFZl2fOPJ"
+    },
+    {
+      "album": {
+        "name": "Domani (feat. Nashley)",
+        "url": "https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        },
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177783,
+      "name": "Domani (feat. Nashley)",
+      "url": "https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j"
     },
     {
       "album": {
@@ -780,7 +802,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 175223,
       "name": "OKAY OKAY (S1 E2)",
       "url": "https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT"
@@ -802,6 +824,24 @@
       "duration_ms": 173924,
       "name": "OSSA ROTTE",
       "url": "https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS"
+    },
+    {
+      "album": {
+        "name": "ROCCASECCA",
+        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157624,
+      "name": "Penso Penso Penso",
+      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
     },
     {
       "album": {
@@ -1057,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Tokyo 20 / Spirito",
+        "url": "https://open.spotify.com/album/3vSYheKa4APkJSC03A77Bo"
+      },
+      "artists": [
+        {
+          "name": "Generic Animal",
+          "url": "https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201580,
+      "name": "Tokyo 20",
+      "url": "https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU"
+    },
+    {
+      "album": {
         "name": "Trasparente",
         "url": "https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT"
       },
@@ -1140,7 +1198,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 167816,
       "name": "Tutti contro tutti",
       "url": "https://open.spotify.com/track/3Qi2tRCAstmItgnf1qpq71"
@@ -1194,7 +1252,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 162539,
       "name": "Una come te",
       "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"

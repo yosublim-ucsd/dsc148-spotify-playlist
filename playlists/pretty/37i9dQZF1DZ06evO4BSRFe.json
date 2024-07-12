@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 59117,
+  "num_followers": 59152,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAADBHcHGQd6P76FL9xl2p6j4",
+  "snapshot_id": "Zo3PAAAAAACKzQ8dOmPwXoUJMWXhvafJ",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 231453,
-      "name": "Vivir sin ella",
-      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabra de machos",
         "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 253373,
       "name": "Se lo dejo a Dios",
       "url": "https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Vivir sin ella",
+      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "No compro amores",
-      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pr\u00f3ximo Tonto",
         "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 206120,
       "name": "El Pr\u00f3ximo Tonto",
       "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "No compro amores",
+      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 123306,
-      "name": "Ingratos ojos m\u00edos",
-      "url": "https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sentimientos",
         "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 178000,
       "name": "Ella",
       "url": "https://open.spotify.com/track/2h2sz7i4jjDagK6GFyE6sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 123306,
+      "name": "Ingratos ojos m\u00edos",
+      "url": "https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG"
     },
     {
       "added_at": null,

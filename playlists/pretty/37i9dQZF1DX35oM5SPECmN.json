@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2300172,
+  "num_followers": 2300137,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 249497,
-      "name": "Fast and Slow",
-      "url": "https://open.spotify.com/track/7omE4K9WTUmbD9TzVPyTjZ"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 201506,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 249497,
+      "name": "Fast and Slow",
+      "url": "https://open.spotify.com/track/7omE4K9WTUmbD9TzVPyTjZ"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Obviously",
-        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 225360,
       "name": "Fire & Fury",
       "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Obviously",
+        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Crumbled",
+        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Little Quirks",
+          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+      "duration_ms": 193348,
+      "name": "Crumbled",
+      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Crumbled",
-        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
-          "name": "Little Quirks",
-          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 193348,
-      "name": "Crumbled",
-      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 221438,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 210346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 221438,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Good Luck, Kid",
-      "url": "https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "Tried to Tell You",
         "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 228346,
       "name": "Options Open",
       "url": "https://open.spotify.com/track/4v9GgfhZAlC3cx2zjKtr51"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Good Luck, Kid",
+      "url": "https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Hearts Town",
-        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
+        "name": "Aquatic Flowers",
+        "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
       },
       "artists": [
         {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
         }
       ],
-      "duration_ms": 236986,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/4Ge1aGykGP9BKZc33W1RQM"
+      "duration_ms": 228720,
+      "name": "Complex",
+      "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Aquatic Flowers",
-        "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
+        "name": "Hearts Town",
+        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
       "artists": [
         {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 228720,
-      "name": "Complex",
-      "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
+      "duration_ms": 236986,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/4Ge1aGykGP9BKZc33W1RQM"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Game For Guessing (feat. Robert Ellis)",
-        "url": "https://open.spotify.com/album/2QmCRzZ6vaOZS2lnuH2KWx"
+        "name": "Never Makes a Sound",
+        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
       },
       "artists": [
         {
-          "name": "Zachary Williams",
-          "url": "https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv"
-        },
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Game For Guessing (feat. Robert Ellis)",
-      "url": "https://open.spotify.com/track/7gfAs8iAcGUN2ygd4HBEmq"
+      "duration_ms": 240260,
+      "name": "Never Makes a Sound",
+      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
     }
   ],
   "unique_name": "Run Wild",

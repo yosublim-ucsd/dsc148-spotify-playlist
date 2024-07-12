@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Cyrko",
+  "description": "nasze brzmienie \u2728 Cover: Paula Biskup",
   "name": "gen z ",
   "tracks": [
+    {
+      "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/0L2L29KzYBJtGGHeUAI0Wg"
+      },
+      "artists": [
+        {
+          "name": "Anastazja Maci\u0105g",
+          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155044,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/1uSqsOYzHF8wXAcyhO7xFm"
+    },
     {
       "album": {
         "name": "2/10",
@@ -34,7 +52,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 137500,
       "name": "2late",
       "url": "https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF"
@@ -330,7 +348,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 131250,
       "name": "Chyba \u017ce z Tob\u0105",
       "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
@@ -392,6 +410,32 @@
       "duration_ms": 188903,
       "name": "czuje sie jak w orange county",
       "url": "https://open.spotify.com/track/5NTx74dnDrvRbnGhiBAyoB"
+    },
+    {
+      "album": {
+        "name": "Daj\u0119 Ci s\u0142owo",
+        "url": "https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        },
+        {
+          "name": "Karbid",
+          "url": "https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127366,
+      "name": "Daj\u0119 Ci s\u0142owo",
+      "url": "https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF"
     },
     {
       "album": {
@@ -544,7 +588,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 169807,
       "name": "FIXER",
       "url": "https://open.spotify.com/track/2mFIc7ofw7PMEu9jFduGih"
@@ -696,7 +740,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184615,
       "name": "I \u017ce czuje si\u0119 sam",
       "url": "https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N"
@@ -865,6 +909,28 @@
     },
     {
       "album": {
+        "name": "lawenda",
+        "url": "https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1"
+      },
+      "artists": [
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        },
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235401,
+      "name": "lawenda",
+      "url": "https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR"
+    },
+    {
+      "album": {
         "name": "s\u0142owa, kt\u00f3rych nigdy nie wypowiedzia\u0142am",
         "url": "https://open.spotify.com/album/6evdJOStWbQNA0G8RwgssR"
       },
@@ -880,6 +946,24 @@
       "duration_ms": 214838,
       "name": "Lepsze dni",
       "url": "https://open.spotify.com/track/7HnzviYTC1Ag8hPkBaKvHa"
+    },
+    {
+      "album": {
+        "name": "linia niedost\u0119pna",
+        "url": "https://open.spotify.com/album/2hOyG8A7yWci6K5VBhB7gW"
+      },
+      "artists": [
+        {
+          "name": "MISSI",
+          "url": "https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137462,
+      "name": "linia niedost\u0119pna",
+      "url": "https://open.spotify.com/track/5VWuIuFLSHLz50Eyoj2RWH"
     },
     {
       "album": {
@@ -1066,6 +1150,24 @@
       "duration_ms": 182117,
       "name": "More than friends",
       "url": "https://open.spotify.com/track/1vZYCrvrO1hoxAbVN70hnw"
+    },
+    {
+      "album": {
+        "name": "my",
+        "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "my",
+      "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
     },
     {
       "album": {
@@ -1404,7 +1506,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 191518,
       "name": "Pami\u0119tasz nas?",
       "url": "https://open.spotify.com/track/6HvzmkNyvkqBa3GBUiCjjp"
@@ -1500,6 +1602,24 @@
       "duration_ms": 148292,
       "name": "POPSTAR",
       "url": "https://open.spotify.com/track/1HuCX4lQF59JjpoaGc82r0"
+    },
+    {
+      "album": {
+        "name": "Po\u015br\u00f3d Sn\u00f3w EP",
+        "url": "https://open.spotify.com/album/7u5KWpB6S7YaJhhKYzXkDg"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Poszukam",
+      "url": "https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2"
     },
     {
       "album": {
@@ -1689,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Syriusz Black",
+        "url": "https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF"
+      },
+      "artists": [
+        {
+          "name": "Prometh",
+          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Syriusz Black",
+      "url": "https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J"
+    },
+    {
+      "album": {
         "name": "Szcz\u0119\u015bliwa Wina",
         "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
       },
@@ -1870,7 +2008,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 159160,
       "name": "Why she's better",
       "url": "https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1"
@@ -2050,7 +2188,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154298,
       "name": "ZORZE POLARNE",
       "url": "https://open.spotify.com/track/4JNdDbvLlsAWhrMGYiqIFW"

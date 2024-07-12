@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 158017,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/1wdxXGT7vQxkGUjAcoiWDz"
@@ -818,6 +818,24 @@
       "duration_ms": 155426,
       "name": "No Es Justo X \u00c9l",
       "url": "https://open.spotify.com/track/4n1Q58qSaWjlekBS8RlMSE"
+    },
+    {
+      "album": {
+        "name": "No Me 100to Bien",
+        "url": "https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "No Me 100to Bien",
+      "url": "https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD"
     },
     {
       "album": {

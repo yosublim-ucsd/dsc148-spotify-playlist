@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Jul au top de la première playlist de rap français.
+> Lacrim x Gazo au top de la première playlist de rap français.
 
 262 songs - 13 hr 27 min
 

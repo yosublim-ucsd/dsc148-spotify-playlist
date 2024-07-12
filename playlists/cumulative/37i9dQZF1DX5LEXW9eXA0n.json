@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 220000,
       "name": "Baby it\u2019s you",
       "url": "https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx"
@@ -2592,7 +2592,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 230333,
       "name": "Boy\u2032s Serenade",
       "url": "https://open.spotify.com/track/1cGHfJlCHQIF1RmeC53iuW"
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 219222,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/6FUFNToiiQKYqhPvWKVy9u"
@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 285306,
       "name": "Desire to fly",
       "url": "https://open.spotify.com/track/3G81cFKifTjjBeLYUoG5bK"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 238093,
       "name": "Don't forget me",
       "url": "https://open.spotify.com/track/0wvsRYNOtR3c2aPw38LJSR"
@@ -4438,6 +4438,24 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Alone",
+        "url": "https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2"
+      },
+      "artists": [
+        {
+          "name": "RYU JIHYUN",
+          "url": "https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Don\u2019t Leave Me Alone",
+      "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
     },
     {
       "album": {
@@ -4864,7 +4882,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 268000,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2"
@@ -7730,7 +7748,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 275506,
       "name": "I hope",
       "url": "https://open.spotify.com/track/20PWPGN3kY6bEoXbC5zHaw"
@@ -10124,7 +10142,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 274893,
       "name": "Journey",
       "url": "https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m"
@@ -11526,7 +11544,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 240640,
       "name": "Love Has Gone",
       "url": "https://open.spotify.com/track/1wosDePUhVsLYB3MMdyX20"
@@ -14795,6 +14813,24 @@
     },
     {
       "album": {
+        "name": "2024 SINGLE ALBUM [SEO IN GUK]",
+        "url": "https://open.spotify.com/album/2Jj0g9jvvwMiESDNlcR11t"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Out of time",
+      "url": "https://open.spotify.com/track/0J4JHtige4TIAkC0oS5Wzh"
+    },
+    {
+      "album": {
         "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
       },
@@ -14806,7 +14842,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 224413,
       "name": "Peach Tree",
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
@@ -14968,7 +15004,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 271213,
       "name": "Please Forget Me",
       "url": "https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG"
@@ -15058,7 +15094,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 288813,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/2u9QZoVx2664QDOeefNG9U"
@@ -18048,7 +18084,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 200227,
       "name": "That's how we broke up",
       "url": "https://open.spotify.com/track/746MjnzpbYsg1nTeZLIRZg"
@@ -18828,7 +18864,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 267000,
       "name": "The Sound Of Rain",
       "url": "https://open.spotify.com/track/3FQzdACTmhY6q0W1eXtj9i"
@@ -19020,7 +19056,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 248560,
       "name": "The World of You",
       "url": "https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR"
@@ -20626,7 +20662,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 238400,
       "name": "When Spring Comes",
       "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
@@ -22920,7 +22956,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 257706,
       "name": "\uc5b8\uc81c\uae4c\uc9c0 \uc6c3\ub294\ucc99\uc744 \ud574\uc57c\ub9cc \ud574",
       "url": "https://open.spotify.com/track/4dO2IxJCkwsJWa4B8jFWDi"

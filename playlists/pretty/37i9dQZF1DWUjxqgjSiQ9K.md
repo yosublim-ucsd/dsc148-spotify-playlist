@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4B4YYJ0BAYBK86yxqQV7mu">Funky</a> y <a href="spotify:artist:6pdXxGaaEGf7huw3C6fz6a">Gilberto Daza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,061 likes - 98 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,123 likes - 98 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

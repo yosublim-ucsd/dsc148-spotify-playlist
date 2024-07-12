@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > Brand new genre bending rap coming out of AUS & NZ\. Cover: JessB, Sampa The Great
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,190 likes - 79 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,183 likes - 79 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 18 | [PRIDE \- EPISODE 2](https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [PRIDE \(EPISODE 2\)](https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu) | 2:15 |
 | 19 | [Film Star Prelude](https://open.spotify.com/track/5klT8ytUCZf5lYfdp0WCju) | [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX) | [Film Star Prelude](https://open.spotify.com/album/3ExiqZ6YzsZVasfpqiDSYN) | 2:58 |
 | 20 | [Warriors & Storytellers](https://open.spotify.com/track/7576a1TJ554JQGmvch8fzq) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [Warriors & Storytellers](https://open.spotify.com/album/1m0xrNgyNrmY45Xt5eDRIm) | 3:12 |
-| 21 | [London To A Brick Show \(feat\. Shadow\)](https://open.spotify.com/track/7oWGZp2XgKFCLnUCvu3CTs) | [Maundz](https://open.spotify.com/artist/3qZvYUgcZ3yef4LWyXhUx2), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [London To A Brick Show \(feat\. Shadow\)](https://open.spotify.com/album/34gI1CcP4vlRagM0Y2vSMl) | 3:18 |
+| 21 | [London To A Brick \(feat\. Shadow\)](https://open.spotify.com/track/7oWGZp2XgKFCLnUCvu3CTs) | [Maundz](https://open.spotify.com/artist/3qZvYUgcZ3yef4LWyXhUx2), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [London To A Brick \(feat\. Shadow\)](https://open.spotify.com/album/34gI1CcP4vlRagM0Y2vSMl) | 3:18 |
 | 22 | [Cry Baby](https://open.spotify.com/track/2340FFTkgtYgfIIJuuokzx) | [Complete](https://open.spotify.com/artist/7Fe4vD5WyjtFxlxSO0d7lP) | [Cry Baby](https://open.spotify.com/album/3oPPaGSFLGUjd94LgDmtvp) | 3:09 |
 | 23 | [WHAT DO](https://open.spotify.com/track/6k5rWswrLNxNwMyFkC3Na2) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Souths Most Wanted](https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR) | 2:56 |
 | 24 | [To The Sky](https://open.spotify.com/track/0nyw72ROLS00fr0SYxkizo) | [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y) | [To The Sky](https://open.spotify.com/album/4XWArECADgAgaAFRyBYKU1) | 2:41 |

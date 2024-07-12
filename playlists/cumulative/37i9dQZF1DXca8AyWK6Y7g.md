@@ -4,7 +4,7 @@
 
 > Personification of summer! So hot that I can't relate 📸 Knox
 
-2,111 songs - 4 day 10 hr 14 min
+2,112 songs - 4 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,6 +1089,7 @@
 | [Less](https://open.spotify.com/track/44Ghsk1TVBTKEB4ksQYhSV) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8), [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Less](https://open.spotify.com/album/7xb5oS0SLeWgk032ZcmNBc) | 3:31 | 2020-12-12 | 2021-11-10 |
 | [Let Me Down \(with Chelsea Cutler\)](https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Let Me Down](https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx) | 2:29 | 2022-12-02 | 2023-01-28 |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-26 | 2022-01-08 |
+| [Let Me Leave](https://open.spotify.com/track/2nTadlGdhBMhiXgO2y3RPN) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [Let Me Leave](https://open.spotify.com/album/4IceXl5pK5Zs3JaoAVlNYn) | 3:24 | 2024-07-08 |  |
 | [Let You Know](https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Let You Know](https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0) | 3:19 | 2019-06-15 | 2020-01-16 |
 | [Let's Go](https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Let's Go](https://open.spotify.com/album/3AsiOVv4RrFwgSXFch8wP9) | 2:22 | 2021-12-24 | 2022-03-26 |
 | [Let's Go Out](https://open.spotify.com/track/4o7IJJZdZG9blmt9Czt1lI) | [Berly](https://open.spotify.com/artist/6U9EnTzy0ihpx4mgs9mfud) | [Let's Go Out](https://open.spotify.com/album/2BJnr6QdGtXYV36KhoKrgg) | 3:07 | 2020-04-21 | 2020-09-25 |
@@ -1191,7 +1192,7 @@
 | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK) | 2:44 | 2020-06-13 | 2021-04-13 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-24 | 2021-11-20 |
 | [Make It Thru the Day.](https://open.spotify.com/track/5i0S6dVDfTRGpjfVwBHIbU) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Make It Thru the Day.](https://open.spotify.com/album/3o7pxHq7wPCb1hRCq37POT) | 2:54 | 2020-04-21 | 2020-09-30 |
-| [make me](https://open.spotify.com/track/3xiUsDGgA41Nu8adozAZ9V) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [make me](https://open.spotify.com/album/7xkUn5cae9u8NIWSrQunSW) | 2:45 | 2024-07-08 |  |
+| [make me](https://open.spotify.com/track/3xiUsDGgA41Nu8adozAZ9V) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [make me](https://open.spotify.com/album/7xkUn5cae9u8NIWSrQunSW) | 2:45 | 2024-07-08 | 2024-07-12 |
 | [Make Me Your Mrs](https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Make Me Your Mrs](https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K) | 2:38 | 2024-03-01 | 2024-05-18 |
 | [Make More Money](https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Make More Money](https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK) | 3:19 | 2024-02-16 | 2024-05-25 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-09 |  |

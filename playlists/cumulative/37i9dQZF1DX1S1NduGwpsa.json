@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Avishai Cohen",
+  "description": "The best jazz new releases. Cover: Samy Thi\u00e9bault",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 261733,
       "name": "Ajala - Single Edit",
       "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 278000,
       "name": "Fly with Me",
       "url": "https://open.spotify.com/track/5xCSNRcQhOUpJjGWVkCYoL"
@@ -3702,6 +3702,24 @@
       "duration_ms": 220693,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/4cvQBhqjopA89EikPX5ohP"
+    },
+    {
+      "album": {
+        "name": "Frankie & Johnny",
+        "url": "https://open.spotify.com/album/7esD05FOaDgDHro3auSsBU"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "Frankie & Johnny",
+      "url": "https://open.spotify.com/track/2vlcJff1ZToSqL1BiOF5k5"
     },
     {
       "album": {
@@ -6051,6 +6069,32 @@
     },
     {
       "album": {
+        "name": "Life in a Wind",
+        "url": "https://open.spotify.com/album/2amy1cZe4XX0etenWNRe3L"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245773,
+      "name": "Life in a Wind",
+      "url": "https://open.spotify.com/track/1ot4TEgXBIcdPpoGmbNpmx"
+    },
+    {
+      "album": {
         "name": "Lights Away from Home",
         "url": "https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ"
       },
@@ -6412,7 +6456,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 252769,
       "name": "Luxe, calme et volupt\u00e9",
       "url": "https://open.spotify.com/track/6M0r4QcBoTdkPpFkyVUhl9"
@@ -6538,7 +6582,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 366709,
       "name": "Mal de vivre",
       "url": "https://open.spotify.com/track/1VcejonVyFNjgASurwl28D"
@@ -7789,6 +7833,24 @@
     },
     {
       "album": {
+        "name": "open this wall",
+        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156688,
+      "name": "open this wall",
+      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
+    },
+    {
+      "album": {
         "name": "Unknown Unknown",
         "url": "https://open.spotify.com/album/3mCY1TIfN4BZsnwdwZg8xx"
       },
@@ -8192,6 +8254,24 @@
       "duration_ms": 239725,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/0Ktu7sLKIYFCvQsz4Tci6b"
+    },
+    {
+      "album": {
+        "name": "Piano joyeux",
+        "url": "https://open.spotify.com/album/7oBYbHwOIbAVv5fICbHaW3"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "Piano joyeux",
+      "url": "https://open.spotify.com/track/63CQJBqsGstpaRu43lBkQY"
     },
     {
       "album": {

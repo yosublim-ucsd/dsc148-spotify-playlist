@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0s3VJbBkjlZZaKAjh6cdXe"
+      },
+      "artists": [
+        {
+          "name": "Thousand Voice",
+          "url": "https://open.spotify.com/artist/4wvwkptjVXr5TdkvFjiWsz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216912,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1PAdUhszUJjkqqSWFdweKJ"
+    },
+    {
+      "album": {
         "name": "All On Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 187950,
       "name": "Comme ci comme \u00e7a",
       "url": "https://open.spotify.com/track/0J4zPN3wUmYVhBurN45OzS"
@@ -1702,10 +1720,36 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 191782,
       "name": "Light",
       "url": "https://open.spotify.com/track/41NqESXB9XqryxvtaRjubm"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg"
+      },
+      "artists": [
+        {
+          "name": "DUKE.",
+          "url": "https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA"
+        },
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160821,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g"
     },
     {
       "album": {
@@ -2474,7 +2518,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 147906,
       "name": "OTD",
       "url": "https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd"
@@ -3218,6 +3262,28 @@
       "duration_ms": 231493,
       "name": "Sun Spot",
       "url": "https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK"
+    },
+    {
+      "album": {
+        "name": "Sunlight to My Soul",
+        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205797,
+      "name": "Sunlight to My Soul",
+      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: SBTRKT",
+  "description": "A new world of alternative electronic music. \nCover: KUCKA",
   "name": "Portal",
   "tracks": [
     {
@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 177397,
       "name": "Always Wondered (with harvest)",
       "url": "https://open.spotify.com/track/0VUUkYPWuZ7uYzKFLQRxhz"
@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "DJ-Kicks: DJ BORING",
+        "url": "https://open.spotify.com/album/5S9zX1tXzvezEW6m1Mvcp1"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340207,
+      "name": "Balet",
+      "url": "https://open.spotify.com/track/2xy3WkjpcWPoEkpanNnTD9"
+    },
+    {
+      "album": {
         "name": "AJ^6",
         "url": "https://open.spotify.com/album/6818Zvytt78CpfD2rgnMh7"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172484,
       "name": "Bass Keeps Calling",
       "url": "https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg"
@@ -1922,6 +1940,28 @@
       "duration_ms": 169730,
       "name": "Break",
       "url": "https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP"
+    },
+    {
+      "album": {
+        "name": "BREAK IT DOWN (ON THE BASSLINE)",
+        "url": "https://open.spotify.com/album/35HrIn0UbaHzkoLNMusEo1"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "IN2STELLAR",
+          "url": "https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "BREAK IT DOWN (ON THE BASSLINE)",
+      "url": "https://open.spotify.com/track/1poGDt4f2MB2q9m1lsBwAB"
     },
     {
       "album": {
@@ -4251,6 +4291,28 @@
     },
     {
       "album": {
+        "name": "Find A Way (feat. Suli Breaks)",
+        "url": "https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182098,
+      "name": "Find A Way (feat. Suli Breaks)",
+      "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
+    },
+    {
+      "album": {
         "name": "Find You",
         "url": "https://open.spotify.com/album/6xzI3PZYo4aQb95vr4zSn3"
       },
@@ -5245,6 +5307,28 @@
     },
     {
       "album": {
+        "name": "heartbeat (feat. Vv Pete) [rebirth]",
+        "url": "https://open.spotify.com/album/38mIXhlny0d7tQKF4c7lFc"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129213,
+      "name": "heartbeat (feat. Vv Pete) [rebirth]",
+      "url": "https://open.spotify.com/track/1jAMjt84UVy3STztrBsIKY"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0BMJU1hQzIaL4HreKN2xH7"
       },
@@ -5260,6 +5344,24 @@
       "duration_ms": 332307,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5S0PClhaLy468Leuk4tvoS"
+    },
+    {
+      "album": {
+        "name": "Can You Hear Me Dreaming?",
+        "url": "https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222980,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1WkYI0DxUqXKFqTayA8897"
     },
     {
       "album": {
@@ -6350,6 +6452,24 @@
       "duration_ms": 388441,
       "name": "KeQue",
       "url": "https://open.spotify.com/track/2OfwlVwQGw7AN3aE1lQ4QN"
+    },
+    {
+      "album": {
+        "name": "Key103",
+        "url": "https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236764,
+      "name": "Key103 [a56 edit]",
+      "url": "https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08"
     },
     {
       "album": {
@@ -8210,6 +8330,24 @@
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
+      "album": {
+        "name": "Numerical Deviant (Part of Dekmantel Ten: A Decade of Dekmantel Festival - Selectors)",
+        "url": "https://open.spotify.com/album/1NAQDiilBVtIuAsJGn1UEQ"
+      },
+      "artists": [
+        {
+          "name": "Roza Terenzi",
+          "url": "https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305562,
+      "name": "Numerical Deviant",
+      "url": "https://open.spotify.com/track/5riCAgpEpSfrYmwfHQfTI1"
     },
     {
       "album": {
@@ -10172,6 +10310,28 @@
       "duration_ms": 117539,
       "name": "Si Te Portas Bonito - Edit",
       "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "album": {
+        "name": "side by side (feat. Empress Of) [rebirth]",
+        "url": "https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "side by side (feat. Empress Of) [rebirth]",
+      "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
     },
     {
       "album": {

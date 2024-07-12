@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 179166,
       "name": "Cansao de to",
       "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Canicarchy The Animation",
+        "url": "https://open.spotify.com/album/7xuor3seMazG92AD7NAalX"
+      },
+      "artists": [
+        {
+          "name": "pistaxo",
+          "url": "https://open.spotify.com/artist/2n8otbnRCqoYXC2JXQzo1D"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132880,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/1fAE31fMpHsoQYRVxQdzuZ"
+    },
+    {
+      "album": {
         "name": "AAAaaahhhhh!!!!",
         "url": "https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq"
       },
@@ -1064,6 +1082,32 @@
       "duration_ms": 163636,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+    },
+    {
+      "album": {
+        "name": "Como Misa y Kira",
+        "url": "https://open.spotify.com/album/0nHMCY2HK6i8LfXK5uIH2t"
+      },
+      "artists": [
+        {
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
+        },
+        {
+          "name": "Sanju",
+          "url": "https://open.spotify.com/artist/6bYIsGX90Q8lPMeGRE28XD"
+        },
+        {
+          "name": "whitelxck",
+          "url": "https://open.spotify.com/artist/1dLGd3gjAIcrI4Qhd7YGBf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250857,
+      "name": "Como Misa y Kira",
+      "url": "https://open.spotify.com/track/1wmLjDZkC1i2Wmqjj4KlOQ"
     },
     {
       "album": {
@@ -2110,7 +2154,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 128231,
       "name": "FERRARI",
       "url": "https://open.spotify.com/track/6ATE1hAfyR5yOmPALVJkpv"
@@ -2251,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "G&G",
+        "url": "https://open.spotify.com/album/1PLa6ZKSdI9LxAyE07aR4s"
+      },
+      "artists": [
+        {
+          "name": "FADES",
+          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "G&G",
+      "url": "https://open.spotify.com/track/6lTPoWf2umuL8sDKTgBQtv"
+    },
+    {
+      "album": {
         "name": "GALAXIA",
         "url": "https://open.spotify.com/album/2Or5jNRIMSqTE6He3hZLPL"
       },
@@ -2350,7 +2412,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 197468,
       "name": "Girl!",
       "url": "https://open.spotify.com/track/17vLq7x19C5eMphdQNJDD5"
@@ -2778,7 +2840,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 147510,
       "name": "Im a Star",
       "url": "https://open.spotify.com/track/1As9E1SkTEgCyggNXDwjbB"
@@ -3054,7 +3116,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 190277,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/2ShIQZQ4vGT7HRq1oR2JtV"
@@ -3604,7 +3666,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 127964,
       "name": "mendigo del amor",
       "url": "https://open.spotify.com/track/1XMyrCA1M2u4ZqEGWGjZrn"
@@ -4530,7 +4592,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 204774,
       "name": "NUESTRA CASA",
       "url": "https://open.spotify.com/track/67jRVCpm1X9zRp5nM7RByR"
@@ -5166,7 +5228,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 116742,
       "name": "PRST1",
       "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
@@ -5366,7 +5428,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 137712,
       "name": "QU\u00c9 RICURA!",
       "url": "https://open.spotify.com/track/2jZit0mAWuJil3R8pkDCGT"
@@ -5798,7 +5860,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161888,
       "name": "SPIKY",
       "url": "https://open.spotify.com/track/0D8uyGIEigO4wxlyrF2PgQ"
@@ -6006,7 +6068,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 108292,
       "name": "Te ped\u00ed que me olvidaras",
       "url": "https://open.spotify.com/track/3DlNm2aNZUynTwHGIPba17"
@@ -6333,6 +6395,28 @@
     },
     {
       "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/4az71vJuMdpocSaBNveZKT"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        },
+        {
+          "name": "J Po",
+          "url": "https://open.spotify.com/artist/1eylOSU9FQOsH9NE5O6RQy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182763,
+      "name": "UN BESO Y UNA FLOR",
+      "url": "https://open.spotify.com/track/6G68K0h8qYOtu2nYzo9wmV"
+    },
+    {
+      "album": {
         "name": "EL TRUCO",
         "url": "https://open.spotify.com/album/1Xp2oUvdcyeb4KTIErNh37"
       },
@@ -6472,6 +6556,28 @@
       "duration_ms": 178949,
       "name": "waterpolo",
       "url": "https://open.spotify.com/track/2YPInvtnWL6R5nmxerrH6f"
+    },
+    {
+      "album": {
+        "name": "Waterproof",
+        "url": "https://open.spotify.com/album/4XbzE13TtlG1UXGI5WqXel"
+      },
+      "artists": [
+        {
+          "name": "R.C.R",
+          "url": "https://open.spotify.com/artist/2UOJnF6hw3NRzZpSwyaROl"
+        },
+        {
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159316,
+      "name": "Waterproof",
+      "url": "https://open.spotify.com/track/23tJwU8xTglG9BEJQR9s0C"
     },
     {
       "album": {
@@ -6744,7 +6850,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 123771,
       "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
       "url": "https://open.spotify.com/track/2dAlgjNcpogvpbs3H9MXXv"

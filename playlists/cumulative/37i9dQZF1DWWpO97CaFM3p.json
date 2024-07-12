@@ -240,7 +240,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
@@ -1860,6 +1860,24 @@
       "duration_ms": 59026,
       "name": "Flight Risk",
       "url": "https://open.spotify.com/track/5fXWYr3Cz4DqEz5mzHccKF"
+    },
+    {
+      "album": {
+        "name": "The Lumineers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31rem78oWvclOVx1KXBAuq"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110560,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/0Qi29hMhf8tIzDpa2BH9MV"
     },
     {
       "album": {

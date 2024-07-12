@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
@@ -1614,6 +1614,24 @@
       "duration_ms": 214615,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj"
+    },
+    {
+      "album": {
+        "name": "Ca$Erio en la Discotek - Rkt (Remix)",
+        "url": "https://open.spotify.com/album/3NZr49jk5QlBemRz1F72Tm"
+      },
+      "artists": [
+        {
+          "name": "ANGEL DJ OK",
+          "url": "https://open.spotify.com/artist/0EnD0nYxzXzM77mWk5GFmT"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137277,
+      "name": "Ca$Erio en la Discotek - Rkt - Remix",
+      "url": "https://open.spotify.com/track/7kmEDLEB18Nzc4mpgbuuTE"
     },
     {
       "album": {
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 235544,
       "name": "Es por ah\u00ed",
       "url": "https://open.spotify.com/track/1eBeFMu4pFcS07oX15kkLS"
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
@@ -6796,7 +6814,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -8670,6 +8688,28 @@
     {
       "album": {
         "name": "Malos Cantores",
+        "url": "https://open.spotify.com/album/7f1vAJoV6AHf5IeE69QHY6"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172001,
+      "name": "Sobredosis en Las Vegas",
+      "url": "https://open.spotify.com/track/6MWawJjqurQVe1r5DFlK6u"
+    },
+    {
+      "album": {
+        "name": "Malos Cantores",
         "url": "https://open.spotify.com/album/2UWzZetnP0F9U2Q6sgEy6n"
       },
       "artists": [
@@ -8684,7 +8724,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172001,
       "name": "Sobredosis en Las Vegas",
       "url": "https://open.spotify.com/track/78FKd9ERYRJQ7UKvRqnIeo"
@@ -8824,7 +8864,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"

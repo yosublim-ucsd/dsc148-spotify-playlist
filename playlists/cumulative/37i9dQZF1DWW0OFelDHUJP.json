@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Raintalk",
+        "url": "https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Raintalk",
+      "url": "https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF"
+    },
+    {
+      "album": {
         "name": "Ratiya",
         "url": "https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ"
       },

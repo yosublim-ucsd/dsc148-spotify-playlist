@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-274 songs - 16 hr 50 min
+276 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Descontrol](https://open.spotify.com/track/3NpKSELdAoaqvLzxfyv8mI) | [Rey Rata](https://open.spotify.com/artist/0DiBgHVIgP7uCL4ivSIFsA) | [Descontrol](https://open.spotify.com/album/1Vc3ArKvzOwNzd9udwgFFw) | 3:42 | 2023-04-28 | 2023-08-19 |
 | [Diamonds](https://open.spotify.com/track/76arnVYjWjOAHDyRCunKrI) | [Pixel Grip](https://open.spotify.com/artist/4NmxBuCBL7Y5nqxDawpYKW) | [Heavy Handed](https://open.spotify.com/album/3melhf7QbTrTpJgzOrhbgQ) | 5:06 | 2023-02-09 | 2023-02-24 |
 | [Die World](https://open.spotify.com/track/3ZLFDPE35lm04kHyJEfkLV) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [The World Is Getting Colder](https://open.spotify.com/album/4IJBHdhLNFx7UC1AXsXJAO) | 4:33 | 2023-08-31 | 2024-03-20 |
+| [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-11 |  |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:29 | 2024-02-16 |  |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 | 2023-02-09 | 2024-04-19 |
 | [Distance](https://open.spotify.com/track/4jU6Vuq0e1KSc1vOAKL3k2) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Distance](https://open.spotify.com/album/2snog7U5uihIur22blJwwg) | 3:29 | 2023-08-31 | 2024-03-06 |
@@ -114,6 +115,7 @@
 | [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 | 2020-12-21 |  |
 | [Himn](https://open.spotify.com/track/2lQjnkrYoq4wWHOe9NQZcN) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Ahida](https://open.spotify.com/album/76X4TuJzAdvVGYsomfpDi7) | 3:30 | 2023-02-21 | 2023-03-25 |
 | [Holod](https://open.spotify.com/track/3uuZgHc57MBoBchsETeecJ) | [Super Besse](https://open.spotify.com/artist/6bcE5jaMjqBXy1bwH8KdR0) | [63610\*](https://open.spotify.com/album/4M6aZ41q3nWcfgVn1Q6buu) | 4:52 | 2020-12-21 | 2023-02-10 |
+| [Holy Ghost](https://open.spotify.com/track/7CYzSfN0VUzM2BuDsOivtz) | [Pleasure Nature](https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ) | [Nightmare State / Television Choir](https://open.spotify.com/album/0wF2jadXWC7KPV02HWrbSx) | 3:55 | 2024-07-11 |  |
 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 | 2023-02-09 | 2023-09-01 |
 | [How to Slow a Dream](https://open.spotify.com/track/5IQ1lVitMg6YCNAH3EgOtL) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [How to Slow a Dream](https://open.spotify.com/album/0LCWCiU903ZdIXXwaE2iTh) | 2:57 | 2023-09-14 |  |
 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/7JTzj9gEIpvjWv9Jc3ph9B) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/1bgHm9Y97Th2cUuWhCJ5ip) | 4:11 | 2024-01-11 | 2024-04-19 |
@@ -177,7 +179,7 @@
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2020-12-21 |  |
 | [No Me Quedo Quieto](https://open.spotify.com/track/5a6CjjQM0CGprOWWrqMi7j) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Cómo Escapar de Nuestra Sombra](https://open.spotify.com/album/33wH7GK3ypW6C9nSpE6HGX) | 3:27 | 2023-01-06 | 2024-06-08 |
 | [Nochnoe Randevu](https://open.spotify.com/track/3uf2do7Q44YhIP2DldU45I) | [Chernikovskaya Hata](https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV) | [Nochnoe Randevu](https://open.spotify.com/album/5bVGp87NmKBmZ7qtubjiKV) | 3:28 | 2020-12-21 | 2023-06-30 |
-| [Nostalgic Dreams](https://open.spotify.com/track/6dK0pi0CMTkOzvWGPDCv4h) | [Television Memories](https://open.spotify.com/artist/4wXwTEW3wxfaZETwH2VW84) | [Nostalgic Dreams](https://open.spotify.com/album/21HP9KqTlmhvbL5WljGpKS) | 3:04 | 2023-11-30 |  |
+| [Nostalgic Dreams](https://open.spotify.com/track/6dK0pi0CMTkOzvWGPDCv4h) | [Television Memories](https://open.spotify.com/artist/4wXwTEW3wxfaZETwH2VW84) | [Nostalgic Dreams](https://open.spotify.com/album/21HP9KqTlmhvbL5WljGpKS) | 3:04 | 2023-11-30 | 2024-07-12 |
 | [nothing but evil](https://open.spotify.com/track/45lvbsupGAERB6DR8EDJ1m) | [Astrophysics](https://open.spotify.com/artist/5ho2IoSxmjGkX2eFOLY64T) | [nothing but evil](https://open.spotify.com/album/7FaPSxIF2I4xVploe4mGIu) | 4:09 | 2023-08-05 | 2023-12-12 |
 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 | 2020-12-21 | 2023-04-09 |
 | [Only Human](https://open.spotify.com/track/0SZCVG64kopl8QwXiFHUPB) | [Cold Showers](https://open.spotify.com/artist/101BwjqEzjeBNjiYDnLZwC) | [Matter of Choice](https://open.spotify.com/album/473EnwpDsDw4wiNMiQWBSe) | 3:42 | 2023-08-31 |  |
@@ -254,7 +256,7 @@
 | [Will I Ever Find Love?](https://open.spotify.com/track/4Fmm1Zq5dEjbDFjku8F3U0) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Will I Ever Find Love?](https://open.spotify.com/album/1fecgqTKMitrd73YmkxKsb) | 3:52 | 2023-08-31 | 2024-03-06 |
 | [Worst Way](https://open.spotify.com/track/5N517sy8DmxfeXrm5ZxMpg) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Worst Way](https://open.spotify.com/album/6oAeyTReEk0aU9Ih8uZAp1) | 2:18 | 2023-02-21 | 2023-03-25 |
 | [Your Master is calling](https://open.spotify.com/track/0TXfAQ5ohVQPzt4Mrr5azG) | [Pink Turns Blue](https://open.spotify.com/artist/47oP5alMot58ggzcFwldky) | [Meta](https://open.spotify.com/album/7fSBShSLe5Glx6sifNLdJF) | 7:43 | 2023-02-09 | 2023-07-26 |
-| [Youth Cults](https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Rites and Ritual](https://open.spotify.com/album/4NDIlGZ27FqVY5zxe3tttf) | 2:52 | 2023-08-31 |  |
+| [Youth Cults](https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Rites and Ritual](https://open.spotify.com/album/4NDIlGZ27FqVY5zxe3tttf) | 2:52 | 2023-08-31 | 2024-07-12 |
 | [Ад из красных цветов](https://open.spotify.com/track/4RHACsDiaLAMlM7zDvnaia) | [Англия](https://open.spotify.com/artist/6X8VxKH2Msq7yvJDr9uVmE) | [Тепло от холодных рук](https://open.spotify.com/album/29YXOdSAevuCOxGVrkinmu) | 3:38 | 2020-12-21 | 2023-02-10 |
 | [Алкоголь мой враг](https://open.spotify.com/track/3w9cGIYBC12SoepuHUaV19) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR) | [505 \(Deluxe\)](https://open.spotify.com/album/3KY1gWySaFXOmWImcN7vLm) | 2:47 | 2020-12-21 | 2023-05-23 |
 | [Валюты обеих стран](https://open.spotify.com/track/1ZqZxQHUlPVZKZ1qFqOowq) | [Sierpien](https://open.spotify.com/artist/0pGg6NMyCRFkT1NLQPpvLr) | [Смердит до самых звёзд](https://open.spotify.com/album/2ncKiBUXXYgYOPxiicVSmB) | 2:39 | 2020-12-21 | 2023-02-10 |

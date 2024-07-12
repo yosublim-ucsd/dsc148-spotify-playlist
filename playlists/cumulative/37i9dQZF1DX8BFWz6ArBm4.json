@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Aspa",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 192480,
       "name": "Akou Logia",
       "url": "https://open.spotify.com/track/7k37XdNywAXfhJwYXtB2Lf"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 163548,
       "name": "Ay Ay (Magissa)",
       "url": "https://open.spotify.com/track/3QwDFpWlJ0tuaj1fG1K0Rc"
@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Eimai Gunaika",
+        "url": "https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162777,
+      "name": "Eimai Gunaika",
+      "url": "https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ"
+    },
+    {
+      "album": {
         "name": "Ekptotos Aggelos",
         "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
       },
@@ -336,6 +358,36 @@
       "duration_ms": 240000,
       "name": "Evaisthisies",
       "url": "https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW"
+    },
+    {
+      "album": {
+        "name": "Exeis Ta Matia 2024",
+        "url": "https://open.spotify.com/album/7lXjuneALZsQQfsfaKdiwH"
+      },
+      "artists": [
+        {
+          "name": "Thelxi",
+          "url": "https://open.spotify.com/artist/7s6h5FkIxQL153eAozGzM7"
+        },
+        {
+          "name": "Ayman",
+          "url": "https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166764,
+      "name": "Exeis Ta Matia 2024",
+      "url": "https://open.spotify.com/track/6o9Zntn1IUDML3m45AwKp0"
     },
     {
       "album": {
@@ -420,6 +472,28 @@
       "duration_ms": 211998,
       "name": "I Gineka Tis Zois Sou",
       "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
+    },
+    {
+      "album": {
+        "name": "Kalokeri",
+        "url": "https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul"
+      },
+      "artists": [
+        {
+          "name": "Natasa Theodoridou",
+          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241280,
+      "name": "Kalokeri",
+      "url": "https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp"
     },
     {
       "album": {
@@ -964,7 +1038,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 215368,
       "name": "Ti Na Peis",
       "url": "https://open.spotify.com/track/7BpqJAZPhr1UZeUAXj5tM5"

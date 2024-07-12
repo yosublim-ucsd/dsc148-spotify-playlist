@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Sexy Zebras.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Biznaga.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 191428,
       "name": "5 meses",
       "url": "https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o"
@@ -38,6 +38,24 @@
       "duration_ms": 240031,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
+    },
+    {
+      "album": {
+        "name": "Al Amanecer",
+        "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191617,
+      "name": "Al Amanecer",
+      "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
     },
     {
       "album": {
@@ -352,7 +370,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 206280,
       "name": "Diciendo que Me Quieres",
       "url": "https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL"
@@ -594,7 +612,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 140487,
       "name": "FATAL, GRACIAS",
       "url": "https://open.spotify.com/track/074wAQGPvi3hOFzwsA94yE"
@@ -663,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Imaginaci\u00f3n pol\u00edtica",
+        "url": "https://open.spotify.com/album/205R6tg1Own5Q9LAAE0lMA"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204154,
+      "name": "Imaginaci\u00f3n pol\u00edtica",
+      "url": "https://open.spotify.com/track/6wG01AZ6GnIEPNd1s9VBh8"
+    },
+    {
+      "album": {
         "name": "Joderse La Vida",
         "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
       },
@@ -678,6 +714,24 @@
       "duration_ms": 165838,
       "name": "Joderse La Vida",
       "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
+    },
+    {
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
     },
     {
       "album": {
@@ -1144,7 +1198,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 137237,
       "name": "Nacho Fern\u00e1ndez",
       "url": "https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k"
@@ -1559,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Si Piensas En M\u00ed",
+        "url": "https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244146,
+      "name": "Si Piensas en M\u00ed",
+      "url": "https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp"
+    },
+    {
+      "album": {
         "name": "Repion",
         "url": "https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R"
       },
@@ -1812,7 +1884,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 201346,
       "name": "UN PALACIO CON MIS HUESOS",
       "url": "https://open.spotify.com/track/2Khm1TiPetapBlVoy5e5hS"
@@ -1924,6 +1996,28 @@
       "duration_ms": 190894,
       "name": "Ya Sale El Sol",
       "url": "https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms"
+    },
+    {
+      "album": {
+        "name": "Yo pensaba que me hab\u00eda tocado Dios",
+        "url": "https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206099,
+      "name": "Yo pensaba que me hab\u00eda tocado Dios",
+      "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 163600,
+  "num_followers": 163626,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "from JAPAN 2",
         "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
         }
       ],
-      "duration_ms": 248924,
-      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -899,6 +883,22 @@
       "duration_ms": 233974,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 248924,
+      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -955,22 +955,6 @@
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
         "name": "Glitter Eyes (feat. mindfreakkk)",
         "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "\u604b\u6a19",
-        "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 212418,
-      "name": "\u604b\u6a19",
-      "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 205253,
       "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
       "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "\u604b\u6a19",
+        "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 212418,
+      "name": "\u604b\u6a19",
+      "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "MAGNET",
-        "url": "https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "snow love",
         "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
@@ -1335,34 +1319,18 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
+        "name": "MAGNET",
+        "url": "https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr"
       },
       "artists": [
         {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+      "duration_ms": 221040,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1387,18 +1355,18 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1419,6 +1387,22 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
         "name": "AURORA TOKIO",
         "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "STEP IT",
-        "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "STEP IT",
-      "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "Summer Ghost",
         "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 222255,
       "name": "Summer Ghost",
       "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "STEP IT",
+        "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "STEP IT",
+      "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "\u8003\u3048\u4e2d",
-        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "\u8003\u3048\u4e2d",
-      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
         "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "\u8003\u3048\u4e2d",
+        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "\u8003\u3048\u4e2d",
+      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "\u3061\u304c\u3046",
-        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
-      },
-      "artists": [
-        {
-          "name": "Maharajan",
-          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "eden",
-      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "\u3061\u304c\u3046",
+        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
+      },
+      "artists": [
+        {
+          "name": "Maharajan",
+          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "eden",
+      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
     },
     {
       "added_at": "2024-07-03 00:42:25",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-03 00:42:25",
       "album": {
-        "name": "MAGIC HOUR ~Lovers at Dusk~",
-        "url": "https://open.spotify.com/album/3yjh0vKwNzMgFE4l93IWtT"
-      },
-      "artists": [
-        {
-          "name": "\u89d2\u677e \u654f\u751f",
-          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Magic Hour",
-      "url": "https://open.spotify.com/track/2k5vtnSBpNQm1DS3VZB6Bf"
-    },
-    {
-      "added_at": "2024-07-03 00:42:25",
-      "album": {
         "name": "Play The Game",
         "url": "https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 206433,
       "name": "Play The Game",
       "url": "https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg"
+    },
+    {
+      "added_at": "2024-07-03 00:42:25",
+      "album": {
+        "name": "FEEL GOOD",
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 305760,
+      "name": "LOOP",
+      "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

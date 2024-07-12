@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Rue Diego in cover.
+> Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
 351 songs - 16 hr 16 min
 

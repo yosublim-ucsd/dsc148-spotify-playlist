@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 207096,
       "name": "Kiss Me in the Morning",
       "url": "https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 176086,
       "name": "Mi Mundo",
       "url": "https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT"
@@ -890,6 +890,24 @@
       "duration_ms": 237680,
       "name": "Milchstrass (feat. Aaron Asteria)",
       "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
+    },
+    {
+      "album": {
+        "name": "NEW FRIENDS",
+        "url": "https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y"
+      },
+      "artists": [
+        {
+          "name": "Skyler Wind",
+          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173183,
+      "name": "NEW FRIENDS",
+      "url": "https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf"
     },
     {
       "album": {

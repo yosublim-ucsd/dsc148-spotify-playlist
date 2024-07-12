@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 86680,
+  "num_followers": 86741,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+        "name": "La Cadena",
+        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Los Morros Del Norte",
+          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Macario Leyva",
-      "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
+      "duration_ms": 174693,
+      "name": "La Botella (Dos Botellas De Mescal)",
+      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "La Cadena",
-        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
       "artists": [
         {
-          "name": "Los Morros Del Norte",
-          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 174693,
-      "name": "La Botella (Dos Botellas De Mescal)",
-      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
+      "duration_ms": 199333,
+      "name": "Macario Leyva",
+      "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "Narco Corridos",
+        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 300440,
+      "name": "Entre Perico Y Perico",
+      "url": "https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "Nieves De Enero",
         "url": "https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 208956,
       "name": "Anastasio Pacheco",
       "url": "https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "Narco Corridos",
-        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 300440,
-      "name": "Entre Perico Y Perico",
-      "url": "https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "Narco Corridos",
+        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "La Fiesta De Los Perrones",
+      "url": "https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 194653,
       "name": "El Ultimo Contrabando",
       "url": "https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "Narco Corridos",
-        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "La Fiesta De Los Perrones",
-      "url": "https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "14 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "El More\u00f1o",
-      "url": "https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
         "name": "Chevrolet 4 X 4",
         "url": "https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 271426,
       "name": "Contrabando En Los Huevos",
       "url": "https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
+        "name": "14 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "El More\u00f1o",
+      "url": "https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
-        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 198026,
-      "name": "la carga blanca",
-      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
+      "duration_ms": 218044,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
+        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
+        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 218044,
-      "name": "Los Tequileros",
-      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
+      "duration_ms": 198026,
+      "name": "la carga blanca",
+      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "Amor Y L\u00e1grimas",
-        "url": "https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 171665,
-      "name": "Ya Me Voy",
-      "url": "https://open.spotify.com/track/0JIvmxgwraNFHksIj81CFG"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
         "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
         "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 146213,
       "name": "Luis Pulido",
       "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 171665,
+      "name": "Ya Me Voy",
+      "url": "https://open.spotify.com/track/0JIvmxgwraNFHksIj81CFG"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "Te Vengo A Ver... Con Banda Sinaloense",
+        "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Misa de Cuerpo Presente",
+      "url": "https://open.spotify.com/track/3TQb4FBJq97WEnL62VHpwl"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "20 Exitos de Coleccion las Tres Mujeres",
         "url": "https://open.spotify.com/album/3b54hAhWMtyTyGsHUy6rXR"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 164080,
       "name": "El Barzon",
       "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "Te Vengo A Ver... Con Banda Sinaloense",
-        "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 181463,
-      "name": "Misa de Cuerpo Presente",
-      "url": "https://open.spotify.com/track/3TQb4FBJq97WEnL62VHpwl"
     }
   ],
   "unique_name": "We Love Corridos Viejitos ",

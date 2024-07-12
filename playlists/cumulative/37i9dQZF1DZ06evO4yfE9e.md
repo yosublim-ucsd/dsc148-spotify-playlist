@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This is bludnymph\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
+> This is bludnymph\. The essential tracks, all in one playlist.
 
 23 songs - 58 min 25 sec
 

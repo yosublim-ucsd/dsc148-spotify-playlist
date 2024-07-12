@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 195616,
       "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
       "url": "https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F"
@@ -5476,6 +5476,24 @@
       "duration_ms": 186933,
       "name": "Tattoo Waaliye (From \"Bunty Aur Babli 2\")",
       "url": "https://open.spotify.com/track/64A2hIKsAtwgfYSDTtX0j4"
+    },
+    {
+      "album": {
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
     },
     {
       "album": {

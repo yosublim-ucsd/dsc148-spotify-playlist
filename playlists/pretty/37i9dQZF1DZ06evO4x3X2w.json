@@ -1,12 +1,12 @@
 {
-  "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 684836,
+  "description": "This Is Aerosmith. Los temas esenciales, todos en una lista.",
+  "num_followers": 684952,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAABXHLFTBB0mA5rjGa3EjvLJ",
+  "snapshot_id": "Zo3PAAAAAAALZlmQPSJuXT+npZ31V/Hz",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Dude (Looks Like A Lady)",
+      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Push Play",
         "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 215823,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6uhj7EIZZm3OwVr0gWfkQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 235473,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 235473,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Push Play",
         "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 370410,
-      "name": "Hole In My Soul",
-      "url": "https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -183,6 +183,38 @@
       "duration_ms": 265693,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 355915,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 370410,
+      "name": "Hole In My Soul",
+      "url": "https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj"
     },
     {
       "added_at": null,
@@ -775,38 +807,6 @@
       "duration_ms": 338958,
       "name": "Seasons of Wither",
       "url": "https://open.spotify.com/track/0SsvUArQazkyJjXINv4Wnl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocks",
-        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 252115,
-      "name": "Sick As A Dog",
-      "url": "https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220544,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/27wIGYEnb2I2oS9Wl6QdVY"
     }
   ],
   "unique_name": "This Is Aerosmith",

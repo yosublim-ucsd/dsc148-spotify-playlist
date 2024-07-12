@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 76535,
+  "num_followers": 76577,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Palco",
-      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
         "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 214866,
       "name": "Na Estrada",
       "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Palco",
+      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+      },
+      "artists": [
+        {
+          "name": "Joutro Mundo",
+          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Nao Force",
+      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Cole\u00e7\u00e3o Nacional",
         "url": "https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 237426,
       "name": "Cabe\u00e7a de N\u00eago",
       "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Joutro Mundo",
-          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Nao Force",
-      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Feiti\u00e7o Caboclo",
-        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
+        "name": "Mudei de Ideia",
+        "url": "https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw"
       },
       "artists": [
         {
-          "name": "Dona Onete",
-          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
         }
       ],
-      "duration_ms": 267120,
-      "name": "Jamburana",
-      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
+      "duration_ms": 141800,
+      "name": "Kabaluere",
+      "url": "https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1119,34 +1119,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Mudei de Ideia",
-        "url": "https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw"
+        "name": "Feiti\u00e7o Caboclo",
+        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
       },
       "artists": [
         {
-          "name": "Antonio Carlos & Jocafi",
-          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+          "name": "Dona Onete",
+          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
         }
       ],
-      "duration_ms": 141800,
-      "name": "Kabaluere",
-      "url": "https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Swing da Cor",
-      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
+      "duration_ms": 267120,
+      "name": "Jamburana",
+      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1163,6 +1147,22 @@
       "duration_ms": 266200,
       "name": "Grito de Paz",
       "url": "https://open.spotify.com/track/7iXUWrP4u5N9S038vzMCWL"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Swing da Cor",
+      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
       "added_at": "2022-09-22 18:13:04",

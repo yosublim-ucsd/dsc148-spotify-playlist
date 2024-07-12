@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Nonaria",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1116,6 +1116,24 @@
       "duration_ms": 177658,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN"
+    },
+    {
+      "album": {
+        "name": "Dengarkanlah Radio",
+        "url": "https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4"
+      },
+      "artists": [
+        {
+          "name": "NonaRia",
+          "url": "https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Donny",
+      "url": "https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 ### [Top Christian Contemporary](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:3vcFXwLEUdfWMu7gTQKyot">Steven Curtis Chapmam</a>
+> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:3vcFXwLEUdfWMu7gTQKyot">Steven Curtis Chapman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,983 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,073 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 49 | [The Unbelievable](https://open.spotify.com/track/4CZuzmQZMpq6VZDeis8Fay) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY) | [The Unbelievable](https://open.spotify.com/album/5w1qV2BG7ZV9jjYddgUrAz) | 3:31 |
 | 50 | [Be Ready](https://open.spotify.com/track/3THF58ndjL9QZhepppzSSo) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Be Ready](https://open.spotify.com/album/3fgejV7AHCBiaMNa2ANzqo) | 2:49 |
 
-Snapshot ID: `Zn5k5AAAAABG0FkQYQCDY2y1fbP65AFB`
+Snapshot ID: `Zo9tuwAAAAC0Nm7AbTyaMMqqgZ4LNk2i`

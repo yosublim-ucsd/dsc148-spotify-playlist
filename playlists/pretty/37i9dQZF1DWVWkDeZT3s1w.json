@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 101625,
+  "num_followers": 101663,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Ahora o Nunca",
-        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
+        "name": "Lastima",
+        "url": "https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05"
       },
       "artists": [
         {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
         }
       ],
-      "duration_ms": 373407,
-      "name": "En Defensa Propia",
-      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
+      "duration_ms": 223290,
+      "name": "Lastima",
+      "url": "https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -411,22 +415,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Lastima",
-        "url": "https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05"
+        "name": "Ahora o Nunca",
+        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
       },
       "artists": [
         {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Selected Music",
-          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
         }
       ],
-      "duration_ms": 223290,
-      "name": "Lastima",
-      "url": "https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv"
+      "duration_ms": 373407,
+      "name": "En Defensa Propia",
+      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 276307,
+      "name": "Singular (feat. El Chojin)",
+      "url": "https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Amor Puro (feat. La Banda Baston)",
         "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 215373,
       "name": "Amor Puro (feat. La Banda Baston)",
       "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 276307,
-      "name": "Singular (feat. El Chojin)",
-      "url": "https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
-      },
-      "artists": [
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Merced",
-      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "LA VIDA ES TAN DURA",
         "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Merced",
+      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1207,26 +1207,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
       "artists": [
         {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
         },
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        },
-        {
-          "name": "Dj Perez",
-          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 183013,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1247,22 +1243,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
       },
       "artists": [
         {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
         },
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        },
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
+      "duration_ms": 183013,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "El Mundo en Abstinencia",
-        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
-      },
-      "artists": [
-        {
-          "name": "La Era de Gomes",
-          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "\u00bfPor Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Nosotras Tenemos Otros Datos",
         "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 201290,
       "name": "Nosotras Tenemos Otros Datos",
       "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "El Mundo en Abstinencia",
+        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
+      },
+      "artists": [
+        {
+          "name": "La Era de Gomes",
+          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Pu\u00f1o en alto",
-        "url": "https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo"
-      },
-      "artists": [
-        {
-          "name": "Se Arm\u00f3 Kokoa",
-          "url": "https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
-        }
-      ],
-      "duration_ms": 247350,
-      "name": "Pu\u00f1o en alto",
-      "url": "https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 203909,
       "name": "Helarte",
       "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Pu\u00f1o en alto",
+        "url": "https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo"
+      },
+      "artists": [
+        {
+          "name": "Se Arm\u00f3 Kokoa",
+          "url": "https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
+        }
+      ],
+      "duration_ms": 247350,
+      "name": "Pu\u00f1o en alto",
+      "url": "https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Dictamen",
-        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Dictamen",
-      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Flow Leyenda",
         "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 194042,
       "name": "Flow Leyenda",
       "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Dictamen",
+        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Dictamen",
+      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
     },
     {
       "added_at": "2024-06-21 06:01:00",

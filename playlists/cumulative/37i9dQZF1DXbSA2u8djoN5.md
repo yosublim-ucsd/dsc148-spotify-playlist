@@ -2,7 +2,7 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: M.G.L, Erika Isac
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Mgk666
 
 55 songs - 2 hr 38 min
 

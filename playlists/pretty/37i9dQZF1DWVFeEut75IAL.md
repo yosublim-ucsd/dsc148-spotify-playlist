@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,094 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,450 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 26 | [PROLOGUE \(Quasi Niente from Piano Sonata No\. 1 in F Minor, Op\. 6: IV\. Funebre\) \- Upright Version](https://open.spotify.com/track/2S4CBHdoNjOuxItsfYaUEu) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin: PROLOGUE \(Quasi Niente from Piano Sonata No\. 1 in F Minor, Op\. 6: IV\. Funebre\)](https://open.spotify.com/album/40uKc91V4ROdSwiArLeW2F) | 1:30 |
 | 27 | [A Little Book of Hours: VI\. Singing Sun](https://open.spotify.com/track/3WXj9zWNL8X03WiC1muLZ6) | [Peter Sculthorpe](https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J), [Elena Riu](https://open.spotify.com/artist/2Jhg4utIpCsER3JKSUnF7F) | [Piano Icons for the 21st Century](https://open.spotify.com/album/22I1sZRP58rrFPBwQxK2JL) | 1:43 |
 | 28 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 |
-| 29 | [II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 |
+| 29 | [wind whispers, Op\. 85: II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 |
 | 30 | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09) | 3:15 |
 | 31 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 |
 | 32 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/6koKpSfGUDeLrHs1hCPL1P) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/05aHw1XdMAC7pAZmdRsPzs) | 2:59 |

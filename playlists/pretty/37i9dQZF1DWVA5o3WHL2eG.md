@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Y'akoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,490 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,487 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [You Owe Me](https://open.spotify.com/track/5kwwsfTyavPnE8LfZ4Rnq9) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [You Owe Me](https://open.spotify.com/album/1Axb1g9uXragyykWBri2Hy) | 2:13 |
 | 9 | [Für Änni](https://open.spotify.com/track/2SzmmYnKKL5pWPHRgWupQo) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Für Änni](https://open.spotify.com/album/3t5DHNbBQJXivcpotynFdp) | 3:10 |
 | 10 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
-| 11 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 |
-| 12 | [extras](https://open.spotify.com/track/49dsnznVKLZwYJOhGEGRA2) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:29 |
+| 11 | [extras](https://open.spotify.com/track/49dsnznVKLZwYJOhGEGRA2) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:29 |
+| 12 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 |
 | 13 | [Klappstuhl am See](https://open.spotify.com/track/3HZg6HgyWgSgi3lVJoq3pp) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Alles oder Nichts](https://open.spotify.com/album/10DmYqYnC1qpaSKeKx2ef8) | 2:13 |
 | 14 | [Woman](https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Woman](https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3) | 2:10 |
 | 15 | [Come Down to the River](https://open.spotify.com/track/3vcHVC4FRw40udBfSTojqs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Moody Blues](https://open.spotify.com/album/5dVDpmBMOCCdLoo07G2JNC) | 3:41 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Mad](https://open.spotify.com/track/1XADbL6VwPL1rqXBVOszfG) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mad](https://open.spotify.com/album/24Liy9BnSbQPWQoGncnGCE) | 3:22 |
 | 31 | [AREA CODES](https://open.spotify.com/track/6E3ZYtO2r8DZEHlSlvXOjI) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [AREA CODES](https://open.spotify.com/album/2ilAU5T7UcLW9iz3oRBMtb) | 2:40 |
 | 32 | [Gravity](https://open.spotify.com/track/1qQwPQAic8RU32iuPwVcCJ) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Gravity](https://open.spotify.com/album/5wcJqzjLklt8LgUeCWIibI) | 2:32 |
-| 33 | [Der Blick / Dein Herz ist zu](https://open.spotify.com/track/398X3qX9xuvuPuaXODYnBr) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Der Blick / Dein Herz ist zu](https://open.spotify.com/album/07WtXAuOvj44EZLaPcOzRl) | 2:21 |
-| 34 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
+| 33 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
+| 34 | [Der Blick / Dein Herz ist zu](https://open.spotify.com/track/398X3qX9xuvuPuaXODYnBr) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Der Blick / Dein Herz ist zu](https://open.spotify.com/album/07WtXAuOvj44EZLaPcOzRl) | 2:21 |
 | 35 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 |
 | 36 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 |
 | 37 | [What's Good](https://open.spotify.com/track/655afr1nexUYljRZzlB64D) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [What's Good](https://open.spotify.com/album/3YLIB4TbUC73jhq8fhNmfU) | 2:43 |
-| 38 | [Mic Check \(Boomerang\)](https://open.spotify.com/track/1sm4d41wnhIcFSOKr0Rd9I) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [Mic Check \(Boomerang\)](https://open.spotify.com/album/4Z6swtt0kdqgkInJzksVGx) | 2:27 |
-| 39 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 38 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 39 | [Mic Check \(Boomerang\)](https://open.spotify.com/track/1sm4d41wnhIcFSOKr0Rd9I) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [Mic Check \(Boomerang\)](https://open.spotify.com/album/4Z6swtt0kdqgkInJzksVGx) | 2:27 |
 | 40 | [wir trafen uns in einem garten](https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [wir trafen uns in einem garten](https://open.spotify.com/album/58Ew6pCPqw2w2eYYGI2waN) | 2:58 |
 | 41 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 |
 | 42 | [Baby Spice](https://open.spotify.com/track/46PoRiYSTG4xbnl3MGbjYh) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Baby Spice](https://open.spotify.com/album/6yg7SgVkrfKlx6R9ABYzjF) | 1:57 |

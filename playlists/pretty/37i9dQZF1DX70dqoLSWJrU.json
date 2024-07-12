@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 79788,
+  "num_followers": 79818,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
         "name": "Cheek To Cheek (Deluxe)",
         "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 244080,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Baby, Don't You Cry",
+      "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 262000,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Baby, Don't You Cry",
-      "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
+        "name": "Crazy And Mixed Up",
+        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 505493,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/0W5Szvf48ubKfPvgsZIEZ6"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD"
+        "name": "The Essential Doris Day",
+        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Les Brown & His Orchestra",
+          "url": "https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX"
         }
       ],
-      "duration_ms": 198360,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo"
+      "duration_ms": 184253,
+      "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
+      "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1307,22 +1311,18 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "The Essential Doris Day",
-        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Les Brown & His Orchestra",
-          "url": "https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 184253,
-      "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
-      "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
+      "duration_ms": 198360,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1355,26 +1355,6 @@
       "duration_ms": 183986,
       "name": "There's No Such Thing As Love",
       "url": "https://open.spotify.com/track/2YsnPlou8g7xdKDCguDOYc"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
         "name": "Swedish Sensation",
         "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Night Lights (Remastered 2001)",
-        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Too Young To Go Steady - Remastered 2001",
-      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
         "name": "Sonya Hedenbratt 1951 - 1956",
         "url": "https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 165413,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
+        "name": "Night Lights (Remastered 2001)",
+        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "Too Young To Go Steady - Remastered 2001",
+      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Smooth Songs",
-        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
+        "name": "How Could You",
+        "url": "https://open.spotify.com/album/0qY5Zfzo9OyXobt1JJgSKH"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
         }
       ],
-      "duration_ms": 216790,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+      "duration_ms": 293119,
+      "name": "How Could You",
+      "url": "https://open.spotify.com/track/5bXjwGL7zwsokVQHN8hhLh"
     }
   ],
   "unique_name": "Heartbreak Jazz",

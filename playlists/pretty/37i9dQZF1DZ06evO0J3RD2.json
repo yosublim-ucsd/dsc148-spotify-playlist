@@ -1,12 +1,12 @@
 {
-  "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 6915,
+  "description": "This is Movements. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 6938,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAADsYk96lCBhtzKBiAmCGXqS",
+  "snapshot_id": "Zo3PAAAAAACaiSUR+qPhNq8afirBsDvc",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 204786,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
+      "duration_ms": 220373,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+      "duration_ms": 204786,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
     },
     {
       "added_at": null,

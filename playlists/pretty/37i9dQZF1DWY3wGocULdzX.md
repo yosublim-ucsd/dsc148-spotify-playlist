@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,656 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,686 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 35 | [Aprende a Querer](https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID) | [Latin Cool Classics: Orlando Marin](https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C) | 5:26 |
 | 36 | [Mama Guela](https://open.spotify.com/track/3l2dxZWkOLCB64MfK3Yo2J) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Anthology](https://open.spotify.com/album/4CA9kK3WW46Jyq2dFf2a6v) | 2:42 |
 | 37 | [Yo No Soy Guapo](https://open.spotify.com/track/4rVA2fijppCGmQOjSnBDxA) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Ep](https://open.spotify.com/album/0EU0TpYrF3AJCLCmBE59dz) | 5:05 |
-| 38 | [Patricia](https://open.spotify.com/track/5CCPvgI84fsWAbO7uMZnG1) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:21 |
+| 38 | [Mambo Infierno](https://open.spotify.com/track/5n2jPODsYeEhisZ7ELqYUM) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/23wAEElHdElCQP9UWIMSKF) | 2:51 |
 | 39 | [Mambo Is Here to Stay](https://open.spotify.com/track/3NrVV0aTz1g2LNjucnWxMt) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Perlas Cubanas: Machito](https://open.spotify.com/album/6wvG0RnL3WVxvD74ekA0YA) | 2:59 |
-| 40 | [Mambo Infierno](https://open.spotify.com/track/5n2jPODsYeEhisZ7ELqYUM) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/23wAEElHdElCQP9UWIMSKF) | 2:51 |
-| 41 | [Rico Vacilon](https://open.spotify.com/track/2VrhIGVNJkzLwLQL0yCXrg) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [The Collection](https://open.spotify.com/album/2YL9K2EiAXuTy2axi9mZKL) | 2:44 |
-| 42 | [Separala Tambien](https://open.spotify.com/track/5eok99TWxCCskPsK9p3jI9) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Separala Tambien! Cantando Tito Rodriguez](https://open.spotify.com/album/76MKCcPx39MzFBXoBDygQa) | 2:41 |
+| 40 | [Rico Vacilon](https://open.spotify.com/track/2VrhIGVNJkzLwLQL0yCXrg) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [The Collection](https://open.spotify.com/album/2YL9K2EiAXuTy2axi9mZKL) | 2:44 |
+| 41 | [Separala Tambien](https://open.spotify.com/track/5eok99TWxCCskPsK9p3jI9) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Separala Tambien! Cantando Tito Rodriguez](https://open.spotify.com/album/76MKCcPx39MzFBXoBDygQa) | 2:41 |
+| 42 | [Patricia](https://open.spotify.com/track/5CCPvgI84fsWAbO7uMZnG1) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:21 |
 | 43 | [La Guarachera](https://open.spotify.com/track/3cSDem58zQegVmYCBEQgnL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Fania Classics](https://open.spotify.com/album/5ZWa8mkn4xiKkF2iVDbWX9) | 2:44 |
 | 44 | [Azucar](https://open.spotify.com/track/1t7RAMd4UTk7ZV6d2bsht8) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [El Virtuoso](https://open.spotify.com/album/0dXASdxVKVkeHjrAnVgDdX) | 9:34 |
 | 45 | [Asia Minor](https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Latin Lounge Jazz Harlem](https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke) | 3:01 |

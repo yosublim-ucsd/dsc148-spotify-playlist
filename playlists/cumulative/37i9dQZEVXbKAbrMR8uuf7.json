@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "11-11",
+        "url": "https://open.spotify.com/album/1447L2MFgXrmbAEuqZXshg"
+      },
+      "artists": [
+        {
+          "name": "Shadow White",
+          "url": "https://open.spotify.com/artist/4M4zaGdtS4UDeQtlBCCabo"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "11-11",
+      "url": "https://open.spotify.com/track/1bwIM2pDjJ4MSqozQPkzCR"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -444,6 +462,24 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/3NjwPQSx7x5lAvunzKmwmW"
+      },
+      "artists": [
+        {
+          "name": "El Kenn",
+          "url": "https://open.spotify.com/artist/47swL7iWP0lDAybnyyrnnw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "444",
+      "url": "https://open.spotify.com/track/3t5SB80J6gXyQRxNI6vJ7h"
     },
     {
       "album": {
@@ -8602,7 +8638,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 158796,
       "name": "EN BLUSA",
       "url": "https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo"
@@ -9094,7 +9130,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -11202,7 +11238,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
@@ -11238,7 +11274,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 108855,
       "name": "Hay Lupita",
       "url": "https://open.spotify.com/track/5LHfb6tTLSBmM9oCnVWoPW"
@@ -11722,7 +11758,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 124285,
       "name": "Hoy Si",
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
@@ -11816,6 +11852,28 @@
       "duration_ms": 222085,
       "name": "HYAENA",
       "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
+    },
+    {
+      "album": {
+        "name": "TRAPTINY",
+        "url": "https://open.spotify.com/album/6GGQauuh11N94LhxhLIHDK"
+      },
+      "artists": [
+        {
+          "name": "Baby Destiny",
+          "url": "https://open.spotify.com/artist/4Hs0gjN45DP88EXMbsGq3Q"
+        },
+        {
+          "name": "LUPVS DEI",
+          "url": "https://open.spotify.com/artist/6c0GZsdTPRhpoZDGYKkTKx"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153471,
+      "name": "Ice Spice",
+      "url": "https://open.spotify.com/track/0ZoSRbEKi4cIXzlh2Ypint"
     },
     {
       "album": {
@@ -13152,7 +13210,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -14084,7 +14142,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "LA VIDA BUENA",
       "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
@@ -15700,7 +15758,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 152653,
       "name": "Ma Buena",
       "url": "https://open.spotify.com/track/0KAR1qidh5Og0JcG9Ws18A"
@@ -17033,6 +17091,24 @@
     },
     {
       "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7i3AYLxF1eoUeFukmsKLG6"
+      },
+      "artists": [
+        {
+          "name": "Matiflo",
+          "url": "https://open.spotify.com/artist/0dfY6Dx4NeRlyHUd2HTLvm"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/5GdbDEezExl2bq8FInKS79"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -17682,7 +17758,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 121025,
       "name": "Millonario",
       "url": "https://open.spotify.com/track/0Dd5ZquKi6G7y12Dh4mZrJ"
@@ -19154,7 +19230,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -19406,6 +19482,24 @@
       "duration_ms": 134529,
       "name": "Oh Oh Oh - Veo Veo",
       "url": "https://open.spotify.com/track/29HgbakZR31tVTvmXGPuTs"
+    },
+    {
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "album": {
@@ -21324,7 +21418,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -23508,6 +23602,24 @@
       "duration_ms": 106666,
       "name": "RKO",
       "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
+    },
+    {
+      "album": {
+        "name": "Roba Mario",
+        "url": "https://open.spotify.com/album/6vA4WfI8t2SYebYITbx2V2"
+      },
+      "artists": [
+        {
+          "name": "Junior Caldera",
+          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Roba Mario",
+      "url": "https://open.spotify.com/track/7q1dN0WQpTigZjz2KhPl7p"
     },
     {
       "album": {
@@ -29442,7 +29554,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"

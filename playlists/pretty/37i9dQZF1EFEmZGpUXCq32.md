@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 90 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 90 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 57 | [Testify \(Live in LA\)](https://open.spotify.com/track/0tAfjwAoZwDJZS0KRn2SGQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Art of Love \(Live in LA\)](https://open.spotify.com/album/7575MmvKNIEh6puvpyMfoL) | 7:03 |
 | 58 | [Waterfall](https://open.spotify.com/track/55svzLRbfbsISEmxzvpFce) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:10 |
 | 59 | [Best of Me](https://open.spotify.com/track/7FlvbdRd9ul5Ipk1Ejzmky) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:03 |
-| 60 | [2AM](https://open.spotify.com/track/2eejBNyr1D9QDOxOSwS9DU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:34 |
-| 61 | [Burdens Down](https://open.spotify.com/track/0vEnFmphA8EoNwZDKlog5T) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:04 |
+| 60 | [Burdens Down](https://open.spotify.com/track/0vEnFmphA8EoNwZDKlog5T) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:04 |
+| 61 | [2AM](https://open.spotify.com/track/2eejBNyr1D9QDOxOSwS9DU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:34 |
 | 62 | [Oh Happy Day](https://open.spotify.com/track/53sa32UDi5PwI891slKSLL) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:57 |
 | 63 | [Testimony \(Live At The Piano\)](https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Live At The Piano](https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe) | 0:52 |
 | 64 | [Round N Round](https://open.spotify.com/track/4aYpNLWSGWcI2nuS16ajNx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:07 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 74 | [Musicians Praise](https://open.spotify.com/track/2mMyT29wcsf3MDdEGeNMm9) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:08 |
 | 75 | [Christmas Boogie](https://open.spotify.com/track/3qfGYjWVbvgfxrGRtZSbuL) | [Trilogy](https://open.spotify.com/artist/3c24oOZo7a3mchm4okumqw), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas Uncovered](https://open.spotify.com/album/70AfPOE4qUXzqrzwG3o5ut) | 2:58 |
 | 76 | [Heart](https://open.spotify.com/track/7hzyYvGrZ7nA7jZjvISbEp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 8:58 |
-| 77 | [Nana](https://open.spotify.com/track/3Vu6IeMndcUxdHwKSVbWzM) | [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Nana](https://open.spotify.com/album/2rOv7QlQ8c6NP51vmSu9DS) | 1:40 |
-| 78 | [Prayer](https://open.spotify.com/track/1ctOqrmjxmJTy8nZhJxFq5) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Bishop Carlton Pearson](https://open.spotify.com/artist/6rXCRf0IiimPocIkaVPaSE) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 1:56 |
+| 77 | [Prayer](https://open.spotify.com/track/1ctOqrmjxmJTy8nZhJxFq5) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Bishop Carlton Pearson](https://open.spotify.com/artist/6rXCRf0IiimPocIkaVPaSE) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 1:56 |
+| 78 | [Nana](https://open.spotify.com/track/3Vu6IeMndcUxdHwKSVbWzM) | [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Nana](https://open.spotify.com/album/2rOv7QlQ8c6NP51vmSu9DS) | 1:40 |
 | 79 | [Walkin](https://open.spotify.com/track/6PHsbjxjYxS9LH5IXW1Xrm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:20 |
 | 80 | [Back When](https://open.spotify.com/track/3k7iWFyEWddfdOSgOgml2t) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:18 |
 | 81 | [Go Down](https://open.spotify.com/track/6QWerSSM3jBxJpw3k2gd3w) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 89 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 90 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbWWYgAAAAACDAyF6enHCX92gkZlTN2m`
+Snapshot ID: `AbWcPgAAAABEAyVzkpvnxbu62GPEayYx`

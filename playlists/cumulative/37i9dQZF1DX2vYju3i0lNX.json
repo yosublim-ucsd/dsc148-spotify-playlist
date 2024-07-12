@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "A New Story",
+        "url": "https://open.spotify.com/album/3txv5NrvYUyxgEwxCHlYlG"
+      },
+      "artists": [
+        {
+          "name": "George Kuntz Four",
+          "url": "https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221896,
+      "name": "A New Story",
+      "url": "https://open.spotify.com/track/2vgXZPi6Kh0iKWzI0Cw1pf"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj"
       },
@@ -3153,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "Clouded Mind",
+        "url": "https://open.spotify.com/album/2ocMON2Jz9IaFlyUVDeqiV"
+      },
+      "artists": [
+        {
+          "name": "Par Noir",
+          "url": "https://open.spotify.com/artist/0AbbEMo6kKsdeH9dDEMFG9"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207686,
+      "name": "Clouded Mind",
+      "url": "https://open.spotify.com/track/1HaE5tQ6TF3XA0on2OgO7T"
+    },
+    {
+      "album": {
         "name": "Clouds Across the Sky",
         "url": "https://open.spotify.com/album/4zEyjWpg4T9qTvF4JifMZ9"
       },
@@ -4592,6 +4628,24 @@
       "duration_ms": 202661,
       "name": "Everybody Knew",
       "url": "https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv"
+    },
+    {
+      "album": {
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/6RlYKrwbK3qDnjdHOYBflB"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204125,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/0AGbSr475KpVcGPwbI1hBu"
     },
     {
       "album": {

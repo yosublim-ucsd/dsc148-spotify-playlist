@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Armonlis\u00e4vero",
+        "url": "https://open.spotify.com/album/6luuQjLean0Woo10V1PISP"
+      },
+      "artists": [
+        {
+          "name": "Baabelin Nulikat",
+          "url": "https://open.spotify.com/artist/6XUvNVuLi9Y2mUitrP3CZZ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Armonlis\u00e4vero",
+      "url": "https://open.spotify.com/track/0kbMfnBWslhBMujXLS4ZTD"
+    },
+    {
+      "album": {
         "name": "Aurinko",
         "url": "https://open.spotify.com/album/1pQFNs6YA4hgOZ4gxAZIt6"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 308959,
       "name": "Big Sleep",
       "url": "https://open.spotify.com/track/6MNXWlrmEGoCT6Is848M3E"
@@ -330,7 +348,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 518016,
       "name": "Homo Economicus",
       "url": "https://open.spotify.com/track/0sLYrGtb0poTQOOYBRCpDh"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 182756,
       "name": "H\u00e4t\u00e4huuto",
       "url": "https://open.spotify.com/track/5MkDC43Ovq9iY4IHuiSM9P"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 337677,
       "name": "Karma Corrupted",
       "url": "https://open.spotify.com/track/5fv1YoBQm6rqR3CgcKYW05"
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 271921,
       "name": "Perfect American",
       "url": "https://open.spotify.com/track/2tGeZKQ6spMFO7Mn0FJH3z"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 342757,
       "name": "Praise",
       "url": "https://open.spotify.com/track/4acZ5e28oAZBco5uiteB0Z"
@@ -1134,10 +1152,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 229930,
       "name": "Running Water",
       "url": "https://open.spotify.com/track/11wKNd3OHEyk4oUp5HdJuC"
+    },
+    {
+      "album": {
+        "name": "Ruusu",
+        "url": "https://open.spotify.com/album/0ergX8StLFAffGHD37bbfM"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4T\u00c4HUUTO",
+          "url": "https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213355,
+      "name": "Ruusu",
+      "url": "https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX"
     },
     {
       "album": {
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154853,
       "name": "Screamager",
       "url": "https://open.spotify.com/track/5qN44qUN18a5LB0S8WoBdZ"
@@ -1228,7 +1264,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 121132,
       "name": "She's a Rebel",
       "url": "https://open.spotify.com/track/6KH3URvRfE5Pe675iv4nKi"
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 240906,
       "name": "Stop Signs",
       "url": "https://open.spotify.com/track/4vur3setjx4lLI9a3X4qkG"
@@ -1444,7 +1480,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 210697,
       "name": "The Dancer",
       "url": "https://open.spotify.com/track/15QD6muRGE0P8SgDw6rg9u"
@@ -1484,6 +1520,24 @@
       "duration_ms": 249474,
       "name": "Tuli-Yango",
       "url": "https://open.spotify.com/track/7FbAIMEQjtdbf568zYC2PW"
+    },
+    {
+      "album": {
+        "name": "Tuonelan tuulet",
+        "url": "https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC"
+      },
+      "artists": [
+        {
+          "name": "Ikuinenkes\u00e4",
+          "url": "https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Tuonelan tuulet",
+      "url": "https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE"
     },
     {
       "album": {
@@ -1596,7 +1650,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 167455,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/0N3ufYCnqo8lwAH3iWoIPT"

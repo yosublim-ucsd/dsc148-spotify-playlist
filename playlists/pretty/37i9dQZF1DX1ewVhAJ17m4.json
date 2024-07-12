@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Avril Lavigne #Glastonbury2024",
-  "num_followers": 574064,
+  "num_followers": 574162,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 204966,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
-    },
-    {
-      "added_at": "2024-06-30 18:04:38",
-      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2024-06-30 18:04:38",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 204966,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "tragic love songs to study to [vol. 5]",
-        "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
-      },
-      "artists": [
-        {
-          "name": "DUCKBOY",
-          "url": "https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu"
-        }
-      ],
-      "duration_ms": 202911,
-      "name": "ROUGAROU (i've become the monster)",
-      "url": "https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4"
-    },
-    {
-      "added_at": "2024-06-30 18:04:38",
-      "album": {
         "name": "KILL[H]ER",
         "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 145735,
       "name": "KILL[H]ER",
       "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
+    },
+    {
+      "added_at": "2024-06-30 18:04:38",
+      "album": {
+        "name": "tragic love songs to study to [vol. 5]",
+        "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
+      },
+      "artists": [
+        {
+          "name": "DUCKBOY",
+          "url": "https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu"
+        }
+      ],
+      "duration_ms": 202911,
+      "name": "ROUGAROU (i've become the monster)",
+      "url": "https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "Waiting On A Twist Of Fate",
-        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
+        "name": "nobody",
+        "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
         }
       ],
-      "duration_ms": 166844,
-      "name": "Waiting On A Twist Of Fate",
-      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
+      "duration_ms": 145294,
+      "name": "nobody",
+      "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "nobody",
-        "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
+        "name": "Waiting On A Twist Of Fate",
+        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
       },
       "artists": [
         {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 145294,
-      "name": "nobody",
-      "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "Under the Influence(r)",
-        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 195012,
-      "name": "Under the Influence(r)",
-      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
-    },
-    {
-      "added_at": "2024-06-30 18:04:38",
-      "album": {
         "name": "Those Were The Days",
         "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 143995,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
+    },
+    {
+      "added_at": "2024-06-30 18:04:38",
+      "album": {
+        "name": "Under the Influence(r)",
+        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 195012,
+      "name": "Under the Influence(r)",
+      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "One Eyed Bastard",
-        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 172899,
-      "name": "One Eyed Bastard",
-      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
-    },
-    {
-      "added_at": "2024-06-30 18:04:38",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -667,22 +651,6 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
-    },
-    {
-      "added_at": "2024-06-30 18:04:38",
-      "album": {
-        "name": "Pacific Ocean",
-        "url": "https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Pacific Ocean",
-      "url": "https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -703,6 +671,38 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2024-06-30 18:04:38",
+      "album": {
+        "name": "Pacific Ocean",
+        "url": "https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Pacific Ocean",
+      "url": "https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N"
+    },
+    {
+      "added_at": "2024-06-30 18:04:38",
+      "album": {
         "name": "Certified Depressant",
         "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+      "duration_ms": 172899,
+      "name": "One Eyed Bastard",
+      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "The Mosaic",
-        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 213387,
-      "name": "Final Words",
-      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
-    },
-    {
-      "added_at": "2024-06-30 18:04:38",
-      "album": {
         "name": "shut up & kiss me",
         "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 161000,
       "name": "shut up & kiss me",
       "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
+    },
+    {
+      "added_at": "2024-06-30 18:04:38",
+      "album": {
+        "name": "The Mosaic",
+        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 213387,
+      "name": "Final Words",
+      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 181873,
-      "name": "use me",
-      "url": "https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO"
-    },
-    {
-      "added_at": "2024-06-30 18:04:38",
-      "album": {
         "name": "wallflower",
         "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 190000,
       "name": "wallflower",
       "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
+    },
+    {
+      "added_at": "2024-06-30 18:04:38",
+      "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 181873,
+      "name": "use me",
+      "url": "https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "Thanks but No Thanks",
-        "url": "https://open.spotify.com/album/4aeSdDsUKqxdotFMUnq2xV"
+        "name": "Subaru",
+        "url": "https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91"
       },
       "artists": [
         {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
         }
       ],
-      "duration_ms": 177890,
-      "name": "must be nice (metaphorically speaking)",
-      "url": "https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf"
+      "duration_ms": 173049,
+      "name": "Subaru",
+      "url": "https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO"
     },
     {
       "added_at": "2024-06-30 18:04:38",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-06-30 18:04:38",
       "album": {
-        "name": "Subaru",
-        "url": "https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91"
+        "name": "Thanks but No Thanks",
+        "url": "https://open.spotify.com/album/4aeSdDsUKqxdotFMUnq2xV"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 173049,
-      "name": "Subaru",
-      "url": "https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO"
+      "duration_ms": 177890,
+      "name": "must be nice (metaphorically speaking)",
+      "url": "https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf"
     },
     {
       "added_at": "2024-06-30 18:04:38",

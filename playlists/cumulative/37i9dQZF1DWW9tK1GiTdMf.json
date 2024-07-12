@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udda4 sillyelly in cover",
+  "description": "musica da gridare \ud83d\udda4 cover: sethu e sally cruz",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 157000,
       "name": "ACQUA SANTA E BENZINA",
       "url": "https://open.spotify.com/track/2y7SvAihr1o477v90MygL5"
@@ -948,6 +948,24 @@
       "duration_ms": 186352,
       "name": "AFTER",
       "url": "https://open.spotify.com/track/7isjFEJ1WdgpaF7ZmwrtI9"
+    },
+    {
+      "album": {
+        "name": "AGOSTO STRONZO",
+        "url": "https://open.spotify.com/album/7CTfMVj77FU8ReocsPC8m4"
+      },
+      "artists": [
+        {
+          "name": "Dari",
+          "url": "https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "AGOSTO STRONZO",
+      "url": "https://open.spotify.com/track/1w9nwtE8qfen1PFYqeuatP"
     },
     {
       "album": {
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 131333,
       "name": "AVANTI INDIETRO",
       "url": "https://open.spotify.com/track/6W386ahz0v4N6XPmnTxZX0"
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 141479,
       "name": "Bugia (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6iuaBigoAAaxkEYTREs4Nu"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172048,
       "name": "Casinooo",
       "url": "https://open.spotify.com/track/6S0WWLyLVhYcGwIov0IbBH"
@@ -3936,7 +3954,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 133578,
       "name": "Come stai?",
       "url": "https://open.spotify.com/track/7MttKIl92BMe3YJefHUqVk"
@@ -4430,10 +4448,36 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186502,
       "name": "CRISTALLIDE",
       "url": "https://open.spotify.com/track/7aMEvNX9fjkn7wPxEBNruB"
+    },
+    {
+      "album": {
+        "name": "tutti i colori del buio",
+        "url": "https://open.spotify.com/album/278YwMUlBJkd2Pj1YmCsQY"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        },
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "croci (feat. Sally Cruz)",
+      "url": "https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY"
     },
     {
       "album": {
@@ -6267,6 +6311,24 @@
     },
     {
       "album": {
+        "name": "Estate In Campagna",
+        "url": "https://open.spotify.com/album/2s5FGHclBwsSr2eDoktyt1"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171654,
+      "name": "Estate In Campagna",
+      "url": "https://open.spotify.com/track/7tlW92zdLPValYEuNlHcFw"
+    },
+    {
+      "album": {
         "name": "Estranei",
         "url": "https://open.spotify.com/album/5tL8W7fnVBt3KoPS2E7wvH"
       },
@@ -7546,7 +7608,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168153,
       "name": "GHOSTING (feat. AleXX iSt4R)",
       "url": "https://open.spotify.com/track/2cLNupXY6D9gFs7bcZbnTf"
@@ -8648,7 +8710,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 170000,
       "name": "hpa",
       "url": "https://open.spotify.com/track/3Ww27NPiKOSWpryqFbKpyP"
@@ -9183,6 +9245,24 @@
     },
     {
       "album": {
+        "name": "Io, te, le stelle",
+        "url": "https://open.spotify.com/album/3aoXFf4jjNtT3gV0Wsswvh"
+      },
+      "artists": [
+        {
+          "name": "Geremia",
+          "url": "https://open.spotify.com/artist/2RVL2mt0yVYoTutwu3MNYx"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173771,
+      "name": "Io, te, le stelle",
+      "url": "https://open.spotify.com/track/7wd4ZzcVFRciH4qZdQIEER"
+    },
+    {
+      "album": {
         "name": "IPHONE",
         "url": "https://open.spotify.com/album/23THtKuepypePlGdEbsTXG"
       },
@@ -9520,7 +9600,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 169860,
       "name": "klamoh!",
       "url": "https://open.spotify.com/track/0lGg6Rx5vD8vuVlBKkg7Sf"
@@ -10634,7 +10714,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 159512,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk"
@@ -11643,6 +11723,28 @@
     },
     {
       "album": {
+        "name": "Mille Notti",
+        "url": "https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173416,
+      "name": "Mille Notti",
+      "url": "https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj"
+    },
+    {
+      "album": {
         "name": "Mille pare",
         "url": "https://open.spotify.com/album/2Yz4jWAU8rcdhN8ZLYySPO"
       },
@@ -11960,7 +12062,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 150573,
       "name": "musica col computer",
       "url": "https://open.spotify.com/track/2Fgh9deb1vLIFKI7hOtyHV"
@@ -12018,6 +12120,10 @@
         {
           "name": "Nyno",
           "url": "https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP"
+        },
+        {
+          "name": "Machweo",
+          "url": "https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3"
         }
       ],
       "date_added": "2024-07-04",
@@ -13676,7 +13782,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 171938,
       "name": "PAZZI",
       "url": "https://open.spotify.com/track/6JTpvkizylDkub8S8SQC6e"
@@ -13698,7 +13804,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 130507,
       "name": "peggio per te",
       "url": "https://open.spotify.com/track/1XkOV0IbbzZ9tC3UcAeRjF"
@@ -14751,6 +14857,24 @@
     },
     {
       "album": {
+        "name": "Punk 2003",
+        "url": "https://open.spotify.com/album/7h0WkJJTuQrERrl3zT1vMm"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151719,
+      "name": "Punk 2003",
+      "url": "https://open.spotify.com/track/7c68uZTnjSJx2LR932Xqsy"
+    },
+    {
+      "album": {
         "name": "PUNKINA",
         "url": "https://open.spotify.com/album/7HMsTIP4wBzFa8GUy5OdYQ"
       },
@@ -14770,7 +14894,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189226,
       "name": "PUNKINA",
       "url": "https://open.spotify.com/track/1NgoHD5YN8rQ4AyPQ42FrC"
@@ -15427,6 +15551,24 @@
     },
     {
       "album": {
+        "name": "ROSSETTO",
+        "url": "https://open.spotify.com/album/07pKoEN0qmwxFJCnh5yC4F"
+      },
+      "artists": [
+        {
+          "name": "Knfuzed",
+          "url": "https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135296,
+      "name": "ROSSETTO",
+      "url": "https://open.spotify.com/track/3qqHYsnPbSbsxAyc50q2hX"
+    },
+    {
+      "album": {
         "name": "Rosso",
         "url": "https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV"
       },
@@ -15805,6 +15947,24 @@
     },
     {
       "album": {
+        "name": "SCOSSA",
+        "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
+      },
+      "artists": [
+        {
+          "name": "FLUOSEXXX",
+          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136991,
+      "name": "SCOSSA",
+      "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
+    },
+    {
+      "album": {
         "name": "SCUORN",
         "url": "https://open.spotify.com/album/2T1G3vwNKwKSFMNrLkOuu5"
       },
@@ -16024,7 +16184,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 157705,
       "name": "Sempre pi\u00f9 buia",
       "url": "https://open.spotify.com/track/7oaIdLf33upBcb3GbvOJI0"
@@ -16138,7 +16298,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 135706,
       "name": "SERENO",
       "url": "https://open.spotify.com/track/1IEZOORsr4iMYUbFHerZeq"
@@ -17668,7 +17828,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 137704,
       "name": "Stupida Musica",
       "url": "https://open.spotify.com/track/61Oy86LKbhwFI5GUAcU7ok"
@@ -19564,7 +19724,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 169230,
       "name": "vandalizzami il cuore",
       "url": "https://open.spotify.com/track/6fvBMWqPiLRSCgdhu6KPwg"

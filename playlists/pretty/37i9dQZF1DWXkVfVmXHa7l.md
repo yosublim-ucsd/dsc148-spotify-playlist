@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,296 likes - 61 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,357 likes - 61 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ミカサからのスペシャルメッセージ!\(Message from Mikasa Ackerman\)](https://open.spotify.com/track/1lFewZjMWF0ZA1s1cgSYRT) | [『TVアニメ「進撃の巨人」The Final Season』](https://open.spotify.com/artist/75y274vQmhzjOIArJmnrFB) | [TVアニメ「進撃の巨人」The Final Season ミカサコメント](https://open.spotify.com/album/2JsEJwTpsMYuwHFKBCwdfK) | 0:35 |
 | 2 | [二千年..\. 若しくは..\. 二万年後の君へ・・・](https://open.spotify.com/track/5X2RtKParNDbpl4MOZ2LEC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [二千年..\. 若しくは..\. 二万年後の君へ・・・](https://open.spotify.com/album/1Z9uHV98W0xRAnnnwX0yTR) | 4:44 |
 | 3 | [最後の巨人](https://open.spotify.com/track/4jCia2ud7CJjNDaNtArZkC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [最後の巨人](https://open.spotify.com/album/7dFRuFp1pwBCvewDyDiSRK) | 4:00 |
-| 4 | [いってらっしゃい](https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [いってらっしゃい](https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC) | 3:55 |
+| 4 | [いってらっしゃい](https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [いってらっしゃい](https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC) | 3:55 |
 | 5 | [TVアニメ「進撃の巨人」Official Video Podcast 〜Linked Horizon楽曲を通して語る「進撃の巨人」〜](https://open.spotify.com/episode/79D8D3gPH4zzKUxeJ7pla8) | [TVアニメ「進撃の巨人」Official Video Podcast　〜Linked Horizon楽曲を通して語る「進撃の巨人」〜 ](https://open.spotify.com/show/7L1HsGPkavkJ6Jirs0J9t7) | [TVアニメ「進撃の巨人」Official Video Podcast　〜Linked Horizon楽曲を通して語る「進撃の巨人」〜 ](https://open.spotify.com/album/7L1HsGPkavkJ6Jirs0J9t7) | 54:19 |
 | 6 | [ət'aek till we are Ashes](https://open.spotify.com/track/2QsrukkARYgxkdLPRdsH4L) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 03](https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw) | 6:54 |
 | 7 | [UNDER THE TREE](https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [UNDER THE TREE](https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk) | 2:01 |
 | 8 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 |
-| 9 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
+| 9 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
 | 10 | [Footsteps of Doom](https://open.spotify.com/track/3zesIIiZsBNK32Mxe0SHNi) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 5:06 |
 | 11 | [Ashes on The Fire \-PTV\-](https://open.spotify.com/track/0NpwE7Q2djpqpqqtfJVdjm) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 5:06 |
 | 12 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 |

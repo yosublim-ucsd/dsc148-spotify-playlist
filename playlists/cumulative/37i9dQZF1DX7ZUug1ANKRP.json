@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: Phil The Beat",
+  "description": "The biggest Dance hits and the ones to come. Cover: Gabry Ponte, Vicco",
   "name": "Main Stage",
   "tracks": [
     {
@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Adagio For Strings (Bulletproof)",
+        "url": "https://open.spotify.com/album/1XlbyHxgU1ijE5HwApbLXe"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Adagio For Strings (Bulletproof)",
+      "url": "https://open.spotify.com/track/6XBjUSSBhUyWwcXZPNhyTE"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -372,7 +390,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 129289,
       "name": "BLACK WIDOW",
       "url": "https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7"
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Can't Fight The Moonlight",
+        "url": "https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116814,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB"
+    },
+    {
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -1992,6 +2028,58 @@
       "duration_ms": 157333,
       "name": "Children Of The Night",
       "url": "https://open.spotify.com/track/3LZvaHxUB1JHm0CupGqd5W"
+    },
+    {
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/4UOFyqgpAxwkHhpM5Evg6L"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179568,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/01p4kZ0CMpG3uetamwG1uV"
+    },
+    {
+      "album": {
+        "name": "Clap Clap (Techno)",
+        "url": "https://open.spotify.com/album/3tL8R7Ko0pU9CaVGnrnjpy"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "J\u00d8A",
+          "url": "https://open.spotify.com/artist/2eSp20wy0FQIPWJLCCfrqa"
+        },
+        {
+          "name": "Jost",
+          "url": "https://open.spotify.com/artist/4JLjGlT5l6gtKKvP8qRb2g"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153857,
+      "name": "Clap Clap (Techno)",
+      "url": "https://open.spotify.com/track/4HDvDaM3IhMl2oCwbKyzlV"
     },
     {
       "album": {
@@ -2696,7 +2784,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 160815,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q"
@@ -5127,6 +5215,28 @@
     },
     {
       "album": {
+        "name": "Highs In My Dreams",
+        "url": "https://open.spotify.com/album/420EvlFHOKDLQ8pP8Xa6yB"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Luna Isa",
+          "url": "https://open.spotify.com/artist/48rIZslea3sq2nxBfiEPpb"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135640,
+      "name": "Highs In My Dreams",
+      "url": "https://open.spotify.com/track/7s1Irdnwze2QGBDJ1WITyb"
+    },
+    {
+      "album": {
         "name": "Home Alone (with Marnik)",
         "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
       },
@@ -6756,7 +6866,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 134656,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3xEVnZQOyzHRkaqNnyAmEv"
@@ -7794,7 +7904,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184942,
       "name": "Morning",
       "url": "https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA"
@@ -7974,6 +8084,24 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da) (feat. Topic)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "album": {
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/1pOkzp7ZgdxckdOKpAqEMr"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT"
     },
     {
       "album": {
@@ -8236,6 +8364,32 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "album": {
+        "name": "No Heroes",
+        "url": "https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        },
+        {
+          "name": "ANY",
+          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121135,
+      "name": "No Heroes",
+      "url": "https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO"
     },
     {
       "album": {
@@ -8586,7 +8740,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 152000,
       "name": "One (Your Name)",
       "url": "https://open.spotify.com/track/5IU1Fb9OBuCRUTAWXPO4gC"
@@ -8864,7 +9018,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 145116,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"

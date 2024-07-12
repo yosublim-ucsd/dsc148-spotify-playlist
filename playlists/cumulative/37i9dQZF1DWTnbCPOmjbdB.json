@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Margaret",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Dawid Kwiatkowski",
   "name": "Polskie hity",
   "tracks": [
+    {
+      "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/0L2L29KzYBJtGGHeUAI0Wg"
+      },
+      "artists": [
+        {
+          "name": "Anastazja Maci\u0105g",
+          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155044,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/1uSqsOYzHF8wXAcyhO7xFm"
+    },
     {
       "album": {
         "name": "100 BPM",
@@ -28,6 +46,24 @@
       "duration_ms": 146181,
       "name": "100 BPM",
       "url": "https://open.spotify.com/track/3wAulDuaq7hYR0Oc61eMXB"
+    },
+    {
+      "album": {
+        "name": "5 milion\u00f3w influencerek",
+        "url": "https://open.spotify.com/album/2f4NFjKewTTexTmEJbEKiE"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "5 milion\u00f3w influencerek",
+      "url": "https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur"
     },
     {
       "album": {
@@ -60,7 +96,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 165417,
       "name": "ALERTY RCB",
       "url": "https://open.spotify.com/track/2HWPhvQLMVwhTLNVvLK3er"
@@ -78,7 +114,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 169163,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4ffFByoICCx9gKDQKLJK0M"
@@ -96,7 +132,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 139354,
       "name": "apollo",
       "url": "https://open.spotify.com/track/0DoKEamrm3P13HItt9PTwM"
@@ -144,6 +180,24 @@
       "duration_ms": 139130,
       "name": "BEBECITA",
       "url": "https://open.spotify.com/track/1qDwZiPNwUfIAw7EoaAxw4"
+    },
+    {
+      "album": {
+        "name": "Beze mnie",
+        "url": "https://open.spotify.com/album/6iJVtJ2PuA4uvk3YT5vjp7"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161194,
+      "name": "Beze mnie",
+      "url": "https://open.spotify.com/track/3Et7ioYSx63lA5mzLqeo4R"
     },
     {
       "album": {
@@ -353,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Daj \u017cy\u0107",
+        "url": "https://open.spotify.com/album/0pxxDxee1EiOyjJIB8RgpL"
+      },
+      "artists": [
+        {
+          "name": "Sonia Maselik",
+          "url": "https://open.spotify.com/artist/0MA7GBODPbcTV0v3FZj2tl"
+        },
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Daj \u017cy\u0107",
+      "url": "https://open.spotify.com/track/0ulgIgptCrAx67A0tQppuW"
+    },
+    {
+      "album": {
         "name": "Dalej",
         "url": "https://open.spotify.com/album/15SEvkC5eR3X6duUgBQEue"
       },
@@ -382,7 +458,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 142627,
       "name": "Day Off",
       "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
@@ -400,7 +476,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168967,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
@@ -568,7 +644,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 251455,
       "name": "hip hip hura!",
       "url": "https://open.spotify.com/track/5uSsPBP88T6OIYvh9hrSfy"
@@ -762,6 +838,24 @@
       "duration_ms": 197000,
       "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
       "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
+    },
+    {
+      "album": {
+        "name": "my",
+        "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "my",
+      "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
     },
     {
       "album": {
@@ -1060,10 +1154,46 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 162608,
       "name": "pami\u0119tasz?",
       "url": "https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP"
+    },
+    {
+      "album": {
+        "name": "Poprosz\u0119 wi\u0119cej siebie",
+        "url": "https://open.spotify.com/album/5n2dZDqOQYSuLcbhuRevhF"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "Poprosz\u0119 wi\u0119cej siebie",
+      "url": "https://open.spotify.com/track/53LjYUbwHKVBxyqsMYVLTG"
+    },
+    {
+      "album": {
+        "name": "Po\u015br\u00f3d Sn\u00f3w EP",
+        "url": "https://open.spotify.com/album/7u5KWpB6S7YaJhhKYzXkDg"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Poszukam",
+      "url": "https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2"
     },
     {
       "album": {
@@ -1082,6 +1212,32 @@
       "duration_ms": 144472,
       "name": "Prawie straci\u0142em g\u0142os",
       "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
+    },
+    {
+      "album": {
+        "name": "R\u00f3\u017c",
+        "url": "https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1"
+      },
+      "artists": [
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171694,
+      "name": "R\u00f3\u017c",
+      "url": "https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi"
     },
     {
       "album": {
@@ -1122,6 +1278,24 @@
       "duration_ms": 192234,
       "name": "Sing-Sing",
       "url": "https://open.spotify.com/track/6VEmJ8vZ41dRfiGbj2JYgG"
+    },
+    {
+      "album": {
+        "name": "Sob\u0105 Tak",
+        "url": "https://open.spotify.com/album/7GpqscAy3N1Ukp2OHLou1V"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sob\u0105 Tak",
+      "url": "https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq"
     },
     {
       "album": {
@@ -1270,7 +1444,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 188499,
       "name": "Tch\u00f3rz",
       "url": "https://open.spotify.com/track/1FGdEpj33Y8oEdfP2O3D9P"
@@ -1292,6 +1466,24 @@
       "duration_ms": 187434,
       "name": "teleranek",
       "url": "https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD"
+    },
+    {
+      "album": {
+        "name": "Ten Kij",
+        "url": "https://open.spotify.com/album/6x1C7BIpMB1eeX1Vwvmt8L"
+      },
+      "artists": [
+        {
+          "name": "Pan Savyan",
+          "url": "https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Ten Kij",
+      "url": "https://open.spotify.com/track/1xQu73IDqru1XUVzbcllol"
     },
     {
       "album": {
@@ -1466,7 +1658,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 138666,
       "name": "Zosta\u0142em Tu Sam",
       "url": "https://open.spotify.com/track/6RYvPT8f1adZudUbFCAI8I"
@@ -1502,7 +1694,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 228480,
       "name": "\u0141api\u0119 si\u0119 na my\u015blach",
       "url": "https://open.spotify.com/track/5NbwPBOEFXAYHRZ4GIFYgb"

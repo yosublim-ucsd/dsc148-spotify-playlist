@@ -2,7 +2,7 @@
 
 ### [This Is Static\-X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4A7YBu)
 
-> This is Static\-X\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Static\-X\. Los temas esenciales, todos en una lista.
 
 54 songs - 3 hr 1 min
 

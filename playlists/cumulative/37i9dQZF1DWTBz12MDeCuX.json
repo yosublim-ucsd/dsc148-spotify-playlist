@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Ski Aggu, Ikkimel ",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Artemas",
   "name": "me right now",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 118622,
       "name": "16",
       "url": "https://open.spotify.com/track/1Oa3ixZWy4e3Q86QQqAhKj"
@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "5 Fu\u00df",
+        "url": "https://open.spotify.com/album/3YsJuzRFGU0AhYx69QSiEE"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142240,
+      "name": "5 Fu\u00df",
+      "url": "https://open.spotify.com/track/3nLWNMYImHjMe4TKz9GA6O"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 149694,
       "name": "addicted2u",
       "url": "https://open.spotify.com/track/1PucaMpXzlLbEmW3QNBvMM"
@@ -3156,6 +3174,28 @@
       "duration_ms": 158355,
       "name": "August - Sped Up",
       "url": "https://open.spotify.com/track/13qCFWxU0xBjRUXYmrU6Be"
+    },
+    {
+      "album": {
+        "name": "Aus dem Ruder",
+        "url": "https://open.spotify.com/album/7hWK0RSJgBXeAbp13KfAFi"
+      },
+      "artists": [
+        {
+          "name": "Rrotzer",
+          "url": "https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd"
+        },
+        {
+          "name": "Amaru",
+          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196480,
+      "name": "Aus dem Ruder",
+      "url": "https://open.spotify.com/track/0tDVo5p1oTSg8ArsE209t8"
     },
     {
       "album": {
@@ -4974,6 +5014,24 @@
       "duration_ms": 147428,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/64nyT5qJkJ2fY6c8sDwekN"
+    },
+    {
+      "album": {
+        "name": "blackout in der gegend",
+        "url": "https://open.spotify.com/album/5IFoofVHSlPBwUEgHGMqKu"
+      },
+      "artists": [
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152080,
+      "name": "blackout in der gegend",
+      "url": "https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU"
     },
     {
       "album": {
@@ -7500,7 +7558,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168517,
       "name": "Crazy Woman",
       "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
@@ -8561,6 +8619,24 @@
     },
     {
       "album": {
+        "name": "dirty little secret",
+        "url": "https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "dirty little secret",
+      "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
+    },
+    {
+      "album": {
         "name": "Discman",
         "url": "https://open.spotify.com/album/3KOMb23wB7lBIoJYWL2YWN"
       },
@@ -9356,6 +9432,24 @@
       "duration_ms": 227074,
       "name": "DU WAYST",
       "url": "https://open.spotify.com/track/1ooqimwdfX7onBdJ84krPf"
+    },
+    {
+      "album": {
+        "name": "Muss mein eigener Atze sein (Besondere Edition)",
+        "url": "https://open.spotify.com/album/0XDmX1pJOe2VjXcJgqJCdY"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156512,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/5K4ihcq7sw3imhegdvz5gU"
     },
     {
       "album": {
@@ -10754,7 +10848,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
@@ -12714,7 +12808,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 143007,
       "name": "Gefunden (Outro)",
       "url": "https://open.spotify.com/track/2fqoejpJIs9us6pzXT38zl"
@@ -14024,6 +14118,24 @@
       "duration_ms": 160660,
       "name": "Gyal You a Party Animal - Sped Up",
       "url": "https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr"
+    },
+    {
+      "album": {
+        "name": "g\u00e4steliste",
+        "url": "https://open.spotify.com/album/6DagEYiLogzejjAebrffI8"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "g\u00e4steliste",
+      "url": "https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm"
     },
     {
       "album": {
@@ -15590,7 +15702,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 183288,
       "name": "Humankind",
       "url": "https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm"
@@ -18934,7 +19046,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 123809,
       "name": "Klimpa Klimpa",
       "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
@@ -22098,7 +22210,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168613,
       "name": "meinen die uns",
       "url": "https://open.spotify.com/track/3AB4Fi1stxmdaO3XWlMLbp"
@@ -23661,6 +23773,32 @@
     },
     {
       "album": {
+        "name": "M\u00c4NNERGEF\u00dcHLE (feat. IKKIMEL)",
+        "url": "https://open.spotify.com/album/7yTXeBh8mXYSqdOB6EYcyT"
+      },
+      "artists": [
+        {
+          "name": "SAL\u00d2",
+          "url": "https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz"
+        },
+        {
+          "name": "UHD",
+          "url": "https://open.spotify.com/artist/6ZG6KpFv5D9Qoahey7k91x"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139480,
+      "name": "M\u00c4NNERGEF\u00dcHLE (feat. IKKIMEL)",
+      "url": "https://open.spotify.com/track/3rWBE5yBZtCVTr4BbvuFp3"
+    },
+    {
+      "album": {
         "name": "M\u00c4RCHEN",
         "url": "https://open.spotify.com/album/38tnTzO4PSNTB4x8l5mD0a"
       },
@@ -24490,7 +24628,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 156798,
       "name": "nie vorbei",
       "url": "https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI"
@@ -26460,6 +26598,36 @@
       "duration_ms": 170016,
       "name": "Panikwei\u00df",
       "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+    },
+    {
+      "album": {
+        "name": "blumengarten",
+        "url": "https://open.spotify.com/album/4txyc3vroXzPh2cYl56dXi"
+      },
+      "artists": [
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        },
+        {
+          "name": "RAPK",
+          "url": "https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220441,
+      "name": "pantalons (feat. RAPK)",
+      "url": "https://open.spotify.com/track/1RMrISle2z9qwcOJku3Qc3"
     },
     {
       "album": {
@@ -33205,6 +33373,24 @@
     },
     {
       "album": {
+        "name": "Takes Me Back Home",
+        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193137,
+      "name": "Takes Me Back Home",
+      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+    },
+    {
+      "album": {
         "name": "Tanz",
         "url": "https://open.spotify.com/album/4KuFPRX0QIIDDkAhr2J2nr"
       },
@@ -33944,6 +34130,24 @@
       "duration_ms": 155670,
       "name": "Theater\u2605",
       "url": "https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw"
+    },
+    {
+      "album": {
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
       "album": {
@@ -36375,6 +36579,24 @@
     },
     {
       "album": {
+        "name": "Vorbei",
+        "url": "https://open.spotify.com/album/2DOr3y69HMcSpl406Q2WSV"
+      },
+      "artists": [
+        {
+          "name": "YBRE",
+          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145566,
+      "name": "Vorbei",
+      "url": "https://open.spotify.com/track/6VBvfF2jREXbCSxqqqtM1c"
+    },
+    {
+      "album": {
         "name": "Wahnsinn",
         "url": "https://open.spotify.com/album/2AusTFYEhtdgeHvzwZ04DF"
       },
@@ -37620,7 +37842,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 157200,
       "name": "Wenn Das Liebe Ist",
       "url": "https://open.spotify.com/track/4X3ZmvXHgjuXywDBN1qzrA"
@@ -39898,7 +40120,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 195388,
       "name": "\u00fcberall du",
       "url": "https://open.spotify.com/track/2UbRU3zBrJ4zZQqPl7WLBf"

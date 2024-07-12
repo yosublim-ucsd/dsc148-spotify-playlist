@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 193322,
       "name": "Cubism",
       "url": "https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl"
@@ -9961,6 +9961,24 @@
     },
     {
       "album": {
+        "name": "NOW I SEE THE LIGHT",
+        "url": "https://open.spotify.com/album/1AgU32hdZ8BOx6cWVB7Ucv"
+      },
+      "artists": [
+        {
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356950,
+      "name": "LONELINESS WILL SHINE",
+      "url": "https://open.spotify.com/track/4Ieq7cQhnpdvxkRIALTT1D"
+    },
+    {
+      "album": {
         "name": "lonely & lonely",
         "url": "https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR"
       },
@@ -11084,6 +11102,24 @@
       "duration_ms": 193490,
       "name": "minamisenju",
       "url": "https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3"
+    },
+    {
+      "album": {
+        "name": "MIND TRAIN",
+        "url": "https://open.spotify.com/album/7ox2xuAn7inZC9V3M4MMkn"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543947,
+      "name": "MIND TRAIN",
+      "url": "https://open.spotify.com/track/7dxIIrRMTVsTWHX7k7SL0P"
     },
     {
       "album": {
@@ -14242,7 +14278,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 221040,
       "name": "PULSE",
       "url": "https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7"

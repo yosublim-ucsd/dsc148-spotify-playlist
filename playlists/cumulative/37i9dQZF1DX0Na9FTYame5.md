@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Apache 207, AYLIVA
 
-100 songs - 4 hr 37 min
+101 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 | 2024-06-28 |  |
 | [Gar nicht mal so glücklich \(feat\. Estikay\)](https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Estikay](https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:45 | 2024-06-28 |  |
 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 | 2024-06-28 |  |
+| [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 |  |
 | [Herzfeind \- Titelsong zum Film „Trauzeugen“](https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzfeind \(Titelsong zum Film „Trauzeugen“\)](https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ) | 2:30 | 2024-06-28 |  |
 | [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 | 2024-06-28 |  |
 | [Hund \(feat\. Takt32\)](https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Hund \(feat\. Takt32\)](https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y) | 3:02 | 2024-06-28 |  |
@@ -47,7 +48,7 @@
 | [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj) | 3:56 | 2024-06-28 |  |
 | [Ich schwör bei Gott](https://open.spotify.com/track/2bicGF7dHTbCynG3cgD485) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [Ich schwör bei Gott](https://open.spotify.com/album/7jJs0KTEZcKsmToM6YeELg) | 2:17 | 2024-06-28 |  |
 | [Ich will](https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Ich will](https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg) | 3:13 | 2024-06-28 |  |
-| [in meinem kopf](https://open.spotify.com/track/2CbAl19E2akV4zXoCa3dW1) | [ELEF](https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH) | [in meinem kopf](https://open.spotify.com/album/5fX7MIQoQkLvM7Y44Feyuo) | 2:21 | 2024-06-28 |  |
+| [in meinem kopf](https://open.spotify.com/track/2CbAl19E2akV4zXoCa3dW1) | [ELEF](https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH) | [in meinem kopf](https://open.spotify.com/album/5fX7MIQoQkLvM7Y44Feyuo) | 2:21 | 2024-06-28 | 2024-07-12 |
 | [Irgendwas klopft](https://open.spotify.com/track/4IjCVfzb1JQJ8KKkhXllVl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Irgendwas klopft](https://open.spotify.com/album/3sFYYuRzNlpUH3Q6ZcZZhD) | 2:06 | 2024-06-28 |  |
 | [KAPUTTE NIKES](https://open.spotify.com/track/0PRn0wppJozInSVkjEpK8Z) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [KAPUTTE NIKES](https://open.spotify.com/album/57tkUG6UbznOuHYz4GukL2) | 2:48 | 2024-06-28 |  |
 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 | 2024-06-28 |  |

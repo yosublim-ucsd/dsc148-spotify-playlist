@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 163200,
       "name": "cihan",
       "url": "https://open.spotify.com/track/43b6nRvYpO9dTNV7507wf1"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 211346,
       "name": "D\u00f6n\u00fcyor D\u00fcnya",
       "url": "https://open.spotify.com/track/7pu096e06CJlqTA3sbCdWg"
@@ -420,6 +420,24 @@
       "duration_ms": 235380,
       "name": "Gecenin En G\u00fczeli",
       "url": "https://open.spotify.com/track/4siCOv70WIGB1EuMrLyIZO"
+    },
+    {
+      "album": {
+        "name": "Gelme",
+        "url": "https://open.spotify.com/album/113Rdhd0TJoywaB0QeEvLd"
+      },
+      "artists": [
+        {
+          "name": "Kaset",
+          "url": "https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253441,
+      "name": "Gelme",
+      "url": "https://open.spotify.com/track/4nmI7AuuHCSRfKKQMwrSVI"
     },
     {
       "album": {
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 194710,
       "name": "G\u00fczel \u015eeyler Var Hayatta",
       "url": "https://open.spotify.com/track/3qzBGn4FE2suwiCO7D0L7S"
@@ -647,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Kalk Aya\u011fa",
+        "url": "https://open.spotify.com/album/75sYa6IBTcmj31qO25kUVr"
+      },
+      "artists": [
+        {
+          "name": "Mentra",
+          "url": "https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159706,
+      "name": "Kalk Aya\u011fa",
+      "url": "https://open.spotify.com/track/38GBhFHE4LtG6a9E3yJwoI"
+    },
+    {
+      "album": {
         "name": "Kalp Orta\u011f\u0131m",
         "url": "https://open.spotify.com/album/54IesYKB4hrcovpwOvwztQ"
       },
@@ -658,7 +694,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 202846,
       "name": "Kalp Orta\u011f\u0131m",
       "url": "https://open.spotify.com/track/2vFc6hyftn980PbDveXrtH"
@@ -903,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Sar\u0131lm\u0131\u015fs\u0131n Kendine",
+        "url": "https://open.spotify.com/album/5QaXgBjxrPLNBfnrGg9dpS"
+      },
+      "artists": [
+        {
+          "name": "Can Ko\u00e7",
+          "url": "https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187328,
+      "name": "Sar\u0131lm\u0131\u015fs\u0131n Kendine",
+      "url": "https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z"
+    },
+    {
+      "album": {
         "name": "Sen Benim Ba\u015f\u0131ma Gelen En G\u00fczel \u015eey",
         "url": "https://open.spotify.com/album/1nYfw8wlj1xDvYbimPgu8s"
       },
@@ -1012,6 +1066,24 @@
       "duration_ms": 141000,
       "name": "Sevme",
       "url": "https://open.spotify.com/track/4oGecQuYpeIQH7cOGRURkG"
+    },
+    {
+      "album": {
+        "name": "Sevmek De\u011fil",
+        "url": "https://open.spotify.com/album/47TmV0OJmizaoPU4Wdobq9"
+      },
+      "artists": [
+        {
+          "name": "Kahraman Deniz",
+          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Sevmek De\u011fil",
+      "url": "https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ"
     },
     {
       "album": {

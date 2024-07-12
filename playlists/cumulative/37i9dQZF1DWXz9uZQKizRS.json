@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Nosowska, B\u0142a\u017cej Kr\u00f3l",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Kwiat Jab\u0142oni",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161196,
       "name": "Chwila",
       "url": "https://open.spotify.com/track/0LDcP5tN5hQQFBUiYadqHJ"
@@ -332,6 +332,42 @@
       "duration_ms": 112792,
       "name": "Chyba",
       "url": "https://open.spotify.com/track/2m2dWqaz9v8U6g1Qgmhqk9"
+    },
+    {
+      "album": {
+        "name": "Co tam jak si\u0119 masz",
+        "url": "https://open.spotify.com/album/2ciX0aWFYzJH1xR3KBPUID"
+      },
+      "artists": [
+        {
+          "name": "Daria ze \u015al\u0105ska",
+          "url": "https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204649,
+      "name": "Co tam jak si\u0119 masz - Live",
+      "url": "https://open.spotify.com/track/4L0qXtys08T45Wl7daNqJl"
+    },
+    {
+      "album": {
+        "name": "Czas",
+        "url": "https://open.spotify.com/album/5APOGthH7FWEpefrhoDXLV"
+      },
+      "artists": [
+        {
+          "name": "Jakub Skorupa",
+          "url": "https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204578,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/3RwrMtLfec1HnAB2oRQWI5"
     },
     {
       "album": {
@@ -444,7 +480,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 247040,
       "name": "Dobra",
       "url": "https://open.spotify.com/track/1f3iXCSTgMLpoOo7txwPKx"
@@ -462,7 +498,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 307146,
       "name": "Dziewczyny",
       "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
@@ -509,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Hide a Lie",
+        "url": "https://open.spotify.com/album/0G1kJkQPPs7DAJovQ7xp20"
+      },
+      "artists": [
+        {
+          "name": "Hidel Eye",
+          "url": "https://open.spotify.com/artist/3p7SOpsF37g2ry8QOdf45R"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172747,
+      "name": "Hide a Lion",
+      "url": "https://open.spotify.com/track/5lEgfZ17Vlha5k66Zlwu5u"
+    },
+    {
+      "album": {
         "name": "Justyna",
         "url": "https://open.spotify.com/album/63r49NfUMLUxUbH6XZvKgX"
       },
@@ -545,6 +599,24 @@
     },
     {
       "album": {
+        "name": "kiedy ju\u017c b\u0119dziemy wolni",
+        "url": "https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx"
+      },
+      "artists": [
+        {
+          "name": "mop",
+          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240090,
+      "name": "kiedy ju\u017c b\u0119dziemy wolni",
+      "url": "https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY"
+    },
+    {
+      "album": {
         "name": "Kochaj",
         "url": "https://open.spotify.com/album/4gPWVCDNWEz6JTZU6ZwOah"
       },
@@ -578,7 +650,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154028,
       "name": "Koniec \u015bwiata!",
       "url": "https://open.spotify.com/track/6OFzetS1Lu4lOBPLCKCapa"
@@ -657,6 +729,28 @@
     },
     {
       "album": {
+        "name": "lawenda",
+        "url": "https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1"
+      },
+      "artists": [
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        },
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235401,
+      "name": "lawenda",
+      "url": "https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR"
+    },
+    {
+      "album": {
         "name": "Letnie my\u015bli",
         "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
       },
@@ -715,6 +809,32 @@
     },
     {
       "album": {
+        "name": "MIASTO AWANTUR",
+        "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
+      },
+      "artists": [
+        {
+          "name": "J\u0119drzej Wise",
+          "url": "https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC"
+        },
+        {
+          "name": "Krzy Krzysztof",
+          "url": "https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi"
+        },
+        {
+          "name": "maszaitsme",
+          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "MIASTO AWANTUR",
+      "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
+    },
+    {
+      "album": {
         "name": "Mia\u0142e\u015b by\u0107",
         "url": "https://open.spotify.com/album/3CBHukc8YI5PSfaurN9JCS"
       },
@@ -742,6 +862,28 @@
       "duration_ms": 177750,
       "name": "Mia\u0142e\u015b by\u0107",
       "url": "https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH"
+    },
+    {
+      "album": {
+        "name": "MINIE LATO",
+        "url": "https://open.spotify.com/album/1CUjBOuyUsoxuiPPVUWHXH"
+      },
+      "artists": [
+        {
+          "name": "SMKKPM",
+          "url": "https://open.spotify.com/artist/4lCX5p5WkECbLeUgUC6myj"
+        },
+        {
+          "name": "mayke",
+          "url": "https://open.spotify.com/artist/3pz6wDI5WQRQRWj3YtU89d"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136258,
+      "name": "MINIE LATO",
+      "url": "https://open.spotify.com/track/3C6pTtv1YHbUabZ71x1YQv"
     },
     {
       "album": {
@@ -915,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "my",
+        "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "my",
+      "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
+    },
+    {
+      "album": {
         "name": "My\u015bl\u0119 sobie, \u017b",
         "url": "https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg"
       },
@@ -1010,10 +1170,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 157100,
       "name": "nie o Tobie",
       "url": "https://open.spotify.com/track/4L1W2Ecp7nL3C6VLKbg8JB"
+    },
+    {
+      "album": {
+        "name": "600 Lat Samotno\u015bci",
+        "url": "https://open.spotify.com/album/0a2ceno5j7BykP4mwf979O"
+      },
+      "artists": [
+        {
+          "name": "Hedone",
+          "url": "https://open.spotify.com/artist/6V5i3nKQb9azqjqdCLlQFJ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Nie Wiem Jak Jest",
+      "url": "https://open.spotify.com/track/3llPwITzXBO5CHoHe9PSvl"
     },
     {
       "album": {
@@ -1028,7 +1206,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 231623,
       "name": "Nieromantycznie",
       "url": "https://open.spotify.com/track/4k5d14f7JuF6mhKkJx7K97"
@@ -1050,6 +1228,24 @@
       "duration_ms": 196724,
       "name": "Nim przykryje kurz",
       "url": "https://open.spotify.com/track/7fnfY4WdBrHS9RMlLmUXnK"
+    },
+    {
+      "album": {
+        "name": "d\u017cingle z \u017cycia EP",
+        "url": "https://open.spotify.com/album/4NtWnDhyamDToCZohS4C08"
+      },
+      "artists": [
+        {
+          "name": "Max Bravura",
+          "url": "https://open.spotify.com/artist/5msKa7kkaySPp9bQ9PZyJO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134131,
+      "name": "NMZC",
+      "url": "https://open.spotify.com/track/0cWcEFI0D2oQoIVcGomT9g"
     },
     {
       "album": {
@@ -1104,7 +1300,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 246031,
       "name": "NoNoNo (Pijana Amanda)",
       "url": "https://open.spotify.com/track/6bSB9OGoj9slYWLiYVXkjZ"
@@ -1481,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Poprosz\u0119 wi\u0119cej siebie",
+        "url": "https://open.spotify.com/album/5n2dZDqOQYSuLcbhuRevhF"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "Poprosz\u0119 wi\u0119cej siebie",
+      "url": "https://open.spotify.com/track/53LjYUbwHKVBxyqsMYVLTG"
+    },
+    {
+      "album": {
         "name": "P\u00f3\u0142noc",
         "url": "https://open.spotify.com/album/6pKazzT5RosjsfnSx3wtU9"
       },
@@ -1510,7 +1724,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 244673,
       "name": "P\u0142onie las",
       "url": "https://open.spotify.com/track/3TXVnJ9geUm5wKrFOaNJN7"
@@ -1637,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Small house on the cliff",
+        "url": "https://open.spotify.com/album/1kwelyQiMvjtPyy2dYcZJL"
+      },
+      "artists": [
+        {
+          "name": "Pan Ba",
+          "url": "https://open.spotify.com/artist/4zMN5xAFsBHA2idVpUiag1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191765,
+      "name": "Small house on the cliff",
+      "url": "https://open.spotify.com/track/6gTfvKUyeMMGVR5yoJgx6X"
+    },
+    {
+      "album": {
         "name": "Smutek lubi mnie",
         "url": "https://open.spotify.com/album/7LUwxH1BzrTcoKl9FLubdA"
       },
@@ -1706,7 +1938,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154554,
       "name": "STOP!!",
       "url": "https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg"
@@ -1760,7 +1992,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 206917,
       "name": "Tai Chi",
       "url": "https://open.spotify.com/track/3PV7s6XIh5sBoj71URXNw6"
@@ -1786,6 +2018,28 @@
       "duration_ms": 175601,
       "name": "Taki sam",
       "url": "https://open.spotify.com/track/02jQS3HryEg3epjoGqObzC"
+    },
+    {
+      "album": {
+        "name": "Spacer po Warszawie",
+        "url": "https://open.spotify.com/album/5GhrrP768IczdMuPTNHSmd"
+      },
+      "artists": [
+        {
+          "name": "Robert Cichy",
+          "url": "https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0"
+        },
+        {
+          "name": "Karolina Czarnecka",
+          "url": "https://open.spotify.com/artist/6J2uYw9Hf0spyvUuwvEP1l"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Targowa",
+      "url": "https://open.spotify.com/track/6Qmgj8jeP7JuCuUGXPMcPs"
     },
     {
       "album": {
@@ -1854,7 +2108,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161928,
       "name": "TRIK",
       "url": "https://open.spotify.com/track/4NPCGtOfEuRIK1CJh6q3Nv"
@@ -1934,7 +2188,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 248917,
       "name": "Ueno",
       "url": "https://open.spotify.com/track/6K4ofydOUOsrytRhfkAlQr"
@@ -1974,6 +2228,24 @@
       "duration_ms": 225586,
       "name": "W naszym zabetonowanym mie\u015bcie",
       "url": "https://open.spotify.com/track/32y76Kpr1jZEG8UBoKZKvN"
+    },
+    {
+      "album": {
+        "name": "Wied\u017ama",
+        "url": "https://open.spotify.com/album/2XL5XD57yCa38cXYNysZNw"
+      },
+      "artists": [
+        {
+          "name": "noco",
+          "url": "https://open.spotify.com/artist/4M3HMSoC2JKbhCRdHQ5wkA"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Wied\u017ama",
+      "url": "https://open.spotify.com/track/4KDNrvVljchZYWeHl8QB20"
     },
     {
       "album": {
@@ -2054,7 +2326,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 201048,
       "name": "wszystko",
       "url": "https://open.spotify.com/track/1dus0Y4EnzM9Rnkt5BeahO"
@@ -2280,7 +2552,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 178548,
       "name": "\u015bwiat lepiej smakuje",
       "url": "https://open.spotify.com/track/5UK0CowEcdpLq36WNJDE7x"

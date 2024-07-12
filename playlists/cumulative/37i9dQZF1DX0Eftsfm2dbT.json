@@ -3227,6 +3227,32 @@
     },
     {
       "album": {
+        "name": "City of Dreams (Remix)",
+        "url": "https://open.spotify.com/album/30x3oQ1y1eVcdBx6lOJMlx"
+      },
+      "artists": [
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "$MOKE OG",
+          "url": "https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx"
+        },
+        {
+          "name": "018",
+          "url": "https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174337,
+      "name": "City of Dreams - Remix",
+      "url": "https://open.spotify.com/track/1jLOzPEfQ4HEF4DFJJ7qvC"
+    },
+    {
+      "album": {
         "name": "Cloud",
         "url": "https://open.spotify.com/album/2zpTmknuqqywtD3n2MxQzr"
       },
@@ -11328,6 +11354,28 @@
       "duration_ms": 148598,
       "name": "nukemichi",
       "url": "https://open.spotify.com/track/6eZjtJJb3zMzPV4LDdtO8a"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/2cWObaaFMcUI3xDVmViVB9"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        },
+        {
+          "name": "ZENDAMAN",
+          "url": "https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134869,
+      "name": "OASIS",
+      "url": "https://open.spotify.com/track/4ifCRZPUTBnCrU2r2shKk2"
     },
     {
       "album": {

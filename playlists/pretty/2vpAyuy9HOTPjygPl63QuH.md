@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,797 likes - 55 songs - 2 hr 59 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,812 likes - 58 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 53 | [Incanto](https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Incanto](https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp) | 3:06 |
 | 54 | [Fantasy](https://open.spotify.com/track/6Iys4Jb5cMrbD8e8d6iOgO) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Fantasy](https://open.spotify.com/album/6obQDd1WviBdLjeousvwfw) | 3:28 |
 | 55 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 |
+| 56 | [The Great Khali \- Radio Edit](https://open.spotify.com/track/4VYxBuEJe91bZtBCsvgsvQ) | [DMoss](https://open.spotify.com/artist/6htdvTtddPm0TFNlW7znoO) | [The Great Khali \(Radio Edit\)](https://open.spotify.com/album/4e9j4c9ELxLtRIi5CJiH4K) | 2:37 |
+| 57 | [All About Love](https://open.spotify.com/track/2DcecBsKSPiNGuROpZHNnL) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [All About Love](https://open.spotify.com/album/4AD7fg0zAvFBsdavNcEVSo) | 3:13 |
+| 58 | [Diggy Diggy \- Extended Mix](https://open.spotify.com/track/4aOjj06cugRftamxppWms5) | [Tony Hughes](https://open.spotify.com/artist/3vVz19PNWjQW8xwplXL4ea) | [Diggy Diggy](https://open.spotify.com/album/6uDIEU6YUB7D26VD49RlcY) | 5:33 |
 
-Snapshot ID: `AAAitgWSaUzT1tIqe7uFAbyaGxuWXpcE`
+Snapshot ID: `AAAiud+3uk0V70FmpRFhLoOHm7wLNL9K`

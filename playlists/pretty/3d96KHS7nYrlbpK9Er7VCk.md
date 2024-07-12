@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d96KHS7nYrlbpK9Er7VCk.md) - [plain]
 
 > 
 
-[pearlmorpho](https://open.spotify.com/user/essssssie) - 4 likes - 25 songs - 1 hr 39 min
+[bronzeparachute](https://open.spotify.com/user/essssssie) - 4 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,31 @@
 {
-  "description": "edgy muziek met een rand uit eigen land. cover: Sef & Abel",
-  "num_followers": 26203,
+  "description": "edgy en met karakter. cover: Sandor Dayala",
+  "num_followers": 26202,
   "original_name": "karakter.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zns2DAAAAAA+bF6wzwzmQk6bDWo9bobx",
+  "snapshot_id": "ZpBV4AAAAAB9cF2SdUHx/7sAdMIz6ADP",
   "tracks": [
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "OPEN",
+        "url": "https://open.spotify.com/album/6ofyMWnnOfhJ7KiCQxtqvx"
+      },
+      "artists": [
+        {
+          "name": "Sandor Dayala",
+          "url": "https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69"
+        }
+      ],
+      "duration_ms": 142608,
+      "name": "laat me niet los",
+      "url": "https://open.spotify.com/track/0ITnIwJPzu6GDXgPnM3gFk"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "IJSLAND",
         "url": "https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB"
@@ -29,7 +45,23 @@
       "url": "https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Ik Kijk Soms Naar Jou",
+        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 182621,
+      "name": "Ik Kijk Soms Naar Jou",
+      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "het mag ook eens stil zijn",
         "url": "https://open.spotify.com/album/58PcHZcFJS46s1JxKD2iWt"
@@ -49,30 +81,26 @@
       "url": "https://open.spotify.com/track/65ksmDOUjUvSiky8MRpnma"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Spuug van God",
-        "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
+        "name": "Begrijpen",
+        "url": "https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd"
       },
       "artists": [
         {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        },
-        {
-          "name": "Ray Fuego",
-          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
         }
       ],
-      "duration_ms": 160856,
-      "name": "We Komen Van Ver",
-      "url": "https://open.spotify.com/track/0QjKb4z3dZK6a3unYnki1C"
+      "duration_ms": 196000,
+      "name": "Begrijpen",
+      "url": "https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "VOLGEND WATER",
-        "url": "https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil"
+        "name": "Scherpe Knuffels",
+        "url": "https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f"
       },
       "artists": [
         {
@@ -80,28 +108,68 @@
           "url": "https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb"
         }
       ],
-      "duration_ms": 143397,
-      "name": "Zoute Tranen",
-      "url": "https://open.spotify.com/track/1GTiOgLHzzCnrIyWQY0ehe"
+      "duration_ms": 160902,
+      "name": "Scherpe Knuffels",
+      "url": "https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Ik Kijk Soms Naar Jou",
-        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
+        "name": "met de tijd",
+        "url": "https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg"
       },
       "artists": [
         {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+          "name": "Sandor Dayala",
+          "url": "https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69"
+        },
+        {
+          "name": "TJ",
+          "url": "https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu"
         }
       ],
-      "duration_ms": 182621,
-      "name": "Ik Kijk Soms Naar Jou",
-      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
+      "duration_ms": 158012,
+      "name": "met de tijd",
+      "url": "https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sterrenlopen (met S10)",
+        "url": "https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 242702,
+      "name": "Sterrenlopen (met S10)",
+      "url": "https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Ik Geloof In Ons",
+        "url": "https://open.spotify.com/album/6wGDNiaxQTLoENHVDdOKzk"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e8l",
+          "url": "https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Ik Geloof In Ons",
+      "url": "https://open.spotify.com/track/2r0qqqYJW7eMhAUaDMSKmH"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Glimlach",
         "url": "https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w"
@@ -117,7 +185,7 @@
       "url": "https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "2 SCHORPIOENEN / MENSEN ZOALS WIJ",
         "url": "https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t"
@@ -137,23 +205,27 @@
       "url": "https://open.spotify.com/track/70kKaMHh92fiWfElpJSMLj"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "OPEN",
-        "url": "https://open.spotify.com/album/6ofyMWnnOfhJ7KiCQxtqvx"
+        "name": "Twintig (Deluxe)",
+        "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
       },
       "artists": [
         {
-          "name": "Sandor Dayala",
-          "url": "https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69"
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        },
+        {
+          "name": "Frank Boeijen",
+          "url": "https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj"
         }
       ],
-      "duration_ms": 142608,
-      "name": "laat me niet los",
-      "url": "https://open.spotify.com/track/0ITnIwJPzu6GDXgPnM3gFk"
+      "duration_ms": 181021,
+      "name": "Laatste Dans",
+      "url": "https://open.spotify.com/track/4fNLoZ0PmHqO0dY5xorh2L"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Kaviaar",
         "url": "https://open.spotify.com/album/0kd3q6bDKG80xMyUbdUsc1"
@@ -169,7 +241,39 @@
       "url": "https://open.spotify.com/track/7DGgPtuR1OC61sTrVYVL1X"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "mensenkind",
+        "url": "https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM"
+      },
+      "artists": [
+        {
+          "name": "damy",
+          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
+        }
+      ],
+      "duration_ms": 144444,
+      "name": "wolken",
+      "url": "https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Who Sees",
         "url": "https://open.spotify.com/album/6GUZ4D4qd2XmNw6JQXpC1V"
@@ -185,23 +289,27 @@
       "url": "https://open.spotify.com/track/4BTCelgKznFzvPM4Nz93Sz"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Ik Geloof In Ons",
-        "url": "https://open.spotify.com/album/6wGDNiaxQTLoENHVDdOKzk"
+        "name": "Spuug van God",
+        "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
       },
       "artists": [
         {
-          "name": "Am\u00e8l",
-          "url": "https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG"
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "Ray Fuego",
+          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Ik Geloof In Ons",
-      "url": "https://open.spotify.com/track/2r0qqqYJW7eMhAUaDMSKmH"
+      "duration_ms": 160856,
+      "name": "We Komen Van Ver",
+      "url": "https://open.spotify.com/track/0QjKb4z3dZK6a3unYnki1C"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz"
@@ -217,7 +325,7 @@
       "url": "https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Heilig",
         "url": "https://open.spotify.com/album/6zGVciLVEfYWzPK24jgerH"
@@ -233,7 +341,7 @@
       "url": "https://open.spotify.com/track/51HKork5xatPaqGjyxQ2Bt"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Sterrenlopen",
         "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
@@ -253,7 +361,23 @@
       "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Narcopop",
+        "url": "https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 149235,
+      "name": "Blokke Gepikt",
+      "url": "https://open.spotify.com/track/59B2swrX8DdCl0zDXrHXu9"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "De Herontdekking van de Hemel",
         "url": "https://open.spotify.com/album/172ilQwAfgCFlnRLgFw21K"
@@ -273,10 +397,10 @@
       "url": "https://open.spotify.com/track/3g017qh4UEXI197SLGOTHH"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Scherpe Knuffels",
-        "url": "https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f"
+        "name": "VOLGEND WATER",
+        "url": "https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil"
       },
       "artists": [
         {
@@ -284,12 +408,12 @@
           "url": "https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb"
         }
       ],
-      "duration_ms": 160902,
-      "name": "Scherpe Knuffels",
-      "url": "https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu"
+      "duration_ms": 143397,
+      "name": "Zoute Tranen",
+      "url": "https://open.spotify.com/track/1GTiOgLHzzCnrIyWQY0ehe"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "insane",
         "url": "https://open.spotify.com/album/7kPnvLJER6IwTXXZOcP4Fr"
@@ -305,7 +429,7 @@
       "url": "https://open.spotify.com/track/1muvuktoG1chI2mOSEf7W1"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "DSM-5",
         "url": "https://open.spotify.com/album/19uIH7hAeTHUEKKqQPahPe"
@@ -325,23 +449,7 @@
       "url": "https://open.spotify.com/track/1ei3aZ5fgpR1h1Uh8PEqEF"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Glas",
-      "url": "https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Maankind",
         "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
@@ -357,39 +465,27 @@
       "url": "https://open.spotify.com/track/795QtrTw8oPj6A3r37VRLk"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Barst",
-        "url": "https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT"
+        "name": "ENERGIE",
+        "url": "https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl"
       },
       "artists": [
         {
-          "name": "Sophie",
-          "url": "https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV"
-        }
-      ],
-      "duration_ms": 251704,
-      "name": "Barst",
-      "url": "https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "Narcopop",
-        "url": "https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98"
-      },
-      "artists": [
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        },
         {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
         }
       ],
-      "duration_ms": 149235,
-      "name": "Blokke Gepikt",
-      "url": "https://open.spotify.com/track/59B2swrX8DdCl0zDXrHXu9"
+      "duration_ms": 241957,
+      "name": "ENERGIE",
+      "url": "https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Mayhem (feat. Naaz)",
         "url": "https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96"
@@ -417,7 +513,23 @@
       "url": "https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Twintig",
+        "url": "https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Young Boys",
+      "url": "https://open.spotify.com/track/2Z6xysTOfIExe2jyIVkvu0"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Who Are You Running From",
         "url": "https://open.spotify.com/album/3sWrHw3QHMZXIfEjZ4x387"
@@ -433,7 +545,7 @@
       "url": "https://open.spotify.com/track/3jSDhLHxnERqG9XWc4ynFz"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "In Mijn Ritme",
         "url": "https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky"
@@ -449,7 +561,7 @@
       "url": "https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "round and round",
         "url": "https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c"
@@ -465,103 +577,7 @@
       "url": "https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "Twintig (Deluxe)",
-        "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        },
-        {
-          "name": "Frank Boeijen",
-          "url": "https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj"
-        }
-      ],
-      "duration_ms": 181021,
-      "name": "Laatste Dans",
-      "url": "https://open.spotify.com/track/4fNLoZ0PmHqO0dY5xorh2L"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "De Leven",
-        "url": "https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 161922,
-      "name": "De Leven",
-      "url": "https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "ENERGIE",
-        "url": "https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl"
-      },
-      "artists": [
-        {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
-        },
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 241957,
-      "name": "ENERGIE",
-      "url": "https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "met de tijd",
-        "url": "https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg"
-      },
-      "artists": [
-        {
-          "name": "Sandor Dayala",
-          "url": "https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69"
-        },
-        {
-          "name": "TJ",
-          "url": "https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu"
-        }
-      ],
-      "duration_ms": 158012,
-      "name": "met de tijd",
-      "url": "https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "Peachy Free",
-        "url": "https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94"
-      },
-      "artists": [
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
-        }
-      ],
-      "duration_ms": 154051,
-      "name": "Peachy Free",
-      "url": "https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "UTTERLY MISTAKEN",
         "url": "https://open.spotify.com/album/0IkT1RbrxEQLDv59ySR6ca"
@@ -577,43 +593,7 @@
       "url": "https://open.spotify.com/track/7BMOCSHP4JqzgRa4Dukf2W"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "Sterrenlopen (met S10)",
-        "url": "https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 242702,
-      "name": "Sterrenlopen (met S10)",
-      "url": "https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
-      "album": {
-        "name": "mensenkind",
-        "url": "https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM"
-      },
-      "artists": [
-        {
-          "name": "damy",
-          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
-        }
-      ],
-      "duration_ms": 144444,
-      "name": "wolken",
-      "url": "https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW"
-    },
-    {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Little Time",
         "url": "https://open.spotify.com/album/3ejpXw3IeeMoaTTgm0KIoA"
@@ -629,7 +609,7 @@
       "url": "https://open.spotify.com/track/1WaQsiZuSKdjVx0NTrnpOX"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Silent Treatment",
         "url": "https://open.spotify.com/album/5LO6ze68qvFSZA9G8X5HVX"
@@ -645,7 +625,7 @@
       "url": "https://open.spotify.com/track/3Kfm28drfcq4sugyWsvIyd"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Waiting On You (Recorded Live)",
         "url": "https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK"
@@ -661,7 +641,27 @@
       "url": "https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Narco X Styn, Vol. 1",
+        "url": "https://open.spotify.com/album/4gI8wrYyoWCFbUBwkYbJ1l"
+      },
+      "artists": [
+        {
+          "name": "Narco Polo",
+          "url": "https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW"
+        },
+        {
+          "name": "Styn",
+          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "Een Vak Apart",
+      "url": "https://open.spotify.com/track/0HYQ5ecpzJjrF7ikjH86My"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/37E6beg4rfSVrJh5XHTad7"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Marathon I",
         "url": "https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d"
     },
     {
-      "added_at": "2024-06-25 21:26:36",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0"

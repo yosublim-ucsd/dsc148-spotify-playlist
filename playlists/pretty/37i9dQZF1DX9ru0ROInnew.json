@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 117279,
+  "num_followers": 117315,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1191,42 +1191,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Enemigos Ocultos",
-        "url": "https://open.spotify.com/album/3iH46vXV6xBilANZ2NBsFC"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 445746,
-      "name": "Enemigos Ocultos",
-      "url": "https://open.spotify.com/track/4DAuAtmSJEYoCDR3xpeliX"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Verdadera Vuelta",
         "url": "https://open.spotify.com/album/1N9uoPv76ac3oi8XXqJPop"
       },
@@ -1259,6 +1223,42 @@
       "duration_ms": 616600,
       "name": "Ninguno Se Monta",
       "url": "https://open.spotify.com/track/2YCU2jQ1laKqs4PuXbhGyT"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Enemigos Ocultos",
+        "url": "https://open.spotify.com/album/3iH46vXV6xBilANZ2NBsFC"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 445746,
+      "name": "Enemigos Ocultos",
+      "url": "https://open.spotify.com/track/4DAuAtmSJEYoCDR3xpeliX"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
-      },
-      "artists": [
-        {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 271080,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+      },
+      "artists": [
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1987,22 +1987,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
+      "duration_ms": 219880,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2035,6 +2039,26 @@
       "duration_ms": 327076,
       "name": "Me Ama Me Odia",
       "url": "https://open.spotify.com/track/5TpmzdjifuwWQZKE421TTq"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2111,30 +2135,6 @@
       "duration_ms": 193027,
       "name": "LowKey",
       "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 221055,
+      "name": "Activa",
+      "url": "https://open.spotify.com/track/6N3eomntFWFEpEjhksxYvc"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "47",
         "url": "https://open.spotify.com/album/3TQNU06kZkQgN54c8l5NwM"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 253972,
       "name": "47",
       "url": "https://open.spotify.com/track/7KhBQ6XFeAGrQzyT28MWvP"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 221055,
-      "name": "Activa",
-      "url": "https://open.spotify.com/track/6N3eomntFWFEpEjhksxYvc"
     },
     {
       "added_at": "2023-05-25 17:50:01",

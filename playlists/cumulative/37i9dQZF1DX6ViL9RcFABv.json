@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: iolanda",
+  "description": "Uma playlist de pura alma pop! Foto: David Carreira, LEO2745",
   "name": "Pop PT",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 342666,
       "name": "A Terra Gira (feat. B\u00e1rbara Tinoco) - Ao Vivo no Est\u00e1dio Cidade De Coimbra",
       "url": "https://open.spotify.com/track/6RUgFUI2nGoU2mv04yaDsP"
+    },
+    {
+      "album": {
+        "name": "Amigos Coloridos",
+        "url": "https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05"
+      },
+      "artists": [
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224478,
+      "name": "Amigos Coloridos",
+      "url": "https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK"
     },
     {
       "album": {
@@ -839,6 +857,24 @@
     },
     {
       "album": {
+        "name": "SNTMNTL",
+        "url": "https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn"
+      },
+      "artists": [
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181900,
+      "name": "H\u00e1 Sempre Uma M\u00fasica",
+      "url": "https://open.spotify.com/track/72zUGpAotxbRhlqXnB9nSD"
+    },
+    {
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/2EhWvwxCdHOLcIZbrylw8o"
       },
@@ -854,7 +890,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189046,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0JEoLrMXfX2eAuBqWGLQdt"
@@ -1152,7 +1188,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 177320,
       "name": "POP TOMA",
       "url": "https://open.spotify.com/track/3QOvVqKEPJpQVCqckmSUO5"
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 158766,
       "name": "sabesamar",
       "url": "https://open.spotify.com/track/1wJeFzk6SsB0o5ozRh2RGf"
@@ -1404,6 +1440,32 @@
       "duration_ms": 158536,
       "name": "Sil\u00eancio e Tanta Gente",
       "url": "https://open.spotify.com/track/1ficHVddpZ4rCfgExZXYpd"
+    },
+    {
+      "album": {
+        "name": "SINAIS",
+        "url": "https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        },
+        {
+          "name": "Catarina Filipe",
+          "url": "https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8"
+        },
+        {
+          "name": "Cunha Beats",
+          "url": "https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206392,
+      "name": "SINAIS",
+      "url": "https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t"
     },
     {
       "album": {

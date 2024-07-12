@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 469614,
       "name": "Emulate - Original Mix",
       "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 373592,
       "name": "HER",
       "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
@@ -1184,6 +1184,28 @@
       "duration_ms": 433299,
       "name": "I Never Thought (Soulful Remix)",
       "url": "https://open.spotify.com/track/0OM8CxsdhxnRidlrc1Z1nM"
+    },
+    {
+      "album": {
+        "name": "Imali (feat. Brandon Dhludhlu)",
+        "url": "https://open.spotify.com/album/6UZI8el89nTwidPXsd08Hy"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        },
+        {
+          "name": "Brandon Dhludhlu",
+          "url": "https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372413,
+      "name": "Imali (feat. Brandon Dhludhlu)",
+      "url": "https://open.spotify.com/track/75n7RBL3lZhjopFs9SXM5G"
     },
     {
       "album": {
@@ -1974,7 +1996,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
@@ -2128,6 +2150,24 @@
       "duration_ms": 424810,
       "name": "On It",
       "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
+    },
+    {
+      "album": {
+        "name": "Paradise Mixed (DJ Mix)",
+        "url": "https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311649,
+      "name": "Once Again - Mixed",
+      "url": "https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL"
     },
     {
       "album": {
@@ -3302,7 +3342,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
@@ -3346,7 +3386,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
@@ -3442,6 +3482,24 @@
       "duration_ms": 334426,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
+    },
+    {
+      "album": {
+        "name": "Reflection Of Hope",
+        "url": "https://open.spotify.com/album/5HPUOmNRpSgGHHtcKCKMV9"
+      },
+      "artists": [
+        {
+          "name": "AndileAndy",
+          "url": "https://open.spotify.com/artist/6PcHusHP9ow3HrIvqRJDua"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433030,
+      "name": "Your Presence - Prayer Mix",
+      "url": "https://open.spotify.com/track/7tMXGjfSfQC0kLJq3Qwuv7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,847 songs - 4 day 0 hr 19 min
+1,848 songs - 4 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ali Bomaye \(feat\. Calin & Luca Brassi10x\)](https://open.spotify.com/track/24IU97webXVzDUnkVjkcfF) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i) | [Ali Bomaye \(feat\. Calin & Luca Brassi10x\)](https://open.spotify.com/album/4FM5zFB8fH4bBKCd7SSwIe) | 2:13 | 2022-12-10 | 2023-01-02 |
 | [alibababigbass](https://open.spotify.com/track/0N9Fccu5ESGwWPJ3MU9Yt5) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [alibababigbass](https://open.spotify.com/album/5MwmzRrXO2cnVX8IvTdQvM) | 3:23 | 2021-03-27\* | 2023-10-15 |
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-04-28 | 2024-05-03 |
+| [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-11 |  |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2022-02-08 | 2022-02-10 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-11-19 | 2024-01-03 |
 | [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 | 2024-01-13 | 2024-01-16 |
@@ -459,7 +460,7 @@
 | [Fair Play](https://open.spotify.com/track/4WCbcrJgQk8zfKZhkGyzzX) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [Miro](https://open.spotify.com/album/4LuleaCdCGO47wTvdXlldq) | 3:13 | 2021-11-13 | 2021-11-14 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-09-30 |
 | [Fall](https://open.spotify.com/track/15aEHD7m3nUlWGZSUtKPSD) | [Kiddly Puff](https://open.spotify.com/artist/3ESkqEj80684oHA5B0VGDN) | [Sweet Dreams](https://open.spotify.com/album/4q7IS3wlUwO99JlHXWaJBg) | 1:09 | 2021-11-08 | 2021-11-10 |
-| [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-04-18 |  |
+| [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-04-18 | 2024-07-12 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-20 |
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-07 | 2024-05-09 |
 | [FAMILY SONG](https://open.spotify.com/track/2jmXzeC5Y0593E1zbKGsTC) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga), [Fobia Kid](https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta), [Dymer Surovec](https://open.spotify.com/artist/5XK1TUisHZ6VtIhqUIdR67), [Bighorse](https://open.spotify.com/artist/2k0EHimykDpKPMWHNiCOjG), [Komander Ground](https://open.spotify.com/artist/3GW1blnhGgSq7hp5xjOHKS), [NikoZPK](https://open.spotify.com/artist/7qjHNzNTxs1UnORcu5lTu4), [Dalyb](https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK) | [DLHÁ CESTA DOMOV](https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN) | 4:05 | 2024-05-22 | 2024-06-02 |

@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -730,6 +730,24 @@
       "duration_ms": 119037,
       "name": "badboysdontcry",
       "url": "https://open.spotify.com/track/3VjJAGD2rjdssieG46F4l4"
+    },
+    {
+      "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/27iElExSxvbi4qpBTdgHDM"
+      },
+      "artists": [
+        {
+          "name": "BLOWUP",
+          "url": "https://open.spotify.com/artist/1XvnSba5sUBDxF7b2oA0aV"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146624,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/6sbvfCBcw34FC86b7LyrDh"
     },
     {
       "album": {
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 250426,
       "name": "Nukho",
       "url": "https://open.spotify.com/track/2WrWkmxfz87dsSFn4YwZOA"
@@ -5574,6 +5592,24 @@
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "album": {

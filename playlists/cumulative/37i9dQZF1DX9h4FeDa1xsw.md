@@ -2,13 +2,14 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Kemmler
+> Photo : Carbonne
 
-41 songs - 1 hr 59 min
+42 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Allo la lune](https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw) | 3:06 | 2024-06-20 |  |
+| [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-07-11 |  |
 | [Carrousel](https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Carrousel](https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC) | 2:19 | 2024-06-20 |  |
 | [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 | 2024-06-20 |  |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 |  |
@@ -41,7 +42,7 @@
 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 | 2024-06-20 |  |
 | [Primate déprimé](https://open.spotify.com/track/4g3mp0Y5G3PQ75hDO5XjqI) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 3:13 | 2024-06-20 |  |
 | [Risque](https://open.spotify.com/track/0JAKM5NQrqcgSummZSHf7b) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 2:57 | 2024-06-20 |  |
-| [SAD](https://open.spotify.com/track/4Ltrw83dKDPZiLneBSEZWI) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [SAD](https://open.spotify.com/album/2uKHrp7riKGlYaMKqX7hUC) | 3:20 | 2024-06-20 |  |
+| [SAD](https://open.spotify.com/track/4Ltrw83dKDPZiLneBSEZWI) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [SAD](https://open.spotify.com/album/2uKHrp7riKGlYaMKqX7hUC) | 3:20 | 2024-06-20 | 2024-07-12 |
 | [Sans Histoires](https://open.spotify.com/track/0yKiYhGtdEGT5hFkhJ84ys) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Sans Histoires](https://open.spotify.com/album/2yVFI5LJ49IV3UnWToc29i) | 2:45 | 2024-06-20 |  |
 | [Shuriken School](https://open.spotify.com/track/31sePGKxXCwAaOet4bcUw3) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Shuriken School](https://open.spotify.com/album/32aJg3s2WivGsYBjLkPrmp) | 3:14 | 2024-06-20 | 2024-07-05 |
 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 | 2024-06-20 |  |

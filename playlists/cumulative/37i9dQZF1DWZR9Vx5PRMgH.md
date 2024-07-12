@@ -4,7 +4,7 @@
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-25 songs - 1 day 1 hr 18 min
+25 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [EP 115: EL PODER \| MARTHA DEBAYLE](https://open.spotify.com/episode/7uezIqoPqz2rygZJgh4yhi) | [La Burra Arisca ](https://open.spotify.com/show/4cKDfZDmxt0dRzYvs8EJBv) | [La Burra Arisca ](https://open.spotify.com/album/4cKDfZDmxt0dRzYvs8EJBv) | 1:04:25 | 2024-03-07 |  |
 | [Ep\. 102 Sofía Macías: Dinero en familia, límites con la lana y sugar daddies](https://open.spotify.com/episode/2zKu5UH9fPwund8X4rjVTW) | [Sensibles y Chingonas con Romina Sacre](https://open.spotify.com/show/1GBEF6WxSqA0YdpXxx9eUr) | [Sensibles y Chingonas con Romina Sacre](https://open.spotify.com/album/1GBEF6WxSqA0YdpXxx9eUr) | 1:12:00 | 2024-03-07 |  |
 | [Ep\. 25: Palabras sin miedo \- con Vivir Quintana](https://open.spotify.com/episode/0UbSCyzPzIkUTmjXNLuHkp) | [Señoras Punk ](https://open.spotify.com/show/4hS2jWFOWhyQlYgmJsXdSq) | [Señoras Punk ](https://open.spotify.com/album/4hS2jWFOWhyQlYgmJsXdSq) | 1:12:10 | 2024-03-07 |  |
-| [EP.125: YO NO NACÍ FEMINISTA](https://open.spotify.com/episode/6cnffrQry55Pt5PZ4ZQAvj) | [LIBRE&LOCA](https://open.spotify.com/show/2Rldfy8hmjP3fnLOgdlpEx) | [LIBRE&LOCA](https://open.spotify.com/album/2Rldfy8hmjP3fnLOgdlpEx) | 29:25 | 2024-03-07 |  |
+| [EP.125: YO NO NACÍ FEMINISTA](https://open.spotify.com/episode/6cnffrQry55Pt5PZ4ZQAvj) | [LIBRE&LOCA](https://open.spotify.com/show/2Rldfy8hmjP3fnLOgdlpEx) | [LIBRE&LOCA](https://open.spotify.com/album/2Rldfy8hmjP3fnLOgdlpEx) | 29:05 | 2024-03-07 |  |
 | [EP.2 I CON VIDEO I SORPRESAS!!!! I FT\. HERLY RG ](https://open.spotify.com/episode/5k2TVByVpeCZNjTHHDe0UO) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 1:06:09 | 2024-03-07 |  |
 | [EP.50 I QUE OSO MI 1RA VEZ I FT\. DAMITAS HISTERIA](https://open.spotify.com/episode/0fDzeuvQAcE3mKOMzK4Hif) | [Poderosas Podcast](https://open.spotify.com/show/67OcUr4XafenPfLJwvixkA) | [Poderosas Podcast](https://open.spotify.com/album/67OcUr4XafenPfLJwvixkA) | 1:13:37 | 2024-03-07 |  |
 | [EP.97 I PODER](https://open.spotify.com/episode/5CyFsznHFlTA2noIWeipki) | [Radio Manguito Chupado](https://open.spotify.com/show/0ee0ftasL4PCGv8EJzHAEh) | [Radio Manguito Chupado](https://open.spotify.com/album/0ee0ftasL4PCGv8EJzHAEh) | 1:16:54 | 2024-03-07 |  |

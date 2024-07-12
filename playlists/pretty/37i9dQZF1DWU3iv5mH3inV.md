@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> El Dembow que está subiendo\. Foto: La Perversa
+> El Dembow que está subiendo\. Foto: Yaisel LM
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,450 likes - 75 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,505 likes - 75 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Che Che](https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Che Che](https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS) | 2:20 |
-| 2 | [Ay Bebe](https://open.spotify.com/track/4Op5jmYTdAlj2vuU0UOtPY) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [El Brujo](https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G) | 1:43 |
-| 3 | [Maldita Sal](https://open.spotify.com/track/3rJdYvSgXFj7XJVAmRJxAn) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Maldita Sal](https://open.spotify.com/album/2QLSi2KSvTwRfazhzoXl15) | 2:07 |
-| 4 | [Hoy Si](https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Hoy Si](https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs) | 2:04 |
+| 2 | [Hoy Si](https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Hoy Si](https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs) | 2:04 |
+| 3 | [Ay Bebe](https://open.spotify.com/track/4Op5jmYTdAlj2vuU0UOtPY) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [El Brujo](https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G) | 1:43 |
+| 4 | [Maldita Sal](https://open.spotify.com/track/3rJdYvSgXFj7XJVAmRJxAn) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Maldita Sal](https://open.spotify.com/album/2QLSi2KSvTwRfazhzoXl15) | 2:07 |
 | 5 | [Que Chulo](https://open.spotify.com/track/1LjOKsO0gU9D5jG7446SMl) | [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Que Chulo](https://open.spotify.com/album/29JOEyiKh4hiDvjxrKNmgn) | 1:55 |
 | 6 | [Ou Ay!](https://open.spotify.com/track/6tQoRGrJlyDp1nSiGoiZlS) | [Emma La Melma](https://open.spotify.com/artist/1lc7MpOraLJNhxjI2w8KWn), [B Life](https://open.spotify.com/artist/1y8A2e05cU45MSP0QiMyuI), [T Silver](https://open.spotify.com/artist/5el9IgiId5EdfKmt0nTfZG) | [Ou Ay!](https://open.spotify.com/album/1ekdrieJpKhRaNRxAfKyiA) | 2:17 |
 | 7 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 74 | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/album/7K70x95rpKdWPWaVDxdRZF) | 2:37 |
 | 75 | [Cuidate](https://open.spotify.com/track/5zwENmwZjAo20BKprSbBRE) | [Lowiskey47](https://open.spotify.com/artist/1bepWcdNMTHN1EnWspNeBD), [DEMS PRODUCE](https://open.spotify.com/artist/1RIRoOQB8kyNI0qtySJrf8) | [Cuidate](https://open.spotify.com/album/2Kb1yEB7cVS4XRkql0fLjZ) | 2:42 |
 
-Snapshot ID: `Zo8ZigAAAAD4qtz3PnZpu5YM6zCrCQvQ`
+Snapshot ID: `ZpA5pAAAAAAz1ZT5CSw68R854xISZ29p`

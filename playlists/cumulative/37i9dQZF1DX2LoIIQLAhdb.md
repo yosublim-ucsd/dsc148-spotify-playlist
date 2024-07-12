@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Ronisia
+> Le R&B français, nouvelle ère\. Photo : Louzio
 
-328 songs - 15 hr 41 min
+329 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Candy](https://open.spotify.com/track/0U8PAXrNktnPR0aQEmfV5P) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Candy](https://open.spotify.com/album/75Q2UhYj53Mjqc7DXeGEY3) | 2:32 | 2024-02-08 | 2024-05-10 |
 | [Cardio](https://open.spotify.com/track/31L0exaoUdAnzx9emY9zYU) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [Cardio](https://open.spotify.com/album/4oVJWi6TrzezKEUJC32gBM) | 2:34 | 2023-11-09 | 2023-12-01 |
 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 | 2023-01-12 | 2024-01-12 |
-| [Chargé](https://open.spotify.com/track/6rAXyvFRcgQb8CvMHAV2h2) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Chargé](https://open.spotify.com/album/19svbEeQHhBs6BOGllJobD) | 2:07 | 2024-06-20 |  |
+| [Chargé](https://open.spotify.com/track/6rAXyvFRcgQb8CvMHAV2h2) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Chargé](https://open.spotify.com/album/19svbEeQHhBs6BOGllJobD) | 2:07 | 2024-06-20 | 2024-07-12 |
 | [Charlotte](https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0) | 3:34 | 2023-05-25 | 2023-07-21 |
 | [Chic](https://open.spotify.com/track/38sPQGVoRnzlF4VBr71fln) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Chic](https://open.spotify.com/album/6uLz99apI6nb6DJnarejuk) | 3:20 | 2022-12-08 | 2023-03-03 |
 | [Chill \(feat\. Lisandro Cuxi\)](https://open.spotify.com/track/2iU2zIwf1swwLUTMLkb5NN) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [era 24](https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL) | 2:55 | 2023-11-16 | 2024-06-14 |
@@ -85,6 +85,7 @@
 | [Demoiselle](https://open.spotify.com/track/1rBGjBW9hsKvPt0QVnQk0g) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Demoiselle](https://open.spotify.com/album/3d84xx6ylXxDnLMQIzMHF4) | 2:25 | 2023-07-06 | 2023-07-21 |
 | [Dernier je t'aime](https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Dernier je t'aime](https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M) | 2:48 | 2023-01-26 | 2023-10-27 |
 | [Derrière toi](https://open.spotify.com/track/3cBpa9HYqtxLaGyLDQzbr6) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Train de vie](https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez) | 3:10 | 2023-02-09 | 2023-03-23 |
+| [DEUSPI](https://open.spotify.com/track/1tiPiU4mka9lKzA0gJTpTW) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [VIVRE](https://open.spotify.com/album/0fMgBtpqEHMbe0kQjNsmSA) | 2:06 | 2024-07-11 |  |
 | [Diamant](https://open.spotify.com/track/46uwAtOsDM3mAJOp8ycCxM) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Diamant](https://open.spotify.com/album/6YmOjxGasiEdLsntn4srFf) | 3:16 | 2023-04-20 | 2023-06-30 |
 | [Dis\-moi tout](https://open.spotify.com/track/61pucFFwYO0Y8iH8kURccf) | [Svudvde](https://open.spotify.com/artist/5QKWzDESEU183DJckjnzMo) | [Dis\-moi tout](https://open.spotify.com/album/6RiKiXDQoeZSXVDpe4HnBb) | 2:52 | 2023-06-15 | 2023-08-11 |
 | [Djali](https://open.spotify.com/track/3rAuJYIXR7LaW2FROUcr92) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Djali](https://open.spotify.com/album/2bNZrCOEARuzjfGPLYYxQV) | 3:35 | 2024-02-22 | 2024-03-15 |

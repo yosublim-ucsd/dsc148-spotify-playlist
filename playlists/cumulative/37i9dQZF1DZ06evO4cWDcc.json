@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-05",
-  "description": "This Is Jimi Hendrix. Los temas esenciales, todos en una lista.",
+  "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
   "name": "This Is Jimi Hendrix",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 251013,
       "name": "Bold as Love",
       "url": "https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168920,
       "name": "Castles Made of Sand",
       "url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 334520,
       "name": "If 6 Was 9",
       "url": "https://open.spotify.com/track/0J3CHAStO3pNGTnYnxKZod"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 182546,
       "name": "Wait Until Tomorrow",
       "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"

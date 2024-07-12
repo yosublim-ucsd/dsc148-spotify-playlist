@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 151351,
       "name": "D\u00e8s l'matin",
       "url": "https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h"
@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -4083,6 +4083,28 @@
     },
     {
       "album": {
+        "name": "JOUJOU",
+        "url": "https://open.spotify.com/album/467vsThuQRDFNtGFo54Jip"
+      },
+      "artists": [
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        },
+        {
+          "name": "Samy Lrzo",
+          "url": "https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152842,
+      "name": "JOUJOU",
+      "url": "https://open.spotify.com/track/0oNi80I33VmeM46tpDXStY"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm"
       },
@@ -4560,7 +4582,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 174049,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/69fWryTuH5JezLWJQepEhv"
@@ -4820,6 +4842,28 @@
       "duration_ms": 175200,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/5SDPAYcZY5jWJT9VrXhPqm"
+    },
+    {
+      "album": {
+        "name": "Love (French Remix)",
+        "url": "https://open.spotify.com/album/6x82evLa3aeI9agy8mNbE4"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Love (French Remix)",
+      "url": "https://open.spotify.com/track/7jOKVEH8BKVJekdWY9yOeH"
     },
     {
       "album": {
@@ -5340,6 +5384,28 @@
       "duration_ms": 144066,
       "name": "Menteur (feat. Ronisia)",
       "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
+    },
+    {
+      "album": {
+        "name": "Metti (feat. Emma'a)",
+        "url": "https://open.spotify.com/album/3umtrewfcHdu7J4pV6Wj6L"
+      },
+      "artists": [
+        {
+          "name": "Papi",
+          "url": "https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157148,
+      "name": "Metti (feat. Emma'a)",
+      "url": "https://open.spotify.com/track/71XmYb0EzVXYANode3rbPc"
     },
     {
       "album": {
@@ -6268,7 +6334,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
@@ -7399,6 +7465,24 @@
     },
     {
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2wkkmWlkPwBaMVE3Cs6VIl"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201355,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/3GcJMp3qA4F8S2vGZ4yZ0N"
+    },
+    {
+      "album": {
         "name": "Selling Dreams",
         "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
       },
@@ -7483,6 +7567,24 @@
     },
     {
       "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175636,
+      "name": "Showa",
+      "url": "https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb"
+    },
+    {
+      "album": {
         "name": "What I've Been Missing",
         "url": "https://open.spotify.com/album/3KGqab98XetDo97GDzV65O"
       },
@@ -7534,6 +7636,24 @@
       "duration_ms": 153893,
       "name": "Skeu t\u2019attends de moi",
       "url": "https://open.spotify.com/track/6ofVlkwHudUUorfUSwF1ob"
+    },
+    {
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "album": {
@@ -7810,7 +7930,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189019,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/423xcjejlvFG1TfGTarhXv"
@@ -7990,7 +8110,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184102,
       "name": "SUPA FUEGO",
       "url": "https://open.spotify.com/track/59alFLlJEYKqVnYBTAjD7L"
@@ -8348,6 +8468,28 @@
       "duration_ms": 145979,
       "name": "toronto",
       "url": "https://open.spotify.com/track/2MOQ05zcFoGSQsXAir8FxT"
+    },
+    {
+      "album": {
+        "name": "Je T'avais Dit, Non?",
+        "url": "https://open.spotify.com/album/7gZpTGhY7OkBZNWKEs4Kxw"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Tout Donner",
+      "url": "https://open.spotify.com/track/1HSZMFQHI8fsoz6nhKwy4L"
     },
     {
       "album": {
@@ -8878,7 +9020,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"

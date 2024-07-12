@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,157 songs - 2 day 17 hr 59 min
+1,159 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [いつかオトナになれるといいね。](https://open.spotify.com/track/5kCSZ1QK0Ac5C5sSg1Eg7B) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [いつかオトナになれるといいね。](https://open.spotify.com/album/0yQLpQhIhOTVFya8OXrHgp) | 2:55 | 2022-06-13 | 2022-07-16 |
 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2023-01-03 | 2023-03-29 |
 | [いぶき](https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いぶき](https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW) | 3:17 | 2023-04-13 | 2023-06-09 |
+| [うい麦畑でつかまえて](https://open.spotify.com/track/4PXTz0TbOtqE3cGWImYri3) | [しぐれうい](https://open.spotify.com/artist/4QmmjQcHDOxrHKUHtpBVyt) | [うい麦畑でつかまえて](https://open.spotify.com/album/5YQWZlU81pZSIxJ80i5CAs) | 3:44 | 2024-07-11 |  |
 | [うぉーしゃんだんす](https://open.spotify.com/track/2T9AwTdckmKW43uk9dT1zg) | [あたし](https://open.spotify.com/artist/7cXVvrtPmYeDXGSSTvOoSU) | [うぉーしゃんだんす](https://open.spotify.com/album/1QFNAYjtRUN2UjKLmcF8Y8) | 2:55 | 2022-06-16 | 2022-07-11 |
 | [うたたね](https://open.spotify.com/track/5ELTqKTJL8CMEhpTNECmWz) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [うたたね](https://open.spotify.com/album/7zLTIBmAfSCfN3e4orGrnv) | 2:44 | 2022-10-25 | 2022-11-16 |
 | [え?あぁ、そう。](https://open.spotify.com/track/7ayHW1ALCYbGpeyRa2xY2m) | [NORISTRY](https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU) | [え?あぁ、そう。](https://open.spotify.com/album/5MHv2Aii8EPBwllXb7u8Zk) | 3:14 | 2022-07-14 | 2022-07-16 |
@@ -451,7 +452,7 @@
 | [くらげ](https://open.spotify.com/track/4iI2LdIZE3e9HwzY6NAMJk) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [くらげ](https://open.spotify.com/album/1TlpulOz0HHSsN8iJ60gvV) | 3:33 | 2024-01-18 | 2024-02-14 |
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-30 | 2022-07-04 |
 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 | 2024-02-28 | 2024-06-07 |
-| [ことばのこり](https://open.spotify.com/track/6FVFzDQ5U7GKr7EkNFawG4) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [ことばのこり](https://open.spotify.com/album/7y1FYnp1VPygPouA9hVANP) | 3:54 | 2024-07-09 |  |
+| [ことばのこり](https://open.spotify.com/track/6FVFzDQ5U7GKr7EkNFawG4) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [ことばのこり](https://open.spotify.com/album/7y1FYnp1VPygPouA9hVANP) | 3:54 | 2024-07-09 | 2024-07-12 |
 | [こまっちゃうナ 2023](https://open.spotify.com/track/3YCng11mK2ypK6oUEy6rYN) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [こまっちゃうナ 2023](https://open.spotify.com/album/0Wd1Oizo1G8jXm2MjgYNWP) | 3:03 | 2023-05-16 | 2023-05-31 |
 | [これだからやめらんない!](https://open.spotify.com/track/1KnujnydiDuU7ardc0LYpl) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [これだからやめらんない!](https://open.spotify.com/album/33hq404ABQqbt4JI0Egsrp) | 2:45 | 2023-03-15 | 2023-03-16 |
 | [さよならノヴェル](https://open.spotify.com/track/1eKFhZFsvYhhrdzsTyj3fc) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [綾瀬なりさ](https://open.spotify.com/artist/4J31KiLWmVhHlpIXaeTcb4) | [さよならノヴェル](https://open.spotify.com/album/0GyGXiYidz1ubZYN166W5F) | 3:57 | 2022-09-20 | 2022-09-28 |
@@ -496,7 +497,7 @@
 | [まいほろう](https://open.spotify.com/track/0C62SapmW8r7KaN36RE9uu) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [まいほろう](https://open.spotify.com/album/1rQBAoiwwvPNTXkan2hlrw) | 2:40 | 2022-06-09 | 2022-07-27 |
 | [まだ浅はか \(feat\. 和ぬか\)](https://open.spotify.com/track/4cbnqWCOWxkZa5zHDuMqSA) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [まだ浅はか \(feat\. 和ぬか\)](https://open.spotify.com/album/4H767ooBx651dGXNBGlHal) | 3:42 | 2022-06-23 | 2022-07-27 |
 | [まほろば](https://open.spotify.com/track/4DJBVFuW7TZ5aa7uy2wTmE) | [アーリオ・オーリオ・エ・ペペロンチーノ](https://open.spotify.com/artist/2Dkaqg1r0QSXn526uMA09p) | [まほろば](https://open.spotify.com/album/2U6eex6mlqen3LOgKjeeWy) | 3:49 | 2024-02-20 | 2024-03-08 |
-| [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 | 2023-02-02 |  |
+| [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 | 2023-02-02 | 2024-07-12 |
 | [みんな他人の夜](https://open.spotify.com/track/5F8yoHF6QgLxpBPynx1G2p) | [久遠](https://open.spotify.com/artist/1UIdyPdJbSt7J5siWAugUq) | [みんな他人の夜](https://open.spotify.com/album/6P0yWVY21Hn6QX2BdCkHj4) | 3:48 | 2023-05-30 | 2023-07-05 |
 | [めんどくさいのうた](https://open.spotify.com/track/2wGwMW4CTT9CMyx5jBOuaG) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [めんどくさいのうた](https://open.spotify.com/album/707tllMKBbYAb2qkjlScYk) | 2:47 | 2024-01-30 | 2024-02-14 |
 | [もういいもん](https://open.spotify.com/track/2740vs2lsTqRuOO0Zd5GvY) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [ハイノミ](https://open.spotify.com/artist/2vI6qg6VsqXpPwIawHPQEI) | [もういいもん](https://open.spotify.com/album/1Xe47aToRHQB66RL11fFGQ) | 3:18 | 2023-03-09 | 2023-03-15 |
@@ -704,6 +705,7 @@
 | [ピアスを飲む](https://open.spotify.com/track/0MeVGdMTHtVDu9bYS21BcS) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ピアスを飲む](https://open.spotify.com/album/4gELhndqwqi2hJjO7ljuqp) | 2:42 | 2023-04-06 | 2023-06-09 |
 | [ファイター](https://open.spotify.com/track/1HpLRKbRNAaSHZ2fkQmb8R) | [Gluttony](https://open.spotify.com/artist/217EA5UpsorEzs2VRPvHKZ) | [ファイター](https://open.spotify.com/album/1ie1cCM8g6H1P2PAV9gPGm) | 3:06 | 2023-02-01 | 2023-02-02 |
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 | 2024-07-10 |
+| [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 | 2024-07-11 |  |
 | [フィナーレ](https://open.spotify.com/track/6QvyZ3BBTTu66ynGkY1J41) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [フィナーレ](https://open.spotify.com/album/59JFCRRQCXAU3pb0AbzvD0) | 2:26 | 2022-09-14 | 2022-09-21 |
 | [フィルム](https://open.spotify.com/track/2P4lnrpoDiuwBbaaLZtQ3B) | [青い子](https://open.spotify.com/artist/7kpL1G3ZiRLBZz5nUZBnnp) | [フィルム](https://open.spotify.com/album/3Lg1Hjo8Okr1ypF90lxSKm) | 3:04 | 2024-02-13 | 2024-02-21 |
 | [フェーダー](https://open.spotify.com/track/0c5nSYCww2OAFTjVuQrpDj) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [現在地未明](https://open.spotify.com/album/2D1TbXOxpQj4zm5VlDetnk) | 2:51 | 2022-06-13 | 2022-07-20 |
@@ -811,7 +813,7 @@
 | [会えない](https://open.spotify.com/track/69iM6Hngr0OkZBxxCaohEx) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [Aizawa](https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb) | [会えない](https://open.spotify.com/album/0QkxlHYmvEsgFRsAhhP8Jz) | 3:30 | 2023-11-14 | 2024-02-21 |
 | [何もかもしんどい！](https://open.spotify.com/track/334hPhmditDCy9m8ixsZ35) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [何もかもしんどい！](https://open.spotify.com/album/3zOnhA4MoCGnb7mwMxU2t2) | 1:20 | 2024-04-16 | 2024-04-24 |
 | [個性](https://open.spotify.com/track/56Fr4U5BImRoCe84QqCNJf) | [Awairo](https://open.spotify.com/artist/5zCXmpe2klqd9LXL9Q7gxa) | [個性](https://open.spotify.com/album/3ZCcLATYnK0XMLiZErvagX) | 3:16 | 2023-12-07 | 2023-12-20 |
-| [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 | 2024-01-16 |  |
+| [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 | 2024-01-16 | 2024-07-12 |
 | [僕らのストラテジー](https://open.spotify.com/track/2yrOqr7f2bJg5Z5keVIbO8) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp), [晴いちばん](https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW), [Flower](https://open.spotify.com/artist/0VPLGnexd8K6BGbpLiPPVj) | [Ukulele Strategy](https://open.spotify.com/album/47xjZNxmVLnMTTbZrQCWVW) | 3:01 | 2022-06-21 | 2022-07-08 |
 | [優しさの在処](https://open.spotify.com/track/6arv0f7LlfDlyNfsaeVNjV) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [優しさの在処](https://open.spotify.com/album/2coTiBKAUB80TgEKpLxPfa) | 3:43 | 2022-06-30 | 2022-07-05 |
 | [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-01 | 2023-02-24 |

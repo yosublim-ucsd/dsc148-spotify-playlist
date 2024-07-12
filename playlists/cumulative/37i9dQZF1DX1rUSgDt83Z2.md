@@ -2,9 +2,9 @@
 
 ### [Made in NL](https://open.spotify.com/playlist/37i9dQZF1DX1rUSgDt83Z2)
 
-> Mooi van eigen bodem, nationaal in elke taal\. Cover: Diggy Dex & Typhoon
+> Mooi van eigen bodem, nationaal in elke taal\. Cover: Re\-Play & Ruth Jacott
 
-50 songs - 2 hr 36 min
+52 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Moonlight Drive](https://open.spotify.com/track/5P7QfIkTLyWIF3VYVOHzYi) | [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Moonlight Drive](https://open.spotify.com/album/5S5GtHB5s6tUAnbG1T44we) | 3:18 | 2024-06-24 |  |
 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-06-24 |  |
 | [Not a game](https://open.spotify.com/track/1c81DfdPrL41JzciAU3FeX) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [Not a game](https://open.spotify.com/album/0DOY7ZM2S1noAk20375tt8) | 2:55 | 2024-06-24 |  |
+| [Numbers](https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 | 2024-07-11 |  |
 | [Omdat Je Me Ziet](https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Omdat Je Me Ziet](https://open.spotify.com/album/0nCjIQmD4gmIZrXSTcJ46x) | 2:48 | 2024-06-27 |  |
 | [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-06-24 |  |
 | [Regenhart](https://open.spotify.com/track/2MIpqsKokjAnNbJKgdKC0e) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Regenhart](https://open.spotify.com/album/1IPe5pTccIVX5WBxFYbm1C) | 3:29 | 2024-06-24 |  |
@@ -48,14 +49,15 @@
 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-06-24 |  |
 | [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 | 2024-06-24 |  |
 | [Tankstation](https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Tankstation](https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3) | 3:22 | 2024-06-24 |  |
-| [The Story Ain't Over Yet](https://open.spotify.com/track/0FFzjVyx9nfRxl9QpBvH68) | [Zen Link](https://open.spotify.com/artist/4iTOzQGkd3SdaJcTE6Mn6F) | [The Story Ain't Over Yet](https://open.spotify.com/album/5M65FcMQe2v0Ev5ZJltFKn) | 3:43 | 2024-06-24 |  |
+| [The Story Ain't Over Yet](https://open.spotify.com/track/0FFzjVyx9nfRxl9QpBvH68) | [Zen Link](https://open.spotify.com/artist/4iTOzQGkd3SdaJcTE6Mn6F) | [The Story Ain't Over Yet](https://open.spotify.com/album/5M65FcMQe2v0Ev5ZJltFKn) | 3:43 | 2024-06-24 | 2024-07-12 |
 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 | 2024-06-24 |  |
 | [Verbonden](https://open.spotify.com/track/6E8c8jeXEiGBosTfXuiq2H) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Verbonden](https://open.spotify.com/album/0WXUWk23Vy0tMhP7v0I3a9) | 3:00 | 2024-06-24 |  |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-06-24 |  |
 | [Vroeger Of Later](https://open.spotify.com/track/75y3NXrnUyx5ihHYQkz0PO) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Vroeger Of Later](https://open.spotify.com/album/2FG9W0IT03bXxpHaP1kuTx) | 3:15 | 2024-06-24 |  |
 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 | 2024-06-24 |  |
 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 | 2024-06-24 |  |
-| [Winnaar Van De Tijd](https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Winnaar Van De Tijd](https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8) | 2:29 | 2024-06-24 |  |
+| [Winnaar Van De Tijd](https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Winnaar Van De Tijd](https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8) | 2:29 | 2024-06-24 | 2024-07-12 |
+| [YOUNGER ME](https://open.spotify.com/track/3zltYP3YIcvM1LkMT1Mitr) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [YOUNGER ME](https://open.spotify.com/album/6ikyXmmKQY2xBz6EXCxvlX) | 3:06 | 2024-07-11 |  |
 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 | 2024-06-24 |  |
 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 | 2024-06-27 |  |
 

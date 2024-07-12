@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Merrily We Roll Along
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,869 likes - 79 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,892 likes - 79 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 61 | [I Get A Kick Out Of You](https://open.spotify.com/track/2GS0xi7GyKNT63khohKoPF) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Anything Goes](https://open.spotify.com/album/2JbVugn3tjScpYYq2aUMaz) | 2:24 |
 | 62 | [Santa Fe](https://open.spotify.com/track/5fTikjXnFxv1CU6AiEPBLB) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast\)](https://open.spotify.com/album/6M45nH4iBkTxAVMzR3YGOk) | 3:12 |
 | 63 | [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 |
-| 64 | [Cabaret \(from "Cabaret"\)](https://open.spotify.com/track/5ySJFXo0jQmn8O8J81yzJD) | [Natasha Richardson](https://open.spotify.com/artist/6FwAZUidq5yFqZuLg94DuM), [Alan Cumming](https://open.spotify.com/artist/66T9wYAojCjsnxM4R5KAhW) | [The Essential Broadway](https://open.spotify.com/album/3gGJBjFWvp8oOYIF1MBSQQ) | 4:12 |
+| 64 | [Cabaret \(from "Cabaret"\)](https://open.spotify.com/track/5ySJFXo0jQmn8O8J81yzJD) | [John Kander](https://open.spotify.com/artist/7xSEQmlssbeoIUdQ0HFjUT), [Natasha Richardson](https://open.spotify.com/artist/6FwAZUidq5yFqZuLg94DuM), [Alan Cumming](https://open.spotify.com/artist/66T9wYAojCjsnxM4R5KAhW), [Patrick Vaccariello](https://open.spotify.com/artist/4hDUIdyQ6rY8WRf11gMIGz) | [The Essential Broadway](https://open.spotify.com/album/3gGJBjFWvp8oOYIF1MBSQQ) | 4:12 |
 | 65 | [Satisfied](https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 5:29 |
 | 66 | [Come On! Feel the Illinoise!](https://open.spotify.com/track/4gzJqq8u5qlv13gbmQjm8d) | [Elijah Lyons](https://open.spotify.com/artist/3mNGrNlQWwUMXeVH6erp17), [My Brightest Diamond](https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B), [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej), [Original Cast of Illinoise: A New Musical](https://open.spotify.com/artist/60YCQIxNBYpPLVhEvCy8Mr) | [Illinoise: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa) | 6:34 |
 | 67 | [All That Jazz](https://open.spotify.com/track/3nAuX0TA8yhqsPDHO8ybFe) | [Chicago Ensemble \(1997\)](https://open.spotify.com/artist/5mitnQA7skz8pAo8W6t9ph) | [Chicago The Musical \(New Broadway Cast Recording \(1997\)\)](https://open.spotify.com/album/5zgxFgQiGAqNmAY5EhgVWv) | 5:05 |

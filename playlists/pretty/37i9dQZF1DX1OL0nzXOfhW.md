@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover:   Joya
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Wantamnam 我地希望
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,972 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,974 likes - 52 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 |
-| 2 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
-| 3 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
-| 4 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 |
-| 5 | [想 Want](https://open.spotify.com/track/505eClzHVGgNy4AUGdjTdW) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想 Want](https://open.spotify.com/album/5TzRmcWH06BWAdhAA9StBX) | 4:21 |
-| 6 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 |
-| 7 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 |
+| 1 | [想 Want](https://open.spotify.com/track/505eClzHVGgNy4AUGdjTdW) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想 Want](https://open.spotify.com/album/5TzRmcWH06BWAdhAA9StBX) | 4:21 |
+| 2 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 |
+| 3 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 |
+| 4 | [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 |
+| 5 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
+| 6 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
+| 7 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 |
 | 8 | [你只需要保持可愛](https://open.spotify.com/track/751ZpB5hwmXxxjrJpB8U6s) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [你只需要保持可愛](https://open.spotify.com/album/19SxeODofSVCAQV0IjN0yE) | 3:10 |
 | 9 | [Soufflé](https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Soufflé](https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB) | 3:02 |
 | 10 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 51 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 52 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `ZobHAAAAAAC1sPFM73P6XichG2s7bit1`
+Snapshot ID: `ZpABgAAAAAAziuweGNTviqiyZJ0kY4VB`

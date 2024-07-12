@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "For your daily dosis of music with an Indie twist. Cover: Sylvie Kreusch",
+  "description": "For your daily dosis of music with an Indie twist. Cover: Chappell Roan",
   "name": "A Shot Of Indie",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "album": {
@@ -146,10 +164,28 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
+    },
+    {
+      "album": {
+        "name": "Busy Doing Nothing",
+        "url": "https://open.spotify.com/album/4RXMH98NmrxMkInHxnp4mS"
+      },
+      "artists": [
+        {
+          "name": "Mickie",
+          "url": "https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Busy Doing Nothing",
+      "url": "https://open.spotify.com/track/3lDmfwvKqwyDiZUSGNCUHY"
     },
     {
       "album": {
@@ -182,7 +218,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161168,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
@@ -200,7 +236,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 213040,
       "name": "Can't Be Alone",
       "url": "https://open.spotify.com/track/1U7DdSB2WU9Y2EtzNIwdur"
@@ -398,7 +434,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 245306,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/2o7RGgpWWr8eQMidtLlNNi"
@@ -675,6 +711,24 @@
     },
     {
       "album": {
+        "name": "it takes a long time to feel free",
+        "url": "https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP"
+      },
+      "artists": [
+        {
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275533,
+      "name": "it takes a long time to feel free",
+      "url": "https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U"
       },
@@ -758,7 +812,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 219099,
       "name": "Lover To Stranger",
       "url": "https://open.spotify.com/track/1WmU3Ub6nCef9OSRjeZONV"
@@ -949,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Peachy Free",
+        "url": "https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94"
+      },
+      "artists": [
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154051,
+      "name": "Peachy Free",
+      "url": "https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2"
+    },
+    {
+      "album": {
         "name": "bluey",
         "url": "https://open.spotify.com/album/19K1kvE8m1DjWPfXOwFCcZ"
       },
@@ -964,6 +1036,24 @@
       "duration_ms": 102305,
       "name": "perfume",
       "url": "https://open.spotify.com/track/1efpLeEhZoX202uzuCoT7F"
+    },
+    {
+      "album": {
+        "name": "Rat King",
+        "url": "https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1"
+      },
+      "artists": [
+        {
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223374,
+      "name": "Rat King",
+      "url": "https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP"
     },
     {
       "album": {

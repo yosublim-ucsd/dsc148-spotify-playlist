@@ -1,12 +1,12 @@
 {
   "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: juan karlos",
-  "num_followers": 161938,
+  "num_followers": 162068,
   "original_name": "OPM Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZouRTwAAAAAVzeGhbF69EHgBaVuBlanN",
+  "snapshot_id": "Zo91CQAAAADU7iX3Mg7FGP2MOwkwvjGa",
   "tracks": [
     {
       "added_at": "2024-07-08 07:12:15",
@@ -91,6 +91,42 @@
       "duration_ms": 253521,
       "name": "Medyo Ako (feat. Moira Dela Torre)",
       "url": "https://open.spotify.com/track/2iVloJhXpLh5eMat9VDMLG"
+    },
+    {
+      "added_at": "2024-07-11 06:00:41",
+      "album": {
+        "name": "Alitaptap",
+        "url": "https://open.spotify.com/album/63v49wfOqvf4Z0NCMRtV1F"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilson",
+          "url": "https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38"
+        }
+      ],
+      "duration_ms": 236444,
+      "name": "Alitaptap",
+      "url": "https://open.spotify.com/track/3M9ZlNsdyW7O5yWYYhkqip"
+    },
+    {
+      "added_at": "2024-07-11 06:00:41",
+      "album": {
+        "name": "sana hindi na lang",
+        "url": "https://open.spotify.com/album/1uzlXLSHMKR4lRQMJjJ0Oa"
+      },
+      "artists": [
+        {
+          "name": "Kylu",
+          "url": "https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5"
+        },
+        {
+          "name": "Matt Wilson",
+          "url": "https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "sana hindi na lang",
+      "url": "https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN"
     },
     {
       "added_at": "2024-07-08 07:12:15",

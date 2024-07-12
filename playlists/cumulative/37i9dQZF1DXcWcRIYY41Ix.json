@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Mar\u00eda Laura.",
+  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 162843,
       "name": "Abanicos negros",
       "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 140500,
       "name": "Ana Mar\u00eda",
       "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 144000,
       "name": "Anoche te vi",
       "url": "https://open.spotify.com/track/0opBwwDsUCerrmDKwjBZHD"
@@ -3920,7 +3920,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 120020,
       "name": "El Uniforme",
       "url": "https://open.spotify.com/track/7cmLEaipTvsKCLhAURQJm3"
@@ -5265,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "La Cuarta Pared",
+        "url": "https://open.spotify.com/album/5Z1mXLhwtB1U9a6gtqyCQ5"
+      },
+      "artists": [
+        {
+          "name": "Borja Pic\u00f3",
+          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "La Cuarta Pared",
+      "url": "https://open.spotify.com/track/1W3WTYz77HofNld4o4w7EX"
+    },
+    {
+      "album": {
         "name": "La Utop\u00eda en que Vivimos",
         "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
       },
@@ -5342,6 +5360,24 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "album": {
+        "name": "La desped\u00eda",
+        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212486,
+      "name": "La desped\u00eda",
+      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
     },
     {
       "album": {
@@ -5590,7 +5626,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 194826,
       "name": "La Mirada",
       "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
@@ -6485,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/6HVEpGir8zn5ncnx7R1OSS"
+      },
+      "artists": [
+        {
+          "name": "Mario Mil\u00e1n",
+          "url": "https://open.spotify.com/artist/1OCK40eLW5ms03rb93fUrA"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153129,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/3emhWxoCizhwFJbefyecw9"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -6738,6 +6792,24 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "album": {
+        "name": "Me Presento",
+        "url": "https://open.spotify.com/album/3c9LupnZmRqoAHdzdSFMzC"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattheus",
+          "url": "https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Me Presento",
+      "url": "https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn"
     },
     {
       "album": {
@@ -8494,7 +8566,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
@@ -9431,6 +9503,28 @@
     },
     {
       "album": {
+        "name": "Remanso para morrer (con Tanxugueiras) [Sesiones Moraima 2]",
+        "url": "https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        },
+        {
+          "name": "Tanxugueiras",
+          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186312,
+      "name": "Remanso para morrer (con Tanxugueiras) - Sesiones Moraima 2",
+      "url": "https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb"
+    },
+    {
+      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -10030,7 +10124,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 159299,
       "name": "Si Entras T\u00fa",
       "url": "https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL"
@@ -10500,20 +10594,20 @@
           "url": "https://open.spotify.com/artist/1UC32JGoil54GhEOHpzmrB"
         },
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
           "name": "Marta G\u00f3mez",
           "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
         },
         {
           "name": "Pedro Guerra",
           "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
         },
         {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
         },
         {
           "name": "Argentina",

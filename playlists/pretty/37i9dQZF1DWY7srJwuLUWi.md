@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 
 > Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL \(MBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\) 음원제작사: SLL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901 likes - 31 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,899 likes - 31 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Missing You](https://open.spotify.com/track/4ogVNLLmeO8xX57MjbhTCs) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/7xnWoJEKBmJsg5ZBpJyEkl) | 4:16 |
 | 2 | [Falling](https://open.spotify.com/track/1cXlFn45iKoANa74LUqiCP) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/49RPhfmbjEiPdrSzzpN2YO) | 3:01 |
-| 3 | [On My Way](https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn) | 2:48 |
+| 3 | [On My Way](https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn) | 2:48 |
 | 4 | [Only You](https://open.spotify.com/track/5pzjzjlcEjiMdFgKZhI6fz) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/25C7dgrlL7Rcqahfa4soWA) | 3:38 |
 | 5 | [Lost](https://open.spotify.com/track/2SmLMEusGr41TShndvKjRr) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/5njq9jUSKw10HsTy7ZkdhS) | 3:40 |
 | 6 | [Be there \- Male Ver.](https://open.spotify.com/track/67iM5BSDg7tMfnGmwXDlsN) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0si7syMtQ2dRy78dRKzy3i) | 3:38 |

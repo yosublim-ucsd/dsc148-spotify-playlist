@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Trio Mio",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Ethic Entertainment",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 237614,
       "name": "JIBAMBEZ",
       "url": "https://open.spotify.com/track/3h0E0CYbU0vCN4pR6i5ntC"
@@ -4048,6 +4048,24 @@
       "duration_ms": 178662,
       "name": "Kwaito",
       "url": "https://open.spotify.com/track/0Ufi9fI168Dv2QJqeyxtH6"
+    },
+    {
+      "album": {
+        "name": "Laptop",
+        "url": "https://open.spotify.com/album/1uRnKxFbtH0VVfDKBcXQIv"
+      },
+      "artists": [
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Laptop",
+      "url": "https://open.spotify.com/track/1PrVaagY1pWFwB6M2sOQ0N"
     },
     {
       "album": {
@@ -5194,7 +5212,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 219782,
       "name": "Nasikia Wah",
       "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
@@ -5760,6 +5778,32 @@
       "duration_ms": 170788,
       "name": "Omwana Wabandi",
       "url": "https://open.spotify.com/track/3xgEcMXTbj5c1wTikyMDUd"
+    },
+    {
+      "album": {
+        "name": "One Minute Man",
+        "url": "https://open.spotify.com/album/2OX90iLSjJbdlIFkt9DLDd"
+      },
+      "artists": [
+        {
+          "name": "Petrooz",
+          "url": "https://open.spotify.com/artist/4HLTPLigcbloihqAWILZ7C"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "One Minute Man",
+      "url": "https://open.spotify.com/track/6mJvJwZyU1sfvWgh2KDccF"
     },
     {
       "album": {
@@ -8244,7 +8288,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 210960,
       "name": "WANJAPI 2",
       "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
@@ -8358,6 +8402,28 @@
       "duration_ms": 154017,
       "name": "Weh Decide",
       "url": "https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ"
+    },
+    {
+      "album": {
+        "name": "Whips Za Zakayo",
+        "url": "https://open.spotify.com/album/0jZclNA5oQaYEbVPqU0YYr"
+      },
+      "artists": [
+        {
+          "name": "ItsDeco",
+          "url": "https://open.spotify.com/artist/70Y7KimRLLx8N6ekMAiTas"
+        },
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Whips Za Zakayo",
+      "url": "https://open.spotify.com/track/2ys1XyP4s3uHAUpDjgNeGu"
     },
     {
       "album": {

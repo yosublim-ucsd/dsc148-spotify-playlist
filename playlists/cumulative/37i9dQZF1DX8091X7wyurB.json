@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "God Is with Us",
+        "url": "https://open.spotify.com/album/2Pw52yj3lRX7VGuMp10hab"
+      },
+      "artists": [
+        {
+          "name": "Ebube Immanuel",
+          "url": "https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268925,
+      "name": "God Is with Us",
+      "url": "https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L"
+    },
+    {
+      "album": {
         "name": "God of Miracles",
         "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 171607,
       "name": "Grace on Myself",
       "url": "https://open.spotify.com/track/0AeKbsWLgBbIJoKlj5L1al"

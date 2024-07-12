@@ -5351,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Can You Trust Me",
+        "url": "https://open.spotify.com/album/5L7rigY6oVAL1DJuzbibmh"
+      },
+      "artists": [
+        {
+          "name": "Vudumane",
+          "url": "https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206707,
+      "name": "Can You Trust Me",
+      "url": "https://open.spotify.com/track/2q6F9uAITbbFHxWJNv6kcy"
+    },
+    {
+      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -10382,7 +10400,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -16988,7 +17006,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -19312,6 +19330,24 @@
       "duration_ms": 277156,
       "name": "loml",
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
+    },
+    {
+      "album": {
+        "name": "London Shutdown",
+        "url": "https://open.spotify.com/album/5Ps9GGtIyQpTh5Nc1hIhNH"
+      },
+      "artists": [
+        {
+          "name": "prod. nvk rbn",
+          "url": "https://open.spotify.com/artist/4n85WB1SivQYnk1cflYGBl"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129557,
+      "name": "London Shutdown",
+      "url": "https://open.spotify.com/track/7DDXuwcEDMYmrMLhhOnIvk"
     },
     {
       "album": {
@@ -34678,7 +34714,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -35016,7 +35052,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 284892,
       "name": "Tobey (feat. Big Sean and BabyTron)",
       "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"

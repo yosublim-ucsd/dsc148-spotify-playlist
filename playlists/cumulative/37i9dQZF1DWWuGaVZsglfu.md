@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: BILLIE EILISH
 
-69 songs - 4 hr 5 min
+70 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Hasrat \(OST Imaginur\)](https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Hasrat \(OST Imaginur\)](https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU) | 3:58 | 2024-06-26 |  |
 | [Here4U](https://open.spotify.com/track/4rd86YwKxYZKeWbXIeUNrU) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Here4U](https://open.spotify.com/album/3idK4rxpyKAuU3qEU3XoOg) | 3:39 | 2024-06-26 | 2024-07-04 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-26 |  |
+| [Jangan Biar](https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN), [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [Jangan Biar](https://open.spotify.com/album/3N2eeiam5GShzMMDo4ejoz) | 4:18 | 2024-07-11 |  |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2024-06-26 |  |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2024-06-26 |  |
 | [Kejutkan Aku](https://open.spotify.com/track/7o5JPZnCRZnEozCrjCQxBk) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Kejutkan Aku](https://open.spotify.com/album/7dT5I0dgGYVA3znPhDO451) | 3:02 | 2024-06-26 | 2024-07-04 |

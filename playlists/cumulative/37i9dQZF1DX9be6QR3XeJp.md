@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Koteri
+> Discover your new favourite artists from UK&IE\. Cover: AntsLive
 
-269 songs - 14 hr 28 min
+270 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2022-02-18 |  |
 | [Same Old](https://open.spotify.com/track/3YWZPpLVGeEq8VvNLaB55f) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Same Old](https://open.spotify.com/album/5qZq3wkonGD3hVtmoxm2NB) | 2:53 | 2022-02-18 |  |
 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 | 2023-05-04 |  |
+| [Saturday](https://open.spotify.com/track/7kzR1zNlJimMr3mKcqtrOx) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Real Life](https://open.spotify.com/album/3xEx11Z0Q6VMA6b5TXsNvP) | 3:15 | 2024-07-11 |  |
 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 | 2022-10-20 |  |
 | [Scrambled Tricks](https://open.spotify.com/track/1cHYDnLAxWViNcokpzxjMT) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Scrambled Tricks](https://open.spotify.com/album/6rf2cQjKufkdYacRQhDsfU) | 2:22 | 2022-06-23 |  |
 | [Scrambled Tricks](https://open.spotify.com/track/2CuBUaNox3kkxCDJgrKv3D) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 2:22 | 2023-01-09 | 2024-04-19 |

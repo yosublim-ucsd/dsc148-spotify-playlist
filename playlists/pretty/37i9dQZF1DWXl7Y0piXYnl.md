@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,710 likes - 35 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,727 likes - 35 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 13 | [Get Lost](https://open.spotify.com/track/2V2u8AxvhGlEmOtR2qo2OL) | [Sha Ru](https://open.spotify.com/artist/2aXWnfzD15xaLcTuPhf9p5) | [They Are Textural](https://open.spotify.com/album/4jwS3JO2vI7aogPPoCUmva) | 4:01 |
 | 14 | [Hyper Daddy](https://open.spotify.com/track/0YAxRXw1CMuQxP58GsXm2P) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Hyper Daddy](https://open.spotify.com/album/1cTX8gvgZUheEKvA0ZLAlN) | 5:34 |
 | 15 | [Puls](https://open.spotify.com/track/568BraspkchZteHyyeHRC3) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 2:09 |
-| 16 | [Seven](https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven](https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3) | 5:52 |
+| 16 | [Seven](https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven](https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3) | 5:55 |
 | 17 | [DRUM GLOW \- DJ Lag Remix](https://open.spotify.com/track/6TuykpJWmzazJrEzkO2e4r) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 5:05 |
 | 18 | [Set The Roof \(Homer Simpson Remix\)](https://open.spotify.com/track/3PtUdGXk77jP5IbN43P0b2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Homer Simpson](https://open.spotify.com/artist/7Kwon2TfWSPD6JAH54vFrV) | [Set The Remixes](https://open.spotify.com/album/5MZjbJlDz79EU90vunw7ZV) | 4:24 |
 | 19 | [You & I](https://open.spotify.com/track/6xmkidNAofoGKK6bSKk6aI) | [Debba](https://open.spotify.com/artist/3Upr4OOMVKLF2LoFgBaL5X) | [Just Wanna](https://open.spotify.com/album/3xUb1cXh1JjlT66ww4XTsC) | 4:05 |

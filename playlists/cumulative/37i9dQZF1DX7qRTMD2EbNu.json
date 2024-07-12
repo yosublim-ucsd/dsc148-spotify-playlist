@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Oseikrom Sikanii",
+  "description": "Hottest bars coming live from the 233.  Cover: E.L",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 257664,
       "name": "32",
       "url": "https://open.spotify.com/track/2PiJXFSfjwBxX6AgLwdQvm"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 180114,
       "name": "Ase3",
       "url": "https://open.spotify.com/track/7jUk655LJ9EjvykHZdCoxl"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184077,
       "name": "Business - Remix",
       "url": "https://open.spotify.com/track/11LZ6xJQLrFZEGqRcoKa1T"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 227313,
       "name": "Celebrate (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
@@ -2116,6 +2116,24 @@
       "duration_ms": 161280,
       "name": "Chairman(Freestyle)",
       "url": "https://open.spotify.com/track/7G4fR0D8j6if3cd1iur0O3"
+    },
+    {
+      "album": {
+        "name": "CHAKIDO",
+        "url": "https://open.spotify.com/album/3gNLWK0sQTu8CSiFh50sRm"
+      },
+      "artists": [
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241567,
+      "name": "CHAKIDO",
+      "url": "https://open.spotify.com/track/42UMrOmFMabE0zT2lSvtuF"
     },
     {
       "album": {
@@ -4037,6 +4055,32 @@
     },
     {
       "album": {
+        "name": "Free My Mind (Remix)",
+        "url": "https://open.spotify.com/album/0V2BjFs56DlRKs8NOfpoGp"
+      },
+      "artists": [
+        {
+          "name": "BHADMAYORS",
+          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224369,
+      "name": "Free My Mind (Remix)",
+      "url": "https://open.spotify.com/track/7rFvHbi9PX9Ty17sIr4jR4"
+    },
+    {
+      "album": {
         "name": "Free Throw",
         "url": "https://open.spotify.com/album/0nEvJ6UqOcKJEsQ9AXSxGt"
       },
@@ -5300,7 +5344,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 185341,
       "name": "Jungle Music, Pt.1",
       "url": "https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu"
@@ -5730,7 +5774,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 206197,
       "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
@@ -5770,7 +5814,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 203428,
       "name": "Kwaku Ananse - Remix",
       "url": "https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y"
@@ -7901,6 +7945,28 @@
     },
     {
       "album": {
+        "name": "Okukuseku",
+        "url": "https://open.spotify.com/album/1jyYzrWVXDIq9C7aASM29Y"
+      },
+      "artists": [
+        {
+          "name": "Kobie Demar",
+          "url": "https://open.spotify.com/artist/7prRV8XdYiohIHSYrMZfVh"
+        },
+        {
+          "name": "Emess",
+          "url": "https://open.spotify.com/artist/3tHHr9IA4gKxeMGLQSv6O7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170504,
+      "name": "Okukuseku",
+      "url": "https://open.spotify.com/track/33wP2yZ6HSSHTVT2fsalqj"
+    },
+    {
+      "album": {
         "name": "Oliver Khan",
         "url": "https://open.spotify.com/album/4z9KOiawTgEyS7JsG6VAn9"
       },
@@ -8264,6 +8330,32 @@
       "duration_ms": 150360,
       "name": "Overload",
       "url": "https://open.spotify.com/track/7hjVQjTJJzU4zGwzmkr1RH"
+    },
+    {
+      "album": {
+        "name": "PA (feat. Jay Bahd)",
+        "url": "https://open.spotify.com/album/6ky6ZDz9ukvStHhFGsPyGZ"
+      },
+      "artists": [
+        {
+          "name": "Kay T",
+          "url": "https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203233,
+      "name": "PA (feat. Jay Bahd)",
+      "url": "https://open.spotify.com/track/2V2UbbeMUJ2lTr4lwHjMup"
     },
     {
       "album": {
@@ -8937,6 +9029,24 @@
     },
     {
       "album": {
+        "name": "Road To 5th August 8",
+        "url": "https://open.spotify.com/album/0qk8WaJUrBWypLfOFbX9nl"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Road To 5th August 8",
+      "url": "https://open.spotify.com/track/7ywGdlXsk85hZF9WmV0Uhz"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/1tCD72gxYMjtPcWeuBOBL2"
       },
@@ -9250,6 +9360,24 @@
       "duration_ms": 204600,
       "name": "Same Time",
       "url": "https://open.spotify.com/track/5yiHPQ4gF6EQ2SP1vBtuXv"
+    },
+    {
+      "album": {
+        "name": "Savage Flow",
+        "url": "https://open.spotify.com/album/22fYL3f8XHo5uVloGDbSSQ"
+      },
+      "artists": [
+        {
+          "name": "KWESI AMEWUGA",
+          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137038,
+      "name": "Savage Flow",
+      "url": "https://open.spotify.com/track/5Z5Bl3hHAM3N0rpN8QqxAP"
     },
     {
       "album": {
@@ -10502,7 +10630,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168960,
       "name": "Tell 'Em To Shut Up (feat. Reggie & Skyface Sdw)",
       "url": "https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK"
@@ -10984,6 +11112,28 @@
       "duration_ms": 154312,
       "name": "Twatis - Refix",
       "url": "https://open.spotify.com/track/0VnBFCRgOA7oIgXq5skZtt"
+    },
+    {
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/5sqfFqR89NoIXo31ITLJX7"
+      },
+      "artists": [
+        {
+          "name": "Ryderz",
+          "url": "https://open.spotify.com/artist/6CUpjrU6f5j0yFoJVVh9c9"
+        },
+        {
+          "name": "Rjz",
+          "url": "https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/3Ot5vPUgw3RZys9par70XI"
     },
     {
       "album": {

@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 299120,
       "name": "Crush",
       "url": "https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar"
@@ -2230,6 +2230,24 @@
       "duration_ms": 352000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6bZMUM8GNyStCJXC0oKG82"
+    },
+    {
+      "album": {
+        "name": "HERE WE GO",
+        "url": "https://open.spotify.com/album/4I98MShyUAObVPwcHeEEYd"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180897,
+      "name": "HERE WE GO",
+      "url": "https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j"
     },
     {
       "album": {
@@ -4075,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "One To Leave",
+        "url": "https://open.spotify.com/album/0RdeYywSOaDSF6OsiiWBDY"
+      },
+      "artists": [
+        {
+          "name": "Elj\u00e9",
+          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "One To Leave",
+      "url": "https://open.spotify.com/track/5TStZRNSWIbAfqkXJkTFi6"
+    },
+    {
+      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -4920,7 +4956,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 214117,
       "name": "Shining",
       "url": "https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF"
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 243100,
       "name": "Swim",
       "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
@@ -5766,6 +5802,28 @@
       "duration_ms": 486941,
       "name": "Together - Rework",
       "url": "https://open.spotify.com/track/6PBGwNxMnoAxJWzHCeKniV"
+    },
+    {
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "album": {

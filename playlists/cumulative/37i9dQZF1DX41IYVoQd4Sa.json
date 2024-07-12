@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 \u05d5\u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
+      },
+      "artists": [
+        {
+          "name": "GADEE",
+          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Fool For Your Smile",
+      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/1CjEqOxmsaPtlm3aVp1tKU"
       },
@@ -86,6 +104,24 @@
       "duration_ms": 190776,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/4GUSxRTGJe1nzfadp9dA7V"
+    },
+    {
+      "album": {
+        "name": "Ha'chayim Ha'ele",
+        "url": "https://open.spotify.com/album/55KdrAbQ29QClGDay6Wony"
+      },
+      "artists": [
+        {
+          "name": "Autarkic",
+          "url": "https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Ha'chayim Ha'ele",
+      "url": "https://open.spotify.com/track/0j6h27PRdWp5reQDD3IV4V"
     },
     {
       "album": {
@@ -162,6 +198,46 @@
       "duration_ms": 152584,
       "name": "Shot Shot Cherry",
       "url": "https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD"
+    },
+    {
+      "album": {
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
+      },
+      "artists": [
+        {
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
+    },
+    {
+      "album": {
+        "name": "Spinnin'",
+        "url": "https://open.spotify.com/album/4CRfnrDgWkCNq4jO08YzQt"
+      },
+      "artists": [
+        {
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
     },
     {
       "album": {
@@ -429,6 +505,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d9\u05d0 \u05ea\u05de\u05e9\u05d9\u05da \u05d2\u05dd \u05d1\u05dc\u05e2\u05d3\u05d9\u05da",
+        "url": "https://open.spotify.com/album/4Cwr2wOmmGgmcqI74ZBe0g"
+      },
+      "artists": [
+        {
+          "name": "Alon Oleartchik",
+          "url": "https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183142,
+      "name": "\u05d4\u05d9\u05d0 \u05ea\u05de\u05e9\u05d9\u05da \u05d2\u05dd \u05d1\u05dc\u05e2\u05d3\u05d9\u05da",
+      "url": "https://open.spotify.com/track/63MZV8fBPGsf7ub7ZadhpX"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
         "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
       },
@@ -626,7 +720,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 200680,
       "name": "\u05db\u05e9\u05d0\u05d9\u05df \u05d1\u05d9 \u05d0\u05d4\u05d1\u05d4",
       "url": "https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw"
@@ -774,7 +868,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 199176,
       "name": "\u05de\u05d4 \u05e9\u05e6\u05e8\u05d9\u05da \u05e2\u05db\u05e9\u05d9\u05d5",
       "url": "https://open.spotify.com/track/5bIpv0uWRNzpyCIgtMfZbo"
@@ -840,7 +934,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 226464,
       "name": "\u05de\u05e8\u05d0\u05d4 \u05e9\u05d1\u05d5\u05e8\u05d4 - \u05dc\u05d9\u05d9\u05d1",
       "url": "https://open.spotify.com/track/6T1jIQSlwvQ7L3uHIX2PgJ"
@@ -920,7 +1014,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 265226,
       "name": "\u05e0\u05db\u05e0\u05e2 \u05dc\u05da",
       "url": "https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH"
@@ -1007,6 +1101,28 @@
     },
     {
       "album": {
+        "name": "\u05e2\u05de\u05d5\u05e7 \u05d1\u05d0\u05d3\u05de\u05d4",
+        "url": "https://open.spotify.com/album/3QzgiDKlOlWPOfY8oRIdhA"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sebag",
+          "url": "https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC"
+        },
+        {
+          "name": "Erez Lev Ari",
+          "url": "https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "\u05e2\u05de\u05d5\u05e7 \u05d1\u05d0\u05d3\u05de\u05d4",
+      "url": "https://open.spotify.com/track/311NxddQ4FbZxuhrnxBflc"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
         "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
       },
@@ -1062,7 +1178,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 157177,
       "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
       "url": "https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T"
@@ -1212,7 +1328,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 160076,
       "name": "\u05ea\u05d7\u05e8\u05d5\u05ea \u05d1\u05dc\u05d1",
       "url": "https://open.spotify.com/track/48lkmbGfJn2wGOi5WOVvKE"

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,775 songs - 1 day 12 hr 40 min
+1,778 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1248,6 +1248,7 @@
 | [Resolute](https://open.spotify.com/track/4j55Cg5GuiYntMC7oJTRT2) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Violin Stories](https://open.spotify.com/album/3BTOLeGloaDKJSALipbrhQ) | 1:15 | 2024-01-29 |  |
 | [Resolutions](https://open.spotify.com/track/4oRy4CGE9oxgRm8sUI5a6N) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:35 | 2022-01-12 |  |
 | [Resolutions](https://open.spotify.com/track/256yhP3AoHuWSFlnBe7HVe) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:15 | 2022-01-12 |  |
+| [Rest](https://open.spotify.com/track/3szhwBNbmqkMh15oDzA0Rk) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Rest](https://open.spotify.com/album/3W5W4mg6IpU5bKjNUNMwR1) | 1:00 | 2024-07-11 |  |
 | [Rest My Dear](https://open.spotify.com/track/5j10EBlXssJrhxmbWaRw8G) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:24 | 2022-01-20 | 2024-01-30 |
 | [Rest My Friend](https://open.spotify.com/track/73xYRF6x1tIN2lFtDUN3w9) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Rest My Friend](https://open.spotify.com/album/39E97YRYpM6GRaOSVFPgT5) | 1:02 | 2022-07-31 |  |
 | [Rest My Friend \- Alternate Version](https://open.spotify.com/track/6uW8UdkY1aYPejtQKntjZh) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Rest My Friend \(Alternate Version\)](https://open.spotify.com/album/21KDRu6ZriJgU9LA3QAUWU) | 1:01 | 2022-08-18 |  |
@@ -1325,6 +1326,7 @@
 | [See Amid The Winter's Snow Arr\. For Cello And Soft Piano](https://open.spotify.com/track/4uyz04E3Dn2iqTCrpqX6vF) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [See Amid The Winter's Snow Arr\. For Cello And Soft Piano](https://open.spotify.com/album/0Vjr2Uwy46KcAwnSk3EdOX) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Seeing Beauty](https://open.spotify.com/track/0U4Qp4ulyxwg2dBntO2TtA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:16 | 2022-01-12 |  |
 | [Seeking The Horizon](https://open.spotify.com/track/0qa0TY4jVYKimB2562Fdus) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
+| [Sense](https://open.spotify.com/track/3JvzgrRFai8mYkl53iBp6J) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sense](https://open.spotify.com/album/1eOjNPYspaxIL1XRdtJXRx) | 1:00 | 2024-07-11 |  |
 | [September Shadows](https://open.spotify.com/track/6Dsk3lg7nuNpxf22d3oqFE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Serene](https://open.spotify.com/track/7HVDOkkwld3WSn2sJg8Ert) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Serene](https://open.spotify.com/album/0CeS1bFOgD60GVqhZjKDle) | 1:00 | 2024-03-08 |  |
 | [Serene \- Cello Version](https://open.spotify.com/track/5rBgsbVvDcPAyuhYFWkSft) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Again](https://open.spotify.com/album/4ocM7Lg4DZPKwlJV7pFXyU) | 1:00 | 2024-03-08 |  |
@@ -1656,6 +1658,7 @@
 | [Violin Echo](https://open.spotify.com/track/46UT6Ie7O84pBVvWv6Rzhh) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Violin Echo](https://open.spotify.com/album/6M3uuiCs4gkeYfXjWUQn1C) | 1:01 | 2022-09-21 |  |
 | [Violin Sunrise](https://open.spotify.com/track/32HfY4XF9xNQErnwLe6282) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Violin Sunrise](https://open.spotify.com/album/2NxKy6cVWpUUL34qmbNKvh) | 1:02 | 2022-06-25 |  |
 | [Violin Sunset](https://open.spotify.com/track/3OKDKntyeYm1JMdoD4nr0m) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Violin Sunset](https://open.spotify.com/album/2500JpcFb5U1i4p55jm8h7) | 1:01 | 2022-09-25 |  |
+| [Vision](https://open.spotify.com/track/0RkZ9nFrEmGBwbfeYNxFgz) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Vision](https://open.spotify.com/album/6czOu86mPtL4YLmMa8Iam4) | 1:00 | 2024-07-11 |  |
 | [Voices From The Distance](https://open.spotify.com/track/2JaRt9OO8ipSk7qb7nIYY8) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Sky](https://open.spotify.com/album/5nObQ6bd92SsV82NWLk3Dl) | 1:02 | 2022-02-22 |  |
 | [Voices from the Sky](https://open.spotify.com/track/1HQxC8eLDJwjK7Hj3DPC8c) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Voices from the Sky](https://open.spotify.com/album/0jDfkQfP8GlfgNY70115Gl) | 2:49 | 2022-01-12 | 2024-01-30 |
 | [Voices In Harmony](https://open.spotify.com/track/0nsNvE9Qy4u9YZYsKNzzRz) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello And Violin Preludes](https://open.spotify.com/album/7DrUaPFoYlc0vJZ3dMErA4) | 1:07 | 2024-02-09 | 2024-02-13 |

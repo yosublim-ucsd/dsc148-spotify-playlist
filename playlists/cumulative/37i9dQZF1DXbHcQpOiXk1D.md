@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Nubiyan Twist
+> The best from Britain's vibrant scene\. Cover: berlioz
 
-600 songs - 1 day 18 hr 36 min
+601 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Did You Know](https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF), [MettaShiba](https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy) | [Did You Know](https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3) | 3:54 | 2023-06-30 | 2023-08-21 |
 | [Discover We Can Fly](https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Discover We Can Fly](https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT) | 3:42 | 2022-07-07 | 2023-02-04 |
 | [Distraction](https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:25 | 2021-12-17 | 2022-11-13 |
-| [Diversions](https://open.spotify.com/track/5maJJT6lHNA9p7bvLRBzD5) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [Tim Addison](https://open.spotify.com/artist/0qb2OeD9bD0YbVG0Hh20XK) | [Diversions](https://open.spotify.com/album/5kmKc6iKwwXrgfap01X3e7) | 3:42 | 2024-06-14 |  |
+| [Diversions](https://open.spotify.com/track/5maJJT6lHNA9p7bvLRBzD5) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [Tim Addison](https://open.spotify.com/artist/0qb2OeD9bD0YbVG0Hh20XK) | [Diversions](https://open.spotify.com/album/5kmKc6iKwwXrgfap01X3e7) | 3:42 | 2024-06-14 | 2024-07-12 |
 | [DiVine Ascension](https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [DiVine Ascension](https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq) | 4:29 | 2022-01-21 | 2023-03-09 |
 | [Do you](https://open.spotify.com/track/6XZsh0Z4pxcsFM788tHtXf) | [Alicia Kruger](https://open.spotify.com/artist/7FAVT7XBhYQCOq6VkQGGzS) | [Do you](https://open.spotify.com/album/2GGsMAKD6l4F6HFLPFy6F7) | 3:36 | 2022-03-08 | 2022-04-21 |
 | [Do You Want to Know a Secret](https://open.spotify.com/track/4NmevLdf0DjM22ASgnLrYh) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Do You Want to Know a Secret](https://open.spotify.com/album/3poKwA1VNvoXkRwULoaFJY) | 2:00 | 2022-03-08 | 2022-04-20 |
@@ -379,6 +379,7 @@
 | [Old School Struggling](https://open.spotify.com/track/2GeFEgpn2YdmNhewoiSwa6) | [All Day Breakfast Cafe](https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd) | [Old School Struggling](https://open.spotify.com/album/2RdXV3Y9nNfcW2rdMghNlU) | 3:30 | 2022-02-18 | 2022-07-14 |
 | [Olympus](https://open.spotify.com/track/75drB8mC9kdS43faubXluE) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Olympus](https://open.spotify.com/album/3QDjp3P2RKTyIO5K2tcMKJ) | 6:12 | 2022-07-01 | 2022-07-28 |
 | [opedge](https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Not Real People](https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU) | 6:58 | 2024-07-04 |  |
+| [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 | 2024-07-11 |  |
 | [Orange\-coloured day](https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Orange\-coloured day](https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj) | 2:48 | 2024-06-06 |  |
 | [Organic Rust](https://open.spotify.com/track/1uSsf748N6MIQWs9R4t2tG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Organic Rust](https://open.spotify.com/album/58s0ZZ32yklGzKK6h6C5nn) | 4:36 | 2021-12-17 | 2022-07-28 |
 | [Organic Rust](https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:36 | 2022-07-28 | 2022-09-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 94177,
+  "num_followers": 94181,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
-    },
-    {
-      "added_at": "2024-06-25 04:52:33",
-      "album": {
         "name": "Being Honest",
         "url": "https://open.spotify.com/album/4D0qCz5qvXrQ6Z9oxXlzT8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 171641,
       "name": "Being Honest",
       "url": "https://open.spotify.com/track/5p0bt3ETpVcyrfbYz8L5Rt"
+    },
+    {
+      "added_at": "2024-06-25 04:52:33",
+      "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
     },
     {
       "added_at": "2024-06-25 04:52:33",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/3E7uS9oOL92bNvYTYge5m7"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 196207,
+      "name": "Brightside",
+      "url": "https://open.spotify.com/track/05hlmQgTPYuzJyxeDZxm8n"
+    },
+    {
+      "added_at": "2024-06-25 04:52:33",
+      "album": {
         "name": "Broken With You",
         "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 204440,
       "name": "Oh Dreamer",
       "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
-    },
-    {
-      "added_at": "2024-06-25 04:52:33",
-      "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/3E7uS9oOL92bNvYTYge5m7"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 196207,
-      "name": "Brightside",
-      "url": "https://open.spotify.com/track/05hlmQgTPYuzJyxeDZxm8n"
     },
     {
       "added_at": "2024-06-25 04:52:33",

@@ -1088,6 +1088,24 @@
     {
       "album": {
         "name": "Loud House",
+        "url": "https://open.spotify.com/album/7hpM4nPEnAH5ctuqma33ob"
+      },
+      "artists": [
+        {
+          "name": "Madison Kozak",
+          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Loud House",
+      "url": "https://open.spotify.com/track/3T9TRSgEw9rbqOJXEObErB"
+    },
+    {
+      "album": {
+        "name": "Loud House",
         "url": "https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1"
       },
       "artists": [
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 204933,
       "name": "Loud House",
       "url": "https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv"

@@ -20303,6 +20303,24 @@
     },
     {
       "album": {
+        "name": "Let Me Leave",
+        "url": "https://open.spotify.com/album/4IceXl5pK5Zs3JaoAVlNYn"
+      },
+      "artists": [
+        {
+          "name": "Lily Kincade",
+          "url": "https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Let Me Leave",
+      "url": "https://open.spotify.com/track/2nTadlGdhBMhiXgO2y3RPN"
+    },
+    {
+      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
       },
@@ -22262,7 +22280,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 165032,
       "name": "make me",
       "url": "https://open.spotify.com/track/3xiUsDGgA41Nu8adozAZ9V"

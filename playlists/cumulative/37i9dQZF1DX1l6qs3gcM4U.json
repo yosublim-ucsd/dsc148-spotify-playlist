@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Neyna",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -202,6 +202,24 @@
       "duration_ms": 235244,
       "name": "Acerta",
       "url": "https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb"
+    },
+    {
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/6SBrdApaXQOBX5ROuJNXYO"
+      },
+      "artists": [
+        {
+          "name": "Mona Nicastro",
+          "url": "https://open.spotify.com/artist/2UHbIBWBGC9hES26XQnmWn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211230,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/16Aiw4tQzSZhrt9P2qKKNR"
     },
     {
       "album": {
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 192641,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
@@ -5182,7 +5200,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 245800,
       "name": "Pele Negra",
       "url": "https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN"

@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Schmalgauzen
 
-81 songs - 4 hr 5 min
+82 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 | 2024-06-27 |  |
 | [Найліпший день](https://open.spotify.com/track/4XFCkkXZKB3DBjsNpMAyRS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Найліпший день](https://open.spotify.com/album/2ycRXMgdZrLgkdn0ZPSQOz) | 3:21 | 2024-06-27 |  |
 | [Найсумніші пісні](https://open.spotify.com/track/2P45bHQL4hN5e9EtKvTbaz) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Квартира 25](https://open.spotify.com/album/08LOzABdC5Fem8StK3QZwy) | 2:36 | 2024-06-27 |  |
+| [Напряжно](https://open.spotify.com/track/0hhzD69nOJ2qTAR1AFIzsr) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Оля Шурова](https://open.spotify.com/artist/4ManbdSYB5rKfEq71fAglf) | [Напряжно](https://open.spotify.com/album/557EwH5HgfHVzPch88XjXi) | 2:05 | 2024-06-27 |  |
 | [Не дивись на мене](https://open.spotify.com/track/6z6cvRLKENuywiD5jCRuoc) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Не дивись на мене](https://open.spotify.com/album/1FQ8jGe2pDS7hFYL0Ze5KG) | 3:33 | 2024-06-27 |  |
 | [не цейво сам себе](https://open.spotify.com/track/3nPjixYGZykdgUCG6l2Jwu) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Кістеньов](https://open.spotify.com/artist/41rWLkWdjiK9QVtVcqlTNR), [Yevhenii Dubovyk](https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn) | [не цейво сам себе](https://open.spotify.com/album/2P2r7UwC6pocAFMP3uF3Ba) | 2:51 | 2024-06-27 |  |
 | [Недодруг](https://open.spotify.com/track/7wyyG0UvpLvDU5jGFqxAxa) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Недодруг](https://open.spotify.com/album/2uLePoXWzDH0ngq3EzMmIT) | 2:26 | 2024-06-27 |  |
@@ -53,7 +54,7 @@
 | [плавить](https://open.spotify.com/track/3Lg76bdQ1Nl395dAhtaj15) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [плавить](https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB) | 2:20 | 2024-06-27 |  |
 | [Поділ](https://open.spotify.com/track/4J0bupIIezXeEt2Jcj02NN) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Поділ](https://open.spotify.com/album/2xeQKfvewh0YAXIjti6fsa) | 2:12 | 2024-06-27 |  |
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-27 |  |
-| [Поряд](https://open.spotify.com/track/3qXd5OCgwndMG0fJyxnvMK) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Поряд](https://open.spotify.com/album/5dyrxOBHgL8t1XwHmkMv8z) | 2:38 | 2024-06-27 |  |
+| [Поряд](https://open.spotify.com/track/3qXd5OCgwndMG0fJyxnvMK) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Поряд](https://open.spotify.com/album/5dyrxOBHgL8t1XwHmkMv8z) | 2:38 | 2024-06-27 | 2024-07-12 |
 | [Простотак](https://open.spotify.com/track/0A9HYuDGMInNrbM7iIZ1KD) | [thekomakoma](https://open.spotify.com/artist/2ce8oHn9K9U9aXOtTPxkZf) | [Майбутній альбом](https://open.spotify.com/album/2V4XWUQmIh8ofD2hyo1fwk) | 1:25 | 2024-06-27 |  |
 | [Пішли на секонд](https://open.spotify.com/track/6ZzQUUZXFgiWJysOwzZpv4) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Пішли на секонд](https://open.spotify.com/album/4GQfa63ghCM0f34i0z3cry) | 2:59 | 2024-06-27 |  |
 | [Самолітом](https://open.spotify.com/track/59ExUSYSyC2VPa1qA7D2BO) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Самолітом](https://open.spotify.com/album/0nmxW9KdCSYjDTpaKuTMlG) | 2:41 | 2024-06-27 |  |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Anggis Devaki",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Meiska",
   "name": "Naik Daun",
   "tracks": [
+    {
+      "album": {
+        "name": "3..2..1",
+        "url": "https://open.spotify.com/album/3O0PRgNKpvjVgCbGvaA4rg"
+      },
+      "artists": [
+        {
+          "name": "Rendy Pandugo",
+          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203356,
+      "name": "3..2..1",
+      "url": "https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j"
+    },
     {
       "album": {
         "name": "Aamiin",
@@ -513,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Benar Salah",
+        "url": "https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "Benar Salah",
+      "url": "https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY"
+    },
+    {
+      "album": {
         "name": "Beraksi",
         "url": "https://open.spotify.com/album/4heQ0fU30FAFK7ulTT74ai"
       },
@@ -987,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Hanya Figuran",
+        "url": "https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy"
+      },
+      "artists": [
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "Buang Waktu",
+      "url": "https://open.spotify.com/track/498HBb9Fg8djwl2kIkL33h"
+    },
+    {
+      "album": {
         "name": "Buaya",
         "url": "https://open.spotify.com/album/0I006QY4Nl6qTM1o7oPVy9"
       },
@@ -1136,7 +1190,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 190960,
       "name": "CANDYRELLA - sweeter",
       "url": "https://open.spotify.com/track/4qG74FcxHBeDcveHfOlqtQ"
@@ -1256,6 +1310,28 @@
       "duration_ms": 300805,
       "name": "Cinta Luka Sempurna",
       "url": "https://open.spotify.com/track/7ayDko6D9pHNsXjJ00iHom"
+    },
+    {
+      "album": {
+        "name": "Cinta Tak Pernah Tepat Waktu",
+        "url": "https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        },
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212318,
+      "name": "Cinta Tak Pernah Tepat Waktu",
+      "url": "https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k"
     },
     {
       "album": {
@@ -1386,7 +1462,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 274005,
       "name": "Dan...",
       "url": "https://open.spotify.com/track/1rQikrucqgplHbRz4zs0uu"
@@ -2133,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "How Could You Still Love Me",
+        "url": "https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264362,
+      "name": "How Could You Still Love Me",
+      "url": "https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1"
+    },
+    {
+      "album": {
         "name": "Puisi",
         "url": "https://open.spotify.com/album/2RNiOxbTKTqO549ZrsEdTV"
       },
@@ -2675,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Banyak Canda, Tapi Serius",
+        "url": "https://open.spotify.com/album/2pBxYlubqhBs9IXMqJQEde"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Kamu + Aku",
+      "url": "https://open.spotify.com/track/07pirs2wD4y7KoDVf0T5Fi"
+    },
+    {
+      "album": {
         "name": "Kamulah Orangnya",
         "url": "https://open.spotify.com/album/0frT8PPxoLbbP8jKR6RVdU"
       },
@@ -2900,7 +3012,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 291625,
       "name": "Kau",
       "url": "https://open.spotify.com/track/2ZA2jc2PEwXK4cOsdo1Pdw"
@@ -2990,7 +3102,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 234578,
       "name": "Keluarga - From\" Glenn Fredly The Movie\"",
       "url": "https://open.spotify.com/track/6HXZEmzDZ1lc87YKVhEnCg"
@@ -4114,7 +4226,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 250716,
       "name": "Melepaskanmu",
       "url": "https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B"
@@ -4172,7 +4284,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 185484,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/1wbTdarJADjlKQ5h8JpQrX"
@@ -5389,6 +5501,28 @@
     },
     {
       "album": {
+        "name": "Selama Ku Bernafas",
+        "url": "https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294293,
+      "name": "Selama Ku Bernafas",
+      "url": "https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T"
+    },
+    {
+      "album": {
         "name": "Selamanya",
         "url": "https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c"
       },
@@ -5510,6 +5644,28 @@
       "duration_ms": 234193,
       "name": "Sempurnakan Aku",
       "url": "https://open.spotify.com/track/2q5ALstTObricA6x4T9Qeb"
+    },
+    {
+      "album": {
+        "name": "Semua Itu Tulus (feat. Judika)",
+        "url": "https://open.spotify.com/album/0LLoFEAoeFShVUuxgGDzCQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Mohede",
+          "url": "https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf"
+        },
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248871,
+      "name": "Semua Itu Tulus (feat. Judika)",
+      "url": "https://open.spotify.com/track/4nwwxgK9wyUrzkIotY9vn2"
     },
     {
       "album": {

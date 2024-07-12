@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Crying In A Desert",
+        "url": "https://open.spotify.com/album/2L70eq6uXgyyTBeS36NzSj"
+      },
+      "artists": [
+        {
+          "name": "Harlem Lake",
+          "url": "https://open.spotify.com/artist/5DCvu1KlUOL7u20WGhbRBc"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282837,
+      "name": "Crying In A Desert",
+      "url": "https://open.spotify.com/track/2u2xhDHk7TaDwafRrLB4Vv"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 257000,
       "name": "Ring Them Bells",
       "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"

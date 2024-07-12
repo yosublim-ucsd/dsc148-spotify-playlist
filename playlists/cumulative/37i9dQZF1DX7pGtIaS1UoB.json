@@ -4596,7 +4596,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 188850,
       "name": "\u65f6\u7a7a\u604b\u4eba",
       "url": "https://open.spotify.com/track/4Wr8vehBhV6cUbhDP60nX4"
@@ -4726,6 +4726,24 @@
       "duration_ms": 200057,
       "name": "\u6697\u6200\u7684\u611f\u89ba",
       "url": "https://open.spotify.com/track/1wCJA9Ur1J98AP1OOjU2gF"
+    },
+    {
+      "album": {
+        "name": "\u6700\u6700\u9760\u8fd1\u611b\u60c5\u7684\u90a3\u5929",
+        "url": "https://open.spotify.com/album/0xQcsH0do8tKqRRr4JUY0F"
+      },
+      "artists": [
+        {
+          "name": "Ozone",
+          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187950,
+      "name": "\u6700\u6700\u9760\u8fd1\u611b\u60c5\u7684\u90a3\u5929",
+      "url": "https://open.spotify.com/track/0vPAePR4Z5tTx3yGPO8KxI"
     },
     {
       "album": {

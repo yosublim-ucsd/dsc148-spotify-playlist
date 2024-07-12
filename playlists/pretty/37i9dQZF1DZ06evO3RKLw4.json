@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 46556,
+  "num_followers": 46566,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAAAWZllsExuTqzqQSpdi2OSM",
+  "snapshot_id": "Zo3PAAAAAADEllOoF5tMYJI5cVltxFSu",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 97024,
-      "name": "The Sentence",
-      "url": "https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 121560,
       "name": "Nihilism",
       "url": "https://open.spotify.com/track/5g1jCZ5cQuPw6YvEkd7Yni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 97024,
+      "name": "The Sentence",
+      "url": "https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 78733,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 160360,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 78733,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 165056,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/0hQsjOwKenWlkf1ND67pfn"
+      "duration_ms": 116990,
+      "name": "Media Controller",
+      "url": "https://open.spotify.com/track/5kZ1u8QbdjHDb4mtcdZrWp"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 116990,
-      "name": "Media Controller",
-      "url": "https://open.spotify.com/track/5kZ1u8QbdjHDb4mtcdZrWp"
+      "duration_ms": 165056,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/0hQsjOwKenWlkf1ND67pfn"
     },
     {
       "added_at": null,

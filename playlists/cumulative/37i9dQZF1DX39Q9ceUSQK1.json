@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A Note About Time",
+        "url": "https://open.spotify.com/album/2CJ2pASXDPONHZLu76rFbF"
+      },
+      "artists": [
+        {
+          "name": "Daryll-Ann",
+          "url": "https://open.spotify.com/artist/671hK274ypvrV5RiWyxjk7"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "A Note About Time",
+      "url": "https://open.spotify.com/track/3Eml7xiwuYQVJLTEQQMbjI"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
       },
@@ -225,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Downwards",
+        "url": "https://open.spotify.com/album/5UHRcOCp0VYzkNOfOg4WXw"
+      },
+      "artists": [
+        {
+          "name": "Bongloard",
+          "url": "https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Downwards",
+      "url": "https://open.spotify.com/track/4QzU8IMWxU3c9ech5Xg8YA"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF"
       },
@@ -254,7 +290,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
@@ -276,6 +312,24 @@
       "duration_ms": 214776,
       "name": "Favourite Songs",
       "url": "https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6"
+    },
+    {
+      "album": {
+        "name": "Feed You To My Dog",
+        "url": "https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU"
+      },
+      "artists": [
+        {
+          "name": "GUNMOLL",
+          "url": "https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "Feed You To My Dog",
+      "url": "https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR"
     },
     {
       "album": {
@@ -452,7 +506,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186000,
       "name": "Linger - SiriusXM Session",
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
@@ -474,6 +528,24 @@
       "duration_ms": 148418,
       "name": "LONDON",
       "url": "https://open.spotify.com/track/5wYKZtxuznUf9h53BcRzSI"
+    },
+    {
+      "album": {
+        "name": "Lonsdale Slipons",
+        "url": "https://open.spotify.com/album/6O5pX1TqnuDbXLHQOpwaoS"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133066,
+      "name": "Lonsdale Slipons",
+      "url": "https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs"
     },
     {
       "album": {
@@ -902,7 +974,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
@@ -956,7 +1028,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 260560,
       "name": "Tata's Lie",
       "url": "https://open.spotify.com/track/6KEbPvohiPRqky2TcYFwQG"
@@ -1158,7 +1230,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
@@ -1180,6 +1252,24 @@
       "duration_ms": 189243,
       "name": "Wrong Ones",
       "url": "https://open.spotify.com/track/3Rx0g3VVxBnOm2lYtkBsJ3"
+    },
+    {
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "album": {

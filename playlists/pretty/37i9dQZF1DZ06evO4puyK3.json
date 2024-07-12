@@ -1,12 +1,12 @@
 {
-  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 158944,
+  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 158988,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAAC52/a8kb3581sMmsoQRxyY",
+  "snapshot_id": "Zo3PAAAAAACVbiUde2ZBinVty71U49Rq",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "085 RMX",
-        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163102,
-      "name": "085 RMX",
-      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fome",
         "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 198920,
       "name": "fome",
       "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "085 RMX",
+        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
+      },
+      "artists": [
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163102,
+      "name": "085 RMX",
+      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALEGORIA",
-        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        }
-      ],
-      "duration_ms": 158260,
-      "name": "MAGENTA CA$H",
-      "url": "https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 174065,
       "name": "Rebola (Participa\u00e7\u00e3o especial de Carlinhos Brown e Gloria Groove)",
       "url": "https://open.spotify.com/track/7yHyGrwWRUdDVcZIC4HBdA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALEGORIA",
+        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "MAGENTA CA$H",
+      "url": "https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL"
     },
     {
       "added_at": null,

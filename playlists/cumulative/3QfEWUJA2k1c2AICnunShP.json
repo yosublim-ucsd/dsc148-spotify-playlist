@@ -1166,6 +1166,22 @@
         {
           "name": "Joshua Bell",
           "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Carel Kraayenhof",
+          "url": "https://open.spotify.com/artist/12TNXxHqXaIwJjgd6C9O4X"
+        },
+        {
+          "name": "Vanessa Perez",
+          "url": "https://open.spotify.com/artist/3dRJCOCvRmMRhd49NgUQjW"
+        },
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/6stGj9bajBMV6cNmacqtmd"
+        },
+        {
+          "name": "Pablo Rieppi",
+          "url": "https://open.spotify.com/artist/6dfcAYIDxHRQH6Eoc3DjEa"
         }
       ],
       "date_added": "2022-12-01",
@@ -2601,6 +2617,32 @@
     },
     {
       "album": {
+        "name": "VI. Sea Ice Melting",
+        "url": "https://open.spotify.com/album/2ox1xwPlm4aPF3sRfHDeX3"
+      },
+      "artists": [
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Arctic Philharmonic",
+          "url": "https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224773,
+      "name": "The Arctic Suite: VI. Sea Ice Melting",
+      "url": "https://open.spotify.com/track/3ahaOgoTlAc9jJlkMsWeEG"
+    },
+    {
+      "album": {
         "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
         "url": "https://open.spotify.com/album/4y4IVr0QITkywtOmCKBRVo"
       },
@@ -2942,32 +2984,6 @@
       "duration_ms": 210440,
       "name": "Variations on an Original Theme, Op. 36 \"Enigma\": Var. IX. (Nimrod). Adagio",
       "url": "https://open.spotify.com/track/7cfo59XwpxdBfCdc2sjf7S"
-    },
-    {
-      "album": {
-        "name": "VI. Sea Ice Melting",
-        "url": "https://open.spotify.com/album/2ox1xwPlm4aPF3sRfHDeX3"
-      },
-      "artists": [
-        {
-          "name": "Jacob Shea",
-          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
-        },
-        {
-          "name": "Eldbj\u00f8rg Hemsing",
-          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
-        },
-        {
-          "name": "Arctic Philharmonic",
-          "url": "https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f"
-        }
-      ],
-      "date_added": "2023-01-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224773,
-      "name": "VI. Sea Ice Melting",
-      "url": "https://open.spotify.com/track/3ahaOgoTlAc9jJlkMsWeEG"
     },
     {
       "album": {

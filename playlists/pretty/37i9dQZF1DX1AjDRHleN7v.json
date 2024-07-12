@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 316635,
+  "num_followers": 316752,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
+        "name": "Caf\u00e9 da MaLu, Vol. 04",
+        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
+      },
+      "artists": [
+        {
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "P\u00e9 na Areia",
+      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -571,6 +587,26 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
+        "name": "Revolvendo as Raizes",
+        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        },
+        {
+          "name": "Jo\u00e3o Beydoun",
+          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
+        }
+      ],
+      "duration_ms": 230896,
+      "name": "Bora Chamegar",
+      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
         "name": "LEVE",
         "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
       },
@@ -603,26 +639,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Revolvendo as Raizes",
-        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        },
-        {
-          "name": "Jo\u00e3o Beydoun",
-          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
-        }
-      ],
-      "duration_ms": 230896,
-      "name": "Bora Chamegar",
-      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Rouxin\u00f3is",
-        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        }
-      ],
-      "duration_ms": 190410,
-      "name": "Rouxin\u00f3is",
-      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Rouxin\u00f3is",
+        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        }
+      ],
+      "duration_ms": 190410,
+      "name": "Rouxin\u00f3is",
+      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -703,22 +719,6 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
-        "name": "Caf\u00e9 da MaLu, Vol. 04",
-        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
-      },
-      "artists": [
-        {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "P\u00e9 na Areia",
-      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Lua Crescente",
         "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Jah Bless",
-        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
       },
       "artists": [
         {
-          "name": "Gaiuna",
-          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
         }
       ],
-      "duration_ms": 207345,
-      "name": "Jah Bless",
-      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -859,18 +843,18 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Avenida da Paix\u00e3o",
-        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
+        "name": "Jah Bless",
+        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
       },
       "artists": [
         {
-          "name": "Pagui",
-          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+          "name": "Gaiuna",
+          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
         }
       ],
-      "duration_ms": 152934,
-      "name": "Avenida da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
+      "duration_ms": 207345,
+      "name": "Jah Bless",
+      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -891,6 +875,22 @@
       "duration_ms": 189000,
       "name": "Confia Mais",
       "url": "https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Avenida da Paix\u00e3o",
+        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
+      },
+      "artists": [
+        {
+          "name": "Pagui",
+          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+        }
+      ],
+      "duration_ms": 152934,
+      "name": "Avenida da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Sou T\u00e3o Eu",
         "url": "https://open.spotify.com/album/10MBQILKvvQw5dnoC2fI7x"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 203333,
       "name": "Sou T\u00e3o Eu",
       "url": "https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -1015,38 +1031,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Carne de Caju",
         "url": "https://open.spotify.com/album/6P48TpohpwNU2mtxZooUgI"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 232000,
       "name": "Romance da Bela In\u00eas",
       "url": "https://open.spotify.com/track/6u4uFHf37BbkV8q5aEtHxx"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+      },
+      "artists": [
+        {
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     }
   ],
   "unique_name": "Praiana",

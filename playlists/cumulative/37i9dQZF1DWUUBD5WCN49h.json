@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 172713,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF"
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 122352,
       "name": "Care for Me",
       "url": "https://open.spotify.com/track/05eSoMEib8nD2HLaMRi5Qx"
@@ -3124,6 +3124,32 @@
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
+      "album": {
+        "name": "Childish Things",
+        "url": "https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK"
+      },
+      "artists": [
+        {
+          "name": "Dessire\u00e9",
+          "url": "https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV"
+        },
+        {
+          "name": "Gyedu-Blay Ambolley",
+          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
+        },
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181747,
+      "name": "Childish Things",
+      "url": "https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX"
     },
     {
       "album": {
@@ -6631,6 +6657,24 @@
     },
     {
       "album": {
+        "name": "hadija (khadija)",
+        "url": "https://open.spotify.com/album/6cp9Q2sHU7P0Qsc2EZTOLx"
+      },
+      "artists": [
+        {
+          "name": "The.wav",
+          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217204,
+      "name": "hadija (khadija)",
+      "url": "https://open.spotify.com/track/6xmqQyCjotRRPUN7WVODdj"
+    },
+    {
+      "album": {
         "name": "Hakuna Siri",
         "url": "https://open.spotify.com/album/59QZQVqovBNDE3377uz7nV"
       },
@@ -8074,6 +8118,24 @@
       "duration_ms": 212848,
       "name": "in my head",
       "url": "https://open.spotify.com/track/2Fawo9aGKkgFuzjKmdorAs"
+    },
+    {
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/5PgzL9l8bihdi3H1VoKvk8"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/7jMuC44LBcMQaM20fgs21i"
     },
     {
       "album": {
@@ -11157,6 +11219,24 @@
     },
     {
       "album": {
+        "name": "ONE FOR THE BOOKS",
+        "url": "https://open.spotify.com/album/4tiHV8RYKmM8FhWJOnRgzM"
+      },
+      "artists": [
+        {
+          "name": "David Meli",
+          "url": "https://open.spotify.com/artist/4ZALWwBr7dwXOhlyiYRMd1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153338,
+      "name": "MY G",
+      "url": "https://open.spotify.com/track/0NC8KDbueqd1eUXDhfJORD"
+    },
+    {
+      "album": {
         "name": "My Killa",
         "url": "https://open.spotify.com/album/3rVixIqBYu1raZ9dobQvm7"
       },
@@ -11940,7 +12020,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 151578,
       "name": "Nothing Compares",
       "url": "https://open.spotify.com/track/5GBJVbsYC9sp5d9onpZAYu"
@@ -12914,7 +12994,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 154285,
       "name": "Pain and Pleasure",
       "url": "https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o"
@@ -14324,7 +14404,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 147473,
       "name": "Restore",
       "url": "https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz"
@@ -14764,7 +14844,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 166645,
       "name": "San Pe",
       "url": "https://open.spotify.com/track/2zqHnkOlfCIJoel6nhAxUZ"
@@ -15062,7 +15142,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 149317,
       "name": "Sema Nami",
       "url": "https://open.spotify.com/track/7rAf8Uv1wDS3Z3WmVXO5MW"
@@ -16503,6 +16583,24 @@
     },
     {
       "album": {
+        "name": "Tamagotchi",
+        "url": "https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175235,
+      "name": "Tamagotchi",
+      "url": "https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1"
+    },
+    {
+      "album": {
         "name": "Tampico",
         "url": "https://open.spotify.com/album/6qXaYOy2ZGTC4taGPzCKYT"
       },
@@ -17524,6 +17622,24 @@
       "duration_ms": 152551,
       "name": "truth",
       "url": "https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW"
+    },
+    {
+      "album": {
+        "name": "Love & Passion",
+        "url": "https://open.spotify.com/album/1SMBiXBDGdKYBTBZg2gO2h"
+      },
+      "artists": [
+        {
+          "name": "WaiKid",
+          "url": "https://open.spotify.com/artist/4Y4QHTHS8v9GNGEZ4Xh90Q"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203248,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/7LXtxeGpTasvQpRirYkQco"
     },
     {
       "album": {
@@ -19100,6 +19216,24 @@
       "duration_ms": 166153,
       "name": "Your Mind, You're Mine",
       "url": "https://open.spotify.com/track/7kLXpVUA53AiHFKhGqUjrx"
+    },
+    {
+      "album": {
+        "name": "Your Place",
+        "url": "https://open.spotify.com/album/0moOoMHv8K1A4qY4e95Jt7"
+      },
+      "artists": [
+        {
+          "name": "Stella Sena",
+          "url": "https://open.spotify.com/artist/06DWd2np5gdOvR08UaaiA6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148663,
+      "name": "Your Place",
+      "url": "https://open.spotify.com/track/4rHU2rwt29kZ4jrIWl4vPa"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 81942,
+  "num_followers": 82000,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Todo Vuelve",
+        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 209479,
+      "name": "Tic-Tac",
+      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "A Bola De Nieve",
         "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 262811,
       "name": "Alma M\u00eda",
       "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Todo Vuelve",
-        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 209479,
-      "name": "Tic-Tac",
-      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Mis Mejores Canciones, Vol. I",
+        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Sin T\u00ed No Puedo Vivir",
         "url": "https://open.spotify.com/album/2Tx1eChHyxj0zC8ALRPFzl"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 228653,
       "name": "El Relicario",
       "url": "https://open.spotify.com/track/5tmITkfdgcnqsVIsC5pMLT"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Mis Mejores Canciones, Vol. I",
-        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
     },
     {
       "added_at": "2024-05-02 22:01:00",

@@ -2,7 +2,7 @@
 
 ### [Top Christian Contemporary](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:3vcFXwLEUdfWMu7gTQKyot">Steven Curtis Chapmam</a>
+> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:3vcFXwLEUdfWMu7gTQKyot">Steven Curtis Chapman</a>
 
 413 songs - 1 day 1 hr 39 min
 

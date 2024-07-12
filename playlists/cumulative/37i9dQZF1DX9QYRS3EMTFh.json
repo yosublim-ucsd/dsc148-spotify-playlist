@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Meryl",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "MIKATUSS",
+        "url": "https://open.spotify.com/album/4wiic4l4CDpnvaIBBpnbUb"
+      },
+      "artists": [
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "BADMIND",
+      "url": "https://open.spotify.com/track/7CYXnqlTdg1HDLN3hO5LM8"
+    },
+    {
+      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/0e0i3tOTZITqs0MofFmAc5"
       },
@@ -722,6 +748,32 @@
       "duration_ms": 154455,
       "name": "Basshall Session #3",
       "url": "https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb"
+    },
+    {
+      "album": {
+        "name": "Basshall Sound",
+        "url": "https://open.spotify.com/album/0aptnL9Ov80AzVDKA1Tnxy"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Big Shenn",
+          "url": "https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135824,
+      "name": "Basshall Sound",
+      "url": "https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt"
     },
     {
       "album": {
@@ -1354,7 +1406,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 188235,
       "name": "Bubble It",
       "url": "https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX"
@@ -3012,7 +3064,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 156055,
       "name": "Gin & Juice",
       "url": "https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5"
@@ -3242,7 +3294,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 143505,
       "name": "Gyal Go Down Low",
       "url": "https://open.spotify.com/track/2VQm61CP8UlqnUJcXxPVxf"
@@ -5670,6 +5722,28 @@
       "duration_ms": 146947,
       "name": "On Di Road",
       "url": "https://open.spotify.com/track/2dspNoeuWvdwy5mgGLjZfM"
+    },
+    {
+      "album": {
+        "name": "On pick",
+        "url": "https://open.spotify.com/album/3MYH7QTFGXPieMg1DXZb5k"
+      },
+      "artists": [
+        {
+          "name": "Lagess",
+          "url": "https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq"
+        },
+        {
+          "name": "Yanishi",
+          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137185,
+      "name": "On pick",
+      "url": "https://open.spotify.com/track/7iHBCREM7INf7DRZohL5jx"
     },
     {
       "album": {

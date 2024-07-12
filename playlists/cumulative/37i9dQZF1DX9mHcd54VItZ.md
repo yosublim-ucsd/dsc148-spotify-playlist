@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY?si=oqzSlc6wSSuoUDBAx3N9Qw">Neil Sandilands</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs?si=ZW07j9naQvSBVtAYj728Lw">The Parlotones</a>
 
-481 songs - 1 day 4 hr 43 min
+484 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
 | [Jonk & Danig](https://open.spotify.com/track/1rsjh2em6b9KD4wgJV2sTw) | [Vivien Redelinghuys](https://open.spotify.com/artist/2rd9K2tLcdJwW0Ub1UEiES) | [Jonk & Danig](https://open.spotify.com/album/74SaMFCbSWIPm3Y5CIOUAp) | 3:17 | 2024-05-31 | 2024-06-30 |
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
+| [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 | 2024-07-11 |  |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 | 2024-01-04 |  |
 | [Karma](https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM) | [New Volume](https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q) | [Karma](https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6) | 3:24 | 2023-11-09 | 2024-01-05 |
@@ -302,9 +303,9 @@
 | [No One Else Will](https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [No One Else Will](https://open.spotify.com/album/3xq4IJTrAK1atE6FVsBY98) | 3:20 | 2023-02-16 | 2023-03-18 |
 | [Nothing Feels Good Without You](https://open.spotify.com/track/0ldL6b3ZxXX5hcAntTHsi6) | [Louise Carver](https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD) | [Nothing Feels Good Without You](https://open.spotify.com/album/2oRvkrGd0ceGblE1Ui8hBe) | 3:25 | 2022-07-21 | 2023-02-03 |
 | [Nothing to Show \- Bonus Track](https://open.spotify.com/track/0a9srDwDH1sSIp9jvSP9rX) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [The Aviary \(Deluxe Edition\)](https://open.spotify.com/album/77lEYneVqteKZOJjzi88MZ) | 3:37 | 2021-11-11 | 2022-02-18 |
-| [Nou's Ek Blind](https://open.spotify.com/track/5IsUGhCV7rl11tnQf3jsuA) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Nou's Ek Blind](https://open.spotify.com/album/5egz5Szxe4rFmYUUvsGzLI) | 3:58 | 2024-05-16 |  |
+| [Nou's Ek Blind](https://open.spotify.com/track/5IsUGhCV7rl11tnQf3jsuA) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Nou's Ek Blind](https://open.spotify.com/album/5egz5Szxe4rFmYUUvsGzLI) | 3:58 | 2024-05-16 | 2024-07-12 |
 | [Ntuthwane](https://open.spotify.com/track/26LjhwE4l45AnMbvyxavn9) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Ntuthwane](https://open.spotify.com/album/6H3Afy1rryTXuENzc6JQhy) | 2:05 | 2023-04-20 | 2023-06-02 |
-| [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 | 2023-08-31 |  |
+| [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 | 2023-08-31 | 2024-07-12 |
 | [Oh No!](https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [Oh No!](https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3) | 2:25 | 2022-09-15 | 2023-03-03 |
 | [ohmygosh \- Acoustic](https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [ohmygosh \(Acoustic\)](https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9) | 4:12 | 2021-12-09 | 2022-08-05 |
 | [Old\-fashioned Liefde](https://open.spotify.com/track/0f1shqFGToy3RJzZBojBli) | [Kabaal Klankbaan](https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb) | [Linker Knie](https://open.spotify.com/album/4qp7fZPuuzzFm9KXJx0VgT) | 3:16 | 2023-07-13 | 2023-09-08 |
@@ -323,6 +324,7 @@
 | [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 | 2023-01-12 | 2023-03-25 |
 | [Overkill \- Radio Edit](https://open.spotify.com/track/3oM6PSeSJrTvfs3XLW9U7I) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Overkill](https://open.spotify.com/album/1h5HVObZMAqciIqwZXKAIi) | 2:59 | 2023-08-24 | 2023-10-13 |
 | [OVERTHINKING](https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Christian James](https://open.spotify.com/artist/3vIPpGcOC1CWD5MVg9xX8x) | [OVERTHINKING](https://open.spotify.com/album/5N6VbOBsJUIaMlihQn6S5M) | 1:48 | 2022-05-26 | 2022-12-16 |
+| [Paaie X](https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud) | [Aidan Kade](https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr) | [Paaie X](https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO) | 3:05 | 2024-07-11 |  |
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |
 | [Partners in Crime](https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Partners in Crime](https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D) | 3:39 | 2023-04-27 | 2023-07-29 |
@@ -392,6 +394,7 @@
 | [Soul Parasite](https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:31 | 2022-02-25 | 2022-11-25 |
 | [Stamp Daai Voete](https://open.spotify.com/track/6PItFXT4T7IVQNtxLx3w3H) | [Boschter](https://open.spotify.com/artist/5oZEwvGKQblP1d7ist4wUU) | [Party Party](https://open.spotify.com/album/6CWOCCe9gUdtSFJB34Iwzs) | 3:15 | 2024-01-26 | 2024-02-16 |
 | [Star Collides](https://open.spotify.com/track/5I6wDmXnxQRaZbk5fuLy6x) | [Anti Rabbit](https://open.spotify.com/artist/1A36YbUjwBuj8tryOeKYFd) | [Star Collides](https://open.spotify.com/album/4BghOtMD05NAtrSAeqrU3I) | 3:37 | 2023-08-31 | 2023-12-15 |
+| [Stare at the Sun](https://open.spotify.com/track/3x00SKQnXHNLQyJhwEJU5J) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs: E.P\. 1 \- Early Recordings!](https://open.spotify.com/album/1SMJDgWii8jnUoT8XXlLlE) | 3:38 | 2024-07-11 |  |
 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 | 2023-01-12 | 2023-04-28 |
 | [State of Emergency](https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [State of Emergency](https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj) | 3:12 | 2021-10-14 | 2022-03-25 |
 | [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 | 2022-09-22 | 2023-02-24 |
@@ -437,7 +440,7 @@
 | [The Waltz](https://open.spotify.com/track/1o75mFZMjlWXDupelG6AM7) | [Black Cat Bones](https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO) | [Book of Miriam](https://open.spotify.com/album/5tisDlIaGFaTVFE3hgmIln) | 3:24 | 2022-07-28 | 2023-02-03 |
 | [There She Goes](https://open.spotify.com/track/383TJILTEIAmfndU48yqaI) | [Orah & The Kites](https://open.spotify.com/artist/3B6qB7amU7lKiNcTNTNacP) | [There She Goes](https://open.spotify.com/album/0kH45YipMAXdwmvqAmo71u) | 4:02 | 2020-11-26 | 2022-11-18 |
 | [Thinking Too Hard](https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk), [The Aviary](https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5), [Jacques Moolman](https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l) | [Thinking Too Hard](https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk) | 2:20 | 2022-02-17 | 2022-08-05 |
-| [This Town](https://open.spotify.com/track/3I6RQjbPm767x1SfvTL1GY) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [This Town](https://open.spotify.com/album/5XyLb6Wq8vR3v9fYQhI6ri) | 4:33 | 2024-06-06 |  |
+| [This Town](https://open.spotify.com/track/3I6RQjbPm767x1SfvTL1GY) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [This Town](https://open.spotify.com/album/5XyLb6Wq8vR3v9fYQhI6ri) | 4:33 | 2024-06-06 | 2024-07-12 |
 | [Time on Your Hands](https://open.spotify.com/track/3ureghWhTV5UkMP2Bk1qFP) | [Southern Wild](https://open.spotify.com/artist/0W3lLIp2r8prEH0oejxBTi) | [Time on Your Hands](https://open.spotify.com/album/77SGuvGaRB65ppI3VgMsgD) | 4:38 | 2020-10-29 | 2022-03-25 |
 | [Tiptoe](https://open.spotify.com/track/2sb1iOmBnDrPFpzRagOhgS) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Tiptoe](https://open.spotify.com/album/3h3GSXsm9dsxIOxjemmAan) | 3:28 | 2023-09-22 | 2024-01-05 |
 | [Toe Roep Ek Jou Naam](https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Toe Roep Ek Jou Naam Velvet Blohm](https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi) | 3:45 | 2022-11-17 | 2023-09-01 |

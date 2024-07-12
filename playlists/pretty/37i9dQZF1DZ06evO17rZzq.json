@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3606,
+  "num_followers": 3614,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAABQfKdXc1o1jI/g6mkIx55S",
+  "snapshot_id": "Zo3PAAAAAAC7ctKqlbj3JQIrMyL7saYw",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
       "duration_ms": 160723,
       "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
       "url": "https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MMM MMM (feat. ATL Jacob)",
+        "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 137341,
+      "name": "MMM MMM (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
     },
     {
       "added_at": null,
@@ -415,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 188014,
-      "name": "Ms. Lick Back",
-      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chainzzz (feat. Muni Long)",
         "url": "https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw"
       },
@@ -447,6 +451,38 @@
       "duration_ms": 153847,
       "name": "Chainzzz (feat. Muni Long)",
       "url": "https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": null,
@@ -483,42 +519,6 @@
       "duration_ms": 116506,
       "name": "Stand On It",
       "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 175819,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UonU (feat. Yung Bleu)",
-        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 218205,
-      "name": "UonU (feat. Yung Bleu)",
-      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 148471,
-      "name": "Toxic Chocolate",
-      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Yours (Remix)",
         "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
@@ -595,22 +579,6 @@
       "duration_ms": 130295,
       "name": "Not Yours (Remix)",
       "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -639,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Results Take Time",
         "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
       },
@@ -655,6 +639,26 @@
       "duration_ms": 155476,
       "name": "Street Nigga (feat. Kaliii)",
       "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Little Thing (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 143020,
+      "name": "Bad Little Thing (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
     },
     {
       "added_at": null,
@@ -695,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Little Thing (feat. Kaliii)",
-        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 143020,
-      "name": "Bad Little Thing (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -747,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bout U",
         "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 159755,
       "name": "Bout U",
       "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -819,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 138288,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
       },
@@ -851,6 +819,22 @@
       "duration_ms": 191976,
       "name": "12",
       "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 138288,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
     },
     {
       "added_at": null,
@@ -891,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Vs Aliens",
-        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
-      },
-      "artists": [
-        {
-          "name": "Dr. Ink",
-          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 226151,
-      "name": "Peakin'",
-      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Rabbit All Star Compilation, Vol. 1",
         "url": "https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ"
       },
@@ -931,6 +895,26 @@
       "duration_ms": 236956,
       "name": "Pakkman",
       "url": "https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earth Vs Aliens",
+        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ink",
+          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 226151,
+      "name": "Peakin'",
+      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
     },
     {
       "added_at": null,

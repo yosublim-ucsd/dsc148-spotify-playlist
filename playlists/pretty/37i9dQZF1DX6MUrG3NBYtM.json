@@ -1,79 +1,31 @@
 {
-  "description": "De beste Alternative, Indie en Rock van nu! Cover: Blaudzun",
-  "num_followers": 71080,
+  "description": "De beste Alternative, Indie en Rock van nu! Cover: Fontaines D.C.",
+  "num_followers": 71081,
   "original_name": "Alternative 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoJiAAAAAAAZZmWX2MQao+fjKe8DoG3I",
+  "snapshot_id": "ZpBV4AAAAAA3eoYdsC1c/VgWdx1TXkAi",
   "tracks": [
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu"
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
       },
       "artists": [
         {
-          "name": "Blaudzun",
-          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 197548,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa"
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Youth",
-          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
-        }
-      ],
-      "duration_ms": 284314,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE"
-    },
-    {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
-    },
-    {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "The Sadness In You, The Sadness In Me",
-        "url": "https://open.spotify.com/album/7xzJjmtUWwWubWB4DX5sLy"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "The Sadness In You, The Sadness In Me",
-      "url": "https://open.spotify.com/track/1cMwY32ezvo0JNXEOLKEVg"
-    },
-    {
-      "added_at": "2024-07-01 08:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Wrong Ones",
         "url": "https://open.spotify.com/album/5maUNKWdpqEei0OzIdvTbN"
@@ -89,7 +41,103 @@
       "url": "https://open.spotify.com/track/3Rx0g3VVxBnOm2lYtkBsJ3"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu"
+      },
+      "artists": [
+        {
+          "name": "Blaudzun",
+          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+        }
+      ],
+      "duration_ms": 197548,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "duration_ms": 284314,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "The Sadness In You, The Sadness In Me",
+        "url": "https://open.spotify.com/album/7xzJjmtUWwWubWB4DX5sLy"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "The Sadness In You, The Sadness In Me",
+      "url": "https://open.spotify.com/track/1cMwY32ezvo0JNXEOLKEVg"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Fly Like Me",
         "url": "https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "This Is Nowhere",
         "url": "https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S"
@@ -153,23 +201,27 @@
       "url": "https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Cuts & Bruises",
-        "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
+        "name": "AfterLife (Deluxe)",
+        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 267906,
-      "name": "If You\u2019re Gonna Break My Heart",
-      "url": "https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0"
+      "duration_ms": 167264,
+      "name": "This Is The Way (feat. DMX)",
+      "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
@@ -185,7 +237,7 @@
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
@@ -201,7 +253,7 @@
       "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
@@ -217,7 +269,7 @@
       "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Infinity Song",
         "url": "https://open.spotify.com/album/6WRdoVlzOf1NWEKqDh7hBL"
@@ -233,7 +285,23 @@
       "url": "https://open.spotify.com/track/0pH3Jhbb7PJoytsHRrEzC2"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 242838,
+      "name": "On The Game",
+      "url": "https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Down The Rabbit Hole",
         "url": "https://open.spotify.com/album/2cXmUukaT3vR1INZOajMTd"
@@ -249,7 +317,7 @@
       "url": "https://open.spotify.com/track/23opA2C2jQS10uBL4DmQv4"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
@@ -265,7 +333,7 @@
       "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Keep It Up",
         "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
@@ -281,7 +349,7 @@
       "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Oh No :: He Said What?",
         "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
@@ -297,7 +365,7 @@
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Lonely Citizen",
         "url": "https://open.spotify.com/album/6TiciGAyXjDDXi1ofxY3ru"
@@ -313,7 +381,7 @@
       "url": "https://open.spotify.com/track/6R3uOuN5VN0BEzbtA2mKH4"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
@@ -329,7 +397,7 @@
       "url": "https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Tiny Moves",
         "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
@@ -345,7 +413,23 @@
       "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Starburster",
+        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Just Another Rainbow",
         "url": "https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX"
@@ -365,7 +449,7 @@
       "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "out of place",
         "url": "https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO"
@@ -381,7 +465,7 @@
       "url": "https://open.spotify.com/track/4Dj8VDoJPIYkryOKrJdI0e"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Big Time Nothing",
         "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
@@ -397,7 +481,7 @@
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Popcorn (feat. Sylvie Kreusch)",
         "url": "https://open.spotify.com/album/2HbIGZuJWjT2VtWxSKmCC1"
@@ -417,7 +501,7 @@
       "url": "https://open.spotify.com/track/72oOVAyt2QyHSg7TezuI6G"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Is This Love?",
         "url": "https://open.spotify.com/album/3m83zmi7UMBf6uV6csCbyl"
@@ -437,7 +521,7 @@
       "url": "https://open.spotify.com/track/2qniUr523yjUKD8EJRe7LP"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n"
@@ -453,7 +537,7 @@
       "url": "https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "The Signal",
         "url": "https://open.spotify.com/album/1M31YPVDNtnRoyeDbPgWhQ"
@@ -469,7 +553,7 @@
       "url": "https://open.spotify.com/track/1nhGzT3G5FXh6sJoXsw9Kz"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Your Side of Town",
         "url": "https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC"
@@ -485,7 +569,7 @@
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "RUSH! (ARE U COMING?)",
         "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
@@ -501,7 +585,7 @@
       "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
@@ -517,7 +601,7 @@
       "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Feeling Alright",
         "url": "https://open.spotify.com/album/4yKCw9bersno18GJdoQDpI"
@@ -533,7 +617,7 @@
       "url": "https://open.spotify.com/track/2ImmcMcg2xlKwKXIzinlKK"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Unknown Affairs",
         "url": "https://open.spotify.com/album/2wPpwzhLcc8kapEVejp2VG"
@@ -549,7 +633,7 @@
       "url": "https://open.spotify.com/track/2RmHzwcC72loQo73q9pAJP"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Pull Me Through",
         "url": "https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji"
@@ -565,7 +649,7 @@
       "url": "https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
@@ -585,7 +669,7 @@
       "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Council Skies",
         "url": "https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f"
@@ -601,23 +685,7 @@
       "url": "https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "Orange Skyline",
-        "url": "https://open.spotify.com/album/1cZw7eM6QA6xt1dWKIjWL6"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/4fECwnyeUV7tFEwIsMmPBv"
-    },
-    {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Corner Cutter",
         "url": "https://open.spotify.com/album/2oVRCSn7HvXRlNN9f7nFtE"
@@ -633,23 +701,7 @@
       "url": "https://open.spotify.com/track/7oVZRiYQvW2KxELvhwEJ0t"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "In Between Borderlines",
         "url": "https://open.spotify.com/album/027Ba0mbr086Fq8ax1yFR1"
@@ -665,7 +717,7 @@
       "url": "https://open.spotify.com/track/0fkzqZcxXDBGuYrbP8DHNE"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "In Times New Roman...",
         "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "How To Replace It",
         "url": "https://open.spotify.com/album/0VwdLX4EvZMcaFwd7fWtil"
@@ -697,7 +749,7 @@
       "url": "https://open.spotify.com/track/5DEm7vf67ksyI50GvL0eIP"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "punkadonk",
         "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
@@ -713,7 +765,7 @@
       "url": "https://open.spotify.com/track/4W3lWptVUZBrCarHkiLniA"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Well, Actually",
         "url": "https://open.spotify.com/album/6Lt5cUgg82xW0dRnEHpaua"
@@ -729,55 +781,7 @@
       "url": "https://open.spotify.com/track/5luU51yytlFbX2LwsYCizD"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 233752,
-      "name": "Comments",
-      "url": "https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8"
-    },
-    {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
-    },
-    {
-      "added_at": "2024-06-26 09:14:30",
-      "album": {
-        "name": "Don't Say It's Over",
-        "url": "https://open.spotify.com/album/72yH1PXnzGt8Gs1OPPUVqx"
-      },
-      "artists": [
-        {
-          "name": "Gaz Coombes",
-          "url": "https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx"
-        }
-      ],
-      "duration_ms": 226873,
-      "name": "Don\u2019t Say It\u2019s Over",
-      "url": "https://open.spotify.com/track/6PrOPwz8YdN4idSUwPffRh"
-    },
-    {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Dead On The Money",
         "url": "https://open.spotify.com/album/43EzvE87hJGfpZiYcD1HSU"
@@ -793,7 +797,7 @@
       "url": "https://open.spotify.com/track/2wQHKNtbt27tIawFXnpsAF"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Your Apartment",
         "url": "https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms"
@@ -809,7 +813,7 @@
       "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
     },
     {
-      "added_at": "2024-06-26 09:14:30",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"

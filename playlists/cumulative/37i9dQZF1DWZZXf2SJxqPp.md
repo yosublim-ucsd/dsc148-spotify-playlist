@@ -4,7 +4,7 @@
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-194 songs - 13 hr 0 min
+195 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-05-03 |  |
 | [Descends](https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Du rivage](https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD) | 3:34 | 2023-03-20 |  |
 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 | 2023-03-20 |  |
-| [Do Beijo](https://open.spotify.com/track/10e7D2zxoamqizmQ03C1RK) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Processman](https://open.spotify.com/artist/3uxDCjxvaZzVs1BJQJk38I), [Henriq Ch](https://open.spotify.com/artist/178JYHPD8js9YtWaHcjviR) | [Do Beijo](https://open.spotify.com/album/7l9QhlNZYar3Z72LHj3UHr) | 3:32 | 2023-08-14 |  |
+| [Do Beijo](https://open.spotify.com/track/10e7D2zxoamqizmQ03C1RK) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Processman](https://open.spotify.com/artist/3uxDCjxvaZzVs1BJQJk38I), [Henriq Ch](https://open.spotify.com/artist/178JYHPD8js9YtWaHcjviR) | [Do Beijo](https://open.spotify.com/album/7l9QhlNZYar3Z72LHj3UHr) | 3:32 | 2023-08-14 | 2024-07-12 |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-08-14 | 2024-04-19 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-24 | 2023-09-15 |
 | [Don't Sing \(Polo & Pan Remix\)](https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Don't Sing](https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V) | 5:11 | 2023-03-20 |  |
@@ -87,6 +87,7 @@
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2023-03-20 | 2023-09-24 |
 | [Huacachina](https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT) | 3:33 | 2023-08-14 | 2024-04-19 |
 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 | 2023-03-20 | 2024-04-19 |
+| [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 | 2024-07-11 |  |
 | [I Look to You](https://open.spotify.com/track/4i7HrBTsaocmoNPoifG7Bd) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Illumination](https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk) | 3:53 | 2023-03-20 | 2024-04-19 |
 | [I Wanna Know What Love Is](https://open.spotify.com/track/1oG64RG7TgBHV3jxo0xenp) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/42ACxS8aXXzxIZCZnogHfV) | 2:51 | 2023-08-14 | 2024-04-19 |
 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 | 2023-03-20 | 2023-12-09 |

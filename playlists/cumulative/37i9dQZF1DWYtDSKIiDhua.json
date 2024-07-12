@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Gareth.T",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: WIM",
   "name": "mood.",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 246171,
       "name": "5PM Down The Shore",
       "url": "https://open.spotify.com/track/7wMY5Z0bk65R2J9OKFxFTV"
@@ -564,6 +564,24 @@
       "duration_ms": 184114,
       "name": "All That I Needed",
       "url": "https://open.spotify.com/track/7DBAcbwcjFk3TPnj0mp7ct"
+    },
+    {
+      "album": {
+        "name": "All The Way Home",
+        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167100,
+      "name": "All The Way Home",
+      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
     },
     {
       "album": {
@@ -3209,6 +3227,32 @@
     },
     {
       "album": {
+        "name": "White Couch In The House",
+        "url": "https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss"
+      },
+      "artists": [
+        {
+          "name": "The Couch Club",
+          "url": "https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh"
+        },
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        },
+        {
+          "name": "BLEU HOUSE",
+          "url": "https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338044,
+      "name": "Don't Let It Slip Away",
+      "url": "https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv"
+    },
+    {
+      "album": {
         "name": "Don't Love Me",
         "url": "https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G"
       },
@@ -3474,6 +3518,24 @@
       "duration_ms": 260120,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+    },
+    {
+      "album": {
+        "name": "Dyin\u2019 To Know",
+        "url": "https://open.spotify.com/album/5yoPD3c3dHCIJH7QZ1JdpO"
+      },
+      "artists": [
+        {
+          "name": "Aaron Bunac",
+          "url": "https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180380,
+      "name": "Dyin\u2019 To Know",
+      "url": "https://open.spotify.com/track/2pOz4brROgNTWvb33sigQk"
     },
     {
       "album": {
@@ -4409,6 +4471,24 @@
     },
     {
       "album": {
+        "name": "Focus on you",
+        "url": "https://open.spotify.com/album/3NPku2cEVb276XVWOs1OZo"
+      },
+      "artists": [
+        {
+          "name": "Jetter",
+          "url": "https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Focus on you",
+      "url": "https://open.spotify.com/track/7arxVyOAqJPWI3PLaVzWkr"
+    },
+    {
+      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -5170,7 +5250,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 238335,
       "name": "Got Supplies",
       "url": "https://open.spotify.com/track/6ftLZGmVzydIlM9NNcBEEe"
@@ -5282,7 +5362,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 190967,
       "name": "GUNFIGHT",
       "url": "https://open.spotify.com/track/3bH5UrS5OEVnnHe4s5mVe7"
@@ -6332,7 +6412,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 218500,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
@@ -7124,7 +7204,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 186666,
       "name": "Lady",
       "url": "https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS"
@@ -7888,6 +7968,24 @@
       "duration_ms": 179154,
       "name": "Love in The Air (feat. I'MIN)",
       "url": "https://open.spotify.com/track/2aW9HHWHr840xdeDzCyB3p"
+    },
+    {
+      "album": {
+        "name": "Love Like VIP",
+        "url": "https://open.spotify.com/album/4pRibqlByznwaXAYVSXQ1B"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Love Like VIP",
+      "url": "https://open.spotify.com/track/61Yd0DgGLhgpUiQFjuXcUY"
     },
     {
       "album": {
@@ -8897,6 +8995,28 @@
     },
     {
       "album": {
+        "name": "My only one",
+        "url": "https://open.spotify.com/album/64K4uBvhovyObizFJiqZpO"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "My only one (feat. yedira)",
+      "url": "https://open.spotify.com/track/1onBBb2OChizgSNKG79PcQ"
+    },
+    {
+      "album": {
         "name": "My Soles Worn Out",
         "url": "https://open.spotify.com/album/3LC5izvPoH4ZpQo2K05u6r"
       },
@@ -9438,6 +9558,28 @@
       "duration_ms": 181224,
       "name": "NVMD",
       "url": "https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/2jGXq4rk9arvhzEO5r2JZg"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        },
+        {
+          "name": "ZENDAMAN",
+          "url": "https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134869,
+      "name": "OASIS",
+      "url": "https://open.spotify.com/track/2QaNtGCVCiOKLaT0XJip1B"
     },
     {
       "album": {
@@ -11127,6 +11269,24 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181602,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
+    },
+    {
+      "album": {
         "name": "Say Cheese",
         "url": "https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N"
       },
@@ -11882,7 +12042,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -12100,6 +12260,24 @@
       "duration_ms": 159213,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
+    },
+    {
+      "album": {
+        "name": "spotlight",
+        "url": "https://open.spotify.com/album/2aU1tgQeVMS0W2Rnlj6s0z"
+      },
+      "artists": [
+        {
+          "name": "Nichole",
+          "url": "https://open.spotify.com/artist/2CvpMBzZk0ZX5XxcAiS3fw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110615,
+      "name": "spotlight",
+      "url": "https://open.spotify.com/track/1dwSX08pBY60ij4Bw2gEO3"
     },
     {
       "album": {
@@ -13971,6 +14149,32 @@
     },
     {
       "album": {
+        "name": "TWO SIDES (feat. Kalabrez)",
+        "url": "https://open.spotify.com/album/10t9dikPUCsUtP6JneQ8g3"
+      },
+      "artists": [
+        {
+          "name": "Luis V",
+          "url": "https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        },
+        {
+          "name": "Kalabrez",
+          "url": "https://open.spotify.com/artist/1GwadGz7UPgLBPAvkaFZKk"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "TWO SIDES (feat. Kalabrez)",
+      "url": "https://open.spotify.com/track/6lNrbmciTeydQYoFx4WixS"
+    },
+    {
+      "album": {
         "name": "u & i",
         "url": "https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh"
       },
@@ -15438,6 +15642,28 @@
       "duration_ms": 186093,
       "name": "You're Almost There",
       "url": "https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9"
+    },
+    {
+      "album": {
+        "name": "YOUR LAST",
+        "url": "https://open.spotify.com/album/3YQlQEJ6srCNM7xQF9Im4q"
+      },
+      "artists": [
+        {
+          "name": "voquote",
+          "url": "https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR"
+        },
+        {
+          "name": "Lil Summer",
+          "url": "https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "YOUR LAST",
+      "url": "https://open.spotify.com/track/5J5BSFpK1zrGBvWGmeg6OH"
     },
     {
       "album": {

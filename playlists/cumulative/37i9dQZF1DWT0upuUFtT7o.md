@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Clothesline From Hell
 
-2,574 songs - 5 day 21 hr 46 min
+2,575 songs - 5 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [anymore](https://open.spotify.com/track/7AJZthxqKgdpNmoeo0QSwV) | [Grace Sanders](https://open.spotify.com/artist/2aDcf64iS2QBTPjBKkkBBL) | [anymore](https://open.spotify.com/album/7l5LuCySWubSnrRV7P7doi) | 4:39 | 2022-04-06 | 2022-04-27 |
 | [Anyone](https://open.spotify.com/track/3oYvny1uTScMeCYYePNSNm) | [Helenor](https://open.spotify.com/artist/48ArPjkg4eeTRFMB9abusw) | [A public place](https://open.spotify.com/album/1Vbe6nk4QsGxPSgE0jQbHm) | 4:56 | 2024-04-17 | 2024-05-09 |
 | [Anything](https://open.spotify.com/track/1aivQYasJmmwGdehh0Ny8L) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [Anything](https://open.spotify.com/album/5kbnVR8c9PjF88P4GtAGqj) | 3:44 | 2023-01-11 | 2023-02-09 |
+| [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 | 2024-07-11 |  |
 | [ANYTHING YOU WANT](https://open.spotify.com/track/7jMgNeynOc23XAEZmYlVtf) | [Keaton](https://open.spotify.com/artist/16O3SlfuN34EW786Ouiu4M) | [ANYTHING YOU WANT / SLIDING DOORS](https://open.spotify.com/album/33sZ6OAoSnEf4rL9LNh2PU) | 3:10 | 2023-04-05 | 2023-05-18 |
 | [AP](https://open.spotify.com/track/6W1fk5r9gnjf1eHum755he) | [Mal Not Bad](https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL) | [AP](https://open.spotify.com/album/7jr6H8qHz09pR8wCTOM9O7) | 2:13 | 2023-11-15 | 2023-11-30 |
 | [Apollo](https://open.spotify.com/track/21NC2lCEgUMvL3QbYYwSHX) | [Sivu](https://open.spotify.com/artist/6RFYCKz8MgykjjsvnpLPTf) | [Apollo](https://open.spotify.com/album/6Cj8vu4963c8uotOiwonxb) | 3:21 | 2023-03-15 | 2023-05-11 |

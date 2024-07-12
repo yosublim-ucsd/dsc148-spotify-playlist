@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Geisha",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Suara Kayu",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 258351,
       "name": "Badut",
       "url": "https://open.spotify.com/track/7o12WO9nt0euUwWxFmF0JR"
@@ -154,6 +154,24 @@
       "duration_ms": 188811,
       "name": "Begini Begitu",
       "url": "https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk"
+    },
+    {
+      "album": {
+        "name": "Benar Salah",
+        "url": "https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "Benar Salah",
+      "url": "https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY"
     },
     {
       "album": {
@@ -321,6 +339,46 @@
     },
     {
       "album": {
+        "name": "Cinta Tak Pernah Tepat Waktu",
+        "url": "https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        },
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212318,
+      "name": "Cinta Tak Pernah Tepat Waktu",
+      "url": "https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k"
+    },
+    {
+      "album": {
+        "name": "CINTA TERSAKITI",
+        "url": "https://open.spotify.com/album/0WnG6bvjd3Wmj9ce7PVqNK"
+      },
+      "artists": [
+        {
+          "name": "Tri Suaka",
+          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "CINTA TERSAKITI",
+      "url": "https://open.spotify.com/track/2uuc5Q5lFDAlXryHcFQ21h"
+    },
+    {
+      "album": {
         "name": "Dan...",
         "url": "https://open.spotify.com/album/1Gu0t5IsJYhU1c6MqphVNO"
       },
@@ -462,7 +520,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 278600,
       "name": "Episode Bahagia",
       "url": "https://open.spotify.com/track/1NNCFYPVLb1rmaz7gYwS9t"
@@ -480,7 +538,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 173426,
       "name": "Favorite Art",
       "url": "https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu"
@@ -520,6 +578,24 @@
       "duration_ms": 306226,
       "name": "Hanya Tentang Waktu",
       "url": "https://open.spotify.com/track/3vYZUoXqJ5R30PgZrKPauo"
+    },
+    {
+      "album": {
+        "name": "Harus Kecewa",
+        "url": "https://open.spotify.com/album/1hosJIohFx5z7TLNotHSWf"
+      },
+      "artists": [
+        {
+          "name": "Langit Sore",
+          "url": "https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214714,
+      "name": "Harus Kecewa",
+      "url": "https://open.spotify.com/track/5EegFEXktgPzCkmPGqGljS"
     },
     {
       "album": {
@@ -606,7 +682,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 202659,
       "name": "Hoping You'll Be Mine",
       "url": "https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt"
@@ -750,7 +826,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 270000,
       "name": "Jutaan Salah, Milyaran Maaf",
       "url": "https://open.spotify.com/track/2sKcTM22jfcWz5EoQxEcZU"
@@ -772,6 +848,24 @@
       "duration_ms": 239379,
       "name": "Kaji Ulang",
       "url": "https://open.spotify.com/track/0aJr8TCz4PONyaZZLnI8RV"
+    },
+    {
+      "album": {
+        "name": "Banyak Canda, Tapi Serius",
+        "url": "https://open.spotify.com/album/2pBxYlubqhBs9IXMqJQEde"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Kamu + Aku",
+      "url": "https://open.spotify.com/track/07pirs2wD4y7KoDVf0T5Fi"
     },
     {
       "album": {
@@ -1010,7 +1104,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 256695,
       "name": "Laki-Laki Bukan Pengecut",
       "url": "https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp"
@@ -1147,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Manusia Paling Menyebalkan",
+        "url": "https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz"
+      },
+      "artists": [
+        {
+          "name": "BIANCADIMAS",
+          "url": "https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189917,
+      "name": "Manusia Paling Menyebalkan",
+      "url": "https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr"
+    },
+    {
+      "album": {
         "name": "Mati Satu Tak Tumbuh Lagi",
         "url": "https://open.spotify.com/album/3c1TKSbv7UARypYZsORhuD"
       },
@@ -1194,7 +1306,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 234500,
       "name": "Memilih Berhenti - Acoustic",
       "url": "https://open.spotify.com/track/5Hl1MoirusAn9TIzIXIWrR"
@@ -1216,7 +1328,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 185484,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/1wbTdarJADjlKQ5h8JpQrX"
@@ -1350,6 +1462,24 @@
       "duration_ms": 258627,
       "name": "Mundur Perlahan",
       "url": "https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV"
+    },
+    {
+      "album": {
+        "name": "Mungkin Belum Sekarang (Catatan Harian Menantu Sinting Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Tz9cik7fBpYXrDemIH7S5"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237230,
+      "name": "Mungkin Belum Sekarang (Catatan Harian Menantu Sinting Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/4yrsCwGmG5SqraKGoHwE53"
     },
     {
       "album": {
@@ -1652,7 +1782,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 225633,
       "name": "Sejauh Dua Benua",
       "url": "https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY"
@@ -1794,6 +1924,24 @@
       "duration_ms": 242800,
       "name": "Suamiku",
       "url": "https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs"
+    },
+    {
+      "album": {
+        "name": "Sudah Sangat Rindu",
+        "url": "https://open.spotify.com/album/34byXz07dvOGFQ4qeQQhgO"
+      },
+      "artists": [
+        {
+          "name": "YUHU.",
+          "url": "https://open.spotify.com/artist/53q9XQ29WMWLqX9n7RNRbL"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Sudah Sangat Rindu",
+      "url": "https://open.spotify.com/track/4RvQCrQ9SYxqpgrPBkywXD"
     },
     {
       "album": {

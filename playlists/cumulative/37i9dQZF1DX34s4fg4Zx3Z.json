@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "all because of you",
+        "url": "https://open.spotify.com/album/5sve8vIL7POyleL35hNK12"
+      },
+      "artists": [
+        {
+          "name": "qt.",
+          "url": "https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209701,
+      "name": "all because of you",
+      "url": "https://open.spotify.com/track/1JkDHvUWubQrqQiLbcRxkd"
+    },
+    {
+      "album": {
         "name": "BEDROOM the EP (feat. Wansentai)",
         "url": "https://open.spotify.com/album/3CJi7QbITFGYmEx76RsyIh"
       },
@@ -1237,7 +1255,7 @@
     },
     {
       "album": {
-        "name": "Anh Ch\u1eb3ng Th\u1ec3 (Prod. X\u00f4n Nguy\u1ec5n)",
+        "name": "Anh Ch\u1eb3ng Th\u1ec3",
         "url": "https://open.spotify.com/album/7vjigMTOI8fPWDOTa26kbX"
       },
       "artists": [
@@ -1248,13 +1266,17 @@
         {
           "name": "Freaky",
           "url": "https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm"
+        },
+        {
+          "name": "X\u00f4n Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/2KhDttLplSvTjfipdzvOu3"
         }
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 263107,
-      "name": "Anh Ch\u1eb3ng Th\u1ec3 (Prod. X\u00f4n Nguy\u1ec5n)",
+      "name": "Anh Ch\u1eb3ng Th\u1ec3",
       "url": "https://open.spotify.com/track/1gmCssbzpEgzeLAC7M3PT6"
     },
     {
@@ -5092,7 +5114,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 202429,
       "name": "Ch\u00e0o M\u1eebng Anh V\u1ec1 V\u1edbi \u0110\u1ed9i C\u1ee7a Em",
       "url": "https://open.spotify.com/track/4f4yxVL9QVgzqsaqDCZKrD"
@@ -8585,6 +8607,32 @@
     },
     {
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/5M3qG8rKExBTT9itcJBeP1"
+      },
+      "artists": [
+        {
+          "name": "salmon",
+          "url": "https://open.spotify.com/artist/2xHirxzZNMj4aNQ5gm3E7O"
+        },
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR"
+        },
+        {
+          "name": "ocean.",
+          "url": "https://open.spotify.com/artist/2uogG5rfMBSXPbm8pwQaAF"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176818,
+      "name": "c\u1ee9 \u0111\u1ec3 em lo",
+      "url": "https://open.spotify.com/track/4FsGxuRrheMWN0nApLQ3B2"
+    },
+    {
+      "album": {
         "name": "c\u1eeda h\u00e0ng ti\u1ec7n l\u1ee3i",
         "url": "https://open.spotify.com/album/5JR1LGwz5n7iWSaYxpCmKh"
       },
@@ -11258,7 +11306,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 192000,
       "name": "Gi\u00e1 Nh\u01b0",
       "url": "https://open.spotify.com/track/0JPr0AnLb6gqF8Jtu0NUWB"
@@ -12200,7 +12248,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 226197,
       "name": "hard to forget",
       "url": "https://open.spotify.com/track/1xkL3yiUk8oVQYRV5TnsOF"
@@ -14436,6 +14484,24 @@
       "duration_ms": 253090,
       "name": "Kh\u00f4ng B\u1eb1ng",
       "url": "https://open.spotify.com/track/3QqaprfIRIwXJK3raoLRkh"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00e3 \u0110\u1ebfn L\u00fac",
+        "url": "https://open.spotify.com/album/7J5vgqEwOO5vIMSqAS5ssP"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/474FUdAwzyGK0BPCP72vHw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236534,
+      "name": "Kh\u00f4ng Cho Anh \u0110i",
+      "url": "https://open.spotify.com/track/7KI8Ok5qARDdGskEFOtLvL"
     },
     {
       "album": {

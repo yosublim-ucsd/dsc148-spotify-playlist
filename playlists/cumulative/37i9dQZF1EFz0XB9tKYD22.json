@@ -34,10 +34,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 192951,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9"
+    },
+    {
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/4tFhgNCbU19lXjYkIMFw8T"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192951,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/3WzkONrbRHl4h8lyQiEOj2"
     },
     {
       "album": {
@@ -334,6 +352,24 @@
     {
       "album": {
         "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/5YRwR7wOulWESaGKwHcQbF"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206078,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/1pfNTd88JczeBX1kndkO3p"
+    },
+    {
+      "album": {
+        "name": "I'm In Love",
         "url": "https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM"
       },
       "artists": [
@@ -344,7 +380,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 206078,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/3IJ5RruUSymQVekN6wDhjF"
@@ -2200,10 +2236,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 254582,
       "name": "I AIN'T IN THE COUNTRY NO MORE",
       "url": "https://open.spotify.com/track/0RI2PWj7erLkPnA11N3Vn9"
+    },
+    {
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254582,
+      "name": "I AIN'T IN THE COUNTRY NO MORE",
+      "url": "https://open.spotify.com/track/3DUPN5FJrI6l44gv18gVnz"
     },
     {
       "album": {
@@ -2392,6 +2446,24 @@
     {
       "album": {
         "name": "Dallas Smith",
+        "url": "https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208775,
+      "name": "I Would",
+      "url": "https://open.spotify.com/track/2yvJR5cdjFes69jGQiKqhv"
+    },
+    {
+      "album": {
+        "name": "Dallas Smith",
         "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
       },
       "artists": [
@@ -2402,7 +2474,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 208775,
       "name": "I Would",
       "url": "https://open.spotify.com/track/7y6aDGUtK0DJZDtf2N7I34"
@@ -2630,6 +2702,24 @@
     {
       "album": {
         "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
+    },
+    {
+      "album": {
+        "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
       "artists": [
@@ -2640,7 +2730,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168630,
       "name": "JACK",
       "url": "https://open.spotify.com/track/4q4ITrTmB4LyoNw9yjb2Ic"
@@ -3638,10 +3728,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 214194,
       "name": "Over Here",
       "url": "https://open.spotify.com/track/21tMPuHSZHyCFN7HLPTzaJ"
+    },
+    {
+      "album": {
+        "name": "Planes Don't Wait",
+        "url": "https://open.spotify.com/album/0uIwUWUsDPDJoNDBnfzs3o"
+      },
+      "artists": [
+        {
+          "name": "Shawn Austin",
+          "url": "https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214194,
+      "name": "Over Here",
+      "url": "https://open.spotify.com/track/4wuhlskcKp05Bvyo4ZBXjJ"
     },
     {
       "album": {
@@ -3718,6 +3826,24 @@
     {
       "album": {
         "name": "Raised",
+        "url": "https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/1vooH2ubQm33QhksSPLFGY"
+    },
+    {
+      "album": {
+        "name": "Raised",
         "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
       },
       "artists": [
@@ -3728,7 +3854,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 208346,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/6FrmKMVrl4ga3lGup2QZ2M"
@@ -4694,7 +4820,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 204906,
       "name": "Take It",
       "url": "https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj"
@@ -5432,10 +5558,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 177348,
       "name": "tryin' to love you",
       "url": "https://open.spotify.com/track/0wVv0sMgj9Wx6fSumhAzwT"
+    },
+    {
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177348,
+      "name": "tryin' to love you",
+      "url": "https://open.spotify.com/track/3kvmNifP422VOXbXrAVoYR"
     },
     {
       "album": {

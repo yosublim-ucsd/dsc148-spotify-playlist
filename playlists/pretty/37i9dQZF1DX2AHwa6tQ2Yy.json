@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 48092,
+  "num_followers": 48099,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "I Chose Good",
         "url": "https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 163914,
       "name": "I Chose Good",
       "url": "https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Finding Peace",
-      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Eating out",
         "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 173369,
       "name": "Eating out",
       "url": "https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Finding Peace",
+      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 203214,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 203214,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Like a Ship",
-        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Keite Young",
-          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
-        }
-      ],
-      "duration_ms": 353506,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
       },
@@ -859,18 +839,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Love in the Open",
-        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
+        "name": "Like a Ship",
+        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
       },
       "artists": [
         {
-          "name": "Jet Vesper",
-          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Keite Young",
+          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
         }
       ],
-      "duration_ms": 122719,
-      "name": "Love in the Open",
-      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
+      "duration_ms": 353506,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "chasing the bus",
-        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+        "name": "Love in the Open",
+        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
       },
       "artists": [
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
         }
       ],
-      "duration_ms": 188550,
-      "name": "chasing the bus",
-      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
+      "duration_ms": 122719,
+      "name": "Love in the Open",
+      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -927,6 +911,22 @@
       "duration_ms": 192253,
       "name": "Oil & Water",
       "url": "https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "you already know [demo_2021].wav",
-        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 182169,
-      "name": "you already know [demo_2021].wav",
-      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Autumn Girl",
-        "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
-      },
-      "artists": [
-        {
-          "name": "Will Clift",
-          "url": "https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Autumn Girl",
-      "url": "https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 186583,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Autumn Girl",
+        "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
+      },
+      "artists": [
+        {
+          "name": "Will Clift",
+          "url": "https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Autumn Girl",
+      "url": "https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO"
     },
     {
       "added_at": "2024-03-14 20:40:35",

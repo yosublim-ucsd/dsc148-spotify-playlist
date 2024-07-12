@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 182096,
+  "num_followers": 182165,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAAATOojgx0rU3MHnIMWl5BUx",
+  "snapshot_id": "Zo3PAAAAAADuCd93vAXtKF7esPoFPs8x",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "All My Favorite Songs (feat. AJR)",
+        "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
       },
       "artists": [
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
+      "duration_ms": 170720,
+      "name": "All My Favorite Songs (feat. AJR)",
+      "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
     },
     {
       "added_at": null,
@@ -207,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -216,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Perfect Situation",
-      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
+      "duration_ms": 238626,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
     },
     {
       "added_at": null,
@@ -239,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
       },
       "artists": [
         {
@@ -248,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 163330,
-      "name": "Buddy Holly - Spotify Anniversaries Version - Live",
-      "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
+      "duration_ms": 254333,
+      "name": "Perfect Situation",
+      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
     },
     {
       "added_at": null,
@@ -271,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
       },
       "artists": [
         {
@@ -280,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
+      "duration_ms": 163330,
+      "name": "Buddy Holly - Spotify Anniversaries Version - Live",
+      "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
     },
     {
       "added_at": null,
@@ -299,6 +303,22 @@
       "duration_ms": 259466,
       "name": "The World Has Turned And Left Me Here",
       "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
     },
     {
       "added_at": null,
@@ -336,22 +356,6 @@
       "added_at": null,
       "album": {
         "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Troublemaker",
-      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
       "artists": [
@@ -363,6 +367,22 @@
       "duration_ms": 235706,
       "name": "In The Garage",
       "url": "https://open.spotify.com/track/3If9Idk1rglOqubIsJcpmv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
     },
     {
       "added_at": null,
@@ -584,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 272773,
-      "name": "Across The Sea",
-      "url": "https://open.spotify.com/track/7JJPh9eOiSr8zYlBjcu2w0"
+      "duration_ms": 181693,
+      "name": "No Other One",
+      "url": "https://open.spotify.com/track/3pdwtknFmM6xocVEpj7yAl"
     },
     {
       "added_at": null,
@@ -751,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SZNZ: Summer",
-        "url": "https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Records",
-      "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Will Be Alright In The End",
         "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
@@ -783,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK Human",
-        "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 183672,
-      "name": "Aloo Gobi",
-      "url": "https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/4FrRRR86MYCjoLFV8dgnm5"
       },
@@ -811,6 +799,22 @@
       "duration_ms": 236346,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4Fj6KslSYYQ1kAbafiKoz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OK Human",
+        "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Aloo Gobi",
+      "url": "https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV"
     }
   ],
   "unique_name": "This Is Weezer",

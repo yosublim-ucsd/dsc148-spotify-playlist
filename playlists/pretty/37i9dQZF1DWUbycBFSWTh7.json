@@ -1,15 +1,15 @@
 {
   "description": "get into the groove",
-  "num_followers": 194403,
+  "num_followers": 194427,
   "original_name": "Deep House Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocbYAAAAADaiQHm00T6012GxlZ6pUgL",
+  "snapshot_id": "ZpBV4AAAAABQ4HY71gjzWQXCK3Fsfkpe",
   "tracks": [
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Now I Understand",
         "url": "https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/708V4prVtBnVqfpG3tJnxd"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0WBwfTxabbs3HeYu6Wlt0o"
@@ -41,31 +41,7 @@
       "url": "https://open.spotify.com/track/6QKaF0hXfAgCpm3w7lM3Z2"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Organi",
-        "url": "https://open.spotify.com/album/6VJVIazxwDx1jnhNzbLhjP"
-      },
-      "artists": [
-        {
-          "name": "Masters At Work",
-          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
-        },
-        {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 396311,
-      "name": "Organi",
-      "url": "https://open.spotify.com/track/3V4jUn174X6KNP601Ma0BB"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Offside",
         "url": "https://open.spotify.com/album/1Fi2zMTF7fHkV8eMKROqub"
@@ -81,7 +57,7 @@
       "url": "https://open.spotify.com/track/2oNamOYQd7RvSo13byqyjN"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Treat You Right",
         "url": "https://open.spotify.com/album/7vVtwE8RQCP9K5n5Yy37YC"
@@ -101,7 +77,43 @@
       "url": "https://open.spotify.com/track/5CbzOUi8hm8UTQoG6kYmtp"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Nothing There",
+        "url": "https://open.spotify.com/album/3fE79cPAsF3xFSAwts4t3V"
+      },
+      "artists": [
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        }
+      ],
+      "duration_ms": 324572,
+      "name": "Nothing There",
+      "url": "https://open.spotify.com/track/3uOSbobUGSDgjzxckCzT1R"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Making Ends Meet Remix",
+        "url": "https://open.spotify.com/album/7cufHD0NIiHd47jC9wU52v"
+      },
+      "artists": [
+        {
+          "name": "Rob Redford",
+          "url": "https://open.spotify.com/artist/4shvfwybHhZZ5OaVbBBJ92"
+        },
+        {
+          "name": "Demarkus Lewis",
+          "url": "https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl"
+        }
+      ],
+      "duration_ms": 400299,
+      "name": "Makin Ends Meet - Deez Raw Life Mix",
+      "url": "https://open.spotify.com/track/30WaY0F2Hdb3lVTT9mvdAG"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Magic Circus",
         "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
@@ -117,7 +129,7 @@
       "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Say Yes (feat. Rona Ray) [Jimpster Remix]",
         "url": "https://open.spotify.com/album/0bK7ineznnkxK4cEKEohbt"
@@ -141,7 +153,47 @@
       "url": "https://open.spotify.com/track/468OCUl2AS0D9dfFMYICLK"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Papertrip",
+        "url": "https://open.spotify.com/album/3aEA4puiYaJi1ICSFF42Bu"
+      },
+      "artists": [
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        }
+      ],
+      "duration_ms": 368917,
+      "name": "Papertrip",
+      "url": "https://open.spotify.com/track/0z5d5d0nugKsiODYJS1tAz"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Organi",
+        "url": "https://open.spotify.com/album/6VJVIazxwDx1jnhNzbLhjP"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 396311,
+      "name": "Organi",
+      "url": "https://open.spotify.com/track/3V4jUn174X6KNP601Ma0BB"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
@@ -161,27 +213,7 @@
       "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Making Ends Meet Remix",
-        "url": "https://open.spotify.com/album/7cufHD0NIiHd47jC9wU52v"
-      },
-      "artists": [
-        {
-          "name": "Rob Redford",
-          "url": "https://open.spotify.com/artist/4shvfwybHhZZ5OaVbBBJ92"
-        },
-        {
-          "name": "Demarkus Lewis",
-          "url": "https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl"
-        }
-      ],
-      "duration_ms": 400299,
-      "name": "Makin Ends Meet - Deez Raw Life Mix",
-      "url": "https://open.spotify.com/track/30WaY0F2Hdb3lVTT9mvdAG"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Wait on You (Say Goodbye)",
         "url": "https://open.spotify.com/album/7L3jstAlot6t02ETuGi0Pm"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/4fmZ8PRxCYf3HyTZeNcmlh"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Let's Keep Floating",
         "url": "https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A"
@@ -213,23 +245,7 @@
       "url": "https://open.spotify.com/track/3Kt84nPo7IPy5cGrWAEdbH"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Papertrip",
-        "url": "https://open.spotify.com/album/3aEA4puiYaJi1ICSFF42Bu"
-      },
-      "artists": [
-        {
-          "name": "Wallace",
-          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
-        }
-      ],
-      "duration_ms": 368917,
-      "name": "Papertrip",
-      "url": "https://open.spotify.com/track/0z5d5d0nugKsiODYJS1tAz"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Just open your mind (Deep Jazz Mix)",
         "url": "https://open.spotify.com/album/3hpOcaeYwPl7cNCvf2Vz8S"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/00TmXAlL2VGicXdvYoz6vV"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Heaven (Doc Martin Subwap Remix)",
         "url": "https://open.spotify.com/album/1aFCEbQ5wdthtZLqtxkUvN"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/12cc0vv3wT3Fj3dwvBma6N"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Lovelee Dae (Seth Troxler Remix)",
         "url": "https://open.spotify.com/album/3xzFUb232mNyQw4XRFvWTS"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/4NFZNA4rkGaeOo975vx6Uk"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Cash (Sam Ruffillo & Kapote Remix)",
         "url": "https://open.spotify.com/album/4qyBZrQZVOkiJTLoj8OivO"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/7IxAKJyQuKTzY64yhey9tH"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Get My Luv EP",
         "url": "https://open.spotify.com/album/62lbqPCtmOmHQmqd2gF268"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/2IH0H4yalA3adrcOiniBJF"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Need It (The Race)",
         "url": "https://open.spotify.com/album/0I0uYJIn8h9XLFoYhn5hKX"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/2fYPe5jTmihspwMONwOzHX"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Do You Ever Miss Me?",
         "url": "https://open.spotify.com/album/5ICwCxcILQJZYiIzlyEUMV"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/0AEhSTrYsduKZCN5N6EAE7"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "What Is This",
         "url": "https://open.spotify.com/album/3FIILlhC3oCVO060EQyklv"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/7wvy6ruzBPQD7wdnWRaryH"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "SPLIT EP3",
         "url": "https://open.spotify.com/album/4ZzzVkDLUGDd8OawGbKN8Y"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/2D9zHcnqpzmddIuyPbsJO5"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/3F6ZQ9eXR2if2Fmp8HChiu"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/44r6UXHLTUYZeyKTTtU6cE"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Love Is Enough",
         "url": "https://open.spotify.com/album/6HnlmljE8tI1RGQGWB85yR"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/3BLfghwDpo7ky1g84DcTKE"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "The Passion EP",
         "url": "https://open.spotify.com/album/4aF2HKqIcWeWnp282yXsSW"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/3XhMUmTFJSCB5YfNP0YZ6E"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Mister DJ",
         "url": "https://open.spotify.com/album/7jh6Vcn4gsVbo2hu0LFNDw"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/0C5w3xBl3Y0Xg7yRI4NDB5"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Ritmo Freak",
         "url": "https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/5tNVWBaMSqFXPT6K4AtaKx"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Baby Powda",
         "url": "https://open.spotify.com/album/7h1t6mRAwnZZEnV1pUaIUC"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/13YEcrWctpu3Spl3URMfoz"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Hypnotherapy",
         "url": "https://open.spotify.com/album/5G4UAoJpRubbtSYnP7HA5o"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/1NT2IoopDzkGnIo2XvQfig"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "SPLIT EP3",
         "url": "https://open.spotify.com/album/4ZzzVkDLUGDd8OawGbKN8Y"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/5Dd27TLuSuKns3XTDdHm3y"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/52O1fXKJQ4bo34br5La1r9"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/3wrnQYRWPxbiKeoY5QAN2F"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Take Me For A Ride",
         "url": "https://open.spotify.com/album/2S63zWKWBGeQtkrwZlQrpI"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/75QCxFDUGPJ8QPoHxpuTIX"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Cosmic Tree EP",
         "url": "https://open.spotify.com/album/5EEaH1lSQYmztIjAekJQAy"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/0cNyl5k32L9f8MqtgKnT0O"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Dance To The Rhythm EP",
         "url": "https://open.spotify.com/album/6GZM06lOdwvBliFRD2BB0y"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/5k4dDheG0CcrII4jrWUDZo"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Kuyo (In Everything)",
         "url": "https://open.spotify.com/album/7unxvDWvNLGev27HrbKAMy"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/1MtzijdnNiB30YegVIfoKa"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Preserving EP",
         "url": "https://open.spotify.com/album/2j4DjmXtyReSh67eq1Vr9N"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/2Gsvem4ThIXvyZRymCBEAx"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Promises (VIP)",
         "url": "https://open.spotify.com/album/74yuH2VgQ82I13TNrOW9cf"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/2fGoNwWte7OojQlB8x31ku"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Ring for Rhemi",
         "url": "https://open.spotify.com/album/4UVKFUPji334g7KG6uVD5w"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/1fjDUwlyeVgOfM1breMTFI"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Spiritual Basslines",
         "url": "https://open.spotify.com/album/3EuskySAqMvv0o7nJiZjR6"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/57lT6Wi7X9OyASYUSpyOOz"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Rymden",
         "url": "https://open.spotify.com/album/1EkDjdKhYBRdayuuYRUFH8"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/5UdXcgwaOV0G2siscESjJ3"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Ban the disco (Crackazat Remix)",
         "url": "https://open.spotify.com/album/78VqZmY1I8nrv2fBh7gBQI"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/6rLwjegutOzacMgqFoePez"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "What I Keep",
         "url": "https://open.spotify.com/album/5nhM2xsNTfXpkyYW5LX23e"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/4GA8gmp4mz8DUGdtmbNwsQ"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/0l0tM3FSc7qVBdS7Qg6zoh"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/2fHCvcowBSP1rqdNe9HWLT"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/7mIw2Vn2DVB0myPAlTwOIZ"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/5HGRzUTj7701fSVmdCSNxx"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/6oMDyiYueO2DbAjsTerpMw"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/2fKi4l56EdQLupwQdCJfah"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "PPPPP The Remixes Pt.2",
         "url": "https://open.spotify.com/album/4wFJFn1XZmnhV4dkXtETKX"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/1cAcPhzFdbdaf7ACuaz7Pm"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "[QR]D.081.TSM.24",
         "url": "https://open.spotify.com/album/4brYLYZdry2jzhUpb7yFFl"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/08OPZJCtAbkCauIlvTQx01"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Get That Beat",
         "url": "https://open.spotify.com/album/7uiJoHb2i1ZjJ7y9AjZlst"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/1Fc9moCVt6nxkQNVOxS4Xs"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Must Be Deep",
         "url": "https://open.spotify.com/album/6NvIv5dwgd5CQcCUNMz238"
@@ -885,7 +901,7 @@
       "url": "https://open.spotify.com/track/7GJYxTXdyiK3Et9S4d1A5a"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Cloudin",
         "url": "https://open.spotify.com/album/7dM7oCHQepDzrGKep0Ee4j"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/2PKmF5pEgXB2fl9xJVANlw"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Outer Limits",
         "url": "https://open.spotify.com/album/7JtdJtlBdfN0XLEWVmpOUc"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/6Q3YnYBYS2jmeKaOqBJmiS"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/24dDMPMYRguIBsTctAyBpq"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Runnin\u2019 / AM_909",
         "url": "https://open.spotify.com/album/3rA9h7aaGJRRqtPAS3YKUQ"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/5mZN8BQna9r2Bh2buobs9f"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Star Chaser",
         "url": "https://open.spotify.com/album/5Aqqs8gO2cNyH4rRaR2raj"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/4cCQk4HE5BO4x3a6VmdwQ9"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/5ARU30fyKwQHgo21ELyPAF"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/1NMSZn1gconZXGv0NSRuO6"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Midnight Time",
         "url": "https://open.spotify.com/album/5PRvF9u3O4qh98ZrliF0jK"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7zI2uEWmymphSV3JipaLua"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Backfire",
         "url": "https://open.spotify.com/album/6uwVjMyoswCsVZjgm9lIur"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5mylJZiyJxo3OarrY44VW4"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Be Real EP",
         "url": "https://open.spotify.com/album/6hn6uRjlsFcgDT2y9xGPJf"
@@ -1037,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0GUrbWUS4pnKx7rqJZhgek"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/0aTrq4Y3imaxgtvu5nFBA7"
@@ -1053,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6kH113rr1wRLEOe2wzno7H"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Roko (Edit)",
         "url": "https://open.spotify.com/album/2hFzrnaZiCrjzNQKQ7M2Yw"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6a4lAFv2nr3ZIgBKOG2XIh"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Suffer (Fouk Remix)",
         "url": "https://open.spotify.com/album/0IEJ31G6SprB7qBO3DTqx9"
@@ -1097,7 +1113,7 @@
       "url": "https://open.spotify.com/track/34OMmqBzLzUHtCLk0ZYj7a"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Connected Through Music",
         "url": "https://open.spotify.com/album/76KyUnSvNvTKy2Qw6yhydc"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0mRaoeszNweez18HNwBFpJ"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Mandar All Day 001",
         "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
@@ -1129,7 +1145,7 @@
       "url": "https://open.spotify.com/track/7DLlI8dSTexTOYtk2jcIua"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Don't Ya",
         "url": "https://open.spotify.com/album/7kE6qPwyjgDJveR3GrvNql"
@@ -1149,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0FcXfEuPuFOdP7k8P8Z4dK"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Lychees",
         "url": "https://open.spotify.com/album/1IqGw4kxdQGBQZtKZvovjF"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2qQlW5HQsdwr8qlYhK4Lyn"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Throw It All Away! (Jamie 3:26 & Danou P Remix)",
         "url": "https://open.spotify.com/album/42EOTHEvDAOnqGQ1LKUzr4"
@@ -1189,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2lwJaOmZZDCgoaalCso2QB"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Gary's Dreamland",
         "url": "https://open.spotify.com/album/2wr6LbnQrX6ebyTC89Jy6N"
@@ -1205,7 +1221,7 @@
       "url": "https://open.spotify.com/track/0Ad4GdnzZZCIZrH5IvIXYa"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS"
@@ -1221,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "My Belief",
         "url": "https://open.spotify.com/album/2eSX3o5fMuX39z8cBj9C8L"
@@ -1237,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0YrnSUEqpXmm2pMQYKHGUg"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Won't U Take Me (Dam Swindle Remix - Edit)",
         "url": "https://open.spotify.com/album/4XrzOBq9cjLmGlyYrOYuAV"
@@ -1257,7 +1273,7 @@
       "url": "https://open.spotify.com/track/2ig0ifvKlprwBMu3AYTOn5"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
@@ -1273,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Hyperspace EP",
         "url": "https://open.spotify.com/album/7JbgNAwxAuC9aaAdRqCZvT"
@@ -1289,7 +1305,7 @@
       "url": "https://open.spotify.com/track/2PLHCXYbYI8hKNynmCmi0h"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Submerge",
         "url": "https://open.spotify.com/album/2hZNfOXSZBm7PflU4kTgCi"
@@ -1305,7 +1321,7 @@
       "url": "https://open.spotify.com/track/0cvN2gtMkN0J9DFqlhLxdg"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
@@ -1325,7 +1341,7 @@
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Minor Fools",
         "url": "https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx"
@@ -1341,7 +1357,7 @@
       "url": "https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "The Flow (Cee ElAssaad VooDoo mix)",
         "url": "https://open.spotify.com/album/35gh1ftT7aLf2nyJmwpu3l"
@@ -1361,7 +1377,7 @@
       "url": "https://open.spotify.com/track/0udBUmXNg1fdrM7NZa7y8f"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
@@ -1381,7 +1397,7 @@
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Space Is The Place",
         "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
@@ -1397,7 +1413,7 @@
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Taurindo Shuffle",
         "url": "https://open.spotify.com/album/7oTXQmUuyFhluBF7u815XL"
@@ -1413,7 +1429,7 @@
       "url": "https://open.spotify.com/track/6rxg7AzlFdbScVKwhF4eci"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "I Promise",
         "url": "https://open.spotify.com/album/0Nnq6afr8c01kXKHiIUka4"
@@ -1429,7 +1445,7 @@
       "url": "https://open.spotify.com/track/1wS9h2lHLwGwQU82aYHHdf"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Blaque Katt - EP",
         "url": "https://open.spotify.com/album/5u1liL4XlRb2RlPqtZKHDR"
@@ -1445,7 +1461,7 @@
       "url": "https://open.spotify.com/track/52H64kW05V4QvkszPdxIrv"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "2Sides (Crackazat Remix)",
         "url": "https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L"
@@ -1465,7 +1481,7 @@
       "url": "https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "How He Works (feat. Nico Vega) [Remixes]",
         "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
@@ -1489,7 +1505,7 @@
       "url": "https://open.spotify.com/track/5tkum4je0gg1WaLKx9OI2Y"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Forget About You (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/0r1Ojd3xub8smhYYLPcqaP"
@@ -1513,7 +1529,7 @@
       "url": "https://open.spotify.com/track/7wm5X3Rf5OGZ8M0R2aA3tl"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/3pJUfOmpRL52vLbhuXDTRa"
@@ -1529,7 +1545,7 @@
       "url": "https://open.spotify.com/track/3Z5yk9kI6SGfgALwsDpowf"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6qdTXzg7QJaI98wzYagK7H"
@@ -1553,7 +1569,7 @@
       "url": "https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Love Can Make It Happen (Edit)",
         "url": "https://open.spotify.com/album/2ny81t6Z0wNGNfabGJU3eb"
@@ -1569,7 +1585,7 @@
       "url": "https://open.spotify.com/track/3ZEertVkqoZQuqWyfbYphA"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Chocolate Puddin'",
         "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
@@ -1593,7 +1609,7 @@
       "url": "https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "My Buddy",
         "url": "https://open.spotify.com/album/0OX4imBNw7NMoenB3csJtj"
@@ -1609,7 +1625,7 @@
       "url": "https://open.spotify.com/track/5v8eYFpW8QvAHvelT7GkPM"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "HOUSE OF GROOVE",
         "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
@@ -1629,7 +1645,7 @@
       "url": "https://open.spotify.com/track/11IuzqdMsc4EnlwZBeG132"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/62njb6nsg4ntb0Yz484iRA"
@@ -1649,7 +1665,7 @@
       "url": "https://open.spotify.com/track/2Mhpk5XDfR0qXxWtrtpLdv"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Everybody Dancing",
         "url": "https://open.spotify.com/album/7KHCBTSFeY0qhHq54thtYm"
@@ -1669,7 +1685,7 @@
       "url": "https://open.spotify.com/track/3vhU1GX1i6aZcCs9IsqmiP"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "The Sounds That Heal",
         "url": "https://open.spotify.com/album/1sAbQQckEmwPbIhE7gFCA2"
@@ -1685,7 +1701,7 @@
       "url": "https://open.spotify.com/track/6A6mNBNOhG8OA9LntBw4ph"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE"
@@ -1701,27 +1717,7 @@
       "url": "https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "HARD15",
-        "url": "https://open.spotify.com/album/7zJTQzhmKWT8VEl99Na5lA"
-      },
-      "artists": [
-        {
-          "name": "Milion",
-          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
-        },
-        {
-          "name": "Job De Jong",
-          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
-        }
-      ],
-      "duration_ms": 390697,
-      "name": "Untitled 01",
-      "url": "https://open.spotify.com/track/6Go1RnJyS7qUeJ55Znj8BF"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Call A Wave (Tilman's Sunset Mix)",
         "url": "https://open.spotify.com/album/3NJ5dcpWSfbfsORqYYM2C4"
@@ -1741,7 +1737,7 @@
       "url": "https://open.spotify.com/track/5qWicSNFXBiSUmMLVbHBo7"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "How We Gonna Stop the Time (Brijean Remix)",
         "url": "https://open.spotify.com/album/315WPYsYgAn5dFeih6XzCd"
@@ -1765,7 +1761,7 @@
       "url": "https://open.spotify.com/track/5Ko55ikqzRbSbNfIbhF6YW"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Post Tenebras Lux",
         "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
@@ -1781,7 +1777,7 @@
       "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/33EgYjk47pCO4bCm9MiUqU"
@@ -1801,7 +1797,7 @@
       "url": "https://open.spotify.com/track/6WtNgaB5FNM3ZemfAVD5gx"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "MAW Lost Tapes 12",
         "url": "https://open.spotify.com/album/2yaHwMn8tnzq9RZJxYUebY"
@@ -1825,7 +1821,7 @@
       "url": "https://open.spotify.com/track/6FOgIG8NSXCe0GyZUXD9CJ"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Dekmantel Anniversary Series",
         "url": "https://open.spotify.com/album/2JriIHEiDKJ60FnfxJnvqT"

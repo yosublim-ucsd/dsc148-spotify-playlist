@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 214786,
       "name": "Sleepin' Pill",
       "url": "https://open.spotify.com/track/1cgolP8DdBgHq6s9DWgsNC"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 202784,
       "name": "YOBO",
       "url": "https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 208500,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
       "url": "https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp"
@@ -2554,6 +2554,24 @@
       "duration_ms": 190162,
       "name": "\u0e01\u0e25\u0e49\u0e27\u0e22\u0e2b\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e2d\u0e14\u0e2b\u0e21\u0e2d\u0e19 - Single",
+        "url": "https://open.spotify.com/album/19LkHJ30sHvBjY99fYIsvu"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200322,
+      "name": "\u0e01\u0e2d\u0e14\u0e2b\u0e21\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/02HqCUXbVoIwfAHj2IsVtx"
     },
     {
       "album": {
@@ -4439,6 +4457,28 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
+        "url": "https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        },
+        {
+          "name": "XX",
+          "url": "https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252897,
+      "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
+      "url": "https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG"
+    },
+    {
+      "album": {
         "name": "\u0e16\u0e39\u0e01\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e43\u0e2b\u0e49\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
         "url": "https://open.spotify.com/album/3rLD9S8sTdWU46plj5snNG"
       },
@@ -5671,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e37\u0e2d\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e23\u0e31\u0e01 (Rookie Lover)",
+        "url": "https://open.spotify.com/album/5Lq2qDJoDpNNrsZiK3B58y"
+      },
+      "artists": [
+        {
+          "name": "bamm",
+          "url": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202636,
+      "name": "\u0e21\u0e37\u0e2d\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e23\u0e31\u0e01 (Rookie Lover)",
+      "url": "https://open.spotify.com/track/77yIepsg0RoYeHLEQuBktT"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e2d\u0e21\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d (Loser)",
         "url": "https://open.spotify.com/album/1B0vAYFcnVbFg5ySoLi8mX"
       },
@@ -6000,6 +6058,24 @@
       "duration_ms": 216000,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) - From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step",
       "url": "https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+        "url": "https://open.spotify.com/album/6mf2j6MQai90zgSl0hTYbn"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217899,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+      "url": "https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB"
     },
     {
       "album": {
@@ -7021,6 +7097,40 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e32\u0e22\u0e43\u0e08 (May I miss you?)",
+        "url": "https://open.spotify.com/album/12frl5mcdze5ObVDn6mjKe"
+      },
+      "artists": [
+        {
+          "name": "Project M.O.N",
+          "url": "https://open.spotify.com/artist/58jnr1VHhzoBq20AjK8Fzt"
+        },
+        {
+          "name": "GELER.K",
+          "url": "https://open.spotify.com/artist/7CXKNexA4rZXfOIOXm1bNh"
+        },
+        {
+          "name": "TATAM",
+          "url": "https://open.spotify.com/artist/2M7005RIPbhTCIkF1BhLyD"
+        },
+        {
+          "name": "Meiji FLI:P",
+          "url": "https://open.spotify.com/artist/4uvSrPQXb8MB6VmsDBpGxr"
+        },
+        {
+          "name": "Rawee Kangsanarak",
+          "url": "https://open.spotify.com/artist/7byxvu8gyCRFwe0GxR1Bm6"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "\u0e2b\u0e32\u0e22\u0e43\u0e08 (May I miss you?)",
+      "url": "https://open.spotify.com/track/6BujdqsVd1IhZLkwMWxR6W"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a",
         "url": "https://open.spotify.com/album/3OCN0ekRQ9jKpGKIhFR3lU"
       },
@@ -7526,7 +7636,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 212500,
       "name": "\u0e40\u0e02\u0e47\u0e14\u0e21\u0e31\u0e49\u0e22\u0e25\u0e48\u0e30? (Repeat)",
       "url": "https://open.spotify.com/track/45AfrpHoEfF5hp98mUtXXb"
@@ -7854,7 +7964,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 183875,
       "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e23\u0e32\u0e2a\u0e31\u0e01\u0e17\u0e35 (I Really Like You)",
       "url": "https://open.spotify.com/track/57Fl5lsIno0Xx7rxFCGm4G"
@@ -8092,7 +8202,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 220482,
       "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e01\u0e48\u0e2d\u0e19 (If I Could)",
       "url": "https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi"
@@ -8306,6 +8416,24 @@
       "duration_ms": 211821,
       "name": "\u0e40\u0e2a\u0e49\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21 (RERUN)",
       "url": "https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e49\u0e2d\u0e40\u0e14\u0e35\u0e22\u0e27 (I Mean)",
+        "url": "https://open.spotify.com/album/3GQ88RTjXv4YvbdzUsX7nl"
+      },
+      "artists": [
+        {
+          "name": "NEVONE",
+          "url": "https://open.spotify.com/artist/04iMi6PaEHR1pbgh5LK8nZ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198315,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e49\u0e2d\u0e40\u0e14\u0e35\u0e22\u0e27 (I Mean)",
+      "url": "https://open.spotify.com/track/7mhv19fY8rvuuIey7mrwD2"
     },
     {
       "album": {
@@ -9030,7 +9158,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 161076,
       "name": "\u0e43\u0e04\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u2026 (Millions People)",
       "url": "https://open.spotify.com/track/1SA1i9nvKnHPnXLAypWn0P"
@@ -9398,7 +9526,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 202038,
       "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e47\u0e19\u0e15\u0e48\u0e32\u0e07 (U R Mine)",
       "url": "https://open.spotify.com/track/3v5t1e2XeLtJoZDENzdanb"

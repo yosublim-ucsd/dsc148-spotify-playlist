@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-306 songs - 14 hr 43 min
+307 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Falling Free](https://open.spotify.com/track/33IWraG5z0avudEgDLOI4S) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Falling Free](https://open.spotify.com/album/2yfil7vZeOHAbhidpm6tJm) | 2:41 | 2021-11-19 | 2022-07-29 |
 | [Feel It](https://open.spotify.com/track/1zaQHvyPeBifmTPtxZuYvw) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Feel It](https://open.spotify.com/album/0n77k01Odm0nerd18pAnPQ) | 2:53 | 2021-11-19 | 2022-01-27 |
 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 | 2024-02-15 |  |
-| [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 |  |
+| [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 | 2024-07-12 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-04-18 |  |
 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-09 |  |
 | [Forget To Miss You](https://open.spotify.com/track/03YtO8sZFmkBPo6BtrzU3k) | [iamsimon](https://open.spotify.com/artist/7pcSKgv5UuVxHPVU61q6do) | [Forget To Miss You](https://open.spotify.com/album/4HycDHpwjv22BJqpxHKxlf) | 2:45 | 2021-11-19 | 2022-07-25 |
@@ -312,6 +312,7 @@
 | [You And I](https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:44 | 2021-11-19 | 2023-10-13 |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-06-13 |  |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-11-19 |  |
+| [Your Shine](https://open.spotify.com/track/5O16SnZui65Ivhj7MWDHRv) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Fly Disco Butter](https://open.spotify.com/artist/1CYDSa8NN8XE6UwbYo65Xm) | [Your Shine](https://open.spotify.com/album/5mFTcBEtz15sD6W48EajgH) | 2:43 | 2024-06-27 |  |
 | [Zig Zag](https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Zig Zag](https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z) | 4:14 | 2024-03-28 | 2024-05-18 |
 | [Äru min nu](https://open.spotify.com/track/1bvAJqkJnAO1LJN9zov2kL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Äru min nu](https://open.spotify.com/album/5eb2BZ3jq3Wi86abdGvCzy) | 3:20 | 2021-11-19 | 2022-07-29 |
 

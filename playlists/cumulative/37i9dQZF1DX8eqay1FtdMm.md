@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Ha Dong Qn\(하동균\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Lena Park\(박정현\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-547 songs - 1 day 11 hr 46 min
+548 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Dream](https://open.spotify.com/track/2Mbq7v42FvbLJewOfCw7hv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Dream](https://open.spotify.com/album/6mub9pdrLa8fCqzWP4kk64) | 3:08 | 2022-09-05 | 2022-09-07 |
 | [Dream](https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Dream](https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD) | 3:49 | 2023-02-15 | 2023-04-15 |
 | [Dreaming me](https://open.spotify.com/track/48yWAEKHXC7HZumnUvoqoc) | [Hyeong Min](https://open.spotify.com/artist/46oTnauRqldja8Zxdxyjsi) | [Dreaming me](https://open.spotify.com/album/0gnOekyeHjuZwQF2yRkcms) | 4:14 | 2022-01-14 | 2022-07-09 |
-| [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-06-20 |  |
+| [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-06-20 | 2024-07-12 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2024-02-20 | 2024-04-24 |
 | [ELEVATOR](https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [ELEVATOR](https://open.spotify.com/album/54iEiUHiYVeNdKDRZqDsag) | 3:15 | 2022-03-29 | 2022-05-12 |
 | [Emergency Room \- 2021](https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Emergency Room \(2021\)](https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW) | 4:03 | 2021-12-20 | 2022-07-09 |
@@ -410,6 +410,7 @@
 | [Still](https://open.spotify.com/track/0BhkiHwAXhZlNwqZAOonMp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [ALAL \#3](https://open.spotify.com/album/7fh1VfRnuVyNYI1QpMmIc2) | 4:08 | 2022-03-29 | 2022-04-17 |
 | [Still Yours](https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Still Yours](https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf) | 4:00 | 2024-05-09 | 2024-05-21 |
 | [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2023-08-31 |  |
+| [Summer Sweet \(Kor Ver.\)](https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [STAY WITH ME](https://open.spotify.com/album/3viBb010uLvcWvlWmInkjJ) | 3:43 | 2024-07-11 |  |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2024-05-29 | 2024-06-06 |
@@ -467,7 +468,7 @@
 | [voKal\_Kim Kyung Ho](https://open.spotify.com/track/3ZljB1BOL6kHZU0O5gNn0w) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [v o K a l Audio Liners](https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f) | 0:03 | 2024-05-29 | 2024-06-06 |
 | [voKal\_Kim Kyung Ho](https://open.spotify.com/track/3EnUqfVZyac1sDXMN1Hshp) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [v o K a l Audio Liners](https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f) | 0:04 | 2024-05-29 | 2024-06-06 |
 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-12 | 2024-02-21 |
-| [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 |  |
+| [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 |  |
 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 | 2022-04-01 | 2023-10-11 |
 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 |  |
 | [We Are Broken Up](https://open.spotify.com/track/5B2Ly3nOWf6MCb5yRxBX9O) | [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [We Are Broken Up](https://open.spotify.com/album/4N43CJ7mRyOu38sw4f4ioh) | 3:27 | 2022-08-18 | 2022-10-06 |

@@ -2,12 +2,13 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Louane
+> Les meilleures nouveautés de la variété française\. Photo : Pierre Garnier
 
-53 songs - 2 hr 37 min
+54 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [30](https://open.spotify.com/track/3pC7iN76SIPmxz2zjEEUtn) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [30](https://open.spotify.com/album/1bwwkx1WmLDITtMewlvImf) | 5:02 | 2024-07-11 |  |
 | [Adieu](https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Adieu](https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl) | 3:04 | 2024-06-27 |  |
 | [Amère](https://open.spotify.com/track/2LKcg2tRu36P7WnvSeZSnX) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Amère](https://open.spotify.com/album/7D1iEGT0tmSrwX2e0tlqDa) | 2:27 | 2024-06-27 |  |
 | [C'EST VRAI OU PAS](https://open.spotify.com/track/7E15SgpsnmFGl8rCJhSriL) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [C'EST VRAI OU PAS](https://open.spotify.com/album/7fTIIvEY1iZRor9IJumqpB) | 2:59 | 2024-06-27 |  |
@@ -25,7 +26,7 @@
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-06-27 |  |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/759G3cPO8KnudNnVPW7MV9) | 2:59 | 2024-06-27 |  |
 | [Fille du Sud \(Lambada\)](https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Fille du Sud \(Lambada\)](https://open.spotify.com/album/1vJztGdHxVqQJ2oCQO7qNO) | 2:43 | 2024-06-27 |  |
-| [Ils s'aimaient toujours](https://open.spotify.com/track/0EtEjlfmQiUayvKQ4cuLvF) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ils s'aimaient toujours](https://open.spotify.com/album/3QGHad6WExNAujuYcmauUm) | 2:56 | 2024-06-27 |  |
+| [Ils s'aimaient toujours](https://open.spotify.com/track/0EtEjlfmQiUayvKQ4cuLvF) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ils s'aimaient toujours](https://open.spotify.com/album/3QGHad6WExNAujuYcmauUm) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-06-27 |  |
 | [La couleur de la mer \- Edit](https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [La couleur de la mer](https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP) | 2:35 | 2024-06-27 |  |
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-06-27 |  |

@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Heykel
+> Les plus belles plumes rap français du moment\. Photo : Wallace Cleaver
 
-41 songs - 2 hr 20 min
+43 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Freestyle 5min \#13](https://open.spotify.com/track/3SCpDGmAibiM5U09lNefUJ) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Freestyle 5min \#13](https://open.spotify.com/album/5udVZsakxGZH3H2q3di9bw) | 5:42 | 2024-06-27 |  |
 | [Go 2](https://open.spotify.com/track/0Hean3R0bokh8MFJyelfUC) | [LE RISQUE](https://open.spotify.com/artist/6vYIofTPb6utQIovHOFyG3) | [Go 2](https://open.spotify.com/album/14GK1DuuNYOBJoSqNswsO0) | 2:58 | 2024-06-27 |  |
 | [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 | 2024-06-27 |  |
-| [IN PARIS](https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [IN PARIS](https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ) | 1:58 | 2024-06-27 |  |
+| [IN PARIS](https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [IN PARIS](https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ) | 1:58 | 2024-06-27 | 2024-07-12 |
 | [Kayano](https://open.spotify.com/track/7vcZ68Arxw5xcnWOTRVj6t) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq) | 3:19 | 2024-06-27 |  |
 | [L'empreinte de ma plume](https://open.spotify.com/track/5CNQCPvV0OX3QEu9Wly9NN) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [Particule élémentaire](https://open.spotify.com/album/7regmM3e5xX9iggFNBT7Zb) | 3:30 | 2024-06-27 |  |
 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-06-27 |  |
@@ -36,11 +36,13 @@
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 |  |
 | [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-27 |  |
 | [Okocha](https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Okocha](https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC) | 2:26 | 2024-06-27 |  |
+| [pardon](https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:55 | 2024-07-11 |  |
 | [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 | 2024-07-04 |  |
 | [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 | 2024-06-27 |  |
 | [Psychose](https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z) | [Falcko](https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl) | [BLACK CODE TOME 4](https://open.spotify.com/album/5nzw8NtPjaK2OT5df1HLji) | 2:40 | 2024-06-27 |  |
 | [Rebellion](https://open.spotify.com/track/1JtOe5JDDjASnbcNsiPlD0) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Rebellion](https://open.spotify.com/album/3mivoTyPvqrpKCcRpAYuK9) | 2:25 | 2024-06-27 |  |
-| [Requiem](https://open.spotify.com/track/45QhuHaA1uDkBfLlRXAvgB) | [Austin.](https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG), [Almara](https://open.spotify.com/artist/1aicMxzdKTNAQhF4jt2b8H) | [Requiem](https://open.spotify.com/album/5dH1lt1jGXz8kk4V7ywrT0) | 2:13 | 2024-06-27 |  |
+| [Requiem](https://open.spotify.com/track/38Ey8Cb60zEnsfl7IIvsOZ) | [Austin.](https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG), [Almara](https://open.spotify.com/artist/1aicMxzdKTNAQhF4jt2b8H) | [Requiem](https://open.spotify.com/album/2RKkS3jHqfbZd6prSNPqJn) | 2:13 | 2024-07-11 |  |
+| [Requiem](https://open.spotify.com/track/45QhuHaA1uDkBfLlRXAvgB) | [Austin.](https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG), [Almara](https://open.spotify.com/artist/1aicMxzdKTNAQhF4jt2b8H) | [Requiem](https://open.spotify.com/album/5dH1lt1jGXz8kk4V7ywrT0) | 2:13 | 2024-06-27 | 2024-07-12 |
 | [Retour dans les abysses](https://open.spotify.com/track/2mPlM83Qd04ImIUNx9A6sB) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Ivresse des profondeurs](https://open.spotify.com/album/7vygsCyNB7x683jqWfDBrI) | 4:54 | 2024-06-27 |  |
 | [ROSE \(MILKTAPE\)](https://open.spotify.com/track/4bCqWgUfw5muaci4ZN4HZc) | [Hobiwan](https://open.spotify.com/artist/4lg0P1vyhTD3l4g7JGZ3ui), [MILK](https://open.spotify.com/artist/4MRxeXBlpO1Z5D57c0GymF) | [ROSE \(MILKTAPE\)](https://open.spotify.com/album/6gUXAxsd4VXyA64ndb9D9q) | 2:25 | 2024-06-27 |  |
 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 | 2024-06-27 |  |

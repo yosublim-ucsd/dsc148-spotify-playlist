@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=T0cHfvZ5QvqWrhWjVYfxBg>Mikhal\u00e9 Jones</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW?si=QI5uHRnMR5uY5LOdR8F4hg>Naye Ayla</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 194489,
       "name": "Another Episode",
       "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
@@ -486,6 +486,24 @@
       "duration_ms": 200250,
       "name": "beb\u00e9",
       "url": "https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW"
+    },
+    {
+      "album": {
+        "name": "Best Friend (Control)",
+        "url": "https://open.spotify.com/album/3BBhRMZrr9c2TyPupmPOBQ"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Best Friend (Control)",
+      "url": "https://open.spotify.com/track/7GOBGke0Z1vkccV5Mj4E2s"
     },
     {
       "album": {
@@ -1066,10 +1084,32 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 153000,
       "name": "Crown Bounce",
       "url": "https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj"
+    },
+    {
+      "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158939,
+      "name": "CWT (feat. BNXN)",
+      "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
     },
     {
       "album": {
@@ -1946,7 +1986,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 244946,
       "name": "Gimme That",
       "url": "https://open.spotify.com/track/1mZgGbjHRXz0PbHAMAXZFM"
@@ -2026,7 +2066,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 225468,
       "name": "Guide Me",
       "url": "https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL"
@@ -2044,7 +2084,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 182428,
       "name": "Happy",
       "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
@@ -2066,6 +2106,28 @@
       "duration_ms": 222000,
       "name": "Hate Crowds",
       "url": "https://open.spotify.com/track/3vEYqqhLAo9AsDoAWdAB4G"
+    },
+    {
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl"
+      },
+      "artists": [
+        {
+          "name": "Higo",
+          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
+        },
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138138,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig"
     },
     {
       "album": {
@@ -2330,7 +2392,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 240000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/0yzXQ1yTjxKTtUc28XFBPL"
@@ -2760,7 +2822,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 178348,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
@@ -3043,6 +3105,28 @@
     },
     {
       "album": {
+        "name": "Mathata (feat. Trevor Jackson)",
+        "url": "https://open.spotify.com/album/5V4fhCMcKQZ0bVpJWyfmig"
+      },
+      "artists": [
+        {
+          "name": "Majorsteez",
+          "url": "https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87"
+        },
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222680,
+      "name": "Mathata (feat. Trevor Jackson)",
+      "url": "https://open.spotify.com/track/4wxmke3yPbc0VWMDTtt6fz"
+    },
+    {
+      "album": {
         "name": "Maybe It's You",
         "url": "https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6"
       },
@@ -3204,6 +3288,24 @@
       "duration_ms": 303260,
       "name": "Muse - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2"
+    },
+    {
+      "album": {
+        "name": "My Terms",
+        "url": "https://open.spotify.com/album/0sHRtny2YtgcRNPEJehPI6"
+      },
+      "artists": [
+        {
+          "name": "Naye Ayla",
+          "url": "https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "My Terms",
+      "url": "https://open.spotify.com/track/6Q1LfCohflkggCIpF5rO9S"
     },
     {
       "album": {
@@ -3850,7 +3952,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
@@ -4124,10 +4226,32 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 170892,
       "name": "Same Things",
       "url": "https://open.spotify.com/track/10iNh3l2Re2FDwH9yWxniw"
+    },
+    {
+      "album": {
+        "name": "Scat Song",
+        "url": "https://open.spotify.com/album/3dmaWEjRcqlZUTeuy8euTD"
+      },
+      "artists": [
+        {
+          "name": "Tom Saison",
+          "url": "https://open.spotify.com/artist/0YdklH2cgy2TVLni1ttkbD"
+        },
+        {
+          "name": "Keamo",
+          "url": "https://open.spotify.com/artist/5bJ61OiBNaDpQcjSpa8Ltu"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215988,
+      "name": "Scat Song",
+      "url": "https://open.spotify.com/track/0NIZt7B5vVgvqlOnEXYiOW"
     },
     {
       "album": {
@@ -4150,6 +4274,24 @@
       "duration_ms": 215988,
       "name": "Scat Song",
       "url": "https://open.spotify.com/track/6Mn1OrTRtv9mLrmMxuY7Qy"
+    },
+    {
+      "album": {
+        "name": "Now You Know Me",
+        "url": "https://open.spotify.com/album/6xZiG6DJDawqJaTfd0aoPt"
+      },
+      "artists": [
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253971,
+      "name": "Sechaba",
+      "url": "https://open.spotify.com/track/0q2vUIhpebVKVyDMluQ9Nr"
     },
     {
       "album": {
@@ -4854,7 +4996,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 200571,
       "name": "TIME",
       "url": "https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56"
@@ -4872,7 +5014,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 218666,
       "name": "Time",
       "url": "https://open.spotify.com/track/1EwFCXUDJVpQEnXJOfhuZg"

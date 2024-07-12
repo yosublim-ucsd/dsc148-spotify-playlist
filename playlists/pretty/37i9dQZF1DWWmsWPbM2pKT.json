@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 339321,
+  "num_followers": 339649,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKh4AAAAAD89jQJcBX634MQFWQqu+XI",
+  "snapshot_id": "ZpA+ugAAAABqsuYcYLNfvXJ5Z2Ug478i",
   "tracks": [
     {
       "added_at": "2024-06-07 06:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "\u042d\u0442\u0430\u0436\u0438",
+        "url": "https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 141394,
+      "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
+      "url": "https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "The Perfect Girl",
         "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
       },
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
     },
     {
-      "added_at": "2024-06-07 06:00:00",
+      "added_at": "2024-07-11 20:21:14",
       "album": {
-        "name": "\u042d\u0442\u0430\u0436\u0438",
-        "url": "https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm"
+        "name": "dirty little secret",
+        "url": "https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ"
       },
       "artists": [
         {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 141394,
-      "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
-      "url": "https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p"
+      "duration_ms": 181346,
+      "name": "dirty little secret",
+      "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -119,6 +135,22 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-07-11 20:21:14",
+      "album": {
+        "name": "Nightmare State / Television Choir",
+        "url": "https://open.spotify.com/album/0wF2jadXWC7KPV02HWrbSx"
+      },
+      "artists": [
+        {
+          "name": "Pleasure Nature",
+          "url": "https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ"
+        }
+      ],
+      "duration_ms": 235924,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/7CYzSfN0VUzM2BuDsOivtz"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -219,6 +251,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Ethereality",
+        "url": "https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 218384,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "21 N\u00e4chte wach",
         "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
       },
@@ -279,22 +327,6 @@
       "duration_ms": 91136,
       "name": "level7 (demo)",
       "url": "https://open.spotify.com/track/4MANod8oMUPPAm4wokn5AV"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Nostalgic Dreams",
-        "url": "https://open.spotify.com/album/21HP9KqTlmhvbL5WljGpKS"
-      },
-      "artists": [
-        {
-          "name": "Television Memories",
-          "url": "https://open.spotify.com/artist/4wXwTEW3wxfaZETwH2VW84"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "Nostalgic Dreams",
-      "url": "https://open.spotify.com/track/6dK0pi0CMTkOzvWGPDCv4h"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -543,22 +575,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Ethereality",
-        "url": "https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW"
-      },
-      "artists": [
-        {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        }
-      ],
-      "duration_ms": 218384,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Love Letters to Ghosts",
         "url": "https://open.spotify.com/album/4EeECFrtZ2qtDjEBAHCCBu"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Rites and Ritual",
-        "url": "https://open.spotify.com/album/4NDIlGZ27FqVY5zxe3tttf"
-      },
-      "artists": [
-        {
-          "name": "Traitrs",
-          "url": "https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X"
-        }
-      ],
-      "duration_ms": 172117,
-      "name": "Youth Cults",
-      "url": "https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK"
     },
     {
       "added_at": "2024-06-07 06:00:00",

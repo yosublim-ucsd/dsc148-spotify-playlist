@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ?si=r7izKEJTSuWuYy5ReGGWVQ">NLE Choppa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,765,434 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,765,779 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98839,
+  "num_followers": 98837,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Oldskool Sound",
         "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 216363,
       "name": "Oldskool Sound",
       "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -415,30 +415,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Save My Soul",
-        "url": "https://open.spotify.com/album/7xysDMmdSNvfdrY1IQwvo5"
+        "name": "Careful What You Wish For (feat. Alida)",
+        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
       },
       "artists": [
         {
-          "name": "Afroki",
-          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
         }
       ],
-      "duration_ms": 208027,
-      "name": "Save My Soul (feat. Jordan Grace)",
-      "url": "https://open.spotify.com/track/2G3ATYMN45iS6DSFZigsLF"
+      "duration_ms": 176264,
+      "name": "Careful What You Wish For (feat. Alida)",
+      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -463,22 +455,30 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Careful What You Wish For (feat. Alida)",
-        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+        "name": "Save My Soul",
+        "url": "https://open.spotify.com/album/7xysDMmdSNvfdrY1IQwvo5"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "Afroki",
+          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
         },
         {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
         }
       ],
-      "duration_ms": 176264,
-      "name": "Careful What You Wish For (feat. Alida)",
-      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+      "duration_ms": 208027,
+      "name": "Save My Soul (feat. Jordan Grace)",
+      "url": "https://open.spotify.com/track/2G3ATYMN45iS6DSFZigsLF"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -691,30 +691,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Without Your Love",
-        "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Catello",
-          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
-        }
-      ],
-      "duration_ms": 154513,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 130231,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
+        }
+      ],
+      "duration_ms": 154513,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Could It Be Love",
-        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Could It Be Love",
-      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Dancing All Alone",
         "url": "https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 186666,
       "name": "Dancing All Alone",
       "url": "https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Could It Be Love",
+        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Could It Be Love",
+      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
       },
       "artists": [
         {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
+      "duration_ms": 149760,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
       },
       "artists": [
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
+      "duration_ms": 161250,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
       },
       "artists": [
         {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
         }
       ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1275,18 +1275,42 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
       },
       "artists": [
         {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
         }
       ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
+      },
+      "artists": [
+        {
+          "name": "Sherman de Vries",
+          "url": "https://open.spotify.com/artist/0PZ5NAziJDDcjnpMvkmMYA"
+        },
+        {
+          "name": "Navaro",
+          "url": "https://open.spotify.com/artist/1NTpb0EU5OWNdUqtWEdnSW"
+        },
+        {
+          "name": "Brenda Mullen",
+          "url": "https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv"
+        }
+      ],
+      "duration_ms": 174624,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1311,30 +1335,6 @@
       "duration_ms": 142200,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
-      },
-      "artists": [
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1383,26 +1383,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
       "artists": [
         {
-          "name": "Sherman de Vries",
-          "url": "https://open.spotify.com/artist/0PZ5NAziJDDcjnpMvkmMYA"
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
         },
         {
-          "name": "Navaro",
-          "url": "https://open.spotify.com/artist/1NTpb0EU5OWNdUqtWEdnSW"
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
         },
         {
-          "name": "Brenda Mullen",
-          "url": "https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv"
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 174624,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
+      },
+      "artists": [
+        {
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "duration_ms": 170039,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct"
       },
@@ -1531,22 +1551,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
+        "name": "Stand In Line",
+        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
       },
       "artists": [
         {
-          "name": "DJ YUKI",
-          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         },
         {
-          "name": "Kate Wild",
-          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
         }
       ],
-      "duration_ms": 170039,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
+      "duration_ms": 185451,
+      "name": "Stand In Line",
+      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1575,30 +1599,6 @@
       "duration_ms": 160949,
       "name": "Everytime Next To Me (feat. Robin Bengtsson)",
       "url": "https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Stand In Line",
-        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "RYVM",
-          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
-        }
-      ],
-      "duration_ms": 185451,
-      "name": "Stand In Line",
-      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "A Little Bit More",
         "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 145161,
       "name": "A Little Bit More",
       "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
-      },
-      "artists": [
-        {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Nothing Left To Say",
+        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Nothing Left To Say",
+      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Pouring Rain",
         "url": "https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 191612,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Nothing Left To Say",
-        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
-      },
-      "artists": [
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Nothing Left To Say",
-      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3M8mh9sMhke8hLDVmsumNm"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "Kayla Diamond",
+          "url": "https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb"
+        }
+      ],
+      "duration_ms": 165804,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/7nFrtfZGra2UMK0XmSqFHO"
       },
@@ -1955,22 +1975,6 @@
       "duration_ms": 153321,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Ripped",
-        "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
-      },
-      "artists": [
-        {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Ripped",
-      "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
     }
   ],
   "unique_name": "Power Up!",

@@ -2,7 +2,7 @@
 
 ### [Volando con Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX9xEyyndYk10)
 
-> Bienvenidhos a Aerolinas El Clan les habla su capitán el Dharius\. Estamos listos para Dhespegar 💨
+> Bienvenidos a Aerolinas CuatroVeinte estamos listos para despegar 💨
 
 110 songs - 6 hr 50 min
 

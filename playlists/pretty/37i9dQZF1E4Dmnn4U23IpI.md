@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [Radio di The Midnight](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> Con FM\-84, Timecop1983, Kalax e molti altri
+> With FM\-84, Timecop1983, Kalax and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,929 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,938 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Pink Mist](https://open.spotify.com/track/5gdFoLS8DYmztAFmmbPjft) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:02 |
 | 50 | [In Love](https://open.spotify.com/track/0XpKc2COn2AyhAFWCUVD8Z) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 4:52 |
 
-Snapshot ID: `Zo9H0wAAAAAEl/q8xWOMDERE0mkndJ1D`
+Snapshot ID: `ZpCLRgAAAAAUkgcGAfpaegBaA+WMo39U`

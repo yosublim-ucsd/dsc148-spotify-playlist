@@ -556,7 +556,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 145668,
       "name": "Awimayehun",
       "url": "https://open.spotify.com/track/5Y5ngVo5FFyb1vF4MQWVLn"
@@ -1851,6 +1851,32 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/22C8GuxjWnFDVD7XTYYtYe"
+      },
+      "artists": [
+        {
+          "name": "Giliane",
+          "url": "https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t"
+        },
+        {
+          "name": "R-Scar",
+          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5cjSZ9mwRBhQlPIjgJH6NU"
+    },
+    {
+      "album": {
         "name": "Formula 1",
         "url": "https://open.spotify.com/album/5tEiXnkdcYcSGZyGPuaDDH"
       },
@@ -1994,6 +2020,24 @@
       "duration_ms": 214231,
       "name": "God abeg",
       "url": "https://open.spotify.com/track/5diDmQkEpe6wbTGDSRh7yW"
+    },
+    {
+      "album": {
+        "name": "God Is with Us",
+        "url": "https://open.spotify.com/album/2Pw52yj3lRX7VGuMp10hab"
+      },
+      "artists": [
+        {
+          "name": "Ebube Immanuel",
+          "url": "https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268925,
+      "name": "God Is with Us",
+      "url": "https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L"
     },
     {
       "album": {
@@ -4720,7 +4764,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 146468,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/2n2UqNsBAK4GkD5vwh4sGE"
@@ -4860,7 +4904,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 204578,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/40L2ELZUqjgUfids6HIgHL"
@@ -6091,6 +6135,24 @@
     },
     {
       "album": {
+        "name": "Theresa Phondo",
+        "url": "https://open.spotify.com/album/2UMRplzblsIzW07Mr9SIX6"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/3EdKqTX7D0vZ8hzz2cCj73"
+    },
+    {
+      "album": {
         "name": "Yewo",
         "url": "https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM"
       },
@@ -6296,6 +6358,28 @@
       "duration_ms": 320085,
       "name": "Your Love is Amazing",
       "url": "https://open.spotify.com/track/1sDLL1lKapOjUZBtdjp9CE"
+    },
+    {
+      "album": {
+        "name": "Your Way",
+        "url": "https://open.spotify.com/album/3qvxxSiCfdtX0WIpoyO5MT"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "yinkah",
+          "url": "https://open.spotify.com/artist/6YWJpsuE7N3BUInXjKqimK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/7CGCoEDU786ZHdMCd722zA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm"

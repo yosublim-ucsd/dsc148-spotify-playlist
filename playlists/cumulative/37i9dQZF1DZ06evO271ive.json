@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Don't Trust 'em",
+        "url": "https://open.spotify.com/album/5XaQB5ZwiVrQlq7uh5Eenq"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210102,
+      "name": "Don't Trust 'em",
+      "url": "https://open.spotify.com/track/3fuUPzdSo4iJUN3nUw71ge"
+    },
+    {
+      "album": {
         "name": "Don't Trust Em",
         "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
       },

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Dream All Summer",
+        "url": "https://open.spotify.com/album/5cjJFLqNgJWZOA7JWaZG0L"
+      },
+      "artists": [
+        {
+          "name": "Lu Han",
+          "url": "https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182698,
+      "name": "Dream All Summer",
+      "url": "https://open.spotify.com/track/2NjBvSSL8v3m3vxlgX7of8"
+    },
+    {
+      "album": {
         "name": "Dying In The Sun",
         "url": "https://open.spotify.com/album/5YRyPRXgNDJVpilQYmgy0F"
       },
@@ -1767,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u662f\u6cbb\u7652\u6211\u7684\u5149",
+        "url": "https://open.spotify.com/album/0j9Xxe2m2XiHs3j6bJaeEl"
+      },
+      "artists": [
+        {
+          "name": "Laurence Larson",
+          "url": "https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171509,
+      "name": "\u4f60\u662f\u6cbb\u7652\u6211\u7684\u5149",
+      "url": "https://open.spotify.com/track/0eYDmgCgiqCszcR7u3vp8i"
+    },
+    {
+      "album": {
         "name": "\u597d\u597d\u5c0d\u5f85\u5979",
         "url": "https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa"
       },
@@ -1818,7 +1854,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 223783,
       "name": "\u4f60\u6709\u591a\u50bb - \u5c0d\u5531\u7248, \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/4eghGqwHw5ne1slrWniKP4"
@@ -3332,7 +3368,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 234613,
       "name": "\u5c0f\u6545\u4e8b",
       "url": "https://open.spotify.com/track/4c9PG93lgIdnyTqPMSExsS"

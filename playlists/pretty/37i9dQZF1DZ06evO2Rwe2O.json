@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 11584,
+  "num_followers": 11587,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zox9gAAAAAADiUARnXJ0BTmadEhF+m8h",
+  "snapshot_id": "Zo3PAAAAAAAk/llFsGA22cPT+XnSv2k6",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "I Will Go",
-      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 270160,
       "name": "Maker of the Wind",
       "url": "https://open.spotify.com/track/0c6ycONajngTNG7TPTAEKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 344760,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 344760,
-      "name": "Good Good Father - Live",
-      "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 232453,
       "name": "If You Died Tonight",
       "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "I Will Go",
+      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 272053,
-      "name": "Beautiful Offering",
-      "url": "https://open.spotify.com/track/1Ne01Bjmgb3q08r6tdw3Oc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fields of Grace",
         "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 317560,
       "name": "Heart Cries Holy",
       "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 272053,
+      "name": "Beautiful Offering",
+      "url": "https://open.spotify.com/track/1Ne01Bjmgb3q08r6tdw3Oc"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life: The Redeemed Edition",
-        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 288060,
-      "name": "No Other Name",
-      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
+      "duration_ms": 30173,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/7yHGpzJaeAtc5DsbcTvRUM"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
       "duration_ms": 205413,
       "name": "In Christ",
       "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,
@@ -655,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 339693,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Come To Life: The Redeemed Edition",
         "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
       },
@@ -667,22 +699,6 @@
       "duration_ms": 197188,
       "name": "Everything Beautiful",
       "url": "https://open.spotify.com/track/331Knn1SGIHAjAfHtP9UBR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fields of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 339693,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0"
+      "duration_ms": 191026,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh"
     },
     {
       "added_at": null,
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fields of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Be Your Everything",
-      "url": "https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg"
+      "duration_ms": 226160,
+      "name": "Just The Way I Am",
+      "url": "https://open.spotify.com/track/5DWxGimczAZe7byauhrUba"
     },
     {
       "added_at": null,
@@ -767,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
       },
       "artists": [
         {
@@ -776,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Just The Way I Am",
-      "url": "https://open.spotify.com/track/5DWxGimczAZe7byauhrUba"
+      "duration_ms": 313840,
+      "name": "Be Your Everything",
+      "url": "https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 313106,
       "name": "Words of Life",
       "url": "https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fields of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Completely Free",
-      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
     },
     {
       "added_at": null,

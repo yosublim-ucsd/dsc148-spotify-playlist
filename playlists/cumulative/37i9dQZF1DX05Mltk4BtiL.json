@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "sammlung 2 / soft floor",
+        "url": "https://open.spotify.com/album/0Z1ngCwNQz24Sj03nuxHPi"
+      },
+      "artists": [
+        {
+          "name": "Das Paradies",
+          "url": "https://open.spotify.com/artist/5wYcbpyGZGlUOiNpbLWZTo"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187833,
+      "name": "am erdbeerstrand",
+      "url": "https://open.spotify.com/track/5BIIpsBXnIQmrVa66nnUmI"
+    },
+    {
+      "album": {
         "name": "Am Ufer der Zeit",
         "url": "https://open.spotify.com/album/1fbuq5eh3vU7rpABIZAYeq"
       },
@@ -106,10 +124,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 175116,
       "name": "beckenrand",
       "url": "https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0"
+    },
+    {
+      "album": {
+        "name": "Das erste Mal",
+        "url": "https://open.spotify.com/album/3XTth7s9YmgxGuMoYd15IM"
+      },
+      "artists": [
+        {
+          "name": "Milliarden",
+          "url": "https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247070,
+      "name": "Das erste Mal",
+      "url": "https://open.spotify.com/track/7gsAQKpCsXV8i31cljdW6u"
     },
     {
       "album": {
@@ -338,7 +374,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 141986,
       "name": "haus am meer",
       "url": "https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW"
@@ -404,7 +440,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 123201,
       "name": "Ich brauch ein Bier",
       "url": "https://open.spotify.com/track/0EnYDvdiddeC9Kq7orP4Qt"
@@ -422,10 +458,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 170981,
       "name": "Ich geh lieber allein",
       "url": "https://open.spotify.com/track/57DMEgQLbvviLZR1NN0umV"
+    },
+    {
+      "album": {
+        "name": "Ich seh den Horizont",
+        "url": "https://open.spotify.com/album/0yNkacrVgCMa8FsU5nlXWD"
+      },
+      "artists": [
+        {
+          "name": "PeterLicht",
+          "url": "https://open.spotify.com/artist/0vr6IcFPFgjLKLUNPDlWmS"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274306,
+      "name": "Ich seh den Horizont",
+      "url": "https://open.spotify.com/track/6tmUcR5KSO26u2DFVsMx5y"
     },
     {
       "album": {
@@ -617,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Mama ich hab Angst vorm Sommer",
+        "url": "https://open.spotify.com/album/7zZpNLHdbOPMG88mEU2Fze"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172119,
+      "name": "Mama ich hab Angst vorm Sommer",
+      "url": "https://open.spotify.com/track/7MwKBBEMZ2EEnNe5Ox1K35"
+    },
+    {
+      "album": {
         "name": "maria mag nur kaviar",
         "url": "https://open.spotify.com/album/2OUvZEpZ16DEVbeGpLj9BL"
       },
@@ -682,7 +754,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 177575,
       "name": "mies pr\u00e4pariert",
       "url": "https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ"
@@ -992,7 +1064,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 178144,
       "name": "wir trafen uns in einem garten",
       "url": "https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR"

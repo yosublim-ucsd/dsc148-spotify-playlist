@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-06-09",
-  "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
+  "description": "This Is Sabrina Carpenter. Los temas esenciales, todos en una lista.",
   "name": "This Is Sabrina Carpenter",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 184533,
       "name": "Bad Time",
       "url": "https://open.spotify.com/track/1YqPDOmooQQIXsRSdbRrwI"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 191025,
       "name": "bet u wanna",
       "url": "https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 181853,
       "name": "Don't Want It Back",
       "url": "https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 104408,
       "name": "emails i can\u2019t send",
       "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 189980,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 181120,
       "name": "Looking at Me",
       "url": "https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 168170,
       "name": "opposite",
       "url": "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 177500,
       "name": "Skin",
       "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 177750,
       "name": "skinny dipping",
       "url": "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 183755,
       "name": "Take Off All Your Cool",
       "url": "https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj"

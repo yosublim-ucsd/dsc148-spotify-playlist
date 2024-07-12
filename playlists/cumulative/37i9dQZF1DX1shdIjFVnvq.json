@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "London Fever",
+        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "London Fever",
+      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
+    },
+    {
+      "album": {
         "name": "SIKI JACKSON",
         "url": "https://open.spotify.com/album/4lua2VQpqJYAKHK24oq6ou"
       },
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 133950,
       "name": "Welt Bereisen",
       "url": "https://open.spotify.com/track/7kLlUTvjeCBC4PMSwUyy0u"

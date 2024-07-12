@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "LON3R JOHNY entra na zona. ",
+  "description": "Guga entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -260,6 +260,28 @@
       "duration_ms": 189000,
       "name": "3815",
       "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
+    },
+    {
+      "album": {
+        "name": "4-4-4",
+        "url": "https://open.spotify.com/album/2OhsUmXjfDX9UrwOBXMfU3"
+      },
+      "artists": [
+        {
+          "name": "Easy B",
+          "url": "https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP"
+        },
+        {
+          "name": "YINIH",
+          "url": "https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363913,
+      "name": "4-4-4",
+      "url": "https://open.spotify.com/track/3JVTy6WXdawAIGG1G80bqh"
     },
     {
       "album": {
@@ -1456,6 +1478,24 @@
       "duration_ms": 183046,
       "name": "Beber Para Esquecer",
       "url": "https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf"
+    },
+    {
+      "album": {
+        "name": "Beijinho",
+        "url": "https://open.spotify.com/album/7G4G9lPwc95z4KWSB50Hyc"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155100,
+      "name": "Beijinho",
+      "url": "https://open.spotify.com/track/1aEIMkzqWXK7Hao7rBFCgv"
     },
     {
       "album": {
@@ -5710,7 +5750,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 221574,
       "name": "Lacoste",
       "url": "https://open.spotify.com/track/4XffFXERbUOqHeZDDDXUGN"
@@ -6308,7 +6348,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 194000,
       "name": "MAGMA",
       "url": "https://open.spotify.com/track/64ZPHSuYKwGe1BcpqIaZ18"
@@ -9984,7 +10024,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 184490,
       "name": "Sente Essa Vibe",
       "url": "https://open.spotify.com/track/11SAfdfhTG6nxqZJhALqcv"
@@ -10923,6 +10963,24 @@
     },
     {
       "album": {
+        "name": "Tirana Freestyle",
+        "url": "https://open.spotify.com/album/0RYNCMcnoaB1DFqwejRfUh"
+      },
+      "artists": [
+        {
+          "name": "nastyfactor",
+          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123922,
+      "name": "Tirana Freestyle",
+      "url": "https://open.spotify.com/track/2ukskuAvIBef5QCriYQN8v"
+    },
+    {
+      "album": {
         "name": "Tirar Bilhete",
         "url": "https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG"
       },
@@ -11106,7 +11164,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 115488,
       "name": "Tr\u00eas Vezes Grande",
       "url": "https://open.spotify.com/track/7IyWimZTf2OzaaRUMyc9JB"
@@ -11362,6 +11420,32 @@
       "duration_ms": 172000,
       "name": "V.E.U.L.",
       "url": "https://open.spotify.com/track/6FRvx7zKd4JsiioIOeftXX"
+    },
+    {
+      "album": {
+        "name": "Vagalume",
+        "url": "https://open.spotify.com/album/4aS8Odq3vFvGVgcGLe3ank"
+      },
+      "artists": [
+        {
+          "name": "Tio Edson",
+          "url": "https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2"
+        },
+        {
+          "name": "Kelson Eduardo",
+          "url": "https://open.spotify.com/artist/0efBsG8GSAEuAmHGe1qhf7"
+        },
+        {
+          "name": "DJ O'Mix",
+          "url": "https://open.spotify.com/artist/3MS1D2ujrGDHXLnlOBismt"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188663,
+      "name": "Vagalume",
+      "url": "https://open.spotify.com/track/7m0bUtNOfrtrIcNDDcrPjS"
     },
     {
       "album": {

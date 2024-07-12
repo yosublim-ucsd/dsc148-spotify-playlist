@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Swing
 
-2,657 songs - 5 day 21 hr 29 min
+2,658 songs - 5 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -972,6 +972,7 @@
 | [Hyperboi](https://open.spotify.com/track/4iK6sJx9WZDpXjjGyjCuCp) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Hyperboi](https://open.spotify.com/album/0rDzgR9qq2hxfWPGHMd78n) | 3:44 | 2024-06-07 | 2024-06-29 |
 | [Hypersensible](https://open.spotify.com/track/77bQ9Z0ro0KudhjGvEI8ze) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Hypersensible](https://open.spotify.com/album/1kp2TU0ZdiJOEGyh1ivXpQ) | 3:03 | 2023-10-27 | 2024-01-13 |
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-03-08 | 2024-05-03 |
+| [HÉHÉ HÉ](https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [HÉHÉ HÉ](https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor) | 2:18 | 2024-07-05 |  |
 | [Héritage](https://open.spotify.com/track/60JKKoraJuLxjA0eKKPffp) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm) | [Héritage](https://open.spotify.com/album/5PZa10Sd89gIJq7eDQPqQP) | 2:46 | 2022-03-11 | 2022-03-18 |
 | [Héréditaire](https://open.spotify.com/track/7z7NGgxgskYYCCBUpLE9Gz) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ), [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Héréditaire](https://open.spotify.com/album/6GCDqMGLmIVudsDTFsR1t5) | 3:03 | 2023-12-15 | 2023-12-23 |
 | [Hérésie \(Chanson inedite\)](https://open.spotify.com/track/0D0M01DPzexk8LeM8YJIUE) | [Stefie Shock](https://open.spotify.com/artist/1gymZXDnThXSo91g6uT5h8) | [Le décor \(Édition Limitée 20e Anniversaire\)](https://open.spotify.com/album/1bsip4q3j32HhjgLblNppT) | 4:15 | 2023-02-17 | 2023-03-04 |
@@ -1410,7 +1411,7 @@
 | [Les jours abandonnés](https://open.spotify.com/track/4T3YB2GfvSFygsoAnkdT9n) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Les jours abandonnés](https://open.spotify.com/album/3wLtRuSJAjzoWOuULhCcrk) | 3:19 | 2022-01-21 | 2022-01-29 |
 | [Les larmes du monde](https://open.spotify.com/track/4ZcAxmJrHxwqhDSfettsDE) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Les larmes du monde](https://open.spotify.com/album/1DwiPLa0WgudTenDVeMDdK) | 3:45 | 2023-01-13 | 2023-01-21 |
 | [Les lumières dans le ciel](https://open.spotify.com/track/28Jedg7kYNAgpN10eEjvJV) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Les lumières dans le ciel](https://open.spotify.com/album/5UslcyDEB1UOUFawWBTi01) | 3:52 | 2022-05-27 | 2022-06-11 |
-| [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 | 2024-05-17 |  |
+| [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 | 2024-05-17 | 2024-07-12 |
 | [Les mots manquent d'espace](https://open.spotify.com/track/70W8nr4ZLp4yVgHnXpiHx9) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Les mots manquent d'espace](https://open.spotify.com/album/4mbN1Ty85gQiv5y7L79HKy) | 2:46 | 2022-09-30 | 2022-10-15 |
 | [Les mots qui nous manquent](https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Les mots qui nous manquent](https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg) | 4:14 | 2024-05-03 | 2024-05-11 |
 | [Les murmures sabotés](https://open.spotify.com/track/1VHNuqivOe1mYzCAY5v0QZ) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Les murmures sabotés](https://open.spotify.com/album/1II1iEI0s8IK9NfjzxweXi) | 3:33 | 2022-02-18 | 2022-02-26 |
@@ -1901,7 +1902,7 @@
 | [Planer](https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Planer](https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK) | 2:55 | 2023-07-14 | 2023-07-22 |
 | [Plantes carnivores](https://open.spotify.com/track/5Eq4s36SyGWVTNNyaWkehe) | [Jeannot Bournival](https://open.spotify.com/artist/6CCSaCB9EXGuFBel2dL8Jc) | [Avec vue sur l'amer](https://open.spotify.com/album/6FMxg2XZOxNju0RamLTm9I) | 4:17 | 2023-02-24 | 2023-03-11 |
 | [Plata](https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [400](https://open.spotify.com/album/1QLh17mGCqestAzRo8VcC0) | 2:57 | 2022-10-14 | 2022-10-29 |
-| [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 | 2024-07-05 | 2024-07-08 |
+| [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 | 2024-07-05 |  |
 | [Plein d'adresses](https://open.spotify.com/track/0JDUmGFPfeNE3bgev0iZCc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [Plein d'adresses](https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3) | 4:06 | 2024-03-01 | 2024-03-09 |
 | [PLEINE VITESSE](https://open.spotify.com/track/49d3LNyau8VdpttkNFJ8cO) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [PLEINE VITESSE](https://open.spotify.com/album/1kBCtmx5sJ7qX65EKj8Js4) | 2:37 | 2022-10-07 | 2022-10-15 |
 | [Plonge](https://open.spotify.com/track/2KOK8PdSiabVHHCyihsFOJ) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Plonge](https://open.spotify.com/album/5YicDJyhPlaWwoNzVouDR9) | 2:48 | 2022-08-26 | 2022-09-10 |
@@ -2171,7 +2172,7 @@
 | [Sensualité](https://open.spotify.com/track/1Alkj28p7nCXl55sgl1AHD) | [julien charbonneau](https://open.spotify.com/artist/12JcVQ0h95M307VbxBtcwI) | [Star Académie 2022](https://open.spotify.com/album/3TvQmrQtM1bo233j3zXUZK) | 4:49 | 2022-04-01 | 2022-04-16 |
 | [Sentencé](https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Sentencé](https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7) | 3:32 | 2022-05-13 | 2022-05-28 |
 | [Sentimental](https://open.spotify.com/track/2X2h4pcHtGwCIsjzAngY7t) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Sentimental](https://open.spotify.com/album/3YNeiNBJjIAznSmjIp1Mjd) | 2:56 | 2022-08-19 | 2022-09-03 |
-| [Sentiments](https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Sentiments](https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1) | 2:37 | 2024-05-31 |  |
+| [Sentiments](https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Sentiments](https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1) | 2:37 | 2024-05-31 | 2024-07-12 |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-03 | 2023-03-18 |
 | [Sentinelle sur l'échafaud](https://open.spotify.com/track/1ri9UFpW11x5XeFf4VQ2CZ) | [Julien Sagot](https://open.spotify.com/artist/5xzKAqikd9zZs4uiTRAGWt) | [Sentinelle sur l'échafaud](https://open.spotify.com/album/5GD1RcouhXGWLvLqQq6t0D) | 5:21 | 2022-09-23 | 2022-10-01 |
 | [Serpent & Échelle](https://open.spotify.com/track/2MzCbFlcQ8npw83nPFtt5Q) | [Tristan Guay](https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU) | [Serpent & Échelle](https://open.spotify.com/album/0c3NiMb6feLMn96pHhPxwX) | 3:50 | 2023-03-17 | 2023-03-25 |

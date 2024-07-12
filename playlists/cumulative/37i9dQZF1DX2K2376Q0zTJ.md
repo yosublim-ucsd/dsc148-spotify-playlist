@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 詩羽
 
-1,200 songs - 2 day 23 hr 3 min
+1,201 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [i/o](https://open.spotify.com/track/5tE1DWfXwKUlN9N6lUbqmq) | [MINAKEKKE](https://open.spotify.com/artist/4PJ4EXyGkUrYuZt9AwW3eT) | [i/o](https://open.spotify.com/album/0d5rs7EK6PHbsiIzOJqWzO) | 3:28 | 2022-01-04 | 2022-12-07 |
 | [Ice Age](https://open.spotify.com/track/1SmMwgXOsfUSkceYwkPPrn) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [mani mani](https://open.spotify.com/album/5qz9YIGC9q3hIObRBdzQKp) | 4:04 | 2024-02-06 | 2024-03-06 |
 | [ICE CREAM.](https://open.spotify.com/track/3JTJ62eyEnldRkMzRoRHug) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 | 2023-08-01 | 2023-09-06 |
+| [Ice Palace](https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Ice Palace](https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve) | 3:20 | 2024-07-11 |  |
 | [Ideals](https://open.spotify.com/track/5mtJlCniBac2Jhx0eorAPZ) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 2:55 | 2022-07-05 | 2023-04-05 |
 | [If](https://open.spotify.com/track/10q5xuxzTGWyBtG0fQfseC) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/4wxvHYc2ESuh2euEMn2SlF) | 3:15 | 2021-11-30 | 2022-01-05 |
 | [If](https://open.spotify.com/track/42giHq6f5YD54B11cEXOHg) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [If](https://open.spotify.com/album/54pITrmUfr4TLftABZrML1) | 2:53 | 2023-02-01 | 2023-03-01 |
@@ -462,7 +463,7 @@
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-04-04 | 2023-05-03 |
 | [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 | 2021-11-30 | 2022-01-05 |
 | [Mist \- TiMT Remix](https://open.spotify.com/track/0622Iukz3BiwM9nWHeossl) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Mist \(TiMT Remix\)](https://open.spotify.com/album/6wtdhI0Vop5ZtuxghsEpEl) | 4:38 | 2022-05-31 | 2022-07-06 |
-| [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 | 2024-06-20 |  |
+| [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 | 2024-06-20 | 2024-07-12 |
 | [Mizu\-Iro](https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 6:28 | 2022-01-04 | 2024-03-06 |
 | [MO\-MO](https://open.spotify.com/track/1TgTIZDDkdP744im1NffJe) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [MO\-MO](https://open.spotify.com/album/7gfp3qrlYDwNc8y6WSyVZ2) | 3:26 | 2021-11-30 | 2022-01-05 |
 | [Moment26](https://open.spotify.com/track/0EgDnc3kNytxdGCubI5ysi) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [REIMEI](https://open.spotify.com/album/5kKCwtofiTJiEEPpUWKhGa) | 2:45 | 2022-05-04 | 2022-06-01 |

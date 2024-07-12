@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,746 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,754 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 8 | [英雄の証](https://open.spotify.com/track/0MvELkmRWxQoEVBfrMTkjl) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集 \~3周年記念ベストトラック\~](https://open.spotify.com/album/7sJWDYzGh1HaAQzjc0ScxI) | 4:17 |
 | 9 | ["DEVILS NEVER CRY"\(スタッフロール\)](https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ 3 オリジナル・サウンドトラック](https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb) | 5:19 |
 | 10 | [Theme of Ryu \-SFIV Arrange\-](https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターIVシリーズ サウンドBOX](https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu) | 3:19 |
-| 11 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
-| 12 | [星に駆られて](https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [モンスターハンター:ワールド オリジナル・サウンドトラック](https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh) | 4:31 |
+| 11 | [星に駆られて](https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [モンスターハンター:ワールド オリジナル・サウンドトラック](https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh) | 4:31 |
+| 12 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
 | 13 | [綾里真宵 〜逆転姉妹のテーマ 2001](https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 2:41 |
 | 14 | [銀翼の凶星/バルファルク \- Rise ver.](https://open.spotify.com/track/56eXeZWgCsXO5a3CMoz2Bd) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [MONSTER HUNTER RISE Extra Tracks](https://open.spotify.com/album/2g234Htpvky7Ix919DGik6) | 4:03 |
 | 15 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 44 | [Shinsekai](https://open.spotify.com/track/3qtJwRxouqm1kQD9UWsNvS) | [Chikara Aoshima](https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx) | [深世海 Into the Depths Hidden Tracks](https://open.spotify.com/album/59rgd3dLtg9YLDBBjGDO3F) | 4:13 |
 | 45 | [Running Through The Cyber World \- カプチューン ver.](https://open.spotify.com/track/3P6oQWmXoqBLmsCWHl31mC) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/31hNCIMIio8mB9c9yOGFKJ) | 4:07 |
 | 46 | [Metamorphosis](https://open.spotify.com/track/29QKto9Azhp4txmsaboUJo) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 5:38 |
-| 47 | [上田合戦](https://open.spotify.com/track/4BBVB1w8MVktJAcjKYAYRC) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:47 |
-| 48 | [プロローグ](https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
+| 47 | [プロローグ](https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
+| 48 | [上田合戦](https://open.spotify.com/track/4BBVB1w8MVktJAcjKYAYRC) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:47 |
 | 49 | [生命ある者へ](https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター3 \(tri\-\) オリジナル・サウンドトラック](https://open.spotify.com/album/34a2F897NiFXJry79ahuz3) | 3:09 |
 | 50 | [閃烈なる蒼光/ジンオウガ](https://open.spotify.com/track/02PIKRaYBRtfJ2s7LBbBCj) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集III 〜モンスターハンターポータブル 3rd&レアトラック〜](https://open.spotify.com/album/2plfcB6X4MfuNqmFohiK2t) | 2:47 |
 

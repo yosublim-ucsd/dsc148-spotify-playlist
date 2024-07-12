@@ -2,7 +2,7 @@
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> El Dembow que está subiendo\. Foto: La Perversa
+> El Dembow que está subiendo\. Foto: Yaisel LM
 
 676 songs - 1 day 9 hr 5 min
 

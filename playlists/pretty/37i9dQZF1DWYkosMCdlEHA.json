@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 143293,
+  "num_followers": 143290,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
+      },
+      "artists": [
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
         "name": "Proibiram as Flores (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs"
       },
@@ -611,22 +631,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
-      },
-      "artists": [
-        {
-          "name": "Yeti Reggae Club",
-          "url": "https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs"
-        }
-      ],
-      "duration_ms": 221483,
-      "name": "Serenou/Nosso Mundo - Acoustic Sessions",
-      "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Ac\u00fastico Cidade Negra",
         "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
       },
@@ -643,22 +647,18 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Quem Sabe",
-        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
+        "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
       },
       "artists": [
         {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        },
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+          "name": "Yeti Reggae Club",
+          "url": "https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs"
         }
       ],
-      "duration_ms": 173858,
-      "name": "Quem Sabe",
-      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+      "duration_ms": 221483,
+      "name": "Serenou/Nosso Mundo - Acoustic Sessions",
+      "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
     },
     {
       "added_at": "2024-07-05 13:49:13",

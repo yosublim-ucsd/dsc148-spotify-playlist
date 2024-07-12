@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 124080,
+  "num_followers": 124078,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+      },
+      "artists": [
+        {
+          "name": "La Familia Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
-      },
-      "artists": [
-        {
-          "name": "La Familia Andr\u00e9",
-          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "\u00c9xitos los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        },
-        {
-          "name": "Robinson Dami\u00e1n",
-          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Se Le Moja la Canoa (La Canoa)",
-      "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "\u00c9xitos los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        },
+        {
+          "name": "Robinson Dami\u00e1n",
+          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
+        }
+      ],
+      "duration_ms": 258217,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Y Joche",
+          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
+        }
+      ],
+      "duration_ms": 305950,
+      "name": "La Due\u00f1a de Mi Suerte",
+      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "\u00c9xitos los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 241297,
       "name": "Ceniza Fr\u00eda",
       "url": "https://open.spotify.com/track/3q15KHRykWDh4IzLuVj8sc"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Y Joche",
-          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
-        }
-      ],
-      "duration_ms": 305950,
-      "name": "La Due\u00f1a de Mi Suerte",
-      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
-        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Imperial",
-          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
-        }
-      ],
-      "duration_ms": 479480,
-      "name": "Mosaico de Merengues - Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamor\u00f3 de Manuel / El P\u00e1jaro Amarillo / El Gavil\u00e1n",
-      "url": "https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1399,18 +1383,34 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Guayaba Orquesta \u00c9xitos, Vol.1",
-        "url": "https://open.spotify.com/album/31X8VuNVdSUA3iiffn35FN"
+        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
+        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
       },
       "artists": [
         {
-          "name": "Guayaba Orquesta",
-          "url": "https://open.spotify.com/artist/0fX4OxM4PrXfSh2ic9Fd7N"
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
         }
       ],
-      "duration_ms": 162430,
-      "name": "El Cuartetazo",
-      "url": "https://open.spotify.com/track/3bvtpzWXdVpU7EoVfoTlVt"
+      "duration_ms": 479480,
+      "name": "Mosaico de Merengues - Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamor\u00f3 de Manuel / El P\u00e1jaro Amarillo / El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Cumbias Solo Cumbias",
+        "url": "https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv"
+      },
+      "artists": [
+        {
+          "name": "Super Orquesta Cartagena",
+          "url": "https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

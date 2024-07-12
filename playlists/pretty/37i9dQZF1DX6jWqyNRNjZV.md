@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,286 likes - 72 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,301 likes - 72 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 44 | [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 |
 | 45 | [want\_from\_me\_](https://open.spotify.com/track/6MUxAavp7dckUYZq9njGcr) | [digital fireplace](https://open.spotify.com/artist/696WUVvyb2Ny27wYQ9Ocye) | [want\_from\_me\_](https://open.spotify.com/album/7EXmQAqleD3zy1EAryBFlr) | 4:15 |
 | 46 | [PILOT](https://open.spotify.com/track/2EIj4dxqU7bsUcic4Nk3Dd) | [chrms](https://open.spotify.com/artist/4ysxE5dwRvjnXcd5IGCZiB) | [PILOT EP](https://open.spotify.com/album/1VJouwRgZ4UitxjNHtFkGT) | 4:19 |
-| 47 | [Seven](https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven](https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3) | 5:52 |
+| 47 | [Seven](https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven](https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3) | 5:55 |
 | 48 | [V2B](https://open.spotify.com/track/4MpiMq8vZvEQXcO6U0Vhxo) | [NIKS](https://open.spotify.com/artist/4agdFRCRYyF5xpqg5rThPt) | [V2B](https://open.spotify.com/album/1iAha8MLzVDWCEZhtUhl3S) | 4:39 |
 | 49 | [Steiner Im Flug](https://open.spotify.com/track/16VBUGCG36GtebrFRqZw6h) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [This Bliss](https://open.spotify.com/album/5ISoAxEvezM5hpiZzmUJ7J) | 6:30 |
 | 50 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 |

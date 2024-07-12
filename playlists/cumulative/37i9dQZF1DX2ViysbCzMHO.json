@@ -3919,6 +3919,28 @@
     },
     {
       "album": {
+        "name": "Strangers (Acoustic)",
+        "url": "https://open.spotify.com/album/5QXwPD8nED4j80IjDDnZ4H"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198612,
+      "name": "Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/19T2ZLdCnuWK4spLFhSGY5"
+    },
+    {
+      "album": {
         "name": "Stuck in the Middle (Acoustic)",
         "url": "https://open.spotify.com/album/4f8I37V45M7DXWiPoQKBFd"
       },

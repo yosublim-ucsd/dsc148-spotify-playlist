@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, CK YG
 
-158 songs - 9 hr 0 min
+160 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Hide n Seek](https://open.spotify.com/track/6UK7OmsoQ6Ee6EklS68GcQ) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH), [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Hide n Seek](https://open.spotify.com/album/6GA41ej75Yzw9GSDA9TnSd) | 2:57 | 2023-10-04 | 2023-11-11 |
 | [High Score](https://open.spotify.com/track/1CLBLpfBGZ7zk3J9X1SVQt) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [High Score](https://open.spotify.com/album/6oK1jN95CwhOcNiU6grIn1) | 3:29 | 2023-09-20 | 2024-02-15 |
 | [Highschool](https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Highschool](https://open.spotify.com/album/3iicfDQLWCyTSXpQoLYXmz) | 3:10 | 2024-07-03 |  |
-| [Hollywood](https://open.spotify.com/track/2jLLMjl9iIt9dgwIrHpJ64) | [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Hollywood](https://open.spotify.com/album/0EpJoojhVdp2BrnxkutGH1) | 3:37 | 2024-03-06 |  |
+| [Hollywood](https://open.spotify.com/track/2jLLMjl9iIt9dgwIrHpJ64) | [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Hollywood](https://open.spotify.com/album/0EpJoojhVdp2BrnxkutGH1) | 3:37 | 2024-03-06 | 2024-07-12 |
 | [Huli Na](https://open.spotify.com/track/3tOxw3kjwNNfzENNoVqD2E) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Blue](https://open.spotify.com/album/65DQTnPzbVKoflMgS2Kxlh) | 2:58 | 2023-09-20 | 2023-12-30 |
 | [Iba Pa Yon](https://open.spotify.com/track/5Zd7WR5fEg8gJoPLFRf475) | [Lightskeen Baby](https://open.spotify.com/artist/5ZpjkPLzL9439XJbt7wffG) | [Iba Pa Yon](https://open.spotify.com/album/7k28FL99HOqppKSNOhBxDB) | 2:34 | 2024-01-17 | 2024-03-07 |
 | [Ikaw Na Nga Yon](https://open.spotify.com/track/5Ue5JtL9UexTpaOd8BOwQC) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Ikaw Na Nga Yon](https://open.spotify.com/album/2HsPUNsgshhCRSQuIU3wDZ) | 3:50 | 2023-09-20 | 2023-10-19 |
@@ -88,6 +88,7 @@
 | [Lagabog](https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lagabog](https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC) | 3:06 | 2024-01-31 |  |
 | [Lil Kasalanan Shortie](https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Lil Kasalanan Shortie](https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO) | 2:43 | 2023-11-15 |  |
 | [LOW](https://open.spotify.com/track/0WXKTXf2dX28zbpaozHcg7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [LOW](https://open.spotify.com/album/6GudVvbJ370hfdYFDj97G9) | 4:57 | 2024-03-27 | 2024-05-09 |
+| [Low Key](https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Low Key](https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX) | 2:43 | 2024-07-11 |  |
 | [Lulong](https://open.spotify.com/track/2ILq8y45JOaFdMm3IvcAqC) | [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [Lulong](https://open.spotify.com/album/6zKXgWsUwDHFPfkna0yNeX) | 3:47 | 2024-02-14 | 2024-03-28 |
 | [LUMAYO KANA](https://open.spotify.com/track/6RMuVO3C62Y8qkUxtpgdLr) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [LUMAYO KANA](https://open.spotify.com/album/39xaV4n6qZgC2FCdANA6Zk) | 3:11 | 2023-12-06 | 2024-01-25 |
 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-09-20 |  |
@@ -110,6 +111,7 @@
 | [Mossa Downtown](https://open.spotify.com/track/5kA5QMEgxW3VwwvAFjpgr4) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Mossa Downtown](https://open.spotify.com/album/2iqWQbp5duKqkI22C7rwtU) | 2:45 | 2023-09-20 | 2023-12-14 |
 | [My Everything](https://open.spotify.com/track/5ZU0vdfJhQn2fgaIYicHlj) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [My Everything](https://open.spotify.com/album/0XJqY30CK6xUBs73xGHUAw) | 4:28 | 2024-02-21 | 2024-06-27 |
 | [MY THANG \(GO GETTA 2\)](https://open.spotify.com/track/1fRLcqxVwpzpua8E6Se2sN) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [MY THANG \(GO GETTA 2\)](https://open.spotify.com/album/2iLm8scmBP9VcNixtMIf4G) | 3:10 | 2023-11-01 |  |
+| [Naglaho](https://open.spotify.com/track/7dztgD8RDOSmPJGIHFlwnm) | [GHR](https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Matteyo](https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N) | [Naglaho](https://open.spotify.com/album/79Csoc5khpXUFB5zsEtypi) | 3:09 | 2024-07-11 |  |
 | [Oh Yeah](https://open.spotify.com/track/61MHqRAgaKsh69Nm6vgAyX) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Oh Yeah](https://open.spotify.com/album/1HAXe1xCvQUNvRJ3vcVPdT) | 3:44 | 2024-04-17 | 2024-07-04 |
 | [ON LY](https://open.spotify.com/track/3CpZiVFZTld1E9U9esag6m) | [J emm Dahon](https://open.spotify.com/artist/0RptGZKWMZM1HX8SK3bEcm), [King Lheanard](https://open.spotify.com/artist/1ugycLfwsjOuoRT0y8DZMj), [Kushin](https://open.spotify.com/artist/4hOq1IlgRnPNjsbJRCgK0B) | [ON LY](https://open.spotify.com/album/1dTBjVhAh2CVzVGmeXUqQv) | 2:54 | 2023-12-27 | 2024-01-25 |
 | [Paboritong Pagkakamali](https://open.spotify.com/track/6oap6muuSi47PdllRECCuw) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Paboritong Pagkakamali](https://open.spotify.com/album/4qEN03PaW5dO803AotVzNB) | 3:57 | 2023-09-20 | 2024-02-08 |
@@ -164,7 +166,7 @@
 | [WholeLotta$$$](https://open.spotify.com/track/3xElh7PCedXL0WxswpWznV) | [NOHESI](https://open.spotify.com/artist/0GFan310xKLCUaxx8hcthQ), [CA$HMAN](https://open.spotify.com/artist/0jgCDXXOUZvjVFnziFCUGA) | [WholeLotta$$$](https://open.spotify.com/album/4qvJK8vYM8qQcribFTtfb8) | 2:45 | 2023-11-15 | 2023-12-30 |
 | [WholeLotta$$$](https://open.spotify.com/track/62RvyiPNzwqUfUlaalPRf3) | [NOHESI](https://open.spotify.com/artist/0GFan310xKLCUaxx8hcthQ), [CA$HMAN](https://open.spotify.com/artist/0jgCDXXOUZvjVFnziFCUGA) | [WholeLotta$$$](https://open.spotify.com/album/1ksoDWPm2BA0KccgYKpvrY) | 2:45 | 2023-09-20 | 2023-11-18 |
 | [Yes Hello](https://open.spotify.com/track/77M3LJt3ldz27LwszuuDfH) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Training Day](https://open.spotify.com/album/1vm29cEdbgKVxwFHFztmKB) | 3:05 | 2024-07-01 |  |
-| [Yorokobi feesu](https://open.spotify.com/track/5JGFp7RISGWJnvapcoyqFQ) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Yorokobi feesu](https://open.spotify.com/album/3Ug4ULajBTwSZlBVWEMpXd) | 3:48 | 2024-04-10 |  |
+| [Yorokobi feesu](https://open.spotify.com/track/5JGFp7RISGWJnvapcoyqFQ) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Yorokobi feesu](https://open.spotify.com/album/3Ug4ULajBTwSZlBVWEMpXd) | 3:48 | 2024-04-10 | 2024-07-12 |
 | [Young Gaddy](https://open.spotify.com/track/2zUknMznHhaw5cDfMpFWvg) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Young Gaddy](https://open.spotify.com/album/7I5q9GXoYDRfM0UudEbYxz) | 2:55 | 2023-09-20 | 2023-11-18 |
 
 \*This playlist was first scraped on 2023-09-23. Prior content cannot be recovered.

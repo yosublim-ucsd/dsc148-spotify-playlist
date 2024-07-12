@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=sfN-1WdHSAeIR-HB1vKAHA\">Juanita du Plessis</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C?si=k0RJ2ZutRPy1AWzQVjpUhw\">Wentzel</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -2445,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "Meisie wat kan Vasdans",
+        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199593,
+      "name": "Meisie wat kan Vasdans",
+      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
+    },
+    {
+      "album": {
         "name": "Meisies Soos Jy",
         "url": "https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla"
       },
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 228566,
       "name": "Sokkie Tot Die Einde",
       "url": "https://open.spotify.com/track/42zwwodmjObOkLONUDkjRv"
@@ -3352,6 +3370,28 @@
       "duration_ms": 187800,
       "name": "Sonop-Blom",
       "url": "https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p"
+    },
+    {
+      "album": {
+        "name": "Soos Bloed (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/6hOn92qvDdFna02b21Qvx6"
+      },
+      "artists": [
+        {
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208124,
+      "name": "Soos Bloed - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/4uXteEd1JioDpa7IMkYmrR"
     },
     {
       "album": {
@@ -3464,7 +3504,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 207736,
       "name": "Stout Vir ...",
       "url": "https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o"

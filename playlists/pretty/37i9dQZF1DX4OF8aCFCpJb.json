@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 69347,
+  "num_followers": 69352,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -347,8 +347,8 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Ska vi",
-        "url": "https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9"
+        "name": "Sweet Reggaemusik",
+        "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
       },
       "artists": [
         {
@@ -358,15 +358,11 @@
         {
           "name": "Lance-a-Lot",
           "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
-        },
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Ska vi",
-      "url": "https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6"
+      "duration_ms": 162000,
+      "name": "Sweet Reggaemusik",
+      "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -479,8 +475,8 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Sweet Reggaemusik",
-        "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
+        "name": "Ska vi",
+        "url": "https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9"
       },
       "artists": [
         {
@@ -490,11 +486,15 @@
         {
           "name": "Lance-a-Lot",
           "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
+        },
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Sweet Reggaemusik",
-      "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
+      "duration_ms": 195000,
+      "name": "Ska vi",
+      "url": "https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Pusher",
-        "url": "https://open.spotify.com/album/1GbeTUO3MXvLLDUCTjqS38"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Prodotto di Superti",
-          "url": "https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Baluns",
         "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 155294,
       "name": "Baluns",
       "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Pusher",
+        "url": "https://open.spotify.com/album/1GbeTUO3MXvLLDUCTjqS38"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Prodotto di Superti",
+          "url": "https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -695,18 +695,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "V\u00e4nda Trend",
-        "url": "https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg"
+        "name": "Fr\u00e5n och med Du",
+        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
       },
       "artists": [
         {
-          "name": "Kiihjano",
-          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
         }
       ],
-      "duration_ms": 179393,
-      "name": "V\u00e4nda Trend",
-      "url": "https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD"
+      "duration_ms": 260000,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -747,54 +751,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fr\u00e5n och med Du",
-        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
+        "name": "V\u00e4nda Trend",
+        "url": "https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "Kiihjano",
+          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "\u00d6PPNA D\u00d6RREN NU",
-        "url": "https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "\u00d6PPNA D\u00d6RREN NU",
-      "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
-        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Attityd",
-      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
+      "duration_ms": 179393,
+      "name": "V\u00e4nda Trend",
+      "url": "https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -815,6 +783,38 @@
       "duration_ms": 198500,
       "name": "H\u00e5ll i dig",
       "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
+        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Attityd",
+      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "\u00d6PPNA D\u00d6RREN NU",
+        "url": "https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n"
+      },
+      "artists": [
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\u00d6PPNA D\u00d6RREN NU",
+      "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Kommunikation",
-        "url": "https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV"
+        "name": "Pirret",
+        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
       },
       "artists": [
         {
-          "name": "WillMan",
-          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
         }
       ],
-      "duration_ms": 161098,
-      "name": "Kommunikation",
-      "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
+      "duration_ms": 260079,
+      "name": "Pirret",
+      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Orginalo",
-        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
+        "name": "Kommunikation",
+        "url": "https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV"
       },
       "artists": [
         {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+          "name": "WillMan",
+          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Orginalo",
-      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
+      "duration_ms": 161098,
+      "name": "Kommunikation",
+      "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
     }
   ],
   "unique_name": "Svensk Reggae",

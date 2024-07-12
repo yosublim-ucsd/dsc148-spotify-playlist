@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -15387,6 +15387,24 @@
     },
     {
       "album": {
+        "name": "If So",
+        "url": "https://open.spotify.com/album/1H3MVoueBdHkp05j6chiXv"
+      },
+      "artists": [
+        {
+          "name": "Trish Lupin",
+          "url": "https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108875,
+      "name": "If So",
+      "url": "https://open.spotify.com/track/5aUtGFhNUeNjX5piVkJera"
+    },
+    {
+      "album": {
         "name": "Il Pigro Mafioso (The Lazy Mobster)",
         "url": "https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN"
       },
@@ -18450,7 +18468,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 151754,
       "name": "Lonely Astronaut",
       "url": "https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP"
@@ -33072,7 +33090,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 137143,
       "name": "The Night Cruise",
       "url": "https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
+  "description": "Les hits zouk du moment. Photo : Mik L",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 196362,
       "name": "D\u00e9conner",
       "url": "https://open.spotify.com/track/4TJ8SEE9DJqWlTRhuUQKiy"
@@ -736,6 +736,28 @@
       "duration_ms": 229019,
       "name": "Encore",
       "url": "https://open.spotify.com/track/6VZtYtLfOUO9wh28TgY1Zz"
+    },
+    {
+      "album": {
+        "name": "Falling in love",
+        "url": "https://open.spotify.com/album/0WY7AA39ZJhXcFyOdnZufk"
+      },
+      "artists": [
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        },
+        {
+          "name": "Elji",
+          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202321,
+      "name": "Falling in love",
+      "url": "https://open.spotify.com/track/4m7ePEyngbSrbIlS2M10hb"
     },
     {
       "album": {
@@ -1214,6 +1236,28 @@
       "duration_ms": 211685,
       "name": "LA BEST",
       "url": "https://open.spotify.com/track/6JWqSrA6W2r2P1ZIQFLBC4"
+    },
+    {
+      "album": {
+        "name": "La la land (Part. 2)",
+        "url": "https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        },
+        {
+          "name": "BGRZ",
+          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238216,
+      "name": "La la land (Part. 2)",
+      "url": "https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD"
     },
     {
       "album": {
@@ -1822,7 +1866,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 210309,
       "name": "Padon\u00e9\u00b4m",
       "url": "https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ"

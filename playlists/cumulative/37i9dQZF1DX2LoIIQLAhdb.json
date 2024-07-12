@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Louzio",
   "name": "R&Bae",
   "tracks": [
     {
@@ -878,7 +878,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 127555,
       "name": "Charg\u00e9",
       "url": "https://open.spotify.com/track/6rAXyvFRcgQb8CvMHAV2h2"
@@ -1488,6 +1488,24 @@
       "duration_ms": 190379,
       "name": "Derri\u00e8re toi",
       "url": "https://open.spotify.com/track/3cBpa9HYqtxLaGyLDQzbr6"
+    },
+    {
+      "album": {
+        "name": "VIVRE",
+        "url": "https://open.spotify.com/album/0fMgBtpqEHMbe0kQjNsmSA"
+      },
+      "artists": [
+        {
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126040,
+      "name": "DEUSPI",
+      "url": "https://open.spotify.com/track/1tiPiU4mka9lKzA0gJTpTW"
     },
     {
       "album": {

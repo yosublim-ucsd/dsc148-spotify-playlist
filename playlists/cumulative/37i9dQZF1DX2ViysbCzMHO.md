@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-285 songs - 15 hr 34 min
+286 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 | 2022-02-04 |  |
 | [Still Got It \- Acoustic](https://open.spotify.com/track/6EfDVHrPMkd7QvxgxZBag1) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Still Got It \(Acoustic\)](https://open.spotify.com/album/3joSZ5iwWIS6VucduIrwkl) | 3:03 | 2022-04-08 | 2022-07-11 |
 | [Stop Draggin' Your Boots \- Live Acoustic](https://open.spotify.com/track/6gQritU6LWjhLDZEXhs8KZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots \(Live Acoustic\)](https://open.spotify.com/album/1boictBuns6ob54QDNDymo) | 2:44 | 2022-05-20 |  |
+| [Strangers \- Acoustic](https://open.spotify.com/track/19T2ZLdCnuWK4spLFhSGY5) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Strangers \(Acoustic\)](https://open.spotify.com/album/5QXwPD8nED4j80IjDDnZ4H) | 3:18 | 2024-07-05 |  |
 | [Stuck in the Middle \- Acoustic](https://open.spotify.com/track/3oTUHoKnvwUriIGbCMFLbR) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck in the Middle \(Acoustic\)](https://open.spotify.com/album/4f8I37V45M7DXWiPoQKBFd) | 2:36 | 2022-07-08 | 2022-07-10 |
 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 | 2022-01-14 | 2023-04-16 |
 | [Take It Slow \- Acoustic](https://open.spotify.com/track/5JTGEkYHojEAd0ODBAE1qo) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Take It Slow \(Acoustic\)](https://open.spotify.com/album/2Obkgz1PdZMe3CouNqslwU) | 2:33 | 2022-09-16 |  |

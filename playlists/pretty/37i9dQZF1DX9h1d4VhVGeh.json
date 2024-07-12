@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 188355,
+  "num_followers": 188427,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Olive Branch (Ghosn Zeytoun)",
-        "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 85999,
-      "name": "Olive Branch (Ghosn Zeytoun)",
-      "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Kol Yom Men Dah",
         "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 278546,
       "name": "Mel Bedaya",
       "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Olive Branch (Ghosn Zeytoun)",
+        "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 85999,
+      "name": "Olive Branch (Ghosn Zeytoun)",
+      "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
-        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
-      },
-      "artists": [
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
-        }
-      ],
-      "duration_ms": 49597,
-      "name": "\u064a\u0648\u0645 \u062c\u062f\u064a\u062f",
-      "url": "https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "El Album",
         "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 231177,
       "name": "Fakra",
       "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "duration_ms": 49597,
+      "name": "\u064a\u0648\u0645 \u062c\u062f\u064a\u062f",
+      "url": "https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Fairouz World, Pt. 1",
-        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 326739,
-      "name": "Saaltak Habiby",
-      "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Houdou Nisbi",
         "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 207560,
       "name": "Bala Wala Chi",
       "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 326739,
+      "name": "Saaltak Habiby",
+      "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -603,34 +603,18 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Kaddabeen",
-        "url": "https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt"
+        "name": "Hawel Tensany",
+        "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
       },
       "artists": [
         {
-          "name": "Abu",
-          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Kaddabeen",
-      "url": "https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
-        "name": "Fairouz World, Pt. 2",
-        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 337371,
-      "name": "Habbaitak Tanseet El Noum",
-      "url": "https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo"
+      "duration_ms": 219533,
+      "name": "Hawel Tensany",
+      "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -651,18 +635,34 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Hawel Tensany",
-        "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
       },
       "artists": [
         {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Hawel Tensany",
-      "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
+      "duration_ms": 337371,
+      "name": "Habbaitak Tanseet El Noum",
+      "url": "https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Kaddabeen",
+        "url": "https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Kaddabeen",
+      "url": "https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Hadis El Layl",
-        "url": "https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea"
-      },
-      "artists": [
-        {
-          "name": "Adonis",
-          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
-        }
-      ],
-      "duration_ms": 221412,
-      "name": "Estesna'i",
-      "url": "https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235026,
       "name": "Sucre",
       "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Hadis El Layl",
+        "url": "https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        }
+      ],
+      "duration_ms": 221412,
+      "name": "Estesna'i",
+      "url": "https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
-        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
-      },
-      "artists": [
-        {
-          "name": "Lina Sleibi",
-          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
-        }
-      ],
-      "duration_ms": 204347,
-      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
-      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Lazim Ahkeelak",
         "url": "https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 198827,
       "name": "Lazim Ahkeelak",
       "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
+        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
+      },
+      "artists": [
+        {
+          "name": "Lina Sleibi",
+          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
+        }
+      ],
+      "duration_ms": 204347,
+      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
+      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
+        "name": "Al Kawn Janni Maak",
+        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
         "name": "R.I.M.I.X",
         "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 206226,
       "name": "The Sun of Love - Remix",
       "url": "https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
-        "name": "Al Kawn Janni Maak",
-        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
-      },
-      "artists": [
-        {
-          "name": "Harget Kart",
-          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Hasaruha",
         "url": "https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 204705,
       "name": "Hasaruha",
       "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Shem Wroud",
+        "url": "https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6"
+      },
+      "artists": [
+        {
+          "name": "Zef",
+          "url": "https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "Shem Wroud",
+      "url": "https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Shem Wroud",
-        "url": "https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6"
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
       },
       "artists": [
         {
-          "name": "Zef",
-          "url": "https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L"
+          "name": "Harget Kart",
+          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
         }
       ],
-      "duration_ms": 196795,
-      "name": "Shem Wroud",
-      "url": "https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG"
+      "duration_ms": 232489,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
+        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
+        "url": "https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 276299,
+      "name": "Shibren (El B\u00faho Remix)",
+      "url": "https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
         "name": "Omer Aasal",
         "url": "https://open.spotify.com/album/5NyX5QeWwXSqX7OKUCCsbF"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 227280,
       "name": "Erjaa Shoufak",
       "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
-        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
-        "url": "https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 276299,
-      "name": "Shibren (El B\u00faho Remix)",
-      "url": "https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP"
     },
     {
       "added_at": "2024-07-04 23:55:52",

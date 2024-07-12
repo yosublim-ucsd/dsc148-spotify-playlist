@@ -1,13 +1,29 @@
 {
   "description": "happy 5 years of lorem. thank you for listening :) cover: Devon Again",
-  "num_followers": 1155357,
+  "num_followers": 1156131,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo6vVwAAAACr9oNLnZhjDe+fpbJubXoH",
+  "snapshot_id": "ZpAO6wAAAACNucRJTw6Bzur0mIQby44V",
   "tracks": [
+    {
+      "added_at": "2024-07-11 16:57:14",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y"
+    },
     {
       "added_at": "2024-07-10 15:54:47",
       "album": {
@@ -861,22 +877,6 @@
       "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "swanlike (loosies 2020-2023)",
-        "url": "https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        }
-      ],
-      "duration_ms": 57313,
-      "name": "whatever it takes",
-      "url": "https://open.spotify.com/track/3QDFH3hLEZZzz8Em1Wlkrb"
-    },
-    {
       "added_at": "2024-05-04 23:47:44",
       "album": {
         "name": "14 minutes",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/2Jhrp3Ppm6eA733Ic4afkH"
     },
     {
-      "added_at": "2024-05-09 21:07:55",
-      "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Wella",
@@ -1339,22 +1323,6 @@
       "duration_ms": 169631,
       "name": "Wella",
       "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
-    },
-    {
-      "added_at": "2024-05-31 04:06:42",
-      "album": {
-        "name": "stick of gum",
-        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "stick of gum",
-      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
     },
     {
       "added_at": "2024-06-05 18:46:48",
@@ -1547,22 +1515,6 @@
       "duration_ms": 391093,
       "name": "The Downtown Lights",
       "url": "https://open.spotify.com/track/38TMvbDxQCQJm9nzHqmpiK"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/1I3J7u3YpMetkahBFQoICw"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 170109,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/4xghRTAU6Hqjyf4MO1gr6w"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1765,22 +1717,6 @@
       "url": "https://open.spotify.com/track/73r6LsYOKVfRvbIJsnf284"
     },
     {
-      "added_at": "2024-04-26 16:04:47",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
       "added_at": "2024-03-14 23:57:15",
       "album": {
         "name": "symptom of life",
@@ -1859,22 +1795,6 @@
       "duration_ms": 218680,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Fortune Eyes",
-        "url": "https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr"
-      },
-      "artists": [
-        {
-          "name": "Ley Soul",
-          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Fortune Eyes",
-      "url": "https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC"
     },
     {
       "added_at": "2024-02-16 05:41:10",
@@ -1981,22 +1901,6 @@
       "url": "https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV"
     },
     {
-      "added_at": "2024-04-19 20:39:16",
-      "album": {
-        "name": "Angel Blessings",
-        "url": "https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF"
-      },
-      "artists": [
-        {
-          "name": "Sex Week",
-          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
-        }
-      ],
-      "duration_ms": 200624,
-      "name": "Angel Blessings",
-      "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Catching Chickens EP",
@@ -2079,22 +1983,6 @@
       "duration_ms": 202884,
       "name": "You Make Me Sick! - Dora Jar Remix",
       "url": "https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2"
-    },
-    {
-      "added_at": "2024-02-16 05:41:10",
-      "album": {
-        "name": "i don't really feel it anymore",
-        "url": "https://open.spotify.com/album/7hm1Kh2XVchiRA1JLPO9IS"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 120314,
-      "name": "i don't really feel it anymore",
-      "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"
     },
     {
       "added_at": "2024-01-26 05:00:00",

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,411 songs - 2 day 5 hr 9 min
+1,413 songs - 2 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Away from Home](https://open.spotify.com/track/37bo8gV7ZEXkHonzp0uLxB) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Away from Home](https://open.spotify.com/album/36IP2eLXnaTKHw9KBbBkEN) | 2:21 | 2024-05-13 |  |
 | [b side](https://open.spotify.com/track/6hUbKFoBqMOGJG5rnQ8qpd) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [b side](https://open.spotify.com/album/17LmbYfU3fBzqxWG9miISo) | 1:50 | 2023-10-27 |  |
 | [Baby Steps](https://open.spotify.com/track/1wHj1ok3aquNUubrCtcw7Q) | [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Baby Steps](https://open.spotify.com/album/1H3QOGHdXsCykOviRZe4N2) | 3:26 | 2022-08-12 | 2022-10-15 |
-| [Back Again](https://open.spotify.com/track/2D0IcgJIewYoqiCdQmiAm2) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Sunday Sketch & Back Again](https://open.spotify.com/album/3eHKPmK9TTOPXNgFwnzTQ6) | 2:27 | 2023-02-13 |  |
+| [Back Again](https://open.spotify.com/track/2D0IcgJIewYoqiCdQmiAm2) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Sunday Sketch & Back Again](https://open.spotify.com/album/3eHKPmK9TTOPXNgFwnzTQ6) | 2:27 | 2023-02-13 | 2024-07-12 |
 | [Backhome](https://open.spotify.com/track/6sRDG18KiJrhoQuZJbTZi5) | [tatuí](https://open.spotify.com/artist/1h4sBiq6QUcJXyoUZDJCUu) | [Backhome](https://open.spotify.com/album/3g12yPQDZGTOsoyw6c676z) | 2:39 | 2022-09-02 | 2023-09-16 |
 | [Balancing](https://open.spotify.com/track/6R5TBVKCGiV8ITQxBRXAz0) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Balancing](https://open.spotify.com/album/7jfKj6qTIRZM0qiRT2TFea) | 2:14 | 2022-12-16 |  |
 | [bald buff activated](https://open.spotify.com/track/1HL0PG4hoX3UQjliOpKowg) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Fnatic Island Vol\. 1](https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO) | 2:16 | 2022-11-11 | 2023-09-05 |
@@ -835,7 +835,7 @@
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-01-27 | 2022-09-03 |
 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 | 2022-01-27 | 2022-06-10 |
-| [Neurons](https://open.spotify.com/track/3gsZFTu3zxzRjnQlUvzgJo) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Neurons](https://open.spotify.com/album/5TjJ5jPREgKfGRrgyAZC1U) | 2:07 | 2022-10-28 |  |
+| [Neurons](https://open.spotify.com/track/3gsZFTu3zxzRjnQlUvzgJo) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Neurons](https://open.spotify.com/album/5TjJ5jPREgKfGRrgyAZC1U) | 2:07 | 2022-10-28 | 2024-07-12 |
 | [Never Been In Love Before](https://open.spotify.com/track/64MZPwDiSG4udvwVf0b3ha) | [Harvey Scratch](https://open.spotify.com/artist/6GKglKnJTnDw3ZMhACD5fv), [Iamcloud](https://open.spotify.com/artist/6bzWspcEBMECSYiZ4ynQCK) | [All Shook Up Till Moonglow](https://open.spotify.com/album/34hJvhbpNEPjQFnwJWNX29) | 1:41 | 2022-07-29 | 2022-09-17 |
 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2022-01-27 | 2022-10-15 |
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-01-27 | 2023-05-20 |
@@ -1000,6 +1000,7 @@
 | [Reflections](https://open.spotify.com/track/567VmFClXWB2XCgMWEOo7P) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Reflections](https://open.spotify.com/album/0c126I36IURLUV2DNUv7Q5) | 2:51 | 2022-04-15 | 2022-10-29 |
 | [Regular Guy](https://open.spotify.com/track/0Qxfx9Sxa0TVy3p0j0lPha) | [Sir Peanut](https://open.spotify.com/artist/3HpvKoWXmM1S2eB4tKBtRF) | [Regular Guy](https://open.spotify.com/album/756SsPw88dp4o0LVN8L6ru) | 3:34 | 2022-01-27 | 2022-09-03 |
 | [Reincarnated Owl](https://open.spotify.com/track/6uj7771hHXo9ub148zgj0c) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Reincarnated Owl](https://open.spotify.com/album/5raw94hhzoBLq0iDaJj7D0) | 2:32 | 2022-01-27 | 2023-04-21 |
+| [Relaxin'](https://open.spotify.com/track/2N4F5dWQr2CYrcDRjpj1ee) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Relaxin'](https://open.spotify.com/album/681QQ5zebjpnMWMrdttUNl) | 2:03 | 2024-07-05 |  |
 | [Remember Us](https://open.spotify.com/track/7azNHjz8p1am7uQGVf0Qwh) | [Tojo McBee](https://open.spotify.com/artist/6EFSyrUYvhtp1vbYitZMh3) | [Remember Us](https://open.spotify.com/album/4aPbMJpheu9Zigz93qVD5H) | 2:17 | 2022-09-09 | 2024-06-07 |
 | [Remind](https://open.spotify.com/track/6Hy4lxMUAyqrwT2HN6eMR2) | [LightLeaf](https://open.spotify.com/artist/1mqXnFbfmhv905gJS1o8mw) | [Remind](https://open.spotify.com/album/2S0t1UL9DvRlmBdLehPoMw) | 2:32 | 2022-12-09 | 2023-10-06 |
 | [Rendez\-vous](https://open.spotify.com/track/6EgZUpZJofaM76rsbSniTX) | [Hentzup](https://open.spotify.com/artist/46lgw0sjtMASpdeuxkLfq0) | [Rendez\-vous](https://open.spotify.com/album/24BQOSqr6aO5jq0Nqb4H20) | 1:47 | 2022-04-22 | 2022-11-26 |
@@ -1206,6 +1207,7 @@
 | [Sway](https://open.spotify.com/track/3KpDwmhldQlg8javP9MdK2) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Sway](https://open.spotify.com/album/4syr2ON8NOyuQOuoxqwrfx) | 2:28 | 2022-01-27 | 2022-06-10 |
 | [Sweater Weather](https://open.spotify.com/track/1BPcsKuD9Ci3AJFLU1Lp7j) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Sweater Weather](https://open.spotify.com/album/4bwEsG9JD0bHUzX8TYzbhT) | 2:25 | 2022-01-27 | 2022-05-20 |
 | [Sweet Latte](https://open.spotify.com/track/2mmmxuadlt8vSRblNFcNo4) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Sweet Latte](https://open.spotify.com/album/2hXYJR2EedoZmAF10xmLlJ) | 2:23 | 2022-12-09 | 2023-10-06 |
+| [Sweet Mood](https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Sweet Mood](https://open.spotify.com/album/0w9aOvVx2RuvVWc3zHfna2) | 2:12 | 2024-07-05 |  |
 | [Sweet Morning](https://open.spotify.com/track/3sDROMtJXbaBbFag9akZLY) | [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Sweet Morning](https://open.spotify.com/album/4SzuMKqwnXnCuORNhqWuGO) | 2:40 | 2022-02-18 | 2022-10-15 |
 | [sweet talking](https://open.spotify.com/track/42PjDGWFTfsX2OA6L91oOI) | [Cloudsky](https://open.spotify.com/artist/6dtqfQLAJjTheAJD4V7Tw7) | [sweet talking](https://open.spotify.com/album/4INfio2l70PiYP2io6A8lp) | 3:04 | 2023-09-04 |  |
 | [Sweev](https://open.spotify.com/track/2l4PjGR8nSYiuttb6mo47K) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Sweev](https://open.spotify.com/album/1HOCEZCmzrrIhYuhB7rPef) | 2:18 | 2022-01-27 | 2022-05-20 |

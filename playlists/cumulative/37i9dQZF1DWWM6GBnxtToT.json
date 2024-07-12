@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 227207,
       "name": "All Because of You",
       "url": "https://open.spotify.com/track/2NArIqQMcyBNQkxlZY7esf"
@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Lost in Life",
+        "url": "https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265546,
+      "name": "Lost in Life",
+      "url": "https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4"
+    },
+    {
+      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/17iM8xirzqQOAm4w7zZd6D"
       },
@@ -2344,6 +2362,24 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "album": {
+        "name": "You Can't Put A Price On Fun",
+        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200449,
+      "name": "Price On Fun",
+      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
     },
     {
       "album": {
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-12",
       "duration_ms": 198575,
       "name": "Zeus",
       "url": "https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX"
