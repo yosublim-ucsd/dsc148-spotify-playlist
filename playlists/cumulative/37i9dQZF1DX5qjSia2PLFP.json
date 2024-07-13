@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:1t22AdiJ8P9eXOnoJ8xPJT\">YTB Fatt</a> ",
+  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:5qhDQveADDnjIZQ85AtgDM\">Star Bandz</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 134012,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/0VNw1hLu0iVvSd6EFqlzcQ"
@@ -1684,6 +1684,36 @@
       "duration_ms": 229656,
       "name": "BE ALRIGHT",
       "url": "https://open.spotify.com/track/1lDfPR2aVVh1cWZd83jL5L"
+    },
+    {
+      "album": {
+        "name": "Beckham",
+        "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
+      },
+      "artists": [
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Kai Swervo",
+          "url": "https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2"
+        },
+        {
+          "name": "KJ Swervo",
+          "url": "https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124931,
+      "name": "Beckham",
+      "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
     },
     {
       "album": {
@@ -2559,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "BROTHER",
+        "url": "https://open.spotify.com/album/7xtm4CRIYJHvnJ657iIu8S"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138960,
+      "name": "BROTHER",
+      "url": "https://open.spotify.com/track/27xFlKtzTMEOgqBDX7skYn"
+    },
+    {
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -2894,6 +2946,24 @@
       "duration_ms": 140675,
       "name": "CAN'T FOCUS",
       "url": "https://open.spotify.com/track/2PwmHncis3fKzJBXxUJmfk"
+    },
+    {
+      "album": {
+        "name": "Drugs n' Lullabies",
+        "url": "https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134845,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/3ve0jZkY2ZrFY4ycBCKKFt"
     },
     {
       "album": {
@@ -3234,7 +3304,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 115200,
       "name": "Chef Boy",
       "url": "https://open.spotify.com/track/5YqyUJKTlTYCC3zOQIlYqz"
@@ -4503,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "Did It First (with Central Cee)",
+        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "album": {
         "name": "GoodEvil",
         "url": "https://open.spotify.com/album/0INdS3yzG2eFDZwX44rzGE"
       },
@@ -5270,7 +5362,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 162764,
       "name": "Exes",
       "url": "https://open.spotify.com/track/4zUkoSQCwdHmidKyzXZXUV"
@@ -5364,7 +5456,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 139632,
       "name": "Fake Jammin",
       "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
@@ -5852,7 +5944,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140606,
       "name": "FLORIDA BABY",
       "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
@@ -6812,6 +6904,40 @@
       "duration_ms": 146261,
       "name": "GOLDMEMBERS",
       "url": "https://open.spotify.com/track/1SBOxKzO7BepxapwYn8kmV"
+    },
+    {
+      "album": {
+        "name": "TAKE 25",
+        "url": "https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp"
+      },
+      "artists": [
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        },
+        {
+          "name": "Teaawhy",
+          "url": "https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt"
+        },
+        {
+          "name": "Milly Mo",
+          "url": "https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u"
+        },
+        {
+          "name": "Jasscole",
+          "url": "https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6"
+        },
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161783,
+      "name": "GOOCHIE MAYNE",
+      "url": "https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76"
     },
     {
       "album": {
@@ -9319,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "Let my phone die",
+        "url": "https://open.spotify.com/album/19ArK7kEAQOwrkyba20LWk"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75711,
+      "name": "Let my phone die",
+      "url": "https://open.spotify.com/track/6xJzsh3Ww4axsGHhmRCVim"
+    },
+    {
+      "album": {
         "name": "Love Letters II",
         "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
       },
@@ -10246,7 +10390,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155675,
       "name": "Megan (feat. Blac Youngsta)",
       "url": "https://open.spotify.com/track/0ac9ySxOxKB3GaGm85qMKP"
@@ -12409,6 +12553,28 @@
     },
     {
       "album": {
+        "name": "PJ (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178359,
+      "name": "PJ (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
+    },
+    {
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -13052,7 +13218,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 153770,
       "name": "Private Room",
       "url": "https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV"
@@ -13252,6 +13418,24 @@
       "duration_ms": 115200,
       "name": "Rappin N Trappin",
       "url": "https://open.spotify.com/track/1nxoLeQx0GlJ3t7ZYZOVKM"
+    },
+    {
+      "album": {
+        "name": "RaRa",
+        "url": "https://open.spotify.com/album/6iMw4R8UyXcAIj8aCWPMPx"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "RaRa",
+      "url": "https://open.spotify.com/track/1kLYRXosVxfzYdvQrApT5F"
     },
     {
       "album": {
@@ -14868,7 +15052,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 108416,
       "name": "Sneaky Link",
       "url": "https://open.spotify.com/track/5zLrfRHMrtVNYvYQzX7tUK"

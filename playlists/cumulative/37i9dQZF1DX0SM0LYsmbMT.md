@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,177 songs - 6 day 15 hr 31 min
+4,179 songs - 6 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Cashew](https://open.spotify.com/track/4HzSpJS4lAh37vCV2pwQCm) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Cashew](https://open.spotify.com/album/3BEc8zu0BjzuRSAd3kTD8Z) | 1:55 | 2024-05-30 |  |
 | [Cashmere](https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Cashmere](https://open.spotify.com/album/1MtYJCV0I8jNyWabqS7t3M) | 2:23 | 2022-05-05 | 2023-04-21 |
 | [Cashmere Canopy](https://open.spotify.com/track/6CWZjq6bg4U9BrNwMgKkrP) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Canopy](https://open.spotify.com/album/0wbmXJtXiaTjgKd8SG6JK1) | 2:54 | 2021-03-27 | 2021-07-16 |
+| [Casual](https://open.spotify.com/track/1ZGln07TNTMLEtZ4XI97uG) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [moonrivver](https://open.spotify.com/artist/7yFa9rKIngFvDParfoi7en) | [Casual](https://open.spotify.com/album/5mB2RIetya0TBVF9iJX06L) | 3:04 | 2024-07-04 |  |
 | [Cat's in the Basket](https://open.spotify.com/track/5d8AKduMWmHxvubKr2JMFI) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu), [The Hidden](https://open.spotify.com/artist/04tAx7RyH6wL9gCnT9TuXH) | [Cat's in the Basket](https://open.spotify.com/album/758O1MKgCNlKW3UDYIKpJ3) | 2:21 | 2020-09-11 | 2021-02-16 |
 | [catch](https://open.spotify.com/track/2mmOpxB8bVO3MmLxMRNFuq) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [catch](https://open.spotify.com/album/51f02Usc3H5pp0dnk6ORZ2) | 2:51 | 2019-05-26\* | 2019-06-19 |
 | [Catch the Wind](https://open.spotify.com/track/6cUMztYsgtLDy11HjjxXru) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Catch the Wind](https://open.spotify.com/album/409xo8qXrU9EhBy1HUcH6f) | 2:53 | 2020-07-18 | 2021-02-01 |
@@ -790,7 +791,7 @@
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-10-01 | 2022-07-08 |
 | [Crimea](https://open.spotify.com/track/5VwXSBEgJMp4cd5TeWGeK9) | [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Crimea](https://open.spotify.com/album/5o4CyEZXkntl65XCR6PimT) | 2:46 | 2020-07-11 | 2020-09-11 |
 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
-| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 |  |
+| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 | 2024-07-13 |
 | [Crossing](https://open.spotify.com/track/7u9kOrf7JEHe2wwUPhPabi) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Crossing](https://open.spotify.com/album/3HhTOt70nt48DzGChnJZuY) | 1:50 | 2019-05-28 | 2019-09-17 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2021-05-21 | 2021-09-22 |
 | [Cruisin'](https://open.spotify.com/track/6bJdh8j8HbZV0WPu5FGAgb) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cruisin'](https://open.spotify.com/album/2tFq1aPNX5mo7zSKBfYs2p) | 2:06 | 2021-10-08 | 2023-02-24 |
@@ -2465,6 +2466,7 @@
 | [Night Clbs](https://open.spotify.com/track/7w1SKq3NgYyw9wE8l7E2cJ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Night Clbs / Sleep Till Noon](https://open.spotify.com/album/3VPTtPfVHhJwBzY1J1QuP2) | 2:27 | 2022-06-30 | 2022-11-20 |
 | [Night Clbs](https://open.spotify.com/track/2Y0ULwGcRks4FGYWChlOmi) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [In A Dream There Is No Frame](https://open.spotify.com/album/4ofQYajuoLEt09baUzU7t0) | 2:27 | 2022-11-17 | 2023-02-24 |
 | [Night Drive](https://open.spotify.com/track/0NsKGhJRgvk6aqewZl5L07) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Sea Slugs Vol\. 3](https://open.spotify.com/album/3SL8GAsbV9n12HCwHJWU34) | 2:10 | 2020-06-29 | 2021-03-26 |
+| [Night Driver](https://open.spotify.com/track/2MrMzdMeiQxLAAxtBLpzqr) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Night Driver](https://open.spotify.com/album/3eG5UNzYbiaNlbNMx66EsK) | 2:21 | 2024-07-04 |  |
 | [Night Games](https://open.spotify.com/track/4BAkFFj7SJBahmUydgQFQj) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Night Games](https://open.spotify.com/album/6yz9Ea5JVIPGRBmmJWDL0i) | 1:41 | 2023-04-06 | 2023-04-14 |
 | [Night Glow](https://open.spotify.com/track/5T4DXigQcFAVQloNzuYjU3) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Night Glow](https://open.spotify.com/album/5HKBl5kaxtxCAiDMATDvlT) | 2:10 | 2023-11-13 | 2024-06-01 |
 | [Night Island](https://open.spotify.com/track/0hVQ40kBXkxokQoG7OWYOD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Fireflies](https://open.spotify.com/album/4qiywgD3lFpQx7fcRxcJ3Q) | 2:00 | 2019-05-26\* | 2019-06-15 |
@@ -2647,7 +2649,7 @@
 | [oscarto](https://open.spotify.com/track/1CEEgJrmLuKDSm6pt7sXok) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 5](https://open.spotify.com/album/1jbN4bYY8ZX7FpkBn49FlG) | 1:36 | 2021-01-17 | 2021-03-14 |
 | [Osloer Straße \- Instrumental](https://open.spotify.com/track/3ESyOoe4nT5sEBGiKHOROZ) | [Galv](https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Shigeo \- Instrumentals](https://open.spotify.com/album/7sNPCxItzNTviUXCiGQymE) | 1:56 | 2019-08-10 | 2019-11-15 |
 | [othello](https://open.spotify.com/track/5cB5hyrP15gtkFp0JVeiNd) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [othello](https://open.spotify.com/album/6cV8TkMfuzCKFOOYkjIvhi) | 3:01 | 2020-04-24 | 2020-07-01 |
-| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 |  |
+| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 | 2024-07-13 |
 | [Our Little Dilemma](https://open.spotify.com/track/56hqH6z2CU6G8NbVvVXAb2) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Our Little Dilemma](https://open.spotify.com/album/1oG7Rrh028vORF4dYs0GRI) | 3:22 | 2021-03-14 | 2021-05-21 |
 | [Out for a Stroll](https://open.spotify.com/track/36Foss260ItalU4rLJhYks) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/0Y89JuEUKr68HwH9XDEmFA) | 3:42 | 2022-11-17 | 2022-12-24 |
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-16 | 2022-11-20 |

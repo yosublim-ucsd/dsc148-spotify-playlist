@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Karik
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,061 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,113 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e), [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb) | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M) | 4:51 |
-| 2 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 |
-| 3 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 |
+| 2 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 |
+| 3 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 |
 | 4 | [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 |
 | 5 | [Ổ Quỷ](https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD) | [DMT](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [summerdayy](https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt), [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch) | [Ổ Quỷ](https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2) | 2:58 |
 | 6 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
 | 50 | [Nhật Ký Vào Đời](https://open.spotify.com/track/1DkYLzjwHaesQYObT2c3X2) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Thai VG](https://open.spotify.com/artist/60866JeWZ2YP0iOF1obsqE) | [Nhật Ký Vào Đời](https://open.spotify.com/album/08zanqu0d9rwAhGixhN1Y3) | 4:02 |
 
-Snapshot ID: `Zo/xzAAAAADBUaoMz3zhUO4fOKJ38hnP`
+Snapshot ID: `ZpC40QAAAAC7ff3p/LRxEoxd6juvvJXK`

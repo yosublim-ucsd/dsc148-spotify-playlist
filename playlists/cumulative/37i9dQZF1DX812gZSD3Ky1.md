@@ -4,7 +4,7 @@
 
 > รวมเพลงสากลสุดฮิต และเพลงในกระแสตอนนี้\. The latest hits & viral tracks right now\. Cover: LISA
 
-119 songs - 6 hr 30 min
+120 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Slowly](https://open.spotify.com/track/1wc4ixv0CcqkKqbfhGX1Bo) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Slowly](https://open.spotify.com/album/5bOoybmZqlAplTwqiALhSj) | 3:43 | 2024-07-04 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2024-06-28 |  |
 | [SO RIGHT](https://open.spotify.com/track/7vIa0OBF8vdkGh2IL8lLxg) | [PENNY](https://open.spotify.com/artist/6mSWVj4UUz57gPQsTN426N) | [SO RIGHT](https://open.spotify.com/album/1WChRm1I6Y5JlEpwL51ao5) | 3:00 | 2024-07-11 |  |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-06-28 | 2024-07-05 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2024-06-28 |  |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 | 2024-06-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Vondr\u00e9 en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. The Warning en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "TRAUMADOS",
+        "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Ac\u00e1",
+      "url": "https://open.spotify.com/track/3f7lb7Y4YUaxQb8a0YP9Qr"
+    },
+    {
+      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
       },
@@ -338,6 +356,24 @@
       "duration_ms": 247431,
       "name": "Agua Santa",
       "url": "https://open.spotify.com/track/0arH8qrtmayVDnxuySM798"
+    },
+    {
+      "album": {
+        "name": "Al Borde del Infinito",
+        "url": "https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249413,
+      "name": "Al Borde del Infinito",
+      "url": "https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq"
     },
     {
       "album": {
@@ -414,6 +450,24 @@
       "duration_ms": 225000,
       "name": "Almas Rotas",
       "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
+    },
+    {
+      "album": {
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "album": {
@@ -830,7 +884,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195586,
       "name": "Buenas Noches",
       "url": "https://open.spotify.com/track/2LAOTPxQ3xrfuewC4g6Mwo"
@@ -888,7 +942,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 221831,
       "name": "Cabras",
       "url": "https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at"
@@ -1996,7 +2050,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181766,
       "name": "Diamante Roto",
       "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
@@ -2660,6 +2714,24 @@
       "duration_ms": 238232,
       "name": "Esa Estrella",
       "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+    },
+    {
+      "album": {
+        "name": "Esa Palabra",
+        "url": "https://open.spotify.com/album/1zEqCBj9ekkO4nt6DprDXC"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365260,
+      "name": "Esa Palabra",
+      "url": "https://open.spotify.com/track/5wkflnlId9hD0xpU84KKr6"
     },
     {
       "album": {
@@ -4058,6 +4130,24 @@
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
+    },
+    {
+      "album": {
+        "name": "Laberintos",
+        "url": "https://open.spotify.com/album/32IfqJrUNlSUhRvIb9CiHl"
+      },
+      "artists": [
+        {
+          "name": "BETA",
+          "url": "https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Laberintos",
+      "url": "https://open.spotify.com/track/1KAzKQ1pw02pgvgEyy7pld"
     },
     {
       "album": {
@@ -5520,7 +5610,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 197978,
       "name": "Nada que perder",
       "url": "https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV"
@@ -5698,6 +5788,24 @@
       "duration_ms": 153901,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG"
+    },
+    {
+      "album": {
+        "name": "NO KIERO KERER",
+        "url": "https://open.spotify.com/album/2EFOz9guTJP37KRNmqlMLr"
+      },
+      "artists": [
+        {
+          "name": "Mila La Morena",
+          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "NO KIERO KERER",
+      "url": "https://open.spotify.com/track/4lcdOZXYaFoNKgD0gNJxza"
     },
     {
       "album": {
@@ -5972,7 +6080,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 215346,
       "name": "Nuestros mundos no obedecen a tus mapas",
       "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
@@ -7380,7 +7488,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 190000,
       "name": "Su Lado De La Cama",
       "url": "https://open.spotify.com/track/5r53r4b1xm3sx9CwccXsCb"
@@ -7890,7 +7998,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 194853,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH"

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  The High Temples
 
-3,638 songs - 9 day 7 hr 14 min
+3,640 songs - 9 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1326,6 +1326,7 @@
 | [I Miss You](https://open.spotify.com/track/4MgvDQKH7YCopH5Uo0ovNL) | [Soraya Rasyid](https://open.spotify.com/artist/3vjZ56uY0w0Crv4YAb4J6M) | [I Miss You](https://open.spotify.com/album/78aKidWewUHFp8sgwjiUpX) | 3:17 | 2022-02-24 | 2022-03-11 |
 | [I Reach..\. The Park](https://open.spotify.com/track/5B0JgzTp7nHKw2h7NwJ66D) | [DARAMA](https://open.spotify.com/artist/7HMRD4YRV8SeFMuReeSlin) | [rsonal issues](https://open.spotify.com/album/38lyOqp1jLxc3aCipvSKXh) | 5:04 | 2022-10-13 | 2022-11-12 |
 | [I See Patterns](https://open.spotify.com/track/5Yqk5FTLVf7JYNeaIixZkO) | [8rook D](https://open.spotify.com/artist/7zMK0MTIETByxESanmjv3Z) | [I See Patterns](https://open.spotify.com/album/50cdxtz4Abpt2atCnMFDeB) | 4:08 | 2023-10-12 | 2023-11-03 |
+| [I Stop Eat Meat for You \(It's Alright\)](https://open.spotify.com/track/4FYLjnq0TiuPhz7NqGwdsW) | [FARRT!](https://open.spotify.com/artist/5vGM1Bkp6Y9MEfKWbQbDTq) | [I Stop Eat Meat for You \(It's Alright\)](https://open.spotify.com/album/4uE4R0EMjkRhJlEO0f4Zeh) | 2:41 | 2024-07-12 |  |
 | [I Swear That I'm Over You](https://open.spotify.com/track/5Hh25oGppvKi9JPBo7CE08) | [Anya Junor](https://open.spotify.com/artist/4b6I5G2d6MHBbzpJ7QfuaN) | [I Swear That I'm Over You](https://open.spotify.com/album/6weQR3pz2oYplpTIWBDsl8) | 3:22 | 2022-01-27 | 2022-02-11 |
 | [I Think I'm in Love With You](https://open.spotify.com/track/6XoxG4BO9dIhOBb8QMn5mV) | [Lula](https://open.spotify.com/artist/3Pae4Yku6Q4rViX6QkHsMI) | [Curhat Lula](https://open.spotify.com/album/2SSpylYXnejpidV8o7gLKh) | 3:27 | 2023-12-21 | 2024-01-26 |
 | [I wanna See You](https://open.spotify.com/track/0DoRfZ2oYQoa0UuXGnMRHJ) | [Cravings Band](https://open.spotify.com/artist/6Kj6k7bXntOr7zfHpUxyFB) | [I Wanna See You](https://open.spotify.com/album/2n8zwHM94kw9mKkhzYIidU) | 5:28 | 2022-03-04 | 2022-03-18 |
@@ -1442,6 +1443,7 @@
 | [Intertwined](https://open.spotify.com/track/4J09lWKPdStdS0IhTeBSmH) | [Samuel Dimas](https://open.spotify.com/artist/5wSaeo7B6uduhWKoIUxq8N) | [Intertwined](https://open.spotify.com/album/2KC11Jevps2xFC4ut5f1tI) | 3:49 | 2022-01-27 | 2022-02-11 |
 | [Inti Dunia](https://open.spotify.com/track/54uMJbdmBFl0oSnxMo476f) | [Mayarani Muaja](https://open.spotify.com/artist/5YmwsBaG2vU0Cj2J9s0Frf) | [Inti Dunia](https://open.spotify.com/album/39IPweIV3IlnBBPh9noLc8) | 3:56 | 2023-10-19 | 2023-11-10 |
 | [Into Nothingness](https://open.spotify.com/track/3ebcSLHh47TCkFR6RrFcz3) | [Brew Darrymore](https://open.spotify.com/artist/6f5acygx3BEKje8Ts83orP) | [Into Nothingness](https://open.spotify.com/album/5R3HqJ2HDrr4IZ2pTqKjVF) | 3:54 | 2022-02-03 | 2022-02-18 |
+| [Into The Nitro](https://open.spotify.com/track/6V45HsaKnm87O3pYAxDtLs) | [Nwm](https://open.spotify.com/artist/6XDlyeLSa3pKKuy7e6533O) | [Into The Nitro](https://open.spotify.com/album/5b3gYT9uQylPOvITlVUTcI) | 2:56 | 2024-07-12 |  |
 | [into you](https://open.spotify.com/track/2WLrBGcIPLt15oD5U5ZrqK) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5), [Popsickle](https://open.spotify.com/artist/3cR3YTiVngJTX0z7zXFeid) | [into you](https://open.spotify.com/album/3kAOFoLBAE5F6z5rRhPddF) | 3:06 | 2024-04-25 | 2024-05-14 |
 | [Into You](https://open.spotify.com/track/71cTnAExqcS3419xDU3Fpr) | [Dayua](https://open.spotify.com/artist/0NtgZeuiO8WyesqUK43PHI) | [Into You](https://open.spotify.com/album/26i8JH6oDIOtkh2Or1V18K) | 3:24 | 2023-10-12 | 2023-11-03 |
 | [Intro Dua \(Mantra\)](https://open.spotify.com/track/0JteOhUHdUzcQNwtCtCcMB) | [Gilang Andantino](https://open.spotify.com/artist/3kOZCYw7HyGFrJ5A64aOjU) | [Intro Dua \(Mantra\)](https://open.spotify.com/album/4M9i6voJAexK7eEwdNUhr2) | 1:43 | 2024-04-18 | 2024-06-01 |
@@ -1705,7 +1707,7 @@
 | [Ku Ada Untukmu](https://open.spotify.com/track/55Kg28FXbmbj7nvWcj4EOX) | [Fandi Ahmad Yani](https://open.spotify.com/artist/3GtX3J3Okx6rIrSEdObnlL) | [Ku Ada Untukmu](https://open.spotify.com/album/7bByUhscWOCba5Hg4axwu2) | 4:03 | 2022-09-01 | 2022-09-16 |
 | [Ku Harus Melepasmu](https://open.spotify.com/track/6SuadDL2t4I7xObgF9Z0tU) | [Yanto Lembeat](https://open.spotify.com/artist/1paUavEIIFze3GsrRV2Mce), [Sanny Saofit](https://open.spotify.com/artist/7oH3maliKKaZRZUET04Vsb) | [Ku Harus Melepasmu](https://open.spotify.com/album/5JkS4GOIuh6iUGDyOhPLXJ) | 5:06 | 2022-09-15 | 2022-09-30 |
 | [Ku Ingin](https://open.spotify.com/track/3gledMhkF460A8CEnNrPjo) | [Tasha Bouslama](https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e) | [Ku Ingin](https://open.spotify.com/album/4kyQlOlimcWaqrXzVPAt6e) | 3:18 | 2022-03-10 | 2022-03-25 |
-| [KU KIRA MIMPI \- Acoustic](https://open.spotify.com/track/1mM0TKMIRegJ5iPlnElRqD) | [Dodit Mulyanto](https://open.spotify.com/artist/36nP5stOdMeppSTe9iLuFr) | [KU KIRA MIMPI \(Acoustic\)](https://open.spotify.com/album/2iLl22MADEcl84tNIixuMm) | 3:49 | 2024-07-04 |  |
+| [KU KIRA MIMPI](https://open.spotify.com/track/1mM0TKMIRegJ5iPlnElRqD) | [Dodit Mulyanto](https://open.spotify.com/artist/36nP5stOdMeppSTe9iLuFr) | [KU KIRA MIMPI](https://open.spotify.com/album/2iLl22MADEcl84tNIixuMm) | 3:49 | 2024-07-04 |  |
 | [Ku Salah Kau Juga Salah](https://open.spotify.com/track/6V6NFKxsxmG8fLKbbSmonb) | [Ajil Ditto](https://open.spotify.com/artist/2vtCmMvb2FdI8GbBkgGDE1) | [Ku Salah Kau Juga Salah](https://open.spotify.com/album/15KDG4fcyqullX0KtYLxn9) | 3:57 | 2023-06-08 | 2023-06-23 |
 | [Ku Tak Menyangka](https://open.spotify.com/track/5Ho7tUESvvS5L2xTKZ6Bd5) | [PESTA CINTA](https://open.spotify.com/artist/2OuJenE6OneRqz3Aa52pBt) | [Ku Tak Menyangka](https://open.spotify.com/album/36gcrh9GGgsv37Ab7qzBzI) | 3:06 | 2023-09-07 | 2023-09-23 |
 | [Ku Tak Pernah Ada](https://open.spotify.com/track/3G16XDTPGVYr6OiSv0XQ3Q) | [Groovebox Story](https://open.spotify.com/artist/4bHOW2FNQ5JAEWBAQoVQB5), [Yana Julio](https://open.spotify.com/artist/1P5ZkOEU00s2RZrKiFRhAj) | [Demam Berdansa Volume 2](https://open.spotify.com/album/7cyJn8mnutCmmMKeyWcFip) | 4:10 | 2023-07-21 | 2023-08-04 |

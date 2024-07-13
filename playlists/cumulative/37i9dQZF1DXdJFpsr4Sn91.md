@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Katy Perry.
 
-111 songs - 5 hr 28 min
+112 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [huijarisyndrooma](https://open.spotify.com/track/31wZNsGk852WmwyZY5SC9O) | [dreamilla](https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj) | [huijarisyndrooma](https://open.spotify.com/album/3yEc6NNywLrzZHVYZI6TCH) | 2:55 | 2024-07-02 | 2024-07-12 |
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-04 |  |
 | [Häitä pidelly](https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Häitä pidelly](https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB) | 3:02 | 2024-07-02 |  |
+| [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 | 2024-07-12 |  |
 | [I Love U](https://open.spotify.com/track/3Ay9iQbe62f6AutBCNhTZ6) | [Karri Koira](https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5) | [Aina ja aina](https://open.spotify.com/album/1Dp8O7M1u6h3O5vjVfQvbd) | 2:55 | 2024-07-02 | 2024-07-12 |
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-07-02 |  |
 | [IBZ \(feat\. T Swoop & Nelli Orell\)](https://open.spotify.com/track/2DjLdWKFTuG6qqE6yTlKuj) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Nelli Orell](https://open.spotify.com/artist/1Buj43f2VREVfcmEsNBjVd) | [IBZ \(feat\. T Swoop & Nelli Orell\)](https://open.spotify.com/album/0Z6bOiJgEL0JaLlzOgezgd) | 2:30 | 2024-07-04 |  |
@@ -53,7 +54,7 @@
 | [Kaikki mun kaverit](https://open.spotify.com/track/7bqrkNjtpGJslg62RISG56) | [Monako](https://open.spotify.com/artist/4VIgevXul8tn6ygEcbS4PY) | [Kaikki mun kaverit](https://open.spotify.com/album/6Y8z5Ep3WJo5hB6lYLZOUA) | 2:18 | 2024-07-02 | 2024-07-12 |
 | [Kasvoin](https://open.spotify.com/track/7fHjXu2eybzXaA1tmXv0Zp) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kasvoin](https://open.spotify.com/album/1Rmkmzh3angPiQeDugCqJE) | 3:01 | 2024-07-02 | 2024-07-12 |
 | [Kerron sulle kaiken](https://open.spotify.com/track/0hKdhAM8Uvf1rAzbOFnG5h) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Kerron sulle kaiken](https://open.spotify.com/album/3nz9F7b8AhTLWMbtwyNKB1) | 2:53 | 2024-07-02 |  |
-| [Kertaakaan](https://open.spotify.com/track/0sShbPmnjtEv3Uf7Qt0rc0) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Kertaakaan](https://open.spotify.com/album/2s09JoTcTRY11KbaQid3RV) | 2:24 | 2024-07-02 |  |
+| [Kertaakaan](https://open.spotify.com/track/0sShbPmnjtEv3Uf7Qt0rc0) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Kertaakaan](https://open.spotify.com/album/2s09JoTcTRY11KbaQid3RV) | 2:24 | 2024-07-02 | 2024-07-13 |
 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 | 2024-07-11 |  |
 | [Krooninen suru \(feat\. SANNI\)](https://open.spotify.com/track/6fWGrpoT3WGEaTJau9Ch1c) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Krooninen suru \(feat\. SANNI\)](https://open.spotify.com/album/5IjDNeJd3ivtjeb64Qj6pM) | 3:25 | 2024-07-02 | 2024-07-12 |
 | [Kusipää](https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [<3](https://open.spotify.com/album/1XFTTD1GYqnF6WmTwKWMeo) | 2:48 | 2024-07-02 |  |

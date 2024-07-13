@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=-6c54oSKR9mHh41ok7g5RQ\">Rema</a>",
-  "num_followers": 93245,
+  "num_followers": 93367,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
       "duration_ms": 551579,
       "name": "Selimathunzi",
       "url": "https://open.spotify.com/track/2HiHffF7XArCZDDn5VNUGM"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -599,6 +619,26 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "Life of a Wallflower , Vol. 2",
+        "url": "https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 166158,
+      "name": "PLACE IN MY MIND (feat. shy martin)",
+      "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Tshaba Re Fete",
         "url": "https://open.spotify.com/album/3xPLsjwsqikOTZ9FcT6LWW"
       },
@@ -791,26 +831,6 @@
       "duration_ms": 248621,
       "name": "Ema o Tsamaye",
       "url": "https://open.spotify.com/track/4A9YA98jThi8IDppyaf1VS"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Home (Yard Edition)",
-        "url": "https://open.spotify.com/album/135PbNHsRKY5U4GS0gBvmM"
-      },
-      "artists": [
-        {
-          "name": "Tyson Sybateli",
-          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
-        },
-        {
-          "name": "Imani Basquiat",
-          "url": "https://open.spotify.com/artist/0BFt0fxpu1k96TEIeEd1xu"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Up To You",
-      "url": "https://open.spotify.com/track/2JLm7OPi9VHU0E8ouGGohg"
     },
     {
       "added_at": "2024-07-11 23:00:00",

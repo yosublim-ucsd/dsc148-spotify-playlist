@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 154239,
       "name": "Akhiyan",
       "url": "https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck"
@@ -17366,7 +17366,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -18708,7 +18708,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 190546,
       "name": "God Bless The U.S.A.",
       "url": "https://open.spotify.com/track/4pDU8T52yTGZutyDQd8qSF"
@@ -35364,7 +35364,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -35404,7 +35404,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
@@ -39556,6 +39556,24 @@
       "duration_ms": 315600,
       "name": "Porselen Kalbim",
       "url": "https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU"
+    },
+    {
+      "album": {
+        "name": "La Potra Salvaje",
+        "url": "https://open.spotify.com/album/1eEiGvO7DLAkBem15h0ZQl"
+      },
+      "artists": [
+        {
+          "name": "Isabel Aai\u00fan",
+          "url": "https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199624,
+      "name": "Potra Salvaje",
+      "url": "https://open.spotify.com/track/7ulBZOeFHaCeN2ubZxHxsg"
     },
     {
       "album": {

@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 163760,
       "name": "Ain't See It Coming (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 130276,
       "name": "FIREPLACE",
       "url": "https://open.spotify.com/track/3arByZj44wAkqH5P5PxsP8"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 144032,
       "name": "Just Say Det",
       "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 89616,
       "name": "Love It Here",
       "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 183318,
       "name": "Me Vs Me",
       "url": "https://open.spotify.com/track/1lUTmmPMAsxZBR2iK9CKDF"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188606,
       "name": "No Sucker (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139867,
+      "name": "PLAY DA FOOL",
+      "url": "https://open.spotify.com/track/2r2P4BdOx5thvw5lYR84t3"
+    },
+    {
+      "album": {
         "name": "PLAY DA FOOL",
         "url": "https://open.spotify.com/album/1MUIGef964rRIHwScAdq54"
       },
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 139867,
       "name": "PLAY DA FOOL",
       "url": "https://open.spotify.com/track/35ACwDtccFItn9THDDZ7dm"
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 120110,
       "name": "Rookie Of The Year",
       "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 146732,
       "name": "See Wat I\u2019m Sayin",
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 206520,
       "name": "Thuggin",
       "url": "https://open.spotify.com/track/2wsvtfmk3a0mM6aK8Z3xra"
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 186845,
       "name": "Where Ya Bih @",
       "url": "https://open.spotify.com/track/0p6sfWcC7BxC8Pj2DP8Vfr"

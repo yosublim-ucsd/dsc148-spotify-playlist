@@ -4,7 +4,7 @@
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-224 songs - 10 hr 55 min
+230 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [432 Hz \- Elegy of Echoes](https://open.spotify.com/track/6FCla4Um1nUCMIGPsvcsMW) | [Arnaut](https://open.spotify.com/artist/0U9aA1N7gWqV5g3lfqTrld) | [432 Hz \- Elegy of Echoes](https://open.spotify.com/album/4oVOBqLsjpEzCIjABS3AZZ) | 2:21 | 2023-09-21 |  |
 | [432 Hz \- Vanishing Memories](https://open.spotify.com/track/6ODs1PFFwyQtqPWvQTWi0h) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [432 Hz \- Vanishing Memories](https://open.spotify.com/album/58Qg67sPqhs3PtfCSdYVGM) | 2:21 | 2023-09-21 |  |
 | [432 Hz A Journey Within](https://open.spotify.com/track/3KBFl5r14HX70R1lAq9zNI) | [Profundum](https://open.spotify.com/artist/3vMoRqV2KfqX5kxbNhBrfN) | [432 Hz A Journey Within](https://open.spotify.com/album/1dinyPpyqxwIV7owAZuOXv) | 3:25 | 2024-05-11 |  |
+| [432 Hz Aligning](https://open.spotify.com/track/5reJiRJJZBJBcJmSzvnso5) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [432 Hz Aligning](https://open.spotify.com/album/01MM1CjXeu6yhi9riDd0ls) | 2:50 | 2024-07-13 |  |
 | [432 Hz Alignment](https://open.spotify.com/track/1c3evhN6l4JsFT3GJcEZld) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Alignment](https://open.spotify.com/album/2S9gDpu2R3KzxC7wSSUh66) | 2:40 | 2024-03-13 |  |
 | [432 Hz All One](https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs) | [Stella Oceans](https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x) | [432 Hz All One](https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV) | 2:43 | 2023-09-21 |  |
 | [432 Hz Binaural Frequencies](https://open.spotify.com/track/0aEyBnsbChVDTGM6qdgUHI) | [Boreal Embla](https://open.spotify.com/artist/2R9ql7GBVBCwpvtYCREfgB), [Dj Steven Mix](https://open.spotify.com/artist/3ML8Is1xzJ08A98Vznm83g), [Jirou Soller](https://open.spotify.com/artist/19HkzgJBevbcKzCjcADdlU), [Cameron Sinosa](https://open.spotify.com/artist/7825ZsA7M9rR01kcikvdba) | [432 Hz Binaurales The Frecuencias Alpha To Calm Anxiety](https://open.spotify.com/album/6kRn4fq2GTGP1XrCVs22JB) | 1:54 | 2023-02-07 | 2023-09-22 |
@@ -49,6 +50,7 @@
 | [432 Hz Healing Flow](https://open.spotify.com/track/6vccqfpDO2bwkRdyIQtE2V) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [432 Hz Healing Flow](https://open.spotify.com/album/3ooHtPsyVZAHRuLYM7E3zQ) | 2:25 | 2024-05-11 |  |
 | [432 Hz Healing Journey](https://open.spotify.com/track/1s2CP3x6Hl6KRIaZ6dYWus) | [Of Solace](https://open.spotify.com/artist/1g2J61qDeYfTmpbuw2qZ6V) | [432 Hz Healing Journey](https://open.spotify.com/album/238AsLnGGzAYTaE8QYcGZc) | 2:24 | 2023-11-18 |  |
 | [432 Hz Healing Journey](https://open.spotify.com/track/2p03PIgBzS4Ygx4Hy8FSfA) | [Poly Grace](https://open.spotify.com/artist/62duDvlRuV31hombOL4Tio) | [432 Hz Balance](https://open.spotify.com/album/5xJNlUFj0Oxw9kRuNWkt1N) | 2:57 | 2023-08-08 | 2023-10-21 |
+| [432 Hz Intuition](https://open.spotify.com/track/0vlzS4BQsZ0wi4Dn2kkIMb) | [Healing Touch](https://open.spotify.com/artist/3tSf7BvYRcSPRTsDDKmfVV) | [432 Hz Intuition](https://open.spotify.com/album/7flhupbGVeTf6K7dfPnAHI) | 2:52 | 2024-07-13 |  |
 | [432 Hz Lunarium](https://open.spotify.com/track/75f4ro1O7jhW6qnpd2nfA3) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [432 Hz Lunarium](https://open.spotify.com/album/4YrkXeTV28Xs8icpHnw1kU) | 2:29 | 2023-04-06 |  |
 | [432 Hz Manifestation](https://open.spotify.com/track/1ExBx6Btx2LgeHFXYlOLm6) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [432 Hz Manifestation](https://open.spotify.com/album/3Kzt8MbOjma6uNsFnjurrz) | 2:32 | 2024-03-13 |  |
 | [432 Hz Mindful Connections](https://open.spotify.com/track/5JGfiggV9w2BRq3MHsPFtm) | [Jaranda Mills](https://open.spotify.com/artist/6zH98FDJyjnXV38CgAApE0) | [432 Hz Mindful Connections](https://open.spotify.com/album/1No5ReF0DXIwBDcSoNopmr) | 2:38 | 2023-09-21 |  |
@@ -90,6 +92,8 @@
 | [Aephoris 432Hz](https://open.spotify.com/track/4qJHZujab4bvUNKJqhllby) | [Droneq](https://open.spotify.com/artist/190NqI0gt1k58C0bAwWkDH) | [Aephoris 432Hz](https://open.spotify.com/album/3fNp2IIAHermvjl3Cw4lXH) | 3:01 | 2023-02-21 |  |
 | [Agneris 432Hz](https://open.spotify.com/track/0Xwh7qBtvmJB2yYM5npd5j) | [Transcendent Solfeggio Frequencies](https://open.spotify.com/artist/4GUZWtXoW9tKcogKvdspjK) | [Agneris 432Hz](https://open.spotify.com/album/2356EU38MXjcXQHnYubsT1) | 3:19 | 2024-04-07 |  |
 | [All Love 432 Hz](https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX) | [Emeli Saga](https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj) | [All Love 432 Hz](https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa) | 3:07 | 2023-10-20 |  |
+| [Amanece 432Hz](https://open.spotify.com/track/1clUQJ4PDHAZSJCoRlxk8y) | [Nebula Stellaris](https://open.spotify.com/artist/4lycbupcWv7zJ4DNIWeK9o) | [Amanece 432Hz](https://open.spotify.com/album/0t0zEDBXMMsmCUdK1obFxd) | 2:19 | 2024-07-13 |  |
+| [Amaral \(432 Hz\)](https://open.spotify.com/track/5gTeG5w5yi6O5RisBsrGbG) | [Solfeggio Verdi](https://open.spotify.com/artist/0vI1CD156Rnzc4zyit5gNI) | [Amaral \(432 Hz\)](https://open.spotify.com/album/0K2HTwPznCqC5U0Ml2j6Hy) | 2:15 | 2024-07-13 |  |
 | [Ambiently](https://open.spotify.com/track/5IdKmLCmklVf1OJZj7GeTv) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Ambiently](https://open.spotify.com/album/0bg4oMhnJQftTCXYTSwapH) | 2:40 | 2023-11-18 |  |
 | [Ante Meridiem \(432hz\)](https://open.spotify.com/track/7L20Kr6F8VnBMowigEQ1DH) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ante Meridiem \(432hz\)](https://open.spotify.com/album/2rSp0SgoVF37nfDHWgeonw) | 3:30 | 2023-02-07 |  |
 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 | 2023-02-07 |  |
@@ -154,6 +158,7 @@
 | [Healing Bouzouki in 432hz \(Firas Limitless\)](https://open.spotify.com/track/5SqM9dLILSs848jOm8HnSf) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Bouzouki](https://open.spotify.com/album/54eMTpToT5wOZs1h932ggC) | 3:45 | 2023-02-07 | 2023-08-09 |
 | [Healing Reload 432](https://open.spotify.com/track/2QsGlYUKkNKqk28WFJdsxu) | [Space Atmosphere](https://open.spotify.com/artist/47O0c8NGKMDfG8JABCKAHA) | [Space Atmosphere](https://open.spotify.com/album/7sGAr9skCSm1MzhTlHQYPu) | 2:09 | 2023-02-07 |  |
 | [Heim](https://open.spotify.com/track/6sMmwXXRgv4asxC3KOCvyb) | [Sundale](https://open.spotify.com/artist/3LFFYvQWGZPeQPOJcqKXfi) | [Heim](https://open.spotify.com/album/13cRFUIMowisct3osznPYL) | 2:44 | 2023-02-07 |  |
+| [Hidden Headspace 432 Hz](https://open.spotify.com/track/5Jiotd293ZDPUKEunYXH4J) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Hidden Headspace 432 Hz](https://open.spotify.com/album/7Ln8iEjo4FRdr2Tc2yAG1C) | 4:08 | 2024-07-13 |  |
 | [Horizon 432 Hz](https://open.spotify.com/track/1Bx7lYFiELwI8z2jQOTfwm) | [Arina Ferora](https://open.spotify.com/artist/2tfYLaE1d6o1E8pEJ7VFWx) | [Horizon 432 Hz](https://open.spotify.com/album/0My8VVHdidIu0Ad5ZO6QQf) | 3:11 | 2023-03-10 |  |
 | [Illusiva \(432 Hz\)](https://open.spotify.com/track/7qJyARud66M4fw0bNmkdNq) | [Spiritualista](https://open.spotify.com/artist/72Zcai2FsmoM3LYK1C2nSW) | [Illusiva](https://open.spotify.com/album/5X1C2vrE9AF0UeJ9Sjy9Li) | 3:17 | 2023-10-20 |  |
 | [Imagination Is Reality 432 Hz](https://open.spotify.com/track/1tfQoIvWTEkF0rQMDZea6I) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Imagination Is Reality 432 Hz](https://open.spotify.com/album/0Eh02Y8H5xvPy76v6ASSuY) | 2:36 | 2024-03-13 |  |
@@ -202,6 +207,7 @@
 | [Remend \(432 Hz\)](https://open.spotify.com/track/3vBUiddLohHOXs5Pgokeh0) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Remend](https://open.spotify.com/album/0Qk3Dm6L90ZAbdEurz2Dd9) | 2:32 | 2023-10-20 |  |
 | [Restful ambitions 432Hz](https://open.spotify.com/track/4YhXdUS0jr6oDM2Qd9j3oe) | [Introspective Release](https://open.spotify.com/artist/0lOSiJ1BplaLxVIEEw3CHS) | [Restful ambitions 432Hz](https://open.spotify.com/album/3z5GKYmaiQdZCzeypaNp2z) | 3:13 | 2024-06-11 |  |
 | [Sacred Space 432](https://open.spotify.com/track/4mBeebqJQqV6A2sy1HSH5u) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [Sacred Space 432](https://open.spotify.com/album/4VBwFCNqCPDsW8GMpGa2z2) | 3:03 | 2024-05-11 |  |
+| [Sage 432Hz](https://open.spotify.com/track/3mGB0VJRVVswnJHSM1q1iT) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Sage 432Hz](https://open.spotify.com/album/3JKRlE07Zcr0dJLAo5Bv0C) | 3:45 | 2024-07-13 |  |
 | [Schumann 432\-2 Navel Chakra](https://open.spotify.com/track/1DjJxoHz4NUf3nIa5YFFce) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:51 | 2023-02-07 | 2023-08-09 |
 | [Serenar 432Hz](https://open.spotify.com/track/4Hvdi4QNs38jM1IrUUqN0S) | [Zentral Ohm](https://open.spotify.com/artist/2SbQanHRO3T4EmcJQlCNtx) | [Serenar 432Hz](https://open.spotify.com/album/1lk14BfhAbUh9SHt9Jbthd) | 2:21 | 2023-10-20 |  |
 | [settledown](https://open.spotify.com/track/3BI9RpTqlOwDWtd07DwwTG) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [eight gates](https://open.spotify.com/album/4Am2qvDvSMGEsezSLsUH0z) | 2:43 | 2023-02-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Fresh eclectic. Post-genre. Exceptional taste. Cover: Koteri",
-  "num_followers": 5634,
+  "num_followers": 5637,
   "original_name": "The Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocpcAAAAABMG+TdpI2usgN2EMgDZHMX",
+  "snapshot_id": "ZpEfaQAAAAA0k/YebOQ2KwL5cyzrwzNZ",
   "tracks": [
     {
       "added_at": "2024-07-04 23:00:00",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio"
     },
     {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "U R MINE",
+        "url": "https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 191286,
+      "name": "U R MINE",
+      "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
+    },
+    {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "2000SEVEN",
+        "url": "https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 161352,
+      "name": "2000SEVEN",
+      "url": "https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy"
+    },
+    {
       "added_at": "2024-07-04 23:00:00",
       "album": {
         "name": "My Drummer's Girlfriend",
@@ -39,6 +71,38 @@
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
+    },
+    {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 185807,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU"
+    },
+    {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "Chicago Town",
+        "url": "https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "Chicago Town",
+      "url": "https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H"
     },
     {
       "added_at": "2024-07-04 23:00:00",
@@ -233,6 +297,22 @@
       "url": "https://open.spotify.com/track/0SX90JLFjxFTO14ddNxAIt"
     },
     {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/5ojVfImklN3RVee7mcyESd"
+      },
+      "artists": [
+        {
+          "name": "lando!",
+          "url": "https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p"
+        }
+      ],
+      "duration_ms": 154225,
+      "name": "home",
+      "url": "https://open.spotify.com/track/1RvrMWzTqXAoWbLzOYzFPI"
+    },
+    {
       "added_at": "2024-07-04 23:00:00",
       "album": {
         "name": "Not Real People",
@@ -285,6 +365,22 @@
       "url": "https://open.spotify.com/track/5nnhETVQeAoJEnGJDuB6fC"
     },
     {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
       "added_at": "2024-07-04 23:00:00",
       "album": {
         "name": "Let Go",
@@ -319,6 +415,22 @@
       "duration_ms": 180068,
       "name": "afraid",
       "url": "https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs"
+    },
+    {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/4u4mLQ5FDOc77xCvFtCNXk"
+      },
+      "artists": [
+        {
+          "name": "BAD WITH PHONES",
+          "url": "https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC"
+        }
+      ],
+      "duration_ms": 181199,
+      "name": "devils",
+      "url": "https://open.spotify.com/track/2CjTQ2Nn30GEoqHkWOYBFh"
     },
     {
       "added_at": "2024-07-04 23:00:00",
@@ -437,6 +549,22 @@
       "url": "https://open.spotify.com/track/2kaOCp1THEcL48ws2I7fOo"
     },
     {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "Until We Die",
+        "url": "https://open.spotify.com/album/7AgZKzPHsUD8JjCmZ67BTR"
+      },
+      "artists": [
+        {
+          "name": "Florence Rose",
+          "url": "https://open.spotify.com/artist/63ZyqesWEYQfpkL12NFwre"
+        }
+      ],
+      "duration_ms": 211109,
+      "name": "Until We Die",
+      "url": "https://open.spotify.com/track/4FzJV7bTCroPmjkpQ6EzMR"
+    },
+    {
       "added_at": "2024-07-04 23:00:00",
       "album": {
         "name": "Dream With You",
@@ -499,6 +627,22 @@
       "duration_ms": 170669,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/2L3r1QpMZyJuZCZXzpY1JW"
+    },
+    {
+      "added_at": "2024-07-12 12:19:53",
+      "album": {
+        "name": "New Wave Vaudeville",
+        "url": "https://open.spotify.com/album/3KYIm4veS7Ctwk1jakXngk"
+      },
+      "artists": [
+        {
+          "name": "Skinner",
+          "url": "https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ"
+        }
+      ],
+      "duration_ms": 216901,
+      "name": "New Wave Vaudeville",
+      "url": "https://open.spotify.com/track/1Ia1tYCoWWZOJ2wCOB9n9E"
     },
     {
       "added_at": "2024-07-04 23:00:00",
@@ -1259,70 +1403,6 @@
       "duration_ms": 176170,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4xhNbxWDS9S7LImX18oai3"
-    },
-    {
-      "added_at": "2024-07-04 23:00:00",
-      "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/6pWLW9FyisHf9H5bEYtaq9"
-      },
-      "artists": [
-        {
-          "name": "YXUNGTARZAAN",
-          "url": "https://open.spotify.com/artist/3GmCKqbtFV0PPRbQV3QfKb"
-        }
-      ],
-      "duration_ms": 160754,
-      "name": "Life Is Beautiful",
-      "url": "https://open.spotify.com/track/5ewEVlYzIYW1Jpc6jVntJP"
-    },
-    {
-      "added_at": "2024-07-04 23:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6Cmpsdprlh6oV7QaJhUmrf"
-      },
-      "artists": [
-        {
-          "name": "Raelle",
-          "url": "https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc"
-        }
-      ],
-      "duration_ms": 218859,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6UHBnRZhTedWSM3xiQM56F"
-    },
-    {
-      "added_at": "2024-07-04 23:00:00",
-      "album": {
-        "name": "All Black Everything",
-        "url": "https://open.spotify.com/album/2ew7u07SEK1elZMVAddYyK"
-      },
-      "artists": [
-        {
-          "name": "Amy Gadiaga",
-          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Soar When I'm Alone",
-      "url": "https://open.spotify.com/track/1weYM28rRNsMuT69FFqPxJ"
-    },
-    {
-      "added_at": "2024-07-04 23:00:00",
-      "album": {
-        "name": "Loveshot",
-        "url": "https://open.spotify.com/album/353B0DAK3urgl8sEs76adF"
-      },
-      "artists": [
-        {
-          "name": "Gia Ford",
-          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Loveshot",
-      "url": "https://open.spotify.com/track/5LlIOvFJZCrEE8EyzY3Mnv"
     }
   ],
   "unique_name": "The Basement",

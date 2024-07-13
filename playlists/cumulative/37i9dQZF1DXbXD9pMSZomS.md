@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-258 songs - 21 hr 3 min
+259 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Kindness](https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [LTDBLBL008](https://open.spotify.com/album/3qPngaI3gHhdep7JeGVEsY) | 6:36 | 2021-12-17 | 2022-10-21 |
 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 | 2021-12-17 |  |
 | [Kokiri Forest](https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Mind's Eye](https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1) | 6:21 | 2021-12-17 | 2024-06-19 |
-| [Lies \- DJ Ross' Friendly Remix](https://open.spotify.com/track/5EH8ZhirwYoNHfDjQNXHC0) | [Temptress](https://open.spotify.com/artist/5I39KEsxUpLOVrWe1IYToI), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Lies \(DJ Ross' Friendly Remix\)](https://open.spotify.com/album/7H9Lis82mKKJGhRuFG9S1R) | 7:18 | 2024-05-10 |  |
+| [Lies \- DJ Ross' Friendly Remix](https://open.spotify.com/track/5EH8ZhirwYoNHfDjQNXHC0) | [Temptress](https://open.spotify.com/artist/5I39KEsxUpLOVrWe1IYToI), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Lies \(DJ Ross' Friendly Remix\)](https://open.spotify.com/album/7H9Lis82mKKJGhRuFG9S1R) | 7:18 | 2024-05-10 | 2024-07-13 |
 | [Locked in](https://open.spotify.com/track/0ES9JKpTteqkukxy1EAk44) | [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [Forcefield](https://open.spotify.com/album/1g2xaqdp2BU3iM3mN7F0zT) | 6:36 | 2022-03-25 | 2022-04-20 |
 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 | 2021-12-17 |  |
 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 | 2022-04-22 |  |
@@ -196,6 +196,7 @@
 | [Raw Cuts](https://open.spotify.com/track/4EREliOTaWHIrM7H1y9j0o) | [Dave Dashur](https://open.spotify.com/artist/2nXLmBDkeyD6aHCtdh8MHn) | [Raw Cuts](https://open.spotify.com/album/1L1vKtDOo3quuArwtcVDst) | 4:24 | 2023-06-09 | 2023-07-15 |
 | [Restless](https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Restless](https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61) | 3:34 | 2021-12-17 |  |
 | [Right Now](https://open.spotify.com/track/5xc5zqywjr1aesPBSkBdSB) | [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT) | [Right Now](https://open.spotify.com/album/3YOjw88VPz6SqnwMEnir3o) | 6:18 | 2022-12-29 | 2023-01-06 |
+| [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-07-12 |  |
 | [Ritz Carlton](https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6) | [goodmood](https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU) | [times](https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6) | 5:12 | 2022-08-12 | 2022-10-14 |
 | [Saw You for the First Time](https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5P6H4kEva65eEr6pMJEqoJ) | 6:44 | 2021-12-17 | 2022-07-29 |
 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 | 2022-07-01 | 2022-08-13 |

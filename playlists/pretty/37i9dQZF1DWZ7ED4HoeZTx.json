@@ -1,6 +1,6 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 126618,
+  "num_followers": 126642,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-10 16:28:22",
       "album": {
-        "name": "Ghibli, Anime & Chill",
-        "url": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Tom",
-          "url": "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
-        }
-      ],
-      "duration_ms": 91725,
-      "name": "The Girl Who Fell From The Sky (Laputa)",
-      "url": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX"
-    },
-    {
-      "added_at": "2024-07-10 16:28:22",
-      "album": {
         "name": "give it back",
         "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 212476,
       "name": "give it back",
       "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
+    },
+    {
+      "added_at": "2024-07-10 16:28:22",
+      "album": {
+        "name": "Ghibli, Anime & Chill",
+        "url": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Tom",
+          "url": "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
+        }
+      ],
+      "duration_ms": 91725,
+      "name": "The Girl Who Fell From The Sky (Laputa)",
+      "url": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX"
     }
   ],
   "unique_name": "Slice of Life ",

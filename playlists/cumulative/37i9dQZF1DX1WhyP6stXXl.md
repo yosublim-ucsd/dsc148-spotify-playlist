@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Dasha
 
-136 songs - 6 hr 47 min
+137 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-28 | 2024-07-12 |
 | [Flight Mode](https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Flight Mode](https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo) | 2:30 | 2024-06-28 |  |
 | [flip phone](https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [flip phone](https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww) | 2:04 | 2024-06-28 | 2024-07-05 |
+| [Fly Me to the Moon](https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Fly Me to the Moon](https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY) | 3:11 | 2024-07-12 |  |
 | [Found You First](https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Found You First](https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk) | 2:43 | 2024-06-28 | 2024-07-12 |
 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-11 |  |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-28 | 2024-07-05 |
@@ -118,7 +119,7 @@
 | [Sleep Alone](https://open.spotify.com/track/27YJuELVY3sguJMXcRGd4z) | [Iggi Kelly](https://open.spotify.com/artist/4SrQdK7LahnrRiz1g10kNN) | [Sleep Alone](https://open.spotify.com/album/4TYw0zXoPTmdAxlVEA4RuB) | 2:45 | 2024-06-28 | 2024-07-12 |
 | [Sleeping Beauty](https://open.spotify.com/track/79an4G4vt5HGGajCOOlsZ7) | [Vic Lawrence](https://open.spotify.com/artist/6wVQG36cXMLmutWIOtFicH) | [Sleeping Beauty](https://open.spotify.com/album/0vCkCfiXkdDZgrtSQ9Cksz) | 2:28 | 2024-06-28 |  |
 | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8) | 2:48 | 2024-07-11 |  |
-| [Solitude](https://open.spotify.com/track/534LueCImkuvFriDEIxUiS) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:33 | 2024-06-28 |  |
+| [Solitude](https://open.spotify.com/track/534LueCImkuvFriDEIxUiS) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:33 | 2024-06-28 | 2024-07-13 |
 | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/album/3azyEFtI48wqFlyWHG2Oxe) | 2:37 | 2024-06-28 |  |
 | [SOS](https://open.spotify.com/track/22DSCKjZZ09r4YXdKoNUt6) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [SOS](https://open.spotify.com/album/2FUwlfA8qyWRCev8IeHA1M) | 3:51 | 2024-07-04 |  |
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-07-11 |  |

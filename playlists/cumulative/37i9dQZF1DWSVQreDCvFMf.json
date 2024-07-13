@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 252447,
       "name": "A Tale of Us",
       "url": "https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O"
@@ -149,6 +149,46 @@
     },
     {
       "album": {
+        "name": "Back Home To You",
+        "url": "https://open.spotify.com/album/4BQVamFj786ljykHSBrzog"
+      },
+      "artists": [
+        {
+          "name": "Cliff",
+          "url": "https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223711,
+      "name": "Back Home To You",
+      "url": "https://open.spotify.com/track/7HintleCrmra9Ag5rnMYXJ"
+    },
+    {
+      "album": {
+        "name": "Balang Araw Ay Mapapangiti ft. Zel Bautista of December Avenue",
+        "url": "https://open.spotify.com/album/5tD4jcjwjq9p9OmI7ZPHYt"
+      },
+      "artists": [
+        {
+          "name": "Gracenote",
+          "url": "https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs"
+        },
+        {
+          "name": "Zel Bautista",
+          "url": "https://open.spotify.com/artist/2ezIzAs7jVe4YXTXtdMirw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262191,
+      "name": "Balang Araw Ay Mapapangiti ft. Zel Bautista of December Avenue",
+      "url": "https://open.spotify.com/track/6JDitV6kw2qY4RSYiFDNG2"
+    },
+    {
+      "album": {
         "name": "Believing in Magic (Yakap Mo)",
         "url": "https://open.spotify.com/album/1Pz3Matosr3B72myICukGB"
       },
@@ -182,6 +222,24 @@
       "duration_ms": 173877,
       "name": "Biglaan",
       "url": "https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr"
+    },
+    {
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175461,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
     },
     {
       "album": {
@@ -250,7 +308,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 205217,
       "name": "Delikado, Baby",
       "url": "https://open.spotify.com/track/6q3NuCI1HTpMtSKbNbshne"
@@ -406,7 +464,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 233981,
       "name": "Hanggang Kailan",
       "url": "https://open.spotify.com/track/2i1TTUWdQlntOpxMZKVzf9"
@@ -442,7 +500,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 296389,
       "name": "Hirana",
       "url": "https://open.spotify.com/track/6mOhNJfrKXWD5SnrqPwR6o"
@@ -630,6 +688,24 @@
       "duration_ms": 258048,
       "name": "Langit",
       "url": "https://open.spotify.com/track/0mwJVnMPx7dUODRpBfFLzi"
+    },
+    {
+      "album": {
+        "name": "Lia",
+        "url": "https://open.spotify.com/album/4gptphn7spep2ULaykVZLp"
+      },
+      "artists": [
+        {
+          "name": "Zild",
+          "url": "https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260191,
+      "name": "Lia",
+      "url": "https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL"
     },
     {
       "album": {
@@ -880,7 +956,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168102,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
@@ -1126,10 +1202,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 213928,
       "name": "Pramis",
       "url": "https://open.spotify.com/track/7hYIVov3HlUYABCA0Jafms"
+    },
+    {
+      "album": {
+        "name": "prinsesa",
+        "url": "https://open.spotify.com/album/4dKvGzZY4pHryHIuY5dm4W"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241785,
+      "name": "prinsesa",
+      "url": "https://open.spotify.com/track/6N7A3JFbsVOUcfiT6ltjrq"
     },
     {
       "album": {
@@ -1224,6 +1318,24 @@
       "duration_ms": 230218,
       "name": "Salamin, Salamin",
       "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
+    },
+    {
+      "album": {
+        "name": "Salbabida",
+        "url": "https://open.spotify.com/album/5nUfEKEPFZMYIuDdTuDZwu"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250989,
+      "name": "Salbabida",
+      "url": "https://open.spotify.com/track/1VpidxmlCDlPGd17KffCEA"
     },
     {
       "album": {
@@ -1366,6 +1478,24 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+    },
+    {
+      "album": {
+        "name": "sirens",
+        "url": "https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200675,
+      "name": "sirens",
+      "url": "https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus"
     },
     {
       "album": {
@@ -1608,7 +1738,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 203096,
       "name": "Umayos Ka",
       "url": "https://open.spotify.com/track/7gOF9CLCcGiEeqXx8VXkjM"

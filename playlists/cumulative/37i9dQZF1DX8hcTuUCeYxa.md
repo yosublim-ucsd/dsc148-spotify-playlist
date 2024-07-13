@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Teenage Dads
 
-139 songs - 7 hr 50 min
+140 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Clowns](https://open.spotify.com/track/2qriAfYue7vvOFMbYFuXeP) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Clowns](https://open.spotify.com/album/0gkagop6jGGaHHBIJv6F1a) | 2:50 | 2024-06-28 | 2024-07-12 |
 | [Crush](https://open.spotify.com/track/1lFGCxQfyfgCRvdOZ0kyft) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Blue Skies Motel](https://open.spotify.com/album/5iI2whl1ujFd9PoxRuH4qC) | 2:43 | 2024-07-04 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 |  |
+| [Dancing Alone](https://open.spotify.com/track/7Fpl4ofpbd3Q8rAZDL9ZPO) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Dancing Alone](https://open.spotify.com/album/7myJycpKkQVg2hvgzkQKE7) | 2:38 | 2024-07-11 |  |
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-28 | 2024-07-12 |
 | [did it ever cross your mind](https://open.spotify.com/track/10gJK5a0BKQkmhKwQHWqB4) | [Major Luna](https://open.spotify.com/artist/1BFrDhASjfxQ5dbPWWg3Yu) | [did it ever cross your mind](https://open.spotify.com/album/42ClicXDmnb7E6lnoePYlh) | 5:11 | 2024-07-04 |  |
 | [dinner with a view](https://open.spotify.com/track/5xkm8HuvOan7ZY5fx2Op2V) | [Liam Taylor](https://open.spotify.com/artist/6YEyAmHO1qf4rerzgccrKF) | [dinner with a view](https://open.spotify.com/album/3tNyJZnDrKeOqD4EZn9LB1) | 2:55 | 2024-06-28 | 2024-07-12 |

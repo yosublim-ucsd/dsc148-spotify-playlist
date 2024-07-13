@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-181 songs - 10 hr 47 min
+185 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 | 2021-11-19 |  |
 | [Bastille: The Piano Tribute Medley](https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20) | [Costantino Carrara](https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX) | [Bastille: The Piano Tribute Medley](https://open.spotify.com/album/3sCEvqtJngunwfa5yZHGhi) | 5:31 | 2021-11-19 |  |
 | [Bastille: The Piano Tribute Medley](https://open.spotify.com/track/7LVIdIAod9vKTGui5KU60K) | [Costantino Carrara](https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX) | [Bastille: The Piano Tribute Medley](https://open.spotify.com/album/2MhY3eaXyskSe0CpHl4kOw) | 5:31 | 2022-07-08 | 2024-04-19 |
+| [Beautiful Things](https://open.spotify.com/track/2fTya04xwYup1vuifj78QQ) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Beautiful Things](https://open.spotify.com/album/1V3gCiEbqAtOgvXqwHcRbK) | 3:00 | 2024-07-12 |  |
 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-02-18 |  |
 | [Believer](https://open.spotify.com/track/6Vnejeh0h9zCY0qrLAxKal) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Believer](https://open.spotify.com/album/0WC1s9ctdfec7tGbp2fuCN) | 3:40 | 2021-11-19 |  |
 | [Better Days](https://open.spotify.com/track/4yw5GYrOrrJ53yfYuxSCOz) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Better Days](https://open.spotify.com/album/29OyLTZAtJ1URhQlHPDELU) | 4:02 | 2021-11-19 |  |
@@ -36,6 +37,7 @@
 | [Bloodstream \- Acoustic Version](https://open.spotify.com/track/6RvQoBITPQHjx7MKCG3ya3) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Billy Watman](https://open.spotify.com/artist/5npqfvzYEvgXzVzdLYPskb) | [Bloodstream \(Acoustic Version\)](https://open.spotify.com/album/0a5HUKkzFXx0G1K4DOLKs5) | 3:12 | 2021-11-19 |  |
 | [Break My Heart \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1dTjB9y2xJke2FwVCCVEwa) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Break My Heart \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/1jUuXQfOc3JjZrsEidfGOH) | 3:35 | 2021-11-19 |  |
 | [Butter](https://open.spotify.com/track/535WnJgwiRvQ7uig5fbr7C) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 1](https://open.spotify.com/album/6La6D0hm5BAJt7Ce6OOoFr) | 2:45 | 2021-11-19 | 2023-09-30 |
+| [Call Out My Name](https://open.spotify.com/track/4VryBfNbjZ1Wjx6WafYw2B) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs The Weeknd, Vol\. 2](https://open.spotify.com/album/4Vlnko5pUaUW0pTOB44eng) | 3:49 | 2024-07-12 |  |
 | [Chandelier](https://open.spotify.com/track/5A51C7Ank2IRW0TmhYkeoK) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 3:35 | 2021-11-19 | 2023-09-30 |
 | [Chasing Cars](https://open.spotify.com/track/0QVVV1dbJybtFEDwWndsxC) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/0pJfpfWc8YB4HXg89wmMA3) | 3:22 | 2022-10-07 | 2024-04-19 |
 | [Chasing Cars](https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/2LoVzdkeY8B3oSbgS7Xmpq) | 3:22 | 2021-11-19 |  |
@@ -161,6 +163,7 @@
 | [Sweet Dream are Made of This](https://open.spotify.com/track/3IoqMnXkCRPWcEGr0C5S9e) | [The Hampton String Quartet](https://open.spotify.com/artist/6znv7r79kszSnESrTp05nc) | [Take No Prisoners](https://open.spotify.com/album/1P5EHnwDFWD1dH1cl5JxI1) | 4:06 | 2021-11-19 |  |
 | [Take Me to Church](https://open.spotify.com/track/3hWJYwHivHN8TTNS4AAaCO) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Volume 2](https://open.spotify.com/album/4zXRI1N7np71w5xqGmP0on) | 4:10 | 2022-07-08 | 2024-04-19 |
 | [Take Me to Church](https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Volume 2](https://open.spotify.com/album/1OruJmAvXK5Pa3BawvswSJ) | 4:10 | 2021-11-19 |  |
+| [Teardrop](https://open.spotify.com/track/1ammM5JONGbcVDXpuSWgSx) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 4:30 | 2024-07-12 |  |
 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 | 2021-11-19 |  |
 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 | 2021-11-19 |  |
 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-19 |  |
@@ -185,6 +188,7 @@
 | [When You're Gone](https://open.spotify.com/track/3lIwgE7hC7X6kbRH3zKYsv) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [When You're Gone](https://open.spotify.com/album/1hsrPDPkjpeHlI6Tf5tALg) | 3:00 | 2022-08-05 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/06gXdKwutegGzRSKX4lOa4) | [Asphalt Orchestra](https://open.spotify.com/artist/3j5J0E4sG4HOzPasFjB51f) | [Asphalt Orchestra Plays Pixies: Surfer Rosa](https://open.spotify.com/album/0WReoZTH1Tsrf6uul92LCV) | 3:55 | 2021-11-19 | 2022-01-05 |
 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 | 2021-11-19 |  |
+| [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/album/7qJhOyhu04GZiiO9wJJjW5) | 5:06 | 2024-07-12 |  |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-19 |  |
 | [Yesterday Once More](https://open.spotify.com/track/19qP5vtDpeJEcSNb38HiJc) | [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n) | [Yesterday Once More](https://open.spotify.com/album/3yDYZd5HRXPfwR4B7wJl6n) | 3:20 | 2021-11-19 |  |
 | [You Are The Reason](https://open.spotify.com/track/4o7NgKeVcNZeyGR27FOtPs) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [You Are The Reason](https://open.spotify.com/album/2lCk8Gp0JgIAsqAqDNIGyi) | 3:27 | 2022-10-14 | 2024-03-30 |

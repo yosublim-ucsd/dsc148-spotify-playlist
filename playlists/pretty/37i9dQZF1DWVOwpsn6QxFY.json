@@ -1,6 +1,6 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 144308,
+  "num_followers": 144363,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "Shark Smile (Edit)",
-        "url": "https://open.spotify.com/album/4WHzjGd7yvPxXzn2ERXkEb"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Shark Smile - Edit",
-      "url": "https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 166033,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "Shark Smile (Edit)",
+        "url": "https://open.spotify.com/album/4WHzjGd7yvPxXzn2ERXkEb"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Shark Smile - Edit",
+      "url": "https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "Starburned and Unkissed",
-        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 220148,
-      "name": "Starburned and Unkissed",
-      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "Future Weather",
         "url": "https://open.spotify.com/album/1sG9LABomGMUH0w56LfNV0"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 201960,
       "name": "Comin' Through",
       "url": "https://open.spotify.com/track/7pOrN8TYTjTzDZYQMShjXl"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "Starburned and Unkissed",
+        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 220148,
+      "name": "Starburned and Unkissed",
+      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "Desire, I Want To Turn Into You: Everasking Edition",
-        "url": "https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 233416,
-      "name": "Spring Is Coming With A Strawberry In The Mouth",
-      "url": "https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210213,
       "name": "How Can You Swallow So Much Sleep",
       "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "Desire, I Want To Turn Into You: Everasking Edition",
+        "url": "https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 233416,
+      "name": "Spring Is Coming With A Strawberry In The Mouth",
+      "url": "https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Freazy",
+      "url": "https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw"
+    },
+    {
       "added_at": "2024-06-19 13:13:26",
       "album": {
         "name": "With Balance",
@@ -627,22 +643,6 @@
       "duration_ms": 178380,
       "name": "With Balance",
       "url": "https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Freazy",
-      "url": "https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
-      },
-      "artists": [
-        {
-          "name": "Hugo Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "Daisy Chain",
         "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 166600,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "Glitra",
+        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+      },
+      "artists": [
+        {
+          "name": "Hugo Brijs",
+          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Mol y Sol",
+      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "cold water",
-        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
-      },
-      "artists": [
-        {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
-        }
-      ],
-      "duration_ms": 233239,
-      "name": "cold water",
-      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "SUGAR EP.",
         "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 436569,
       "name": "1975",
       "url": "https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "cold water",
+        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 233239,
+      "name": "cold water",
+      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
     },
     {
       "added_at": "2024-05-05 00:30:56",

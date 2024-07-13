@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Roxy Dekker & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,924 likes - 65 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,936 likes - 65 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

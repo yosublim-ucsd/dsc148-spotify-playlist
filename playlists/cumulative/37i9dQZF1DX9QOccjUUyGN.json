@@ -15201,6 +15201,24 @@
     },
     {
       "album": {
+        "name": "Touca Rosa",
+        "url": "https://open.spotify.com/album/2YWSHIXPMbFITta15QQGJs"
+      },
+      "artists": [
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169509,
+      "name": "Touca Rosa",
+      "url": "https://open.spotify.com/track/7yAbHZIS8AAbOjW2xCmlb2"
+    },
+    {
+      "album": {
         "name": "Toy",
         "url": "https://open.spotify.com/album/4ier7baQ7G1kOcHDv4bzd8"
       },

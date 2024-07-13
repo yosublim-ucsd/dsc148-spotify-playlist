@@ -1788,8 +1788,8 @@
       },
       "artists": [
         {
-          "name": "FRANK",
-          "url": "https://open.spotify.com/artist/2q1lPSowgmgiCLtnSRMNMD"
+          "name": "Frank",
+          "url": "https://open.spotify.com/artist/5qZcNO746AWwiBxDXBgCDU"
         }
       ],
       "date_added": "2023-02-07",
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 131200,
       "name": "Corals",
       "url": "https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk"
@@ -5867,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/54fCUklWFJ56errSDowOD2"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/620tO1NlLhNzZjDrzxmjPN"
+    },
+    {
+      "album": {
         "name": "Ruinous Echoes",
         "url": "https://open.spotify.com/album/2cKLUNhIu7TuAqaAcA2wVB"
       },
@@ -5998,6 +6016,28 @@
       "duration_ms": 115434,
       "name": "moss",
       "url": "https://open.spotify.com/track/4diIfT7DDHpTl7888rR4CN"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3L9VeCXKkuBhtaLBJzzeJO"
+      },
+      "artists": [
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "7&Nine",
+          "url": "https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102439,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/6mIDMdR81sRUeu7nZraIWN"
     },
     {
       "album": {

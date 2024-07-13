@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,309 songs - 3 day 4 hr 1 min
+1,311 songs - 3 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [Losing U \(feat\. Daylight\)](https://open.spotify.com/track/1rsn0LRt5IpGp9a2KC5bTW) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Daylight](https://open.spotify.com/artist/66bRetZ7cnvkGzNmFqE9Ws) | [Losing U \(feat\. Daylight\)](https://open.spotify.com/album/2MPjUrXc98DsMXGGiiK9jy) | 3:37 | 2019-08-09\* | 2019-08-27 |
 | [Lost](https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Lost](https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a) | 3:14 | 2023-07-14 | 2024-04-19 |
 | [Lost](https://open.spotify.com/track/7ihVBzv0Gz10R2OnyBDuEk) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Lost](https://open.spotify.com/album/26aQmXr9LU8S1F74vWjBOB) | 3:14 | 2024-04-19 |  |
+| [Lost In Time](https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp) | [Adrian Knows](https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9) | [Lost In Time](https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO) | 2:16 | 2024-07-12 |  |
 | [Lost on You](https://open.spotify.com/track/6c14PL4z50pRfwHxtNktK8) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 3:20 | 2019-08-09\* | 2020-03-29 |
 | [LOVE](https://open.spotify.com/track/3ptICUK13Io2zxloCk2l1r) | [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [NDR8](https://open.spotify.com/artist/5iIIC0E6BovYgTBmd2Pwsy) | [LOVE](https://open.spotify.com/album/7vM6IqAZRV4JGE6sMzTfdj) | 3:04 | 2019-08-09\* | 2020-03-29 |
 | [Love](https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Love](https://open.spotify.com/album/31UkJWhnRd88KsL0PiD4G2) | 2:50 | 2023-09-08 |  |
@@ -856,6 +857,7 @@
 | [Overload](https://open.spotify.com/track/5iukFyne3KAXsglJeByip0) | [Life of Dillon](https://open.spotify.com/artist/6e4aHkdDUcsaXPTQdF6Qhn) | [Prologue](https://open.spotify.com/album/1oHABCat66VpVzg5PuzwsN) | 3:31 | 2019-08-09\* | 2019-08-27 |
 | [Oxygen](https://open.spotify.com/track/6f0XqZKDhD5EOTziuKYyq1) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Julianne Hope](https://open.spotify.com/artist/2ToMcwd6c1EfzUi9LMyNSP) | [Evolution EP](https://open.spotify.com/album/4pYGR19avWwTwXzVfRxJvf) | 3:38 | 2020-06-04 | 2020-10-30 |
 | [Painkiller](https://open.spotify.com/track/4PHDxMwPsCCb3FqbZW65qv) | [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237), [Lovely Laura](https://open.spotify.com/artist/5JPetxGre91T4mQOPFat3g) | [Painkiller](https://open.spotify.com/album/7B6EfJxgGSmHLTIqdxiEZ3) | 2:53 | 2020-11-11 | 2022-05-14 |
+| [palm of my hands](https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 2:11 | 2024-07-12 |  |
 | [Paper Stars \(feat\. Cappa\)](https://open.spotify.com/track/3FEykF3yjHJqxfpCFodx3V) | [West Coast Massive](https://open.spotify.com/artist/3ip1sezZV57uOtHDnLXAkH), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Paper Stars \(feat\. Cappa\)](https://open.spotify.com/album/7HXWFEqIaNm6XkhgVTVCrT) | 3:06 | 2019-08-09\* | 2019-09-14 |
 | [Parachute](https://open.spotify.com/track/3NgAAoUZPkxL5mpvUI7Rl5) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Parachute](https://open.spotify.com/album/1yRcYuMJZfTpFGECIkRKgO) | 3:50 | 2020-09-07 | 2020-10-30 |
 | [Paradise \(with Sam Feldt\)](https://open.spotify.com/track/2zPWT2axxNsXMU6CZn3PS5) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Paradise \(with Sam Feldt\)](https://open.spotify.com/album/5Tr4VgDrUDYifGz5G3TXu6) | 2:40 | 2020-10-30 | 2021-09-25 |

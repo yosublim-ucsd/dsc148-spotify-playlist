@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: John Summit
 
-2,428 songs - 5 day 14 hr 34 min
+2,429 songs - 5 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1627,6 +1627,7 @@
 | [Picturesque](https://open.spotify.com/track/1BR33kryDI66SJPXzltwyx) | [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Picturesque](https://open.spotify.com/album/0JLaLTi03B1c90ZP2IPlA6) | 3:02 | 2023-07-13 | 2023-07-28 |
 | [Pills](https://open.spotify.com/track/5mrhcKlEMVeJ6bzb1PHE0I) | [Crunkz](https://open.spotify.com/artist/4OXIfQQfNxUxqVPwoklWcv), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Pills](https://open.spotify.com/album/1bh2xrP7bvbisD28cleqzz) | 3:03 | 2024-04-18 | 2024-06-14 |
 | [Pink Notes](https://open.spotify.com/track/4yGnh6cZZCOts87hnFUJMg) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [Pink Notes](https://open.spotify.com/album/2S0klxYPTC8Sg5SgeHmvqJ) | 2:40 | 2023-01-26 | 2023-02-17 |
+| [PLACE IN MY MIND \(feat\. shy martin\)](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Life of a Wallflower , Vol\. 2](https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T) | 2:46 | 2024-07-11 |  |
 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 | 2024-05-30 | 2024-07-05 |
 | [Places We Go](https://open.spotify.com/track/6RtUdmlx6nXj3fnVUnnNsW) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Places We Go](https://open.spotify.com/album/0zetDzRPXEfdY2ZOfpVZ32) | 3:16 | 2023-08-03 | 2023-08-25 |
 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 | 2023-02-09 | 2023-03-03 |

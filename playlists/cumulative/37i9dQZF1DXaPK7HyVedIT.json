@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219840,
       "name": "Begging For Healing",
       "url": "https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6"
@@ -908,6 +908,24 @@
       "duration_ms": 129289,
       "name": "BLACK WIDOW",
       "url": "https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7"
+    },
+    {
+      "album": {
+        "name": "Bloody Samaritan",
+        "url": "https://open.spotify.com/album/7qvzjqYWBjnksByLW3YTNu"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/6dNpkFANHeFcWcbSajj13g"
     },
     {
       "album": {
@@ -1654,6 +1672,28 @@
       "duration_ms": 180983,
       "name": "Darling",
       "url": "https://open.spotify.com/track/7CghqDGe1G987RBcNpAPew"
+    },
+    {
+      "album": {
+        "name": "Deep Cut",
+        "url": "https://open.spotify.com/album/3UB8ZF4mBMDiw5N7UGrulF"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "EMAD",
+          "url": "https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213281,
+      "name": "Deep Cut",
+      "url": "https://open.spotify.com/track/3nZ8NNEHwRmxKbFV7fBeHS"
     },
     {
       "album": {
@@ -2638,7 +2678,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
@@ -2784,7 +2824,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 162985,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/3Dq8eWEmzmfiH68Skj8N0d"
@@ -2850,6 +2890,54 @@
       "duration_ms": 188160,
       "name": "Ghost of You - Royale BR Remix",
       "url": "https://open.spotify.com/track/2wmvkVrSdEMs0qjLOrUR6x"
+    },
+    {
+      "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/63biSnB8ly2hFQXlQw158c"
+      },
+      "artists": [
+        {
+          "name": "EDGR",
+          "url": "https://open.spotify.com/artist/0WMuIwO9iaJZagSAdO5wuV"
+        },
+        {
+          "name": "Lucas Aoki",
+          "url": "https://open.spotify.com/artist/1pRgPGhVhp7imQlJ1QYNGl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215619,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/6xDQ9iGsPvCRvRLvXsBuxx"
+    },
+    {
+      "album": {
+        "name": "Go Back (feat. AGGE)",
+        "url": "https://open.spotify.com/album/66YkNXT0BS3m32UfzoXXkk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "AGGE",
+          "url": "https://open.spotify.com/artist/6lToVu9We2bx2cbmc0qtg9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220652,
+      "name": "Go Back (feat. AGGE)",
+      "url": "https://open.spotify.com/track/4jWfLtPxJZroRYfb7dXttK"
     },
     {
       "album": {
@@ -3238,7 +3326,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 315483,
       "name": "Hope",
       "url": "https://open.spotify.com/track/05RSroax2kf33xq65Rqyb6"
@@ -3559,6 +3647,32 @@
     },
     {
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Aldae",
+          "url": "https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148930,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+    },
+    {
+      "album": {
         "name": "In Your Life",
         "url": "https://open.spotify.com/album/5nQrqlyRBi1y4HyuodhLUB"
       },
@@ -3596,10 +3710,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 145511,
       "name": "ININNA TORA",
       "url": "https://open.spotify.com/track/1anRgdIoPvr8kVnAMJrASt"
+    },
+    {
+      "album": {
+        "name": "INNERDIVE",
+        "url": "https://open.spotify.com/album/4QqxbpXZ6eRHPh4zuac6JX"
+      },
+      "artists": [
+        {
+          "name": "Ruiz",
+          "url": "https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358064,
+      "name": "INNERDIVE",
+      "url": "https://open.spotify.com/track/30P2oLboUUVjgp65Vjroc1"
     },
     {
       "album": {
@@ -3838,7 +3970,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173907,
       "name": "Just Take Me",
       "url": "https://open.spotify.com/track/2pqGW8qgxikgKWU4K3RoAz"
@@ -4132,7 +4264,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 158145,
       "name": "Let's Go - Alok Remix",
       "url": "https://open.spotify.com/track/6FyWLxwCe1d1Fik2PZ3bGp"
@@ -4904,6 +5036,24 @@
     {
       "album": {
         "name": "Nebula",
+        "url": "https://open.spotify.com/album/3UV2KjXNKuht6JO7y1hnzk"
+      },
+      "artists": [
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/3Flk6mi5DnEG50CXFVGKMH"
+    },
+    {
+      "album": {
+        "name": "Nebula",
         "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
       },
       "artists": [
@@ -5030,7 +5180,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 300120,
       "name": "Nobody's Perfect (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6YmGoncnyDLR0nTgCLihyE"
@@ -5737,6 +5887,28 @@
     },
     {
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/2SdFEavs8oALmt0RMTTOFz"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Clarees",
+          "url": "https://open.spotify.com/artist/5preGCl6y5PCh5UYFQSlDl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190415,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/3lOhm1NgRtM29bv3mpZZnw"
+    },
+    {
+      "album": {
         "name": "Rapunsel",
         "url": "https://open.spotify.com/album/6C144mTGmkTwFDC6mzPrz8"
       },
@@ -5832,7 +6004,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 191811,
       "name": "Redline",
       "url": "https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw"
@@ -7133,6 +7305,24 @@
     },
     {
       "album": {
+        "name": "THE WORLD THAT YOU KNOW",
+        "url": "https://open.spotify.com/album/05xF8uLnBSkHkKKoSc6GId"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217258,
+      "name": "THE WORLD THAT YOU KNOW",
+      "url": "https://open.spotify.com/track/4FAEcHIkHJHolaLYTwvF5Z"
+    },
+    {
+      "album": {
         "name": "Think It's Just Enough",
         "url": "https://open.spotify.com/album/0EttXqOKkbEkhKwKXmUTxv"
       },
@@ -7740,7 +7930,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 114285,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/0s7OB8XUR78pGZWNFA5e3p"

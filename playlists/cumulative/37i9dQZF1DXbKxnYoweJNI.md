@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 血肉果汁機 \(Fresh Juicer\)
 
-230 songs - 13 hr 18 min
+232 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [But You Give It Up](https://open.spotify.com/track/09UKQYaSD0t82v9kal1x3g) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [But You Give It Up](https://open.spotify.com/album/1b75emx0lwTRomAOIO0D6l) | 2:33 | 2024-07-04 |  |
 | [Candy](https://open.spotify.com/track/5iXsXed0R0kC2YEvRZ2fW2) | [胡呈嫚](https://open.spotify.com/artist/1uBqVCCssdJOUWZhG0HYfp) | [Candy](https://open.spotify.com/album/6vz2Me2LyJ2zyZOxrr8C8z) | 2:50 | 2024-06-27 | 2024-07-05 |
 | [Change?](https://open.spotify.com/track/3SR95LYehpe9KZ6r9sc11k) | [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [Change?](https://open.spotify.com/album/5cE5oI2Twmfz4BQ6JFdEcH) | 3:58 | 2024-07-04 |  |
+| [Dark Echoes](https://open.spotify.com/track/3qMjcAuPykFTt204UG9iSL) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [calvin](https://open.spotify.com/artist/3VaRCc9IJnWO9ryLzBE880) | [Dark Echoes](https://open.spotify.com/album/46cGIdRe5ljxqfXYtGzjp7) | 1:31 | 2024-07-11 |  |
 | [DARK MOVE《角頭》原聲帶](https://open.spotify.com/track/2gMp1ABGzk3KdVQixhIlY4) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [G.K\. 高偉庭](https://open.spotify.com/artist/6oQww0uMiqePdArgcGKx2S) | [DARK MOVE《角頭》原聲帶](https://open.spotify.com/album/4Y8YwfzfX5dAvZTrTiWs4R) | 3:57 | 2024-06-27 |  |
 | [Diamond and Gold](https://open.spotify.com/track/0lrNmJ6pXwRc3PhT7mSiBp) | [痞爺](https://open.spotify.com/artist/73G9tzZhnkWwHWP0rF2jfB) | [Diamond and Gold](https://open.spotify.com/album/0r1Z1ikSio8inQIId85dfE) | 3:38 | 2024-07-11 |  |
 | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/track/6lEgJnYGEGu5l0ihRU8pq1) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/album/1WG1hu3F4szsq90ceZPSpI) | 3:27 | 2024-06-27 | 2024-07-05 |
@@ -56,7 +57,7 @@
 | [Never Give Up](https://open.spotify.com/track/4eyM3LMdHg1LselncNWntO) | [Kasiwa](https://open.spotify.com/artist/48PVBj5xANPJVDKx6G3p2f), [郭婞淳](https://open.spotify.com/artist/0NE8iRy5LtkL3DuEF5JCQb), [楊勇緯](https://open.spotify.com/artist/4QHyLOLshjMdPqQQo2ICDK) | [Never Give Up](https://open.spotify.com/album/66b4eZZ2VrvQ7rylCH61Lv) | 3:26 | 2024-06-27 |  |
 | [Nine Sols](https://open.spotify.com/track/4wBQyIBt9lGMAFIDMc75p8) | [珂拉琪 Collage](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [Nine Sols \(Original Soundtrack\)](https://open.spotify.com/album/6rfqS3gvex9trXEbv7fiab) | 5:02 | 2024-06-27 |  |
 | [OGTFH](https://open.spotify.com/track/4wy11GvZ9gTeu8mcQl73MB) | [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH) | [OGTFH](https://open.spotify.com/album/3S91u0OvceimCEparfOX7x) | 2:01 | 2024-06-27 |  |
-| [Okay Okay](https://open.spotify.com/track/5KOByVu2kDNFMd1b8TtuQF) | [Dr\. Beauty](https://open.spotify.com/artist/2EqCLoWLxNjPIBQLRtNRE9) | [Okay Okay](https://open.spotify.com/album/3zCUxHy2ZMdTvlRYCBXwMm) | 3:12 | 2024-07-11 |  |
+| [Okay Okay](https://open.spotify.com/track/5KOByVu2kDNFMd1b8TtuQF) | [Dr\. Beauty](https://open.spotify.com/artist/2EqCLoWLxNjPIBQLRtNRE9) | [Okay Okay](https://open.spotify.com/album/3zCUxHy2ZMdTvlRYCBXwMm) | 3:12 | 2024-07-11 | 2024-07-13 |
 | [Peace Of Mind](https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR) | 3:09 | 2024-06-27 |  |
 | [Perish](https://open.spotify.com/track/6n379f978LnPYjGSAuOeM4) | [范成章](https://open.spotify.com/artist/2FiujFxbesLAjid7vSyg4g) | [Perish](https://open.spotify.com/album/7xSxwcVDXhxCnWv8r0XoUh) | 3:12 | 2024-07-04 |  |
 | [Pick Up My Phone](https://open.spotify.com/track/6U9G4X2sSlzLR3WMKxoDeu) | [Caryson 黃譽韶](https://open.spotify.com/artist/2wUxL6WmZ6wcbL2BcZtcyB) | [Pick Up My Phone](https://open.spotify.com/album/0Oixlcvnn7tI4f4S6Co46J) | 2:27 | 2024-06-27 | 2024-07-05 |
@@ -236,6 +237,7 @@
 | [風輕輕仔吹](https://open.spotify.com/track/69iZZoey1y1ZRpFvJsbPpo) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [風輕輕仔吹](https://open.spotify.com/album/3UD2ySditNywU2ucF6pgKy) | 4:15 | 2024-06-27 |  |
 | [養貓新手](https://open.spotify.com/track/3bhDv8nUluJxd1grs8iRHm) | [Hsiao Hung\-Jen](https://open.spotify.com/artist/4nJSlwFDAtGvoNW8cmvacD) | [養貓新手](https://open.spotify.com/album/2MJGg0wyb35dgeykPfp02U) | 3:00 | 2024-07-11 |  |
 | [馴鹿](https://open.spotify.com/track/76zrOtel9JiQpNX0kxoI4I) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [馴鹿](https://open.spotify.com/album/6wmJrmNLd0aSlNQifrAmmw) | 5:19 | 2024-07-11 |  |
+| [鬆鬆阿去](https://open.spotify.com/track/3I1Ym6rS2KIRHgjtjx7xaZ) | [鱔魚意麵](https://open.spotify.com/artist/6ql8ciVcd9AS7fem0Csg67) | [鬆鬆阿去](https://open.spotify.com/album/4K30a5RMI7FLD4Mg2hDAGQ) | 2:51 | 2024-07-11 |  |
 | [魔法少女](https://open.spotify.com/track/0NUBHgMBPJnCTY5dGwBXxs) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [魔法少女](https://open.spotify.com/album/6HsGnRj3s7PUhjPTXQS11e) | 2:33 | 2024-07-11 |  |
 | [Ｇ開頭](https://open.spotify.com/track/2IAk3vI96F0jTpRpRAgmdT) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [G開頭](https://open.spotify.com/album/7GzXDyBSsYU4H05d8kGwaK) | 3:25 | 2024-06-27 | 2024-07-12 |
 

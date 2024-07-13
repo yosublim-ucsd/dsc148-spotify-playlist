@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-687 songs - 1 day 8 hr 40 min
+688 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Tons de Jazz](https://open.spotify.com/track/3sxSLKDArZCnUXvAETLYxA) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Tons de Jazz](https://open.spotify.com/album/32qUMXT9q8uwFNFSgH1vuk) | 2:14 | 2023-12-01 | 2024-05-25 |
 | [Top Tier](https://open.spotify.com/track/5wmzwsPvsEArHQqO2bgr4C) | [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [Top Tier](https://open.spotify.com/album/0iIIfAVQYVKVcQXHPpX6V8) | 2:24 | 2023-12-08 | 2024-01-27 |
 | [Toque de Romance](https://open.spotify.com/track/4frGWVU5rxdNssjNzgXn6w) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV) | [Toque de Romance](https://open.spotify.com/album/6UrYNJUIMedeoQRakwarE8) | 3:49 | 2024-07-05 |  |
+| [Touca Rosa](https://open.spotify.com/track/7yAbHZIS8AAbOjW2xCmlb2) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [Touca Rosa](https://open.spotify.com/album/2YWSHIXPMbFITta15QQGJs) | 2:49 | 2024-07-12 |  |
 | [Toy](https://open.spotify.com/track/073BWmwUvbBROdtos4Mbfv) | [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Toy](https://open.spotify.com/album/4ier7baQ7G1kOcHDv4bzd8) | 2:23 | 2024-02-23 | 2024-05-25 |
 | [Tralha](https://open.spotify.com/track/3vGu6lSFE4WV73WhNQKf8s) | [Dom](https://open.spotify.com/artist/4xTYyi8DMAejeE8L10qS1O), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Tralha](https://open.spotify.com/album/5cl7faAxfMtCel455G1GeY) | 2:15 | 2023-06-30 | 2023-10-14 |
 | [Trancado na Mente](https://open.spotify.com/track/0BqJCWNvE2Dl8TdLhsK3TE) | [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V) | [Trancado na Mente](https://open.spotify.com/album/4CtvwOB3sKXHAiGKaVNUtB) | 1:31 | 2023-04-07 | 2023-04-15 |

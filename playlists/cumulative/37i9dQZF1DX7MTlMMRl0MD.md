@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: NATTI NATASHA
 
-379 songs - 23 hr 9 min
+381 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Inocente](https://open.spotify.com/track/6rXvMpWJbTyhSrVWye7jPE) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:56 | 2022-03-04 | 2022-07-29 |
 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 | 2022-03-04 | 2024-01-13 |
 | [Just As I Am \(feat\. Prince Royce & Chris Brown\)](https://open.spotify.com/track/1iKMpywaaihrz8gqaRqzp1) | [Spiff TV](https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Just As I Am \(feat\. Prince Royce & Chris Brown\)](https://open.spotify.com/album/38khkjfE0TzKuweRce2PCl) | 3:44 | 2022-09-09 | 2023-02-11 |
+| [Kruela](https://open.spotify.com/track/6CdC51KG7NyeL77OSIYT3e) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [Kruela](https://open.spotify.com/album/5KCs98xl6Gn8ZRnhfID3rN) | 4:07 | 2024-07-12 |  |
 | [La Asesina](https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 3:24 | 2022-03-04 | 2024-01-13 |
 | [La Bachata](https://open.spotify.com/track/03sVjqRZTzKbCDjroICASq) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La Bachata](https://open.spotify.com/album/11lLUZQgWDj6Vy1s765yBy) | 3:04 | 2022-09-09 | 2023-08-12 |
 | [La Bachata](https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La Bachata](https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9) | 3:04 | 2023-08-11 | 2024-01-13 |
@@ -316,6 +317,7 @@
 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 | 2022-09-09 | 2023-01-21 |
 | [Si Esta Casa Hablara \(Bachata Version\)](https://open.spotify.com/track/1rI0P3zoKjEgIUFWGIE6KG) | [Joel Santos](https://open.spotify.com/artist/7pQKmVxIJROJ9FpYq3cLie) | [Si Esta Casa Hablara \(Bachata Version\)](https://open.spotify.com/album/5MmpJfCJwF1CPtxU3FhoPD) | 3:53 | 2022-03-04 | 2022-09-03 |
 | [Si Quieres](https://open.spotify.com/track/0tz0qWCPcibn4ZAICo2ecR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Quieres](https://open.spotify.com/album/1YEn3QJJuKkNiDHNekILF7) | 3:45 | 2022-03-04 | 2022-03-26 |
+| [Si Quieres Volver](https://open.spotify.com/track/4UYgNUNHJPGIBUyDornbcp) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Quieres Volver](https://open.spotify.com/album/6Kfd61Rx2CmMlzeEGO1GuD) | 2:58 | 2024-07-12 |  |
 | [Si supieras](https://open.spotify.com/track/1d0ELue9Kv1kVKCgoplzLW) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [Si supieras](https://open.spotify.com/album/1EDoyhg85STOFrboReZErG) | 3:56 | 2022-03-25 | 2022-07-29 |
 | [Si Supieras](https://open.spotify.com/track/4omcHHXj5vuzHSlR7Ono8d) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [Reina de Corazones](https://open.spotify.com/album/4eOWxODa9H1NC52716pnSR) | 3:56 | 2022-07-19 | 2022-09-03 |
 | [Si Te Preguntan..\. \- feat\. Nicky Jam & Jay Wheeler](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan..\. \(feat\. Nicky Jam & Jay Wheeler\)](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 | 2022-06-24 | 2024-02-17 |

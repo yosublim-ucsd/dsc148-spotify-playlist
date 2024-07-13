@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Hermanos Guti\u00e9rrez",
+  "description": "The best in folk & acoustic today featuring music from Cassandra Jenkins",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Babe, I'm All Yours",
+        "url": "https://open.spotify.com/album/2HHy6xAYe8T0UD3mzaGo9M"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Babe, I'm All Yours",
+      "url": "https://open.spotify.com/track/0ObTn3Xn2B28LpFqFrMmLd"
+    },
+    {
+      "album": {
         "name": "Back to Oz / Fictional California",
         "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
       },
@@ -1656,7 +1674,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 270500,
       "name": "Broken Sky",
       "url": "https://open.spotify.com/track/09Acpmydc7iDDJeAos8gUL"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 295380,
       "name": "Carolina Rolling By",
       "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
@@ -6925,6 +6943,24 @@
     },
     {
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "album": {
         "name": "Pawnshop Dollar Bills",
         "url": "https://open.spotify.com/album/3fYwNGKMxO1n0Wl3kFXB5S"
       },
@@ -9506,7 +9542,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 245160,
       "name": "Till the Flame Turns Blue",
       "url": "https://open.spotify.com/track/1lvukDOJDX9NznWnin7Az5"

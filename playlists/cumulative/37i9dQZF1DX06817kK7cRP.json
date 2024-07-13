@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 387693,
       "name": "Chance of a Day, Pt. 3",
       "url": "https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS"
@@ -555,6 +555,32 @@
     },
     {
       "album": {
+        "name": "Cortado",
+        "url": "https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C"
+      },
+      "artists": [
+        {
+          "name": "beyond pluto",
+          "url": "https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49"
+        },
+        {
+          "name": "Beats alFredo",
+          "url": "https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ"
+    },
+    {
+      "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/2IjILZtDXBXx3tHJaxBL2e"
       },
@@ -662,7 +688,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 142325,
       "name": "Day After",
       "url": "https://open.spotify.com/track/16Dlzc8aUsqzI6oDseP04u"
@@ -800,7 +826,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 212000,
       "name": "Drama Is Coming",
       "url": "https://open.spotify.com/track/00m4ed2ZgerPoaSQVL9ZzG"
@@ -1126,7 +1152,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 160850,
       "name": "Frontside",
       "url": "https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO"
@@ -2843,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/681QQ5zebjpnMWMrdttUNl"
+      },
+      "artists": [
+        {
+          "name": "New Morning",
+          "url": "https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Relaxin'",
+      "url": "https://open.spotify.com/track/2N4F5dWQr2CYrcDRjpj1ee"
+    },
+    {
+      "album": {
         "name": "Riviera Nights",
         "url": "https://open.spotify.com/album/1rtz7vWTxLfwWOd9dkwPd5"
       },
@@ -3054,7 +3098,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 197124,
       "name": "Smooth Sunday Barbeque",
       "url": "https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM"
@@ -3076,6 +3120,24 @@
       "duration_ms": 192289,
       "name": "smooveoperator",
       "url": "https://open.spotify.com/track/02uMZoFw264keGVYbNzOMa"
+    },
+    {
+      "album": {
+        "name": "Soft Shadows",
+        "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
+      },
+      "artists": [
+        {
+          "name": "Jesse Houghton",
+          "url": "https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155647,
+      "name": "Soft Shadows",
+      "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"
     },
     {
       "album": {

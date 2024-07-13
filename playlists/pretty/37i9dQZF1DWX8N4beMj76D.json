@@ -503,6 +503,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus) - Bonus Track",
+      "url": "https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Granada",
         "url": "https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Queer as Folk - The Final Season",
-        "url": "https://open.spotify.com/album/1MvhUanwf3vj9377tOezPi"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Dance Me To The End Of Love",
-      "url": "https://open.spotify.com/track/4gBdOhWJpOZBTx0fsreDcM"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Dear Heather",
         "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
       },
@@ -587,6 +587,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Queer as Folk - The Final Season",
+        "url": "https://open.spotify.com/album/1MvhUanwf3vj9377tOezPi"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Dance Me To The End Of Love",
+      "url": "https://open.spotify.com/track/4gBdOhWJpOZBTx0fsreDcM"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 339133,
       "name": "Famous Blue Raincoat",
       "url": "https://open.spotify.com/track/23LCJxdqRMYlnVj5Qg5JuU"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus) - Bonus Track",
-      "url": "https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje"
     },
     {
       "added_at": "2018-12-06 19:29:22",

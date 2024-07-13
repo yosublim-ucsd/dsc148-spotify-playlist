@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -1838,6 +1838,24 @@
     {
       "album": {
         "name": "Side A",
+        "url": "https://open.spotify.com/album/0xgvbBQI2RDnw0q6kVllKH"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230093,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/4QNlHIYv4JreNLZM78w3Eo"
+    },
+    {
+      "album": {
+        "name": "Side A",
         "url": "https://open.spotify.com/album/7uEj9u6ju3iz9aihySCSoP"
       },
       "artists": [
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 230093,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/7amPdsuXqwfFjg3xEYQF4D"
@@ -2921,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1"
+      },
+      "artists": [
+        {
+          "name": "Cold Creek County",
+          "url": "https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216959,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD"
+    },
+    {
+      "album": {
         "name": "Kiss Me Quiet",
         "url": "https://open.spotify.com/album/7trmOrFHxIc5lHK7cTxwcW"
       },
@@ -3916,6 +3952,24 @@
     {
       "album": {
         "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Redneck Love Song",
+      "url": "https://open.spotify.com/track/4Fq3qtut7HdtxUVnsAEPDd"
+    },
+    {
+      "album": {
+        "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
       "artists": [
@@ -3926,7 +3980,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189973,
       "name": "Redneck Love Song",
       "url": "https://open.spotify.com/track/6mcuK40HmzARZP56q9HE40"
@@ -4784,10 +4838,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 212106,
       "name": "Take Back Home Girl (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/0N9uZRrJQ3lO5TmInEjLxc"
+    },
+    {
+      "album": {
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/5YTK8rNtHQ4mCcyONmaCLv"
+      },
+      "artists": [
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Take Back Home Girl (feat. Tori Kelly)",
+      "url": "https://open.spotify.com/track/0q0Htw3tNkJM87u7fm1kPd"
     },
     {
       "album": {
@@ -4820,7 +4896,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 204906,
       "name": "Take It",
       "url": "https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj"
@@ -5052,10 +5128,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 194146,
       "name": "The Days",
       "url": "https://open.spotify.com/track/0LybHog3IZ7ywvkgkXrBW7"
+    },
+    {
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "The Days",
+      "url": "https://open.spotify.com/track/3nrwvaP2ntAZVP2v1d6l6P"
     },
     {
       "album": {
@@ -5070,10 +5164,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 229947,
       "name": "The Faker",
       "url": "https://open.spotify.com/track/1ltSPHho3sRkeOVIImCAaU"
+    },
+    {
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229947,
+      "name": "The Faker",
+      "url": "https://open.spotify.com/track/4puoCLTBJlX4007xQLf1Am"
     },
     {
       "album": {

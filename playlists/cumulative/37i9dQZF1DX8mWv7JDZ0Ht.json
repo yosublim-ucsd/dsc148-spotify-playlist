@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: MAR ABERTO, Jo\u00e3o Mar",
+  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Liniker",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 160008,
       "name": "Cad\u00ea Voc\u00ea",
       "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
@@ -3552,6 +3552,24 @@
       "duration_ms": 171000,
       "name": "Dona de Mim",
       "url": "https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT"
+    },
+    {
+      "album": {
+        "name": "dos p\u00e9s a cabe\u00e7a",
+        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202286,
+      "name": "dos p\u00e9s a cabe\u00e7a",
+      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
     },
     {
       "album": {
@@ -5707,6 +5725,24 @@
     },
     {
       "album": {
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/6v0P3kkqzys53QtSoCwgZB"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198890,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/1HiJXmvdZAejKVj8ZtKBOA"
+    },
+    {
+      "album": {
         "name": "INTENSO",
         "url": "https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c"
       },
@@ -7613,6 +7649,28 @@
     },
     {
       "album": {
+        "name": "O que \u00e9 teu te encontra",
+        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151386,
+      "name": "O que \u00e9 teu te encontra",
+      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
+    },
+    {
+      "album": {
         "name": "O Tempo",
         "url": "https://open.spotify.com/album/6YzWKAyU0OqSDVTb6OBJw3"
       },
@@ -9146,7 +9204,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161706,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
@@ -9766,7 +9824,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 222714,
       "name": "Segue o Jogo",
       "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
@@ -11241,6 +11299,24 @@
     },
     {
       "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216612,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
+    },
+    {
+      "album": {
         "name": "Tudo Bem",
         "url": "https://open.spotify.com/album/1EaCaXscUoQ9qy9o7GPU3j"
       },
@@ -12034,7 +12110,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 178023,
       "name": "Vida + leve",
       "url": "https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb"
@@ -12492,7 +12568,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 166153,
       "name": "Vou Fugir",
       "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"

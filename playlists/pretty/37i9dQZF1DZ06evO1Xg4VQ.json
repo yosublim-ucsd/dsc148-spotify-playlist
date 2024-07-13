@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 69332,
+  "num_followers": 69337,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAACO/0yCbg7T0gnyPXkr5EMA",
+  "snapshot_id": "Zo8ggAAAAABIVxWnl//nM4SIiwLyoyr4",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mexicana (feat. Lila Downs)",
+        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Mexicana (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Fiesta Contin\u00faa",
         "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
       },
@@ -443,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "L\u00e1grimas Negras (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tan Bonita",
         "url": "https://open.spotify.com/album/0FFTHBdD5AP5XkVXSdMpEP"
       },
@@ -467,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "L\u00e1grimas Negras (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Alma De Lila Downs",
         "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 191640,
       "name": "Naila",
       "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
-        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Un Mundo Raro (feat. Diego El Cigala)",
-      "url": "https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
       "duration_ms": 252600,
       "name": "La Ra\u00edz de Mi Tierra",
       "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
+        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Un Mundo Raro (feat. Diego El Cigala)",
+      "url": "https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0"
     },
     {
       "added_at": null,
@@ -723,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": null,
@@ -795,6 +815,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Cantina",
+        "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Flaco Jimenez",
+          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+        },
+        {
+          "name": "Max Baca",
+          "url": "https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "El Relampago",
+      "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ra\u00edz Nunca Me Fui",
         "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
       },
@@ -819,26 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cantina",
-        "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
+        "name": "En El \u00daltimo Trago",
+        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
       "artists": [
         {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Flaco Jimenez",
-          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
-        },
-        {
-          "name": "Max Baca",
-          "url": "https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW"
         }
       ],
-      "duration_ms": 187186,
-      "name": "El Relampago",
-      "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
+      "duration_ms": 207200,
+      "name": "En el \u00faltimo trago",
+      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
     },
     {
       "added_at": null,
@@ -903,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El \u00daltimo Trago",
-        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "En el \u00faltimo trago",
-      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tree Of Life",
         "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
       },
@@ -955,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esto Es Estopa (Directo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr"
       },
@@ -987,6 +991,22 @@
       "duration_ms": 201080,
       "name": "La Primavera (feat. Lila Downs) - Directo Ac\u00fastico",
       "url": "https://open.spotify.com/track/6wr3oc1d5vyzCkaxhoJCNb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,
@@ -1107,22 +1127,6 @@
       "duration_ms": 276000,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/4JM6RkLoNpC0H0eApxXzNX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Palomo Del Comalito",
-      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
     }
   ],
   "unique_name": "This Is Lila Downs",

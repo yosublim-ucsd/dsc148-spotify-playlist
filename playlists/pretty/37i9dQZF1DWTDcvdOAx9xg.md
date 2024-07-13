@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > I protagonisti più freschi della nuova pop wave del 2023 🌊 Cover: Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,964 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,968 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 | 22 | [Tulipani Blu](https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b), [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Tulipani Blu](https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN) | 2:39 |
 | 23 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
 | 24 | [Le Cose In Comune](https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Le Cose In Comune](https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0) | 2:31 |
-| 25 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Dennis](https://open.spotify.com/artist/6XbS2qwNE9wzFSw416dshH), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 |
+| 25 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 |
 | 26 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 |
 | 27 | [‘O Mar For](https://open.spotify.com/track/1DQXiBc8DqPfcdLVZkouhI) | [Stefano Lentini](https://open.spotify.com/artist/064Wlx4YXsDEqEG0o5Hjxg), [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [Raiz](https://open.spotify.com/artist/6lEWyvLmlGZnwDdsUtu13P) | [Mare fuori \(Colonna sonora originale della Serie TV\)](https://open.spotify.com/album/4gNqj9AqQFp0OGiwrVTo8W) | 3:19 |
 | 28 | [MERCOLEDÌ MAI](https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [MERCOLEDÌ MAI](https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk) | 2:54 |

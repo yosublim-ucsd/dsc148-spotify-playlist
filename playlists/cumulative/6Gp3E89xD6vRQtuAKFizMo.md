@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-322 songs - 15 hr 31 min
+324 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Move Your Feet \(Like This\)](https://open.spotify.com/track/2Z0IPXm9YUEb8FWRTAiM3d) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Move Your Feet \(Like This\)](https://open.spotify.com/album/39DhmYTEg0M0jtjSbacrGw) | 2:16 | 2024-06-28 |  |
 | [Music Is The Answer](https://open.spotify.com/track/6q0gaCCxMImKzJX5j3MHz0) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Music Is The Answer](https://open.spotify.com/album/5nwZ4ou2yHpuOu5vv1ny1G) | 3:47 | 2023-11-22 |  |
 | [Music Means Love Forever](https://open.spotify.com/track/4LlhYmenqKC0boXvDpl6vt) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Music Means Love Forever](https://open.spotify.com/album/2Fd0eRQIYmYhmQguxmZH8j) | 3:27 | 2022-05-06 | 2022-09-25 |
+| [My Mind](https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [My Mind](https://open.spotify.com/album/7aneBfOjpEOtzBReiowj3u) | 3:04 | 2024-07-12 |  |
 | [My Room](https://open.spotify.com/track/4TZqdDTRiGuWSWMy9xIGPO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [My Room](https://open.spotify.com/album/6GpkuUuvRxvrLYZgrXoyVz) | 2:29 | 2023-11-22 |  |
 | [My Room \- Makla Remix](https://open.spotify.com/track/1eupUP0KyIxklOmWSe0PO1) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M) | [My Room \(Remixes\)](https://open.spotify.com/album/6efb70DGUPyC36qBqmLI1h) | 3:03 | 2024-03-29 |  |
 | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/track/5cvbgqwWxlvC5la8h86qRi) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [MC Ambush](https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi) | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/album/68TkP5GE6s34dBCSdjnajh) | 2:39 | 2023-02-03 | 2023-04-09 |
@@ -297,6 +298,7 @@
 | [Traces Of You \- Luca Lush Remix](https://open.spotify.com/track/2YfkhjbPbmnkRfXZ2q1cVI) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Traces Of You \(Luca Lush Remix\)](https://open.spotify.com/album/22sXlmZEldxRakyvyv6GyW) | 5:23 | 2023-03-17 | 2023-04-09 |
 | [Traces Of You \- Luca Lush Remix](https://open.spotify.com/track/7uKaLfNSrTcRmRdKO8f1vG) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Traces Of You \(REMIXES\)](https://open.spotify.com/album/4IBnE0hUcJTHemHPNMc27Q) | 5:23 | 2023-04-07 |  |
 | [Treat U Wrong](https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Treat U Wrong](https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm) | 2:02 | 2022-12-19 | 2023-04-09 |
+| [Trouble](https://open.spotify.com/track/6hgRyyRDRpiEa4eaqfq3nS) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Trouble](https://open.spotify.com/album/258Bb0r7QEzRADEv9r0MSN) | 2:28 | 2024-07-12 |  |
 | [Trunk](https://open.spotify.com/track/3hx3VuB81vvTStn4gkke0D) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Trunk](https://open.spotify.com/album/48Cw18pZx79ctaYTDAtD41) | 2:02 | 2023-05-12 |  |
 | [Trust](https://open.spotify.com/track/50vMrcUtcsnf0TuLjWmy9N) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 3:14 | 2023-07-28 | 2023-12-14 |
 | [Trust \- VIP Mix](https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 2:37 | 2023-07-28 |  |

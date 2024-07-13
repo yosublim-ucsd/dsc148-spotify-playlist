@@ -2,7 +2,7 @@
 
 ### [Sing Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0Ky57Pu5u9G)
 
-> Listen to all of the music from the Sing movies!
+> Where will your dreams take you? Listen to the music from Sing and Sing 2!
 
 69 songs - 2 hr 47 min
 

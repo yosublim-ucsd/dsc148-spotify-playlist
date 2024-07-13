@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-223 songs - 11 hr 26 min
+224 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Balé](https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Malibbre](https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K) | [Balé](https://open.spotify.com/album/20Eeg7wH8X8Se1dylEDOzB) | 2:16 | 2023-10-06 | 2024-04-06 |
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 | 2023-06-03 |
+| [Blusa da High](https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Blusa da High](https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG) | 2:40 | 2024-07-12 |  |
 | [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 | 2023-03-24 | 2023-08-05 |
 | [Bunda Irada](https://open.spotify.com/track/60gYHwS5eH3mi8qpKeWhFE) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:27 | 2024-03-29 | 2024-04-09 |
 | [Bunda Irada](https://open.spotify.com/track/2gV1NayptOesaBhCGm1rzT) | [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Bunda Irada](https://open.spotify.com/album/5Lss9IXevp7XKdMeEzpkks) | 2:27 | 2024-03-29 | 2024-05-03 |
@@ -201,7 +202,7 @@
 | [Sozinho](https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j) | [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Klismman](https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ) | [Sozinho](https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d) | 2:31 | 2022-11-18 |  |
 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 | 2022-11-18 | 2023-04-29 |
 | [Só Nós Dois](https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF) | [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Só Nós Dois](https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd) | 2:21 | 2023-11-17 |  |
-| [Só por Hoje](https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6) | [Papu](https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q), [Luna](https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm) | [Só por Hoje](https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4) | 2:50 | 2024-03-22 |  |
+| [Só por Hoje](https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6) | [Papu](https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q), [Luna](https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm) | [Só por Hoje](https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4) | 2:50 | 2024-03-22 | 2024-07-13 |
 | [Só Você](https://open.spotify.com/track/4xXTMynUAc9pRq0DXLC8f3) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [Só Você](https://open.spotify.com/album/4k8YNiDI2cA6mAcNQselNg) | 3:43 | 2023-01-13 | 2023-04-01 |
 | [Talvez Seja Melhor Assim](https://open.spotify.com/track/6bccxkxi3bsbNxtDdd6Vbn) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Talvez Seja Melhor Assim](https://open.spotify.com/album/1KPUXjvt3Nz77Y4KBbZkrw) | 3:59 | 2024-02-16 |  |
 | [Tanto Faz](https://open.spotify.com/track/0kgVCF1GMXafogX6R2Dpc5) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Tanto Faz](https://open.spotify.com/album/3C0DYA08H30vEvi78i7A2B) | 3:35 | 2023-11-17 | 2024-01-27 |

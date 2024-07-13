@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-964 songs - 2 day 21 hr 7 min
+965 songs - 2 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Departing to the Stars](https://open.spotify.com/track/6GK0pEJsGdTb9cnXcTooib) | [Oliva](https://open.spotify.com/artist/196ilRKcwHPlJv30n4oHaL) | [Departure to the Stars](https://open.spotify.com/album/5trnv1rf4N7HSru0G0HiA5) | 7:11 | 2019-06-19\* | 2020-10-22 |
 | [Departure](https://open.spotify.com/track/0gfH72SXYLCXbDfGnGE5IT) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Persuasion System](https://open.spotify.com/album/2Takb3WbmLXRVvXiFfnjnk) | 2:39 | 2019-12-08 | 2020-10-22 |
 | [Depth Charge](https://open.spotify.com/track/3jdYXYKW66bawC9V7mj5Wy) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Skin Companion EP II](https://open.spotify.com/album/3dbaMkITsRRtXN7YQFt9by) | 5:08 | 2019-05-26\* | 2020-08-26 |
+| [Derecho](https://open.spotify.com/track/1ex9tLfCgzOjV5rAU622nk) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Derecho](https://open.spotify.com/album/6dfr8bom2gZBPVaFMMxwzW) | 4:25 | 2024-07-12 |  |
 | [Desert Mule](https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Desert Mule](https://open.spotify.com/album/2Wjdk2beQr4hesuzDyJ2J8) | 5:24 | 2021-07-23 | 2022-04-21 |
 | [Deslizando sobre seda](https://open.spotify.com/track/1l7K3bbrW7OCnZ6KgAKr3c) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:02 | 2023-08-22 | 2023-09-16 |
 | [Desperation](https://open.spotify.com/track/6uy0SQ7Zbp0FWsqtK7zkze) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL) | [Desperation](https://open.spotify.com/album/5kQfVBONLbWPSAviiTj9Wi) | 2:57 | 2019-05-26\* | 2020-08-26 |
@@ -467,7 +468,7 @@
 | [Leaves Against The Sky](https://open.spotify.com/track/0ZVzN7tnseNSxtnAhTNK39) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:38 | 2020-10-23 | 2022-11-17 |
 | [Leaving](https://open.spotify.com/track/67zRyxMsahqZKFBZ65Dbje) | [Murtagh](https://open.spotify.com/artist/4cpTlyZCR7ed2g4WG8gUDf) | [Rush / Leaving](https://open.spotify.com/album/5mChkbJAUSBmR9eep9TWV0) | 4:25 | 2020-01-18 |  |
 | [Leaving Earth](https://open.spotify.com/track/5TiJIieCsjUMFbQJiYUOwH) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Creation](https://open.spotify.com/album/759sclnD3ycdQqfjMpmnl4) | 7:06 | 2019-05-26\* | 2020-06-12 |
-| [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* |  |
+| [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* | 2024-07-13 |
 | [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 |  |
 | [Leftovers](https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw) | [Akın Sevgör](https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo) | [Reveries](https://open.spotify.com/album/3lcsRejIVqC2ZzgohbS9X1) | 3:01 | 2024-04-19 |  |
 | [Let You](https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Let You](https://open.spotify.com/album/2KupnIXyKS0Mprddu9on23) | 3:26 | 2021-09-10 | 2024-06-03 |

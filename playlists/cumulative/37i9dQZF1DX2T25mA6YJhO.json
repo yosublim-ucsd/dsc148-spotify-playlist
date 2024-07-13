@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "Momento PULP",
+        "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
+      },
+      "artists": [
+        {
+          "name": "Mediapunta",
+          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
+        },
+        {
+          "name": "Sidonie",
+          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132980,
+      "name": "Momento PULP",
+      "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
+    },
+    {
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
       },
@@ -1624,7 +1646,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 244146,
       "name": "Si Piensas en M\u00ed",
       "url": "https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp"

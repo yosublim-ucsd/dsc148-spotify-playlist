@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-372 songs - 21 hr 16 min
+373 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 | 2023-07-28 |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-07-21 | 2024-04-19 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2022-03-25 | 2022-04-21 |
+| [Dreamin'](https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Dreamin'](https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po) | 4:00 | 2024-07-12 |  |
 | [DRILL MUSIC IN ZION](https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV) | 4:31 | 2022-06-21 | 2022-08-30 |
 | [Drop](https://open.spotify.com/track/7sT3O2PXs1o12XnCKlv204) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 5:34 | 2022-07-08 | 2022-08-27 |
 | [Drop](https://open.spotify.com/track/3JRpLfo1JmUL2LLeTWksN3) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia](https://open.spotify.com/album/7fnTiSzHCHm5T6wIhRWKqe) | 5:36 | 2022-03-25 | 2022-04-21 |
@@ -322,7 +323,7 @@
 | [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 | 2022-01-14 | 2022-07-29 |
 | [Super](https://open.spotify.com/track/3sjtQ07ptlPzw2N4YmGW3S) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:57 | 2022-07-08 | 2024-04-19 |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-26 | 2022-09-24 |
-| [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 |  |
+| [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 | 2024-07-13 |
 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 | 2022-01-14 | 2023-03-03 |
 | [Symphony 2000](https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Lady Luck](https://open.spotify.com/artist/0oXoYDEPhGhN14JD4JRL5L) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:03 | 2022-01-14 | 2022-03-07 |
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 | 2022-01-14 |  |

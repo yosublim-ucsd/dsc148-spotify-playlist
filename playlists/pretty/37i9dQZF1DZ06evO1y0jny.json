@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAADtlEYzUm0M3OXcfiuL9LZl",
+  "snapshot_id": "Zo8ggAAAAACCC03QuK3J9y6YVmcM7ikN",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 81344,
-      "name": "Ua K\u014d, Ua \u02bb\u0100ina",
-      "url": "https://open.spotify.com/track/1R0okzO69Fx0cm8bkYlD02"
+      "duration_ms": 212154,
+      "name": "Lei Pua Melia",
+      "url": "https://open.spotify.com/track/1JaviJ1xC3U42tspbEUpDR"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 212154,
-      "name": "Lei Pua Melia",
-      "url": "https://open.spotify.com/track/1JaviJ1xC3U42tspbEUpDR"
+      "duration_ms": 81344,
+      "name": "Ua K\u014d, Ua \u02bb\u0100ina",
+      "url": "https://open.spotify.com/track/1R0okzO69Fx0cm8bkYlD02"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "K\u0101wili",
-        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
+        "name": "Lei N\u0101honoapi\u02bbilani: N\u0101 Mele Hou",
+        "url": "https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 159020,
-      "name": "He Aloha Wau i\u0101 \u02bbOe",
-      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
+      "duration_ms": 202202,
+      "name": "O Ukumehame",
+      "url": "https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lei N\u0101honoapi\u02bbilani: N\u0101 Mele Hou",
-        "url": "https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5"
+        "name": "K\u0101wili",
+        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 202202,
-      "name": "O Ukumehame",
-      "url": "https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy"
+      "duration_ms": 159020,
+      "name": "He Aloha Wau i\u0101 \u02bbOe",
+      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
     },
     {
       "added_at": null,

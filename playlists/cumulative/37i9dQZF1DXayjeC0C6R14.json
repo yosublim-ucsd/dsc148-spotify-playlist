@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189551,
       "name": "Hablar de Flores",
       "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
@@ -686,6 +686,32 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    {
+      "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Lena Campos",
+          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
+        },
+        {
+          "name": "Moy Yos",
+          "url": "https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192939,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
     },
     {
       "album": {

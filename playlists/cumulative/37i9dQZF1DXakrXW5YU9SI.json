@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "5 milion\u00f3w influencerek",
+        "url": "https://open.spotify.com/album/2f4NFjKewTTexTmEJbEKiE"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "5 milion\u00f3w influencerek",
+      "url": "https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181677,
       "name": "something i can't afford",
       "url": "https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7"

@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 871240,
       "name": "14:31",
       "url": "https://open.spotify.com/track/31NqxiLbyEYuH2voZoHk61"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211000,
       "name": "CASTALIA",
       "url": "https://open.spotify.com/track/0QY4l4L04NX1SRfq1QxPzS"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 357893,
       "name": "Everything Valley",
       "url": "https://open.spotify.com/track/1Ne96Ev1xV7JCQwhFY0iQm"
@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 296480,
       "name": "Gnossienne No. 1",
       "url": "https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1"
@@ -4804,7 +4804,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 396066,
       "name": "Journey In Satchidananda",
       "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
@@ -5726,8 +5726,8 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
-      "duration_ms": 238789,
+      "date_removed": null,
+      "duration_ms": 239052,
       "name": "Memory Sketches",
       "url": "https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc"
     },
@@ -5744,7 +5744,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 426346,
       "name": "MERCURIC DANCE/\u6c34\u9280~\u8e8d\u52d5\u306e\u8e0a\u308a",
       "url": "https://open.spotify.com/track/2fXZxWhqV6YqpKsEoqID6S"
@@ -6036,6 +6036,24 @@
       "duration_ms": 502364,
       "name": "Monotony",
       "url": "https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1"
+    },
+    {
+      "album": {
+        "name": "still life",
+        "url": "https://open.spotify.com/album/5qfOJegGelCj3EaKJ5dGAd"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "montage",
+      "url": "https://open.spotify.com/track/2vy9htJ5lfBHoOnuLvJIpL"
     },
     {
       "album": {
@@ -7362,7 +7380,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 130693,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm"
@@ -7842,7 +7860,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Sea",
       "url": "https://open.spotify.com/track/7aheJ8w1GYkZogoMTigoAU"
@@ -8216,6 +8234,24 @@
       "duration_ms": 288426,
       "name": "SHUFFER",
       "url": "https://open.spotify.com/track/6oB6CSjxPe9Vfn9g178Oa2"
+    },
+    {
+      "album": {
+        "name": "SHUNGA Original Soundtrack",
+        "url": "https://open.spotify.com/album/27g1I8e9DdT1sZCPgcZ79e"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38000,
+      "name": "SHUNGA Opening",
+      "url": "https://open.spotify.com/track/2g9urdPN3OVcx4X77V4TS6"
     },
     {
       "album": {
@@ -8730,7 +8766,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 636000,
       "name": "Spiegel im Spiegel - Version for Violin and Piano",
       "url": "https://open.spotify.com/track/4wudbbceOZKjRlhTtbHvAs"
@@ -9946,7 +9982,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 235826,
       "name": "True Life Again",
       "url": "https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59"
@@ -10768,7 +10804,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 254146,
       "name": "Zhan-ti-sui Temple",
       "url": "https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk"

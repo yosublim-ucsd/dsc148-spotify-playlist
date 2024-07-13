@@ -4,7 +4,7 @@
 
 > I'm just a girl
 
-173 songs - 8 hr 48 min
+174 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2022-07-27 |  |
 | [MORE](https://open.spotify.com/track/46LV376zSGmaelTVpBvBeA) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [MORE](https://open.spotify.com/album/74V8U1IovEyVypBxAB4ZRN) | 3:00 | 2024-03-29 | 2024-05-03 |
 | [My Heart](https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [My Heart](https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz) | 2:36 | 2024-06-28 |  |
+| [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 | 2024-07-12 |  |
 | [Na Die](https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Na Die](https://open.spotify.com/album/2EoNzxyyu0EAXxjiV5t0j5) | 2:27 | 2024-03-01 | 2024-05-03 |
 | [Nama naa la torop](https://open.spotify.com/track/6XmCfKWS166RgtEBodiS2C) | [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Nama naa la torop](https://open.spotify.com/album/6nM1gPpJcICvp9GWFFDdgP) | 2:58 | 2024-07-05 |  |
 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-05-10 |  |
@@ -174,7 +175,7 @@
 | [Tonight](https://open.spotify.com/track/2y2tmHmV5f2UvQDQLqBpwZ) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [Firefly](https://open.spotify.com/artist/31lt312E2FmmnrGqd1Mcv9) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:43 | 2024-03-08 |  |
 | [Too Much](https://open.spotify.com/track/5vVK17McjmUaEXBBtmgvHW) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Too Much](https://open.spotify.com/album/6WnjMhT6b5MgUwF6bHI6nh) | 2:34 | 2024-05-03 |  |
 | [TRUST FUND BABY](https://open.spotify.com/track/36bncsqM87eiQ2Gv7WrEJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 1:39 | 2022-07-27 | 2024-04-26 |
-| [truth](https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [truth](https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8) | 2:32 | 2024-05-17 |  |
+| [truth](https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [truth](https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8) | 2:32 | 2024-05-17 | 2024-07-13 |
 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 | 2024-04-19 | 2024-04-26 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2022-07-27 | 2023-11-03 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-06-07 |  |

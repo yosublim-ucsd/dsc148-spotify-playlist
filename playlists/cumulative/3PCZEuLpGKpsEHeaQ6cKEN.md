@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, David Guetta
 
-1,092 songs - 2 day 10 hr 34 min
+1,093 songs - 2 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-01 | 2023-12-14 |
 | [Agboju Logun \(THEMBA's Herd Mix\)](https://open.spotify.com/track/4NmpQrAvm2XwSvlbnsB5BP) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agboju Logun \(THEMBA's Herd Mix\)](https://open.spotify.com/album/1589fRSGHWLPn6Upyb9j4A) | 3:09 | 2022-10-20 | 2022-11-18 |
 | [Alcohol](https://open.spotify.com/track/4axu2A6Q4GIglXWF5gPLpK) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Alcohol](https://open.spotify.com/album/2diOxvi3Qc0VcAs7Bcv9xW) | 3:23 | 2023-07-27 | 2023-12-19 |
+| [Alive](https://open.spotify.com/track/6mN40z3rm6Yg7Pl5L9MSnx) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/5ZLcOtEmIuI9DFQfBSamFs) | 3:12 | 2024-07-12 |  |
 | [All About U](https://open.spotify.com/track/1kqCF2ZDz4TLNE79MfmFVR) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [All About U](https://open.spotify.com/album/4G6sfkzJS5XDXQF2uAf2nh) | 2:24 | 2023-04-20 | 2023-12-14 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-17 | 2023-01-06 |
 | [All Falls Down](https://open.spotify.com/track/2f9w1DGetNzr2zYgwYqB5C) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Florentin](https://open.spotify.com/artist/4h5iVy88coDjOop3wM2wTp), [Kyle Anson](https://open.spotify.com/artist/0FeeM3GXVth20s0RWfI5rE) | [Trance 100 \- 2023](https://open.spotify.com/album/2TTnwqvm8vzH3eZm8LIRHb) | 3:06 | 2023-03-09 | 2023-04-16 |

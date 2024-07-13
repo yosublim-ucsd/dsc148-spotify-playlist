@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Flat City",
+        "url": "https://open.spotify.com/album/1vw3z3xkEY2cqDqCi5ndwQ"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122266,
+      "name": "A Flat City",
+      "url": "https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt"
+    },
+    {
+      "album": {
         "name": "A Good Goodbye",
         "url": "https://open.spotify.com/album/7HFHiwHYjPjTQHWO876JWf"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 284040,
       "name": "Centerline",
       "url": "https://open.spotify.com/track/5TbC1YYEydAV887FngmGuG"
@@ -4796,7 +4814,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208415,
       "name": "Pink Turns To Red",
       "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
@@ -6513,6 +6531,24 @@
     },
     {
       "album": {
+        "name": "Tough Mother",
+        "url": "https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254776,
+      "name": "Tough Mother",
+      "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
+    },
+    {
+      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/4eXFt8xb1vaaivb332kvu1"
       },
@@ -7196,7 +7232,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 150000,
       "name": "Where's The Party At",
       "url": "https://open.spotify.com/track/1eOlbH8uCxVAQnI0lh7OaO"
@@ -7330,6 +7366,32 @@
       "duration_ms": 211280,
       "name": "Work Until My Days Are Done",
       "url": "https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH"
+    },
+    {
+      "album": {
+        "name": "You Can\u2019t Judge a Book By the Cover",
+        "url": "https://open.spotify.com/album/5EanQoKPT2EZ2HBIM5tDig"
+      },
+      "artists": [
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        },
+        {
+          "name": "Rayne Castiglia",
+          "url": "https://open.spotify.com/artist/1QPQ9prc4vsQsLI6xlqBwt"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274453,
+      "name": "You Can't Judge A Book By The Cover",
+      "url": "https://open.spotify.com/track/1xhhf7JXO9lq5FBdXfu2GR"
     },
     {
       "album": {

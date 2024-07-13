@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-124 songs - 7 hr 15 min
+125 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Set The Sun \- Klaas Remix](https://open.spotify.com/track/5n9pjbHRNZKWUyfBkyvIko) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Nervous Nitelife: Electro Sweat 2](https://open.spotify.com/album/6pqcdSEa9sWFr7DHC42ctN) | 4:25 | 2023-12-30 |  |
 | [Sex Flex: A Rap Guide to Fornication](https://open.spotify.com/track/26xNbDUw4IfO3ZP0aDgh3F) | [Veronica & Lewis](https://open.spotify.com/artist/3ks7Gct2oXRjdszgWUoSvE) | [Sex Flex: A Rap Guide to Fornication](https://open.spotify.com/album/0wcfajP20w9vYyasqxNhcM) | 3:14 | 2023-12-30 |  |
 | [Sharing Is Caring](https://open.spotify.com/track/5GcXj0rDWSlLQIPktW5ADB) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 1:31 | 2023-12-30 |  |
+| [Shout Out Loud](https://open.spotify.com/track/7otkkXuwLdVPPWMuuCw0Hs) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Shout Out Loud](https://open.spotify.com/album/0RxDOIayfWgryjYbkgDQRK) | 3:26 | 2024-07-12 |  |
 | [Sing You a Lullaby](https://open.spotify.com/track/43VtNuMa0a03jqeQ0ZjXNT) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:38 | 2023-12-30 |  |
 | [Space In Between](https://open.spotify.com/track/5hNauSpHsisS2APmxMj8QV) | [Kristy Lee](https://open.spotify.com/artist/7Fo8xLTTUeoqisinWacdag), [Mike Ross](https://open.spotify.com/artist/3bUhrdYSG4lDtHfFyyqXnj) | [Opus Label Two](https://open.spotify.com/album/4S7IyQQwt55svl1sli9bJN) | 6:24 | 2023-12-30 |  |
 | [Standing Too Close](https://open.spotify.com/track/0YI4yEe1LAFYhJq3J2sOS4) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Standing Too Close](https://open.spotify.com/album/0bvnoBq3jC1yQSdyO8CfKf) | 3:22 | 2023-12-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1712463,
+  "num_followers": 1712474,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
-      },
-      "artists": [
-        {
-          "name": "Von Allen",
-          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
-        }
-      ],
-      "duration_ms": 217078,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
-    },
-    {
-      "added_at": "2024-06-20 11:23:55",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 215758,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
+    },
+    {
+      "added_at": "2024-06-20 11:23:55",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
+      },
+      "artists": [
+        {
+          "name": "Von Allen",
+          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
+        }
+      ],
+      "duration_ms": 217078,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "Dance Monkey",
-        "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197850,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
-    },
-    {
-      "added_at": "2024-06-20 11:23:55",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174857,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
+    },
+    {
+      "added_at": "2024-06-20 11:23:55",
+      "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197851,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
-    },
-    {
-      "added_at": "2024-06-20 11:23:55",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 178966,
       "name": "In The Meantime",
       "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+    },
+    {
+      "added_at": "2024-06-20 11:23:55",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197851,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "Ghost - acoustic",
-        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 151374,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2024-06-20 11:23:55",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
@@ -1003,18 +987,34 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "No Air",
-        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
+        "name": "Ghost - acoustic",
+        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
       },
       "artists": [
         {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
         }
       ],
-      "duration_ms": 199114,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
+      "duration_ms": 151374,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
+    },
+    {
+      "added_at": "2024-06-20 11:23:55",
+      "album": {
+        "name": "Got You (Where I Want You)",
+        "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
+      },
+      "artists": [
+        {
+          "name": "Marta Jobim",
+          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Got You (Where I Want You)",
+      "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "Got You (Where I Want You)",
-        "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
       },
       "artists": [
         {
-          "name": "Marta Jobim",
-          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
         }
       ],
-      "duration_ms": 193684,
-      "name": "Got You (Where I Want You)",
-      "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
+      "duration_ms": 199114,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "Because the Night",
-        "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 190209,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru"
-    },
-    {
-      "added_at": "2024-06-20 11:23:55",
-      "album": {
         "name": "I Ain't Worried",
         "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 164647,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+    },
+    {
+      "added_at": "2024-06-20 11:23:55",
+      "album": {
+        "name": "Because the Night",
+        "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 190209,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+        "name": "OTW (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei"
       },
       "artists": [
         {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+          "name": "Missy & Blonde",
+          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+      "duration_ms": 201655,
+      "name": "OTW - Acoustic Version",
+      "url": "https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "OTW (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei"
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
       },
       "artists": [
         {
-          "name": "Missy & Blonde",
-          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
-        },
-        {
-          "name": "Julia Ross",
-          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+          "name": "Sarah Close",
+          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
         }
       ],
-      "duration_ms": 201655,
-      "name": "OTW - Acoustic Version",
-      "url": "https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h"
+      "duration_ms": 187286,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
-    },
-    {
-      "added_at": "2024-06-20 11:23:55",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 175002,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
+    },
+    {
+      "added_at": "2024-06-20 11:23:55",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2024-06-20 11:23:55",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-06-20 11:23:55",
       "album": {
-        "name": "WITHOUT ME",
-        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
-      },
-      "artists": [
-        {
-          "name": "Graham Carter",
-          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
-        }
-      ],
-      "duration_ms": 180998,
-      "name": "WITHOUT ME",
-      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
-    },
-    {
-      "added_at": "2024-06-20 11:23:55",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 203603,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
+    },
+    {
+      "added_at": "2024-06-20 11:23:55",
+      "album": {
+        "name": "WITHOUT ME",
+        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
+      },
+      "artists": [
+        {
+          "name": "Graham Carter",
+          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
     },
     {
       "added_at": "2024-06-20 11:23:55",

@@ -2,9 +2,9 @@
 
 ### [New Music Friday Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX3crNbt46mRU)
 
-> This week's top new releases.
+> This week's top new releases\. Cover: Eminem
 
-13,008 songs - 27 day 2 hr 17 min
+13,010 songs - 27 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2049,6 +2049,7 @@
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-09 | 2022-06-17 |
 | [Casper](https://open.spotify.com/track/1dV2NyQUs4fnjIt03nsObq) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Casper](https://open.spotify.com/album/4jgelDulWcFndTEWGLyqJw) | 3:03 | 2023-05-18 | 2023-05-26 |
 | [Casually Cruel](https://open.spotify.com/track/3pN7lLslgdFupy7INJWdzV) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Casually Cruel](https://open.spotify.com/album/3ZPAAd8k3YFzqqMdjk9bys) | 2:53 | 2023-11-23 | 2023-12-01 |
+| [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-11 |  |
 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 | 2022-06-09 | 2022-06-17 |
 | [Catastrophe](https://open.spotify.com/track/6tcfHV14tqo6SyQZRX8g5A) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy) | [Catastrophe](https://open.spotify.com/album/0day1QttMp2pujmPZA62Yw) | 2:19 | 2022-04-14 | 2022-04-22 |
 | [Catch Me](https://open.spotify.com/track/75MpWNsTvnzFox0MuTZ06J) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [Catch Me](https://open.spotify.com/album/2sRClciXc0wgDQI7NwuQEz) | 2:40 | 2024-06-27 | 2024-07-05 |
@@ -10375,6 +10376,7 @@
 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 | 2023-08-03 | 2023-08-11 |
 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 | 2024-02-01 | 2024-02-09 |
 | [Somebody New \(feat\. Jordan Shaw\)](https://open.spotify.com/track/2WhcOCqUuMk9IYCB5AZ4YK) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Somebody New \(feat\. Jordan Shaw\)](https://open.spotify.com/album/3v9AGtj6lUn6qNM570avuI) | 2:34 | 2022-11-17 | 2022-11-25 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [Somebody To Miss](https://open.spotify.com/track/1PcPa9RPMbXUJBcTE0CtAx) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Somebody To Miss](https://open.spotify.com/album/7diXDKYCkXxWDniexvy8hq) | 2:42 | 2023-08-17 | 2023-08-25 |
 | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/album/3azyEFtI48wqFlyWHG2Oxe) | 2:37 | 2024-06-20 | 2024-06-28 |
 | [Someone](https://open.spotify.com/track/2304CYfbu2y5QYY5Ale7Vj) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Someone](https://open.spotify.com/album/0W1ghSYxUZUV9MmdcQ5uDz) | 2:14 | 2023-11-16 | 2023-11-24 |
@@ -12239,7 +12241,7 @@
 | [Weck mich nicht auf](https://open.spotify.com/track/7mQFtr0e2yXKquYKTm3JWl) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Weck mich nicht auf](https://open.spotify.com/album/4NaCovxUA9IJe3aWL6g4Qs) | 2:44 | 2022-04-21 | 2022-04-29 |
 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-06 | 2023-04-14 |
 | [Weekend](https://open.spotify.com/track/2OUDuS00X3uIdcklQB1Ylv) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [All the Colors of the Sky](https://open.spotify.com/album/19P0yRLN8TbnBVk8qUAYgZ) | 3:32 | 2023-01-19 | 2023-01-27 |
-| [WEEKEND \(feat\. Ghali, Artie 5ive\)](https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:21 | 2024-07-11 |  |
+| [WEEKEND \(feat\. Ghali, Artie 5ive\)](https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:02 | 2024-07-11 |  |
 | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/track/5066WzFaeJhqmQmKjBmrr6) | [Mark Mendy](https://open.spotify.com/artist/7AgS2ycsLUG0NPTY1AAboT), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/album/2rBpiaXs2GC7mPr6ckxfi3) | 2:18 | 2022-05-19 | 2022-05-27 |
 | [Weekend Lover](https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Weekend Lover](https://open.spotify.com/album/7tRmWRv8UUj1yY7erZmhds) | 3:06 | 2022-06-09 | 2022-06-17 |
 | [Weekend On A Tuesday](https://open.spotify.com/track/2vluroRO5pYzzeMwUxpXkq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Weekend On A Tuesday](https://open.spotify.com/album/5BMHBdGc7YOLKruY8C4Sl0) | 2:19 | 2022-08-18 | 2022-08-26 |

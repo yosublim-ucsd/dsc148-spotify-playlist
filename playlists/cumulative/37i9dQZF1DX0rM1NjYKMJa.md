@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0rM1NjYKMJa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0rM1NjYKMJa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0rM1NjYKMJa)
 
-### [Carnival 2023](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
+### [Carnival Sounds 2024](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> Carnival Sounds getting you ready for Miami Carnival 2023 curated by DJ JEL.
+> The sound of 2024's Carnival Season\. Cover: V'ghn
 
-415 songs - 22 hr 23 min
+416 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Hard Fete](https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Hard Fete](https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK) | 3:50 | 2023-02-21 | 2023-08-08 |
 | [Haunted](https://open.spotify.com/track/6Em6PEG03s2qGhz9KbR7Wu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 4:20 | 2022-08-18 | 2023-02-22 |
 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 | 2023-09-24 |  |
+| [Heart of Carnival](https://open.spotify.com/track/3Iq1wvKVm62usdyRYSpgll) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MuSiK](https://open.spotify.com/artist/6C7HNY3aVuBoEFPfvLNY7w) | [Heart of Carnival](https://open.spotify.com/album/2N1jemN8hCRdsqFOX5dS5k) | 3:40 | 2024-07-12 |  |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2022-02-24 | 2022-10-05 |
 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2022-08-18 | 2023-09-25 |
 | [Hello Carnival](https://open.spotify.com/track/3oWHkOKSrzVNNBMGjkOQnX) | [Ezra D'FunMachine](https://open.spotify.com/artist/2TKe7B0PlMzjMSyHbSO7Ry), [Tori Elle](https://open.spotify.com/artist/5SIgMtxOujOvpyjBH8919c) | [Hello Carnival](https://open.spotify.com/album/5R8hkmBAqZxpUk93st5Exk) | 3:03 | 2023-09-24 |  |

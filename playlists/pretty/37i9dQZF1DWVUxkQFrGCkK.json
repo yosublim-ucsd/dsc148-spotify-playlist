@@ -1,12 +1,12 @@
 {
   "description": "moooooooove",
-  "num_followers": 283858,
+  "num_followers": 284032,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByPAAAAADiADJ0XX246Qx3bBgEZt09",
+  "snapshot_id": "ZpFt2wAAAAAKn1sU77R0DuPBMdEgv700",
   "tracks": [
     {
       "added_at": "2024-07-12 00:01:00",
@@ -41,64 +41,24 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-12 00:01:00",
+      "added_at": "2024-07-12 17:54:35",
       "album": {
-        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+        "name": "Undressed (Vidojean & Oliver Loenn Remix)",
+        "url": "https://open.spotify.com/album/6Ib3IehyjOhGyDLqaZQWRH"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
         },
         {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
         }
       ],
-      "duration_ms": 224124,
-      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Bo Bom (Alan Dixon Remix)",
-        "url": "https://open.spotify.com/album/3CXIxPdrZNb9clvMXlHQxU"
-      },
-      "artists": [
-        {
-          "name": "Moeaike",
-          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
-        },
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
-        }
-      ],
-      "duration_ms": 339582,
-      "name": "Bo Bom - Alan Dixon Remix",
-      "url": "https://open.spotify.com/track/1iLQ6TLiUWa91dvELYujTh"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
-      },
-      "artists": [
-        {
-          "name": "Ferra Black",
-          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
-        },
-        {
-          "name": "Warren Blake",
-          "url": "https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1"
-        }
-      ],
-      "duration_ms": 214656,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
+      "duration_ms": 206000,
+      "name": "Undressed - Vidojean & Oliver Loenn Remix",
+      "url": "https://open.spotify.com/track/1f0ErRtNccQIzEnqRm0BA2"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -123,6 +83,66 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Bo Bom (Alan Dixon Remix)",
+        "url": "https://open.spotify.com/album/3CXIxPdrZNb9clvMXlHQxU"
+      },
+      "artists": [
+        {
+          "name": "Moeaike",
+          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "duration_ms": 339582,
+      "name": "Bo Bom - Alan Dixon Remix",
+      "url": "https://open.spotify.com/track/1iLQ6TLiUWa91dvELYujTh"
+    },
+    {
+      "added_at": "2024-07-12 17:54:35",
+      "album": {
+        "name": "Music is Better Remixed",
+        "url": "https://open.spotify.com/album/0I1gMDng6EbZINOlPpd569"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        }
+      ],
+      "duration_ms": 415204,
+      "name": "Music is Better - Maxi Meraki Remix",
+      "url": "https://open.spotify.com/track/2QH3TD75UTjO60CK21fSDM"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
+      },
+      "artists": [
+        {
+          "name": "Ferra Black",
+          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
+        },
+        {
+          "name": "Warren Blake",
+          "url": "https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1"
+        }
+      ],
+      "duration_ms": 214656,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "Phasing the Shit",
         "url": "https://open.spotify.com/album/4WFj5GmXwU8f3W49qbzoD2"
       },
@@ -135,6 +155,26 @@
       "duration_ms": 271196,
       "name": "Who's Gonna Be",
       "url": "https://open.spotify.com/track/0a9M6vIfvZH3eiMFSllIqG"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -313,28 +353,28 @@
       "url": "https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u"
     },
     {
-      "added_at": "2024-07-12 00:01:00",
+      "added_at": "2024-07-12 17:54:35",
       "album": {
-        "name": "Please Be Mine",
-        "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
+        "name": "At Night I Think Of You (Seth Troxler & Nick Morgan Remix)",
+        "url": "https://open.spotify.com/album/4GBQXHCUrxqHQFzLizB4Oq"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
         },
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
         },
         {
-          "name": "Club Azur",
-          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
+          "name": "Nick Morgan",
+          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
         }
       ],
-      "duration_ms": 193885,
-      "name": "Please Be Mine",
-      "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
+      "duration_ms": 219866,
+      "name": "At Night I Think Of You - Seth Troxler & Nick Morgan Remix",
+      "url": "https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -391,6 +431,26 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+    },
+    {
+      "added_at": "2024-07-12 17:54:35",
+      "album": {
+        "name": "You Take Me Higher",
+        "url": "https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "You Take Me Higher",
+      "url": "https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -471,6 +531,30 @@
       "duration_ms": 208814,
       "name": "Motions",
       "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
+    },
+    {
+      "added_at": "2024-07-12 17:54:35",
+      "album": {
+        "name": "M4M",
+        "url": "https://open.spotify.com/album/5GLMaVQdAKlEAvoAiVHlD2"
+      },
+      "artists": [
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+        },
+        {
+          "name": "Alex Dovo",
+          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
+        },
+        {
+          "name": "Louie Dager",
+          "url": "https://open.spotify.com/artist/5KjKqg0GxwnlLLFQGmD95M"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "M4M",
+      "url": "https://open.spotify.com/track/41WTmr2BJ19i0Xqg3CS6I8"
     },
     {
       "added_at": "2024-07-12 00:01:00",

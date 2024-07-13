@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-594 songs - 1 day 8 hr 40 min
+595 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Over my head](https://open.spotify.com/track/6r5tlCMur8Vngv3n0DzOFl) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Over my head](https://open.spotify.com/album/5fpYoh1ma26Fsr2XJB21Cp) | 3:15 | 2021-03-10 | 2022-04-18 |
 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 | 2023-06-30 |  |
 | [Overnight](https://open.spotify.com/track/7ECVfGSNDNwonkilEoD9h3) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Lonely Is A Lifetime](https://open.spotify.com/album/2b9pzFCI2Cf2oRZdhk0EUl) | 4:07 | 2022-03-11 | 2022-04-15 |
-| [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 | 2021-06-25 |  |
+| [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 | 2021-06-25 | 2024-07-13 |
 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 | 2023-02-17 | 2023-08-01 |
 | [Painkiller](https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:22 | 2022-03-11 | 2022-04-19 |
 | [Painting \(Masterpiece\)](https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Painting \(Masterpiece\)](https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC) | 4:03 | 2022-03-11 | 2023-03-29 |
@@ -419,6 +419,7 @@
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-24 | 2023-09-15 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 | 2024-03-10 | 2024-04-19 |
 | [Quiet Little Voices](https://open.spotify.com/track/3zniSx8DVtUSuJ0WAToZUy) | [We Were Promised Jetpacks](https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH) | [These Four Walls](https://open.spotify.com/album/5RzT4Ypfjk6i1xLQpXXZFI) | 4:21 | 2022-03-11 | 2022-04-17 |
+| [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-07-12 |  |
 | [Ready For More](https://open.spotify.com/track/0DSHQkFL8ppNiYJgFaOq6r) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Ready For More](https://open.spotify.com/album/1cd2rHNaFkLMVXcYyuqo5D) | 3:26 | 2021-03-10 | 2022-04-19 |
 | [Ready To Let Go](https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:07 | 2023-09-15 |  |
 | [Rebel Heart](https://open.spotify.com/track/2VsLaBtuqVC3HlJ97A0LLO) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [Rebel Heart](https://open.spotify.com/album/7gq0S63XbrBbhnbZcLdJrt) | 3:58 | 2022-03-11 | 2022-04-21 |

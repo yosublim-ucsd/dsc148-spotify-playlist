@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Appreciation",
+        "url": "https://open.spotify.com/album/4Jqd5OiORj1ymZtpgtMFxN"
+      },
+      "artists": [
+        {
+          "name": "Johann Eder",
+          "url": "https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166796,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/5rL3vtLmgC53w0QVF8Sn8W"
+    },
+    {
+      "album": {
         "name": "Eternalis",
         "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
       },
@@ -1157,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Deep Corals",
+        "url": "https://open.spotify.com/album/17GOkpj7miUIyXhuHyVP0u"
+      },
+      "artists": [
+        {
+          "name": "Aquatic Dreamer",
+          "url": "https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160807,
+      "name": "Deep Corals",
+      "url": "https://open.spotify.com/track/12Ck0PpmNxzVYQZzzGdRYJ"
+    },
+    {
+      "album": {
         "name": "Breathe Out",
         "url": "https://open.spotify.com/album/2CiiGCO5igDhPWapdqw2Ub"
       },
@@ -1244,6 +1280,24 @@
       "duration_ms": 136000,
       "name": "Dream Light",
       "url": "https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6"
+    },
+    {
+      "album": {
+        "name": "Dreaming Away",
+        "url": "https://open.spotify.com/album/39HKL1RGVwCU4mOjl3Ncjb"
+      },
+      "artists": [
+        {
+          "name": "Leo Mano",
+          "url": "https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187661,
+      "name": "Dreaming Away",
+      "url": "https://open.spotify.com/track/3g6uL1itMFGwt7I4ZL93BB"
     },
     {
       "album": {
@@ -1698,6 +1752,24 @@
       "duration_ms": 162500,
       "name": "Flucht",
       "url": "https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4"
+    },
+    {
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/6fezkyDVsT5rzLctv7qAzz"
+      },
+      "artists": [
+        {
+          "name": "Dalhem",
+          "url": "https://open.spotify.com/artist/64Vb2P6lpNclAbQYxKC9d0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178913,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/3Dw4FqYfq8wicUqbRpFCwA"
     },
     {
       "album": {
@@ -2547,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Luminescence",
+        "url": "https://open.spotify.com/album/2oHzMmt9sY0vtyMWOQsB3Y"
+      },
+      "artists": [
+        {
+          "name": "Sophie Emitt",
+          "url": "https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Luminescence",
+      "url": "https://open.spotify.com/track/3BgDkTPwQNMpscN8m9bREy"
+    },
+    {
+      "album": {
         "name": "Mane Fluctus",
         "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
       },
@@ -2634,6 +2724,24 @@
       "duration_ms": 207857,
       "name": "Miraculous",
       "url": "https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh"
+    },
+    {
+      "album": {
+        "name": "Misty Mountains",
+        "url": "https://open.spotify.com/album/5rY37ktpYD5yOJK6CdTCSZ"
+      },
+      "artists": [
+        {
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171964,
+      "name": "Misty Mountains",
+      "url": "https://open.spotify.com/track/3OYqmJugZrAI14hfjnZsRN"
     },
     {
       "album": {
@@ -2868,6 +2976,24 @@
       "duration_ms": 173500,
       "name": "New Born",
       "url": "https://open.spotify.com/track/7GI3K8TBDzQQ9CjmHIchU5"
+    },
+    {
+      "album": {
+        "name": "Night Skies",
+        "url": "https://open.spotify.com/album/3SGCfqCFs3HJebpEPJRpBo"
+      },
+      "artists": [
+        {
+          "name": "Aaera Mio",
+          "url": "https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153539,
+      "name": "Night Skies",
+      "url": "https://open.spotify.com/track/1ZdkpDsM0ZvGXAVAARWRoK"
     },
     {
       "album": {
@@ -4585,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "Significance",
+        "url": "https://open.spotify.com/album/1WUUamSMdvlzn8MbPFX9Jg"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195273,
+      "name": "Universal Truth",
+      "url": "https://open.spotify.com/track/2zP7XSG2knSBpMJGf77WjF"
+    },
+    {
+      "album": {
         "name": "Hollow Sunset",
         "url": "https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y"
       },
@@ -4636,6 +4780,24 @@
       "duration_ms": 146250,
       "name": "Velvet Rapsody",
       "url": "https://open.spotify.com/track/56SRF43k9hKZAMADNTSmIX"
+    },
+    {
+      "album": {
+        "name": "Verdensrommet",
+        "url": "https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0"
+      },
+      "artists": [
+        {
+          "name": "Aksel M\u00f8ller",
+          "url": "https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Verdensrommet",
+      "url": "https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf"
     },
     {
       "album": {
@@ -4870,6 +5032,24 @@
       "duration_ms": 207250,
       "name": "Where Peaceful Waters Flow",
       "url": "https://open.spotify.com/track/06k0KNOgWngBL962uONmeV"
+    },
+    {
+      "album": {
+        "name": "Whispering Hope",
+        "url": "https://open.spotify.com/album/22wuAmMNIRiQWMLJVoMHGi"
+      },
+      "artists": [
+        {
+          "name": "Sergei Andreyev",
+          "url": "https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161462,
+      "name": "Whispering Hope",
+      "url": "https://open.spotify.com/track/6PQTJNsTdZMD9RPHAWvk6T"
     },
     {
       "album": {

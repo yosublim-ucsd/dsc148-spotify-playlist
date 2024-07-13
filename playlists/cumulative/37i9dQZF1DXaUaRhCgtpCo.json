@@ -2919,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "Star Wars Lofi: Vol. 2",
+        "url": "https://open.spotify.com/album/2XDg88QEu1s1i5epFgW4Hg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        },
+        {
+          "name": "Star Wars Lofi",
+          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153148,
+      "name": "Where the Sun Sails and the Moon Walks",
+      "url": "https://open.spotify.com/track/6WJZY3pVLemc5Xjx6YTBGE"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
       },

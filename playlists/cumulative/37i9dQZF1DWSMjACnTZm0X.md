@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Tay Iwar
 
-232 songs - 16 hr 11 min
+233 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Sugar](https://open.spotify.com/track/0EFOT4wLwR4AZBGMTg3Ne3) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Sugar](https://open.spotify.com/album/6ewzGgAnMYgU7RmE3XWw0T) | 2:18 | 2024-04-12 |  |
 | [Sunmomi](https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:48 | 2022-09-09 | 2023-09-23 |
 | [Superstar \(feat\. BL Zero & Moodee\)](https://open.spotify.com/track/0IZTs4E6AxiUWMvUvy4tm5) | [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5), [Tiffany Taylor](https://open.spotify.com/artist/126r4JEOj4anOCOQTaExvZ), [BL Zero](https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl), [MooDee](https://open.spotify.com/artist/4IIl9PT3zqCiIuTBqJ8vvk) | [Superstar \(feat\. BL Zero & Moodee\)](https://open.spotify.com/album/4a2Q1b4h3O259hVTvjXjQ5) | 6:13 | 2024-05-09 |  |
+| [Sweat \- Yumbs Remix](https://open.spotify.com/track/1Mu7Wh7hNeoC7GFBcIcjhc) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Sweat \(Yumbs Remix\)](https://open.spotify.com/album/4svCZq2P5edr3izapQKj0v) | 1:55 | 2024-07-11 |  |
 | [Take Ova \- Remix](https://open.spotify.com/track/46jWaCgGar5s92mMThXM8j) | [Murphy Cubic](https://open.spotify.com/artist/16JkyAB5jDYrsQhYep7ttR), [Stanley Enow](https://open.spotify.com/artist/1FEzMUWFcZynVzahFj6Xny), [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp) | [Take Ova \(Remix\)](https://open.spotify.com/album/4t8jMBM6olQPkf1y8SonMR) | 2:37 | 2024-04-12 |  |
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-05-23 | 2023-10-13 |
 | [Tell Somebody](https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd) | [Effyzzie Music](https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [Tell Somebody](https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8) | 3:57 | 2022-05-23 | 2022-12-13 |

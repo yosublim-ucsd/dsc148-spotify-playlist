@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 128164,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
@@ -4026,7 +4026,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 184746,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
@@ -6875,6 +6875,24 @@
     },
     {
       "album": {
+        "name": "i hope i never fall in love",
+        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216818,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
+    },
+    {
+      "album": {
         "name": "I Hope You Know",
         "url": "https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo"
       },
@@ -6980,6 +6998,24 @@
       "duration_ms": 201463,
       "name": "I Just Want a Lover",
       "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185785,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX"
     },
     {
       "album": {
@@ -9324,7 +9360,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 214865,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0UrupbFijMlpNFH0hEuJnN"
@@ -15798,6 +15834,24 @@
       "duration_ms": 251504,
       "name": "would you call me up?",
       "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
+    },
+    {
+      "album": {
+        "name": "Wreck",
+        "url": "https://open.spotify.com/album/3G6M5Mq5OxXxGk0wVPoeAU"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168900,
+      "name": "Wreck",
+      "url": "https://open.spotify.com/track/47VfDBmjjID2C4lGr24qrF"
     },
     {
       "album": {

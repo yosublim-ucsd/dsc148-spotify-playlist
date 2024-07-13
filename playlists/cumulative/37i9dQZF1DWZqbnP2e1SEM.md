@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-365 songs - 19 hr 40 min
+366 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-20 | 2022-07-07 |
 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 | 2024-06-14 |  |
 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [System \(feat\. WizKid\)](https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM) | 3:01 | 2022-05-10 | 2023-09-12 |
+| [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 | 2024-07-05 |  |
 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 | 2024-06-14 |  |
 | [Take It Off](https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J) | 3:14 | 2023-11-22 |  |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-09-11 | 2024-04-19 |
@@ -337,7 +338,7 @@
 | [Through 2 You](https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Through 2 You](https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ) | 3:18 | 2021-07-09 | 2024-06-14 |
 | [Tiki Tiki](https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Tiki Tiki](https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V) | 2:04 | 2024-05-24 |  |
 | [Turn The Music Louder \(Rumble\) \- Radio Edit](https://open.spotify.com/track/0FiRmnmsaCwTHICjmybeey) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Turn The Music Louder \(Rumble\) \[Radio Edit\]](https://open.spotify.com/album/01dms3sOR3EdzlxLcCFoZ0) | 3:21 | 2021-07-09 | 2022-05-11 |
-| [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 | 2024-07-05 |  |
+| [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 | 2024-07-05 | 2024-07-13 |
 | [Used To This](https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:46 | 2023-10-12 | 2024-04-19 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-05-10 | 2024-05-25 |
 | [Vibranium](https://open.spotify.com/track/3i3zj8jTAHkr3b1dSR6SOU) | [Chunkz](https://open.spotify.com/artist/3Lpx3ZSrsLeaVD9zKtGPiG), [Neji](https://open.spotify.com/artist/4Zpw485tk1ubdqIBe6GX9O) | [Vibranium](https://open.spotify.com/album/6GncPsrhSGA66FhgRaXr6d) | 3:28 | 2021-07-09 | 2022-05-11 |

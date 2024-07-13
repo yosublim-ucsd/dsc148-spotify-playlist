@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: PRIBELSZKI",
-  "num_followers": 13369,
+  "num_followers": 13372,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Soha",
-        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 212432,
-      "name": "Soha",
-      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Sz\u00f6rny vagyok",
         "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 182952,
       "name": "Sz\u00f6rny vagyok",
       "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Soha",
+        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 212432,
+      "name": "Soha",
+      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Ez vagyok \u00e9n",
-        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 97263,
-      "name": "Ez vagyok \u00e9n",
-      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Hull\u00f3csillag",
         "url": "https://open.spotify.com/album/6PdCoLIgZmQCImlOuCsvfI"
       },
@@ -727,22 +711,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/0xuiWphJRKgRJgeQmaKMgV"
+        "name": "Ez vagyok \u00e9n",
+        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
       },
       "artists": [
         {
-          "name": "Belau",
-          "url": "https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya"
-        },
-        {
-          "name": "Ay Wing",
-          "url": "https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4"
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
         }
       ],
-      "duration_ms": 229480,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER"
+      "duration_ms": 97263,
+      "name": "Ez vagyok \u00e9n",
+      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -779,6 +759,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/0xuiWphJRKgRJgeQmaKMgV"
+      },
+      "artists": [
+        {
+          "name": "Belau",
+          "url": "https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya"
+        },
+        {
+          "name": "Ay Wing",
+          "url": "https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "K\u00e9s\u0151 Van",
         "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Romeo and Juliet",
-        "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "Romeo and Juliet",
-      "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "pontnem",
         "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Szeressetek",
-        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
+        "name": "Romeo and Juliet",
+        "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
       },
       "artists": [
         {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Szeressetek",
-      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+      "duration_ms": 174250,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Szeressetek",
+        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Szeressetek",
+      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Megbolond\u00edtott\u00e1l",
-        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 198665,
-      "name": "Megbolond\u00edtott\u00e1l",
-      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "El\u00e9g a tenger",
         "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 162099,
       "name": "N\u00e9gyes-Hatos",
       "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Megbolond\u00edtott\u00e1l",
+        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 198665,
+      "name": "Megbolond\u00edtott\u00e1l",
+      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "l\u00e9lekveszt\u0151",
-        "url": "https://open.spotify.com/album/1kmRowYdtUySOuanW922gI"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "l\u00e9lekveszt\u0151",
-      "url": "https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7K0LwglwjmTKmciV4qQXYa"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 250898,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2ROgCcAANTmdGfsX4HjrvF"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "l\u00e9lekveszt\u0151",
+        "url": "https://open.spotify.com/album/1kmRowYdtUySOuanW922gI"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "l\u00e9lekveszt\u0151",
+      "url": "https://open.spotify.com/track/7dgFk7rFobeILxZRDfiCNC"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Csillagt\u0171z",
-        "url": "https://open.spotify.com/album/5HODzK3fIEkx0oM5yxSfXf"
+        "name": "Es\u0151 el\u0151tt",
+        "url": "https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh"
       },
       "artists": [
         {
-          "name": "Sena Dagadu",
-          "url": "https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH"
+          "name": "L\u00e1z\u00e1r tes\u00f3k",
+          "url": "https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO"
         }
       ],
-      "duration_ms": 226451,
-      "name": "Csillagt\u0171z",
-      "url": "https://open.spotify.com/track/5QNt5GxZknG7yi3jdjZlx3"
+      "duration_ms": 170270,
+      "name": "A v\u00e9g\u00e9n \u00fagyis",
+      "url": "https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1319,38 +1319,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Es\u0151 el\u0151tt",
-        "url": "https://open.spotify.com/album/7pPp3iMLWOeCKfRq3qYeCh"
+        "name": "Csillagt\u0171z",
+        "url": "https://open.spotify.com/album/5HODzK3fIEkx0oM5yxSfXf"
       },
       "artists": [
         {
-          "name": "L\u00e1z\u00e1r tes\u00f3k",
-          "url": "https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO"
+          "name": "Sena Dagadu",
+          "url": "https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH"
         }
       ],
-      "duration_ms": 170270,
-      "name": "A v\u00e9g\u00e9n \u00fagyis",
-      "url": "https://open.spotify.com/track/6co2nRBAZopdXDN1iZxdby"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Az \u00c9n Sz\u00edvem",
-        "url": "https://open.spotify.com/album/4z7BEJamlzxLYNspWI4gVa"
-      },
-      "artists": [
-        {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
-        },
-        {
-          "name": "toldyuuso",
-          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Az \u00c9n Sz\u00edvem",
-      "url": "https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi"
+      "duration_ms": 226451,
+      "name": "Csillagt\u0171z",
+      "url": "https://open.spotify.com/track/5QNt5GxZknG7yi3jdjZlx3"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1371,6 +1351,26 @@
       "duration_ms": 156000,
       "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
       "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Az \u00c9n Sz\u00edvem",
+        "url": "https://open.spotify.com/album/4z7BEJamlzxLYNspWI4gVa"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        },
+        {
+          "name": "toldyuuso",
+          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Az \u00c9n Sz\u00edvem",
+      "url": "https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi"
     },
     {
       "added_at": "2024-07-04 22:00:00",

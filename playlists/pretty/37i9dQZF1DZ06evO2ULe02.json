@@ -1,29 +1,13 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 841,
+  "num_followers": 843,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAACCtS1TEuBCrfhvDmK56LML",
+  "snapshot_id": "Zo8ggAAAAAAOexnDZ2f1IyoKcdZkpHdq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tripping Over Air",
-        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 182382,
-      "name": "Tripping Over Air",
-      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 183012,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 205553,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Alright If You're Ok",
         "url": "https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 192393,
       "name": "All That I'm Craving",
       "url": "https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 205553,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
     },
     {
       "added_at": null,

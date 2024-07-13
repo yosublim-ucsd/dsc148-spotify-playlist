@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204346,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/01KaVHhy0tzsHoeWUdHtUp"
@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Does It Even",
+        "url": "https://open.spotify.com/album/5nzHJJutjwPOKVYZFVDDUv"
+      },
+      "artists": [
+        {
+          "name": "Liv Dawson",
+          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195469,
+      "name": "Does It Even",
+      "url": "https://open.spotify.com/track/7FR2q7Ig8Avnc0XdYF17vD"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/3BZHVbIcj4cfUNDecwYDHR"
       },
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 209025,
       "name": "Heaven Takes You Home (feat. Connie Constance) - Alternative Mix",
       "url": "https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM"
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 241040,
       "name": "Heavy With Hoping",
       "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 202995,
       "name": "I Forgot What's Love",
       "url": "https://open.spotify.com/track/6ieN3wcNaehATjOSz2V4Aj"
@@ -3408,6 +3426,24 @@
       "duration_ms": 165000,
       "name": "Leave the Door Open",
       "url": "https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h"
+    },
+    {
+      "album": {
+        "name": "Leave With My Love",
+        "url": "https://open.spotify.com/album/3YDbviYPVAnFmWz8C480r7"
+      },
+      "artists": [
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216393,
+      "name": "Leave With My Love",
+      "url": "https://open.spotify.com/track/3fQLLG61qoXyRy3tMWiqbk"
     },
     {
       "album": {

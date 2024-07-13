@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats for a restful night's sleep.",
-  "num_followers": 372486,
+  "num_followers": 372762,
   "original_name": "lofi sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoZvQgAAAABpTj7Zvio1a20sCdSrj/Y6",
+  "snapshot_id": "ZpElxAAAAACLerVgB4jqwiXFDsptaXs0",
   "tracks": [
     {
       "added_at": "2024-07-04 09:45:38",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/7BxIPN6c4yp0aM9BPGDwsq"
     },
     {
+      "added_at": "2024-07-12 12:47:00",
+      "album": {
+        "name": "seek somebody",
+        "url": "https://open.spotify.com/album/4cj8n9qE2S3ccWglfiNzMT"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "duration_ms": 164487,
+      "name": "seek somebody",
+      "url": "https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi"
+    },
+    {
       "added_at": "2024-07-04 09:45:38",
       "album": {
         "name": "sleeper time",
@@ -295,22 +311,6 @@
       "duration_ms": 127741,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy"
-    },
-    {
-      "added_at": "2024-07-04 09:45:38",
-      "album": {
-        "name": "Pitter-Patter",
-        "url": "https://open.spotify.com/album/4nxBcqVH2vuzJY436HTA02"
-      },
-      "artists": [
-        {
-          "name": "Au-Gust\u00ed",
-          "url": "https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7"
-        }
-      ],
-      "duration_ms": 128181,
-      "name": "Pitter-Patter",
-      "url": "https://open.spotify.com/track/7MR9zbinnWLf7I6CkICrxm"
     },
     {
       "added_at": "2024-07-04 09:45:38",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/6OiddswMqjTCV1YlSexWYb"
     },
     {
+      "added_at": "2024-07-12 12:47:00",
+      "album": {
+        "name": "Wunderkind",
+        "url": "https://open.spotify.com/album/3ngXpICokhkA4wmJXAdqZ7"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Wunderkind",
+      "url": "https://open.spotify.com/track/2JiKSNdbGmiRSeHgglHkTq"
+    },
+    {
       "added_at": "2024-07-04 09:45:38",
       "album": {
         "name": "Warm",
@@ -651,6 +667,22 @@
       "duration_ms": 182533,
       "name": "Warm",
       "url": "https://open.spotify.com/track/1gSeaxQXKGsJ9yCZ90UjuL"
+    },
+    {
+      "added_at": "2024-07-04 09:45:38",
+      "album": {
+        "name": "Pitter-Patter",
+        "url": "https://open.spotify.com/album/4nxBcqVH2vuzJY436HTA02"
+      },
+      "artists": [
+        {
+          "name": "Au-Gust\u00ed",
+          "url": "https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7"
+        }
+      ],
+      "duration_ms": 128181,
+      "name": "Pitter-Patter",
+      "url": "https://open.spotify.com/track/7MR9zbinnWLf7I6CkICrxm"
     },
     {
       "added_at": "2024-07-04 09:45:38",
@@ -819,22 +851,6 @@
     {
       "added_at": "2024-07-04 09:45:38",
       "album": {
-        "name": "Sundown Chill",
-        "url": "https://open.spotify.com/album/2P7uNf0SHemPAGdRoQQs46"
-      },
-      "artists": [
-        {
-          "name": "Breezonic",
-          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Sundown Chill",
-      "url": "https://open.spotify.com/track/2Cokpifmi3nuz1N7NWcryd"
-    },
-    {
-      "added_at": "2024-07-04 09:45:38",
-      "album": {
         "name": "Will-O-Wisp",
         "url": "https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA"
       },
@@ -943,6 +959,22 @@
       "duration_ms": 139598,
       "name": "bedtime routine",
       "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
+    },
+    {
+      "added_at": "2024-07-12 12:47:00",
+      "album": {
+        "name": "Midnight Groove",
+        "url": "https://open.spotify.com/album/4cS4FNN1tFk9sT8avKlsSD"
+      },
+      "artists": [
+        {
+          "name": "Nova Night",
+          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Midnight Groove",
+      "url": "https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB"
     },
     {
       "added_at": "2024-07-04 09:45:38",
@@ -1271,6 +1303,22 @@
       "duration_ms": 133333,
       "name": "collecting atoms",
       "url": "https://open.spotify.com/track/16nQiePcYcp0yTzJ0B6eea"
+    },
+    {
+      "added_at": "2024-07-04 09:45:38",
+      "album": {
+        "name": "Sundown Chill",
+        "url": "https://open.spotify.com/album/2P7uNf0SHemPAGdRoQQs46"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Sundown Chill",
+      "url": "https://open.spotify.com/track/2Cokpifmi3nuz1N7NWcryd"
     },
     {
       "added_at": "2024-07-04 09:45:38",
@@ -1645,6 +1693,26 @@
       "url": "https://open.spotify.com/track/7Hta47UV3c7AQTc8s7ySXP"
     },
     {
+      "added_at": "2024-07-12 12:47:00",
+      "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2xMLl29bSVkNwrP8ShrVMn"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        },
+        {
+          "name": "morningtime",
+          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "Alpenglow",
+      "url": "https://open.spotify.com/track/77CHlEMNfFsgtqa00mVWWl"
+    },
+    {
       "added_at": "2024-07-04 09:45:38",
       "album": {
         "name": "duplicated",
@@ -1867,6 +1935,22 @@
       "duration_ms": 108679,
       "name": "arcade",
       "url": "https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf"
+    },
+    {
+      "added_at": "2024-07-12 12:47:00",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5eQTh2DTMOIeEmeB24W3y2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/28vceAWtFdaciUoglO567B"
     },
     {
       "added_at": "2024-07-04 09:45:38",
@@ -2907,22 +2991,6 @@
     {
       "added_at": "2024-07-04 09:45:38",
       "album": {
-        "name": "lunar walk",
-        "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
-      },
-      "artists": [
-        {
-          "name": "laura ploy",
-          "url": "https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "lunar walk",
-      "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
-    },
-    {
-      "added_at": "2024-07-04 09:45:38",
-      "album": {
         "name": "sunbeamz",
         "url": "https://open.spotify.com/album/5l3MVu8OIxb8d1VvGWso3F"
       },
@@ -3031,22 +3099,6 @@
       "duration_ms": 210110,
       "name": "Sleeping Stars",
       "url": "https://open.spotify.com/track/2OQy9UpKomTSeI74Mx1EWO"
-    },
-    {
-      "added_at": "2024-07-04 09:45:38",
-      "album": {
-        "name": "sky high",
-        "url": "https://open.spotify.com/album/6VVbh0xx467r5hHnDCR7dc"
-      },
-      "artists": [
-        {
-          "name": "Tempeh Beats",
-          "url": "https://open.spotify.com/artist/2fLplIQ8J2rIdiiIwidU36"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "sky high",
-      "url": "https://open.spotify.com/track/4PHUBxrCkQkCHiG95e3zIS"
     },
     {
       "added_at": "2024-07-04 09:45:38",
@@ -3579,22 +3631,6 @@
     {
       "added_at": "2024-07-04 09:45:38",
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/0iwbHAYFibN9BRnY3QXkyf"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly, CC",
-          "url": "https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL"
-        }
-      ],
-      "duration_ms": 149229,
-      "name": "Bedtime Stories",
-      "url": "https://open.spotify.com/track/58tz6Yhb4Fls6Fanm7k7yR"
-    },
-    {
-      "added_at": "2024-07-04 09:45:38",
-      "album": {
         "name": "Till The Rain Stops",
         "url": "https://open.spotify.com/album/0iBYpZltmqJz9Tcc4rD9nn"
       },
@@ -3639,6 +3675,22 @@
       "duration_ms": 129075,
       "name": "Sree",
       "url": "https://open.spotify.com/track/22zKQbQzKaZwDeyNlGY6oF"
+    },
+    {
+      "added_at": "2024-07-04 09:45:38",
+      "album": {
+        "name": "lunar walk",
+        "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
+      },
+      "artists": [
+        {
+          "name": "laura ploy",
+          "url": "https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "lunar walk",
+      "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
     },
     {
       "added_at": "2024-07-04 09:45:38",
@@ -4499,26 +4551,6 @@
     {
       "added_at": "2024-07-04 09:45:38",
       "album": {
-        "name": "Hard Times",
-        "url": "https://open.spotify.com/album/2YKuB3XrvwPlNEBNeq0hZZ"
-      },
-      "artists": [
-        {
-          "name": "Tyler.l",
-          "url": "https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic"
-        },
-        {
-          "name": "feelith.",
-          "url": "https://open.spotify.com/artist/23JZkdnZR2pUnSc7e9bFGs"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/3HFGiK5ebI7HgPehxyoc2a"
-    },
-    {
-      "added_at": "2024-07-04 09:45:38",
-      "album": {
         "name": "a night to remember",
         "url": "https://open.spotify.com/album/4Axumrdio6VhJkVAVc0OhT"
       },
@@ -5231,22 +5263,6 @@
       "duration_ms": 171200,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj"
-    },
-    {
-      "added_at": "2024-07-04 09:45:38",
-      "album": {
-        "name": "Empyreal",
-        "url": "https://open.spotify.com/album/75kTZInzYeaqpZstd13B0e"
-      },
-      "artists": [
-        {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
-        }
-      ],
-      "duration_ms": 143955,
-      "name": "Empyreal",
-      "url": "https://open.spotify.com/track/1pvSMxjRqHzDDwSdjOwLbX"
     }
   ],
   "unique_name": "lofi sleep",

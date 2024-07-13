@@ -4,7 +4,7 @@
 
 > Brand new music from Griff \(pictured\), Katy Perry, Ice Spice ft Central Cee and more!
 
-11,314 songs - 25 day 10 hr 32 min
+11,316 songs - 25 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8911,6 +8911,7 @@
 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 | 2023-08-03 | 2023-08-11 |
 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 | 2024-02-02 | 2024-02-09 |
 | [Somebody New \(feat\. Jordan Shaw\)](https://open.spotify.com/track/2WhcOCqUuMk9IYCB5AZ4YK) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Somebody New \(feat\. Jordan Shaw\)](https://open.spotify.com/album/3v9AGtj6lUn6qNM570avuI) | 2:34 | 2022-11-18 | 2022-11-25 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [Somebody To Love](https://open.spotify.com/track/4kdnXIncjnnhHGUiha3JSr) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Duwayne Motley](https://open.spotify.com/artist/4bLu5NhZ3qGpZvXOtAvMXq), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [Somebody To Love](https://open.spotify.com/album/4ffH2BVHtKgRBvpNdoKs9j) | 3:25 | 2024-01-05 | 2024-01-12 |
 | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/album/3azyEFtI48wqFlyWHG2Oxe) | 2:37 | 2024-06-20 | 2024-06-28 |
 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 | 2023-01-27 | 2023-02-03 |
@@ -9761,6 +9762,7 @@
 | [The Light Nights](https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Look to the East, Look to the West](https://open.spotify.com/album/2lzp6aJkH2qyJYiArzjLd1) | 4:33 | 2024-05-02 | 2024-05-10 |
 | [The Likes Of Us](https://open.spotify.com/track/214S0jyOHYqeykI5VfFxDX) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [The Likes Of Us](https://open.spotify.com/album/4bW1xAnroNCjA9M9SdkDDA) | 4:30 | 2023-03-03 | 2023-03-10 |
 | [The Line](https://open.spotify.com/track/5Zkwif4hJHnTrYfS7IGF8l) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [The Line](https://open.spotify.com/album/1IbeiXX7cKHTiLAojPJhjU) | 3:34 | 2024-06-20 | 2024-06-28 |
+| [The Local](https://open.spotify.com/track/6OsCFf3l9wOWnHACeENsbe) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [The Local](https://open.spotify.com/album/7ouB5fANmD12fpT1ExhfDY) | 6:00 | 2024-07-12 |  |
 | [The Long Way](https://open.spotify.com/track/3nM8FrfQwX4kMUNygWZicg) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [The Long Way](https://open.spotify.com/album/0ohQJ1H0tN3bMfccSNpk9M) | 3:14 | 2023-05-18 | 2023-05-26 |
 | [The Loop](https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK) | [The Loop](https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h) | 3:01 | 2023-07-13 | 2023-07-21 |
 | [The Lost Ones](https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/1CnKBGgQ9zHLNU3JBXJ2OK) | 3:41 | 2024-03-22 | 2024-03-29 |

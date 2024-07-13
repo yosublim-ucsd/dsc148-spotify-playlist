@@ -4,7 +4,7 @@
 
 > THE BOX MEDLEY FUNK 2 e os funks mais 🔑 do Brasil\. Foto: Mc Brinquedo, MC Cebezinho, MC Tuto, Mc Laranjinha
 
-271 songs - 15 hr 32 min
+272 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Mtg Ta Brotando No Plantão Pra Tira Foto Com Revolver](https://open.spotify.com/track/1pPuodu8A0LxAuVhf3QniW) | [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mtg Ta Brotando No Plantão Pra Tira Foto Com Revolver](https://open.spotify.com/album/74KdOIHh6aHI2qoHkqWeqS) | 1:56 | 2021-12-31 | 2022-06-18 |
 | [Mágico do Som](https://open.spotify.com/track/0eumeycOAI8ew5qRzFJbEr) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Mágico do Som](https://open.spotify.com/album/6elOu6PrCxDHrnOT9E2wjC) | 2:01 | 2022-03-18 | 2022-08-13 |
 | [Mão Boba](https://open.spotify.com/track/7gRez8flrjFHPdFX9nb5dp) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Mão Boba](https://open.spotify.com/album/2Oy0v4MbLalFp0Kk24hS0S) | 3:43 | 2023-03-10 | 2023-04-01 |
+| [Mó Fita](https://open.spotify.com/track/3IjUrdmAjmjiSY7LUbYXVd) | [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Mó Fita](https://open.spotify.com/album/7ws4sJauck3uVokJ7T2JEr) | 4:16 | 2024-07-12 |  |
 | [Na Contramão](https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6) | [DJ Katrip](https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Na Contramão](https://open.spotify.com/album/0TqLSBctNqzky2bUakAMVb) | 2:44 | 2023-05-19 | 2024-01-05 |
 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 | 2022-12-09 | 2024-03-30 |
 | [No Pique BBB, Tu Já Sabe o Macete \(feat\. Mc Rodrigo do CN\)](https://open.spotify.com/track/6QSc8c7gLPSpv80eoUzoZP) | [Dj Bruninho Pzs](https://open.spotify.com/artist/5bSWLXu8tYxI5ISra9j6IF), [DJ TITÍ OFICIAL](https://open.spotify.com/artist/0hhuWXnDOhe2ByXnLJGjXZ), [DJ JS MIX](https://open.spotify.com/artist/4OI9MSXu1JqXoKlS6P5H4F), [MC Rodrigo do CN](https://open.spotify.com/artist/449rEPoJUfZNnXX9UnUUbi) | [No Pique BBB, Tu Já Sabe o Macete \(feat\. Mc Rodrigo do CN\)](https://open.spotify.com/album/6E5cEnHmrqsvR46J11wIYn) | 2:47 | 2021-12-31 | 2022-07-02 |

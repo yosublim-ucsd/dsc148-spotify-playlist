@@ -1,33 +1,13 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 274364,
+  "num_followers": 274438,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAAAWzXvRpxmGBsT9fRlRUEuU",
+  "snapshot_id": "Zo8ggAAAAABj6rqIIHGhW1+OsyY5u+1E",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Like 73 (Tom Morello Version)",
-        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Just Like 73 - Tom Morello Version",
-      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
-    },
     {
       "added_at": null,
       "album": {
@@ -251,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 295957,
-      "name": "Let's Get Rocked",
-      "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -279,6 +243,22 @@
       "duration_ms": 283186,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Have You Ever Needed Someone So Bad",
+      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
     },
     {
       "added_at": null,
@@ -315,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Have You Ever Needed Someone So Bad",
-      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -347,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Like 73 (Tom Morello Version)",
+        "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Just Like 73 - Tom Morello Version",
+      "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
       },
@@ -359,22 +343,6 @@
       "duration_ms": 239727,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4GbVDG1NFH1kzqCHRCFj5D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 397813,
-      "name": "Gods Of War",
-      "url": "https://open.spotify.com/track/04fSMvH0SLmdykyg06rXC3"
     },
     {
       "added_at": null,
@@ -411,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Switch 625",
-      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -439,6 +391,22 @@
       "duration_ms": 279300,
       "name": "Run Riot",
       "url": "https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Switch 625",
+      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
     },
     {
       "added_at": null,
@@ -483,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 224848,
-      "name": "Stagefright",
-      "url": "https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -511,6 +463,22 @@
       "duration_ms": 276910,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/7zm4upLq0DrZlTHD2ELmQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 224848,
+      "name": "Stagefright",
+      "url": "https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi"
     },
     {
       "added_at": null,
@@ -627,30 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drastic Symphonies",
-        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
       "artists": [
         {
           "name": "Def Leppard",
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        },
-        {
-          "name": "Ian Maclay",
-          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
         }
       ],
-      "duration_ms": 355972,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q"
+      "duration_ms": 259341,
+      "name": "Excitable",
+      "url": "https://open.spotify.com/track/07FG0741wKv9I9kphNf9lO"
     },
     {
       "added_at": null,
@@ -687,6 +643,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "duration_ms": 355972,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
       },
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 157841,
-      "name": "Slang",
-      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
+      "duration_ms": 320164,
+      "name": "All I Want Is Everything",
+      "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slang (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 157841,
+      "name": "Slang",
+      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Def Leppard",
-        "url": "https://open.spotify.com/album/2GpOJTgMzlHlqIREzGh7he"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 206718,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/3o49Lb4VSVmuT0yzLYuxHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenalize",
         "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
       },
@@ -811,6 +795,38 @@
       "duration_ms": 217648,
       "name": "I Wanna Touch U",
       "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Def Leppard",
+        "url": "https://open.spotify.com/album/2GpOJTgMzlHlqIREzGh7he"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 206718,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/3o49Lb4VSVmuT0yzLYuxHo"
     },
     {
       "added_at": null,
@@ -843,38 +859,6 @@
       "duration_ms": 153506,
       "name": "It Could Be You",
       "url": "https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirror Ball \u2013 Live & More",
-        "url": "https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slang (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267084,
-      "name": "Blood Runs Cold",
-      "url": "https://open.spotify.com/track/4CobZvJtESkkrHcC0QUVlx"
     }
   ],
   "unique_name": "This Is Def Leppard",

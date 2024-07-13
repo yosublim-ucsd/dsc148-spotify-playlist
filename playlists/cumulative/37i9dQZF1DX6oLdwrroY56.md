@@ -2,9 +2,9 @@
 
 ### [Pinoy Indie Mix](https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56)
 
-> The leaders in the lively Pinoy indie scene\. Cover: TONEEJAY
+> The leaders in the lively Pinoy indie scene\. Cover: Paolo Sandejas
 
-112 songs - 7 hr 22 min
+118 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,9 @@
 | [Kyusi](https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Huminga](https://open.spotify.com/album/4qcNr0JC0t99HMt2fhKhL6) | 4:30 | 2023-10-27 | 2024-06-22 |
 | [Lalaluv](https://open.spotify.com/track/03f5I5T1V1qqQpJg2rHs5z) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Lalaluv](https://open.spotify.com/album/2TYz0hh3NKf6BEFTo4Kf8l) | 2:22 | 2024-06-21 |  |
 | [Lara](https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Lara](https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB) | 3:45 | 2023-11-10 |  |
+| [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 |  |
 | [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-13 | 2024-02-10 |
+| [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-12 |  |
 | [Mahika](https://open.spotify.com/track/0oKhpGNegABcrCGJacx1rC) | [shed](https://open.spotify.com/artist/3NrtcbIz7aWDbsqvlb7mPF) | [Mahika](https://open.spotify.com/album/6xXxqw4s5LrpxUKDpI72Z3) | 3:50 | 2024-06-03 |  |
 | [MALABO](https://open.spotify.com/track/0QgdA3QMsbzQ6njndTb4kh) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [MALABO](https://open.spotify.com/album/0decNGiRDcErQsQvcyfEMz) | 3:40 | 2023-10-13 | 2024-06-22 |
 | [Mamamatay Yata Kong Single](https://open.spotify.com/track/6AwEWeF4oHJJiAaQAZcYsl) | [Eugene Layug](https://open.spotify.com/artist/7CUYtujDPCHjQokiG7L9F5) | [Mamamatay Yata Kong Single](https://open.spotify.com/album/2llKjpVAaBKjIn7S6yPC71) | 4:45 | 2023-10-13 | 2023-10-28 |
@@ -66,6 +68,7 @@
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2023-11-10 |  |
 | [Nangungulila Sa'yo](https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nangungulila Sa'yo](https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu) | 4:42 | 2024-02-09 |  |
 | [North Star](https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [North Star](https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv) | 3:45 | 2023-10-13 | 2024-06-22 |
+| [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-12 |  |
 | [Pakiusap](https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Pakiusap](https://open.spotify.com/album/12JXkOGXbf1GPDJYdBvxeL) | 2:55 | 2023-10-13 | 2023-11-19 |
 | [Panaginip](https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [Panaginip](https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO) | 5:07 | 2023-10-13 | 2024-05-09 |
 | [Panahon](https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Daisy](https://open.spotify.com/album/7hGfFOoXeTlesayHsQv97C) | 4:16 | 2023-10-13 | 2024-04-27 |
@@ -80,6 +83,7 @@
 | [Please Don't Stay](https://open.spotify.com/track/5F0Srwhpjpqt1KxyI1cDy1) | [Three Legged Men PH](https://open.spotify.com/artist/6Ef0AJQePmfx2cB3vo5vEe) | [Please Don't Stay](https://open.spotify.com/album/43zGzmF8jcqYpZTgru1Nh1) | 4:38 | 2023-10-13 | 2023-11-11 |
 | [Please Lang](https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2) | [SOS](https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc) | [Please Lang](https://open.spotify.com/album/0yGy7FQrViz5Ck8T9VS5Al) | 4:01 | 2023-11-18 | 2024-06-29 |
 | [Pramis](https://open.spotify.com/track/7hYIVov3HlUYABCA0Jafms) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/7mGQSG3GPyox65DMOAX0j7) | 3:33 | 2024-05-03 |  |
+| [prinsesa](https://open.spotify.com/track/6N7A3JFbsVOUcfiT6ltjrq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [prinsesa](https://open.spotify.com/album/4dKvGzZY4pHryHIuY5dm4W) | 4:01 | 2024-07-12 |  |
 | [Prom](https://open.spotify.com/track/5UNhmGXL2TWaguVTv9RVBZ) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx) | [Prom](https://open.spotify.com/album/3wDnMvhivfZ9iPnYF5usXe) | 4:08 | 2024-06-28 |  |
 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-09 |  |
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-10-13 | 2023-11-11 |
@@ -89,6 +93,7 @@
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-13 | 2023-11-19 |
 | [salita](https://open.spotify.com/track/0Hyem1EubuGA0g4c6yLAD3) | [unikko ijo](https://open.spotify.com/artist/2D7VJeNRHoVQgxnNXxR9cK) | [nang makita kang muli](https://open.spotify.com/album/73mCfK4xiNVU1zXdZYXpgN) | 3:54 | 2023-10-13 | 2023-11-11 |
 | [salita](https://open.spotify.com/track/5P3aZmkWKEuG6kfpyMPll9) | [unikko ijo](https://open.spotify.com/artist/2D7VJeNRHoVQgxnNXxR9cK) | [nang makita kang muli](https://open.spotify.com/album/6feOuPZciqabV98FdRcOBi) | 3:54 | 2023-11-10 | 2023-11-19 |
+| [sana hindi na lang](https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [sana hindi na lang](https://open.spotify.com/album/1uzlXLSHMKR4lRQMJjJ0Oa) | 3:16 | 2024-07-12 |  |
 | [Sasamahan Ka](https://open.spotify.com/track/6RBjZfZNa80zJbWrWt64f2) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Sasamahan Ka](https://open.spotify.com/album/5QdEBxf1VtB8d04d8dNHwt) | 4:31 | 2023-11-18 | 2024-06-29 |
 | [Segurista](https://open.spotify.com/track/4urCXTl1AKVnETT8Lh6t4F) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Segurista](https://open.spotify.com/album/5xCU9FBN7R5cdD63zp5YiW) | 3:45 | 2024-06-21 |  |
 | [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 | 2023-10-13 | 2023-10-28 |
@@ -96,6 +101,7 @@
 | [Sinking](https://open.spotify.com/track/4CahHrjGuxr1WwYHzDSRgR) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Sinking](https://open.spotify.com/album/0VEMK0KM5oMMzTvD0YesvV) | 3:41 | 2024-06-28 |  |
 | [SINTA](https://open.spotify.com/track/0xuMFw8nrIsfpD3sMRwObD) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [SINTA](https://open.spotify.com/album/2FLvIqldtQCpR78EgQC9kI) | 3:56 | 2024-02-09 |  |
 | [Sinulit](https://open.spotify.com/track/6V76PrxuZBA9Z1NExluZKQ) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Sinulit](https://open.spotify.com/album/74fNJhK7AO8AvBQCSSf8jw) | 3:36 | 2023-10-13 | 2024-02-10 |
+| [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-07-12 |  |
 | [SOLO](https://open.spotify.com/track/6DKHHYoy7phuVMfslvrx11) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [SOLO](https://open.spotify.com/album/3zP1wbbIaPHHT3VS3kPUSY) | 3:12 | 2024-05-03 |  |
 | [Somebody’s Better](https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Somebody’s Better](https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz) | 4:18 | 2023-11-10 | 2024-04-27 |
 | [Soup](https://open.spotify.com/track/4VfVkUe7wRRRatavXrLo6R) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Soup](https://open.spotify.com/album/54g4fkb4VBlh4qra9Dhlla) | 4:32 | 2024-06-21 |  |

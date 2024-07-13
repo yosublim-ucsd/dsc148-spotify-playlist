@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Bops and LGBTQIA+ artists only. Cover: Zolita",
+  "description": "Bops and LGBTQIA+ artists only. Cover: Tayla Parx",
   "name": "GLOW US & Canada",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 190574,
       "name": "Alligator",
       "url": "https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 192133,
       "name": "Apartment A",
       "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/3jZED8IBbTnmpGPRqBHDXC"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
+    },
+    {
+      "album": {
         "name": "Cubic Zirconia",
         "url": "https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 244218,
       "name": "Cubic Zirconia",
       "url": "https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 176442,
       "name": "Don\u2019t Close Your Eyes",
       "url": "https://open.spotify.com/track/1iMPcWrZhtv6tKJy9UhhUy"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
@@ -962,6 +980,24 @@
       "duration_ms": 170754,
       "name": "Fainted Love",
       "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
+    },
+    {
+      "album": {
+        "name": "Favorite Part",
+        "url": "https://open.spotify.com/album/0raKhsM9J33DlvowoeB9OW"
+      },
+      "artists": [
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197842,
+      "name": "Favorite Part",
+      "url": "https://open.spotify.com/track/1QbBnCSTN0oOQDgqr7KMzQ"
     },
     {
       "album": {
@@ -1182,7 +1218,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 187370,
       "name": "Got Me Obsessed",
       "url": "https://open.spotify.com/track/6lHWSoTxeUwBjxfcP0frD9"
@@ -1254,7 +1290,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 144064,
       "name": "Happier Than Me",
       "url": "https://open.spotify.com/track/08zfnwxl6dbbygFk3cS43L"
@@ -1496,7 +1532,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181764,
       "name": "I'VE ALWAYS HAD THINGS FOR COWBOYS",
       "url": "https://open.spotify.com/track/06RpfITNxlLaFbXFjiqhI3"
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 182706,
       "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
       "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
@@ -1753,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "SOCIALITE RODEO",
+        "url": "https://open.spotify.com/album/3sAzc8Kh3uH4lva8kw6ifU"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140125,
+      "name": "LAUREL CANYON",
+      "url": "https://open.spotify.com/track/4xiV0w3ymIK2OomdbumBu9"
+    },
+    {
+      "album": {
         "name": "Lead Me On",
         "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
       },
@@ -1804,7 +1858,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 145809,
       "name": "lied to your therapist",
       "url": "https://open.spotify.com/track/3sWWLt1EDS1II8bnNTPqhg"
@@ -1876,7 +1930,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
@@ -2098,7 +2152,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
@@ -2192,7 +2246,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 183934,
       "name": "No Alarm",
       "url": "https://open.spotify.com/track/1NfpDQQerZvnm1NF1p4V4p"
@@ -2246,7 +2300,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 245857,
       "name": "Old money bitch",
       "url": "https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN"
@@ -2394,7 +2448,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 236416,
       "name": "Play With Fire (feat. Frances Forever)",
       "url": "https://open.spotify.com/track/7LyGoh4umDLZgIlLYSzO1t"
@@ -2826,7 +2880,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 138053,
       "name": "SLAP ME IN THE FACE",
       "url": "https://open.spotify.com/track/0HQPkNb17LKJdclvwGR3sc"
@@ -2851,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
+    },
+    {
+      "album": {
         "name": "Spite",
         "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
       },
@@ -2866,6 +2938,24 @@
       "duration_ms": 159213,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
+    },
+    {
+      "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138143,
+      "name": "Standing Up To The Wind",
+      "url": "https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq"
     },
     {
       "album": {
@@ -2913,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/0inDI68EUkhmQjo90QcVqh"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/4i9TjoNNAjYEcgXJ1IX07u"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
       },
@@ -2932,6 +3040,24 @@
       "duration_ms": 270264,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
+    },
+    {
+      "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "album": {
@@ -3486,7 +3612,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 159400,
       "name": "Your Bones",
       "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"

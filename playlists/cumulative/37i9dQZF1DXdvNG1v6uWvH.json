@@ -21307,6 +21307,24 @@
     },
     {
       "album": {
+        "name": "good luck, goodbye",
+        "url": "https://open.spotify.com/album/4iEl6x2j3jrUDq0fbhOd6i"
+      },
+      "artists": [
+        {
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206014,
+      "name": "thank god",
+      "url": "https://open.spotify.com/track/2SUrx1x8BqAe4ASqIoiNY1"
+    },
+    {
+      "album": {
         "name": "That Song With The Kick Drum",
         "url": "https://open.spotify.com/album/6piLxUrATeF7bybEoqvzys"
       },

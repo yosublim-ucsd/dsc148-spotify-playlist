@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
-  "num_followers": 46307,
+  "num_followers": 46315,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Boca Boca",
         "url": "https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 196911,
       "name": "Boca Boca",
       "url": "https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     },
     {
       "added_at": "2024-07-11 23:00:00",

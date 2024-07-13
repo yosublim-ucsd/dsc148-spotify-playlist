@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-509 songs - 1 day 11 hr 1 min
+510 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2022-03-14 |  |
 | [Ae Fond Kiss](https://open.spotify.com/track/38mXFnlp9LSFKx7wZcnsJF) | [Trad\. arr\. Mhairi Hall](https://open.spotify.com/artist/3kcnHRIJVuqGHete5dwvkL), [Mhairi Hall](https://open.spotify.com/artist/7rUCuF3Bcy29nwnnX1xAuf) | [Ae Fond Kiss](https://open.spotify.com/album/2jwLmcOympsOwp9ai4PuEx) | 3:39 | 2021-02-13 |  |
 | [Afterglow 1](https://open.spotify.com/track/0xyHUTjskuVNDfjBlFw8FS) | [Tom Adams](https://open.spotify.com/artist/16iuZANRzcO9KStBcMkeAC) | [Golden Waves](https://open.spotify.com/album/79J3trGmuxnwmkvgGC6LT6) | 2:32 | 2024-05-10 |  |
-| [Agape](https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML) | 5:06 | 2021-12-10 |  |
+| [Agape](https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML) | 5:06 | 2021-12-10 | 2024-07-13 |
 | [Agape](https://open.spotify.com/track/3pmjcsSMoIlKYYNc7BK0bG) | [Kevin Scott Davis](https://open.spotify.com/artist/7aVSFlFtPWfpMvELFDXWlB), [Asia Dojnikowska](https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/6vNxKWNqLIjOS4mVu2RmMh) | 5:06 | 2024-01-05 | 2024-04-01 |
 | [Air to Breath](https://open.spotify.com/track/00qqEAAQJkVK7gw8vlJMC2) | [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon), [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Air to Breath](https://open.spotify.com/album/7zc8Fz7Tdw9VryEZzkBPre) | 4:42 | 2020-12-04 | 2020-12-11 |
 | [Air to Breath](https://open.spotify.com/track/5bp3XeAaagIusKus58U5vK) | [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon), [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Epicycle II](https://open.spotify.com/album/4uhtsy7BxJm8GoIw2wuNWs) | 4:42 | 2020-12-04 | 2020-12-11 |
@@ -486,6 +486,7 @@
 | [Volcano \- Original Score](https://open.spotify.com/track/51u5fWZnBlqiRJqLw1x14n) | [Kjartan Sveinsson](https://open.spotify.com/artist/1yNnmCrLBExyTTvdYKy1bb) | [Volcano \(Original Score\)](https://open.spotify.com/album/4OQyD5EbcuA1ZqohKVt5si) | 4:05 | 2020-12-04 | 2020-12-11 |
 | [Volumes](https://open.spotify.com/track/0T5B6HfkuWu8viwiS3AZwN) | [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh), [David Thor](https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu), [Anthony Burr](https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU), [Amedeo](https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT), [Eyvind Kang](https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV), [Kristín Anna](https://open.spotify.com/artist/3X6nVUiHTHi70gtw8RHCA8) | [Sería II](https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz) | 7:21 | 2020-12-04 | 2020-12-11 |
 | [Walkabout](https://open.spotify.com/track/3TQL7o8aYGnbaP418nKZ8S) | [Chelsea McGough](https://open.spotify.com/artist/1O7mIiCIcKbF2X0GS616Yb) | [Alchemy](https://open.spotify.com/album/4tJLpo97w3MKeYypLfY9lP) | 4:11 | 2020-10-20\* | 2022-04-21 |
+| [Walls](https://open.spotify.com/track/35bdYC7xm7koy0KoyKS4Bw) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [Walls](https://open.spotify.com/album/23M3Rk93JM2tBofJQyybSw) | 2:56 | 2024-07-12 |  |
 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 | 2021-02-19 |  |
 | [Watching As She Reels](https://open.spotify.com/track/5uPhPEFdF9sKEvD7XO0jIw) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4) | [Hopes And Past Desires](https://open.spotify.com/album/0KoD6w5htgUapyTqRGeqT5) | 7:07 | 2021-02-06 | 2021-02-12 |
 | [Water from the Same Source](https://open.spotify.com/track/27u4kp7Ra7J18Jmpc6MkWs) | [Christian Erik Frederickson](https://open.spotify.com/artist/2Gl0BI6yJTFHtkSBdDV4Dn), [Jason Bingham Noble](https://open.spotify.com/artist/37icBaQPxG3PZU6h5pTQMK), [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9), [Rachel's](https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa) | [Systems / Layers](https://open.spotify.com/album/1r59HmRjb5ixCXI0TtF1RK) | 6:18 | 2021-02-06 | 2021-02-12 |

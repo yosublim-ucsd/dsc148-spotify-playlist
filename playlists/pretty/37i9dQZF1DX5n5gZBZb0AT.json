@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 855821,
+  "num_followers": 856128,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "MONTAGEM INVAS\u00c3O",
+        "url": "https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg"
+      },
+      "artists": [
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        }
+      ],
+      "duration_ms": 74769,
+      "name": "MONTAGEM INVAS\u00c3O",
+      "url": "https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "MONTAGEM INVAS\u00c3O",
-        "url": "https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg"
-      },
-      "artists": [
-        {
-          "name": "ARXMANE",
-          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
-        }
-      ],
-      "duration_ms": 74769,
-      "name": "MONTAGEM INVAS\u00c3O",
-      "url": "https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -667,18 +667,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "EMPTY DREAMS",
-        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
+        "name": "YUMMI",
+        "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
       },
       "artists": [
         {
-          "name": "CYPARISS",
-          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
         }
       ],
-      "duration_ms": 135000,
-      "name": "EMPTY DREAMS",
-      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
+      "duration_ms": 95996,
+      "name": "YUMMI",
+      "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -699,22 +703,18 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "YUMMI",
-        "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
+        "name": "EMPTY DREAMS",
+        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
       },
       "artists": [
         {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
         }
       ],
-      "duration_ms": 95996,
-      "name": "YUMMI",
-      "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
+      "duration_ms": 135000,
+      "name": "EMPTY DREAMS",
+      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
     },
     {
       "added_at": "2024-05-08 15:21:25",

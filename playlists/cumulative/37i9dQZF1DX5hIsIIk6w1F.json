@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Loyaltty",
+  "description": "Este Flow tiene otro Flow. Foto: Standly",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 194214,
       "name": "2 Hielos",
       "url": "https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 144000,
       "name": "A POKA LUZ",
       "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
@@ -1975,6 +1975,28 @@
     },
     {
       "album": {
+        "name": "Bellavista",
+        "url": "https://open.spotify.com/album/3kJ94Qh5YKXka6d9ROcjjK"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "Bellavista",
+      "url": "https://open.spotify.com/track/5Hcjwice1pkVpy4HCeyVvh"
+    },
+    {
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/5WRYQMbQUedqNJjPIWF8mR"
       },
@@ -3024,7 +3046,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 138461,
       "name": "Con Puras de 25",
       "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
@@ -3780,6 +3802,24 @@
       "duration_ms": 137193,
       "name": "Deja de wear",
       "url": "https://open.spotify.com/track/27kmcV46HxnWyrwtiTWFOK"
+    },
+    {
+      "album": {
+        "name": "Deja Enamorarte",
+        "url": "https://open.spotify.com/album/2c2LeD17syBzNHQKZc7EkO"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "Deja Enamorarte",
+      "url": "https://open.spotify.com/track/1YTC2D8ePGFYoptUJbCw02"
     },
     {
       "album": {
@@ -4920,7 +4960,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219401,
       "name": "Ese Corte",
       "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
@@ -8526,7 +8566,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195135,
       "name": "MADRID",
       "url": "https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq"
@@ -8830,6 +8870,28 @@
       "duration_ms": 186135,
       "name": "Mami",
       "url": "https://open.spotify.com/track/3CUB0TdGWnljZI1tQ5ptRx"
+    },
+    {
+      "album": {
+        "name": "Mami Dime",
+        "url": "https://open.spotify.com/album/0XjT13dlm0xNjC9e2Bpgrt"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172421,
+      "name": "Mami Dime",
+      "url": "https://open.spotify.com/track/6ibULAFMPUxZYGDmBNXG3b"
     },
     {
       "album": {
@@ -9608,6 +9670,28 @@
       "duration_ms": 220212,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/5T9aWINkvC8GtmcFI2TZAb"
+    },
+    {
+      "album": {
+        "name": "Mi Autom\u00f3vil",
+        "url": "https://open.spotify.com/album/7CbDAkPVNEiapO8UlC5MoL"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140411,
+      "name": "Mi Autom\u00f3vil",
+      "url": "https://open.spotify.com/track/2II1TSrlhRrtz2hmzpXROT"
     },
     {
       "album": {
@@ -12344,6 +12428,24 @@
       "duration_ms": 220130,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/5QFZGf85nI6ZhNVHAuDYyl"
+    },
+    {
+      "album": {
+        "name": "PELIGROSA",
+        "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134930,
+      "name": "PELIGROSA",
+      "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
     },
     {
       "album": {
@@ -15139,6 +15241,32 @@
     },
     {
       "album": {
+        "name": "Sin Gravedad",
+        "url": "https://open.spotify.com/album/4SIhMIudMOsXC9AKOGfAb2"
+      },
+      "artists": [
+        {
+          "name": "El Oriental10",
+          "url": "https://open.spotify.com/artist/4PxkoHjth6X7uqcIm30nq6"
+        },
+        {
+          "name": "Ben Bulgari",
+          "url": "https://open.spotify.com/artist/2OKp4B9CctxvyhsBX01bqG"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Sin Gravedad",
+      "url": "https://open.spotify.com/track/1eF9A8xU3ekgF6dsVrqtoE"
+    },
+    {
+      "album": {
         "name": "Sin Miedo",
         "url": "https://open.spotify.com/album/4uePRLsrizKav02ugx8Yvk"
       },
@@ -16410,6 +16538,24 @@
       "duration_ms": 146443,
       "name": "Tiguere",
       "url": "https://open.spotify.com/track/6WfxBaArSq6UpQIeSWKzAf"
+    },
+    {
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/0lmShr2soqcVpf5nQo3Qvo"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/5pjqVFD6jFwMNM5Le9Bw06"
     },
     {
       "album": {
@@ -18024,7 +18170,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"

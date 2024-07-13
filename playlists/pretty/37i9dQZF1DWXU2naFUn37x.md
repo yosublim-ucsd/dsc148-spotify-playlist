@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Il top dello street rap italiano\. Cover: Sadturs, KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,249 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,358 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 12 | [NO EX \(feat\. Paky\)](https://open.spotify.com/track/3QPlXypNboN7q32K1IuQ9v) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [È LA \(LOVE\)](https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt) | 2:27 |
 | 13 | [Miez A Via \(feat\. Geolier\)](https://open.spotify.com/track/1lKCEBF9dBDOklnyl5tbK9) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 3:07 |
 | 14 | [I LOVE IT \(feat\. Artie 5ive\)](https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:11 |
-| 15 | [MAI STATO REGOLARE \(feat\. Digital Astro, Tony Boy\)](https://open.spotify.com/track/6y2tvv0GRPFGDnI44S5QWS) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:24 |
+| 15 | [MAI STATO REGOLARE \(feat\. Digital Astro, Tony Boy\)](https://open.spotify.com/track/6y2tvv0GRPFGDnI44S5QWS) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:25 |
 | 16 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 |
 | 17 | [CARRARA \(feat\. Simba La Rue\)](https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:09 |
 | 18 | [KILL AU MIC](https://open.spotify.com/track/6QqG5u7yw2wHVWpiqJVmLm) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [KILL AU MIC](https://open.spotify.com/album/4TOPISag2zNvXTVN0voCoo) | 2:35 |

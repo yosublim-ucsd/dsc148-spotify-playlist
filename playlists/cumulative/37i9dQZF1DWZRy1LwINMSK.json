@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de eleven1.1",
+  "description": "La casa del trap chileno al mando de Aqua VS & AKRIILA.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -1333,6 +1333,36 @@
     },
     {
       "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/3X7OVw3Cqn1sFisjvU7815"
+      },
+      "artists": [
+        {
+          "name": "Vishoko",
+          "url": "https://open.spotify.com/artist/19C1rDlK587MsGNU8wctkG"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207663,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/3XckwsFdNXUdFm4iP8zFJy"
+    },
+    {
+      "album": {
         "name": "El Duende Verde",
         "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
       },
@@ -1514,7 +1544,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173538,
       "name": "Flow Pe$ado",
       "url": "https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ"
@@ -1792,6 +1822,24 @@
       "duration_ms": 191250,
       "name": "Gracias a Dios",
       "url": "https://open.spotify.com/track/1QobAhxWT2U8jjHrLneOPw"
+    },
+    {
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/2siwW2nCboPZb1gGlcRRJJ"
+      },
+      "artists": [
+        {
+          "name": "Lizz",
+          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148621,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/3sPTwhv0Pqrzmq6kvRIaQY"
     },
     {
       "album": {
@@ -3019,6 +3067,28 @@
     },
     {
       "album": {
+        "name": "MISMAS BITCHES",
+        "url": "https://open.spotify.com/album/3TaFegKf8CdoHToIzfo9me"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143927,
+      "name": "MISMAS BITCHES",
+      "url": "https://open.spotify.com/track/1VYHBSsWYOsxJFsbOUUkX3"
+    },
+    {
+      "album": {
         "name": "Mode On",
         "url": "https://open.spotify.com/album/79RYVRZr0yVV0B0qid9qoy"
       },
@@ -3583,6 +3653,28 @@
     },
     {
       "album": {
+        "name": "Pensamos Rapido",
+        "url": "https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0"
+      },
+      "artists": [
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Pensamos Rapido",
+      "url": "https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb"
+    },
+    {
+      "album": {
         "name": "Perco Con Mari",
         "url": "https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA"
       },
@@ -3684,7 +3776,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 315254,
       "name": "Por Mi Familia",
       "url": "https://open.spotify.com/track/63xVIUWRnwTtzjfQjsMNzc"
@@ -3892,7 +3984,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 131357,
       "name": "RACE",
       "url": "https://open.spotify.com/track/6flQYfHgCMham7OPXa7qUG"
@@ -5224,7 +5316,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 223020,
       "name": "V\u00e1monos (feat. Nfx & DrefQuila)",
       "url": "https://open.spotify.com/track/7AqH0htxZWaGcSBExgUlXV"

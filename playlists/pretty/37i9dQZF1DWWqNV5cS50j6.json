@@ -1,13 +1,93 @@
 {
   "description": "?! ft. Lil Yachty",
-  "num_followers": 745686,
+  "num_followers": 745757,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoQ8KwAAAACrJXPlBQ5CtEdtDwpypNYg",
+  "snapshot_id": "ZpFzEgAAAABDnVvkUiHEyyiDAcGJ8/lw",
   "tracks": [
+    {
+      "added_at": "2024-07-02 17:43:07",
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "added_at": "2024-07-12 18:16:50",
+      "album": {
+        "name": "Viceroy",
+        "url": "https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "LONELY MF",
+      "url": "https://open.spotify.com/track/7AGOsBjHLrI2tjAlcsO5e7"
+    },
+    {
+      "added_at": "2024-06-15 02:48:51",
+      "album": {
+        "name": "Sugabby",
+        "url": "https://open.spotify.com/album/2JY5Q0RP6c2mlUrML3k4ec"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "duration_ms": 147891,
+      "name": "Sugabby",
+      "url": "https://open.spotify.com/track/58IuYAWUpmXJh9YGPFQhCt"
+    },
+    {
+      "added_at": "2024-07-12 18:16:50",
+      "album": {
+        "name": "KONA",
+        "url": "https://open.spotify.com/album/4SooABiVOLdO10ozHsOG4M"
+      },
+      "artists": [
+        {
+          "name": "Kona",
+          "url": "https://open.spotify.com/artist/0Fj3PWpJ3TVPiUOtBSi8O6"
+        }
+      ],
+      "duration_ms": 193086,
+      "name": "ENTER THE VOID",
+      "url": "https://open.spotify.com/track/6hWdEh6Y5An7odLtTcWQPU"
+    },
+    {
+      "added_at": "2024-06-04 13:05:03",
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
     {
       "added_at": "2024-07-02 17:43:07",
       "album": {
@@ -27,62 +107,6 @@
     {
       "added_at": "2024-07-02 17:43:07",
       "album": {
-        "name": "Lithonia",
-        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Lithonia",
-      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
-    },
-    {
-      "added_at": "2024-06-14 05:03:48",
-      "album": {
-        "name": "AT.LONG.LAST.A$AP",
-        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Joe Fox",
-          "url": "https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 323960,
-      "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
-      "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
-    },
-    {
-      "added_at": "2024-06-15 02:48:51",
-      "album": {
-        "name": "Sugabby",
-        "url": "https://open.spotify.com/album/2JY5Q0RP6c2mlUrML3k4ec"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        }
-      ],
-      "duration_ms": 147891,
-      "name": "Sugabby",
-      "url": "https://open.spotify.com/track/58IuYAWUpmXJh9YGPFQhCt"
-    },
-    {
-      "added_at": "2024-07-02 17:43:07",
-      "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
@@ -95,22 +119,6 @@
       "duration_ms": 182320,
       "name": "KRYPTONITE",
       "url": "https://open.spotify.com/track/3mLDq0hbHkafZoy4GvF7EG"
-    },
-    {
-      "added_at": "2024-06-04 13:05:03",
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
       "added_at": "2024-06-28 17:11:24",
@@ -163,6 +171,30 @@
     {
       "added_at": "2024-06-14 05:03:48",
       "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Joe Fox",
+          "url": "https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 323960,
+      "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+      "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
+    },
+    {
+      "added_at": "2024-06-14 05:03:48",
+      "album": {
         "name": "DEVIL IS A LIE",
         "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
       },
@@ -175,6 +207,22 @@
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "added_at": "2024-07-12 18:16:50",
+      "album": {
+        "name": "Didn't Have To",
+        "url": "https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg"
+      },
+      "artists": [
+        {
+          "name": "Tama Gucci",
+          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+        }
+      ],
+      "duration_ms": 140024,
+      "name": "Didn't Have To",
+      "url": "https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu"
     },
     {
       "added_at": "2024-05-31 05:00:00",
@@ -223,6 +271,22 @@
       "duration_ms": 113877,
       "name": "Try",
       "url": "https://open.spotify.com/track/5IQ4KtSJ65euoSNuzgHCZt"
+    },
+    {
+      "added_at": "2024-07-12 18:16:50",
+      "album": {
+        "name": "DREAMS I SEE",
+        "url": "https://open.spotify.com/album/4v4448kFqcuBFv6uhUW6as"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "DREAMS I SEE",
+      "url": "https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf"
     },
     {
       "added_at": "2024-06-15 17:07:08",

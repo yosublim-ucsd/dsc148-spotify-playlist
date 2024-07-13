@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Afro diaspora cuts from around the globe\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,501 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,511 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 12 | [Flava \(feat\. Coi Leray\)](https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:44 |
 | 13 | [Money Grip \(feat\. BEAM\)](https://open.spotify.com/track/0cVmybPh6wVgy8zIq1qJLD) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:04 |
 | 14 | [OMALICHA](https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [OMALICHA](https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8) | 4:00 |
-| 15 | [Colonize \- Nana Kwabena Remix](https://open.spotify.com/track/7feztcRkE1koMxxJ5iUiO9) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize \(Remixes\)](https://open.spotify.com/album/2OSTgnppiAz0yRKxdf73As) | 3:09 |
+| 15 | [Colonize \- Nana Kwabena Remix](https://open.spotify.com/track/7feztcRkE1koMxxJ5iUiO9) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp), [Nana Kwabena](https://open.spotify.com/artist/6QDtFjZaUT7B8Xqq677wCq) | [Colonize \(Remixes\)](https://open.spotify.com/album/2OSTgnppiAz0yRKxdf73As) | 3:09 |
 | 16 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 | 17 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
 | 18 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |

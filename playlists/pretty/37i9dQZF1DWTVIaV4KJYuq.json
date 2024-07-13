@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 684859,
+  "num_followers": 684947,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Stranger In A Strange Land",
+        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 288618,
+      "name": "Stranger In A Strange Land",
+      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Busted Jukebox Volume 3",
         "url": "https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 165213,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Stranger In A Strange Land",
-        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 288618,
-      "name": "Stranger In A Strange Land",
-      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
     },
     {
       "added_at": "2024-06-07 04:00:00",

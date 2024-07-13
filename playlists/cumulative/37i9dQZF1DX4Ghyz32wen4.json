@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Kali Uchis en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Tiago PZK en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -96,6 +96,28 @@
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "album": {
+        "name": "A Quien Corresponda.",
+        "url": "https://open.spotify.com/album/7hMvQVjOqM9SxRNWaaBT8n"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187093,
+      "name": "A Quien Corresponda.",
+      "url": "https://open.spotify.com/track/4YYfcxRtW2ELHd31euxNmr"
     },
     {
       "album": {
@@ -667,6 +689,50 @@
     },
     {
       "album": {
+        "name": "SANDRO",
+        "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
+    },
+    {
+      "album": {
+        "name": "GOTTI A",
+        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151557,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/4dylyC02Khva3H9X3sooHV"
+    },
+    {
+      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
@@ -824,6 +890,24 @@
       "duration_ms": 167748,
       "name": "Dosis",
       "url": "https://open.spotify.com/track/10SVwgvHl2LN6H6ij5lloD"
+    },
+    {
+      "album": {
+        "name": "Duele M\u00e1s",
+        "url": "https://open.spotify.com/album/7zILH9jm2lPsHgl4loLeWe"
+      },
+      "artists": [
+        {
+          "name": "Las Prez",
+          "url": "https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/2ZTdBViWjVYLkWHXRTTFne"
     },
     {
       "album": {
@@ -1062,7 +1146,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 183340,
       "name": "Fango",
       "url": "https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R"
@@ -1414,7 +1498,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 176170,
       "name": "Ll\u00e1mame",
       "url": "https://open.spotify.com/track/5UrcYQ0kfSs85FgLFLx7nq"
@@ -1516,7 +1600,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155744,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/6Pv6rF1V7obyszMFstKp96"
@@ -2434,7 +2518,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 192533,
       "name": "Otra Cosa",
       "url": "https://open.spotify.com/track/6x9R4S1aazZdd40qO4PMFa"
@@ -2806,6 +2890,24 @@
       "duration_ms": 244360,
       "name": "Reina Pepiada",
       "url": "https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0"
+    },
+    {
+      "album": {
+        "name": "Reloj",
+        "url": "https://open.spotify.com/album/0tuuqFXRtrgaxMiGyeIzSH"
+      },
+      "artists": [
+        {
+          "name": "Bolishe One",
+          "url": "https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209922,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/27K4nb7SxFSXIQQvk4jpz6"
     },
     {
       "album": {

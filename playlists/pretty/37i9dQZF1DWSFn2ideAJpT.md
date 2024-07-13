@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,633 likes - 61 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,771 likes - 61 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 23 | [963 Solfeggio Attunement](https://open.spotify.com/track/6XmlHElRmIQG5jnEHUd904) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [963 Path to Awakening](https://open.spotify.com/album/38EYnM2FRNvBw9PB7veE1R) | 2:25 |
 | 24 | [Solar Waves](https://open.spotify.com/track/6BFqFROUN0ZSAwqT6HIODe) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Waves](https://open.spotify.com/album/46PDkEIZsT8l84S8YKj23H) | 3:36 |
 | 25 | [Awakening 963Hz](https://open.spotify.com/track/3esXbDq3DkYOrguFP0TXxd) | [Ancient Practicer](https://open.spotify.com/artist/7iA6wah9iVlbJ1xxk9RVA7) | [Awakening 963Hz](https://open.spotify.com/album/69JaKptJXvQ0n2HIKohN20) | 2:23 |
-| 26 | [Letting Go](https://open.spotify.com/track/1zgTC1Bt5gimoH84HfX9Km) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [Letting Go](https://open.spotify.com/album/2einESbC1mpHussGKlQyJ6) | 2:28 |
-| 27 | [Alpha bowls 10hz](https://open.spotify.com/track/0fuhECv0YvMEBtx2AN7Vm7) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Alpha bowls 10hz](https://open.spotify.com/album/0sKl2EuUpiTvxLZhXTWzZ5) | 2:24 |
-| 28 | [Deep Energy Cleansing 963 Hz](https://open.spotify.com/track/0rux7MpkP12CtygdwsQqcr) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Deep Energy Cleansing](https://open.spotify.com/album/1qPqbBL3EzSDOI7eJGbzpj) | 2:50 |
-| 29 | [963 Hz Deep Breathing](https://open.spotify.com/track/0pY9RfLWbqMKguhWXrCCQ3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Deep Breathing](https://open.spotify.com/album/4gVsivQcSQfT3oEkMGtNJ5) | 2:38 |
-| 30 | [Dissolving Tension 963 Hz](https://open.spotify.com/track/06bjoMmEMTXh2Xv5Xp7Acu) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Dissolving Tension 963 Hz](https://open.spotify.com/album/4jfmV4UmZum9mhBTXuo4Jw) | 3:24 |
-| 31 | [Eons 963 Hz](https://open.spotify.com/track/1gVQ73OlKpDeeOrMm1QJhi) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Eons 963 Hz](https://open.spotify.com/album/0l0lFnYU4MdiBa1sSHLtoG) | 3:14 |
-| 32 | [963 Hz \- Unfolding Space](https://open.spotify.com/track/68RfzLWOuXFVYqarMbhzWI) | [Synalyse Flow](https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId) | [963 Hz \- Unfolding Space](https://open.spotify.com/album/4j1m80MunivAI9y6WlHcDF) | 2:15 |
+| 26 | [Alpha bowls 10hz](https://open.spotify.com/track/0fuhECv0YvMEBtx2AN7Vm7) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Alpha bowls 10hz](https://open.spotify.com/album/0sKl2EuUpiTvxLZhXTWzZ5) | 2:24 |
+| 27 | [Deep Energy Cleansing 963 Hz](https://open.spotify.com/track/0rux7MpkP12CtygdwsQqcr) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Deep Energy Cleansing](https://open.spotify.com/album/1qPqbBL3EzSDOI7eJGbzpj) | 2:50 |
+| 28 | [963 Hz Deep Breathing](https://open.spotify.com/track/0pY9RfLWbqMKguhWXrCCQ3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Deep Breathing](https://open.spotify.com/album/4gVsivQcSQfT3oEkMGtNJ5) | 2:38 |
+| 29 | [Dissolving Tension 963 Hz](https://open.spotify.com/track/06bjoMmEMTXh2Xv5Xp7Acu) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Dissolving Tension 963 Hz](https://open.spotify.com/album/4jfmV4UmZum9mhBTXuo4Jw) | 3:24 |
+| 30 | [Eons 963 Hz](https://open.spotify.com/track/1gVQ73OlKpDeeOrMm1QJhi) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Eons 963 Hz](https://open.spotify.com/album/0l0lFnYU4MdiBa1sSHLtoG) | 3:14 |
+| 31 | [963 Hz \- Unfolding Space](https://open.spotify.com/track/68RfzLWOuXFVYqarMbhzWI) | [Synalyse Flow](https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId) | [963 Hz \- Unfolding Space](https://open.spotify.com/album/4j1m80MunivAI9y6WlHcDF) | 2:15 |
+| 32 | [Letting Go](https://open.spotify.com/track/1zgTC1Bt5gimoH84HfX9Km) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [Letting Go](https://open.spotify.com/album/2einESbC1mpHussGKlQyJ6) | 2:28 |
 | 33 | [Unfolding Light 963 Hz](https://open.spotify.com/track/06NWigNtwotY9EsIuBoNl9) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Unfolding Light 963 Hz](https://open.spotify.com/album/5o2R2PpEs5WfNRaipVWSHJ) | 2:54 |
 | 34 | [Taking Time \- 963 Hz](https://open.spotify.com/track/2evSXLOTpNdEAPIYKthWny) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Taking Time \- 963 Hz](https://open.spotify.com/album/6gWgxZt7OpnflNuI9wRDko) | 2:46 |
 | 35 | [Unburdened Mind 963 Hz](https://open.spotify.com/track/5FNporQDCglKMUeQZEvGVm) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Unburdened Mind 963 Hz](https://open.spotify.com/album/3vGdOe2dqcsJuUpZPCnuVy) | 2:40 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 60 | [Unrushed](https://open.spotify.com/track/4W6T0dEvuRxi9FE5SrqVwI) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [69,3 Hz Atmospheres for Sleep and Relaxation](https://open.spotify.com/album/2BAIMHPZMgBgXlB7JWLw8l) | 3:17 |
 | 61 | [Spiritual Connection \- 963Hz](https://open.spotify.com/track/2Hg9zXiCO2TV9NBeXbFXEn) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spiritual Connection \- 963Hz](https://open.spotify.com/album/6olr1fxyePg6UmYUMf9OFQ) | 2:43 |
 
-Snapshot ID: `ZnromgAAAADS1A/EOmM/FmTm2k0fwwDe`
+Snapshot ID: `ZpHNKgAAAACf4PJXhKVKo4VkSB8prEJX`

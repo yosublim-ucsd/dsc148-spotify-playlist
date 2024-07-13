@@ -14193,6 +14193,24 @@
     },
     {
       "album": {
+        "name": "SHAKE & DIP",
+        "url": "https://open.spotify.com/album/5u4KPVLqrgUnY9fIjQInwv"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160313,
+      "name": "SHAKE & DIP",
+      "url": "https://open.spotify.com/track/26Qq263VnVNcBe8688TEsJ"
+    },
+    {
+      "album": {
         "name": "LiL Ape with Friend's Mix Tape",
         "url": "https://open.spotify.com/album/1zNyRZMGPr19p7VJ6WF2Qs"
       },
@@ -19243,7 +19261,7 @@
         },
         {
           "name": "11",
-          "url": "https://open.spotify.com/artist/0atZo9MNJVoddGwG9u0KNr"
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
         },
         {
           "name": "bill marcos",

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-308 songs - 15 hr 14 min
+318 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Blooming Spirit](https://open.spotify.com/track/6ZdTqZX9UhTcETYmheOUqX) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Blooming Soul](https://open.spotify.com/album/7t0TA2Vw7XwMg4nmHNLHnD) | 2:30 | 2021-09-06 |  |
 | [Bridges](https://open.spotify.com/track/1OfPed9kTAUCXRswQQQqP7) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Bridges](https://open.spotify.com/album/2BLejrLSf3A6qC4J1EWUjg) | 2:42 | 2021-09-06 |  |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2021-09-06 | 2022-09-03 |
+| [Butterflies](https://open.spotify.com/track/5epd5J80ia1tZiecOWru2m) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Butterflies](https://open.spotify.com/album/5zIrzxMl3NfbfnfzDBlnEG) | 2:57 | 2024-07-12 |  |
 | [Butterfly Traces](https://open.spotify.com/track/2IrPTNvYOoR92JZoNz79N2) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:46 | 2021-09-06 | 2023-07-15 |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-09-06 |  |
 | [Calm Evening](https://open.spotify.com/track/5bUV8yV6nXkjoO1vUfsIap) | [Graciosa](https://open.spotify.com/artist/1miegxCenxnaWgMYkeRIkY) | [Calm Evening](https://open.spotify.com/album/4whlnwbXZHgrmPVwBAm90s) | 2:41 | 2024-06-10 |  |
@@ -87,6 +88,7 @@
 | [Directions](https://open.spotify.com/track/6It0OAsJJ559KHt7PPabuS) | [Max Benton](https://open.spotify.com/artist/6rEyWC1pryYSBm1xFVH5A1) | [Directions](https://open.spotify.com/album/5xzcXk7tSSC0nlrJml3C6K) | 2:22 | 2021-09-06 |  |
 | [Distant Echo](https://open.spotify.com/track/5Q5pgBHtLlpj2Us2DctnEL) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:16 | 2021-09-06 |  |
 | [Distant Future](https://open.spotify.com/track/1d1K5EotPk8nDvSdIgoMde) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Distant Future](https://open.spotify.com/album/2NNgnKnnGfszXnwU2Hcacu) | 3:35 | 2021-09-06 |  |
+| [Dome of Light](https://open.spotify.com/track/0E0RGo22MycqfGcEzALKel) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Dome of Light](https://open.spotify.com/album/6eAdvbJ7G8OBzDrlvMKNoC) | 3:16 | 2024-07-12 |  |
 | [Dreamer](https://open.spotify.com/track/4AAXA43eClFFWQlEeQzC00) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Dreamer](https://open.spotify.com/album/5HPGRNcEd5ZXS8HZnknFNo) | 2:38 | 2021-09-06 |  |
 | [Dufy](https://open.spotify.com/track/2awu2z5rijOH0p7UDMleSs) | [Brique a Braq](https://open.spotify.com/artist/5SkCoDbdYJn9RkWHTa1CUF) | [Dufy](https://open.spotify.com/album/4fXjOsZnlOQdQmCGsanNab) | 3:59 | 2021-09-06 |  |
 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 | 2021-09-06 |  |
@@ -122,6 +124,7 @@
 | [Fire In The Sky](https://open.spotify.com/track/1KtXgylFyoQK14h2kjrHMc) | [Medea Bird](https://open.spotify.com/artist/2RoIoc7IkNMurJnbC730ph) | [Fire In The Sky](https://open.spotify.com/album/6D7MOaemKO0NourOWdY819) | 3:34 | 2021-09-06 |  |
 | [Fireflies](https://open.spotify.com/track/4SQk4ykaWhBbu1s5P7pnta) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Honey](https://open.spotify.com/album/29zvUUXOvvpGpemUqbOyaB) | 3:25 | 2021-09-06 |  |
 | [First Snow \- Remix](https://open.spotify.com/track/1pb85q7sFYigf2ygjM1Xkq) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [First Snow \- Remix](https://open.spotify.com/album/2RDNI9VMnIuxCBdu1eKNmI) | 2:41 | 2021-09-06 |  |
+| [Float Along](https://open.spotify.com/track/4wgVXYw4QbPnwdKgtZ02GP) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Float Along](https://open.spotify.com/album/4itMbo7ehkgbrd1VSUIsgW) | 2:34 | 2024-07-12 |  |
 | [Floating Sunbeams](https://open.spotify.com/track/7hJZMJqFRlypzSlxC7Kn8n) | [Michael Orvind](https://open.spotify.com/artist/5T6TsN3w0beYOD37SZqb6n) | [Floating Sunbeams](https://open.spotify.com/album/0q40RzJIgk67Sv3aG8iAPd) | 2:39 | 2021-09-06 |  |
 | [Flowing](https://open.spotify.com/track/06G5MnuMA3cLbNwjFs8zIS) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Flowing](https://open.spotify.com/album/1lxdpGzbUD6WbQzoIeiY33) | 2:11 | 2021-09-06 |  |
 | [Fluctuating Current](https://open.spotify.com/track/4RVLtTncdB9vY6Qo3ldP5f) | [Sci\-Boy](https://open.spotify.com/artist/7zeiybXwQMwCY6mlYbLwE0) | [Fluctuating Current](https://open.spotify.com/album/5dU7FPAazuKy2Zt7C7ZslO) | 3:20 | 2021-09-06 |  |
@@ -140,11 +143,13 @@
 | [glass house](https://open.spotify.com/track/6r42FewoFkF5VvYskh4aLL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:49 | 2022-10-04 | 2024-04-19 |
 | [Gloaming](https://open.spotify.com/track/6oMUXEiKVDyaXdcJ2YVnuj) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Gloaming](https://open.spotify.com/album/6pSLgjMOClX8LgNDnAdK5J) | 2:15 | 2021-09-06 |  |
 | [Glorious Glow](https://open.spotify.com/track/60SnZrB33lIY2BEY553JFl) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 3:26 | 2021-09-06 |  |
+| [Good Fortune](https://open.spotify.com/track/1iNyukgLkJMaOZCjFmEOdg) | [Theta Lake](https://open.spotify.com/artist/7eBIgxtUQM6TJ7BqEG0NJw) | [Good Fortune](https://open.spotify.com/album/5UjcbZVSkJJaAPYPjyz7Mc) | 3:09 | 2024-07-12 |  |
 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 | 2021-09-06 |  |
 | [Gratitude](https://open.spotify.com/track/4N5RIpWQYjK9LKxewmYAn2) | [Eos Astraeus](https://open.spotify.com/artist/43of8eAodl6qI6YvBX6hkJ) | [Gratitude](https://open.spotify.com/album/5ydPryFjeoDhNhlPbqebTk) | 2:41 | 2021-09-06 |  |
 | [Gratitude](https://open.spotify.com/track/6uQzZwosuNDHx0V4gMXH8r) | [Stone Desert](https://open.spotify.com/artist/7cA7ooCUrAjngo3Spp6uCK) | [Gratitude](https://open.spotify.com/album/6nyaoTnXCsEwYINFKlmE8M) | 2:37 | 2021-09-06 |  |
 | [Halcyon](https://open.spotify.com/track/6BULuqgf0MSp4fMoFGlWs8) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Halcyon](https://open.spotify.com/album/3SjNvxM2Ph52893sSLzR2i) | 2:46 | 2021-09-06 |  |
 | [Halcyon](https://open.spotify.com/track/4DkgaBjJfrfavy1bWQb6vf) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Halcyon](https://open.spotify.com/album/0qRTjn6f3uNJTGfcaQfJ0c) | 2:23 | 2021-09-06 |  |
+| [Harmonium](https://open.spotify.com/track/2N7kYHWf9q4eLdODSar1JH) | [Primary Sense](https://open.spotify.com/artist/16CzPXUcmQbZA6Nq8LJuYV) | [Harmonium](https://open.spotify.com/album/6SkvU48m2BG9oZGED8vVai) | 2:53 | 2024-07-12 |  |
 | [Heavy Head](https://open.spotify.com/track/3AmRJH8hJvtEJ57x6xq0Gq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Deep Dreams](https://open.spotify.com/album/7fvUEchZHf7pNEBzsPim4f) | 3:33 | 2021-09-06 |  |
 | [Higher Purpose](https://open.spotify.com/track/2Dgx9VOdgzeVjD4aNmkH0l) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Higher Purpose](https://open.spotify.com/album/1qYHvNQU8VhFFaDMcVYgAx) | 3:10 | 2024-04-04 |  |
 | [Home Tales](https://open.spotify.com/track/6ciLznTYOK6bq6iMcSlyrn) | [Handley Page](https://open.spotify.com/artist/0vzZmlsPGLKCCG8qW7WrvV) | [Home Tales](https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh) | 3:29 | 2021-09-06 |  |
@@ -167,7 +172,9 @@
 | [Jiva](https://open.spotify.com/track/045bWmwbqV82V88ZQzEdaC) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Jiva](https://open.spotify.com/album/1IhH4kJuVq4iXffzIxlHsh) | 2:40 | 2022-08-05 |  |
 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 | 2021-09-06 |  |
 | [Keep On](https://open.spotify.com/track/5YLoMU4RBnasKKNh4r0Uoh) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Keep On](https://open.spotify.com/album/5dRgfH52UfAu5Wsn5gc2GL) | 1:52 | 2021-09-06 | 2023-07-29 |
+| [Kind Of Way](https://open.spotify.com/track/1nkZhGQbxTb4nwPhjwbSqz) | [Aya Akatu](https://open.spotify.com/artist/69uAko6yM9xzNTEkDEwVAs) | [Kind Of Way](https://open.spotify.com/album/51uWtEVAeOxnilOywq0kM7) | 3:08 | 2024-07-12 |  |
 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 | 2021-09-06 |  |
+| [Language Of The Moon](https://open.spotify.com/track/0EmJd1vtKeJ1IaoB3cTlar) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [Language Of The Moon](https://open.spotify.com/album/6yhGtFoSXeVYKtgboa7Pvo) | 2:44 | 2024-07-12 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2021-12-22 |  |
 | [Lay Down](https://open.spotify.com/track/4PIdLxret66FcX5mMyTyga) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Lay Down](https://open.spotify.com/album/6Pc9x79guaH7ahJduO7iFW) | 2:29 | 2023-08-24 |  |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2021-09-06 |  |
@@ -189,6 +196,7 @@
 | [mellow](https://open.spotify.com/track/1yJXNOEP2bq1N1691n37oS) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [sleep escape](https://open.spotify.com/album/4XrIUaNhTJFVDrfykbsnAN) | 2:24 | 2021-09-06 |  |
 | [mellow](https://open.spotify.com/track/7CVgHbVQmNtUVXKZOgonJK) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [mellow](https://open.spotify.com/album/5M6bsvJuj33pYJrUo8p3Q2) | 2:24 | 2021-09-06 |  |
 | [Morning](https://open.spotify.com/track/6HhJ1R01f7o7rwcqAfbOpG) | [Zach Wirchak](https://open.spotify.com/artist/0psPeTNr93RCDslpHVYybN) | [Vee](https://open.spotify.com/album/585NVeEWMavJC3CxMQ2enb) | 2:12 | 2021-09-06 |  |
+| [Morning Fog](https://open.spotify.com/track/5GQFX0Ma8mKM5CwiAfaj15) | [Binaural Delta Sleep](https://open.spotify.com/artist/1BhL6JmVQYO2USLM1HbzKd) | [Morning Fog](https://open.spotify.com/album/5qxvb1PnNQXRlrZJwcnMyt) | 2:24 | 2024-07-12 |  |
 | [Morning Mist](https://open.spotify.com/track/7cGQaAaQHpcsJF82ph3C85) | [Oscar O'Keefe](https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR) | [Wrapped In Clouds](https://open.spotify.com/album/6MRwMWl3tDRodDK7a3rmCV) | 3:20 | 2021-09-06 |  |
 | [Morning Reflection](https://open.spotify.com/track/444EJ06sxk2RAyemHmO5OM) | [Mikael Robbins](https://open.spotify.com/artist/68uqJ5ki8H7F4SHIh4kubp) | [Morning Reflection](https://open.spotify.com/album/5Je7r02QkjH8nLcEkminFc) | 3:49 | 2021-09-06 | 2023-07-15 |
 | [Morning Shimmer](https://open.spotify.com/track/24PDuLZfLOKtAgh4axr36e) | [Vochey](https://open.spotify.com/artist/02z03d6JvUT8uGF4ssw7B9) | [Morning Shimmer](https://open.spotify.com/album/7rbsoxzqDo2WOb9qcFWDYI) | 3:38 | 2021-09-06 |  |
@@ -220,6 +228,7 @@
 | [Projections](https://open.spotify.com/track/0pgh65p0D9uDSdOrmsaTgu) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Projections](https://open.spotify.com/album/518vvUBj26HuDFKyjYejAp) | 2:40 | 2021-09-06 |  |
 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 | 2021-09-06 |  |
 | [Purpose](https://open.spotify.com/track/0WXhEn3IN5xTCSm6qWixEz) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Empathy](https://open.spotify.com/album/3cJ5MRVonIt3dJ2KjYabwp) | 3:29 | 2022-12-02 |  |
+| [Qadar](https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [Qadar](https://open.spotify.com/album/3dJjBXOomyeqrVAmMIWtnP) | 2:53 | 2024-07-12 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-09-06 |  |
 | [Red Sky at Night](https://open.spotify.com/track/3R9iknEaIh2gUNS8cBVRhH) | [Nishol](https://open.spotify.com/artist/4SfjuPryVgTry3qffdm6oM) | [Red Sky at Night](https://open.spotify.com/album/1aOOWV81kQmS9efdxs0ODx) | 3:13 | 2021-09-06 |  |
 | [Reflections](https://open.spotify.com/track/78OmWdWdxRwFlIEDgNALeD) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Reflections](https://open.spotify.com/album/3AehN6vnl5y9j9ihOloltl) | 3:18 | 2021-09-06 |  |
@@ -306,6 +315,7 @@
 | [Weightless](https://open.spotify.com/track/49yEGgs1pcnVk3e8UtyzBn) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Weightless](https://open.spotify.com/album/6O9q7WESklvHl1yZCqvXRm) | 3:07 | 2024-06-10 |  |
 | [Weightless Moments](https://open.spotify.com/track/430S5jXFtVzLvDY14M8UiM) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [Weightless Moments](https://open.spotify.com/album/0hlW6PxO25DJR95MLLWxFd) | 2:41 | 2024-04-04 |  |
 | [Where We Meet](https://open.spotify.com/track/4sFQxujUhJEOFCgFgxF8Yp) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Calming Piano for Yoga and Meditation Vol 1](https://open.spotify.com/album/2IzcSEAadl9qSUOaLMGcEk) | 2:14 | 2022-02-17 |  |
+| [Whispering Wind](https://open.spotify.com/track/34OU5mx0WLo18srNdK3mr0) | [Soul Pursuit](https://open.spotify.com/artist/3w48oa6N62cxzWfJQYcGpX) | [Whispering Wind](https://open.spotify.com/album/4ytCZ52zbzwNGNgsiL6zP0) | 3:26 | 2024-07-12 |  |
 | [White Waves](https://open.spotify.com/track/76hDUyI5Avauy1nCOEaruh) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Eon](https://open.spotify.com/album/4NTj46M6CQfk5YcrtKrZW6) | 2:44 | 2021-09-06 |  |
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2021-09-06 | 2022-08-24 |
 | [Wilderness](https://open.spotify.com/track/0kU6RSgocGJrmKhJkRH9fi) | [Aura Dope](https://open.spotify.com/artist/06o1ocMKMo2ww6ku48oXtT) | [Wilderness](https://open.spotify.com/album/1uwABJHYXBf2orTMqPPfOJ) | 3:15 | 2021-09-06 |  |

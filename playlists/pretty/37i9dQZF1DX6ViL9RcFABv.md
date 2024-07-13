@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: David Carreira, LEO2745
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,820 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,852 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 3 | [Eu Prometo \(feat\. Nuno Ribeiro\)](https://open.spotify.com/track/3fM66OkuxlPrrHPp5J5978) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Eu Prometo \(feat\. Nuno Ribeiro\)](https://open.spotify.com/album/2vXp7NGxTjJaI4VQF5LdTy) | 2:43 |
 | 4 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 |
 | 5 | [Deixou\-me a mala no comboio](https://open.spotify.com/track/0qWrS0dWt9B4hmrMFvGX9r) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Rosinha](https://open.spotify.com/artist/7jEoa4wHZBYkvD6WEkLhXs) | [Deixou\-me a mala no comboio](https://open.spotify.com/album/7KuUjsTqPkrbQiTiN7eR2K) | 2:50 |
-| 6 | [Há Sempre Uma Música](https://open.spotify.com/track/72zUGpAotxbRhlqXnB9nSD) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [SNTMNTL](https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn) | 3:01 |
+| 6 | [Há Sempre Uma Música](https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Há Sempre Uma Música](https://open.spotify.com/album/68etasB9n5OlhGaBIxX6s9) | 3:01 |
 | 7 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/album/2WZOiUyx2FeSnmzdXWFhPs) | 3:14 |
 | 8 | [Rosa \(feat\. CONAN OSIRIS\)](https://open.spotify.com/track/0w224dseDmkVEslHsZfkG3) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [Rosa \(feat\. CONAN OSIRIS\)](https://open.spotify.com/album/210jbUrguMRYKHil7qrPLE) | 2:52 |
 | 9 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Tu Amor](https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Tu Amor](https://open.spotify.com/album/2IqpqWDTt6n9oLHboUZkaB) | 3:53 |
 | 70 | [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 |
 
-Snapshot ID: `ZpBj8AAAAACFzRVsVINAzOx/VL472gJg`
+Snapshot ID: `ZpEEdQAAAAChmcMCfPWmNTMEUSuImYVD`

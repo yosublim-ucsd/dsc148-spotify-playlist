@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
+  "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
   "name": "API Pride",
   "tracks": [
     {
@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "all-american bitch!",
+        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "all-american bitch!",
+      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
+    },
+    {
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -107,6 +125,24 @@
     },
     {
       "album": {
+        "name": "American Hero",
+        "url": "https://open.spotify.com/album/21HMENCxfw31djGv60lk88"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167426,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/0xrvAhyfxPpLERKzrgJGhA"
+    },
+    {
+      "album": {
         "name": "Boys Aside",
         "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
       },
@@ -136,7 +172,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 230000,
       "name": "Boys Aside",
       "url": "https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s"
@@ -378,7 +414,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 205291,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
@@ -504,7 +540,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 164295,
       "name": "Good Advice",
       "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
@@ -1167,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208136,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
+    },
+    {
+      "album": {
         "name": "HOLLAND",
         "url": "https://open.spotify.com/album/1bzXbhzDTH7Z4eyy8ODfhy"
       },
@@ -1240,6 +1294,24 @@
       "duration_ms": 355121,
       "name": "New York 93 (Baba Stiltz Remix)",
       "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
+    },
+    {
+      "album": {
+        "name": "No New Friends",
+        "url": "https://open.spotify.com/album/0JCwDW8OoRosByl0NWgluA"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "No New Friends",
+      "url": "https://open.spotify.com/track/3F3sFq64qFLeTcXqvjttH3"
     },
     {
       "album": {
@@ -1370,7 +1442,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208333,
       "name": "ok on your own (feat. Carly Rae Jepsen)",
       "url": "https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7"

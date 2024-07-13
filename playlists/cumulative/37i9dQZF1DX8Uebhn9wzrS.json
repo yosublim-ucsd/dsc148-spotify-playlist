@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -3674,7 +3674,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 131506,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 119500,
       "name": "Blue Sea \u9752\u6d77",
       "url": "https://open.spotify.com/track/35OwBONfwjJhCxW9qFmchn"
@@ -5963,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "Cinnamon Rolls",
+        "url": "https://open.spotify.com/album/5PrWtKLQz7wuK7brKTbl1q"
+      },
+      "artists": [
+        {
+          "name": "Hans Hu$tle",
+          "url": "https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Cinnamon Rolls",
+      "url": "https://open.spotify.com/track/4v8H3C8la4lS1E14pddRp9"
+    },
+    {
+      "album": {
         "name": "Circle Of Ours",
         "url": "https://open.spotify.com/album/6DEf9pLBRcDGDCMBrcrTyh"
       },
@@ -6082,7 +6100,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 96000,
       "name": "clavia",
       "url": "https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2"
@@ -8119,6 +8137,24 @@
     },
     {
       "album": {
+        "name": "Devoted to Violet",
+        "url": "https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a"
+      },
+      "artists": [
+        {
+          "name": "Julia Groves",
+          "url": "https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135820,
+      "name": "Devoted to Violet",
+      "url": "https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe"
+    },
+    {
+      "album": {
         "name": "devotion",
         "url": "https://open.spotify.com/album/3yO0qSDkaa1SLKawgxWeNE"
       },
@@ -9730,7 +9766,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 158666,
       "name": "empty heads",
       "url": "https://open.spotify.com/track/78CZWFmBaPAWNmm1k14Vis"
@@ -10420,7 +10456,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 109244,
       "name": "Falling Rain",
       "url": "https://open.spotify.com/track/7iTsPfmlc3GG6IG79co6z3"
@@ -11938,7 +11974,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 141690,
       "name": "French Escapades",
       "url": "https://open.spotify.com/track/6yGVHmS3665TnIpbt4WAgP"
@@ -14230,7 +14266,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 133500,
       "name": "Heat Wave",
       "url": "https://open.spotify.com/track/6LYC2niQzFS93ELOTmIYkM"
@@ -15188,7 +15224,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140117,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2wJrTlyqgJFj7RsoswJHIF"
@@ -17840,7 +17876,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170999,
       "name": "Life of an NPC",
       "url": "https://open.spotify.com/track/0ECIkUNZcYxC1Sr74puVqo"
@@ -19914,7 +19950,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -20156,6 +20192,24 @@
       "duration_ms": 145600,
       "name": "memories we made",
       "url": "https://open.spotify.com/track/01dT6aejWkATblUn3zs0l0"
+    },
+    {
+      "album": {
+        "name": "memory charms",
+        "url": "https://open.spotify.com/album/6ShTwHsI507gYdgtOcibrs"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106125,
+      "name": "memory charms",
+      "url": "https://open.spotify.com/track/0kPEFxePX7UsPZ6oEjsWYx"
     },
     {
       "album": {
@@ -22478,7 +22532,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "No Saintz",
       "url": "https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3"
@@ -32093,6 +32147,24 @@
     },
     {
       "album": {
+        "name": "Sweet Mood",
+        "url": "https://open.spotify.com/album/0w9aOvVx2RuvVWc3zHfna2"
+      },
+      "artists": [
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132313,
+      "name": "Sweet Mood",
+      "url": "https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH"
+    },
+    {
+      "album": {
         "name": "Sweet water",
         "url": "https://open.spotify.com/album/1cuUSlktiaqYuwj6wquDxI"
       },
@@ -32144,6 +32216,24 @@
       "duration_ms": 177534,
       "name": "Swinging On saturn",
       "url": "https://open.spotify.com/track/2VMC5qYtKQtZrqBZEGRPsr"
+    },
+    {
+      "album": {
+        "name": "Swirl it please",
+        "url": "https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM"
+      },
+      "artists": [
+        {
+          "name": "RainDear",
+          "url": "https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "Swirl it please",
+      "url": "https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL"
     },
     {
       "album": {
@@ -33722,7 +33812,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 141952,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6XdulSZx2waNFqtpZE1hL3"

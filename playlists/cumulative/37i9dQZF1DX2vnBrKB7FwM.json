@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "C-Cuatro",
+        "url": "https://open.spotify.com/album/7xsdPqvxnJ2vxXrHv5pf6Q"
+      },
+      "artists": [
+        {
+          "name": "The Negro Tapes",
+          "url": "https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204452,
+      "name": "C-Cuatro",
+      "url": "https://open.spotify.com/track/2jV6xSJr2atKl5VrcBvptK"
+    },
+    {
+      "album": {
         "name": "Juegos de Azar",
         "url": "https://open.spotify.com/album/3COocsnqFmmlyI8W7vSaeY"
       },
@@ -406,6 +424,28 @@
       "duration_ms": 218117,
       "name": "Casual",
       "url": "https://open.spotify.com/track/45ZNvmwzUkHG6AhOepRpSX"
+    },
+    {
+      "album": {
+        "name": "Ceviche",
+        "url": "https://open.spotify.com/album/2hn2uMgBlqDecFuKJtsLpQ"
+      },
+      "artists": [
+        {
+          "name": "Error 999",
+          "url": "https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0"
+        },
+        {
+          "name": "Sike Damodar",
+          "url": "https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166340,
+      "name": "Ceviche",
+      "url": "https://open.spotify.com/track/248gpx3jT9byxh7sybf0LT"
     },
     {
       "album": {
@@ -702,7 +742,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189488,
       "name": "El Milagro",
       "url": "https://open.spotify.com/track/2Ix36EiqHb6ZeLevZpZTAz"
@@ -1492,7 +1532,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 138000,
       "name": "Maleza",
       "url": "https://open.spotify.com/track/2Mgn1HASDvZkKgcvRD9mVj"

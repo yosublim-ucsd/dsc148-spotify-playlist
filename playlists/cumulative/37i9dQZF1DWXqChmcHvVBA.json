@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-22",
-  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: La Joaqui.",
+  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: ECKO.",
   "name": "RKT  & Turreo",
   "tracks": [
     {
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 166736,
       "name": "LALAL\u00c1",
       "url": "https://open.spotify.com/track/1XGlvC36zhgG89NDih0IWk"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 232793,
       "name": "Mega Salas - Rkt",
       "url": "https://open.spotify.com/track/4uTZdVB3tnbz8UFJ5CwADi"
@@ -2408,6 +2408,24 @@
       "duration_ms": 223820,
       "name": "Muevelo Mami - Remix",
       "url": "https://open.spotify.com/track/73itkW7DQhxIvUTYzddQPY"
+    },
+    {
+      "album": {
+        "name": "Mujeres Solteras",
+        "url": "https://open.spotify.com/album/2PYydyybGTqdno9Mk1apmS"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95771,
+      "name": "Mujeres Solteras",
+      "url": "https://open.spotify.com/track/4cBH6zRhKisaqlnGQKs8aD"
     },
     {
       "album": {
@@ -3730,6 +3748,24 @@
       "duration_ms": 145912,
       "name": "Solterosky",
       "url": "https://open.spotify.com/track/6AS7iD8o56oa2p7TH8COnd"
+    },
+    {
+      "album": {
+        "name": "Somo o No Somo",
+        "url": "https://open.spotify.com/album/7GFi5QYcnAfCoZFyMs60LX"
+      },
+      "artists": [
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136530,
+      "name": "Somo o No Somo",
+      "url": "https://open.spotify.com/track/2xXnD17PPBCLvqe0HbMBCu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,412 likes - 85 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,534 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 68 | [Exit Us](https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Exit Us](https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V) | 3:37 |
 | 69 | [Rescuer \(Good News\)](https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Rescuer \(Good News\)](https://open.spotify.com/album/5mati4th5xS4GWys74MiR2) | 3:28 |
 | 70 | [Canvas And Clay](https://open.spotify.com/track/404RzFqc13ZySX8auBFyub) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning](https://open.spotify.com/album/7eD4vFAbEwTGZxcauUH2dg) | 4:14 |
-| 71 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/5qL4YNkSHPLiwHZQaPuZl8) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/album/5M8QVTJtlTKM71Ra9XpfC4) | 5:23 |
-| 72 | [Find You](https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Find You](https://open.spotify.com/album/6xCw4dK6PgNA26EEux2Phu) | 2:42 |
+| 71 | [Find You](https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Find You](https://open.spotify.com/album/6xCw4dK6PgNA26EEux2Phu) | 2:42 |
+| 72 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/5qL4YNkSHPLiwHZQaPuZl8) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/album/5M8QVTJtlTKM71Ra9XpfC4) | 5:23 |
 | 73 | [Love Has Won](https://open.spotify.com/track/7hdn2sjtxPwkrTN6K6yyUa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Love Has Won](https://open.spotify.com/album/29mEscGC93VONgWDdVOtNW) | 4:22 |
 | 74 | [Honestly, We Just Need Jesus](https://open.spotify.com/track/18QDUhYX0DYLHueTr1Wzz7) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Honestly, We Just Need Jesus](https://open.spotify.com/album/1fWPYlF3KjkU0snPtPk2Hz) | 3:28 |
 | 75 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |

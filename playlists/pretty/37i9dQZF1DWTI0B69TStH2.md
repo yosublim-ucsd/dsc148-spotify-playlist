@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2fLOBc2u4ihUBpfqumia4k">Zagi</a>,  <a href="spotify:artist:76lCUlBvj6ZyMbohoYSlaX">Magda Szczebiot</a>, <a href="spotify:artist:6tow0VqHl4rZK7jZg77bSK">Agnieszka Pokorska</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,603 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,606 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [chaos](https://open.spotify.com/track/7y6b5hITEAQORufM2gs8mM) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k), [Magda Szczebiot](https://open.spotify.com/artist/76lCUlBvj6ZyMbohoYSlaX), [Agnieszka Pokorska](https://open.spotify.com/artist/6tow0VqHl4rZK7jZg77bSK) | [chaos](https://open.spotify.com/album/3BokcqHH5dtp8BSqCCxsky) | 3:18 |
 | 2 | [nie o Tobie](https://open.spotify.com/track/4L1W2Ecp7nL3C6VLKbg8JB) | [nic nic](https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi) | [nie o Tobie](https://open.spotify.com/album/5kfUaKJ3uVq4GQIzcLPIMv) | 2:37 |
-| 3 | [ZE MNĄ CHODŹ](https://open.spotify.com/track/3HSp54q7oEq5ISaklaL3qQ) | [FERBI](https://open.spotify.com/artist/1nItIOHyYmpdNK6exWstp8), [Mokebe](https://open.spotify.com/artist/5aTIqwE8d480xJS7H3iJTC), [Ohgotmi](https://open.spotify.com/artist/5dZOAVSUGC5qlkJSiUXyzM), [Hensiv](https://open.spotify.com/artist/5ciG9jQiln3bgkwnzA5AI4), [SPECTROOM](https://open.spotify.com/artist/5tUarpmY1IXfl21I83E2be) | [ZE MNĄ CHODŹ](https://open.spotify.com/album/6s0KQVDICBnyXigH6MHQdk) | 2:36 |
+| 3 | [ZE MNĄ CHODŹ](https://open.spotify.com/track/3HSp54q7oEq5ISaklaL3qQ) | [SPECTROOM](https://open.spotify.com/artist/5tUarpmY1IXfl21I83E2be), [FERBI](https://open.spotify.com/artist/1nItIOHyYmpdNK6exWstp8), [Mokebe](https://open.spotify.com/artist/5aTIqwE8d480xJS7H3iJTC), [Ohgotmi](https://open.spotify.com/artist/5dZOAVSUGC5qlkJSiUXyzM), [Hensiv](https://open.spotify.com/artist/5ciG9jQiln3bgkwnzA5AI4) | [ZE MNĄ CHODŹ](https://open.spotify.com/album/6s0KQVDICBnyXigH6MHQdk) | 2:36 |
 | 4 | [Czy masz siłe by kochać?](https://open.spotify.com/track/5x8UMYUwwMoKFf6p6pyyzI) | [KOLORY](https://open.spotify.com/artist/1P95gCESH2kyAAUOl1GWsd) | [Czy masz siłę by kochać?](https://open.spotify.com/album/79RhKGcQEcdhmAXuUOJS6Q) | 3:22 |
 | 5 | [mam się dobrze](https://open.spotify.com/track/2bFKHXJKQ9o2MsGckOXdFP) | [michens](https://open.spotify.com/artist/650Xqzwh384JVdkxZhmwBU), [karawan](https://open.spotify.com/artist/3R1fpb0D1SfcMwqzsGYkHU) | [mam się dobrze](https://open.spotify.com/album/0yW65jASnwGkRH5uYBuKUA) | 2:49 |
 | 6 | [Niesztucznie \- Remix](https://open.spotify.com/track/4TuPI9AlAiyF8jKNHOBBoD) | [Ekhto](https://open.spotify.com/artist/3MbAEjMaY8oFQlUq1TbDTA) | [Niesztucznie \(Remix\)](https://open.spotify.com/album/696JyfmfBuW6jSGBjOilmD) | 5:01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- AKASA",
+  "description": "Latest music from your fav I-Pop artists. Cover- Ayushmann Khurana",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 182104,
       "name": "Achha Lag Raha Hai",
       "url": "https://open.spotify.com/track/4plvShsskQ7Gu8EIxfxHNB"
@@ -1656,6 +1656,28 @@
       "duration_ms": 181350,
       "name": "Awara",
       "url": "https://open.spotify.com/track/7bTwiyIvTfHVcK7K8IwobP"
+    },
+    {
+      "album": {
+        "name": "AZA",
+        "url": "https://open.spotify.com/album/5ErDBmsvIr2COs3r227aWc"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "AZA",
+      "url": "https://open.spotify.com/track/5lUfB7ag3yKU1zaRJTfhiz"
     },
     {
       "album": {
@@ -2752,6 +2774,24 @@
       "duration_ms": 208463,
       "name": "Bawre",
       "url": "https://open.spotify.com/track/3dScHmTxACcJLjfsztRRI0"
+    },
+    {
+      "album": {
+        "name": "Befikra",
+        "url": "https://open.spotify.com/album/3sw5Zb6m4uSfUZLXMDx5my"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Befikra",
+      "url": "https://open.spotify.com/track/09eO5OAVdLmGjRWCPzNtBv"
     },
     {
       "album": {
@@ -5764,10 +5804,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208346,
       "name": "Do Kadam",
       "url": "https://open.spotify.com/track/0GN8vE4lQHbU1Npof7bJEP"
+    },
+    {
+      "album": {
+        "name": "Leher",
+        "url": "https://open.spotify.com/album/0B6idJAabcGHQTdjFN2zgo"
+      },
+      "artists": [
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276053,
+      "name": "Dobara",
+      "url": "https://open.spotify.com/track/17Pq9HfBwWbqUnwJlO2boO"
     },
     {
       "album": {
@@ -6744,7 +6802,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 186451,
       "name": "Gallan Mainu Dasde",
       "url": "https://open.spotify.com/track/2jDM0etbRgokmEWJcnVmQy"
@@ -7222,7 +7280,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168000,
       "name": "Gulabi Gaal",
       "url": "https://open.spotify.com/track/6ltkS7WVQfOmnKx7BXXBDI"
@@ -7705,6 +7763,28 @@
     },
     {
       "album": {
+        "name": "Hasde Zara",
+        "url": "https://open.spotify.com/album/4mXRRgAhonFWVZAXcFNRNM"
+      },
+      "artists": [
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        },
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220122,
+      "name": "Hasde Zara",
+      "url": "https://open.spotify.com/track/4yklEkROSTXhh1ACqXX86O"
+    },
+    {
+      "album": {
         "name": "Hasi Ban Gaye",
         "url": "https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh"
       },
@@ -7834,6 +7914,28 @@
       "duration_ms": 235058,
       "name": "Heer Meri",
       "url": "https://open.spotify.com/track/1iQDhmcdGpFjGbW0oWM3wn"
+    },
+    {
+      "album": {
+        "name": "Heer Raanjha",
+        "url": "https://open.spotify.com/album/1sSG9U0lZzcR66vvZNZ2k8"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199042,
+      "name": "Heer Raanjha",
+      "url": "https://open.spotify.com/track/21BTK0RqgL0SXNEVS1ZJtC"
     },
     {
       "album": {
@@ -8814,7 +8916,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181874,
       "name": "Ishq Manayein Kya? - Swing Version",
       "url": "https://open.spotify.com/track/13kUDHNgjDJvrDiVzmj0GH"
@@ -11818,6 +11920,28 @@
       "duration_ms": 144000,
       "name": "khoya sa - Stripped",
       "url": "https://open.spotify.com/track/3EmMNCCS0SAmAy7ydYbg0w"
+    },
+    {
+      "album": {
+        "name": "Khoyi Khoyi",
+        "url": "https://open.spotify.com/album/6ZOZiBtF4WP1CLqdmTKFYU"
+      },
+      "artists": [
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Khoyi Khoyi",
+      "url": "https://open.spotify.com/track/2tO0qOhdxFgtRrOqlj2rr6"
     },
     {
       "album": {
@@ -15087,6 +15211,24 @@
     },
     {
       "album": {
+        "name": "Muskaan",
+        "url": "https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9"
+      },
+      "artists": [
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "Muskaan",
+      "url": "https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ"
+    },
+    {
+      "album": {
         "name": "Muskan",
         "url": "https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv"
       },
@@ -15400,7 +15542,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 160780,
       "name": "Nahi Milna",
       "url": "https://open.spotify.com/track/0BdyAV1y45mSJEkKzI3msW"
@@ -16012,7 +16154,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 137124,
       "name": "Nora",
       "url": "https://open.spotify.com/track/0gzbtIaFw9TyOFXDoubusY"
@@ -16428,7 +16570,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180000,
       "name": "Panghatwa",
       "url": "https://open.spotify.com/track/4PQD3P7gYXkUebtCyyJfOv"
@@ -17707,6 +17849,28 @@
     },
     {
       "album": {
+        "name": "Reh Ja",
+        "url": "https://open.spotify.com/album/47i7MYu4zOKoEnZUGcIksN"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        },
+        {
+          "name": "Harjot Kaur",
+          "url": "https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168452,
+      "name": "Reh Ja",
+      "url": "https://open.spotify.com/track/6m4595gWn1q5XjRiZommin"
+    },
+    {
+      "album": {
         "name": "Rehbara",
         "url": "https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo"
       },
@@ -18666,6 +18830,28 @@
     {
       "album": {
         "name": "Sajna",
+        "url": "https://open.spotify.com/album/3e0nJ2Y42CKlgpKOWz6Y58"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Bhu.",
+          "url": "https://open.spotify.com/artist/4Sdrnf325Cs830mExOqxGS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188725,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/3y9aYm0JA07wO2V2QzA9pi"
+    },
+    {
+      "album": {
+        "name": "Sajna",
         "url": "https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw"
       },
       "artists": [
@@ -19393,6 +19579,28 @@
     },
     {
       "album": {
+        "name": "Shor-Gul",
+        "url": "https://open.spotify.com/album/3l545647ZO8IMPafIuD3ip"
+      },
+      "artists": [
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        },
+        {
+          "name": "Ujjwal Kashyap",
+          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "Shor-Gul",
+      "url": "https://open.spotify.com/track/6XTc3oZCCFi8o9FzBx4QJm"
+    },
+    {
+      "album": {
         "name": "Shringaar (feat. Milind Soman)",
         "url": "https://open.spotify.com/album/3515DB1ynK7YXiZqABue6p"
       },
@@ -19530,7 +19738,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 275266,
       "name": "Sonchadi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
@@ -19662,7 +19870,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 177209,
       "name": "Subha Shaam",
       "url": "https://open.spotify.com/track/4RiWt8bSrpy4tWVuMAPm3h"
@@ -20275,6 +20483,28 @@
     },
     {
       "album": {
+        "name": "Tarse Jiya",
+        "url": "https://open.spotify.com/album/0kdSrz337jRVRzVGmvV6mQ"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "Samriddhi Khatri",
+          "url": "https://open.spotify.com/artist/6xlqskZB0uiMkeR2rc9kTK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150322,
+      "name": "Tarse Jiya",
+      "url": "https://open.spotify.com/track/4awiGalBUrW2cGvuLdKDli"
+    },
+    {
+      "album": {
         "name": "Tauba (feat. Badshah)",
         "url": "https://open.spotify.com/album/7xSdMyPr5KPL3A171ZbQ9M"
       },
@@ -20432,6 +20662,32 @@
       "duration_ms": 201617,
       "name": "Tera Mera Milna - From \"Jannatein\"",
       "url": "https://open.spotify.com/track/1BgUi5DRGzl8PGwwU011h8"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Viah",
+        "url": "https://open.spotify.com/album/2M0I96CdB670s6tDzGJynC"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        },
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/3DYqVoB2aDcCrCfcjiFaQR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tera Mera Viah",
+      "url": "https://open.spotify.com/track/3TG0iwvXpzFbFck6d2Xlpw"
     },
     {
       "album": {
@@ -23476,7 +23732,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 178146,
       "name": "Who\u2019s That Girl",
       "url": "https://open.spotify.com/track/1mbDRFQEnfgUHdHs3iBWMC"
@@ -23498,7 +23754,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 240000,
       "name": "Woh Mulaqat",
       "url": "https://open.spotify.com/track/4qRMebvWGuoiQoY6WUM9U8"

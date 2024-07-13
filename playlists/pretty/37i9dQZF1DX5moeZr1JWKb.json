@@ -1,33 +1,13 @@
 {
   "description": "Estas son las grandes voces del Hip Hop. Foto: Kei Linch & Nanpa B\u00e1sico",
-  "num_followers": 20751,
+  "num_followers": 20754,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnT1UgAAAADNu2jqO33RKbs5WOhrojL0",
+  "snapshot_id": "ZpCtUAAAAAA1OQGNnZLz4HF3Dj4Z5Wkx",
   "tracks": [
-    {
-      "added_at": "2024-06-21 03:36:50",
-      "album": {
-        "name": "M\u00e1s que reales",
-        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "M\u00e1s que reales",
-      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
-    },
     {
       "added_at": "2024-06-21 03:36:50",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 126383,
       "name": "Un Pelito y Un Tamal",
       "url": "https://open.spotify.com/track/3EPHagMulVWYwuefchltK6"
+    },
+    {
+      "added_at": "2024-06-21 03:36:50",
+      "album": {
+        "name": "M\u00e1s que reales",
+        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "M\u00e1s que reales",
+      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
     },
     {
       "added_at": "2024-06-21 03:36:50",
@@ -71,6 +71,34 @@
       "duration_ms": 275437,
       "name": "La Sabia Escuela",
       "url": "https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE"
+    },
+    {
+      "added_at": "2024-07-12 04:13:03",
+      "album": {
+        "name": "Tilin Chilin (feat. DEUXER)",
+        "url": "https://open.spotify.com/album/4Flr5Wozv2ho5e1YGCCGhi"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        },
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        },
+        {
+          "name": "DEUXER",
+          "url": "https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j"
+        }
+      ],
+      "duration_ms": 254318,
+      "name": "Tilin Chilin",
+      "url": "https://open.spotify.com/track/2k7aMVmc4NDfW464qeDGJi"
     },
     {
       "added_at": "2024-06-21 03:36:50",
@@ -119,6 +147,30 @@
       "duration_ms": 164659,
       "name": "Querido Frank",
       "url": "https://open.spotify.com/track/6jPdkC03Y7tZpG5D9QEnTz"
+    },
+    {
+      "added_at": "2024-07-12 04:13:03",
+      "album": {
+        "name": "Copycats",
+        "url": "https://open.spotify.com/album/179O7GapWGZOoXTLmI1P2r"
+      },
+      "artists": [
+        {
+          "name": "Error 999",
+          "url": "https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0"
+        },
+        {
+          "name": "Saga Uno",
+          "url": "https://open.spotify.com/artist/1vyFkmTWEMhgKuK1fFwCjZ"
+        },
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        }
+      ],
+      "duration_ms": 215937,
+      "name": "Copycats",
+      "url": "https://open.spotify.com/track/7e1K8P7VCmTKAEzqiPqgnA"
     },
     {
       "added_at": "2024-06-21 03:36:50",
@@ -283,26 +335,6 @@
     {
       "added_at": "2024-06-21 03:36:50",
       "album": {
-        "name": "M\u00e1s Flor y M\u00e1s Suerte",
-        "url": "https://open.spotify.com/album/7sDc1Ig1WkN6Vi1Zt3ZN7W"
-      },
-      "artists": [
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "M\u00e1s Flor y M\u00e1s Suerte",
-      "url": "https://open.spotify.com/track/2pR22ypclLuX5BPunwr57h"
-    },
-    {
-      "added_at": "2024-06-21 03:36:50",
-      "album": {
         "name": "Sudaca en el Rooftop",
         "url": "https://open.spotify.com/album/6MBPWZl4xbYrrgbQcnKQhv"
       },
@@ -339,26 +371,6 @@
       "duration_ms": 242288,
       "name": "Mi Ni\u00f1a Interna",
       "url": "https://open.spotify.com/track/0BRrzzqKS97IXzwANDFxFv"
-    },
-    {
-      "added_at": "2024-06-21 03:36:50",
-      "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/6ZfPNl1JCYyLpNJvSATZVl"
-      },
-      "artists": [
-        {
-          "name": "Jay M Vee",
-          "url": "https://open.spotify.com/artist/4jSlNjieG5Gtz82RPzUbF2"
-        },
-        {
-          "name": "Dj 113",
-          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/38HS4ioSKj5aIj5Czr0352"
     },
     {
       "added_at": "2024-06-21 03:36:50",

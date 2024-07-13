@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 271733,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Esa Palabra",
+        "url": "https://open.spotify.com/album/1zEqCBj9ekkO4nt6DprDXC"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365260,
+      "name": "Esa Palabra",
+      "url": "https://open.spotify.com/track/5wkflnlId9hD0xpU84KKr6"
+    },
+    {
+      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/55ZntQVFwdwLKBDvFLmweQ"
       },
@@ -1384,6 +1402,24 @@
       "duration_ms": 170500,
       "name": "Explorador - Remaster 2022",
       "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
+    },
+    {
+      "album": {
+        "name": "Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/58HuvUk6husnKyigR8iOFY"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122858,
+      "name": "Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/18iAPBZinu7ZHeFhxNcxWn"
     },
     {
       "album": {
@@ -1891,6 +1927,32 @@
     },
     {
       "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Lena Campos",
+          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
+        },
+        {
+          "name": "Moy Yos",
+          "url": "https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192939,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
+    },
+    {
+      "album": {
         "name": "La Izquierda de la Noche",
         "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
       },
@@ -2094,7 +2156,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 243338,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX"
@@ -2451,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172271,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
+    },
+    {
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -2642,6 +2722,28 @@
       "duration_ms": 283488,
       "name": "Mu\u00f1equita Sint\u00e9tica",
       "url": "https://open.spotify.com/track/7G3S3F0Jrosbw3SD91KW0F"
+    },
+    {
+      "album": {
+        "name": "M\u00eda",
+        "url": "https://open.spotify.com/album/32xEMV1PFkZxnyzO9EE5Zn"
+      },
+      "artists": [
+        {
+          "name": "Mosy",
+          "url": "https://open.spotify.com/artist/2mQizxUUEg9IWYbczTl39Y"
+        },
+        {
+          "name": "Sergio Arau",
+          "url": "https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227270,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/4sjAqCQ0BQNsZgxcm4zbCI"
     },
     {
       "album": {
@@ -2904,7 +3006,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
@@ -3202,7 +3304,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 265582,
       "name": "Quisiera Saber - En Vivo Desde Oaxaca (teatro Macedonio Alcal\u00e1)",
       "url": "https://open.spotify.com/track/0muk2k2swziGgu9B8eBXRL"

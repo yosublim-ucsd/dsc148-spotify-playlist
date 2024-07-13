@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 285021,
       "name": "'Sey",
       "url": "https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT"
@@ -252,6 +252,28 @@
       "duration_ms": 240169,
       "name": "Aynama",
       "url": "https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf"
+    },
+    {
+      "album": {
+        "name": "The New Wave",
+        "url": "https://open.spotify.com/album/3nAmDYxtOP4s2ZswOAtOVU"
+      },
+      "artists": [
+        {
+          "name": "AfroNile",
+          "url": "https://open.spotify.com/artist/3CJxwpev37bR1n9QlUpv8B"
+        },
+        {
+          "name": "Dibekulu",
+          "url": "https://open.spotify.com/artist/25rlHNovanEzvUxrZ0S7fM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "Ayy Fikir",
+      "url": "https://open.spotify.com/track/0wGN48CQ9Jp89MGTyo3DXi"
     },
     {
       "album": {
@@ -833,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Fiyah Burn",
+        "url": "https://open.spotify.com/album/3N0dCv4K4kG6yXQqoBs8ee"
+      },
+      "artists": [
+        {
+          "name": "Noori Belai",
+          "url": "https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Fiyah Burn",
+      "url": "https://open.spotify.com/track/1z3WMz6hnl2bC1E0WEeIyZ"
+    },
+    {
+      "album": {
         "name": "Gela",
         "url": "https://open.spotify.com/album/2RLtp5wHOkBUilge4TIlGr"
       },
@@ -916,10 +956,28 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 319921,
       "name": "Godanaw",
       "url": "https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo"
+    },
+    {
+      "album": {
+        "name": "Got To Be Tuff",
+        "url": "https://open.spotify.com/album/2AW6FmDcOh0lkUN2eYnXlc"
+      },
+      "artists": [
+        {
+          "name": "Friskit",
+          "url": "https://open.spotify.com/artist/1U9Gg49bU4tSqJFZgwhv4G"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Got To Be Tuff",
+      "url": "https://open.spotify.com/track/54XFOUD5BvxAK8e07Mkxz3"
     },
     {
       "album": {
@@ -1354,7 +1412,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 380419,
       "name": "Mulatu",
       "url": "https://open.spotify.com/track/0LhzIa0cXP8DJEs1nOCXZG"

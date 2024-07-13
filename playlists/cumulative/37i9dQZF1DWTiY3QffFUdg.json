@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Can't Fight The Moonlight",
+        "url": "https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116814,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB"
+    },
+    {
+      "album": {
         "name": "Can't Get You out of My Head",
         "url": "https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn"
       },
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 172563,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 198870,
       "name": "New Generation (The Official Nature One Anthem 2024)",
       "url": "https://open.spotify.com/track/297in4fZqWvilokR586DlB"
@@ -3006,6 +3024,28 @@
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+    },
+    {
+      "album": {
+        "name": "Pyramid Rave / Feel The Energy",
+        "url": "https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156808,
+      "name": "Pyramid Rave",
+      "url": "https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2"
     },
     {
       "album": {

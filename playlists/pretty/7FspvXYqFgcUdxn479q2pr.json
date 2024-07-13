@@ -1,35 +1,87 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Sjaak &amp; YONII",
-  "num_followers": 32546,
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Jude York",
+  "num_followers": 32549,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAqvo49uc+BrIZBxs/mwQCEi+BE72S1",
+  "snapshot_id": "AAAqzeBfFjv5ayndilv2QFwizV+9eDnS",
   "tracks": [
     {
-      "added_at": "2024-07-04 23:37:09",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "My Baby La La",
-        "url": "https://open.spotify.com/album/16UA5lo1OBlXS6qyufcfLm"
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN"
       },
       "artists": [
         {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        },
-        {
-          "name": "YONII",
-          "url": "https://open.spotify.com/artist/7H3TyvM3dpW78cru0Oaui9"
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
         }
       ],
-      "duration_ms": 154545,
-      "name": "My Baby La La",
-      "url": "https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB"
+      "duration_ms": 158710,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
     },
     {
-      "added_at": "2024-07-04 23:37:09",
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/5bC9YRPcdc3W90DG4aw04n"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5JzDUd8Iz8ol1f5WhfTJx9"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Fall At Your Feet (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 143976,
+      "name": "Fall At Your Feet (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Hurricane (feat. Leah Guest)",
+        "url": "https://open.spotify.com/album/0AykD0vZXh4qotarIZaein"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Leah Guest",
+          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Hurricane (feat. Leah Guest)",
+      "url": "https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
       "album": {
         "name": "ZENLESS",
         "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
@@ -57,212 +109,376 @@
       "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
     },
     {
-      "added_at": "2024-07-04 23:37:09",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "Masada - Dabke Drive",
-        "url": "https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y"
+        "name": "My Baby La La",
+        "url": "https://open.spotify.com/album/16UA5lo1OBlXS6qyufcfLm"
       },
       "artists": [
         {
-          "name": "OTIOT",
-          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
-        }
-      ],
-      "duration_ms": 294285,
-      "name": "Dabke Drive",
-      "url": "https://open.spotify.com/track/01vur63FwKqv3TkMODKmuB"
-    },
-    {
-      "added_at": "2024-07-04 23:37:09",
-      "album": {
-        "name": "I'm Too Sexy (Remixes)",
-        "url": "https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX"
-      },
-      "artists": [
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
         },
         {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+          "name": "YONII",
+          "url": "https://open.spotify.com/artist/7H3TyvM3dpW78cru0Oaui9"
         }
       ],
-      "duration_ms": 170625,
-      "name": "I'm Too Sexy (Festival Mix)",
-      "url": "https://open.spotify.com/track/0yNdBmcPrOM7CAhDIxfsSF"
+      "duration_ms": 154545,
+      "name": "My Baby La La",
+      "url": "https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB"
     },
     {
-      "added_at": "2024-07-04 23:37:09",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "ZENLESS",
-        "url": "https://open.spotify.com/album/4ntjc4RbUVs7TfKUvvTSIA"
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "New Sound",
+      "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+          "name": "Aldae",
+          "url": "https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO"
+        }
+      ],
+      "duration_ms": 148930,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "S\u0101n-Z",
-          "url": "https://open.spotify.com/artist/3YQzkkbhmbwaMmZuNxkvsb"
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 144374,
-      "name": "ZENLESS",
-      "url": "https://open.spotify.com/track/3mIouw7V3msMJkm8iqKXXr"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
-      "added_at": "2024-07-04 23:37:09",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "Lotus (PAROOKAVILLE Anthem 2024) [Creeds Remix]",
-        "url": "https://open.spotify.com/album/3t5gjJAHWEGwl4plVLjgns"
+        "name": "D.R.A.M.A.",
+        "url": "https://open.spotify.com/album/08Qu0ibp3z1HmMZkEwe9A0"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
         },
         {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Lotus (PAROOKAVILLE Anthem 2024) - Creeds Remix",
-      "url": "https://open.spotify.com/track/5QvJSbY3lTIag2dgUMazuB"
-    },
-    {
-      "added_at": "2024-07-04 23:37:09",
-      "album": {
-        "name": "I'm Too Sexy (Remixes)",
-        "url": "https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX"
-      },
-      "artists": [
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+          "name": "NuKey",
+          "url": "https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3"
         },
         {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+          "name": "Jose De Mara",
+          "url": "https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV"
+        }
+      ],
+      "duration_ms": 139376,
+      "name": "D.R.A.M.A.",
+      "url": "https://open.spotify.com/track/70kAwMiBK6WVZbcZwhNbLS"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Albert Harvey",
-          "url": "https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 181417,
-      "name": "I'm Too Sexy (Albert Harvey Remix)",
-      "url": "https://open.spotify.com/track/6OFQ2DQOpID6yyeIIAHzzq"
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
-      "added_at": "2024-07-04 23:37:09",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "Masada - Dabke Drive",
-        "url": "https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y"
+        "name": "Go Back (feat. AGGE)",
+        "url": "https://open.spotify.com/album/66YkNXT0BS3m32UfzoXXkk"
       },
       "artists": [
         {
-          "name": "OTIOT",
-          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Masada",
-      "url": "https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC"
-    },
-    {
-      "added_at": "2024-07-08 09:59:34",
-      "album": {
-        "name": "2024 (ilizo Remix)",
-        "url": "https://open.spotify.com/album/2YFQ1eG7C2tgNHp6dlL4Kg"
-      },
-      "artists": [
-        {
-          "name": "chique",
-          "url": "https://open.spotify.com/artist/6z0l5ifI5dNo1PHAVpgFEb"
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
         },
         {
-          "name": "ilizo",
-          "url": "https://open.spotify.com/artist/52Yi0rUbNFG61eJnLyUkSq"
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "AGGE",
+          "url": "https://open.spotify.com/artist/6lToVu9We2bx2cbmc0qtg9"
         }
       ],
-      "duration_ms": 310882,
-      "name": "2024 - ilizo Remix",
-      "url": "https://open.spotify.com/track/4owR2KfPn3rXIK0FnUbTHQ"
+      "duration_ms": 220652,
+      "name": "Go Back (feat. AGGE)",
+      "url": "https://open.spotify.com/track/4jWfLtPxJZroRYfb7dXttK"
     },
     {
-      "added_at": "2024-07-08 12:40:29",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "Emphasis of Illusion",
-        "url": "https://open.spotify.com/album/4Jpg5i3Hp2t3xVG5azlGfI"
+        "name": "All My Tears",
+        "url": "https://open.spotify.com/album/3SA1Lqhmx2z2ATtRKIkdAU"
       },
       "artists": [
         {
-          "name": "Deroz",
-          "url": "https://open.spotify.com/artist/7ueu2Odbr8LCIomUG45Dh5"
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Weekend Wonders",
+          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
         }
       ],
-      "duration_ms": 237142,
-      "name": "Emphasis of Illusion",
-      "url": "https://open.spotify.com/track/7cHM9mao0T6wtCxDKYyns8"
+      "duration_ms": 156226,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/5tVUZvFsPHGGkQ5RF4CEC9"
     },
     {
-      "added_at": "2024-07-08 12:53:49",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/43NXCMAQNNXt81v2UwsRRF"
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
       },
       "artists": [
         {
-          "name": "Robaer",
-          "url": "https://open.spotify.com/artist/6W9GI0QPqUZkyhTxBMUAi5"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         }
       ],
-      "duration_ms": 181178,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3jQhfY54CWkDy4Pqt2ozAG"
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
-      "added_at": "2024-07-08 13:01:22",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/390Ivb6Tcumox4lrkMXuSl"
+        "name": "See You Sweat",
+        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
       },
       "artists": [
         {
-          "name": "Greg Welsh",
-          "url": "https://open.spotify.com/artist/3RwuZdw5zKqMhspsKibacf"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 245714,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/6lgNrkHi78NwTrrzEQJGPV"
+      "duration_ms": 209280,
+      "name": "See You Sweat",
+      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
-      "added_at": "2024-07-09 07:17:36",
+      "added_at": "2024-07-12 16:32:01",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/6dAmlccxwVjmrgTyXQdk6u"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
       "artists": [
         {
-          "name": "Ken Bauer",
-          "url": "https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/3v66edalBUNYxsJMLih2k5"
+      "duration_ms": 191802,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "High For This",
+        "url": "https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "High For This",
+      "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5ZLcOtEmIuI9DFQfBSamFs"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6mN40z3rm6Yg7Pl5L9MSnx"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 163591,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "F#CK THE DJ",
+        "url": "https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "F#CK THE DJ",
+      "url": "https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY"
+    },
+    {
+      "added_at": "2024-07-12 16:32:01",
+      "album": {
+        "name": "Rock Da House",
+        "url": "https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "Rock Da House",
+      "url": "https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD"
     }
   ],
   "unique_name": "New Dance Music Friday",

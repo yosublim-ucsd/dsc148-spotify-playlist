@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Kaitlin Butts
 
-688 songs - 1 day 18 hr 29 min
+690 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Get It ‘Fore It’s Gone](https://open.spotify.com/album/36rWb7X5e9PkWN8wpsVFXW) | 3:34 | 2021-12-17 | 2022-08-06 |
 | [Get To Know Ya](https://open.spotify.com/track/0ctW5fXiE3V5Z2KFEGF3aN) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Get To Know Ya](https://open.spotify.com/album/0OgiHkYyebfr8oz3VTFaNJ) | 3:46 | 2024-02-23 |  |
 | [Get What You Want](https://open.spotify.com/track/6sUOIfXOVPadEdWa3Otr0Y) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Get What You Want](https://open.spotify.com/album/1QujFDWoU7kZy31k7r5vwd) | 4:31 | 2022-02-04 | 2022-06-25 |
-| [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:04 | 2024-03-08 |  |
+| [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:04 | 2024-03-08 | 2024-07-13 |
 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 | 2021-12-17 | 2022-01-22 |
 | [Gloryland](https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex) | 4:12 | 2022-05-13 | 2023-08-05 |
 | [Go Down, Appalachia](https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 3:10 | 2023-01-27 |  |
@@ -274,6 +274,7 @@
 | [Hey Baby](https://open.spotify.com/track/6lJ6Tbyfhd4mKMSQOIxzJV) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Hey Baby](https://open.spotify.com/album/7x1T2pgVdYrtVfLt1fd3cT) | 2:50 | 2021-12-17 | 2022-01-08 |
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-15 |  |
 | [Hold On Tight](https://open.spotify.com/track/2Da8aRTIJXb2eYvbYnxgwd) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Beautiful Day](https://open.spotify.com/album/4ZPuR9nQMulQtF16QmcBt3) | 3:13 | 2024-05-31 |  |
+| [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 | 2024-07-12 |  |
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 | 2023-05-13 |
 | [Holy Water Hangover](https://open.spotify.com/track/0eSwwBWKoxbAje61SkGhKn) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Holy Water Hangover](https://open.spotify.com/album/5SWUKAmpFCPSlQcHq4nFI9) | 3:22 | 2022-08-05 | 2023-09-02 |
 | [Homesick \[Feat\. Jonathan Wilson\]](https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 4:28 | 2023-10-13 |  |
@@ -357,7 +358,7 @@
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 | 2024-04-19 |
 | [Lightning Bugs](https://open.spotify.com/track/5D00ktXfQ5Bkk5vhXzFNun) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9) | [Lightning Bugs](https://open.spotify.com/album/1MMTF3NpIdtSH82CbWtO3T) | 3:23 | 2023-08-04 | 2024-02-17 |
 | [Little by Little](https://open.spotify.com/track/47dausqCUFmwxjbMRurc7o) | [The Delevantes](https://open.spotify.com/artist/5vtCJexhGX2rGkuXo0AJxl) | [A Thousand Turns](https://open.spotify.com/album/7B1SY1ny6RhqjdQRxHpXdQ) | 3:01 | 2021-12-17 | 2022-05-20 |
-| [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 | 2023-07-14 |  |
+| [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 | 2023-07-14 | 2024-07-13 |
 | [Livin' the Dream](https://open.spotify.com/track/5BnzjFbWDTIR0I7Vri1TfQ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/39kR5OZOs5agVwu3lLd2lX) | 2:41 | 2023-09-22 |  |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-12-02 | 2024-04-19 |
 | [Long Journey Home](https://open.spotify.com/track/2dTTuGhULqhoWkw8LRBdE4) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Race Records](https://open.spotify.com/album/5ROffy9rfJLuZTgqCJdMFG) | 3:07 | 2021-12-17 | 2022-04-02 |
@@ -384,6 +385,7 @@
 | [Mid\-Century Modern](https://open.spotify.com/track/6PMCWAKTBLb4shEI60G9jZ) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [The Million Things That Never Happened](https://open.spotify.com/album/3NAmhkb8XHcNCRsBRSRgqa) | 5:28 | 2021-12-17 | 2022-04-02 |
 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 | 2022-06-03 | 2023-11-11 |
 | [Miles Away](https://open.spotify.com/track/2GMRJPivUIJiGLkmpWwH2O) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Miles Away](https://open.spotify.com/album/5TvqtSnghTKtTN42h6AW1N) | 5:00 | 2023-08-04 |  |
+| [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 | 2024-07-12 |  |
 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 | 2021-12-17 | 2023-02-18 |
 | [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-12-17 | 2022-10-08 |
 | [Momma's Been Hurting](https://open.spotify.com/track/5jYYyF4kcfTRKikJW6dwry) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Hymnal Of A Troubled Man's Mind](https://open.spotify.com/album/1KLdQzh3fI4G7b00lbnOpB) | 3:43 | 2024-04-05 |  |

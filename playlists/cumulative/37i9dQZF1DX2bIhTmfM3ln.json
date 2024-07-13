@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 141055,
       "name": "Amg",
       "url": "https://open.spotify.com/track/2Qby1reHz7h5nFDwEI9Afq"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 120000,
       "name": "Angie Riddim",
       "url": "https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 160517,
       "name": "Belle",
       "url": "https://open.spotify.com/track/2gdO9XcEWeXOL79XksUjzj"
@@ -2408,6 +2408,28 @@
       "duration_ms": 178144,
       "name": "Currency",
       "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
+    },
+    {
+      "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158939,
+      "name": "CWT (feat. BNXN)",
+      "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
     },
     {
       "album": {
@@ -5447,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "KOKO",
+        "url": "https://open.spotify.com/album/3NHLco72CZlcLjhteobxzr"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/3ZwcOu974vlPmNQkDUNwMO"
+    },
+    {
+      "album": {
         "name": "KOLO (feat. Oxlade)",
         "url": "https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu"
       },
@@ -6690,7 +6730,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 157492,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/126kx7xYD916WUTMdvyJho"
@@ -8114,7 +8154,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156029,
       "name": "Oshimiri",
       "url": "https://open.spotify.com/track/7CX3rEmKtC54tx6sOuLicM"
@@ -8172,7 +8212,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 193846,
       "name": "Over",
       "url": "https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H"
@@ -10691,6 +10731,24 @@
     },
     {
       "album": {
+        "name": "Love & Passion",
+        "url": "https://open.spotify.com/album/1SMBiXBDGdKYBTBZg2gO2h"
+      },
+      "artists": [
+        {
+          "name": "WaiKid",
+          "url": "https://open.spotify.com/artist/4Y4QHTHS8v9GNGEZ4Xh90Q"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203248,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/7LXtxeGpTasvQpRirYkQco"
+    },
+    {
+      "album": {
         "name": "Make E No Cause Fight",
         "url": "https://open.spotify.com/album/6MpKNL8E3hEPnsN1u2Y9Ik"
       },
@@ -11184,7 +11242,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 182970,
       "name": "When I Wake Up (feat. Moliy)",
       "url": "https://open.spotify.com/track/2pp6w1jE7bT4EPUHt211HL"

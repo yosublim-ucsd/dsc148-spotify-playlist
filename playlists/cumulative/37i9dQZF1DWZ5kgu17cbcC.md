@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.
 
-100 songs - 4 hr 45 min
+101 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Athlete](https://open.spotify.com/track/2Jl2zvsB4WsDddcHnEVtmc) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:12 | 2024-01-05 |  |
 | [BHM Jam Pt\. 1 \(Short Month, Still Stunt\)](https://open.spotify.com/track/772HPAEiBLvUIPn78SEN7c) | [Your Attention Please – Cast](https://open.spotify.com/artist/2eogim5GMTq7Rr7O4Sw3Jt) | [It's Time to Get Black Y'all \(From Hulu's "Your Attention Please" \- Original Soundtrack\)](https://open.spotify.com/album/669rsoEs2fB7d1OAwLLk7o) | 3:16 | 2024-01-05 |  |
 | [Bottomless Mimosas](https://open.spotify.com/track/5gQ3g3CzGAOGbxBqXHMiSm) | [Jay Wadley](https://open.spotify.com/artist/2PeCz2k4MORlxOMjTXFp6o) | [Fire Island \(Original Soundtrack\)](https://open.spotify.com/album/2KSxudYLPeiMLQYITsxnRd) | 0:55 | 2024-01-05 |  |
+| [Breathe and Believe \- From "UnPrisoned: Season 2"](https://open.spotify.com/track/3pDgRqmHWUcyvAndHZT7Su) | [Moïse](https://open.spotify.com/artist/73B6eQowikxUyej3UD3qvT) | [Breathe and Believe \(From "UnPrisoned: Season 2"\)](https://open.spotify.com/album/3MSWX3se1SWMgc6brDwMvi) | 2:27 | 2024-07-12 |  |
 | [Bring Da Ruckus](https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:11 | 2024-01-05 | 2024-07-03 |
 | [Can I Ever Know You? \(Main Title\)](https://open.spotify.com/track/3Rgxma6sHOZrq6rhbvTv6R) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Mae Whitman](https://open.spotify.com/artist/4vOzhuYhVNHVToghhXMwPw), [Sophia Hammons](https://open.spotify.com/artist/4QJfrqcHIzoFwiP90qmWvF), [John Hodgman](https://open.spotify.com/artist/1B9hohYDOxFbOScp2QAayW), [Katie Finneran](https://open.spotify.com/artist/7CV1kXmo2dc3mmH3UjTN1j), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI), [Scott Porter](https://open.spotify.com/artist/0ZdYiSeVehDwrr3yjHSqsI), [Andréa Burns](https://open.spotify.com/artist/67ZtLX0nstdb8ml4Gc7Tq9), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:43 | 2024-01-05 |  |
 | [Can It Be All so Simple](https://open.spotify.com/track/6OCYTygzbVwil2UFkREQiD) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [The Essential Wu\-Tang Clan](https://open.spotify.com/album/0qtA1fEpJAvz8xGqUESxHU) | 4:11 | 2024-01-05 | 2024-07-03 |

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:03IbEiokQjTDfvdyIYV5D4\">ida laurberg</a> x <a href=\"spotify:artist:5FwWkrkqRy9Qmny3vqxYUe\">Tina Dickow</a> \ud83d\udc98",
-  "num_followers": 113698,
+  "num_followers": 113728,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBV4AAAAACXfPO3jXR9HLMwRGVQWC2t",
+  "snapshot_id": "ZpE7oQAAAAB2LltINkDbd4WkbwZ5xELk",
   "tracks": [
     {
       "added_at": "2024-07-11 22:00:00",
@@ -475,6 +475,30 @@
       "duration_ms": 179954,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/6ubngwdRd9apKdbtqPuDrY"
+    },
+    {
+      "added_at": "2024-07-12 14:20:17",
+      "album": {
+        "name": "My Oh My (with Bebe Rexha & Tove Lo)",
+        "url": "https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 181146,
+      "name": "My Oh My - with Bebe Rexha & Tove Lo",
+      "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1115,6 +1139,22 @@
       "duration_ms": 158710,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "good luck, goodbye",
+        "url": "https://open.spotify.com/album/4iEl6x2j3jrUDq0fbhOd6i"
+      },
+      "artists": [
+        {
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
+        }
+      ],
+      "duration_ms": 206014,
+      "name": "thank god",
+      "url": "https://open.spotify.com/track/2SUrx1x8BqAe4ASqIoiNY1"
     },
     {
       "added_at": "2024-07-11 22:00:00",

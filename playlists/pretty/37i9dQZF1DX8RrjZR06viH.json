@@ -1,6 +1,6 @@
 {
   "description": "Sommersola er her <3\n",
-  "num_followers": 88101,
+  "num_followers": 88132,
   "original_name": "Sommersol",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Lies Lies Lies",
         "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Better Days (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
       },
@@ -231,6 +211,42 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Lips",
         "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 245001,
       "name": "Tar Jeg Feil",
       "url": "https://open.spotify.com/track/606olj3PDQBde7TTAop4tA"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Mona Lisa, Mona Lisa",
         "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 172111,
       "name": "Mona Lisa, Mona Lisa",
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Catalonia",
-      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 149573,
       "name": "ok",
       "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
       },
@@ -603,38 +619,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "HJERTET MITT ER HELT OK",
         "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 144706,
       "name": "HJERTET MITT ER HELT OK",
       "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Synd synd synd",
-        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Synd synd synd",
-      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Syrener (Akustisk)",
         "url": "https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 187322,
       "name": "Syrener - Akustisk",
       "url": "https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Synd synd synd",
+        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Synd synd synd",
+      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Some Type Of Skin (Acoustic)",
-        "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Some Type Of Skin - Acoustic",
-      "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 169933,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Some Type Of Skin (Acoustic)",
+        "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Some Type Of Skin - Acoustic",
+      "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "tivoli",
         "url": "https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Fy Faen S\u00e5 Deilig",
-        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 156913,
-      "name": "Fy Faen S\u00e5 Deilig",
-      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Sommartid",
         "url": "https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs"
       },
@@ -1043,6 +1043,26 @@
       "duration_ms": 160813,
       "name": "Langt av sted",
       "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Klisje",
+        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Celine Madelen",
+          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
+        }
+      ],
+      "duration_ms": 138632,
+      "name": "Klisje",
+      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1111,22 +1131,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Sommergl\u00f8d",
-        "url": "https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7"
-      },
-      "artists": [
-        {
-          "name": "06 Boys",
-          "url": "https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Sommergl\u00f8d",
-      "url": "https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Vil ikke hjem",
         "url": "https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf"
       },
@@ -1143,22 +1147,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Klisje",
-        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
+        "name": "Glimt i \u00d8yet",
+        "url": "https://open.spotify.com/album/4De11wbb5m0QqyQTK4yOyr"
       },
       "artists": [
         {
           "name": "Vidar Villa",
           "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Celine Madelen",
-          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
         }
       ],
-      "duration_ms": 138632,
-      "name": "Klisje",
-      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
+      "duration_ms": 140491,
+      "name": "Glimt i \u00d8yet",
+      "url": "https://open.spotify.com/track/6KkiKNruXUDQAIP43Ap9LG"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1175,6 +1175,22 @@
       "duration_ms": 180126,
       "name": "Rekk opp h\u00e5nda",
       "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sommergl\u00f8d",
+        "url": "https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7"
+      },
+      "artists": [
+        {
+          "name": "06 Boys",
+          "url": "https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Sommergl\u00f8d",
+      "url": "https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 210156,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Uten d\u00e6",
         "url": "https://open.spotify.com/album/23J8fC5yRfsBoIsiUfycQw"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Howdy",
-      "url": "https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa"
+      "duration_ms": 210156,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Glimt i \u00d8yet",
-        "url": "https://open.spotify.com/album/4De11wbb5m0QqyQTK4yOyr"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 140491,
-      "name": "Glimt i \u00d8yet",
-      "url": "https://open.spotify.com/track/6KkiKNruXUDQAIP43Ap9LG"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Tre sekunder",
         "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 189773,
       "name": "Tre sekunder",
       "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Howdy",
+      "url": "https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Sent",
-        "url": "https://open.spotify.com/album/2qMklbVaUEqHxL4PgpKEy3"
-      },
-      "artists": [
-        {
-          "name": "Hjorterud All\u00e9",
-          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
-        }
-      ],
-      "duration_ms": 135156,
-      "name": "Sent",
-      "url": "https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Hvalfangerbyen",
         "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 200531,
       "name": "Hvalfangerbyen",
       "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/2qMklbVaUEqHxL4PgpKEy3"
+      },
+      "artists": [
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        }
+      ],
+      "duration_ms": 135156,
+      "name": "Sent",
+      "url": "https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0"
     },
     {
       "added_at": "2024-07-11 22:00:00",

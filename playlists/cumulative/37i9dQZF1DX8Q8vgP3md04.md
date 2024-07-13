@@ -4,11 +4,11 @@
 
 > Hit music from Ethiopia's finest.
 
-107 songs - 8 hr 7 min
+110 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Sey](https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | ['Sey](https://open.spotify.com/album/2n1YBeI82wlaiLQkg1POZ0) | 4:45 | 2020-06-05 |  |
+| ['Sey](https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | ['Sey](https://open.spotify.com/album/2n1YBeI82wlaiLQkg1POZ0) | 4:45 | 2020-06-05 | 2024-07-13 |
 | [123](https://open.spotify.com/track/1ndWXkJUryhxsTjyMWL58l) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Asira Andu Getsoche](https://open.spotify.com/album/27bquKGjQcjSFpBk5ybE3H) | 4:33 | 2020-06-05 |  |
 | [Abebayewosh](https://open.spotify.com/track/5xgAoUsx0TV1bbYzTpxvgj) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Arifzefen Singles Collection, Vol\. I](https://open.spotify.com/album/7uiQJEWNzZt6puyMWX2J2d) | 5:19 | 2018-10-04 | 2024-03-23 |
 | [Africa](https://open.spotify.com/track/5WUkmyLtLykEzctv4HRr7Z) | [Teddy Yo](https://open.spotify.com/artist/6keR1xz9mkzbtLykVlJAGl), [Gentle Man](https://open.spotify.com/artist/3wGiJCIx14bdgxj6jAtQOW), [King Kong](https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY), [Yemaryam](https://open.spotify.com/artist/4cNckHBJe98kv0yi6cvgRi) | [Arada, Vol\. 2](https://open.spotify.com/album/553m78LUWrXYmYPoGF18La) | 3:18 | 2018-10-04 |  |
@@ -21,6 +21,7 @@
 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 | 2020-06-05 |  |
 | [Aymelesem](https://open.spotify.com/track/5E1nojcspbVe6yrHVpiHz9) | [Lastarock](https://open.spotify.com/artist/2p1llRTtQY8IJPaTwPwW1x) | [Aymelesem](https://open.spotify.com/album/0aW55aqypy7Q01Ecorl9BZ) | 2:56 | 2023-08-14 |  |
 | [Aynama](https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf) | [Sol Romeyo](https://open.spotify.com/artist/4QK1PhAwLD8knsSXnXI9Cg), [Flashkiiddo](https://open.spotify.com/artist/63tu1CZybzgoXM2tPG7UE5) | [Aynama](https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na) | 4:00 | 2022-11-17 |  |
+| [Ayy Fikir](https://open.spotify.com/track/0wGN48CQ9Jp89MGTyo3DXi) | [AfroNile](https://open.spotify.com/artist/3CJxwpev37bR1n9QlUpv8B), [Dibekulu](https://open.spotify.com/artist/25rlHNovanEzvUxrZ0S7fM) | [The New Wave](https://open.spotify.com/album/3nAmDYxtOP4s2ZswOAtOVU) | 3:39 | 2024-07-12 |  |
 | [AYZON](https://open.spotify.com/track/29nzNE7CyuywKJKBlt2deI) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU), [Anteneh Minalu](https://open.spotify.com/artist/6dIY3ynRrBa1745sJFNgkY) | [AYZON](https://open.spotify.com/album/1Fuoeuwn8qldn6ATtrAUPD) | 4:32 | 2024-05-24 |  |
 | [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 | 2023-03-17 | 2024-04-20 |
 | [Bado](https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:13 | 2018-10-04 |  |
@@ -52,11 +53,13 @@
 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2018-10-04 | 2023-06-24 |
 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 | 2020-06-05 | 2024-03-09 |
 | [Fiker Beamargna](https://open.spotify.com/track/3u0vFUuILcUmhQXUzBHt7F) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Fikir Beamargna](https://open.spotify.com/album/0rYlsn4ivsz2EMPtv4S66x) | 4:20 | 2018-10-04 |  |
+| [Fiyah Burn](https://open.spotify.com/track/1z3WMz6hnl2bC1E0WEeIyZ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Fiyah Burn](https://open.spotify.com/album/3N0dCv4K4kG6yXQqoBs8ee) | 2:23 | 2024-07-12 |  |
 | [Gela](https://open.spotify.com/track/0wb2PD8aLfAOFeYdHVCANE) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Gela](https://open.spotify.com/album/2RLtp5wHOkBUilge4TIlGr) | 3:34 | 2024-03-22 |  |
 | [Gerager](https://open.spotify.com/track/1JU3NgOVMalFQ64EDh8ljr) | [Zebiba Girma](https://open.spotify.com/artist/5Tu7xzkOlzjuxouXfUefHb) | [Gerager](https://open.spotify.com/album/5NpaDCWohCCTFJL4iWWtFa) | 4:13 | 2020-06-05 |  |
 | [Geriye](https://open.spotify.com/track/0RpIZYbiYCUhct3IID6Ty2) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 4:05 | 2018-10-04 | 2023-03-18 |
 | [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 | 2018-10-04 |  |
-| [Godanaw](https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 5:19 | 2018-10-04 |  |
+| [Godanaw](https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 5:19 | 2018-10-04 | 2024-07-13 |
+| [Got To Be Tuff](https://open.spotify.com/track/54XFOUD5BvxAK8e07Mkxz3) | [Friskit](https://open.spotify.com/artist/1U9Gg49bU4tSqJFZgwhv4G) | [Got To Be Tuff](https://open.spotify.com/album/2AW6FmDcOh0lkUN2eYnXlc) | 3:26 | 2024-07-12 |  |
 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 | 2018-10-04 | 2023-03-18 |
 | [Gude](https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd) | [Kako Getachew](https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:53 | 2018-10-04 | 2022-12-13 |
 | [Hager Alegn](https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:59 | 2018-10-04 | 2023-10-20 |
@@ -79,7 +82,7 @@
 | [Mar Eske Tuwaf \(Fiqir Eske Meqabir\)](https://open.spotify.com/track/7aRNqr3q0Cg064SNLUpX37) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:25 | 2018-10-04 |  |
 | [Mengedegna](https://open.spotify.com/track/6FLzUgglQPqA78lKior10y) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:15 | 2018-10-04 | 2023-03-18 |
 | [Min Wuyelish](https://open.spotify.com/track/2arNjUZpSvHS95cVH00lo6) | [Girma Tefera Kassa](https://open.spotify.com/artist/7lMmlIVrTGj8XiebNzimkD) | [Gin Yet Hager](https://open.spotify.com/album/3T4Py6N5MwnZFzY7VD5A5e) | 5:46 | 2024-03-08 |  |
-| [Mulatu](https://open.spotify.com/track/0LhzIa0cXP8DJEs1nOCXZG) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/70dZnG0Bfa3a0GZKGzhTaa) | 6:20 | 2020-07-03 |  |
+| [Mulatu](https://open.spotify.com/track/0LhzIa0cXP8DJEs1nOCXZG) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/70dZnG0Bfa3a0GZKGzhTaa) | 6:20 | 2020-07-03 | 2024-07-13 |
 | [Mulatu](https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 6:20 | 2020-07-03 | 2024-04-19 |
 | [Nigerewa](https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8) | [Amanuel Yemane](https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8) | [Habesha](https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK) | 4:57 | 2020-07-21 | 2022-11-18 |
 | [One Life](https://open.spotify.com/track/5I6ohxdSpuR6oxR15nvDqP) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU) | [One Life](https://open.spotify.com/album/1PkZwghjdN9FKrrCPWR8gb) | 3:02 | 2023-09-14 |  |

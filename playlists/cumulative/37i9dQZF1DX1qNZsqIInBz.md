@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-209 songs - 9 hr 14 min
+210 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Glass](https://open.spotify.com/track/4Jgmr12s2lBkg1pP1tJZgr) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/7fWxqA4vjA7lzAJDDBf1tv) | 2:23 | 2022-11-18 | 2024-04-07 |
 | [Glass](https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6) | 2:23 | 2022-11-18 |  |
 | [Glass](https://open.spotify.com/track/7AoGpqHBn54upZcNCSIM8S) | [SPVRROW](https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF), [YUSHEE](https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi) | [Godlike](https://open.spotify.com/album/5tN3bqNcaDIdv3ALvbWVId) | 2:23 | 2024-03-29 | 2024-04-19 |
+| [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2024-07-12 |  |
 | [Going Deep](https://open.spotify.com/track/1BiXcHaaa4A8KYqA3bD0Oi) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [sulky](https://open.spotify.com/artist/3uYWZ9Qeoh79NShyWiKrqZ) | [Going Deep](https://open.spotify.com/album/5xiRFjvRCLO0adzicqhZOs) | 3:32 | 2022-10-10 | 2023-03-09 |
 | [Going Deep](https://open.spotify.com/track/2jlWbXGnQ8RXK7k6n6EnFv) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [sulky](https://open.spotify.com/artist/3uYWZ9Qeoh79NShyWiKrqZ) | [Going Deep](https://open.spotify.com/album/4YsTdmaFIjhxkjF6KVCjEu) | 3:32 | 2022-10-10 | 2023-05-06 |
 | [Hallucination](https://open.spotify.com/track/3o97gI0SFNTqzhPAXpxkGD) | [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [Hallucination](https://open.spotify.com/album/7nNj9pxxPWn6WfYDS6r01W) | 2:33 | 2022-10-10 |  |
@@ -188,7 +189,7 @@
 | [South](https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 3:12 | 2022-10-10 |  |
 | [Space](https://open.spotify.com/track/5ZTwRO2Yy2ardUblJsVSAA) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Space](https://open.spotify.com/album/5jQNBxuQV1LK4SsVuqX78Z) | 2:00 | 2022-12-09 | 2023-09-30 |
 | [Space](https://open.spotify.com/track/0W0KjUBX70GxtgVXraTcf9) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9), [Proof Nation](https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA) | [Space](https://open.spotify.com/album/0qh0hHIeYCqBJaDv7r12uR) | 2:25 | 2022-11-25 |  |
-| [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 | 2022-10-10 |  |
+| [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 | 2022-10-10 | 2024-07-13 |
 | [Stay](https://open.spotify.com/track/4wBJ1sqcPukNqtMff4EEVb) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [Stay](https://open.spotify.com/album/0lxkx8NDcNRiddCfUlpMfo) | 2:56 | 2022-10-10 | 2023-09-23 |
 | [Still Breathing \- Original Mix](https://open.spotify.com/track/74Yy0Q60u9kNHqdtgVeBSq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [Still Breathing \(Remix\)](https://open.spotify.com/album/3f2t838yL6Trx41BczL28v) | 3:08 | 2023-03-24 |  |
 | [STOP LIES](https://open.spotify.com/track/6FqFMy46LchyaU6IsYeSSY) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [STOP LIES](https://open.spotify.com/album/4B51pcp7eccRF5T2thjSEa) | 3:23 | 2022-10-10 | 2023-01-06 |

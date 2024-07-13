@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Clean Cut",
+        "url": "https://open.spotify.com/album/2FDbhjRcYXUJKrbbEaDofZ"
+      },
+      "artists": [
+        {
+          "name": "Jonah Almost",
+          "url": "https://open.spotify.com/artist/3AsAGsWuplZx5dWXBzlyg1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Clean Cut",
+      "url": "https://open.spotify.com/track/6KD5iTDSDydPhVvbYBoJkZ"
+    },
+    {
+      "album": {
         "name": "Start",
         "url": "https://open.spotify.com/album/7vzgWg4SKPLQaoQZh9B8ur"
       },
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 221500,
       "name": "Fuck It!",
       "url": "https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul"
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 164661,
       "name": "My Purple iPod Nano (2nd Gen)",
       "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
@@ -3666,6 +3684,32 @@
       "duration_ms": 153600,
       "name": "Puta",
       "url": "https://open.spotify.com/track/4YZpWGihruxXJOf2FPnZmp"
+    },
+    {
+      "album": {
+        "name": "Rave Generator (feat. DJ Flapjack)",
+        "url": "https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX"
+      },
+      "artists": [
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        },
+        {
+          "name": "DJ Final Boss",
+          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
+        },
+        {
+          "name": "DJ Flapjack",
+          "url": "https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Rave Generator (feat. DJ Flapjack)",
+      "url": "https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr"
     },
     {
       "album": {
@@ -4456,7 +4500,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 183879,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn"
@@ -4628,6 +4672,32 @@
       "duration_ms": 140000,
       "name": "Throat Goat",
       "url": "https://open.spotify.com/track/2eKFa10K8Hu1VCTLm3DUkO"
+    },
+    {
+      "album": {
+        "name": "TITS, LIPS, HIPS, KISS (10/10 Remix)",
+        "url": "https://open.spotify.com/album/49KddmD3D6OD8USyLdTHCe"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "TITS, LIPS, HIPS, KISS (10/10 Remix)",
+      "url": "https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn"
     },
     {
       "album": {

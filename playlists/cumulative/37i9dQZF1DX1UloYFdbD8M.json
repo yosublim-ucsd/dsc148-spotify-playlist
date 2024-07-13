@@ -696,7 +696,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 149000,
       "name": "Chayapattu",
       "url": "https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 240150,
       "name": "Chiripaatu",
       "url": "https://open.spotify.com/track/049lmlc3unN6EyPyTcmmHe"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219800,
       "name": "Enthavo",
       "url": "https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP"
@@ -2283,6 +2283,28 @@
     },
     {
       "album": {
+        "name": "Na Papamu Pogotti - Hues Of Nalinakanthi",
+        "url": "https://open.spotify.com/album/4UQDQM8Lk070hCHRVWhCrE"
+      },
+      "artists": [
+        {
+          "name": "Rijo Joseph",
+          "url": "https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ"
+        },
+        {
+          "name": "Neelima P.R",
+          "url": "https://open.spotify.com/artist/5bzK9ENPlhlg2i3r228pV2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Na Papamu Pogotti - Hues Of Nalinakanthi",
+      "url": "https://open.spotify.com/track/1vCsPdcBC7nwnMLtUfsVz0"
+    },
+    {
+      "album": {
         "name": "Naamiravil",
         "url": "https://open.spotify.com/album/6RrQmFIHubqNqdrZAwmajZ"
       },
@@ -3248,7 +3270,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 353791,
       "name": "Roots - Live",
       "url": "https://open.spotify.com/track/0sPgcRyCrdI2CTdJ35brMM"

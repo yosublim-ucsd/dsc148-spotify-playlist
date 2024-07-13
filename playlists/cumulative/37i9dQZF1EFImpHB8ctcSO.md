@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 10 hr 44 min
+173 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Calling It Quits](https://open.spotify.com/track/2uIoInLzfrRFDErQFtfVyr) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 4:09 | 2022-12-02 |  |
 | [Calling On Mary](https://open.spotify.com/track/7DUU04qtYVzkwhygGPvYOU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [One More Drifter in the Snow](https://open.spotify.com/album/5HG425mpvfjpIQcbaKkhQl) | 4:02 | 2022-12-02 |  |
 | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/track/4vm2JPCMQIc392b7DUnAPL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/album/7oMCBEiG0ewZaODeskssLR) | 3:39 | 2022-12-02 |  |
-| [Charmer](https://open.spotify.com/track/48POiFEHYdj2hxUfDg2oU6) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:25 | 2022-12-02 |  |
+| [Charmer](https://open.spotify.com/track/48POiFEHYdj2hxUfDg2oU6) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:25 | 2022-12-02 | 2024-07-13 |
+| [Charmer](https://open.spotify.com/track/3u9FwK9xifhR6nu7ftCesB) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 3:26 | 2024-07-12 |  |
 | [Check \(reprise\)](https://open.spotify.com/track/3BF0Cb5Qdu7ZraE1RywMed) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:57 | 2022-12-02 |  |
 | [Checks](https://open.spotify.com/track/04flaUqyLAa4bBN4eXtKv7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:34 | 2022-12-02 |  |
 | [Choice In The Matter](https://open.spotify.com/track/25zizz5F5JkXFddjsWFIYE) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:13 | 2022-12-02 |  |

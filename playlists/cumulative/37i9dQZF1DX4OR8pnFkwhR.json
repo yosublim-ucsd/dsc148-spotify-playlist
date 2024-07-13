@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 229316,
       "name": "BLACK RAIN",
       "url": "https://open.spotify.com/track/22iojo2llkB1j6jSvOSHpx"
@@ -11034,7 +11034,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 254642,
       "name": "Pacific Line",
       "url": "https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM"
@@ -13298,6 +13298,24 @@
       "duration_ms": 216509,
       "name": "Sky",
       "url": "https://open.spotify.com/track/0Z6Zik8ZgPzqy6GrJU8qTx"
+    },
+    {
+      "album": {
+        "name": "SKY BLUE",
+        "url": "https://open.spotify.com/album/6vY6SppswZbL1SahYnLn1y"
+      },
+      "artists": [
+        {
+          "name": "LET ME KNOW",
+          "url": "https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203847,
+      "name": "SKY BLUE",
+      "url": "https://open.spotify.com/track/3e3ujY7iUH8QGiY44fU8Dw"
     },
     {
       "album": {
@@ -16536,7 +16554,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 174565,
       "name": "WOLF MOON",
       "url": "https://open.spotify.com/track/2a6w01xYo0nVxRNHzd6Ac2"
@@ -18722,7 +18740,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 162960,
       "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
       "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
@@ -20695,6 +20713,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188130,
+      "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30b0\u30eb\u30de",
         "url": "https://open.spotify.com/album/7oYh5Gx7GiyWF38YtfoUd4"
       },
@@ -22102,7 +22138,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 218649,
       "name": "\u30e9\u30d6\u30ea\u30fc",
       "url": "https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D"
@@ -23454,7 +23490,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 266349,
       "name": "\u5507\u3092\u5473\u65b9\u306b -Sing Sing Sing-",
       "url": "https://open.spotify.com/track/3UZEz7DnXN8Mt1do14lHwG"
@@ -27854,7 +27890,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"

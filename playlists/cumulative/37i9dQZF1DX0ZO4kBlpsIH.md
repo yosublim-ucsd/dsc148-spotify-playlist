@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-209 songs - 10 hr 14 min
+210 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Besame Mucho](https://open.spotify.com/track/6NTGlwq5oGviybLyppZL7T) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 3:21 | 2023-03-15 | 2023-08-19 |
 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 | 2022-02-18 |  |
 | [Black and White](https://open.spotify.com/track/2EQpfex5XjYR1ctXdtjJ9I) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 3:01 | 2023-05-18 |  |
-| [bleu comme ton cœur](https://open.spotify.com/track/66rl8hBMjkG5qOwzwP7sRN) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [bleu comme ton cœur](https://open.spotify.com/album/6bMV2838VZMsLZ6wLoHnyp) | 4:20 | 2024-01-05 |  |
+| [bleu comme ton cœur](https://open.spotify.com/track/66rl8hBMjkG5qOwzwP7sRN) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [bleu comme ton cœur](https://open.spotify.com/album/6bMV2838VZMsLZ6wLoHnyp) | 4:20 | 2024-01-05 | 2024-07-13 |
 | [Bleu D’Auvergne](https://open.spotify.com/track/6q0M3prfVKJeSdx2ruNjsg) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 1:50 | 2023-03-15 | 2023-08-04 |
 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 | 2022-11-25 | 2023-08-19 |
 | [bol et rot](https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 2:54 | 2023-06-15 | 2024-04-03 |
@@ -39,7 +39,7 @@
 | [C Jam Blues](https://open.spotify.com/track/3CIAbkxoNkecyKki0Qleiq) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 2:06 | 2023-05-18 | 2023-08-04 |
 | [C'est si bon](https://open.spotify.com/track/0iLzFD9kW3EDfLfBexDhov) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [C'est si bon](https://open.spotify.com/album/5ujMTwU4XSRV224f4OIaYW) | 2:46 | 2023-06-01 |  |
 | [Cest Si Bon](https://open.spotify.com/track/0OHa1UeDdKnkfGlq7brxnB) | [Bon Appétit Musique](https://open.spotify.com/artist/7tWQJ9vhVcQQBscWdUR4MI) | [France And French Cafe Accordion Music](https://open.spotify.com/album/41kogh7wCSEEL2olQyMmXi) | 3:16 | 2022-02-18 | 2023-01-12 |
-| [Chapeau Mou](https://open.spotify.com/track/1rmj070DPlN49hcaQvUD2J) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [Vallée Fleurie](https://open.spotify.com/album/5x7vEsluoexnpCH0T5dE37) | 2:04 | 2023-08-03 |  |
+| [Chapeau Mou](https://open.spotify.com/track/1rmj070DPlN49hcaQvUD2J) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [Vallée Fleurie](https://open.spotify.com/album/5x7vEsluoexnpCH0T5dE37) | 2:04 | 2023-08-03 | 2024-07-13 |
 | [Chaud Devant](https://open.spotify.com/track/4mz3enK2BfjjMNAdhWrOMX) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Chaud Devant](https://open.spotify.com/album/12MD5avti5aJdvOxAbQymE) | 2:56 | 2024-04-02 |  |
 | [Cirque Francais](https://open.spotify.com/track/1e8P1UMUIa6sOlX9a4BbNb) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:24 | 2022-11-25 |  |
 | [Comme je te disais](https://open.spotify.com/track/2RciaGAEtLJk8u4LoCt9Zg) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Comme je te disais](https://open.spotify.com/album/0Kv07HzslMBTmh9dWPXHQg) | 2:13 | 2024-01-12 | 2024-04-03 |
@@ -197,6 +197,7 @@
 | [Säkkijärven Cumbia](https://open.spotify.com/track/1K7Z936Yp5AwR0iF3i0p2D) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:21 | 2022-02-18 | 2023-05-26 |
 | [Tarte aux pommes de maman](https://open.spotify.com/track/3x0Eqgjm8eyXTUqd9wWR26) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Tarte aux pommes de maman](https://open.spotify.com/album/6OCCBuYKcK2rfvFwg8XugI) | 2:06 | 2023-05-11 |  |
 | [Thé Pour Deux](https://open.spotify.com/track/3zztM5yPmJFkX7vktaaa8F) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Thé Pour Deux](https://open.spotify.com/album/43iVIfU4pgIheRuYzPbuqE) | 4:18 | 2023-05-18 |  |
+| [Un baiser sous la pluie](https://open.spotify.com/track/3PikPxbIbnsg1uniee6Vo7) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Un baiser sous la pluie](https://open.spotify.com/album/7Jx4NFax8uREMeLirzV84Z) | 2:02 | 2024-07-12 |  |
 | [Un homme et une femme](https://open.spotify.com/track/2RAykZufoMdZcIYkQsQ9K7) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 1:51 | 2022-11-25 | 2023-08-19 |
 | [Un Homme Et Une Femme](https://open.spotify.com/track/6C80CuWBDC5eqNTbdD6iv0) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [Un Homme Et Une Femme](https://open.spotify.com/album/4lH5Xna6qi8ny8sIwzV9ZU) | 2:16 | 2023-05-18 |  |
 | [Un Jour Avec Toi](https://open.spotify.com/track/3cTYEYUszhYuIqCkfXTbqd) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Un Jour Avec Toi](https://open.spotify.com/album/0D3RyIOUJpzgLS6kTH8lgL) | 2:59 | 2023-08-03 |  |

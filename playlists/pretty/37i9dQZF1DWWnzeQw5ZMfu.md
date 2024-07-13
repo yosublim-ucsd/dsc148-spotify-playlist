@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,436 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,437 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 87 | [Let's Get It Started \- Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005](https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 5:16 |
 | 88 | [Roman Holiday \- Live From Webster Hall](https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:17 |
 | 89 | [Alone \- Live](https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe) | 4:22 |
-| 90 | [Erotica \- Live](https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 4:55 |
-| 91 | [Shadow \(feat\. Carly Rae Jepsen\) \- MTV Unplugged](https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [MTV Unplugged](https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J) | 3:32 |
+| 90 | [Shadow \(feat\. Carly Rae Jepsen\) \- MTV Unplugged](https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [MTV Unplugged](https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J) | 3:32 |
+| 91 | [Erotica \- Live](https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 4:55 |
 | 92 | [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 |
 | 93 | [Woman Like Me \(feat\. Ms Banks\) \- Live from the BRITs 2019](https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [LM5 \- EP](https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz) | 4:11 |
 | 94 | [Viva Forever \- Live In Manchester, UK / 1998](https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 5:57 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 97 | [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 |
 | 98 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 |
 | 99 | [Fastlove \- Live](https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:12 |
-| 100 | [Make You Feel My Love \(Live at Hotel Cafe\)](https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 |
+| 100 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 |
 
 Snapshot ID: `Zcr3UAAAAAAYKgjyNr7k/ZZJP95msmHE`

@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa SHRTY.
 
-626 songs - 1 day 5 hr 53 min
+627 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Platinaa](https://open.spotify.com/track/36Ps5MbGPuyuGCm0fcN7Xj) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Platinaa](https://open.spotify.com/album/1ocYLGurBOaDNnl4uYT7Ih) | 2:15 | 2024-04-18 | 2024-07-03 |
 | [Pooloo ja fiilaa](https://open.spotify.com/track/3rcPq6JYZIvyyUZMyoGLDn) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Wayne Amor](https://open.spotify.com/artist/4X2nKOdtR28ZJWIErZT7hF) | [Pooloo ja fiilaa](https://open.spotify.com/album/5NqTYsowTSQb5C4VjwjezI) | 2:58 | 2024-03-14 | 2024-04-05 |
 | [Porttikielto](https://open.spotify.com/track/3Dhc7Y2QMw2mO9EtzjepF5) | [Aadam Lucas](https://open.spotify.com/artist/73EkrwfceBeWADkoYET2Lh) | [Porttikielto](https://open.spotify.com/album/5RlDbVHk6bamllrJwXMzY6) | 2:26 | 2023-12-14 | 2024-01-05 |
+| [PRADA SHEIDIT](https://open.spotify.com/track/6OplMWd0zoaj2Y8tpvIlXu) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PRADA SHEIDIT](https://open.spotify.com/album/1b4Ap7YFqXzo9R2vZ7XAL9) | 2:33 | 2024-07-12 |  |
 | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [baka®](https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW) | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii) | 2:00 | 2024-07-04 |  |
 | [Puhaltaa](https://open.spotify.com/track/3CBn5EBS40R2kkG7nHtWg5) | [Sana](https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog), [Lore](https://open.spotify.com/artist/1vCDG4xpqfH2k0Gm29MyrB) | [Puhaltaa](https://open.spotify.com/album/1835LWhm6AfndYUghwHVle) | 3:30 | 2023-10-26 | 2023-11-10 |
 | [Puhu mulle](https://open.spotify.com/track/7stWqWHADHbNgFRZ93TSky) | [ARTEM](https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL) | [Puhu mulle](https://open.spotify.com/album/7EDHdk7nIgaBBbJes9VMzK) | 3:18 | 2023-09-21 | 2023-10-06 |
@@ -540,7 +541,7 @@
 | [Tekijä](https://open.spotify.com/track/3jza1T7ZtlMrPClQI4qL5M) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tekijä](https://open.spotify.com/album/5ZCj2wxRxuDJiMQEuesZSy) | 2:50 | 2024-04-25 | 2024-06-01 |
 | [Tenho Nyman](https://open.spotify.com/track/1m9tFmJjK0aQwLiNIt2ILr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Tenho Nyman](https://open.spotify.com/album/4qiLDY4RkJvsmGGJ4bqwKf) | 2:46 | 2023-09-28 | 2023-10-13 |
 | [Tequila](https://open.spotify.com/track/4RcBdmcjMn7qv0BeVfW8ys) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Tequila](https://open.spotify.com/album/5dqIVgDv4K2MWPO7J5InuC) | 3:06 | 2023-10-26 | 2023-12-01 |
-| [Tequila](https://open.spotify.com/track/0TL45dMNFQa5sCO0q2cPz2) | [Maxito](https://open.spotify.com/artist/5YYne5IGDTnUT831qLJy52) | [Tequila](https://open.spotify.com/album/19YQpgHIhBPixVc0wJB8Lw) | 2:39 | 2024-06-13 |  |
+| [Tequila](https://open.spotify.com/track/0TL45dMNFQa5sCO0q2cPz2) | [Maxito](https://open.spotify.com/artist/5YYne5IGDTnUT831qLJy52) | [Tequila](https://open.spotify.com/album/19YQpgHIhBPixVc0wJB8Lw) | 2:39 | 2024-06-13 | 2024-07-13 |
 | [Terävät Reunat](https://open.spotify.com/track/5vHssHUUs8M7Ko8tla3OSk) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Terävät Reunat](https://open.spotify.com/album/6AqaPsYjOmZQzbpOIHhwTK) | 2:34 | 2023-10-19 | 2023-10-27 |
 | [tiiäks \(feat\. Turisti\)](https://open.spotify.com/track/4fcZo4oG3knXBIKT6dVWpo) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [tiiäks \(feat\. Turisti\)](https://open.spotify.com/album/3sQhzySMINQIZmg0aKwckh) | 2:59 | 2023-10-26 | 2023-12-01 |
 | [Tili](https://open.spotify.com/track/3dBM4oD1oKQkFDAdcQlttr) | [Toinen Poski](https://open.spotify.com/artist/3RRZ1MbEINhrtEcpPIlugu), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Tili](https://open.spotify.com/album/6uFHBQeP6DCNqhPs5obSuQ) | 2:35 | 2024-05-02 | 2024-05-17 |

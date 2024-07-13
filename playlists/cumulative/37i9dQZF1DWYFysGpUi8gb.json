@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "welcome to the underground. greetings from opus kink.",
+  "description": "welcome to the underground. greetings from plutoz beach.",
   "name": "melomania",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 190146,
       "name": "Are You Looking For Something - Folly Group Remix",
       "url": "https://open.spotify.com/track/3LHN9waA4tSKwErj5u9VsA"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 169374,
       "name": "Come On Baby, Dig!",
       "url": "https://open.spotify.com/track/1cH5V204hnjVfsfJgUJP8B"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 306215,
       "name": "Cotton Wool",
       "url": "https://open.spotify.com/track/68nSDMMb2CthOa5GVHGz8g"
@@ -467,6 +467,42 @@
     },
     {
       "album": {
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/7bLFCD6ileG1OIVhKBGugF"
+      },
+      "artists": [
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/433HpKlid41v9T6ngkcTfu"
+    },
+    {
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/1AalLj6vq3wHgrjGC6dEJU"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144378,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/3jWb0jEGG4OGlIM5EHoqjc"
+    },
+    {
+      "album": {
         "name": "Fibbs",
         "url": "https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l"
       },
@@ -478,7 +514,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208042,
       "name": "Fibbs",
       "url": "https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE"
@@ -503,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Butter Wouldn't Melt",
+        "url": "https://open.spotify.com/album/1boGE1Y6CfBS2s6JjRZ7BM"
+      },
+      "artists": [
+        {
+          "name": "Daisy and The Deadheads",
+          "url": "https://open.spotify.com/artist/2W9Smxs6424NtrKRN53rSb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244691,
+      "name": "Frog",
+      "url": "https://open.spotify.com/track/1NRYR8oEWf17e3wcEbG06O"
+    },
+    {
+      "album": {
         "name": "Fugue (Bin Song)",
         "url": "https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL"
       },
@@ -518,6 +572,24 @@
       "duration_ms": 322988,
       "name": "Fugue (Bin Song)",
       "url": "https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc"
+    },
+    {
+      "album": {
+        "name": "God Hold You / It Goes On Forever",
+        "url": "https://open.spotify.com/album/2inEe0Fw5lktiQlK12NlNd"
+      },
+      "artists": [
+        {
+          "name": "Famous",
+          "url": "https://open.spotify.com/artist/76pvNo3GAo5aeXBZ4jVz0k"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190371,
+      "name": "God Hold You",
+      "url": "https://open.spotify.com/track/7Gq9OnykAtXspBgGrQ3QuA"
     },
     {
       "album": {
@@ -604,10 +676,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3nh0eAFCTAx01aIuq8YTqR"
+    },
+    {
+      "album": {
+        "name": "Homie Don\u2019t Shake",
+        "url": "https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "Homie Don\u2019t Shake",
+      "url": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0"
     },
     {
       "album": {
@@ -701,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Jacked",
+        "url": "https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267504,
+      "name": "Jacked",
+      "url": "https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc"
+    },
+    {
+      "album": {
         "name": "May I Comply",
         "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
       },
@@ -748,7 +856,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204053,
       "name": "Modern Myth",
       "url": "https://open.spotify.com/track/4eazENP23FtK9VfnjGEFPk"
@@ -773,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/5YIVkVChHJEZo7KRUTrwXo"
+      },
+      "artists": [
+        {
+          "name": "Shrimp Eyes",
+          "url": "https://open.spotify.com/artist/5SZWMeL9TvQfhS4MRCkFIj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213953,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/3wOxqgkrQV0YUwUAc28duq"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
       },
@@ -788,6 +914,42 @@
       "duration_ms": 167631,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
+    },
+    {
+      "album": {
+        "name": "Mown In Circles",
+        "url": "https://open.spotify.com/album/6G7iPqdN75EsnBjIWdrSW0"
+      },
+      "artists": [
+        {
+          "name": "LICE",
+          "url": "https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155471,
+      "name": "Mown In Circles",
+      "url": "https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL"
+    },
+    {
+      "album": {
+        "name": "My Room",
+        "url": "https://open.spotify.com/album/08eegcAjX6qCDwF2LY9fvJ"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257377,
+      "name": "My Room",
+      "url": "https://open.spotify.com/track/2rS0xuUsn49MktDUxlq7oL"
     },
     {
       "album": {
@@ -824,6 +986,24 @@
       "duration_ms": 113480,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx"
+    },
+    {
+      "album": {
+        "name": "Nobody Loves Me",
+        "url": "https://open.spotify.com/album/2G3tmIkazeedqiqurBZK0j"
+      },
+      "artists": [
+        {
+          "name": "Plutoz Beach",
+          "url": "https://open.spotify.com/artist/7E8FDfKNvgap5NPIxzgSUz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Nobody Loves Me",
+      "url": "https://open.spotify.com/track/3XKLkGYSItbeIAEUfY9Okn"
     },
     {
       "album": {
@@ -1025,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Selling Shovels",
+        "url": "https://open.spotify.com/album/1YPMTEHiTJ4mj3ZB3ItXm9"
+      },
+      "artists": [
+        {
+          "name": "Silverbacks",
+          "url": "https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262517,
+      "name": "Selling Shovels",
+      "url": "https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc"
+    },
+    {
+      "album": {
         "name": "Shade in Me",
         "url": "https://open.spotify.com/album/7cw97Zw99jHUtfv20KWz3u"
       },
@@ -1115,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196866,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
+    },
+    {
+      "album": {
         "name": "Sit Down",
         "url": "https://open.spotify.com/album/4Cdiz8h4ii3gDqX0l0WXLo"
       },
@@ -1187,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Strobe Lights",
+        "url": "https://open.spotify.com/album/7ltYQhxKcZxV1eWQmBVBsM"
+      },
+      "artists": [
+        {
+          "name": "Borough Council",
+          "url": "https://open.spotify.com/artist/3IFJ7fiCYTHMD2AOmVaxlI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227375,
+      "name": "Strobe Lights",
+      "url": "https://open.spotify.com/track/3GJIr0dKOgBzIGJIYZN7Yb"
+    },
+    {
+      "album": {
         "name": "Skinwalker",
         "url": "https://open.spotify.com/album/0NrTb5PevrUBFnL3DXOyFG"
       },
@@ -1241,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "The Leader",
+        "url": "https://open.spotify.com/album/6TmnI1BQZ6mKJxl4tjF6gl"
+      },
+      "artists": [
+        {
+          "name": "Dog Race",
+          "url": "https://open.spotify.com/artist/36Ar4uCS5iNCgQLMFrWKyA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238753,
+      "name": "The Leader",
+      "url": "https://open.spotify.com/track/3wXv7uO4j9m8G7woObK8vV"
+    },
+    {
+      "album": {
         "name": "The Pressures of the Heart",
         "url": "https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe"
       },
@@ -1288,7 +1540,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211139,
       "name": "Therapy - Edit",
       "url": "https://open.spotify.com/track/3dXb6Bv8Gy13B8nQnVQNvs"
@@ -1342,7 +1594,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 220000,
       "name": "Umbrella Tree",
       "url": "https://open.spotify.com/track/6sxVrDXBrdL80ZQKtqUxHb"
@@ -1360,7 +1612,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 213640,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm"

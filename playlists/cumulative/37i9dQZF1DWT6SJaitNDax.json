@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Afro sounds crossing borders. Cover: Burna Boy\n",
+  "description": "Afro sounds crossing borders. Cover: Rema\n\n",
   "name": "Big Mood",
   "tracks": [
     {
@@ -256,6 +256,24 @@
       "duration_ms": 154000,
       "name": "A Million",
       "url": "https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I"
+    },
+    {
+      "album": {
+        "name": "A Million Things",
+        "url": "https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187159,
+      "name": "A Million Things",
+      "url": "https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN"
     },
     {
       "album": {
@@ -2326,6 +2344,28 @@
       "duration_ms": 250350,
       "name": "Curious (feat. Jimi Tents & Garren)",
       "url": "https://open.spotify.com/track/5ELIl3vnSY0mF7jpf7lyhC"
+    },
+    {
+      "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158939,
+      "name": "CWT (feat. BNXN)",
+      "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
     },
     {
       "album": {
@@ -6138,7 +6178,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
@@ -6526,7 +6566,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 185142,
       "name": "Miracle Worker (feat. Lojay)",
       "url": "https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX"
@@ -7298,6 +7338,24 @@
       "duration_ms": 196363,
       "name": "Not Done",
       "url": "https://open.spotify.com/track/5u8Ps4NaOSuiKEx1CRTbDb"
+    },
+    {
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156169,
+      "name": "NOW I KNOW",
+      "url": "https://open.spotify.com/track/4Q1kTtOhw3SosBs43un1bu"
     },
     {
       "album": {
@@ -10486,7 +10544,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 163468,
       "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
       "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Manga Saint Hilare, Kamakaze & MoreNight",
+  "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Bashy",
   "name": "Grime Shutdown",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 137806,
       "name": "100 Racks",
       "url": "https://open.spotify.com/track/5IfwLTsi9cTRETcOiUXlUT"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 223267,
       "name": "Bongo",
       "url": "https://open.spotify.com/track/0etdWLl7RNJclZq28dY02I"
@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Circles24",
+        "url": "https://open.spotify.com/album/7HAOiIWLUlVvsVT0URMy7d"
+      },
+      "artists": [
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Circles24",
+      "url": "https://open.spotify.com/track/0xtMtfCTcMdNvhS5j0K3Io"
+    },
+    {
+      "album": {
         "name": "Class of Deja",
         "url": "https://open.spotify.com/album/6UmduWxQvyxxbFK4uhdarD"
       },
@@ -1150,6 +1168,28 @@
       "duration_ms": 165428,
       "name": "Country Bars",
       "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
+    },
+    {
+      "album": {
+        "name": "Kurupt FM present The Lost Tape",
+        "url": "https://open.spotify.com/album/79DCkBypKvlXvhAIrkQdOu"
+      },
+      "artists": [
+        {
+          "name": "Cage",
+          "url": "https://open.spotify.com/artist/6VnQTprAiF2mdQ5od27yMx"
+        },
+        {
+          "name": "Danny Weed",
+          "url": "https://open.spotify.com/artist/2uHVEcBrzrepd21LZ3WoR9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123146,
+      "name": "Creeper",
+      "url": "https://open.spotify.com/track/2XR8H94sCslZMKr48tSlVQ"
     },
     {
       "album": {
@@ -1518,7 +1558,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165457,
       "name": "D\u00e9j\u00e0 vu",
       "url": "https://open.spotify.com/track/66fpQz5RRHOzRLxU7I1j4g"
@@ -1552,10 +1592,32 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 152819,
       "name": "Ease",
       "url": "https://open.spotify.com/track/6PMWIWbHAS6kpfViRuixTs"
+    },
+    {
+      "album": {
+        "name": "Energy Gang",
+        "url": "https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Energy Gang",
+      "url": "https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4"
     },
     {
       "album": {
@@ -1604,7 +1666,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180000,
       "name": "Exercise",
       "url": "https://open.spotify.com/track/06m4oGdw8zOIT8Y5P5RAZY"
@@ -2544,7 +2606,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168785,
       "name": "Man Like Me",
       "url": "https://open.spotify.com/track/3StmhrzmoP8jegyTWZQrQj"
@@ -2728,6 +2790,36 @@
       "duration_ms": 270000,
       "name": "Mobb Mentality",
       "url": "https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu"
+    },
+    {
+      "album": {
+        "name": "Must Be Bored",
+        "url": "https://open.spotify.com/album/3Pr3zBu5OOfxzCKB7nPjZM"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
+        {
+          "name": "D7",
+          "url": "https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS"
+        },
+        {
+          "name": "Crafty 893",
+          "url": "https://open.spotify.com/artist/6S9Z2mZJlEPyUUIXnyQ2yx"
+        },
+        {
+          "name": "Drifter",
+          "url": "https://open.spotify.com/artist/1VtQGM34MU4G72LKVE9gvE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Must Be Bored",
+      "url": "https://open.spotify.com/track/2bh8lyWxq9uNjdXozZZ6sz"
     },
     {
       "album": {
@@ -3051,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/3wgK4c1ZDs4CVlJShAMqgM"
+      },
+      "artists": [
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192682,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/0eGll9J0pdLu0Eww1GyOCb"
+    },
+    {
+      "album": {
         "name": "One Man Soldier",
         "url": "https://open.spotify.com/album/2phnwJOpSPnv5vqoX2YGhe"
       },
@@ -3172,7 +3282,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 134492,
       "name": "Practice Hours",
       "url": "https://open.spotify.com/track/2FNTTRzgtuNa8enntR4ed8"
@@ -3624,10 +3734,44 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189322,
       "name": "Skeem Set",
       "url": "https://open.spotify.com/track/0CrZGWJgOdWYDXxuM48gCe"
+    },
+    {
+      "album": {
+        "name": "Skeem Set, Pt. 2",
+        "url": "https://open.spotify.com/album/18pFtkaqAIHPfV7JMK23nY"
+      },
+      "artists": [
+        {
+          "name": "Milli Major",
+          "url": "https://open.spotify.com/artist/3W9YITTXHsmQBGXJqTXLvJ"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "SeriousXSyikes",
+          "url": "https://open.spotify.com/artist/6dNkGW5hEJsHnXMIMpWvLN"
+        },
+        {
+          "name": "Crazy Titch",
+          "url": "https://open.spotify.com/artist/2gu7DRIkBsNfprNSfkIxpu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277027,
+      "name": "Skeem Set, Pt. 2",
+      "url": "https://open.spotify.com/track/15BvAGHQVGETzj5G58nDGF"
     },
     {
       "album": {
@@ -3792,6 +3936,28 @@
       "duration_ms": 197956,
       "name": "Spin A Man",
       "url": "https://open.spotify.com/track/2pb5IM5gRtwcTx8UVJ8R2M"
+    },
+    {
+      "album": {
+        "name": "Being Poor is Expensive",
+        "url": "https://open.spotify.com/album/0jENGMvmnPYqxQ4M6qE022"
+      },
+      "artists": [
+        {
+          "name": "Bashy",
+          "url": "https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ"
+        },
+        {
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192204,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/1Iow5wEoOZ8gAPZTSNI8HQ"
     },
     {
       "album": {
@@ -4432,6 +4598,44 @@
       "duration_ms": 231000,
       "name": "What You Do",
       "url": "https://open.spotify.com/track/2YkCoUQiNP7Dg5mxPujNZJ"
+    },
+    {
+      "album": {
+        "name": "Who's Dat",
+        "url": "https://open.spotify.com/album/0MGkbQoFvtVeJkfTcmojn3"
+      },
+      "artists": [
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Lil ambush",
+          "url": "https://open.spotify.com/artist/0uzLLwChVbUloexrVV2bxA"
+        },
+        {
+          "name": "Lil Shakz",
+          "url": "https://open.spotify.com/artist/6NTFw23TXLxIhJaBokrhIG"
+        },
+        {
+          "name": "YaroAlways",
+          "url": "https://open.spotify.com/artist/7wykSIfmDzQ6QiRkzXwLl5"
+        },
+        {
+          "name": "Chiraq",
+          "url": "https://open.spotify.com/artist/5DSdOOv3eBiXDy4E8EsxXp"
+        },
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270866,
+      "name": "Who's Dat",
+      "url": "https://open.spotify.com/track/4MDkWrmycdgiNC8wPtk3O7"
     },
     {
       "album": {

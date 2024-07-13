@@ -1,13 +1,29 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 379948,
+  "num_followers": 379964,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zowt1AAAAADC+masmvpbiZVx7bBqOmsz",
+  "snapshot_id": "ZpCqQAAAAAA2bbduK8lU6RNzTVenT8eW",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7kptn65vyNf42rqKfTZJWL"
+      },
+      "artists": [
+        {
+          "name": "Intended Immigration",
+          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
+        }
+      ],
+      "duration_ms": 178615,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/758jr3lwM0Q6O9yPafMs8k"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -423,22 +439,6 @@
       "duration_ms": 123500,
       "name": "Bang Bang - Future Swing Mix",
       "url": "https://open.spotify.com/track/2hal3K1iZA1G0ttAwfMoPV"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Barbie Girl (Electro Swing Remix)",
-        "url": "https://open.spotify.com/album/5LUTrIZZJ6ORJhc73mwTo2"
-      },
-      "artists": [
-        {
-          "name": "Intended Immigration",
-          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "Barbie Girl - Electro Swing Remix",
-      "url": "https://open.spotify.com/track/6aXMkpLI4aYeYCK2j3knI4"
     },
     {
       "added_at": "2023-11-06 13:47:16",

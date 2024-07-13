@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Solfeggio Starscapes",
+        "url": "https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM"
+      },
+      "artists": [
+        {
+          "name": "Alice Charkha",
+          "url": "https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155984,
+      "name": "Solfeggio Starscape 741 Hz",
+      "url": "https://open.spotify.com/track/4WQKrRECuLQwCc9fTrIioX"
+    },
+    {
+      "album": {
         "name": "The Journey (741Hz)",
         "url": "https://open.spotify.com/album/6u33HITV2QQwtvQAEzubWT"
       },

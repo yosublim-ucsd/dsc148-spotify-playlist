@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,613 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,658 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 79 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
 | 80 | [The Feeling Of Love](https://open.spotify.com/track/4lFk0O1MprjoBYo128ZEtP) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liasions Dangereuses](https://open.spotify.com/album/3Li2B3hyujN2O04sfeReJO) | 7:18 |
 | 81 | [Goodbye Baby \- From The Motion Picture "Sweet Smell Of Success"](https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Sweet Smell Of Success \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X) | 4:59 |
-| 82 | [The Hokey Pokey \- Bonus Tracks](https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6) | [Ray Anthony & His Orchestra](https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK) | [Like Wild](https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt) | 3:16 |
-| 83 | [Main Theme \(Stop And Go\)](https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA) | [Kenyon Hopkins](https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9) | [The Hustler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA) | 1:52 |
+| 82 | [Main Theme \(Stop And Go\)](https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA) | [Kenyon Hopkins](https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9) | [The Hustler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA) | 1:52 |
+| 83 | [The Hokey Pokey \- Bonus Tracks](https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6) | [Ray Anthony & His Orchestra](https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK) | [Like Wild](https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt) | 3:16 |
 | 84 | [Green Tables Blues](https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Johnny Cool \(Original Movie Soundtrack\)](https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw) | 3:18 |
 | 85 | [Good Morning Heartache \- From "Lady Sings The Blues" Soundtrack](https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 2:22 |
 | 86 | [Laura](https://open.spotify.com/track/1zmVlbrvqZ6X7QeeKzKWrx) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Bird \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3b9cKpz961wfdpdfwAnTDc) | 3:31 |

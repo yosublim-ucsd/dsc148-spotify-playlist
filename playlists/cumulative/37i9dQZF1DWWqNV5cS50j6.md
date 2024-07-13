@@ -4,7 +4,7 @@
 
 > ?! ft\. Lil Yachty
 
-1,718 songs - 3 day 10 hr 39 min
+1,722 songs - 3 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Defame Moi](https://open.spotify.com/track/15zbdT98jFyZO2MFg1rbqD) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 1:45 | 2023-04-29 | 2023-06-24 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-14 |  |
 | [Devilish](https://open.spotify.com/track/1LHQzcIzi0tKdfzYdkT2JY) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Devilish](https://open.spotify.com/album/3NXbeM5YvGITtvY6CTSxFt) | 3:22 | 2020-10-23 | 2021-05-03 |
+| [Didn't Have To](https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Didn't Have To](https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg) | 2:20 | 2024-07-12 |  |
 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-19 | 2021-05-03 |
 | [Digital Damage](https://open.spotify.com/track/24RzjJ27ViMqSrBFATgeH3) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Digital Damage](https://open.spotify.com/album/0mHPOIHZsEAr10EWZVsPRg) | 2:29 | 2022-11-11 | 2022-12-01 |
 | [DIGITAL WORLD](https://open.spotify.com/track/43265VDeIzxxi3RDcVP24F) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [CYBERKISS\*](https://open.spotify.com/album/5acmAj0gYKed2bcsRY4b2C) | 2:48 | 2022-10-25 | 2022-11-09 |
@@ -419,6 +420,7 @@
 | [Down the Bottle](https://open.spotify.com/track/0azW93j6ED7Da83IDAtDDn) | [Christian Blue](https://open.spotify.com/artist/1X1R5azJYxs6wdFzEOBoI3) | [Down the Bottle](https://open.spotify.com/album/3P2pczdAyjLZ4vuM1ljaNV) | 2:45 | 2022-06-17 | 2022-08-06 |
 | [Downtime](https://open.spotify.com/track/3S3ZRqYDVvGLQ3jc8EG4iC) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Downtime](https://open.spotify.com/album/1S0kpyuMCbDMHb7BGL2HL6) | 2:37 | 2020-12-10 | 2021-06-16 |
 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 | 2020-10-13\* | 2021-05-29 |
+| [DREAMS I SEE](https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [DREAMS I SEE](https://open.spotify.com/album/4v4448kFqcuBFv6uhUW6as) | 2:19 | 2024-07-12 |  |
 | [Dressed For A Funeral](https://open.spotify.com/track/0iHZE9wKvvOXeKRkfbpjMQ) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj) | [Dressed For A Funeral](https://open.spotify.com/album/6x47JaUUbqIjrxqd2eCd3r) | 2:24 | 2023-05-12 | 2023-05-20 |
 | [DRIFTING AWAY](https://open.spotify.com/track/4AmA749nV2056TnXrMe2c1) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [DRIFTING AWAY](https://open.spotify.com/album/2W86LdYpjVIlpjmPZ1LeSb) | 2:29 | 2021-10-02 | 2021-10-14 |
 | [Driver](https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Driver](https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4) | 2:45 | 2023-06-30 | 2024-04-27 |
@@ -444,6 +446,7 @@
 | [endlessly](https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:05 | 2024-01-09 | 2024-04-19 |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-15 | 2022-02-05 |
 | [Enough](https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Enough](https://open.spotify.com/album/3EoAucVdfV60XmjBKbKMCL) | 2:46 | 2023-03-17 | 2023-04-22 |
+| [ENTER THE VOID](https://open.spotify.com/track/6hWdEh6Y5An7odLtTcWQPU) | [Kona](https://open.spotify.com/artist/0Fj3PWpJ3TVPiUOtBSi8O6) | [KONA](https://open.spotify.com/album/4SooABiVOLdO10ozHsOG4M) | 3:13 | 2024-07-12 |  |
 | [Entertainment](https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Entertainment](https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva) | 1:53 | 2020-10-13\* | 2021-03-26 |
 | [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 | 2023-02-03 | 2023-02-15 |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2022-02-07 | 2022-05-10 |
@@ -874,6 +877,7 @@
 | [London, I Love You but You're Bringing Me Down](https://open.spotify.com/track/6gbdvyf7ltK42LebOef2rm) | [Malady](https://open.spotify.com/artist/6RIJbEJAkZ21AAbqrdztvh) | [London, I Love You but You're Bringing Me Down](https://open.spotify.com/album/2gBTOAPgqPWruBWjExCDom) | 3:54 | 2021-01-05 | 2021-05-03 |
 | [lonely](https://open.spotify.com/track/601hAvnWahYIYBGIWRLSxo) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 003](https://open.spotify.com/album/1zoayX60veaPCycIjSrzYU) | 2:42 | 2021-05-08 | 2021-05-15 |
 | [Lonely](https://open.spotify.com/track/5QBkKUkRkgW3Uv233DDcxf) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Lonely](https://open.spotify.com/album/4v5yPCDtthNgBbYaavZYpI) | 2:27 | 2021-02-27 | 2021-05-29 |
+| [LONELY MF](https://open.spotify.com/track/7AGOsBjHLrI2tjAlcsO5e7) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:30 | 2024-07-12 |  |
 | [Lonely Too](https://open.spotify.com/track/60qfTyRVnKj4HU1n8bFb8o) | [S.H\. Orchid](https://open.spotify.com/artist/0QeNOQVHEE5Mgy88DPsVmv) | [Lonely Too](https://open.spotify.com/album/70gKwnLoelAfaY3rL4zpuA) | 2:39 | 2024-05-31 |  |
 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 | 2022-07-15 | 2022-11-17 |
 | [Lonestar](https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Lonestar](https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi) | 3:14 | 2022-03-16 | 2022-07-01 |

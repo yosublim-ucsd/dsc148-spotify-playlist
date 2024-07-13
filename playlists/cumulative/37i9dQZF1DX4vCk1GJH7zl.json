@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170161,
       "name": "Dizem",
       "url": "https://open.spotify.com/track/0slJ2ORPHsjlnVRbPOzVhi"
@@ -1550,6 +1550,24 @@
       "duration_ms": 322969,
       "name": "Na Sua Estante - Ao Vivo",
       "url": "https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu"
+    },
+    {
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149646,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
     },
     {
       "album": {

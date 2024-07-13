@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-422 songs - 1 day 8 hr 8 min
+423 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Fast Life](https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Fast Life](https://open.spotify.com/album/29SzjciN1hhMafVQcZizOV) | 3:58 | 2023-09-29 | 2023-11-11 |
 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 | 2022-10-29 |  |
 | [Fight Harder](https://open.spotify.com/track/302NRQpcU7xP1GzXMn5zOV) | [Emanuel Harrold](https://open.spotify.com/artist/7BCEWQ7ebjQql2El4eAxOU), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Fight Harder](https://open.spotify.com/album/6xZUmkq57p0cWMVLnxIuJC) | 5:32 | 2022-11-18 | 2023-05-27 |
+| [Filibuster](https://open.spotify.com/track/6BWF4wtShcinQ1ikEwzkXl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Filibuster](https://open.spotify.com/album/5uSG5x7Yu0hwFwn6AIvIpw) | 2:40 | 2024-07-12 |  |
 | [Fish Grease](https://open.spotify.com/track/4U67MTfdlwuBYwk5EoaX44) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Forecast](https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0) | 5:15 | 2022-08-12 |  |
 | [Fleet Streak](https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Fleet Streak](https://open.spotify.com/album/5vDEj1kU0gpIOw34y19iuj) | 3:57 | 2023-04-28 |  |
 | [For Horace](https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [For Horace](https://open.spotify.com/album/73zM7vJshZxXvREGVVbo7Q) | 5:38 | 2023-04-14 |  |
@@ -137,7 +138,7 @@
 | [Gentle Thoughts](https://open.spotify.com/track/1QW7UMRftBD5tPs0Q3ODff) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DJ PRAWN](https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x), [Trey Tarzia](https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Gentle Thoughts](https://open.spotify.com/album/2T3hEDmiyPBZSxbU12vFOf) | 8:11 | 2024-04-12 |  |
 | [Glaze](https://open.spotify.com/track/05OOwdPf6R9McIukghw4w9) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh) | [Glaze](https://open.spotify.com/album/4J5ZNleIjACZZWp633TO6m) | 4:33 | 2021-11-26 | 2023-04-29 |
 | [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:14 | 2022-02-25 |  |
-| [Go Funk Me](https://open.spotify.com/track/5mzjFN0zUIwB92GdqDY978) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw), [Seth Hachen](https://open.spotify.com/artist/1YGdkLpYZm6T1izLrBnvDE) | [Go Funk Me](https://open.spotify.com/album/6JeoeuuEiMjQBqDcvwQsbv) | 2:46 | 2023-11-10 |  |
+| [Go Funk Me](https://open.spotify.com/track/5mzjFN0zUIwB92GdqDY978) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw), [Seth Hachen](https://open.spotify.com/artist/1YGdkLpYZm6T1izLrBnvDE) | [Go Funk Me](https://open.spotify.com/album/6JeoeuuEiMjQBqDcvwQsbv) | 2:46 | 2023-11-10 | 2024-07-13 |
 | [Goin’ to Chicago](https://open.spotify.com/track/73qO9QckH8jRnas3mSl5HY) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Goin’ to Chicago](https://open.spotify.com/album/4y2DrtUacYmOnVUB1aobC5) | 4:01 | 2023-12-01 |  |
 | [Got Myself a Good Man](https://open.spotify.com/track/47p7EXLVpPSr3l9wK9bA4E) | [Lance Ferguson](https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua) | [Got Myself a Good Man](https://open.spotify.com/album/2OIU1dz7wtdA1HaICpuVO2) | 5:08 | 2022-04-01 |  |
 | [Got that?](https://open.spotify.com/track/3hlHFttlQkeQFNka58JINT) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Dominique Xavier](https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [Joe Cleveland](https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg) | [Got that?](https://open.spotify.com/album/08nVCZBo8sBzTkzFAFtI3A) | 1:44 | 2024-05-24 |  |

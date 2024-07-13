@@ -4,7 +4,7 @@
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-204 songs - 11 hr 1 min
+205 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 | 2021-12-10 |  |
 | [I Can Feel It \- VAVO Remix](https://open.spotify.com/track/1lvILjcPM1uxURvBLZzucr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [I Can Feel It \(VAVO Remix\)](https://open.spotify.com/album/1Wm3T2shJsILJjd5S3G6nN) | 2:25 | 2023-12-29 |  |
 | [I Can't \- Dave Audé Remix](https://open.spotify.com/track/0tVK8v4KrIe2m31mkymR3G) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [I Can't \(Dave Audé Remix\)](https://open.spotify.com/album/4oLqaTmdizNHWSRa5lf6pI) | 3:36 | 2024-07-05 |  |
+| [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 | 2024-07-12 |  |
 | [I Run To You \- Dave Bascombe Mix](https://open.spotify.com/track/4z8bVsIbVAg4hlBAN5WGXB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 4:18 | 2021-12-10 |  |
 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 | 2021-12-10 |  |
 | [Jolene \- Dumplin' Remix](https://open.spotify.com/track/0HtY7ILTZVSd4i44FuOrur) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [DJ Ricky Luna](https://open.spotify.com/artist/41EN0ZREKu3QnW9N0kre0K) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 3:24 | 2021-12-10 | 2023-04-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Katy Perry au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 348976,
+  "num_followers": 349142,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
       "duration_ms": 167226,
       "name": "Tout y est",
       "url": "https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1204,7 +1224,7 @@
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 134193,
+      "duration_ms": 135483,
       "name": "Pensamos Rapido",
       "url": "https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb"
     },

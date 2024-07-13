@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-84 songs - 3 hr 58 min
+85 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/4DFwQXEIVn26fSd6GRC7Tb) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/4JBqvqMjI9bB5OVhoQnSiI) | 5:03 | 2023-03-10 | 2024-04-19 |
 | [Sensory Deprivation \(Delta\) 72 Hz \- 75 Hz](https://open.spotify.com/track/3orf9g5rGxizahH0y8p6Lv) | [Flying Waltz](https://open.spotify.com/artist/0fnG90Dzky1wzoJrzx1hVa) | [Sensory Deprivation \(Delta\)](https://open.spotify.com/album/1GfLGhc0odndCiBpIRb5aJ) | 2:52 | 2023-03-10 | 2023-12-01 |
 | [Solfeggio Frequencies 528 Hz](https://open.spotify.com/track/79AM1JeUv0oBaWENiiLOAx) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [528 Hz Transformation and Miracles \(DNA Repair\)](https://open.spotify.com/album/0qE8qzazAbwS62hZ992jQ4) | 2:45 | 2023-03-10 | 2023-12-01 |
+| [Solfeggio Starscape 852 Hz](https://open.spotify.com/track/6LxWDMO7ZM4JVhZ15lKGWW) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Solfeggio Starscapes](https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM) | 2:35 | 2024-07-13 |  |
 | [Spirit Of Cave](https://open.spotify.com/track/4TyjxEuOhRKUg2z73fta6T) | [Miracle Mind Healing](https://open.spotify.com/artist/11EnAtfO1XD8UmD5LNnfWC), [Healing Tones](https://open.spotify.com/artist/1yVfdZEfiF3hjAcXUUw79r) | [Love Frequencies Volume 1](https://open.spotify.com/album/01nuV2tdLaSwawU9ijp7YR) | 3:55 | 2023-03-10 | 2023-08-08 |
 | [Stay Close 852 Hz](https://open.spotify.com/track/08oWPv0iCrqcXlEz9fnWKA) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Stay Close 852 Hz](https://open.spotify.com/album/5csEEPZwqvgDtrU4MzcGEK) | 2:32 | 2023-03-10 |  |
 | [Suraksha 852 Hz](https://open.spotify.com/track/53GhLGiFZRBWrfHboXNzL2) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Cambios et Suraksha](https://open.spotify.com/album/7cWPfg2i00U55wuhi3qAK8) | 3:19 | 2023-03-10 |  |

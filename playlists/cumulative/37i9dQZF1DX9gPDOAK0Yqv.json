@@ -821,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Bastion",
+        "url": "https://open.spotify.com/album/3nCOhKTk6p9NGiC0SeEAYh"
+      },
+      "artists": [
+        {
+          "name": "Leena Punks",
+          "url": "https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt"
+        },
+        {
+          "name": "TRYAD",
+          "url": "https://open.spotify.com/artist/3lxtnm9uc5qrpl2CIkee1A"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Bastion",
+      "url": "https://open.spotify.com/track/2B1iO6q0ZagD7gSwrdRNXh"
+    },
+    {
+      "album": {
         "name": "BE ARTIST OF YOUR LIFE",
         "url": "https://open.spotify.com/album/4ZqEV0pL6IxmnIq3dguj4g"
       },
@@ -890,7 +912,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 183524,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
@@ -2122,7 +2144,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 215082,
       "name": "Don't Wake Up",
       "url": "https://open.spotify.com/track/3bryZnVV2tqOjAeDkHXkrw"
@@ -2228,6 +2250,24 @@
       "duration_ms": 299047,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/73SLZEZYiyYcwMEY0gHhWx"
+      },
+      "artists": [
+        {
+          "name": "Brina Knauss",
+          "url": "https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/1cwt2CE4yESnT0gLT46IJO"
     },
     {
       "album": {
@@ -2706,7 +2746,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 407569,
       "name": "Exploration",
       "url": "https://open.spotify.com/track/5F1zvhsJgKnoQ0SsHXYFcs"
@@ -3955,6 +3995,28 @@
     },
     {
       "album": {
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/0IlNCKUSISscfx38FhKD27"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209340,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/5tjKn1vs9VXuiX1oQn4zzK"
+    },
+    {
+      "album": {
         "name": "Here to There",
         "url": "https://open.spotify.com/album/7wReVYJJ4QR2gldrWDkzAJ"
       },
@@ -4172,7 +4234,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 330500,
       "name": "Home",
       "url": "https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q"
@@ -4212,7 +4274,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 374747,
       "name": "Hook",
       "url": "https://open.spotify.com/track/59bBf3pgfpRR4CZNM7jSGC"
@@ -4512,7 +4574,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 191570,
       "name": "In The Dust",
       "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
@@ -4716,7 +4778,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 203738,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
@@ -6356,7 +6418,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 220952,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1HAjyqnfYo2WfBpG6Gy1F0"
@@ -6820,7 +6882,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 270243,
       "name": "Otherside - Fideles Remix Edit",
       "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
@@ -8012,7 +8074,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 425927,
       "name": "Rise Of The 2nd Sun",
       "url": "https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5"
@@ -8268,7 +8330,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 221346,
       "name": "Save Me - K\u00f6lsch Remix",
       "url": "https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF"
@@ -9148,7 +9210,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 364455,
       "name": "Stream State",
       "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
@@ -10026,7 +10088,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 206410,
       "name": "The Switch",
       "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
@@ -10382,7 +10444,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 405500,
       "name": "Tripchain",
       "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
@@ -11001,6 +11063,28 @@
     },
     {
       "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/6GQv5oaFsol421ygVYu5aW"
+      },
+      "artists": [
+        {
+          "name": "Testpilot",
+          "url": "https://open.spotify.com/artist/4KZ2CyWpeORBTUd4vBAqnN"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525000,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra"
+    },
+    {
+      "album": {
         "name": "Where Are You Tonight",
         "url": "https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP"
       },
@@ -11078,7 +11162,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 329318,
       "name": "With You",
       "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"

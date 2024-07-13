@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Omar Apollo.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Judeline.",
   "name": "Mixto",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 183036,
       "name": "AHORA",
       "url": "https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140540,
       "name": "Aiwo",
       "url": "https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Aqui?",
       "url": "https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211475,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4qivrywz0cptut4imbWJJf"
@@ -1734,6 +1734,24 @@
       "duration_ms": 166904,
       "name": "BRUTAL - Spotify Singles",
       "url": "https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw"
+    },
+    {
+      "album": {
+        "name": "By Your Side / A T\u00fa Lado",
+        "url": "https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj"
+      },
+      "artists": [
+        {
+          "name": "Yung Pleit",
+          "url": "https://open.spotify.com/artist/3NHGcZ2ALQygG4tdMagUnT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "By Your Side / A T\u00fa Lado",
+      "url": "https://open.spotify.com/track/5dfMkMSgERmPnpRc8E7wCc"
     },
     {
       "album": {
@@ -3987,6 +4005,28 @@
     },
     {
       "album": {
+        "name": "el parque",
+        "url": "https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C"
+      },
+      "artists": [
+        {
+          "name": "Chiara Oliver",
+          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
+        },
+        {
+          "name": "Violeta H\u00f3dar",
+          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173616,
+      "name": "el parque",
+      "url": "https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc"
+    },
+    {
+      "album": {
         "name": "El Rayo Vallecano",
         "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
       },
@@ -4394,7 +4434,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 223500,
       "name": "Estrellas en la Oscuridad",
       "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
@@ -6093,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "INRI",
+        "url": "https://open.spotify.com/album/5kdsxoKa97cbaqXUReltaT"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145303,
+      "name": "INRI",
+      "url": "https://open.spotify.com/track/7G0wdE6RUVaOXFDRkElQz4"
+    },
+    {
+      "album": {
         "name": "Insurgentes",
         "url": "https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h"
       },
@@ -6206,7 +6264,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
@@ -8302,7 +8360,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 150916,
       "name": "Mi Onda",
       "url": "https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z"
@@ -10122,7 +10180,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 141714,
       "name": "PALOMINO",
       "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
@@ -11440,6 +11498,28 @@
       "duration_ms": 176023,
       "name": "Sailors' Superstition",
       "url": "https://open.spotify.com/track/2j91fgo3oRQURVzGzTRHPB"
+    },
+    {
+      "album": {
+        "name": "SAL",
+        "url": "https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201355,
+      "name": "SAL",
+      "url": "https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da"
     },
     {
       "album": {

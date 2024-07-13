@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-394 songs - 22 hr 20 min
+395 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Air Born](https://open.spotify.com/track/1SrgOv6hJ7FmFNTDwC6yoF) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Fly with Me](https://open.spotify.com/album/3r3Q0fWCOBOiBZFYw34TAm) | 4:44 | 2022-04-11 | 2022-04-15 |
 | [Albany](https://open.spotify.com/track/3axd6nS2OpTthBIv7Fv8LB) | [Kev Brown](https://open.spotify.com/artist/1Yi9MvKxq35HFHWl0nNelG) | [Always / Albany](https://open.spotify.com/album/350aqUY5tiF829qMI0QC6X) | 2:49 | 2021-12-16 | 2022-05-30 |
 | [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2021-12-16 |  |
+| [almost got me](https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [almost got me](https://open.spotify.com/album/3CgByUDYSBxYmUdQfQDOLk) | 3:03 | 2024-07-12 |  |
 | [Anointed Soul](https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [YHWH is LOVE](https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji) | 3:09 | 2024-03-01 | 2024-06-19 |
 | [Another Day](https://open.spotify.com/track/2GFr1qKDZcByge6O956l2B) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [In The Beginning: Before The Heavens](https://open.spotify.com/album/493jNMqrlOYhzQ0aoYU03s) | 3:53 | 2022-04-11 | 2022-04-21 |
 | [Any Way, Any Day](https://open.spotify.com/track/66KfkAGF4QBp4lElvKKqI1) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB), [Sadat X](https://open.spotify.com/artist/6Nf1gMtwFrHqlEySdSkzZw) | [Meditations](https://open.spotify.com/album/7dieRoSqwmlqOHJAxXPYsR) | 3:40 | 2022-04-11 | 2022-04-21 |
@@ -122,7 +123,7 @@
 | [Eucalyptus](https://open.spotify.com/track/4XJcBj7q9szzwLAtYrdwmQ) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Natty Wylah](https://open.spotify.com/artist/2BUKwf8XQN2KTzdp8hyqlK), [Jkarri](https://open.spotify.com/artist/7pnHPcFr8HpjXaEAOFpX3V) | [Eucalyptus](https://open.spotify.com/album/1j1TndbK3GKEFqatT0jVzR) | 3:33 | 2021-12-16 | 2022-07-28 |
 | [Eve](https://open.spotify.com/track/7m2bsSY5tPbB9JR8qRkiEQ) | [Les Cooles de Ville](https://open.spotify.com/artist/3UREGnJvseKx1ZP03As4Ez) | [L.C.D.V.](https://open.spotify.com/album/2yMgjikwwKObXwGFXXkrAY) | 3:10 | 2022-04-11 | 2022-04-21 |
 | [Everybody's Somebody](https://open.spotify.com/track/52TBlTxLrajW9btOD22cdS) | [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf), [Mz Boom Bap](https://open.spotify.com/artist/2VuJVhDHZtxhw4Ue1jN8kL) | [Everybody's Somebody](https://open.spotify.com/album/5fiY9l04xQuh8YprrNnz74) | 2:54 | 2022-02-10 | 2022-06-06 |
-| [Evil Cute](https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv) | [Shunaji](https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx) | [Evil Cute](https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa) | 2:08 | 2024-04-19 |  |
+| [Evil Cute](https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv) | [Shunaji](https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx) | [Evil Cute](https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa) | 2:08 | 2024-04-19 | 2024-07-13 |
 | [Fabrics](https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Waking up to Sirens](https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA) | 3:34 | 2022-07-28 | 2024-04-19 |
 | [Fabrics](https://open.spotify.com/track/6hlLKByDfmpoQQrfag0LzV) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Waking up to Sirens](https://open.spotify.com/album/5uS0Li0XPo0Ccpka77IMdV) | 3:34 | 2021-12-16 | 2022-07-29 |
 | [Factor](https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Factor](https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq) | 2:57 | 2024-03-21 |  |

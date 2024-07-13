@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "A Misty Night",
+        "url": "https://open.spotify.com/album/7amJmde65RxYO6QMUvFffh"
+      },
+      "artists": [
+        {
+          "name": "Elliot Baxter",
+          "url": "https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154219,
+      "name": "A Misty Night",
+      "url": "https://open.spotify.com/track/6njNZGcspF3EVtfhURXzVZ"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 214431,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/0O0NRL8jQu39W4ALibOI0G"
@@ -689,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Aspen",
+        "url": "https://open.spotify.com/album/6NUfg3GkuuyMRoIh7jzwgj"
+      },
+      "artists": [
+        {
+          "name": "Joe M. Key",
+          "url": "https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177583,
+      "name": "Aspen",
+      "url": "https://open.spotify.com/track/6AtTkwEb2HQzeLJ7ldlKmd"
+    },
+    {
+      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
       },
@@ -938,6 +974,24 @@
       "duration_ms": 201500,
       "name": "Bellevue",
       "url": "https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC"
+    },
+    {
+      "album": {
+        "name": "Belleza Eterna",
+        "url": "https://open.spotify.com/album/40MdIbK8KEPqeN1HmAvw4s"
+      },
+      "artists": [
+        {
+          "name": "Spure Palema",
+          "url": "https://open.spotify.com/artist/7tl1uWKB5LNxOg3isywNT1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155068,
+      "name": "Belleza Eterna",
+      "url": "https://open.spotify.com/track/10JE23gfRpEj6c7cfVzpgk"
     },
     {
       "album": {
@@ -2158,7 +2212,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 183274,
       "name": "Don't Take It Too Seriously",
       "url": "https://open.spotify.com/track/6lCnbCKCqURAomnczybXOZ"
@@ -2576,6 +2630,24 @@
       "duration_ms": 157969,
       "name": "Fall Season",
       "url": "https://open.spotify.com/track/2lHTRwS933i16QlQqOcKHs"
+    },
+    {
+      "album": {
+        "name": "Falling Grace",
+        "url": "https://open.spotify.com/album/3ZfFf7JB18eNSCh91qCIsg"
+      },
+      "artists": [
+        {
+          "name": "Thierry Marchal",
+          "url": "https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128793,
+      "name": "Falling Grace",
+      "url": "https://open.spotify.com/track/6Kxymny2MGIHFaUr7oRZz2"
     },
     {
       "album": {
@@ -4948,7 +5020,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161231,
       "name": "Let Me know you",
       "url": "https://open.spotify.com/track/7Go50FPzlQ1qlBUaZa8PTj"
@@ -5477,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Magenta",
+        "url": "https://open.spotify.com/album/4ayGWuwGRiZs9tA9SqEY6Q"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor",
+          "url": "https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159324,
+      "name": "Magenta",
+      "url": "https://open.spotify.com/track/3QdnmN3YE9iHniH8qmgOO6"
+    },
+    {
+      "album": {
         "name": "Maiden Voyage",
         "url": "https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw"
       },
@@ -5596,7 +5686,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165681,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2"
@@ -6640,7 +6730,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 186500,
       "name": "One Day We'll Find Our Way",
       "url": "https://open.spotify.com/track/27ljy6g5ghJo1ZeoOsHsB7"
@@ -8134,7 +8224,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 224340,
       "name": "Soul Eyes",
       "url": "https://open.spotify.com/track/0lBxZvvvNK40Ta3MjVzCvD"
@@ -8350,7 +8440,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 303750,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf"
@@ -9437,6 +9527,24 @@
     },
     {
       "album": {
+        "name": "Three Quarters",
+        "url": "https://open.spotify.com/album/5noB3wOdSv5LinLEmfps4M"
+      },
+      "artists": [
+        {
+          "name": "Tim Walker-Price",
+          "url": "https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192767,
+      "name": "Three Quarters",
+      "url": "https://open.spotify.com/track/2PZoncoazGNcr0KhFJHmQV"
+    },
+    {
+      "album": {
         "name": "Till There Was You",
         "url": "https://open.spotify.com/album/5p2c7pdxKRryVmsKsAM7Ud"
       },
@@ -9772,7 +9880,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204384,
       "name": "Violets for Your Furs",
       "url": "https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD"

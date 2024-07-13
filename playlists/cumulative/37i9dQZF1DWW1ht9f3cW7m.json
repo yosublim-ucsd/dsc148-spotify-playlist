@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "the sweetest new indie pop, featuring Aziya \ud83c\udf51",
+  "description": "the sweetest new indie pop, featuring Polly Money \ud83c\udf51",
   "name": "peach",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "album": {
         "name": "anything for you",
         "url": "https://open.spotify.com/album/2YQbA9MRcttOywdtMYkWHG"
       },
@@ -59,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Bad Thing",
+        "url": "https://open.spotify.com/album/5LM8i84TMmgV0hQDz7ah10"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jane Lewis",
+          "url": "https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Bad Thing",
+      "url": "https://open.spotify.com/track/0pgTEjFAxNjaDRjgC69HAH"
+    },
+    {
+      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU"
       },
@@ -74,6 +110,24 @@
       "duration_ms": 160426,
       "name": "Basement",
       "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
+    },
+    {
+      "album": {
+        "name": "Bass Player's Brother",
+        "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186489,
+      "name": "Bass Player's Brother",
+      "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
     },
     {
       "album": {
@@ -131,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
+    },
+    {
+      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
       },
@@ -160,7 +232,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 264240,
       "name": "Brando!",
       "url": "https://open.spotify.com/track/2XNYgZ6wekgwOYq96SEfWk"
@@ -286,7 +358,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167987,
       "name": "Cheap Wine (B-side)",
       "url": "https://open.spotify.com/track/7ftvWZFAv0tjB03h4idKRr"
@@ -380,7 +452,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 151455,
       "name": "congratulations for getting off the drink",
       "url": "https://open.spotify.com/track/3OKDCLcs8N2NBviZttpnGY"
@@ -590,10 +662,46 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "album": {
+        "name": "get it right",
+        "url": "https://open.spotify.com/album/6UUIDUhRiwe8yCPCJl18Rp"
+      },
+      "artists": [
+        {
+          "name": "DROZ",
+          "url": "https://open.spotify.com/artist/3hg8GIwLfQ60sx8lAunT3S"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174609,
+      "name": "get it right",
+      "url": "https://open.spotify.com/track/6ptrv48ty6L65vrKve37CU"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217413,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC"
     },
     {
       "album": {
@@ -630,6 +738,24 @@
       "duration_ms": 130651,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/2DwfkAPdyN66ccer4nQDlW"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1Tj7fM0bJMyYMcCQD6KrUk"
+      },
+      "artists": [
+        {
+          "name": "Good Health Good Wealth",
+          "url": "https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4SlsQsxsPZLxqkgF71Zypu"
     },
     {
       "album": {
@@ -741,6 +867,24 @@
     },
     {
       "album": {
+        "name": "How I Wish I Was Cool",
+        "url": "https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL"
+      },
+      "artists": [
+        {
+          "name": "Bayboards",
+          "url": "https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186131,
+      "name": "How I Wish I Was Cool",
+      "url": "https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D"
+    },
+    {
+      "album": {
         "name": "I Think That I'm Getting Boring",
         "url": "https://open.spotify.com/album/1q2dMzmwjff28MgF7F1afL"
       },
@@ -842,7 +986,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 249093,
       "name": "Like a Fool",
       "url": "https://open.spotify.com/track/0atY2C366o795qGCmGwWv7"
@@ -979,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "monsters",
+        "url": "https://open.spotify.com/album/7sUVCCRwEkQHONmQ7A2aAU"
+      },
+      "artists": [
+        {
+          "name": "Abbie Ozard",
+          "url": "https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "monsters",
+      "url": "https://open.spotify.com/track/7BFIBULShxfEOaPEHUZP61"
+    },
+    {
+      "album": {
         "name": "Show & Tell",
         "url": "https://open.spotify.com/album/2AoyVm8A8ZfkbRzij3qq7i"
       },
@@ -1087,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Old Home",
+        "url": "https://open.spotify.com/album/1EDYxnUim8ALq8hs0tvLmW"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Old Home",
+      "url": "https://open.spotify.com/track/5LaCkGXKwY5YeHCGeOfI16"
+    },
+    {
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/1Rveuvo2p2tNinGgfSEW3w"
       },
@@ -1098,7 +1278,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 190225,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/25U7mv53Dbe3JzzDcSrTPB"
@@ -1213,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "projections",
+        "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260484,
+      "name": "projections",
+      "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
+    },
+    {
+      "album": {
         "name": "Quick Fix",
         "url": "https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn"
       },
@@ -1224,7 +1422,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 258829,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq"
@@ -1260,7 +1458,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 223587,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
@@ -1322,6 +1520,24 @@
       "duration_ms": 139470,
       "name": "Shell (with Jordana)",
       "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
+    },
+    {
+      "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
       "album": {
@@ -1426,7 +1642,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188000,
       "name": "trouble",
       "url": "https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P"
@@ -1444,7 +1660,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 198760,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB"
@@ -1516,7 +1732,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195526,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD"
@@ -1538,7 +1754,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 187689,
       "name": "Who",
       "url": "https://open.spotify.com/track/36Qy5JWTlosQe8mliqKCjw"

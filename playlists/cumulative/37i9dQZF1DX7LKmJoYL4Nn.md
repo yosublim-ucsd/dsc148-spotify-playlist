@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!”「あんスタ」シリーズの楽曲を1つのプレイリストで。© 2014\-2019 Happy Elements K.K
 
-96 songs - 6 hr 27 min
+97 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Dance in the Apocalypse](https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:58 | 2024-04-26 |  |
 | [Dawning Angels](https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql) | [fine\-O/青葉 つむぎ\(CV.石川 界人\)、天祥院 英智\(CV.緑川 光\)、乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)](https://open.spotify.com/artist/1hViK6ZZNwL5Kei0Y2czaR) | [あんさんぶるスターズ！！ESアイドルソング Extra オルタード & fine\-O](https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO) | 4:00 | 2024-04-26 |  |
 | [Daydream×Reality](https://open.spotify.com/track/4k30g9mP45iyHLlOTYWP3m) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 3:42 | 2024-05-24 | 2024-06-26 |
-| [Death Game Holic](https://open.spotify.com/track/0QXjruPtWWeeFeSceZMExA) | [デッドマンズ/朔間零\(CV.増田俊樹\)、蓮巳敬人\(CV.梅原裕一郎\)、大神晃牙\(CV.小野友樹\)](https://open.spotify.com/artist/0OI0KbDEEYyfna5F2IOPdv) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 3:27 | 2024-04-26 |  |
+| [Death Game Holic](https://open.spotify.com/track/0QXjruPtWWeeFeSceZMExA) | [デッドマンズ/朔間零\(CV.増田俊樹\)、蓮巳敬人\(CV.梅原裕一郎\)、大神晃牙\(CV.小野友樹\)](https://open.spotify.com/artist/0OI0KbDEEYyfna5F2IOPdv) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 3:27 | 2024-04-26 | 2024-07-13 |
 | [Deep Eclipse](https://open.spotify.com/track/54yhZREtrsl7dXQj7PmI0D) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！！ ESアイドルソング Extra fine & Eden](https://open.spotify.com/album/5GY4K7qLR0ow3uSXpUKc5v) | 4:35 | 2024-04-26 |  |
 | [Distorted Heart](https://open.spotify.com/track/4gREpK3gyGqCYJArf9yAoc) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ESアイドルソング season1 ALKALOID](https://open.spotify.com/album/4xSol47Ra7kpAIPW7NKspC) | 3:28 | 2024-04-26 | 2024-06-04 |
 | [Dreaming Ocean](https://open.spotify.com/track/46b7fm7RyNGct0HBYpHi0C) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine](https://open.spotify.com/album/2SNuhzWNGPRSeEYEScL2Do) | 4:04 | 2024-04-26 |  |
@@ -71,6 +71,7 @@
 | [Silent Oath](https://open.spotify.com/track/1Cirj2OMs3qMvmOAQhLZHo) | [Knights/月永レオ\(CV.浅沼晋太郎\)、瀬名泉\(CV.伊藤マサミ\)、朔間凛月\(CV.山下大輝\)、鳴上嵐\(CV.北村諒\)、朱桜司\(CV.土田玲央\)](https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 5:13 | 2024-04-26 |  |
 | [SOLID SOUL](https://open.spotify.com/track/7LQL6T1RuSAY49Jgo9CkKt) | [天城 一彩\(CV.梶原 岳人\)](https://open.spotify.com/artist/4IOQZ09qAFuqquWQ7RpvVV) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID](https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh) | 3:50 | 2024-04-26 | 2024-05-11 |
 | [Sunlit Smile!](https://open.spotify.com/track/48spUdSXNLwakQV7vpIc9m) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:09 | 2024-04-26 |  |
+| [SunnyTrip Summer](https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml) | [ALKALOID／天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/3VgJba2LDJjicLSmVOwtda) | [あんさんぶるスターズ！！ ESアイドルソング Season5 ALKALOID「SunnyTrip Summer」](https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy) | 3:31 | 2024-07-12 |  |
 | [THE GENESIS](https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 | 2024-04-26 |  |
 | [Trap For You](https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 | 2024-04-26 |  |
 | [Twilight Pentagram](https://open.spotify.com/track/5931MmDFddLnEmn5ggVCmr) | [オルタード/朔間 零\(CV.増田 俊樹\)、日々樹 渉\(CV.江口 拓也\)、深海 奏汰\(CV.西山 宏太朗\)、 斎宮 宗\(CV.高橋 広樹\)、逆先 夏目\(CV.野島 健児\)](https://open.spotify.com/artist/2OL27gFXdNWKe6yfAdcvhO) | [あんさんぶるスターズ！！ESアイドルソング Extra オルタード & fine\-O](https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO) | 3:31 | 2024-04-26 |  |

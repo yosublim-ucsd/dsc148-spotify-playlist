@@ -2,7 +2,7 @@
 
 ### [00s Summer Rock](https://open.spotify.com/playlist/37i9dQZF1DWZHO2BTzHF4G)
 
-> Rock that was on repeat during the summers of the 2000s.
+> Rock on repeat during the summers of the 2000s.
 
 149 songs - 9 hr 25 min
 

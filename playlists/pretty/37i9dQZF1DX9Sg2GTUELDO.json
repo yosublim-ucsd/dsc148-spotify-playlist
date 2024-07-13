@@ -1,6 +1,6 @@
 {
   "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover\uff1aSammi \u912d\u79c0\u6587 ",
-  "num_followers": 29078,
+  "num_followers": 29085,
   "original_name": "\u8d85\u7d1a\u5973\u8072",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-07-11 16:00:00",
       "album": {
+        "name": "\u53ef\u611b\u7684\u6771\u897f",
+        "url": "https://open.spotify.com/album/5tDZuG6gTuxgo0MTVEFKka"
+      },
+      "artists": [
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "\u53ef\u611b\u7684\u6771\u897f",
+      "url": "https://open.spotify.com/track/4Cb0PkLEaQ4Gt5POqCodi8"
+    },
+    {
+      "added_at": "2024-07-11 16:00:00",
+      "album": {
         "name": "\u6578\u5230\u5341",
         "url": "https://open.spotify.com/album/0aGvJzZ9ni0fjXFCyXyr1f"
       },
@@ -71,6 +87,22 @@
       "duration_ms": 254691,
       "name": "\u6578\u5230\u5341",
       "url": "https://open.spotify.com/track/6rTFggXwImkDdz6ZqseDSX"
+    },
+    {
+      "added_at": "2024-07-11 16:00:00",
+      "album": {
+        "name": "Pretty Good",
+        "url": "https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu"
+      },
+      "artists": [
+        {
+          "name": "XiX",
+          "url": "https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Pretty Good",
+      "url": "https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX"
     },
     {
       "added_at": "2024-07-11 16:00:00",

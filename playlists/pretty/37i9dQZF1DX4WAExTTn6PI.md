@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Americana's artists and hits of tomorrow\. Cover: Willow Avalon
+> Americana's artists and hits of tomorrow\. Cover: Cassandra Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,715 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,742 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Somewhere Between Texas and Tennessee](https://open.spotify.com/track/1eookKB7fhMF6bjqhUaJyz) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Somewhere Between Texas and Tennessee](https://open.spotify.com/album/21xANAhYWWHNn6hZdiivOB) | 3:33 |
-| 2 | [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/6IOYVC0QkgAvPJfBanVo1r) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Gettin' Rich, Goin' Broke](https://open.spotify.com/album/1VT15KtWbwalDu01fn7PUw) | 3:04 |
-| 3 | [Someday Song](https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [Someday Song](https://open.spotify.com/album/13CBxmgIWuC6atTiEm2Nhl) | 3:16 |
-| 4 | [Rootin’ For You](https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Drive & Cry](https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2) | 3:23 |
-| 5 | [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 |
+| 1 | [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 |
+| 2 | [Somewhere Between Texas and Tennessee](https://open.spotify.com/track/1eookKB7fhMF6bjqhUaJyz) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Somewhere Between Texas and Tennessee](https://open.spotify.com/album/21xANAhYWWHNn6hZdiivOB) | 3:33 |
+| 3 | [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/6IOYVC0QkgAvPJfBanVo1r) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Gettin' Rich, Goin' Broke](https://open.spotify.com/album/1VT15KtWbwalDu01fn7PUw) | 3:04 |
+| 4 | [Someday Song](https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [Someday Song](https://open.spotify.com/album/13CBxmgIWuC6atTiEm2Nhl) | 3:16 |
+| 5 | [Rootin’ For You](https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Drive & Cry](https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2) | 3:23 |
 | 6 | [Learn to Live Alone](https://open.spotify.com/track/5wCUI4gH5s91hfRuEfYoss) | [Jim Cuddy](https://open.spotify.com/artist/1RprcCfY08k2trEW0m3aHg) | [Learn to Live Alone](https://open.spotify.com/album/62BbMZg84MuSCnWiMnSW81) | 4:33 |
 | 7 | [Later On](https://open.spotify.com/track/2a9hslq54clFQckKqqBsnK) | [Fantastic Cat](https://open.spotify.com/artist/1UuGqBhc9CLkj8qgKCHjw5), [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy), [Don DiLego](https://open.spotify.com/artist/0fPBRuaiHxlXH5tXSeB4qM), [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V), [Mike Montali](https://open.spotify.com/artist/0QvVs8ltNRQEWdauU1eO0i) | [Later On](https://open.spotify.com/album/25hEJX6XH4IAGp9CHfipj9) | 3:28 |
 | 8 | [Nightmare](https://open.spotify.com/track/3878vJyS8co3IApl8L9VDe) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Anniversary](https://open.spotify.com/album/3L2N9iWhyf3e3BeCJNXOSJ) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 |
 | 100 | [Goodbye to Goodbye](https://open.spotify.com/track/3cwJEaPREKbmAOqG1cIx2T) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [For You](https://open.spotify.com/album/5Gv1mY3pYSO0mEu7J3aR9F) | 3:46 |
 
-Snapshot ID: `ZohiJQAAAAAj7/G7cLP8C9AhqVYb4PBa`
+Snapshot ID: `ZpCqQAAAAAB1A1B64x1msYJIbHZop2bN`

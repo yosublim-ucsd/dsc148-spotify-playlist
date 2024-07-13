@@ -292,7 +292,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 240000,
       "name": "Angst - RMX by twocolors",
       "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 320000,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
@@ -980,6 +980,28 @@
       "duration_ms": 262736,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/0xAlVt65L7JLQFZmrecA0L"
+    },
+    {
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/15qXuJTYlyYGHWzKGhOY0U"
+      },
+      "artists": [
+        {
+          "name": "VLCN",
+          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230410,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/27i4YkXjbKLIuCpcNGqI30"
     },
     {
       "album": {
@@ -2790,7 +2812,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
@@ -4014,7 +4036,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 178207,
       "name": "Hyperactive",
       "url": "https://open.spotify.com/track/4SXcQsefWkLFs5ENH3j3Wq"
@@ -4249,12 +4271,12 @@
         },
         {
           "name": "American Teeth",
-          "url": "https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO"
+          "url": "https://open.spotify.com/artist/5RlKqL2gmUrDGbKBDWGmHY"
         }
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 183132,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
@@ -6115,6 +6137,32 @@
     },
     {
       "album": {
+        "name": "Play the Game",
+        "url": "https://open.spotify.com/album/3MoeBhEJP75F5cS7oqxhmW"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Craig Mabbitt of Escape the Fate",
+          "url": "https://open.spotify.com/artist/2PPeG5XXKZRkcEQ90TYgXT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Play the Game",
+      "url": "https://open.spotify.com/track/5J4JSnjrqicsxHW9Epu7SW"
+    },
+    {
+      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
       },
@@ -7668,7 +7716,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 240608,
       "name": "Story Of My Life (feat. Trippie Redd) - Heavy Edit",
       "url": "https://open.spotify.com/track/7vBwenmGPD2h0DSbljoZym"

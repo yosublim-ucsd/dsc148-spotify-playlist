@@ -4,7 +4,7 @@
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-141 songs - 12 hr 22 min
+147 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [courage](https://open.spotify.com/track/1489XasC9uGNxGr3rXkLnX) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [courage](https://open.spotify.com/album/2tkOigb2s0UN64i51ctoDd) | 4:13 | 2022-10-27 | 2022-11-13 |
 | [courage](https://open.spotify.com/track/4GxtsOXnSql0QrnKmDLHOg) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/70DWgZ4T3tHK6LNpZGD7qy) | 4:13 | 2022-04-01 |  |
 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 | 2022-04-01 | 2024-04-19 |
+| [Crazy Cat](https://open.spotify.com/track/23O7kXjKQ8QIdHfqhsR4ia) | [フカ次郎 \(CV:赤﨑千夏\)](https://open.spotify.com/artist/37MGmn6DehkLfg2WddyVcS) | [Crazy Cat](https://open.spotify.com/album/2sCk03LFRE7huxabapvTKw) | 3:41 | 2024-07-12 |  |
 | [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:08 | 2022-04-01 | 2024-04-19 |
 | [crossing field](https://open.spotify.com/track/5RsRhryZD9FdTmxsAaZ2mM) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 4:08 | 2022-04-01 |  |
 | [crossing field](https://open.spotify.com/track/0zxgnfOWkAt0xA30KRoERq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [crossing field](https://open.spotify.com/album/30KYUjwlg4U8Rw3rM0GeFs) | 4:10 | 2022-10-27 | 2022-11-13 |
@@ -38,7 +39,9 @@
 | [Disorder](https://open.spotify.com/track/4uOGiGwI26L2jrJ1x2wsMh) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:04 | 2022-04-01 | 2023-02-03 |
 | [Disorder](https://open.spotify.com/track/099IISrQlAmu9XOofoIcBo) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:04 | 2022-12-27 | 2024-04-19 |
 | [Disorder](https://open.spotify.com/track/1wlo67jw5f53oT6DMR25t8) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 4:04 | 2022-04-01 |  |
+| [DNA](https://open.spotify.com/track/2xchIdP5rbxGHz5Sj04dO0) | [ピトフーイ \(CV:日笠陽子\)](https://open.spotify.com/artist/1SxtMjU6mRjs4W27cMqiQb) | [DNA](https://open.spotify.com/album/3Fla3OGMp5F81ddxPJxS4I) | 3:27 | 2024-07-12 |  |
 | [Face to You](https://open.spotify.com/track/6QVEprJRBQk68Hyz0mSEk4) | [桐ヶ谷直葉 \(CV:竹達彩奈\)](https://open.spotify.com/artist/0DiPC14URxNUmHHmQT6lJq) | [ソードアート･オンライン　キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:41 | 2022-04-01 |  |
+| [FIGHT](https://open.spotify.com/track/44cMbdg2g2TPNVYrbs6767) | [エヴァ \(CV:朝井彩加\)](https://open.spotify.com/artist/1AoxAD0XbM2gKaEnAAlPbN), [ソフィー \(CV:内山夕実\)](https://open.spotify.com/artist/3XdnAPToKvsJKfnEKVRnDZ), [ローザ \(CV:種﨑敦美\)](https://open.spotify.com/artist/1WAurTCeBjxK4Tv6N9Qpm1), [ターニャ \(CV:白石晴香\)](https://open.spotify.com/artist/5n5hdosVPPnEHw2T0HZnHg), [アンナ \(CV:M・A・O\)](https://open.spotify.com/artist/72JX39nGzVuG3ZJXC0cRWk), [トーマ \(CV:森永千才\)](https://open.spotify.com/artist/1i9ovA8vElfnwBPekgVBHZ) | [FIGHT](https://open.spotify.com/album/0jUtroeCOleomjobq1KaXp) | 3:20 | 2024-07-12 |  |
 | [forget\-me\-not](https://open.spotify.com/track/1a8E3i6gMViattBkWMTz9Z) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/0fbBoyXMoJziZZLPzFPAwn) | 4:26 | 2022-04-01 |  |
 | [forget\-me\-not](https://open.spotify.com/track/6DCOPYnwHSpJ0GCKaXdjn5) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 4:26 | 2022-04-01 | 2024-04-19 |
 | [good bye, again and again](https://open.spotify.com/track/3QUEUxPhOQcqRO4weYu2k6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:09 | 2022-04-01 |  |
@@ -57,6 +60,7 @@
 | [INNOCENCE](https://open.spotify.com/track/1mMvfxDcSe5dyAyTtFbaro) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU\(Deluxe Edition\)](https://open.spotify.com/album/4yL6YZt4wjBGTe9t5DoGPa) | 4:37 | 2022-10-27 | 2022-11-13 |
 | [Liberty Rosario](https://open.spotify.com/track/4nYZvUptJRLuIxR2pSW8ch) | [ユウキ \(CV:悠木 碧\)](https://open.spotify.com/artist/0V6S4VeIbYUXQdiMspk2uP) | [ソードアート・オンライン　キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:23 | 2022-04-01 |  |
 | [longing](https://open.spotify.com/track/0gayhpzGMu1hW3FIvM8tIf) | [ユナ \(CV:神田沙也加\)](https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A) | [劇場版 ソードアート・オンライン \-オーディナル・スケール\- Original Soundtrack](https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF) | 3:47 | 2022-04-01 |  |
+| [Lucky Girl](https://open.spotify.com/track/1LW1lBE6jU2q9vKff9Gbbe) | [レン \(CV:楠木ともり\)](https://open.spotify.com/artist/6bCnjbtGE5vO3Pyk6lUSay) | [Lucky Girl](https://open.spotify.com/album/3HA6ySLy8G52LYrBZ44Jrt) | 4:11 | 2024-07-12 |  |
 | [MAD BULLET”S”](https://open.spotify.com/track/4wyYy0nfXGMrxSNWCOsyP9) | [デスガン \(CV:保志総一朗\)](https://open.spotify.com/artist/0epzXjjbBmyEi2tsXZ3Dzw), [新川恭二 \(CV:花江夏樹\)](https://open.spotify.com/artist/0YOJZ9QtmNM6YScoC35f9X) | [ソードアート・オンライン　キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:18 | 2022-04-01 |  |
 | [Memorial Calibur](https://open.spotify.com/track/2bHfPiDaXYnoFJEw32TJst) | [リーファ \(CV:竹達彩奈\)](https://open.spotify.com/artist/2zLtkB9yoKORGSNXxxDFpl), [ユイ \(CV:伊藤かな恵\)](https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb), [シリカ \(CV:日高里菜\)](https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H), [リズベット \(CV:高垣彩陽\)](https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW) | [ソードアート・オンライン　キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:46 | 2022-04-01 |  |
 | [Memory Heart Message](https://open.spotify.com/track/14JIQY00fGjLW15dXYteUO) | [サチ \(CV:早見沙織\)](https://open.spotify.com/artist/2yB9uZuPikJpMWWBcf0FRe) | [ソードアート･オンライン　キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:18 | 2022-04-01 |  |
@@ -83,6 +87,7 @@
 | [Sleepless Legend](https://open.spotify.com/track/72PpHn9C9QVEu1wiguMtNO) | [スリーピングナイツ](https://open.spotify.com/artist/4g5F6ObLokctI1s1xEfH9B), [アスナ \(CV:戸松遥\)](https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq) | [ソードアート・オンライン　キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:01 | 2022-04-01 |  |
 | [smile for you](https://open.spotify.com/track/0dVfePUasoG0Op2MM7zm9r) | [ユナ \(CV:神田沙也加\)](https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A) | [劇場版 ソードアート・オンライン \-オーディナル・スケール\- Original Soundtrack](https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF) | 3:17 | 2022-04-01 |  |
 | [SOLITARY BULLET](https://open.spotify.com/track/0rmDxHbH8PzKiRXF5aBU1y) | [シノン \(CV:沢城みゆき\)](https://open.spotify.com/artist/5MK1DksbVa4ME5L6NENRt0) | [ソードアート・オンライン　キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 3:58 | 2022-04-01 |  |
+| [Special Amore](https://open.spotify.com/track/6YHeyCpKSYWR623xa2XuKE) | [ピトフーイ \(CV:日笠陽子\)](https://open.spotify.com/artist/1SxtMjU6mRjs4W27cMqiQb), [エム \(CV:興津和幸\)](https://open.spotify.com/artist/2bxlM2seGJZk7DWTcGHJNk) | [Special Amore](https://open.spotify.com/album/1pjmm1zopiuXkHalJeOnkU) | 3:12 | 2024-07-12 |  |
 | [Startear](https://open.spotify.com/track/3Z8TPULJZwq2N9KB8MfyjW) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [LUNA JOULE \(Extra Edition\)](https://open.spotify.com/album/2YQa2eGPuATUACbbTuKqRM) | 5:01 | 2022-10-27 | 2022-11-13 |
 | [Startear](https://open.spotify.com/track/38V08pHESW17gjuCPLyDrj) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 5:02 | 2022-04-01 | 2024-04-19 |
 | [Startear](https://open.spotify.com/track/6KUN3oEqWPrNg6XIMCpvYU) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/6heFX0ix9ceeoOYOszU7ha) | 5:02 | 2022-04-01 |  |
@@ -148,6 +153,7 @@
 | [虹の音](https://open.spotify.com/track/2T2P5sX4017qOkzbCCtI7u) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/6hAgWrckOj0IIXxWO0MCsf) | 4:51 | 2022-04-01 |  |
 | [虹の音](https://open.spotify.com/track/3NplXjK5BivkwrHxVOCSgW) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [虹の音](https://open.spotify.com/album/47fc2EpqcDqXo27UIBgnic) | 4:52 | 2022-10-27 | 2022-11-14 |
 | [逆境スペクトル](https://open.spotify.com/track/6xNxbelw9s7lEQDBBzqyCX) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [逆境スペクトル](https://open.spotify.com/album/0mE1VM8t550ELymqN22oqO) | 3:39 | 2022-04-01 |  |
+| [雨のち晴れ](https://open.spotify.com/track/0EOMEjKjyezceZQAQcU1Ge) | [小比類巻香蓮 \(CV:楠木ともり\)](https://open.spotify.com/artist/5o8cCu0PzLfnqTm33oifAP) | [雨のち晴れ](https://open.spotify.com/album/628zi0Olw949qPrSkkcPQJ) | 3:47 | 2024-07-12 |  |
 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 | 2024-01-04 |  |
 
 \*This playlist was first scraped on 2022-07-25. Prior content cannot be recovered.

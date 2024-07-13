@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Pretty Good",
+        "url": "https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu"
+      },
+      "artists": [
+        {
+          "name": "XiX",
+          "url": "https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Pretty Good",
+      "url": "https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX"
+    },
+    {
+      "album": {
         "name": "Rain Rain\u5730",
         "url": "https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS"
       },
@@ -2738,6 +2756,24 @@
       "duration_ms": 153900,
       "name": "\u53ec\u559a\u7d72",
       "url": "https://open.spotify.com/track/6LIDiHobyM8cop2efQJfb1"
+    },
+    {
+      "album": {
+        "name": "\u53ef\u611b\u7684\u6771\u897f",
+        "url": "https://open.spotify.com/album/5tDZuG6gTuxgo0MTVEFKka"
+      },
+      "artists": [
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "\u53ef\u611b\u7684\u6771\u897f",
+      "url": "https://open.spotify.com/track/4Cb0PkLEaQ4Gt5POqCodi8"
     },
     {
       "album": {

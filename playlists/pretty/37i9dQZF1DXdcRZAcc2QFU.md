@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,136 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,383 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 46 | [Kagaz Kalam Davaat](https://open.spotify.com/track/1AFhS5Nm9Pc96WoyTiUCaK) | [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k), [Shobha Joshi](https://open.spotify.com/artist/0arll9CtoKDxVRfMz1S1Sd), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Hum](https://open.spotify.com/album/5zmbuk1OJjZVE5sK3QQjHV) | 6:07 |
 | 47 | [Na Na Na Re](https://open.spotify.com/track/3TsZpvGaH6IgozHQXWabGq) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu) | [Mrityudaata](https://open.spotify.com/album/0d065Dd5BuDLODxicQ8OGt) | 5:46 |
 | 48 | [Aankh Mare](https://open.spotify.com/track/0mKnPbLPH6mIq15Mro4WEl) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Tere Mere Sapne](https://open.spotify.com/album/17DhJzfNLjmXwxkOkNvbbM) | 5:13 |
-| 49 | [Koi Mil Gaya](https://open.spotify.com/track/5L9fLNHSj5SuGvJRljdWJb) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:17 |
+| 49 | [Koi Mil Gaya](https://open.spotify.com/track/5L9fLNHSj5SuGvJRljdWJb) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:17 |
 | 50 | [O Baby Dont Break My Heart](https://open.spotify.com/track/49zy0fZWKn3PCV6hjRswi9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [K Krishnamoorthy](https://open.spotify.com/artist/4VoTmNZvS1ZGbbpVz8kled) | [Mohabbat](https://open.spotify.com/album/2bePSXcOvHsoqTo32Qf5tj) | 5:59 |
 
 Snapshot ID: `Zk3QMAAAAAAPbAog/bAUYlz0ePlon+pN`

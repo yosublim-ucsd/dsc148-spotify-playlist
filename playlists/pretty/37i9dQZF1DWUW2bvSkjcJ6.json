@@ -1,13 +1,33 @@
 {
-  "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. ",
-  "num_followers": 810423,
+  "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. Cover: Eminem",
+  "num_followers": 810772,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBV4AAAAAA+Lz23W7jyBDHsfQBARmGZ",
+  "snapshot_id": "ZpCqQAAAAAAMn76oQbEBnr2/QL/Uxp3v",
   "tracks": [
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+    },
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
@@ -607,6 +627,26 @@
       "duration_ms": 156512,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/5K4ihcq7sw3imhegdvz5gU"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY"
     },
     {
       "added_at": "2024-07-11 22:00:00",

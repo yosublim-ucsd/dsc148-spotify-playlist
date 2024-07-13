@@ -1391,6 +1391,28 @@
     },
     {
       "album": {
+        "name": "Fui Liberto",
+        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Gomes",
+          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
+        },
+        {
+          "name": "Gospel Beat Brasil",
+          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Fui Liberto",
+      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
+    },
+    {
+      "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
       },
@@ -2766,7 +2788,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195422,
       "name": "Sinal de Aviso",
       "url": "https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj"

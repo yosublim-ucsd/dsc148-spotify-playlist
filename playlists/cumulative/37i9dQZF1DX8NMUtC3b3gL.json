@@ -524,7 +524,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 158480,
       "name": "And Now I'm Just Nothing",
       "url": "https://open.spotify.com/track/1nOK8A0xzDIifD5M5b72ip"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 251425,
       "name": "Commes Des Garcon",
       "url": "https://open.spotify.com/track/4IXqR1jOqmBSXKhwkYyjL6"
@@ -2200,6 +2200,24 @@
       "duration_ms": 124109,
       "name": "cycle of life",
       "url": "https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/2itZuZzqQz9q1Lojz0a6bA"
+      },
+      "artists": [
+        {
+          "name": "Looper Boy",
+          "url": "https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dad's Typewriter Feels",
+      "url": "https://open.spotify.com/track/5HnINSPgOBtvkLvCdywObE"
     },
     {
       "album": {
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 200163,
       "name": "Earth",
       "url": "https://open.spotify.com/track/2xKwUsXg5xvFHZrTLdbgda"
@@ -4961,6 +4979,24 @@
     },
     {
       "album": {
+        "name": "lullabi / midnight",
+        "url": "https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS"
+      },
+      "artists": [
+        {
+          "name": "dozeoff",
+          "url": "https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "lullabi",
+      "url": "https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME"
+    },
+    {
+      "album": {
         "name": "Luton",
         "url": "https://open.spotify.com/album/1fujLmksUjwmJFZ7C7lCHq"
       },
@@ -6060,6 +6096,28 @@
       "duration_ms": 107200,
       "name": "our future",
       "url": "https://open.spotify.com/track/4WBdS3TlzAFYVKhpNqyDSy"
+    },
+    {
+      "album": {
+        "name": "over the top",
+        "url": "https://open.spotify.com/album/1m312mLbez0HBp08OAQGPP"
+      },
+      "artists": [
+        {
+          "name": "dennisivnvc",
+          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
+        },
+        {
+          "name": "Yasumu",
+          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123243,
+      "name": "over the top",
+      "url": "https://open.spotify.com/track/5X8RnBXb1m5FSVxoL3YjTL"
     },
     {
       "album": {
@@ -8998,7 +9056,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 141818,
       "name": "The way we were",
       "url": "https://open.spotify.com/track/4ckBQMfbF0MzwP2XWboKvv"
@@ -9704,6 +9762,24 @@
       "duration_ms": 131047,
       "name": "washed ashore",
       "url": "https://open.spotify.com/track/12NFF6F8Z4hFtxDaBUbU5x"
+    },
+    {
+      "album": {
+        "name": "Wave Rider",
+        "url": "https://open.spotify.com/album/4cpW5HSenjzhjWkuhSxNyr"
+      },
+      "artists": [
+        {
+          "name": "le gronk",
+          "url": "https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Wave Rider",
+      "url": "https://open.spotify.com/track/6m9hDC3uksXTzu8SPHDAnv"
     },
     {
       "album": {

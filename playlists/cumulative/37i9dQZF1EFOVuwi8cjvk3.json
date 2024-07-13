@@ -3075,6 +3075,28 @@
     },
     {
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270546,
+      "name": "Never Call Me",
+      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
+    },
+    {
+      "album": {
         "name": "Under Pressure (Deluxe)",
         "url": "https://open.spotify.com/album/1Mk7Lei0Ra3hawezqmad5V"
       },
@@ -3260,6 +3282,24 @@
       "duration_ms": 210795,
       "name": "Over Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475826,
+      "name": "Perfect Circle / God Speed",
+      "url": "https://open.spotify.com/track/4TlN2LSHn3DzauUe77l0ib"
     },
     {
       "album": {

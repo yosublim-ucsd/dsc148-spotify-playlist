@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Anggi Marito, Andi Rianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,358 likes - 73 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,469 likes - 73 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 55 | [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 |
 | 56 | [Orang Yang Berbeda](https://open.spotify.com/track/5ckkWPG0Y9kgyGKW5kCGWN) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Orang Yang Berbeda](https://open.spotify.com/album/0BSRjafG6lC4yF8LGEos4v) | 4:40 |
 | 57 | [Aku Rindu](https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Aku Rindu](https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5) | 4:08 |
-| 58 | [Kita Berdua](https://open.spotify.com/track/4OUZbGDyDScMWYq4BXKPn6) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Aaliyah Massaid](https://open.spotify.com/artist/6gSGaTsik09nJP5sfJPel1), [Thariq Halilintar](https://open.spotify.com/artist/4ubpHqnMW4I64xlxRuDqtm) | [Kita Berdua](https://open.spotify.com/album/7iZYwqU5VAbPsLlcgehD5p) | 2:58 |
+| 58 | [Kita Berdua](https://open.spotify.com/track/4OUZbGDyDScMWYq4BXKPn6) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Aaliyah Massaid](https://open.spotify.com/artist/6gSGaTsik09nJP5sfJPel1), [Thariq Halilintar](https://open.spotify.com/artist/6mVRwfoDsFDcMAorzd05Ch) | [Kita Berdua](https://open.spotify.com/album/7iZYwqU5VAbPsLlcgehD5p) | 2:58 |
 | 59 | [Sampai Mati Kan Ku Kejar](https://open.spotify.com/track/4TveE7nbH7XNSdlQEo123z) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 3:55 |
 | 60 | [⁠Aku Tahu \- Studio Session](https://open.spotify.com/track/5LvEhndTgqBI0o6YrIGA2q) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Waktu Yang Dinanti 4.0 \- Studio Session](https://open.spotify.com/album/2NTmVAJfa9c4VxHYxp2Yks) | 4:07 |
 | 61 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 |

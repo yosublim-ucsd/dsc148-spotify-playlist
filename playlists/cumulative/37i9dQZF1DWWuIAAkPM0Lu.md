@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:03IbEiokQjTDfvdyIYV5D4">ida laurberg</a> x <a href="spotify:artist:5FwWkrkqRy9Qmny3vqxYUe">Tina Dickow</a> 💘
 
-1,194 songs - 2 day 12 hr 40 min
+1,196 songs - 2 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-05-30 | 2024-06-07 |
 | [My Favorite Moment](https://open.spotify.com/track/52CN0PBmuhy3TsbrRFwNy9) | [The William Blakes](https://open.spotify.com/artist/4IQvmf2jENQNGAdtIZBfSy) | [My Favorite Moment](https://open.spotify.com/album/7aicLNyhtiY6FFkWxsTVYm) | 3:38 | 2024-06-13 | 2024-06-21 |
 | [My Monsieur](https://open.spotify.com/track/6JbtzdUXE6JPDrUzvnvPWd) | [Yo Johnny](https://open.spotify.com/artist/25ohYOZfH653j5l7JinIMf), [Ravi Kuma](https://open.spotify.com/artist/2rmq8jyOQONkcsrcgPG93K) | [My Monsieur](https://open.spotify.com/album/5ncuxG1gQnjzmSXDEFJFpL) | 2:41 | 2024-06-20 | 2024-06-28 |
+| [My Oh My \- with Bebe Rexha & Tove Lo](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-12 |  |
 | [my own war](https://open.spotify.com/track/6oKiR3Tgo4wq7YvQwo6vb3) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [my own war](https://open.spotify.com/album/1dbYskjA98RmaAuu43oIrw) | 3:02 | 2024-07-04 | 2024-07-12 |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-02 | 2024-05-10 |
 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 | 2024-07-04 | 2024-07-12 |
@@ -1035,6 +1036,7 @@
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 | 2024-06-06 | 2024-06-14 |
 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 | 2024-04-26 | 2024-05-03 |
 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 | 2024-05-02 | 2024-05-10 |
+| [thank god](https://open.spotify.com/track/2SUrx1x8BqAe4ASqIoiNY1) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye](https://open.spotify.com/album/4iEl6x2j3jrUDq0fbhOd6i) | 3:26 | 2024-07-11 |  |
 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-05-30 | 2024-06-07 |
 | [The Attraction](https://open.spotify.com/track/1iWrl4TzpSuZSfKYASgZda) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [La Comitiva](https://open.spotify.com/album/6l187RCxp0fG5k0hdXxVOQ) | 5:24 | 2024-05-16 | 2024-05-24 |
 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 | 2024-05-16 | 2024-05-24 |

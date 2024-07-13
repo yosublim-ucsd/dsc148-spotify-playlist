@@ -4,7 +4,7 @@
 
 > Endelig fredag! 🎵
 
-1,248 songs - 2 day 15 hr 28 min
+1,250 songs - 2 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,6 +809,7 @@
 | [No No](https://open.spotify.com/track/3WAk3eOkAkABauRJhcdMQm) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [No No](https://open.spotify.com/album/2OJcp2ilgDPBsAHBpqSOvD) | 2:10 | 2024-07-04 | 2024-07-12 |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-02 | 2024-05-10 |
 | [No Promises](https://open.spotify.com/track/4TuH1lerJpmraZkEJcf9zJ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [No Promises](https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP) | 2:36 | 2024-06-06 | 2024-06-14 |
+| [No Question](https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [No Question](https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO) | 2:22 | 2024-07-11 |  |
 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 | 2024-05-09 | 2024-05-17 |
 | [No Trouble](https://open.spotify.com/track/7K9z5RVlGfg019paRe8DRf) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [No Trouble](https://open.spotify.com/album/7Ifm5aaIXdetaSmyWwns7N) | 3:07 | 2024-05-16 | 2024-05-24 |
 | [No Words](https://open.spotify.com/track/7lKPLyG38t8qazopv9noLw) | [Akuvi](https://open.spotify.com/artist/41VbuWKdlHSsk8By8pA68h) | [No Words](https://open.spotify.com/album/7mKemHa1KIyokYnBEmkJqk) | 3:12 | 2024-06-20 | 2024-06-28 |
@@ -976,6 +977,7 @@
 | [som hun er alene](https://open.spotify.com/track/3FSKJQ7rgx3IfRlVgVMvSr) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB) | [som hun er alene](https://open.spotify.com/album/4U7XQsojVF3OTfqNuUvgBr) | 1:55 | 2024-06-27 | 2024-07-05 |
 | [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 | 2024-05-31 | 2024-06-07 |
 | [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-05-09 | 2024-05-17 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [something bout april](https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [something bout april](https://open.spotify.com/album/7rvEikbxxiQLByajEQcKB8) | 2:54 | 2024-07-11 |  |
 | [Sommer i Norge](https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Sommer i Norge](https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh) | 2:49 | 2024-06-20 | 2024-06-28 |
 | [Sommer med DJ Walkie](https://open.spotify.com/track/1VZvlIIbyEzEKdngdt6YZQ) | [DJ Walkie](https://open.spotify.com/artist/0HxiomDT8rdZ3j5iSOpHHl) | [Sommer med DJ Walkie](https://open.spotify.com/album/4009IE7sziXE38JO8dPBoa) | 1:55 | 2024-07-11 |  |

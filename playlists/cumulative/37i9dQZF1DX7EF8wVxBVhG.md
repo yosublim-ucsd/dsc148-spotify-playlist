@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-305 songs - 15 hr 31 min
+310 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Binaural Sines 7hz Alpha \- 58hz \- 65hz](https://open.spotify.com/track/2DbwsaYDvznsSkh4c5XgmI) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Assembly of Sines](https://open.spotify.com/album/4BrlUJIq4Bb0ZoOQcvpIcy) | 2:40 | 2022-08-12 |  |
 | [Binaural Vibe Alpha Sinus 64\-74 Hz](https://open.spotify.com/track/3QjHNYEzGUDfMOHqjnPJJA) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:26 | 2022-08-22 |  |
 | [Birds Touch \- Gamma](https://open.spotify.com/track/19TGWSV1jpgTRxb6N37BdA) | [Meditative Souls](https://open.spotify.com/artist/6nyLL1OEFX7G7DUL3Wiyul) | [Birds Touch \- Gamma](https://open.spotify.com/album/0wFeuyeCcAOFVZrcPNmbUw) | 1:41 | 2021-02-03 | 2021-12-09 |
+| [Blank Caves Gamma 49\-80hz](https://open.spotify.com/track/75l8dDBK9BVNrJF7sH8m0U) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Blank Caves Gamma 49\-80hz](https://open.spotify.com/album/5oPu9eYDXAj0yXBxQjCsYq) | 3:00 | 2024-07-12 |  |
 | [Breathe \(Alpha 10 Hz\)](https://open.spotify.com/track/1yPHyeOZIcFCsY4xPKYwge) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [Breathe](https://open.spotify.com/album/4dvLP2NgD04TxQmE5yhBzY) | 2:40 | 2021-08-05 | 2022-05-06 |
 | [Bridge Alpha Sinus \- 147 hz \- 148 hz](https://open.spotify.com/track/1ml9cNlcbmwytBtl0eEadf) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Sinus Moments](https://open.spotify.com/album/7HbRDOMi06vfQgudWIeIIK) | 3:29 | 2021-08-05 |  |
 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 | 2019-05-26\* | 2021-01-12 |
@@ -247,10 +248,12 @@
 | [Healing Alpha Sinus 106Hz \- 113Hz](https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp) | [AEX8](https://open.spotify.com/artist/6YKzzuOtORw4h0XGtkQQGb) | [Sound Bath](https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw) | 3:38 | 2021-04-22 |  |
 | [Higher Thoughts Gamma 89\-120hz](https://open.spotify.com/track/6xhbriK10FiqnHV7YeISgP) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Higher Thoughts Gamma](https://open.spotify.com/album/2UIfUohcmVxckCLD2BMLry) | 2:41 | 2023-10-20 |  |
 | [Hillsmiota \(Binaural Alpha 73.6 Hz \- 81 Hz\)](https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Hillsmiota](https://open.spotify.com/album/2fKzE71lVCPhSi7h9tnk6i) | 2:50 | 2022-07-11 |  |
+| [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/track/13GX6c6q7LpqgZTrFMvwWp) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Improving Memory \(Gamma 46Hz \- 92.8Hz\)](https://open.spotify.com/album/3xRYNlsOMZf44sEm96SBqT) | 2:30 | 2024-07-12 |  |
 | [In The Zone Alpha Sinus 73Hz \- 81Hz](https://open.spotify.com/track/3FZYjhe4gkudKW3IWmsCtm) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:11 | 2021-09-02 |  |
 | [Intuition \(Alpha Waves\)](https://open.spotify.com/track/0iFgGETi7Pk5dVxWhR05BJ) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Your Soul Knows](https://open.spotify.com/album/0y2XYw9JVyuSGmbOPhjXvt) | 2:55 | 2021-05-06 |  |
 | [Limbo](https://open.spotify.com/track/5VPo4IXOerHSXbxfq1w4wL) | [The Monotone Droner](https://open.spotify.com/artist/4vUxpIpa1nlrpDaowdVqiQ) | [Meditation Binaural](https://open.spotify.com/album/1CcKoxeTXPm5DQDLWI3Dy1) | 3:24 | 2019-05-26\* | 2021-04-10 |
 | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/track/5XtTRBtppSEe2x08SonoLd) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/album/4nCsTi83xWcKZr24TQGgzY) | 3:08 | 2024-06-11 |  |
+| [Making Space Gamma \(88\-175hz\)](https://open.spotify.com/track/7rXFpSRmK5qAdnC2GvOyJv) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Making Space Gamma](https://open.spotify.com/album/36jKqyv35HYdSCSMExpvai) | 2:48 | 2024-07-12 |  |
 | [Mantra \- Alpha Waves](https://open.spotify.com/track/0L891QoEP3x5kztTjg0HNk) | [Theta Time](https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw) | [Mantra \- Alpha Waves](https://open.spotify.com/album/4EuwdUfvqzgfPEoh2OKvja) | 3:25 | 2021-02-03 |  |
 | [Meditative Alpha \(L\-116Hz R\-125Hz\)](https://open.spotify.com/track/7gI5bxKKzvPPpL8qxrlPd6) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 5:03 | 2021-02-10 | 2021-08-18 |
 | [Meditative Beta \(L\-92.5Hz R\-112.5Hz\)](https://open.spotify.com/track/5PAaFKTE805BoyJpey6OJK) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 4:17 | 2021-02-10 | 2021-10-28 |
@@ -290,6 +293,7 @@
 | [Solutions \(Gamma Waves\)](https://open.spotify.com/track/1vgFYFKf5GYUmHtT1mdvNv) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2020-03-12 |  |
 | [Sommernacht \- Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/6um6WVJVLw43yxPNtUlsPJ) | [Twinbeet](https://open.spotify.com/artist/5TgC13fERuYwNvHbRSfVGp) | [Morning Binaural](https://open.spotify.com/album/2G0j9ck7PCysNMufYHWCbn) | 2:20 | 2021-05-06 |  |
 | [Sonnenaufgang \- Alpha Sinus 85Hz \- 92Hz](https://open.spotify.com/track/0GQGtKd9Zx6NHeR3QY1aPI) | [Blue Triangles](https://open.spotify.com/artist/6brKlPbQVltmtC6MCvfXFK) | [Stille Binaural](https://open.spotify.com/album/34DwcLP6FYLKDbpK0RoN8Y) | 2:22 | 2021-04-10 |  |
+| [Spectral Awareness Gamma 87\-175hz](https://open.spotify.com/track/7GVgwmW1LBXGgkb6hOI9ui) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Spectral Awareness Gamma](https://open.spotify.com/album/7J5qICj2vPvkeRIvYCB3f3) | 2:48 | 2024-07-12 |  |
 | [Sphere of Alpha 10 Hz](https://open.spotify.com/track/2lEDf4AwwqaVYpTftIqcBZ) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 2:39 | 2021-12-22 |  |
 | [Sternschnuppen \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/2EkF4GWkfGmZpoQRI4qgi2) | [Jovian Tides](https://open.spotify.com/artist/4uLQlhaWlgG45om0nfCN5u) | [Mind States](https://open.spotify.com/album/2vHTWqcUcGUs9vxzlFXc7c) | 4:29 | 2021-03-25 |  |
 | [Stille \- Alpha Sinus 134Hz \- 141Hz](https://open.spotify.com/track/3ocQGhNuWunmbDK1IYzVBD) | [Blue Triangles](https://open.spotify.com/artist/6brKlPbQVltmtC6MCvfXFK) | [Stille Binaural](https://open.spotify.com/album/34DwcLP6FYLKDbpK0RoN8Y) | 4:06 | 2021-04-10 |  |
@@ -312,6 +316,7 @@
 | [Waves Of Sine \- Simpler Times Alpha \(62\-75hz\)](https://open.spotify.com/track/00htOkdyp9txxUKoxvx8Wt) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Simpler Times Alpha](https://open.spotify.com/album/2No9DsFaMzTQ26DkJuV2p2) | 2:54 | 2024-06-11 |  |
 | [Winds \(Beta 65.9Hz \-93.3Hz\)](https://open.spotify.com/track/1MAM7gliyzT5W5ln6Qgml4) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Winds \(Beta 65.9Hz \-93.3Hz\)](https://open.spotify.com/album/6RcNZu9rkYu43JOaIDXGFY) | 4:21 | 2022-02-16 | 2022-03-19 |
 | [Wunder \- Alpha Sinus 91Hz \- 101Hz](https://open.spotify.com/track/1F2cWZlGbtQqV0TY43Coyz) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Soaking in Binaural](https://open.spotify.com/album/3msRxAwJuC451ZywXpNW2L) | 2:54 | 2021-09-02 |  |
+| [Yearning Longing Gamma 117\-271hz](https://open.spotify.com/track/6nsze4vV7uk4RucmRwZjgh) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Yearning Longing Gamma 117\-271hz](https://open.spotify.com/album/6XeruOTIpZOdvbJ8YAgK9G) | 3:00 | 2024-07-12 |  |
 | [Zeit ist Gold \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/0pcQFGXlymeolv47TfIzn7) | [Hidden in Sound](https://open.spotify.com/artist/0AYaSjd2bSpMrGJfpLSqMU) | [Alpha Waves for Meditation](https://open.spotify.com/album/4jdJoSIgybWJYhITu6FbiY) | 3:20 | 2021-06-04 |  |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

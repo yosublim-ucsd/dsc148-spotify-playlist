@@ -4,7 +4,7 @@
 
 > New Music from Rema, Ice Spice, Tay Iwar and more
 
-334 songs - 16 hr 13 min
+335 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 | 2024-06-21 | 2024-06-28 |
 | [Payday](https://open.spotify.com/track/6aOkoOXWcltgTPuT3s420d) | [Dami Drizzy](https://open.spotify.com/artist/2bn1VtEgnNAF8B4TdyAbjQ) | [Dami Drizzy](https://open.spotify.com/album/59yYbu2ugAw7hIURHWI0wK) | 2:40 | 2024-06-28 | 2024-07-05 |
 | [PICK A TITLE](https://open.spotify.com/track/51nqMbgpQxTFU2vU3OWxqn) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [PICK A TITLE](https://open.spotify.com/album/3bgoL4wyl2TE76pCisFWIN) | 3:22 | 2024-07-05 | 2024-07-12 |
+| [Playa \(feat\. Skilla Baby\)](https://open.spotify.com/track/3pEOBaJeDXyN5PpGXxeDx9) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:14 | 2024-07-12 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 | 2024-06-14 |
 | [Potion](https://open.spotify.com/track/59clTGLCAuuuvjgopOAyZG) | [Txby](https://open.spotify.com/artist/0gHlO5VwVKWZ1jG3QMSiRc) | [Potion](https://open.spotify.com/album/0H7OQZq7JyGmWIIgPif9pi) | 2:52 | 2024-06-28 | 2024-07-05 |
 | [Pound Town](https://open.spotify.com/track/0umUgjF2OEX7aFYI50MRy6) | [LOVESID](https://open.spotify.com/artist/1JsAc2kXBxZjHdWm4015ju) | [Pound Town](https://open.spotify.com/album/3okN9wgAklLGfzTrNdEfio) | 1:58 | 2024-06-14 | 2024-06-21 |

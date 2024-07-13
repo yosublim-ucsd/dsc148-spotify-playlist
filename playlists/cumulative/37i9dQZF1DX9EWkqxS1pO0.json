@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 174000,
       "name": "Duy Sesimi",
       "url": "https://open.spotify.com/track/104YH2h7OtypkVgBAjcS6O"
@@ -1070,6 +1070,24 @@
       "duration_ms": 234887,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N"
+    },
+    {
+      "album": {
+        "name": "Sosyopat G\u00fcl\u00fcmseme",
+        "url": "https://open.spotify.com/album/6UZji7bUoCv3137UqlD7cY"
+      },
+      "artists": [
+        {
+          "name": "Sla",
+          "url": "https://open.spotify.com/artist/24STYbqPydEIyXy8ys6VWB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161525,
+      "name": "Sosyopat G\u00fcl\u00fcmseme",
+      "url": "https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS"
     },
     {
       "album": {

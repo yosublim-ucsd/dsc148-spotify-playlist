@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Chromalight",
+        "url": "https://open.spotify.com/album/2CveRTXmjHuKWbuMv4ECbV"
+      },
+      "artists": [
+        {
+          "name": "STS9",
+          "url": "https://open.spotify.com/artist/1eZ4td9oadjw7GkW0LzxNK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336874,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/5Wn6rxedCveheZWPkrGENi"
+    },
+    {
+      "album": {
         "name": "Hell Yeah Everyday (Live from The Compound Long Beach)",
         "url": "https://open.spotify.com/album/18E8ovQ9opDnN1wqBIDG8N"
       },
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 334322,
       "name": "How Do I Come Down",
       "url": "https://open.spotify.com/track/4tKPAW11lGdkfPZLpvbgxI"
@@ -1539,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "How to Dream in Color",
+        "url": "https://open.spotify.com/album/3mAcc0urYeQn27UJsAQVN9"
+      },
+      "artists": [
+        {
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511353,
+      "name": "In the Shadow of the Mountain",
+      "url": "https://open.spotify.com/track/1IT6PwgBR7nkE9oL9CAqqy"
+    },
+    {
+      "album": {
         "name": "The Arcade",
         "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
       },
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 308798,
       "name": "Joyfell",
       "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
@@ -2287,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "New Sol",
+        "url": "https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE"
+      },
+      "artists": [
+        {
+          "name": "Dangermuffin",
+          "url": "https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260178,
+      "name": "New Sol",
+      "url": "https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV"
+    },
+    {
+      "album": {
         "name": "Not Just a Word",
         "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
       },
@@ -2424,7 +2478,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 339120,
       "name": "Opelika Yella",
       "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"

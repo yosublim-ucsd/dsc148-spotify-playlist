@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Judith Hill
 
-303 songs - 17 hr 55 min
+304 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/track/6jjI3nWijwLRr2PTabrxRu) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/album/03d3mtpRJpkT6Nh4YIjFGM) | 4:17 | 2022-12-16 | 2024-04-19 |
 | [Bad to the Bone \- Extended Version](https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU) | 4:17 | 2022-12-16 |  |
 | [Barnyard Blues](https://open.spotify.com/track/3lyfFHxjdqYc5V5JvdyYbr) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e) | 3:38 | 2022-07-15 | 2024-04-19 |
-| [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 | 2022-07-15 |  |
+| [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 | 2022-07-15 | 2024-07-13 |
 | [Be The Love You Want](https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:16 | 2021-08-30 | 2022-06-19 |
 | [Bees Making Honey](https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bees Making Honey](https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4) | 2:49 | 2022-08-26 | 2023-05-13 |
 | [Believer](https://open.spotify.com/track/24xBL7ddkkVxbaWmkdYF0w) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Believer](https://open.spotify.com/album/2xpbE9vaLpfQLryVl39SPz) | 3:02 | 2024-06-28 |  |
@@ -117,7 +117,7 @@
 | [Hole in my Pocket](https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Hole in my Pocket](https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4) | 4:18 | 2023-02-13 | 2024-06-01 |
 | [Horizons](https://open.spotify.com/track/11QOYYPPQoYKAlOYDs6Foy) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/48xIyVPW1JMDszgWRvA7YP) | 2:37 | 2021-03-26 | 2022-03-26 |
 | [Howl For Me Daddy](https://open.spotify.com/track/3Gze7X3OVJ0Ulgea8n6Zqo) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 2:25 | 2021-02-05 | 2022-03-26 |
-| [I Feel The Love](https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [I Feel The Love](https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS) | 2:59 | 2023-02-17 |  |
+| [I Feel The Love](https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [I Feel The Love](https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS) | 2:59 | 2023-02-17 | 2024-07-13 |
 | [I Never Like It When You Leave](https://open.spotify.com/track/2Kp5p8jiWH42gJVv4cHNBZ) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [I Never Like It When You Leave](https://open.spotify.com/album/0Q84Iiq3eoEpJ1DedX64x9) | 3:14 | 2021-02-05 | 2022-03-26 |
 | [I want it all](https://open.spotify.com/track/5tr9wAeWpd5IXH15PZuIPW) | [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Rick Jansen](https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz) | [I want it all](https://open.spotify.com/album/6HQIBMSqvLJ65qcCR1PD4T) | 2:47 | 2024-04-12 |  |
 | [I'll Be Glad](https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [I'll Be Glad](https://open.spotify.com/album/3R5MPBDv5WTid04LeVj2l6) | 4:58 | 2022-08-26 |  |
@@ -217,6 +217,7 @@
 | [She Ought to Be King](https://open.spotify.com/track/44xJuf6ZyXmKZzACJqFBof) | [Lisa Morales](https://open.spotify.com/artist/22HF78UQSmSTNtv4bsfUAI) | [She Ought To Be King](https://open.spotify.com/album/46E1sMAkyBRoKmFOEoyNKq) | 5:34 | 2022-08-26 |  |
 | [She's So Cold](https://open.spotify.com/track/5j9JLxnym3t87UZbgU4EwE) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 2:21 | 2023-04-24 |  |
 | [Shooting Star](https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [Everybody Knows My Name](https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy) | 2:48 | 2022-01-21 | 2023-08-26 |
+| [Short Change Hero \- Edit](https://open.spotify.com/track/1IyCXqedk72kIPyCf7sNPh) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Short Change Hero \(Edit\)](https://open.spotify.com/album/4DJ1fx8Z1sAFZzOM3zqZaI) | 2:07 | 2024-07-12 |  |
 | [Shout Into The Noise](https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/4JN56UyhqvwmD9fQJuJlPo) | 3:13 | 2022-01-21 | 2022-02-19 |
 | [Show Me The Green](https://open.spotify.com/track/1YzIXYmTLbjGtG3AEuJlRP) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG), [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Show Me The Green](https://open.spotify.com/album/2lSS8XMdwd7iFICtoYbDkW) | 3:10 | 2024-07-05 |  |
 | [Sit Down Baby](https://open.spotify.com/track/7HNSPiFPpO1Z05Jrrs39be) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Sit Down Baby](https://open.spotify.com/album/7GEM0fdAOYfOUMMF3BYB6M) | 2:53 | 2021-02-05 | 2022-03-26 |

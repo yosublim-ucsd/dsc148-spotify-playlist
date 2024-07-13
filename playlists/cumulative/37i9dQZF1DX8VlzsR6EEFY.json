@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "1000 Likes",
+        "url": "https://open.spotify.com/album/6S8g23XxOQLajHmbBVQdsg"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "1000 Likes",
+      "url": "https://open.spotify.com/track/6ruJHKRxWqc60fBkMIDt8W"
+    },
+    {
+      "album": {
         "name": "2 Pa 2",
         "url": "https://open.spotify.com/album/0LKAvwu5l8qjdnpOYJis1s"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165354,
       "name": "2 Pa 2",
       "url": "https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs"
@@ -493,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Cach\u00edn",
+        "url": "https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "Cach\u00edn",
+      "url": "https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl"
+    },
+    {
+      "album": {
         "name": "Camaron Pelao",
         "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
       },
@@ -624,7 +664,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 142226,
       "name": "Coquetas",
       "url": "https://open.spotify.com/track/4x7k8YgC6Co2RQRiRMD8YK"
@@ -813,6 +853,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jenlos Pasar",
+        "url": "https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124292,
+      "name": "D\u00e9jenlos Pasar",
+      "url": "https://open.spotify.com/track/0qsvu01LWI7F2MIVA0kjQm"
+    },
+    {
+      "album": {
         "name": "El Buen Muchacho",
         "url": "https://open.spotify.com/album/5nH9AMjadh3KB9QLjuwYXD"
       },
@@ -832,6 +894,24 @@
       "duration_ms": 204750,
       "name": "El Buen Muchacho",
       "url": "https://open.spotify.com/track/22Ebj9oRLnHmbweoh5JlT8"
+    },
+    {
+      "album": {
+        "name": "El Da\u00f1o Te Lo Haces T\u00fa",
+        "url": "https://open.spotify.com/album/66iU8iv5fcWK7lT6iOcmJM"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "El Da\u00f1o Te Lo Haces T\u00fa",
+      "url": "https://open.spotify.com/track/4OXRlvyjkSkRgcnnTzmhUf"
     },
     {
       "album": {
@@ -1075,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Imaginaci\u00f3n",
+        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "Imaginaci\u00f3n",
+      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
+    },
+    {
+      "album": {
         "name": "Los Temas de Mis Pel\u00edculas",
         "url": "https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq"
       },
@@ -1086,7 +1184,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 169026,
       "name": "Imposible Olvidarte",
       "url": "https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr"
@@ -1272,6 +1370,24 @@
       "duration_ms": 184165,
       "name": "La Guerita",
       "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
+    },
+    {
+      "album": {
+        "name": "La Mejor Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/4g1hC9fKiZImPBiW04J44C"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "La Mejor Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/1o8tDip84CWVKXmZUYtHOh"
     },
     {
       "album": {
@@ -1784,7 +1900,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168360,
       "name": "MERCEDES (feat. Oscar Maydon)",
       "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
@@ -2440,7 +2556,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156253,
       "name": "Sin Restricciones",
       "url": "https://open.spotify.com/track/55dxdLpehKWzWsxPwLkoBk"
@@ -3128,7 +3244,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181611,
       "name": "Yo Ya Sabia Pa Donde Iba",
       "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"

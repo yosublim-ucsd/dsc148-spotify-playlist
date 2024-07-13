@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,939 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,040 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 96 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 |
 | 97 | [Better With You](https://open.spotify.com/track/4g5SL9yCXRzAFyeTsI7kEu) | [Jaycee](https://open.spotify.com/artist/4WdCJv1slB2FtXiCbBz9tZ) | [Better With You](https://open.spotify.com/album/5DX7E2aoZ3AC1qUGv6ePaN) | 3:05 |
 | 98 | [Get With You Tonight](https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Get With You Tonight](https://open.spotify.com/album/6Oo7dbPYNo8qTQfd9iE7AT) | 3:44 |
-| 99 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 |
-| 100 | [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 |
-| 101 | [Passion \- Fred Falke Remix](https://open.spotify.com/track/4HAc0WfZuD55cCalXxcvdB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(Fred Falke Remix\)](https://open.spotify.com/album/0rjoJ1jxcuH9oj3VxKf0R9) | 3:53 |
+| 99 | [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 |
+| 100 | [Passion \- Fred Falke Remix](https://open.spotify.com/track/4HAc0WfZuD55cCalXxcvdB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(Fred Falke Remix\)](https://open.spotify.com/album/0rjoJ1jxcuH9oj3VxKf0R9) | 3:53 |
 
-Snapshot ID: `ZowrLAAAAACD0Qej3aoBn3rNroVp+w0I`
+Snapshot ID: `ZpCqQAAAAADItukF8OPQ1bITvTSVbLhv`

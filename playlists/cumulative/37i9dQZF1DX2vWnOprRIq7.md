@@ -2,9 +2,9 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado electrónico del indie latino, featuring Alex Anwandter.
+> El lado electrónico del indie latino, featuring Bob Crous & Andry Bett.
 
-256 songs - 15 hr 36 min
+257 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [ACUARIO](https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [ACUARIO](https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr) | 4:32 | 2023-07-14 |  |
 | [Affaire de Colección \- Remix](https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Cherry Blossom Season](https://open.spotify.com/artist/2aPmfWsTvrWOsVPFlCDwX7) | [Affaire](https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt) | 3:36 | 2023-04-21 | 2023-11-12 |
 | [Alaska](https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb), [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [Matanza](https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3) | 4:09 | 2023-09-08 |  |
+| [Algo Nuevo](https://open.spotify.com/track/5inx7jLc2w5ypAEp2zir2L) | [Bob Crous](https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE), [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [pain’t](https://open.spotify.com/album/0oJ81Hld66457CqXHkyw7b) | 3:46 | 2024-07-12 |  |
 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-03-17 | 2023-07-09 |
 | [AMANECER \(Remix\)](https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E), [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [LOGO](https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K) | 3:45 | 2024-04-12 |  |
 | [Amor \- Remix](https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF) | [Kush Mama](https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ) | [Amor \(Remix\)](https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd) | 5:06 | 2024-03-08 |  |
@@ -37,7 +38,7 @@
 | [Ave](https://open.spotify.com/track/6nzvFncXdAOLTAwGIPcq3Y) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn) | [Ave](https://open.spotify.com/album/3kbP8SZyPKeG1hu6yqDyGF) | 4:06 | 2023-07-14 | 2023-07-17 |
 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 | 2023-03-17 | 2023-10-07 |
 | [Azar](https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0) | [Encandilante divino](https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH) | 2:43 | 2023-08-11 |  |
-| [Bailarina \- Pyura Remix](https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Bailarina \(Pyura Remix\)](https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3) | 5:16 | 2024-06-07 |  |
+| [Bailarina \- Pyura Remix](https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Bailarina \(Pyura Remix\)](https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3) | 5:16 | 2024-06-07 | 2024-07-13 |
 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 | 2023-07-28 | 2023-10-07 |
 | [Bajo la piel](https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Bajo la piel](https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM) | 4:00 | 2023-07-21 |  |
 | [BERLIN](https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [BERLIN](https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su) | 4:17 | 2023-11-10 |  |

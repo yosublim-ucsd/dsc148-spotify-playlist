@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-472 songs - 23 hr 4 min
+473 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Inside Out](https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Inside Out](https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH) | 2:40 | 2022-04-01 | 2023-06-10 |
 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 | 2022-11-29 |  |
 | [IQ Doesn't Matter](https://open.spotify.com/track/1hvAkRZP9V3tGipGa5TWvc) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [IQ Doesn't Matter](https://open.spotify.com/album/47Mks62R6OaDfQWPt55fbp) | 2:27 | 2021-10-29 | 2022-03-21 |
+| [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-07-12 |  |
 | [It Doesn't Matter](https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [It Doesn't Matter](https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg) | 2:24 | 2023-03-03 | 2023-04-04 |
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-26 | 2024-02-22 |
 | [Joi](https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Joi](https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT) | 3:36 | 2021-10-29 | 2022-12-17 |
@@ -300,7 +301,7 @@
 | [New Transition](https://open.spotify.com/track/44r1pQrd6IshgUFKGE1YrJ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [New Transition](https://open.spotify.com/album/5EixwwR5Qh4COnnrfIME3i) | 2:49 | 2022-04-01 | 2022-07-23 |
 | [Night Rider](https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:35 | 2023-08-11 | 2023-11-30 |
 | [Night Rider](https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Night Rider](https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT) | 3:35 | 2023-05-12 | 2023-07-14 |
-| [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 | 2022-09-02 |  |
+| [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 | 2022-09-02 | 2024-07-13 |
 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 | 2022-11-11 |  |
 | [No Ass](https://open.spotify.com/track/7pmmkWdaBxJwYwmVwQeSYa) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [No Ass](https://open.spotify.com/album/2Bi5R2jfPGIRDBB3mSC82o) | 2:27 | 2021-10-29 | 2022-07-29 |
 | [No Diggity](https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj) | 3:38 | 2022-07-22 | 2023-12-16 |

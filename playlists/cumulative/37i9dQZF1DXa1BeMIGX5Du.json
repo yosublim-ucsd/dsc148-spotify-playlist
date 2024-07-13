@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Bookmark",
+        "url": "https://open.spotify.com/album/3S7FkhWnUvTHbgzHUhaLo9"
+      },
+      "artists": [
+        {
+          "name": "Ben Morgan",
+          "url": "https://open.spotify.com/artist/0BGZx1OzVJ5uwHK4Ke5mNr"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Bookmark",
+      "url": "https://open.spotify.com/track/68127p4Qjg1wk0Iuq3BSaD"
+    },
+    {
+      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -1821,6 +1839,28 @@
     },
     {
       "album": {
+        "name": "Fortnight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
+    },
+    {
+      "album": {
         "name": "freakshow",
         "url": "https://open.spotify.com/album/2D5TJv0rUZAnFTNtVEbKn4"
       },
@@ -2142,6 +2182,24 @@
       "duration_ms": 252454,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "album": {
+        "name": "The Rose Of Jericho",
+        "url": "https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu"
+      },
+      "artists": [
+        {
+          "name": "Georgia Lines",
+          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Grand Illusion",
+      "url": "https://open.spotify.com/track/4ungm58VUft86geFgszTa6"
     },
     {
       "album": {
@@ -2471,7 +2529,7 @@
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 184968,
+      "duration_ms": 184898,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm"
     },
@@ -3124,7 +3182,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 220266,
       "name": "Little Sadness",
       "url": "https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL"
@@ -4034,7 +4092,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 169059,
       "name": "Same Things",
       "url": "https://open.spotify.com/track/3x2yirfV6nasZqmQ67PD1y"
@@ -4110,6 +4168,24 @@
       "duration_ms": 182386,
       "name": "Shiva",
       "url": "https://open.spotify.com/track/42oPBjCm3xqOfevxJcjhdO"
+    },
+    {
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214808,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y"
     },
     {
       "album": {
@@ -4699,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/5Xk0fve5ECSNzYatXArftB"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197632,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy"
+    },
+    {
+      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI"
       },
@@ -4996,6 +5090,24 @@
       "duration_ms": 297720,
       "name": "The Sweet Sound of You",
       "url": "https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG"
+    },
+    {
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/1ThbqRQv0ltgxxI5Hsp7qm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221933,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/0kdBtdB2kw9088Wvmo5cbb"
     },
     {
       "album": {
@@ -5328,7 +5440,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj"
@@ -5704,7 +5816,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 243546,
       "name": "With Small We Start",
       "url": "https://open.spotify.com/track/4iQGuE9dpdo69dij5Qy6DA"
@@ -5812,7 +5924,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189640,
       "name": "World on a String",
       "url": "https://open.spotify.com/track/2DrvOkDbR6GEzBdMTnYBqg"
@@ -5920,7 +6032,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 245538,
       "name": "You Make Me So Mad - B-Side",
       "url": "https://open.spotify.com/track/2ysZa18IyDW6q9uT2T7OLI"

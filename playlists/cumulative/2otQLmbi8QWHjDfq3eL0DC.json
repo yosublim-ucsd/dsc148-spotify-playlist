@@ -97,6 +97,24 @@
     },
     {
       "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/3aKsVI5oxhjZH1d8vYkx6T"
+      },
+      "artists": [
+        {
+          "name": "Sarah Story",
+          "url": "https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180637,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/3lvYcFY5GGuuKjVYQj7FD1"
+    },
+    {
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -1155,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
+    },
+    {
+      "album": {
         "name": "Everynight",
         "url": "https://open.spotify.com/album/4E4wqnCX6mPC4PHYiTKwMQ"
       },
@@ -1262,6 +1302,28 @@
       "duration_ms": 150824,
       "name": "feelings don't lie",
       "url": "https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t"
+    },
+    {
+      "album": {
+        "name": "Find A Way (feat. Suli Breaks)",
+        "url": "https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182098,
+      "name": "Find A Way (feat. Suli Breaks)",
+      "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
     },
     {
       "album": {
@@ -2195,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Locked Away",
+        "url": "https://open.spotify.com/album/5AxWy3hNmjoQjk9vTCbDXC"
+      },
+      "artists": [
+        {
+          "name": "Josh Dorey",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191487,
+      "name": "Locked Away",
+      "url": "https://open.spotify.com/track/0eQnK7e4DXG70OUehk8JIf"
+    },
+    {
+      "album": {
         "name": "Looking For You",
         "url": "https://open.spotify.com/album/2wU2Q8XXocXhLhqI0Kg08f"
       },
@@ -2584,6 +2664,28 @@
       "duration_ms": 173930,
       "name": "No Apologies (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/3EJjWnvGleKgYPikSo3K33"
+    },
+    {
+      "album": {
+        "name": "Non-Stop",
+        "url": "https://open.spotify.com/album/3LI5uQ5Hin4c47tgT6e2RU"
+      },
+      "artists": [
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        },
+        {
+          "name": "Akodya",
+          "url": "https://open.spotify.com/artist/4UjJjMsc5rlX1TIGcO4B63"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133103,
+      "name": "Non-Stop",
+      "url": "https://open.spotify.com/track/2WSYKUuFJjM4Phb13k3EdH"
     },
     {
       "album": {
@@ -3710,6 +3812,28 @@
       "duration_ms": 170624,
       "name": "Sunglasses at Night",
       "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5NhHcumFShNPu1RtNRUKvq"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162119,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0EAUdSBW9ORNl65la2O1CF"
     },
     {
       "album": {

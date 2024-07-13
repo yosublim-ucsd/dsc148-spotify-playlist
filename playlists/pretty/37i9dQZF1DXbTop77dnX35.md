@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema, Ice Spice, Tay Iwar and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,886 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,048 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 44 | [Obimo](https://open.spotify.com/track/6bNyrsf16Yt9ZyYfnGoCGU) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Obimo & Never](https://open.spotify.com/album/3Xb0QdbIIdaxiF2NCsowrA) | 2:09 |
 | 45 | [Tighten The Skirt](https://open.spotify.com/track/68epgNyW7qJd0E9fVBZiSZ) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [Tighten The Skirt](https://open.spotify.com/album/1uWBhe5ThiiNPC0Il2Ij0i) | 3:17 |
 | 46 | [Vibes on Vibes](https://open.spotify.com/track/2JkZquUzUVk2oKXRXVbHlz) | [Amapiano Madness](https://open.spotify.com/artist/3r5wLfhWeRd17ogjabRqeo), [Shiju](https://open.spotify.com/artist/36Ujb3nVMkR5FsutEgg9gd), [Vibe'05](https://open.spotify.com/artist/1oE3aRKszlsiSc0yPkOpCo) | [Vibes on Vibes](https://open.spotify.com/album/7483PvfqRjBTuc3aIZGUKW) | 2:42 |
-| 47 | [BRUV](https://open.spotify.com/track/5cs4km2N4KB865tIb59PHZ) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [BRUV](https://open.spotify.com/album/6QOfNkEvlfQXzXfdXpR83W) | 1:58 |
-| 48 | [No Challenger](https://open.spotify.com/track/5ujxtJBn3QFMmUV1OeAXAd) | [Elisha k](https://open.spotify.com/artist/1Cu21RygYgMEO6uS7yXQTM) | [Days of Elisha \(Epistle 2\)](https://open.spotify.com/album/1DhLCkn6tmbRfHFF0WVKF5) | 2:39 |
-| 49 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
+| 47 | [Playa \(feat\. Skilla Baby\)](https://open.spotify.com/track/3pEOBaJeDXyN5PpGXxeDx9) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:14 |
+| 48 | [BRUV](https://open.spotify.com/track/5cs4km2N4KB865tIb59PHZ) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [BRUV](https://open.spotify.com/album/6QOfNkEvlfQXzXfdXpR83W) | 1:58 |
+| 49 | [No Challenger](https://open.spotify.com/track/5ujxtJBn3QFMmUV1OeAXAd) | [Elisha k](https://open.spotify.com/artist/1Cu21RygYgMEO6uS7yXQTM) | [Days of Elisha \(Epistle 2\)](https://open.spotify.com/album/1DhLCkn6tmbRfHFF0WVKF5) | 2:39 |
+| 50 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
 
 Snapshot ID: `ZpByPAAAAAAhbdw0bug3fXtAuS/g/I/a`

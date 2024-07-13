@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196577,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
+    },
+    {
+      "album": {
         "name": "losers",
         "url": "https://open.spotify.com/album/40ZWm8ltztxPHf8J3i3Rsb"
       },
@@ -700,7 +718,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 177003,
       "name": "Blame Brett (feat. Royal & The Serpent)",
       "url": "https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD"
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 187661,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/4WIfG6Y1VqBXmScucCWb16"
@@ -2367,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/0FuYgWBwbrQj3s66trgrdx"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/6okiuD2GilqpFbJGjRinSE"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -3700,7 +3736,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165162,
       "name": "Lovelace",
       "url": "https://open.spotify.com/track/7JkNTVDjJUrB6UgpSnt7P5"
@@ -3977,6 +4013,24 @@
     },
     {
       "album": {
+        "name": "Tribune",
+        "url": "https://open.spotify.com/album/2IMo9GhZ5bhD2FRX2tctZm"
+      },
+      "artists": [
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154746,
+      "name": "Mr. (Green in Tennessee)",
+      "url": "https://open.spotify.com/track/2LJ0ORsWq3foyZay9pegnv"
+    },
+    {
+      "album": {
         "name": "Mrs. Valentine",
         "url": "https://open.spotify.com/album/6AfuKmIjq95swC13Sq4saV"
       },
@@ -4230,6 +4284,24 @@
       "duration_ms": 257273,
       "name": "No Safe + Sound",
       "url": "https://open.spotify.com/track/4CKlQAZjUxKH6qvfun7oMK"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/54zYvqlh1tgWoe5edGHC8r"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171232,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/6r1dG3TW8wpYMt9vSVAO3w"
     },
     {
       "album": {
@@ -5276,7 +5348,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 186540,
       "name": "Songs In My Head",
       "url": "https://open.spotify.com/track/1r7Q77PuiuZwSJgVooeuiv"
@@ -5546,7 +5618,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 251037,
       "name": "Sugarcoated",
       "url": "https://open.spotify.com/track/3EdGkRv8PkxVAoqkFcJR9L"
@@ -5778,6 +5850,42 @@
       "duration_ms": 235821,
       "name": "take yr time",
       "url": "https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx"
+    },
+    {
+      "album": {
+        "name": "Takes Me Back Home",
+        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193137,
+      "name": "Takes Me Back Home",
+      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+    },
+    {
+      "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "album": {
@@ -6630,7 +6738,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219182,
       "name": "Zinfandel",
       "url": "https://open.spotify.com/track/7oL3fy8uP294kcfCgGB5Od"

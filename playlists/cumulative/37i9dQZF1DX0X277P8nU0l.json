@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 237507,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1oU7DOcuVs4TqnewtTgR1P"
@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "album": {
         "name": "Football",
         "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
       },
@@ -1440,7 +1458,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204507,
       "name": "Football",
       "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189863,
       "name": "I\u2019m on a Roll",
       "url": "https://open.spotify.com/track/1y2OtZELxfZRSPXOwkhjHv"
@@ -2755,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/3jx04kCoe1V9ogqoXLNs8g"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/3MSL42Ay6qoGALjrIacm4L"
+    },
+    {
+      "album": {
         "name": "May Ninth",
         "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
       },
@@ -2987,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "No Rulebook",
+        "url": "https://open.spotify.com/album/39t8KDt3ldQzwukKwlxbZL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233564,
+      "name": "No Rulebook",
+      "url": "https://open.spotify.com/track/4OVZT61Hd24Q4p1cux4BJ3"
+    },
+    {
+      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
       },
@@ -3052,7 +3106,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208391,
       "name": "On Top",
       "url": "https://open.spotify.com/track/1pcSKI4na3DjV2aWwzJXHK"
@@ -3755,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "SNL",
+        "url": "https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "SNL",
+      "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
+    },
+    {
+      "album": {
         "name": "Something New",
         "url": "https://open.spotify.com/album/4XWeyoqL8oLXPIuuyFkm9Y"
       },
@@ -3802,7 +3874,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
@@ -3980,6 +4052,24 @@
       "duration_ms": 205293,
       "name": "Summer Season",
       "url": "https://open.spotify.com/track/4H3HXt4sSa705RUtetLTmz"
+    },
+    {
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "album": {
@@ -4222,7 +4312,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 255800,
       "name": "The Conflict Of The Mind",
       "url": "https://open.spotify.com/track/2dy0PA2tbzKzae4LRnfTub"
@@ -4458,6 +4548,24 @@
       "duration_ms": 161091,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK"
+    },
+    {
+      "album": {
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
       "album": {

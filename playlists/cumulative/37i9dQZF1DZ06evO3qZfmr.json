@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-16",
-  "description": "This is Megan Moroney. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
   "name": "This Is Megan Moroney",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 212301,
       "name": "He Made Me Do It",
       "url": "https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB"
+    },
+    {
+      "album": {
+        "name": "Hell of a Show",
+        "url": "https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107115,
+      "name": "Hell of a Show",
+      "url": "https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY"
     },
     {
       "album": {

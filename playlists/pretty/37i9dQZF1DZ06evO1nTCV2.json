@@ -1,29 +1,13 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43303,
+  "num_followers": 43311,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAACakAE0F+5J02R+1SxtAOjV",
+  "snapshot_id": "Zo8ggAAAAADBs6D8WCsTcqThX6I4XGN0",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
-        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 265700,
-      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
-      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
-    },
     {
       "added_at": null,
       "album": {
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
+        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 265700,
+      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
+      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
-        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 235518,
-      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
+        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 235518,
+      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 239546,
       "name": "Do You Still Love Me?",
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
-        "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 256312,
-      "name": "After the Gold Rush - Live from Calgary, AL. 2023",
-      "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Down In A Hole (Live)",
-        "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
+        "name": "Black Diamond (Live from Madison, WI. 2023)",
+        "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
       },
       "artists": [
         {
@@ -532,9 +516,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 241052,
-      "name": "Down In A Hole - Live from Eugene, OR. 2023.",
-      "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
+      "duration_ms": 146072,
+      "name": "Black Diamond - Live from Madison, WI. 2023",
+      "url": "https://open.spotify.com/track/4ROi74e8WRjli3wgTcHyZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
+        "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 256312,
+      "name": "After the Gold Rush - Live from Calgary, AL. 2023",
+      "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Diamond (Live from Madison, WI. 2023)",
-        "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
+        "name": "Down In A Hole (Live)",
+        "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 146072,
-      "name": "Black Diamond - Live from Madison, WI. 2023",
-      "url": "https://open.spotify.com/track/4ROi74e8WRjli3wgTcHyZG"
+      "duration_ms": 241052,
+      "name": "Down In A Hole - Live from Eugene, OR. 2023.",
+      "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Do Not Feel Like Being Good",
-        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "How Much Light",
-      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 166693,
       "name": "I Was Here",
       "url": "https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Do Not Feel Like Being Good",
+        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "How Much Light",
+      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
       "duration_ms": 238859,
       "name": "Harvest Moon - Live from Calgary, AL. 2023",
       "url": "https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Built This City (Live from Oakland, CA, 2022)",
-        "url": "https://open.spotify.com/album/2gm2b6mIhwljA7WwdrDJTG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 253044,
-      "name": "We Built This City - Live from Oakland, CA, 2022",
-      "url": "https://open.spotify.com/track/3XJx0M1mC7ppnl2JULqT37"
     }
   ],
   "unique_name": "This Is Ryan Adams",

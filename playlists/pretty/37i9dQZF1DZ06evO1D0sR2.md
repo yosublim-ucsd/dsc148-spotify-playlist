@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This is JJ Hairston\. أغاني روعة في قايمة أغاني واحدة.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,652 likes - 50 songs - 5 hr 52 min
 
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 2 | [You Deserve It \(feat\. Bishop Cortez Vaughn\)](https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Bishop Cortez Vaughn](https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1) | 6:05 |
 | 3 | [Incredible God, Incredible Praise](https://open.spotify.com/track/7DofgGYhqGmNJeBiNae93O) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 6:24 |
 | 4 | [Onaga \(It's Working\) \- Live](https://open.spotify.com/track/21JYcivB4UXRIhEnWdCt2X) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Miracle Worker \(Live\)](https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7) | 4:57 |
-| 5 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 |
-| 6 | [Not Holding Back](https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 12:27 |
+| 5 | [Not Holding Back](https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 12:27 |
+| 6 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 |
 | 7 | [After This](https://open.spotify.com/track/729ts9ozZsJrALyWt42wHl) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:40 |
 | 8 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7) | 6:42 |
 | 9 | [Reminder \(feat\. Deon Kipping\)](https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 9:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [All Things Well](https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 7:03 |
 | 50 | [All You've Done \(feat\. Cristabel Clack\)](https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 7:01 |
 
-Snapshot ID: `Zo3PAAAAAAAjMQC1EuKtsyqlmfUJzUJC`
+Snapshot ID: `Zo8ggAAAAABNGKSI3BIYZT2FKPnmZfz/`

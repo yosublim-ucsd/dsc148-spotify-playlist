@@ -13963,7 +13963,7 @@
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 134193,
+      "duration_ms": 135483,
       "name": "Pensamos Rapido",
       "url": "https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb"
     },
@@ -16384,6 +16384,28 @@
       "duration_ms": 181506,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/0f3KwAAjShsbqQNA7VvIum"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "album": {

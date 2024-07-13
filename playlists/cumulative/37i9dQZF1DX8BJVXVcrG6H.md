@@ -2,9 +2,9 @@
 
 ### [República Oriental del Rap](https://open.spotify.com/playlist/37i9dQZF1DX8BJVXVcrG6H)
 
-> Representantes de la rima Charrúa\. Foto: Dostrescinco.
+> Representantes de la rima Charrúa\. Foto: Zeballos.
 
-103 songs - 5 hr 23 min
+104 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Neverland](https://open.spotify.com/track/5okAtarMB2Zp4IAZAoxyxe) | [Gavo](https://open.spotify.com/artist/6a4vjdtgYYdro1VozKKhA1) | [Neverland](https://open.spotify.com/album/5RI9V5V7eGOPmPzBxnPan7) | 3:24 | 2023-06-16 |  |
 | [No Era una Pavada](https://open.spotify.com/track/6cTZqcfAsLMM6GAw7Qmlh0) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy) | [Días Así](https://open.spotify.com/album/442h4OS4JBOjmdi8NhtaJF) | 2:54 | 2023-06-16 | 2024-04-19 |
 | [No Era una Pavada](https://open.spotify.com/track/7FQ4Lb3ZNCQ6asWuUmsK0M) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy), [DJ RC](https://open.spotify.com/artist/1J7pdNpxrWQJyJlfV5gMoW) | [Días Así](https://open.spotify.com/album/5HUWURqzw8OldkJfFU9Wk2) | 2:54 | 2023-10-27 |  |
+| [PAC\-MAN](https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [PAC\-MAN](https://open.spotify.com/album/48EaiFxq0j5dywhlAQNYd3) | 3:29 | 2024-07-12 |  |
 | [Piedra, Papel o Tijera](https://open.spotify.com/track/6Ao6cvOVF6DsI7Pl0LiiZ5) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Piedra, Papel o Tijera](https://open.spotify.com/album/68iB1SWJQ0sNJfcd8D3H73) | 3:53 | 2023-06-16 |  |
 | [Pomelo](https://open.spotify.com/track/048ZfULBPbGDLWW8EHHCQm) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Pomelo](https://open.spotify.com/album/3YKTzbhU47ruzDHc0dwM4x) | 3:17 | 2023-06-16 |  |
 | [Puro](https://open.spotify.com/track/7AHeIs9DvU3WCjJvr8JDQK) | [Gavo](https://open.spotify.com/artist/6a4vjdtgYYdro1VozKKhA1) | [Puro](https://open.spotify.com/album/2xt9HO6UjzVzxjC5twTM5h) | 1:40 | 2023-06-16 |  |

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Calva Louise
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Wargasm
 
-734 songs - 1 day 22 hr 28 min
+740 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2022](https://open.spotify.com/track/3eMi4WvFU4xKBiPnrEZo4v) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [2022](https://open.spotify.com/album/0VgAgvoUbLDa0QdTLPIHCG) | 4:30 | 2022-09-23 | 2023-07-15 |
 | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Kane Gelaznik](https://open.spotify.com/artist/6tEcSUj4wC1th01MEOTelB) | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y) | 3:04 | 2024-03-08 |  |
 | [30 Under 13](https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [30 Under 13](https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b) | 4:05 | 2023-04-21 | 2024-02-03 |
+| [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 | 2024-07-12 |  |
 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 | 2024-02-03 |
 | [:Signal:](https://open.spotify.com/track/4St47VFpw5X3g01SLNNUL2) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [:Signal:](https://open.spotify.com/album/1QH4f4Nh1LRSK6KaPZBUmp) | 3:29 | 2022-07-22 | 2023-07-15 |
 | [A Brief Article Regarding Time Loops](https://open.spotify.com/track/7nBxfkl6GFczlHpUf1wetV) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [A Brief Article Regarding Time Loops](https://open.spotify.com/album/1YjnIyO6kAmGm2IhpaaU8o) | 3:17 | 2022-04-01 | 2023-07-15 |
@@ -65,6 +66,7 @@
 | [Behind Closed Doors](https://open.spotify.com/track/40bblUc6CcCwM8jaZ9r9Rf) | [Wormrot](https://open.spotify.com/artist/3vMnvW7u5207ATyxTQIxNz) | [Behind Closed Doors](https://open.spotify.com/album/57hOF9F8e7ww6Q5PJyWes6) | 1:27 | 2022-03-18 | 2023-07-15 |
 | [Best Before: Death](https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Best Before: Death](https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7) | 3:33 | 2023-03-03 | 2024-02-03 |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-15 | 2023-07-15 |
+| [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villian](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 | 2024-07-12 |  |
 | [Big Man](https://open.spotify.com/track/5RvkIiOCUCUNpHRnrbzpEC) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Big Man](https://open.spotify.com/album/0aVjveFPW5GO8RnwSu0JjP) | 1:45 | 2023-04-13 | 2024-02-03 |
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2022-03-11 | 2023-07-15 |
 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 | 2023-03-17 | 2024-02-03 |
@@ -263,6 +265,7 @@
 | [GETMONEY](https://open.spotify.com/track/2k3eHeXxtdkzuTSqt4fizQ) | [Crush Your Soul](https://open.spotify.com/artist/5cPuAhAKfhw715sOdA37Xo) | [Crush Your Soul](https://open.spotify.com/album/1gJ9aiByVppSxqqnDMIBRw) | 1:40 | 2024-02-09 |  |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-05-12 | 2024-02-03 |
 | [Ghost Ride](https://open.spotify.com/track/6erjczeLxFxCOrSpJ98Zij) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Light as a Feather](https://open.spotify.com/album/5tBdfLoUvMkjpIKvPGRvfx) | 4:10 | 2023-09-15 | 2024-02-03 |
+| [Give Me The Painkiller](https://open.spotify.com/track/29W2lycHz4sExfoA11Yiph) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Give Me The Painkiller](https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh) | 2:44 | 2024-07-12 |  |
 | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2R1jLZ4CV3nh9pT5GIJkDs) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4Rq0ZN8Thuzx1HkRyXyJjh) | 3:53 | 2023-04-13 | 2024-02-03 |
 | [Glorious Devastation](https://open.spotify.com/track/5wUe3PMvFts4OLglUTRq6B) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Glorious Devastation](https://open.spotify.com/album/74gmjJ9wVTo2mzSERuGNrM) | 2:43 | 2022-10-14 | 2023-07-15 |
 | [God Under Fingernails](https://open.spotify.com/track/6rTiRiuhMjowousSPe4Bhu) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [God Under Fingernails](https://open.spotify.com/album/1Q4UfATj3O0UhjFoAXmpId) | 2:55 | 2024-03-29 |  |
@@ -468,6 +471,7 @@
 | [Premium Offer](https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Premium Offer](https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS) | 2:54 | 2022-02-11 | 2023-07-15 |
 | [Pressure Cooker](https://open.spotify.com/track/07w72qT4WkRcJ3uTvBRoD2) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Pressure Cooker](https://open.spotify.com/album/02y74a73M3k5WchfJRIi26) | 2:50 | 2022-03-18 | 2023-07-15 |
 | [Pressure Mind](https://open.spotify.com/track/75cc56t2JYXMvIlduXN57b) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Pressure Mind](https://open.spotify.com/album/44vK1l1tAzKLx9PCeIXCKP) | 3:25 | 2022-04-01 | 2023-07-15 |
+| [Prevention of Peace](https://open.spotify.com/track/3IkvK1H8WkOHrrox5XgHjw) | [LICE](https://open.spotify.com/artist/7mIukH2sODEJQnUhty5lkF) | [World of Greed](https://open.spotify.com/album/1IvCS6EqVjHvazVuG4i5IV) | 2:11 | 2024-07-12 |  |
 | [Primordial](https://open.spotify.com/track/4WXlHPknaqFYknWRW9uZ9h) | [Telekinetic Yeti](https://open.spotify.com/artist/7KwTOgmCktKmZoWfe3vUsF) | [Primordial](https://open.spotify.com/album/5mfiHcp5ZvgXTGN44Wa2oY) | 4:35 | 2022-06-10 | 2023-07-15 |
 | [Prisoner Of You](https://open.spotify.com/track/7APK0mRVzOm3WcV0wMNHyJ) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Prisoner Of You](https://open.spotify.com/album/09kfy0nthCuYWoYg34uok1) | 3:54 | 2023-12-01 | 2024-02-03 |
 | [Propaganda of the Deed](https://open.spotify.com/track/2nocAasjCoZZRWX4CdRmKu) | [Broken Vow](https://open.spotify.com/artist/7cbddjy4wOdhxzR4Wnypt3) | [Anthropocene](https://open.spotify.com/album/7ezr6GbJRbWA79TS6IM8x8) | 2:18 | 2023-09-29 | 2024-02-03 |
@@ -509,6 +513,7 @@
 | [Rose Bather](https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Rose Bather](https://open.spotify.com/album/3pjrQzkFEVUjb4bEHnICMA) | 3:37 | 2023-12-08 | 2024-02-03 |
 | [Rot & Decay](https://open.spotify.com/track/2dwYVykmRQsVfJbRZvGGjb) | [Dead To Fall](https://open.spotify.com/artist/4fJhgb2uzeQZUtUUVqQLX3) | [Rot & Decay](https://open.spotify.com/album/34hAGVDT8f5qM9FjLyHNPz) | 3:22 | 2022-09-16 | 2023-07-15 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 | 2023-07-15 |
+| [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 | 2024-07-12 |  |
 | [Rubedo](https://open.spotify.com/track/3I2N7BXukhilSgt3THdbnl) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [Rubedo](https://open.spotify.com/album/2qo2oHqL7irjoKL6kQokDC) | 6:41 | 2022-02-18 | 2023-07-15 |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2023-07-15 |
 | [Save Yourself](https://open.spotify.com/track/5LRSgPo7BKrhIBYrX1mL8z) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:45 | 2024-03-29 |  |
@@ -659,6 +664,7 @@
 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 | 2023-11-17 | 2024-02-03 |
 | [Tunnel Lights](https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Tunnel Lights](https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt) | 4:07 | 2023-12-01 | 2024-02-03 |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-17 | 2024-02-03 |
+| [Turbulence](https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Turbulence](https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8) | 3:20 | 2024-07-12 |  |
 | [Turn to Me](https://open.spotify.com/track/1hXtv1txnXMXAvZU2YdRme) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 3:42 | 2023-01-13 | 2024-02-03 |
 | [Turning Hate Into Rage](https://open.spotify.com/track/0JmFNORLiAQwtz48DsqeD0) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Death Is Little More](https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ) | 2:19 | 2024-03-29 |  |
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-04 | 2023-07-15 |

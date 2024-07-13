@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Nick Ward
 
-4,799 songs - 10 day 19 hr 45 min
+4,802 songs - 10 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Bleach](https://open.spotify.com/track/1ZwOKXX702IsbWQJHaNyzY) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Bleach](https://open.spotify.com/album/48rs3vQgFBqjX83XkeRrtP) | 4:03 | 2023-09-07 | 2023-09-15 |
 | [Bleed](https://open.spotify.com/track/6ZrBGi3DnbNDZUvD3vODx4) | [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [Bleed](https://open.spotify.com/album/59Jw4EW6eHMj7hc5R0IyzX) | 2:42 | 2024-05-23 | 2024-06-01 |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-02 | 2023-11-10 |
+| [Bless Her Heart](https://open.spotify.com/track/2wPM1Dk12o8u8dMNveQqhm) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Bliss](https://open.spotify.com/album/273G5nf7G44BxNW0IuXzZr) | 2:16 | 2024-07-11 |  |
 | [Blessed](https://open.spotify.com/track/6BnIYAvijtCSwaX1pw7VUv) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [Blessed](https://open.spotify.com/album/6GVLxD0N3BiVtEld6sjHfc) | 3:15 | 2023-08-31 | 2023-09-08 |
 | [Blessed](https://open.spotify.com/track/2E6Hn2ClK3ndSlnbhFLnb2) | [Soli](https://open.spotify.com/artist/6yYm7Asdzf0sxI68kAJB0s) | [Blessed](https://open.spotify.com/album/3Yejv3WU5J4IYBrcxwpn5p) | 3:06 | 2023-11-16 | 2023-11-24 |
 | [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2023-12-07 | 2023-12-15 |
@@ -749,6 +750,7 @@
 | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/track/54XLaoN02yA172fUlhsXKW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd) | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/album/5QA1TPQekOSmmz2W6nF76m) | 2:31 | 2023-07-20 | 2023-07-28 |
 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 | 2024-03-07 | 2024-03-15 |
 | [Casino](https://open.spotify.com/track/1XjLh9k8todOmzc62myULu) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Casino](https://open.spotify.com/album/1ybKkTn22vEjU5NKVQU00R) | 3:03 | 2024-07-11 |  |
+| [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-11 |  |
 | [catch the night](https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [catch the night](https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs) | 2:55 | 2023-11-16 | 2023-11-24 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-23 | 2024-06-01 |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-08-18 |
@@ -3777,6 +3779,7 @@
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-02-08 | 2024-02-16 |
 | [Somebody \(feat\. upsidedownhead\)](https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO), [upsidedownhead](https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB) | [Midnight Highlight](https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm) | 3:14 | 2024-01-18 | 2024-01-26 |
 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2023-10-12 | 2023-10-20 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 | 2024-03-21 | 2024-03-29 |
 | [Something](https://open.spotify.com/track/6HnpBnwaBOiEIag6DbUwpp) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Something](https://open.spotify.com/album/5JPxSvSbIa6QkGvpEee3my) | 2:20 | 2023-06-23 | 2023-06-30 |
 | [something bout april](https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [something bout april](https://open.spotify.com/album/7rvEikbxxiQLByajEQcKB8) | 2:54 | 2024-07-11 |  |

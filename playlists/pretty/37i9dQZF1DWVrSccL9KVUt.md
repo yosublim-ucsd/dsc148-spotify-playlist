@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,958 likes - 80 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,096 likes - 80 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 27 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 |
 | 28 | [Defender](https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 7:04 |
 | 29 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
-| 30 | [Alabaster Heart \(Live\)](https://open.spotify.com/track/5tvyBw58RUK5l2QyKghTzn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Alabaster Heart \(Live\)](https://open.spotify.com/album/5kMHXaEbgek2K2KXUg8c4Y) | 8:30 |
+| 30 | [Alabaster Heart \- Live](https://open.spotify.com/track/5tvyBw58RUK5l2QyKghTzn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Alabaster Heart \(Live\)](https://open.spotify.com/album/5kMHXaEbgek2K2KXUg8c4Y) | 8:30 |
 | 31 | [Faithful](https://open.spotify.com/track/0UAZGHyrzJcgrXGu2EUK7J) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:06 |
 | 32 | [I Am Not Alone \- Live](https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 5:33 |
 | 33 | [Wash Over Me](https://open.spotify.com/track/6ejOvm8qWPmieRiyCBQI2b) | [Brave Worship](https://open.spotify.com/artist/3sdfMzaCXfTxtZgBQTVyBn), [Baily Hager](https://open.spotify.com/artist/26Uw4URdkAuXfj42W2YZms) | [Wash Over Me](https://open.spotify.com/album/20elVmiKGSPC2mJFIQYkwE) | 6:06 |

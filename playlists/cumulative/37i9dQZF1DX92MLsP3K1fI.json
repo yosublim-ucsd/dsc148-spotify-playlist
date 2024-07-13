@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 174360,
       "name": "Biling\u00fces",
       "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
@@ -1982,6 +1982,24 @@
       "duration_ms": 162037,
       "name": "efectos secundarios",
       "url": "https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD"
+    },
+    {
+      "album": {
+        "name": "El Crush",
+        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
+      },
+      "artists": [
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148986,
+      "name": "El Crush",
+      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Meiska
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,191 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,291 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 62 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
 | 63 | [Ternyata](https://open.spotify.com/track/7MQW08eDg5CTLhtILqkKN7) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Ternyata](https://open.spotify.com/album/30gZnxUnWFrUpiwpTdzQZv) | 2:54 |
 | 64 | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/track/2RGrqXoub7squjIihLpWhu) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/10zPrC718iV3GiIRVy8cUH) | 4:03 |
-| 65 | [Kita Berdua](https://open.spotify.com/track/4OUZbGDyDScMWYq4BXKPn6) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Aaliyah Massaid](https://open.spotify.com/artist/6gSGaTsik09nJP5sfJPel1), [Thariq Halilintar](https://open.spotify.com/artist/4ubpHqnMW4I64xlxRuDqtm) | [Kita Berdua](https://open.spotify.com/album/7iZYwqU5VAbPsLlcgehD5p) | 2:58 |
+| 65 | [Kita Berdua](https://open.spotify.com/track/4OUZbGDyDScMWYq4BXKPn6) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Aaliyah Massaid](https://open.spotify.com/artist/6gSGaTsik09nJP5sfJPel1), [Thariq Halilintar](https://open.spotify.com/artist/6mVRwfoDsFDcMAorzd05Ch) | [Kita Berdua](https://open.spotify.com/album/7iZYwqU5VAbPsLlcgehD5p) | 2:58 |
 | 66 | [Kembalikanku \- Live Version](https://open.spotify.com/track/1GuG1Ia8Uubd2cdJnlA08n) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [gamaliél](https://open.spotify.com/artist/6S8UGUSbJxRdJHtWAlsTD0), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Audrey Tapiheru](https://open.spotify.com/artist/37Foef22vzkNt95EcP1ZYh), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Kembalikanku \(EP\)](https://open.spotify.com/album/5ADmTXsSrSiYi0GSyoV6M9) | 3:37 |
 | 67 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 |
 | 68 | [Kehilanganmu](https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kehilanganmu](https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us) | 3:53 |

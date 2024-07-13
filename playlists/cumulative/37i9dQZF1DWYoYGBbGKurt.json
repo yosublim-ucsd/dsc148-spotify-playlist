@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "73 Spaceloop",
+        "url": "https://open.spotify.com/album/4CSoFQ8KiiRONQB5b59WFj"
+      },
+      "artists": [
+        {
+          "name": "BluntOne",
+          "url": "https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79103,
+      "name": "73 Spaceloop",
+      "url": "https://open.spotify.com/track/6NpJrkwYfrBXppjRbyjoL8"
+    },
+    {
+      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/61IeZbVCzUX1d1x7v7ENW2"
       },
@@ -2914,6 +2932,24 @@
       "duration_ms": 160538,
       "name": "Better Life",
       "url": "https://open.spotify.com/track/32jgxWTiEcXChtfT4BdFyK"
+    },
+    {
+      "album": {
+        "name": "better with time",
+        "url": "https://open.spotify.com/album/0lCFSKHTPpQr3tVnJcUlHK"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "better with time",
+      "url": "https://open.spotify.com/track/0Ugvk7jf6yOnhDVr5dM4nl"
     },
     {
       "album": {
@@ -8257,6 +8293,24 @@
     },
     {
       "album": {
+        "name": "Dream Drift",
+        "url": "https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Dream Drift",
+      "url": "https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4"
+    },
+    {
+      "album": {
         "name": "dream in colour",
         "url": "https://open.spotify.com/album/5OVCmEptLW71wOAD0VOZ1G"
       },
@@ -10130,7 +10184,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 137812,
       "name": "falling behind",
       "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
@@ -10898,7 +10952,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173000,
       "name": "five more days",
       "url": "https://open.spotify.com/track/2EuCUU8jBSglt5fgKC0g6r"
@@ -14881,6 +14935,28 @@
     },
     {
       "album": {
+        "name": "in the pines",
+        "url": "https://open.spotify.com/album/3hwV3tXeDK5TSi7XUCl4q8"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "in the pines",
+      "url": "https://open.spotify.com/track/1r8icnNvDtJktIocc0pXOb"
+    },
+    {
+      "album": {
         "name": "in the schoolyard",
         "url": "https://open.spotify.com/album/0RHTMAJvDDOQzaYn0RNICS"
       },
@@ -15982,6 +16058,24 @@
       "duration_ms": 149442,
       "name": "KIND",
       "url": "https://open.spotify.com/track/77B0g62tqdmFGQBeKJ6gpA"
+    },
+    {
+      "album": {
+        "name": "kinda nice",
+        "url": "https://open.spotify.com/album/0WHkWpgW2oh7WL2k01sd61"
+      },
+      "artists": [
+        {
+          "name": "Earium",
+          "url": "https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "kinda nice",
+      "url": "https://open.spotify.com/track/3Uuo65tSdVDAQTRITXGTWE"
     },
     {
       "album": {
@@ -18370,6 +18464,24 @@
       "duration_ms": 132800,
       "name": "Lucifers Love",
       "url": "https://open.spotify.com/track/57qkIMqNxnUeelKeaObkbC"
+    },
+    {
+      "album": {
+        "name": "lullabi / midnight",
+        "url": "https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS"
+      },
+      "artists": [
+        {
+          "name": "dozeoff",
+          "url": "https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "lullabi",
+      "url": "https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME"
     },
     {
       "album": {
@@ -30102,7 +30214,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 110140,
       "name": "tasteful",
       "url": "https://open.spotify.com/track/1J4h8frFhvXjDilTG2N8U9"

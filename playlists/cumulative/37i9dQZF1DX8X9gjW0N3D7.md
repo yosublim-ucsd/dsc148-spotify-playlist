@@ -4,10 +4,11 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: 2Frères
 
-75 songs - 4 hr 1 min
+77 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1999](https://open.spotify.com/track/16N4Uin8Z7dr3wLq87EA6S) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [1999](https://open.spotify.com/album/1668f4YvYOIMuUEW8lJWVP) | 2:10 | 2024-07-12 |  |
 | [48H](https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Libre](https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy) | 2:59 | 2024-06-28 |  |
 | [All Night Long](https://open.spotify.com/track/1pJdV1Whbpj1yCtv68uMua) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO), [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [All Night Long](https://open.spotify.com/album/6ZwPudhybQm5ApJ5glLmQx) | 2:45 | 2024-06-28 |  |
 | [Balle Courbe](https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Balle Courbe](https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq) | 3:05 | 2024-06-28 |  |
@@ -36,7 +37,7 @@
 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 | 2024-06-28 |  |
 | [La fête \- Radio Edit](https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2) | [Éléonore Lagacé](https://open.spotify.com/artist/3el018EY0lmSRv79CZORvk) | [La fête \(Radio Edit\)](https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS) | 3:05 | 2024-06-28 |  |
 | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ) | 3:56 | 2024-06-28 |  |
-| [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2024-06-28 |  |
+| [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2024-06-28 | 2024-07-13 |
 | [LAISSE LES BONS TEMPS ROULER](https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:45 | 2024-06-28 |  |
 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2024-06-28 |  |
 | [Le bac des objets perdus](https://open.spotify.com/track/3v04ebsMGllMReChKTAfZw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6), [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [Antigéographiquement](https://open.spotify.com/album/7rMlJXxFvoYgPIKSCpkPtd) | 5:05 | 2024-06-28 |  |
@@ -59,9 +60,10 @@
 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 | 2024-06-28 |  |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2024-06-28 |  |
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:45 | 2024-06-28 |  |
+| [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 |  |
 | [Quand il s'en va](https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz), [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Quand il s'en va](https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9) | 4:01 | 2024-06-28 |  |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2024-06-28 |  |
-| [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 |  |
+| [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-06-28 |  |
 | [Révolution \(la chanson\) \- Radio Édith](https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Révolution \(la chanson\) \[Radio Édith\]](https://open.spotify.com/album/5wIp1O2uO8bDaiMRuC3SeB) | 3:20 | 2024-06-28 |  |
 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 | 2024-06-28 |  |

@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 190909,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/4kydVCpanDuAzoGuHMNZBZ"
@@ -2736,6 +2736,36 @@
       "duration_ms": 171723,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/6DdkUAGaMcisWOsA4J4cUi"
+    },
+    {
+      "album": {
+        "name": "Good Time (feat. M\u00f8f-Lo & Giin)",
+        "url": "https://open.spotify.com/album/6DHDCWga80PloPeSoBa6s3"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "M\u00f8f-Lo",
+          "url": "https://open.spotify.com/artist/3yWi2r7BWyQU41iBLkk0UK"
+        },
+        {
+          "name": "Giin",
+          "url": "https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Good Time (feat. M\u00f8f-Lo & Giin)",
+      "url": "https://open.spotify.com/track/3G7flRKWPtHsCiF133HjzV"
     },
     {
       "album": {

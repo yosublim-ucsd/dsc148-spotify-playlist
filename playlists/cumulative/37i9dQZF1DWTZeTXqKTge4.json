@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia, A2h",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost, Trappo",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 171705,
       "name": "BACKLASH",
       "url": "https://open.spotify.com/track/1GuFjQbO3isg7vUPxdtm3N"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 150967,
       "name": "Certifi\u00e9",
       "url": "https://open.spotify.com/track/1nA1QtJzSomE13YuGA4K7W"
@@ -4828,6 +4828,28 @@
       "duration_ms": 199668,
       "name": "Formation",
       "url": "https://open.spotify.com/track/51ZvLOJkx0SAlcRsMriSnJ"
+    },
+    {
+      "album": {
+        "name": "Fouiller mon phone",
+        "url": "https://open.spotify.com/album/3DwWtbIaCRIC2bC7pzg4mu"
+      },
+      "artists": [
+        {
+          "name": "EL GARRA",
+          "url": "https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA"
+        },
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210410,
+      "name": "Fouiller mon phone",
+      "url": "https://open.spotify.com/track/5KVRSmfZVPRFxPlg5iDMG9"
     },
     {
       "album": {
@@ -7410,7 +7432,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 176843,
       "name": "Liaison toxique",
       "url": "https://open.spotify.com/track/2ty8WQ2JfPRvZEfgi68ltm"
@@ -9445,6 +9467,28 @@
     },
     {
       "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
+    },
+    {
+      "album": {
         "name": "Le cheval blanc de Napol\u00e9on",
         "url": "https://open.spotify.com/album/3ZoWSR9Fay4WzDRgemaC00"
       },
@@ -10272,6 +10316,24 @@
       "duration_ms": 196363,
       "name": "POWA",
       "url": "https://open.spotify.com/track/663bEzp9AqRYRu6El75zat"
+    },
+    {
+      "album": {
+        "name": "PRADA",
+        "url": "https://open.spotify.com/album/5G0NtUfZcVs8WeYgTnE3Wm"
+      },
+      "artists": [
+        {
+          "name": "TheQ.",
+          "url": "https://open.spotify.com/artist/3gFaoWM69u7CG2vEDMXPfR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158171,
+      "name": "PRADA",
+      "url": "https://open.spotify.com/track/1lWpH49lNKFCm2Wrw5AFx8"
     },
     {
       "album": {
@@ -11121,6 +11183,24 @@
     },
     {
       "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/2eYcNSEp94k1ds6zLEVY7K"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/6He8QwtREiMFmux0bAYfA8"
+    },
+    {
+      "album": {
         "name": "Risque",
         "url": "https://open.spotify.com/album/3fUq3cuqBk7NPJROi9XzHo"
       },
@@ -11354,7 +11434,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 151304,
       "name": "R\u00e9cession Disco 2",
       "url": "https://open.spotify.com/track/6REJ4MiExwSnDSWxDhf6Cj"

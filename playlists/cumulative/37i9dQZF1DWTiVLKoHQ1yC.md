@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-195 songs - 13 hr 53 min
+196 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Demons In The Dark](https://open.spotify.com/track/633abaOgQ4YpKWreyqyRPp) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Demons In The Dark](https://open.spotify.com/album/5kXaT7K2PHV3Ei67nH5qpK) | 3:32 | 2024-02-02 | 2024-04-05 |
 | [Elements Of A New Life](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of A New Life](https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd) | 3:25 | 2022-01-14 |  |
 | [Embers](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Embers](https://open.spotify.com/album/310zPynreWG7NPfazR7z02) | 2:49 | 2024-05-10 |  |
+| [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 | 2024-07-12 |  |
 | [Enter the Storm](https://open.spotify.com/track/3v96fHvufikij2zsqANLos) | [Blanka Barbara](https://open.spotify.com/artist/1n4BiDYAbWQ7JJbMURKqof) | [Enter the Storm](https://open.spotify.com/album/5ClXSbEC6bzGAUaMH9Quw3) | 7:52 | 2022-01-14 | 2022-11-26 |
 | [Eternal Summer](https://open.spotify.com/track/0MlfXAmNFfukGWTm4eQNU2) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Eternal Summer](https://open.spotify.com/album/4BzUIyGCKu1Ywv9qceWMe2) | 4:33 | 2022-01-14 | 2022-07-29 |
 | [Face The Sun](https://open.spotify.com/track/1NBGV6jaSjoCtdhwQlaj1n) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Face The Sun](https://open.spotify.com/album/5AiQ3B6Tdr19gfEgurUS4Z) | 7:19 | 2022-01-14 | 2022-07-29 |
@@ -171,7 +172,7 @@
 | [The Blame \- Single Edit](https://open.spotify.com/track/3587LxhYAfR3UK9YvuF0F9) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Blame](https://open.spotify.com/album/4wLmGWfnd4tKtsn8qkXoxk) | 4:25 | 2022-01-14 | 2023-09-06 |
 | [The Healer](https://open.spotify.com/track/5uVBlFshng4s9kVOxSqWrk) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R), [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [The Healer](https://open.spotify.com/album/2DaKlxr5PKB4rFeA3GM00h) | 3:52 | 2024-03-29 | 2024-06-17 |
 | [The Old You](https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [The Old You](https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh) | 3:15 | 2022-01-14 | 2024-02-04 |
-| [The Orange Theme](https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [The Orange Theme](https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e) | 3:23 | 2024-05-10 |  |
+| [The Orange Theme](https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [The Orange Theme](https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e) | 3:23 | 2024-05-10 | 2024-07-13 |
 | [The Sun](https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [The Sun](https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7) | 3:36 | 2024-05-10 | 2024-06-25 |
 | [This Is It](https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [This Is It](https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z) | 4:23 | 2024-03-29 | 2024-06-21 |
 | [This Is It](https://open.spotify.com/track/1eF1JXR4hUi7IrHjByXruI) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [The Learning of Urgency](https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED) | 4:23 | 2024-06-21 |  |

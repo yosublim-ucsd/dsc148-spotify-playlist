@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Maia Sessions",
+        "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
+      },
+      "artists": [
+        {
+          "name": "Maia",
+          "url": "https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137960,
+      "name": "Cigana (Maia Sessions)",
+      "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
+    },
+    {
+      "album": {
         "name": "Coast (Acoustic)",
         "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
       },
@@ -668,7 +690,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204255,
       "name": "cool girl - Recorded at Spotify Studios, NYC / 2016",
       "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
@@ -1811,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Mande um Sinal (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238374,
+      "name": "Mande um Sinal - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
       },
@@ -1932,6 +1972,28 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
+    },
+    {
+      "album": {
+        "name": "Nada Sei (Apneia)",
+        "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229785,
+      "name": "Nada Sei - Apneia, Ao Vivo",
+      "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
     },
     {
       "album": {
@@ -2366,7 +2428,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140026,
       "name": "PSYCHO - Acoustic",
       "url": "https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA"
@@ -2681,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "Sozinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RQwWejVfbQRsul2RT3bYZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243534,
+      "name": "Sozinho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7eHafIWaj6QuGlaRm2VIas"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
@@ -2898,7 +2978,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 166771,
       "name": "Tudo Em Seu Lugar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5EfORdSqq61w3qnG52BS4e"
@@ -3154,7 +3234,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195578,
       "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"

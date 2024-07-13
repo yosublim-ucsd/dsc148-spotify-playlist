@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with RAAHiiM.",
+  "description": "This is R&B in Canada, elevate your aura with Lou Val.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 134012,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/0VNw1hLu0iVvSd6EFqlzcQ"
@@ -4851,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Don't Tempt Me",
+        "url": "https://open.spotify.com/album/4fEbEx2JWSXVvMrVa7pNdX"
+      },
+      "artists": [
+        {
+          "name": "Dimi",
+          "url": "https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Don't Tempt Me",
+      "url": "https://open.spotify.com/track/3OjOAb2KWoIupqKTug9OmM"
+    },
+    {
+      "album": {
         "name": "Don't Walk Away",
         "url": "https://open.spotify.com/album/6pjgZeaZ44JQ7fkRCODDHh"
       },
@@ -5868,7 +5890,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 152000,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4vrng88ZcFQjykEpHnDKgm"
@@ -9110,7 +9132,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 169824,
       "name": "Jeje",
       "url": "https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl"
@@ -10802,7 +10824,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 152380,
       "name": "Love me, Baby",
       "url": "https://open.spotify.com/track/1QOhqbXNoNuwBaoCHwKcio"
@@ -11432,6 +11454,28 @@
       "duration_ms": 161573,
       "name": "Millionth Time",
       "url": "https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS"
+    },
+    {
+      "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/20s5zflxqnKD6pXT2EYgr7"
+      },
+      "artists": [
+        {
+          "name": "Cameron James",
+          "url": "https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136763,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/5QqZxIFsXfyIIKWB5MWgza"
     },
     {
       "album": {
@@ -12130,7 +12174,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 203578,
       "name": "Need",
       "url": "https://open.spotify.com/track/5mi8B25W30kNQK9HUhsVWI"
@@ -12870,6 +12914,24 @@
       "duration_ms": 190909,
       "name": "OBSESI\u00d3N",
       "url": "https://open.spotify.com/track/7znw1Mi6sqrzTur0iw86kj"
+    },
+    {
+      "album": {
+        "name": "Obsolete",
+        "url": "https://open.spotify.com/album/1kCHj8NXgV2p8eoXca8TPy"
+      },
+      "artists": [
+        {
+          "name": "Yoko Gold",
+          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243648,
+      "name": "Obsolete",
+      "url": "https://open.spotify.com/track/250silbq0oLwCAubCaSA8l"
     },
     {
       "album": {
@@ -13934,7 +13996,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204115,
       "name": "Passion Pt. 2",
       "url": "https://open.spotify.com/track/3OraGxjYSSd6ifEX0Ji2mj"
@@ -14793,6 +14855,24 @@
     },
     {
       "album": {
+        "name": "RaRa",
+        "url": "https://open.spotify.com/album/6iMw4R8UyXcAIj8aCWPMPx"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "RaRa",
+      "url": "https://open.spotify.com/track/1kLYRXosVxfzYdvQrApT5F"
+    },
+    {
+      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN"
       },
@@ -15558,6 +15638,24 @@
       "duration_ms": 150793,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/57mda9NfUfcfx9mfR9xS2q"
+    },
+    {
+      "album": {
+        "name": "Say Sumn",
+        "url": "https://open.spotify.com/album/5XTxRxBcwuWkgbPEDihhgC"
+      },
+      "artists": [
+        {
+          "name": "Josh Dillon",
+          "url": "https://open.spotify.com/artist/5oMcE7NWSdStKb6sMUzA32"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100555,
+      "name": "Say Sumn",
+      "url": "https://open.spotify.com/track/4tatsYTp5mWL05JZr4Z4hT"
     },
     {
       "album": {
@@ -19244,7 +19342,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 120461,
       "name": "ttuctmd",
       "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
@@ -19306,6 +19404,32 @@
       "duration_ms": 157302,
       "name": "TWYN",
       "url": "https://open.spotify.com/track/242XDNH51jlYKGcudDDv2C"
+    },
+    {
+      "album": {
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/0SzcPIIRnBS4m9E4DqXDbM"
+      },
+      "artists": [
+        {
+          "name": "Den Brooks",
+          "url": "https://open.spotify.com/artist/1KHB9JYXeo7W6JPC0iM8vY"
+        },
+        {
+          "name": "No\u00e9",
+          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
+        },
+        {
+          "name": "Hari",
+          "url": "https://open.spotify.com/artist/59nWbWjJpx13rry6YPJBts"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210713,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/6TVz258t5IriFeq5qFJMuH"
     },
     {
       "album": {
@@ -19986,6 +20110,24 @@
       "duration_ms": 147792,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
+      "album": {
+        "name": "Waterslide",
+        "url": "https://open.spotify.com/album/4vjyEzCe3YV3h2PpL7gZuR"
+      },
+      "artists": [
+        {
+          "name": "IAMTHELIVING",
+          "url": "https://open.spotify.com/artist/4In8v2qeNt0xIzOFqm6mVb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183974,
+      "name": "Waterslide",
+      "url": "https://open.spotify.com/track/3iuYeqY846oq1YqvWULZDC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-98 songs - 4 hr 54 min
+99 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Glacial Glow Alpha 127 Hz \- 135Hz](https://open.spotify.com/track/5SP68Uq0BY4bpbUqBHI8rC) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Alpha Miracle](https://open.spotify.com/album/4ACwHMEvZxyhHm30Kbbbr6) | 3:11 | 2023-04-28 |  |
 | [Hopeful \- Alpha Sinus 64 \- 65,3 hz](https://open.spotify.com/track/57QUXv3pUENQAK1zXb2BKK) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Alpha Sinus](https://open.spotify.com/album/1bKv528U0Z6FgdmFtRUrb9) | 3:30 | 2023-04-28 |  |
 | [Improve Life Binaural Alpha 73.6 Hz \- 81 Hz](https://open.spotify.com/track/0hIv4O3CwH8EyRXnQcG3Fb) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Improve Life Binaural Alpha 73.6 Hz \- 81 Hz](https://open.spotify.com/album/1GcX8KeYhAKMs8Fa7Jmllg) | 3:00 | 2023-04-28 | 2023-10-06 |
+| [Letting Go \(Alpha 104Hz \- 116Hz\)](https://open.spotify.com/track/0AqRTAghz2SxGhhc0l7Z1W) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Letting Go \(Alpha 104Hz \- 116Hz\)](https://open.spotify.com/album/0Ius07yTIgnqsiLbex8fUR) | 2:30 | 2024-07-12 |  |
 | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/track/5XtTRBtppSEe2x08SonoLd) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/album/4nCsTi83xWcKZr24TQGgzY) | 3:08 | 2024-06-11 |  |
 | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/track/7510hFPI8vVEJhyp5gNHPk) | [Sun Pixel](https://open.spotify.com/artist/1pHiSwRuACzlyf5hP6P011) | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/album/77SOSiQ8GtREeX4NXLLJpC) | 4:10 | 2023-09-29 |  |
 | [Meditative Alpha \(L\-116Hz R\-125Hz\)](https://open.spotify.com/track/7gI5bxKKzvPPpL8qxrlPd6) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 5:03 | 2023-04-28 | 2023-12-11 |

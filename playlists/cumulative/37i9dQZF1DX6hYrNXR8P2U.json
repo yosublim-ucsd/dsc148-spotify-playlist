@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Tango Astral",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Omar Montes & Rels B.",
   "name": "piola",
   "tracks": [
     {
@@ -432,6 +432,24 @@
       "duration_ms": 214973,
       "name": "Arte Arte Arte",
       "url": "https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG"
+    },
+    {
+      "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/4DC4DlQlgsMYVTjj9osEgg"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193918,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/39nxr5EypgH8Vm1N3qRlyR"
     },
     {
       "album": {
@@ -1125,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
+        "url": "https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157503,
+      "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
+      "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
+    },
+    {
+      "album": {
         "name": "S\u00faper Terror",
         "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
       },
@@ -1546,7 +1586,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 241297,
       "name": "El rock and roll pas\u00f3 de moda",
       "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
@@ -2361,6 +2401,28 @@
     },
     {
       "album": {
+        "name": "Le\u00f1a",
+        "url": "https://open.spotify.com/album/2z4D7dU1dQsRjt4lMqLudG"
+      },
+      "artists": [
+        {
+          "name": "EnSecreto",
+          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
+        },
+        {
+          "name": "Camilo Zanetti",
+          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "Le\u00f1a",
+      "url": "https://open.spotify.com/track/5NPIee2163RPT0OKVDinJf"
+    },
+    {
+      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -2412,7 +2474,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 145521,
       "name": "Lo Mismo",
       "url": "https://open.spotify.com/track/4RUOJOtd2X7R8X8UA10Uzf"
@@ -2722,7 +2784,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 133922,
       "name": "Mejor As\u00ed",
       "url": "https://open.spotify.com/track/4biLIaK7mnDP20vcbOyCcf"
@@ -3652,7 +3714,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 175445,
       "name": "PEGADA EN EL UNDERGROUND",
       "url": "https://open.spotify.com/track/07p1lTWxODXVqZvFerjqp0"
@@ -5226,6 +5288,28 @@
       "duration_ms": 203196,
       "name": "Yo Soy la Disco",
       "url": "https://open.spotify.com/track/0rn3fjWIwf0iy5bEqGDQHC"
+    },
+    {
+      "album": {
+        "name": "YOTULOKO",
+        "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213699,
+      "name": "YOTULOKO",
+      "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
     },
     {
       "album": {

@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Filibuster",
+        "url": "https://open.spotify.com/album/5uSG5x7Yu0hwFwn6AIvIpw"
+      },
+      "artists": [
+        {
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160929,
+      "name": "Filibuster",
+      "url": "https://open.spotify.com/track/6BWF4wtShcinQ1ikEwzkXl"
+    },
+    {
+      "album": {
         "name": "Forecast",
         "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
       },
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 166820,
       "name": "Go Funk Me",
       "url": "https://open.spotify.com/track/5mzjFN0zUIwB92GdqDY978"

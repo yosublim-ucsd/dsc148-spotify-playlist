@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 194577,
       "name": "From the Dark",
       "url": "https://open.spotify.com/track/5DzBHV9yLIlAEdPIyZNaiP"
@@ -1397,6 +1415,28 @@
     },
     {
       "album": {
+        "name": "American Son",
+        "url": "https://open.spotify.com/album/04YN8o4wnFCHnSQdzmOws4"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        },
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "How Do I Feel Alive (feat. The Castellows)",
+      "url": "https://open.spotify.com/track/13ZVPDLZOj70R8tpq1XBIT"
+    },
+    {
+      "album": {
         "name": "How Do You Do That (feat. Charles Kelley)",
         "url": "https://open.spotify.com/album/1uU9rnfrc4wa8QsvJHpAjB"
       },
@@ -1412,7 +1452,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 194790,
       "name": "How Do You Do That (feat. Charles Kelley)",
       "url": "https://open.spotify.com/track/350G4tn3ngrDwIT6B9QNWc"
@@ -2192,7 +2232,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 210951,
       "name": "Scared of the Dark",
       "url": "https://open.spotify.com/track/2YJAJWHMixHd9XAV5kI9ZM"
@@ -2398,7 +2438,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 143529,
       "name": "Sweet Divorce",
       "url": "https://open.spotify.com/track/0XZQ9p3u749NGdUfggDLDl"
@@ -2514,6 +2554,24 @@
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "album": {
+        "name": "The 3rd",
+        "url": "https://open.spotify.com/album/7dqS41SUcuByE4lwQPBrp2"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174186,
+      "name": "The 3rd",
+      "url": "https://open.spotify.com/track/5dXYiwAoVsq9dyzDGzNTIZ"
     },
     {
       "album": {

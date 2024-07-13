@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: WIM
 
-801 songs - 1 day 19 hr 20 min
+802 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [No Conditions](https://open.spotify.com/track/5GHqCNDXs23kv0RY4g4uMH) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [No Conditions](https://open.spotify.com/album/7EAJhtaEET3DFZKHaLMQK9) | 3:42 | 2022-06-08 | 2022-07-01 |
 | [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-01-25 | 2024-02-16 |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2023-08-31 | 2024-06-21 |
+| [No Question](https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [No Question](https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO) | 2:22 | 2024-07-11 |  |
 | [NO THANKS](https://open.spotify.com/track/1v50Kck2hGkYz3kqCGtFMa) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [NO THANKS](https://open.spotify.com/album/4rMXwc0N1L7WbLfCTem6Ds) | 3:02 | 2023-04-06 | 2023-04-28 |
 | [nobody but you](https://open.spotify.com/track/0c16VSncpcvshuckI2tqt9) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [nobody but you](https://open.spotify.com/album/1YDl6NLyzn5xk5IF3usKxp) | 3:29 | 2023-02-23 | 2023-03-04 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 | 2022-12-17 |

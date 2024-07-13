@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 169283,
+  "num_followers": 169310,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A"
+        "name": "Home Again (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
+      "duration_ms": 209919,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Home Again (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 209919,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Solide Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
-          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
-        }
-      ],
-      "duration_ms": 203930,
-      "name": "1982 - English Version",
-      "url": "https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Solide Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        }
+      ],
+      "duration_ms": 203930,
+      "name": "1982 - English Version",
+      "url": "https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX"
     },
     {
       "added_at": "2024-05-23 22:00:00",

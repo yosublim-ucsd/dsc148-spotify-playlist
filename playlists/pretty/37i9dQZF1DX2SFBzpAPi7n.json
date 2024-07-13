@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YOUHA(\uc720\ud558)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 237894,
+  "num_followers": 237950,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,38 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
+        "name": "ENTITY",
+        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
         "name": "Lips (Feat. GISELLE)",
         "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
       },
@@ -611,18 +643,18 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "ENTITY",
-        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
       },
       "artists": [
         {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 173986,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -643,38 +675,6 @@
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -727,8 +727,8 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "Troubleshooting",
-        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 189546,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
+        "name": "Troubleshooting",
+        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "ASTERUM : 134-1",
-        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "WAY 4 LUV",
-      "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
         "name": "FLY HIGH PROJECT #2 'Rooftop'",
         "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 210652,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
+        "name": "ASTERUM : 134-1",
+        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "WAY 4 LUV",
+      "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "Nothin' Without You",
-        "url": "https://open.spotify.com/album/59KZBxgwyG3TaNQ8LjmIbO"
-      },
-      "artists": [
-        {
-          "name": "Hangsung",
-          "url": "https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh"
-        }
-      ],
-      "duration_ms": 162751,
-      "name": "Nothin' Without You",
-      "url": "https://open.spotify.com/track/2hV74m69tD0OavP0g6TEn6"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
         "name": "HATE XX",
         "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 181013,
       "name": "Hate Rodrigo (Feat. YUQI)",
       "url": "https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
+        "name": "Nothin' Without You",
+        "url": "https://open.spotify.com/album/59KZBxgwyG3TaNQ8LjmIbO"
+      },
+      "artists": [
+        {
+          "name": "Hangsung",
+          "url": "https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "Nothin' Without You",
+      "url": "https://open.spotify.com/track/2hV74m69tD0OavP0g6TEn6"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
+        "name": "[Apocalypse : From us]",
+        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "BONVOYAGE",
+      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "[Apocalypse : From us]",
-        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
+        "name": "Right Through Me",
+        "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 213506,
-      "name": "BONVOYAGE",
-      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
+      "duration_ms": 217972,
+      "name": "Right Through Me",
+      "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -1211,22 +1227,6 @@
       "duration_ms": 176186,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
-        "name": "Right Through Me",
-        "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 217972,
-      "name": "Right Through Me",
-      "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2024-07-10 05:23:17",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-10 05:23:17",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
-    },
-    {
-      "added_at": "2024-07-10 05:23:17",
-      "album": {
         "name": "BURN IT",
         "url": "https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 167533,
       "name": "BURN IT",
       "url": "https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l"
+    },
+    {
+      "added_at": "2024-07-10 05:23:17",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
     },
     {
       "added_at": "2024-07-10 05:23:17",

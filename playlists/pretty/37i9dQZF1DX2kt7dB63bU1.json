@@ -1,29 +1,13 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 142711,
+  "num_followers": 142761,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZowuhwAAAACXDrV0DB4fuv/VuYV6n4z6",
+  "snapshot_id": "ZpCqQAAAAABN4vlDipLMcoYHlx3azwic",
   "tracks": [
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Recuerdo",
-        "url": "https://open.spotify.com/album/6IL2LftKyaU0UXrFWrjgGY"
-      },
-      "artists": [
-        {
-          "name": "Amanda Martinez",
-          "url": "https://open.spotify.com/artist/7nF6i5fJJQGLQmjlCmrBGG"
-        }
-      ],
-      "duration_ms": 213707,
-      "name": "Release me",
-      "url": "https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP"
-    },
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
@@ -39,6 +23,58 @@
       "duration_ms": 340906,
       "name": "Fly Baby",
       "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Break in the Clouds",
+        "url": "https://open.spotify.com/album/5V0LwDqawJdWHZaUhxRypb"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 205651,
+      "name": "Break in the Clouds",
+      "url": "https://open.spotify.com/track/7osYYu7FG5FVeqWG6oNCL1"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "De camino al camino",
+        "url": "https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 340756,
+      "name": "El Panadero",
+      "url": "https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/6IL2LftKyaU0UXrFWrjgGY"
+      },
+      "artists": [
+        {
+          "name": "Amanda Martinez",
+          "url": "https://open.spotify.com/artist/7nF6i5fJJQGLQmjlCmrBGG"
+        }
+      ],
+      "duration_ms": 213707,
+      "name": "Release me",
+      "url": "https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -667,22 +703,6 @@
       "duration_ms": 285068,
       "name": "Guess Who I Saw Today (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/65UnTcy15RkjNnPGQXpx7u"
-      },
-      "artists": [
-        {
-          "name": "Mathew V",
-          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/2I7LnGwzorTgRFn7FymQRg"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1375,22 +1395,6 @@
       "duration_ms": 295745,
       "name": "The Heart Speaks (Antes E Depois)",
       "url": "https://open.spotify.com/track/4yUZufuzpvYysMDheYOIkq"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Songs From Sweetwater (The Motion Picture)",
-        "url": "https://open.spotify.com/album/6A9UjWvIFWBPGoz2VIBAdp"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/6gKgpHghyWdA1YkzsUWTRe"
     },
     {
       "added_at": "2023-07-07 04:01:00",

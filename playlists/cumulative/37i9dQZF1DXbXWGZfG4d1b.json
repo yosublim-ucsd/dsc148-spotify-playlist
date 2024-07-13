@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 264500,
       "name": "Anclado",
       "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173313,
       "name": "Antes de que Olvide",
       "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 211625,
       "name": "A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 270566,
       "name": "Crucificame",
       "url": "https://open.spotify.com/track/4XsxZlFTmhXH3NssKrRTSu"
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 134946,
       "name": "Dame el Dinero",
       "url": "https://open.spotify.com/track/6tJ9c79mosjm3OdEEDdBiW"
@@ -2414,6 +2414,24 @@
       "duration_ms": 201947,
       "name": "Derrumbe",
       "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
+    },
+    {
+      "album": {
+        "name": "Desconsuelo",
+        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
+      },
+      "artists": [
+        {
+          "name": "DOJO",
+          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243126,
+      "name": "Desconsuelo",
+      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
     },
     {
       "album": {
@@ -2696,6 +2714,24 @@
       "duration_ms": 172315,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/0gGG5ljkVeSfUe387KwpOn"
+    },
+    {
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "album": {
@@ -4890,7 +4926,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 146734,
       "name": "Julia",
       "url": "https://open.spotify.com/track/5t7sGOswn980bSMcXw4YTv"
@@ -5388,7 +5424,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
@@ -5866,6 +5902,24 @@
       "duration_ms": 277882,
       "name": "Los Aires de Buenos Aires",
       "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
+    },
+    {
+      "album": {
+        "name": "Fantas\u00edas de Violencia",
+        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
+      },
+      "artists": [
+        {
+          "name": "Bubis Vayins",
+          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253177,
+      "name": "Los Carritos",
+      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
     },
     {
       "album": {
@@ -6882,7 +6936,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173875,
       "name": "mutar la piel",
       "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
@@ -6940,7 +6994,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263976,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j"
@@ -7084,7 +7138,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 221516,
       "name": "Nadie va a decidir por vos",
       "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
@@ -7232,7 +7286,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 196434,
       "name": "No Est\u00e1 Mal Volar",
       "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
@@ -8550,7 +8604,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 271451,
       "name": "Promesas",
       "url": "https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D"
@@ -8684,7 +8738,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
@@ -9121,6 +9175,24 @@
     },
     {
       "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr"
+      },
+      "artists": [
+        {
+          "name": "La Memoria de Funes",
+          "url": "https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137887,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"
+    },
+    {
+      "album": {
         "name": "Cr\u00f3nicas",
         "url": "https://open.spotify.com/album/43nltoTfJ7OZsprDHEoAqP"
       },
@@ -9540,7 +9612,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 243338,
       "name": "Sole",
       "url": "https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx"
@@ -9728,7 +9800,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 181631,
       "name": "Subiendo",
       "url": "https://open.spotify.com/track/2kGHeQIYbEStvCA64yKauG"
@@ -9980,7 +10052,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
@@ -10363,6 +10435,32 @@
     },
     {
       "album": {
+        "name": "Turbo",
+        "url": "https://open.spotify.com/album/49tEJtF1IL4DTjIDmGXTSN"
+      },
+      "artists": [
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        },
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186572,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/3gKDYEoRzHmeIL8B5yuILr"
+    },
+    {
+      "album": {
         "name": "Doble de Riesgo",
         "url": "https://open.spotify.com/album/3AldHEpT3we5tF068rm14O"
       },
@@ -10450,7 +10548,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 172232,
       "name": "Umbral",
       "url": "https://open.spotify.com/track/0a8Jx0sGNGXqouKK6uBXp7"

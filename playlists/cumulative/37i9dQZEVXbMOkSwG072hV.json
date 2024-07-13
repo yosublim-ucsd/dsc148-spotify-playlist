@@ -12923,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -18542,7 +18560,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 174080,
       "name": "Fica Nervoso N\u00e3o",
       "url": "https://open.spotify.com/track/5f4CVX0ZDIxyonXjz9w1rM"
@@ -19260,7 +19278,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -31049,6 +31067,36 @@
     },
     {
       "album": {
+        "name": "MTG - MORENA TROPICANA",
+        "url": "https://open.spotify.com/album/6w2sIkpeRjwqABlckIWWkK"
+      },
+      "artists": [
+        {
+          "name": "\u00c9 O CAVERINHA",
+          "url": "https://open.spotify.com/artist/15d6KjtH9naX1n7HlqpwJz"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        },
+        {
+          "name": "130",
+          "url": "https://open.spotify.com/artist/73HAQfr7ZAzsVkvtLfZX8w"
+        },
+        {
+          "name": "Mc Matieli",
+          "url": "https://open.spotify.com/artist/7lJoSumFi9sLkW99umTrY7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113587,
+      "name": "MTG - MORENA TROPICANA",
+      "url": "https://open.spotify.com/track/0OOr68svJVavMLFKX4UMVm"
+    },
+    {
+      "album": {
         "name": "MTG - PISTA TOMA",
         "url": "https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0"
       },
@@ -35602,7 +35650,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 123000,
       "name": "Oq c\u00ea fez?",
       "url": "https://open.spotify.com/track/2739WNF0lAMaNQt78wIC7p"
@@ -43014,6 +43062,44 @@
       "duration_ms": 180645,
       "name": "Senta Danadinha",
       "url": "https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m"
+    },
+    {
+      "album": {
+        "name": "Senta na 45 (Remix)",
+        "url": "https://open.spotify.com/album/7zW7rA750EH81QRxO9dGav"
+      },
+      "artists": [
+        {
+          "name": "Boyugo",
+          "url": "https://open.spotify.com/artist/43ryrdcWjeDb44wxp6tcxR"
+        },
+        {
+          "name": "Escama Reels",
+          "url": "https://open.spotify.com/artist/0fmDWiAf7kyzpdGn1O3hx0"
+        },
+        {
+          "name": "Danilo chatinho",
+          "url": "https://open.spotify.com/artist/5eRPfl0nidVHlGcMBvrdf2"
+        },
+        {
+          "name": "Arthurzinho batedeira",
+          "url": "https://open.spotify.com/artist/3s06SHQhJVCO1UH9NrVwUT"
+        },
+        {
+          "name": "Gugu Ofc",
+          "url": "https://open.spotify.com/artist/6FaWIumVuKTAbalnVgiduL"
+        },
+        {
+          "name": "mc boyugo",
+          "url": "https://open.spotify.com/artist/0lUd5MacFa0XMXemaP0byQ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151295,
+      "name": "Senta na 45 - Remix",
+      "url": "https://open.spotify.com/track/3lxAve3waRpVjlLPJq7qCN"
     },
     {
       "album": {

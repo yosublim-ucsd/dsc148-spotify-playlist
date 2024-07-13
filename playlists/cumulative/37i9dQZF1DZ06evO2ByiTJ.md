@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 26 min
+60 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 | 2023-07-09 |  |
 | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:26 | 2023-07-09 |  |
 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 | 2023-07-09 |  |
-| [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 | 2023-07-09 |  |
+| [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 | 2023-07-09 | 2024-07-13 |
 | [Deus te Viu \(Ao Vivo\)](https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus te Viu \(Ao Vivo\)](https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT) | 3:50 | 2023-07-09 |  |
 | [Deus Tremendo \(feat\. Vanilda Bordieri, Eliane Silva, Lydia Moisés, Suelen de Jesus, Célia Sakamoto, Elaine Martins & Shirley Carvalhaes\) \- Ao Vivo](https://open.spotify.com/track/3DpGyWrBsi29h0ee7KldAe) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs), [Lydia Moisés](https://open.spotify.com/artist/08zojAOoMjfirGuUAN0QZ2), [Suelen de Jesus](https://open.spotify.com/artist/2W5lEIeNTS4eMWsGv4ZGEB), [Célia Sakamoto](https://open.spotify.com/artist/6r8n8vrg7vwpvp0rqUe1fl), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Elaine de Jesus \- Manifestação da Glória \(Ao Vivo\)](https://open.spotify.com/album/60ZMKOiC9qr4U4Pjs2LICf) | 3:52 | 2023-07-09 |  |
 | [El Elyon](https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [El Elyon](https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T) | 4:00 | 2023-07-09 |  |
@@ -40,6 +40,7 @@
 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 | 2023-07-09 |  |
 | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 5:13 | 2023-07-09 |  |
 | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj) | 4:13 | 2023-07-09 |  |
+| [Não Paro de Crer \(Ao Vivo\)](https://open.spotify.com/track/2ysjU1UzNXXhVVoA3Qc0HU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Não Paro de Crer \(Ao Vivo\)](https://open.spotify.com/album/1VuvsajlE4NRo3dDXLYtRe) | 4:32 | 2024-07-13 |  |
 | [O Cirineu](https://open.spotify.com/track/5pPviO1Xd2xywi4i4iDXT6) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:37 | 2023-07-09 | 2024-02-06 |
 | [O Melhor da Festa](https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 4:07 | 2023-07-09 | 2024-05-06 |
 | [O Preço da Chamada](https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:50 | 2023-07-09 |  |

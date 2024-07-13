@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 299204,
+  "num_followers": 299289,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAACrBc0KaYXx8T1kdbWwsNtY",
+  "snapshot_id": "Zo8ggAAAAACjTT8NPx34o1SIiYJr0Sui",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
       "duration_ms": 223506,
       "name": "I'll Still Kill",
       "url": "https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strength & Loyalty",
-        "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 287480,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4"
     },
     {
       "added_at": null,
@@ -1027,6 +1007,30 @@
       "duration_ms": 214693,
       "name": "Com\u00e9ntale",
       "url": "https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shine Your Light (feat. Akon)",
+        "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 189390,
+      "name": "Shine Your Light (feat. Akon)",
+      "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
     }
   ],
   "unique_name": "This Is Akon",

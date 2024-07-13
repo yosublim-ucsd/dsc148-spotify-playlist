@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-29",
-  "description": "in our emo cowgirl era",
+  "description": "are we okay? \ud83d\udc99",
   "name": "sad girl country",
   "tracks": [
     {
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Hell of a Show",
+        "url": "https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107115,
+      "name": "Hell of a Show",
+      "url": "https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY"
+    },
+    {
+      "album": {
         "name": "Amos",
         "url": "https://open.spotify.com/album/4xb3GQ3k8DQRnfqvAar0pu"
       },
@@ -896,7 +914,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167796,
       "name": "homecoming queen?",
       "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"

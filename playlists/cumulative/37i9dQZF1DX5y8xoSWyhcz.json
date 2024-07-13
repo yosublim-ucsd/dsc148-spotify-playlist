@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq"
+    },
+    {
+      "album": {
         "name": "Anybody Else",
         "url": "https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS"
       },
@@ -7547,6 +7565,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6kllSzXR7OltIa8QkBNEna"
       },
@@ -9624,7 +9660,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 217172,
       "name": "I Hope I Packed A Parachute (feat. Charlotte Cardin)",
       "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"
@@ -9700,6 +9736,24 @@
       "duration_ms": 204493,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/3xRhZ0xgJ4pjXh6XLeSX54"
+    },
+    {
+      "album": {
+        "name": "I liked it",
+        "url": "https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "I liked it",
+      "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
     },
     {
       "album": {
@@ -10224,7 +10278,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
@@ -11168,7 +11222,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 176775,
       "name": "keep our love alive",
       "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
@@ -15710,7 +15764,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 238680,
       "name": "promised",
       "url": "https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ"
@@ -19022,6 +19076,24 @@
       "duration_ms": 192078,
       "name": "Summer Of 99",
       "url": "https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM"
+    },
+    {
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "album": {

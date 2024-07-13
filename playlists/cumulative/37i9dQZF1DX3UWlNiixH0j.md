@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: a子 \(ako\)
 
-1,750 songs - 4 day 12 hr 43 min
+1,751 songs - 4 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 | 2023-12-05 | 2024-01-28 |
 | [ANTS](https://open.spotify.com/track/0KWem3KlGq98EfpzR9qzPL) | [pile of hex](https://open.spotify.com/artist/6Fi3SNqlAYsmyLlMhQO9CX) | [LIQUESCENCE](https://open.spotify.com/album/30az4c7jsmWtd1pa56WL5O) | 2:57 | 2024-02-13 | 2024-02-21 |
 | [Apart](https://open.spotify.com/track/6vK9KmOKRFNmHkkC81fKiA) | [Calendars](https://open.spotify.com/artist/0ClkxUVokbzrFYgECZEmXI) | [Apart](https://open.spotify.com/album/1YRbKbG4TdfRNg6b9suNjF) | 3:26 | 2024-02-13 | 2024-02-21 |
-| [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
+| [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 | 2024-07-13 |
 | [APART](https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [APART](https://open.spotify.com/album/4bCqpGMScqjIAYFiTkG7qC) | 3:16 | 2023-11-29 | 2024-01-12 |
 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 | 2023-10-10 | 2023-12-27 |
 | [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 | 2024-01-11 | 2024-01-24 |
@@ -1211,6 +1211,7 @@
 | [どんとこい](https://open.spotify.com/track/5zdj7jQlyqudEzSSwHn8So) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [どんとこい](https://open.spotify.com/album/2aHn3qMM2akSmHVenXcKzI) | 4:09 | 2024-07-09 |  |
 | [なにを見ても、どこに居ても](https://open.spotify.com/track/3tEJmlEX4BHJ4wloTqd6NS) | [Nombrari](https://open.spotify.com/artist/0tN5CyaLXdQ0MjJFfZZNx2) | [なにを見ても、どこに居ても](https://open.spotify.com/album/2KP4lEiwtC8nds4xPOvJwg) | 3:57 | 2023-02-16 | 2023-03-08 |
 | [なりたいスター](https://open.spotify.com/track/5A7Ct9xnEP1gadsCYHYbem) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [なりたいスター](https://open.spotify.com/album/6CFmSJqmnpFw7kwKl3rCW6) | 1:51 | 2023-06-13 | 2023-06-21 |
+| [なんてね](https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [なんてね](https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu) | 2:32 | 2024-07-12 |  |
 | [なんで](https://open.spotify.com/track/2fdhxvdf9dEWyU0PUAnhfT) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [なんで](https://open.spotify.com/album/6waXnbQlyr6BKp2AHXSxC8) | 4:48 | 2024-05-07 | 2024-05-22 |
 | [なんでもいいよ](https://open.spotify.com/track/4FXWTJcXPOQl37zFvJmsnu) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [なんでもいいよ \- Single](https://open.spotify.com/album/7yeW0A4CI1te45gQg3QvZZ) | 4:06 | 2023-12-12 | 2024-01-10 |
 | [なんとなく春](https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [なんとなく春](https://open.spotify.com/album/4Dqx9HZFfEJnfBJkrJoJkR) | 4:49 | 2023-03-21 | 2023-03-23 |

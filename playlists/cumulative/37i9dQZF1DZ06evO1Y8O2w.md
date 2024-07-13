@@ -2,7 +2,7 @@
 
 ### [This Is Phyllis Hyman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Y8O2w)
 
-> This Is Phyllis Hyman\. Todas as faixas essenciais numa única playlist.
+> This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
 92 songs - 7 hr 15 min
 

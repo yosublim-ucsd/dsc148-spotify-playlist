@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\(비오\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: ASH ISLAND\(애쉬 아일랜드\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-710 songs - 1 day 14 hr 23 min
+711 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,11 +459,12 @@
 | [On The Rocks \(Feat\. h3hyeon, BE′O\)](https://open.spotify.com/track/0jIU2p3kJTeLa2figH0KBj) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [TOTO](https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK) | 2:33 | 2024-04-05 | 2024-06-17 |
 | [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 | 2023-08-16 |  |
 | [one \(feat\. Paul Blanco, Kim Seungmin\)](https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [김승민](https://open.spotify.com/artist/1h8ZqUlVEXd1qvOjXVuFg2) | [one & ashes](https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of) | 3:16 | 2022-07-14 | 2022-07-24 |
-| [One More Night \(Feat\. lIlBOI\)](https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:15 | 2022-05-05 |  |
+| [One More Night \(Feat\. lIlBOI\)](https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:15 | 2022-05-05 | 2024-07-13 |
 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 | 2022-04-01 | 2024-01-19 |
 | [One\-man show \(Feat\. Sik\-K\)](https://open.spotify.com/track/0L4BpVI5JmuCBW4dGNsuAf) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 4:04 | 2022-05-31 | 2022-06-06 |
 | [Only Late at Night \(feat\. Jay Park\) \(prod\. Vangdale\)](https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2](https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq) | 2:31 | 2022-04-01 | 2022-07-27 |
 | [Open sesame \(feat\. sokodomo\)](https://open.spotify.com/track/4jobe1ZAB1fAaTHDkPXQA8) | [WET VIDEO](https://open.spotify.com/artist/2QASfJdWbvHxuGbMhhDFpY), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [first tape of wetvideo](https://open.spotify.com/album/7wnkonllOWH8jzXTvssvkJ) | 2:35 | 2022-04-01 | 2022-07-26 |
+| [OST \( Feat.CHANMINA \)](https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [OST](https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W) | 3:01 | 2024-07-12 |  |
 | [OUR LOVE](https://open.spotify.com/track/6WzG5XMZcRIMk9GtO1RwqX) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG), [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8) | [OUR LOVE](https://open.spotify.com/album/36y5BIfDoZWkh4QMXFqqdl) | 2:59 | 2022-07-04 | 2022-07-15 |
 | [Out Of Control \(feat\. Austn\)](https://open.spotify.com/track/69d5Z6u2fUgVZjQ1RnGqed) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Out Of Control Vol.1](https://open.spotify.com/album/79Qt6gWXEzQsK7Kyg41KnH) | 2:32 | 2022-05-03 | 2022-05-06 |
 | [OUT OF MY SIGHT](https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:26 | 2022-04-01 |  |

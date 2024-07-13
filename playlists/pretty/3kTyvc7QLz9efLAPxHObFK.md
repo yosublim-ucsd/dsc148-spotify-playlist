@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,490 songs - 3 day 9 hr 19 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,501 songs - 3 day 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1498,5 +1498,16 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1488 | [I Make You Shine](https://open.spotify.com/track/36mE5EAeGYh9p7z1cv0sHT) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [I Make You Shine](https://open.spotify.com/album/3n6Q6fOaOJKZp5LtwTt96S) | 2:49 |
 | 1489 | [Do You Think About Me?](https://open.spotify.com/track/0yxGKAoQbBUh2u2FGghUzC) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:05 |
 | 1490 | [DR34M$](https://open.spotify.com/track/55EPegD9KficI9lrBqqnwG) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [DR34M$](https://open.spotify.com/album/10M4qb2LIWkOk2dZWWo6os) | 2:36 |
+| 1491 | [Amsterdam](https://open.spotify.com/track/2H2bOlHuU0PmN4WQXow3fF) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Amsterdam](https://open.spotify.com/album/26mfWofWr1qZZYKATzyIdd) | 2:15 |
+| 1492 | [XXX](https://open.spotify.com/track/34WUnf1dilxGY0Mo5Xcd0x) | [Günther](https://open.spotify.com/artist/5x7GdOcXcuUiSVCbl0hEfm), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [XXX](https://open.spotify.com/album/1mdQprT5Pujf8v18IRmYtE) | 3:08 |
+| 1493 | [Let's Go \- Official So Whappy Festival Uptempo Anthem 2024](https://open.spotify.com/track/0uj9uchLLfj53FWShF9k3N) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM), [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw) | [Let's Go \(Official So Whappy Festival Uptempo Anthem 2024\)](https://open.spotify.com/album/3JIaRDimo9Ig5XIQeikZRB) | 2:25 |
+| 1494 | [Blade](https://open.spotify.com/track/2isnaiDHWbfeBxDCX2IFgs) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Blade](https://open.spotify.com/album/63RWf7BmbEZ69wRyfYBZ9E) | 2:03 |
+| 1495 | [The Fire](https://open.spotify.com/track/6BOyuFmTX9kmXSaFVXrvBf) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp), [Refold](https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY) | [The Fire](https://open.spotify.com/album/2IlmRT5mVyNtVMlWzkGyIu) | 3:12 |
+| 1496 | [ASHES](https://open.spotify.com/track/55phpLII1IcaAds7OHaij4) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ), [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [ASHES](https://open.spotify.com/album/3zjCCUvobCKDRkgPAPqvo0) | 3:06 |
+| 1497 | [Slurring](https://open.spotify.com/track/7gInOEoQ4zfuaxWhCstKep) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [Slurring](https://open.spotify.com/album/0Up48XD0T5vuxrbeKZH7Y5) | 2:48 |
+| 1498 | [Sing To Me](https://open.spotify.com/track/067opKNYqUgf9XS8LkU8bF) | [Sabotage](https://open.spotify.com/artist/7qgWkFGpFqNfno4vKOSkkH) | [Sing To Me](https://open.spotify.com/album/0PhEJ1rpvAIfZMq5baRQSo) | 2:49 |
+| 1499 | [My Favourite Type](https://open.spotify.com/track/5OJrPi0575DImlCfSqFuBf) | [Versattchio](https://open.spotify.com/artist/0p5MbT7aHCmCZfQkDFnMFu), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [My Favourite Type EP](https://open.spotify.com/album/4snMEnGQdNBfhDS2QaZbbo) | 2:47 |
+| 1500 | [Infinite Illusion](https://open.spotify.com/track/7odMAp2ymp0nLDAiHajlv7) | [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh), [Iris Goes](https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2) | [Infinite Illusion](https://open.spotify.com/album/5KWuRSmUowCqMSxL7betOY) | 2:15 |
+| 1501 | [Ravezone](https://open.spotify.com/track/0TW3GBsONmL949IKaqUWg1) | [Udow](https://open.spotify.com/artist/0ks7tKbD7vxmutoXPuwxnB) | [Ravezone](https://open.spotify.com/album/31YEuBxERsTwHaDClZn2l4) | 3:10 |
 
-Snapshot ID: `AAAF/7Uj6sn/qkrYWND3VMnSpP908brG`
+Snapshot ID: `AAAGCh2zs9DYZRY3KTozmXUiiS/ggT/R`

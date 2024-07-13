@@ -1401,6 +1401,28 @@
     },
     {
       "album": {
+        "name": "Fortnight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
+    },
+    {
+      "album": {
         "name": "~how i'm feeling~ (the extras)",
         "url": "https://open.spotify.com/album/0QK2iz42DII4IWWQOzNg3l"
       },
@@ -4954,7 +4976,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 234181,
       "name": "Zuma Beach",
       "url": "https://open.spotify.com/track/5APKmJ6uRNPyq8CvclpgDP"

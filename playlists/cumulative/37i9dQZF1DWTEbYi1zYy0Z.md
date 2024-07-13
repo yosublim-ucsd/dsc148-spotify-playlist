@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-470 songs - 1 day 9 hr 19 min
+471 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Freddie Freeloader](https://open.spotify.com/track/2vICDXXuj3ceVBHlp2ABYg) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Freddie Freeloader](https://open.spotify.com/album/1AzwNDfEC7MTfPMEOGYeOo) | 4:41 | 2023-04-14 |  |
 | [Free to Be](https://open.spotify.com/track/1o1v8l3TX3dX8WsoIWFZN9) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [Free to Be](https://open.spotify.com/album/5byOEdHBtEBC2EOoLt2xMl) | 4:31 | 2020-10-30 | 2022-03-11 |
 | [Free to Fly](https://open.spotify.com/track/5ZLSme3rKR8GP11yElvQPh) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [Rise](https://open.spotify.com/album/5JUjW1QvuVEdeBCtzsujXk) | 4:58 | 2021-09-17 | 2022-09-17 |
-| [Fresh Air](https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx), [Sam Ojalvo](https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip) | [Fresh Air](https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy) | 3:29 | 2024-06-14 |  |
+| [Fresh Air](https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx), [Sam Ojalvo](https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip) | [Fresh Air](https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy) | 3:29 | 2024-06-14 | 2024-07-13 |
 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 | 2022-04-29 | 2023-09-16 |
 | [Galaxy](https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba) | [Zach Sanders](https://open.spotify.com/artist/0jSvsAskhfvKwEzWQ07wCn) | [Galaxy](https://open.spotify.com/album/1p3tbkM2DoGdDVqUgelhef) | 3:17 | 2020-10-30 | 2022-03-15 |
 | [Get On It](https://open.spotify.com/track/5vDEodWFzseVwZLH8sTdo2) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Get On It](https://open.spotify.com/album/0pCwzuO8g4CzYmrkIXhaJX) | 4:00 | 2024-02-16 | 2024-07-06 |
@@ -417,6 +417,7 @@
 | [Terminator](https://open.spotify.com/track/6QOJoThXu58CINhFeyitHf) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Terminator](https://open.spotify.com/album/7qBGqNzkgkC4QyVRMPOJwn) | 3:50 | 2023-11-17 |  |
 | [That Cool Groovy Beatnik Jazz](https://open.spotify.com/track/1JmbkZAfYpjiKY9Ypf4NCC) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [A Little Driving Music](https://open.spotify.com/album/04ZsYsWBmmOm5yAu5KR434) | 5:24 | 2021-05-21 | 2022-03-08 |
 | [That's The Way Of The World \- Radio Edit](https://open.spotify.com/track/7GzQEvo3EJ1ybYeKcoWj1U) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [That's The Way Of The World \(Radio Edit\)](https://open.spotify.com/album/1z53AlUZCtP4wwKPz2elg5) | 3:47 | 2024-03-22 |  |
+| [The Girl From Cagayan De Oro](https://open.spotify.com/track/7hpy2vrgp2duIotpoYPxSl) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [The Girl From Cagayan De Oro](https://open.spotify.com/album/7qU0xAK2XDVk4Qiq2sNzBt) | 4:27 | 2024-07-12 |  |
 | [The Goddess](https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Goddess](https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO) | 4:06 | 2021-10-01 | 2022-09-17 |
 | [The High Road](https://open.spotify.com/track/0Be3igRj4IK9an9kub3YBX) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The High Road](https://open.spotify.com/album/3ZTFOYdW7dM8A1pqlIrwxn) | 3:55 | 2020-10-30 | 2022-03-18 |
 | [The Last Minute](https://open.spotify.com/track/3tzYgQTDUiJbJfbac2pvpH) | [Keith Slattery](https://open.spotify.com/artist/7jaES4z1jJqD3Jp5YSJv77) | [Duality](https://open.spotify.com/album/3MeM8N8Pyu9ZU9EwAoAaeN) | 5:26 | 2021-08-20 | 2022-07-29 |

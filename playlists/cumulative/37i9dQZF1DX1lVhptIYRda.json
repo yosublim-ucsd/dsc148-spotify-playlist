@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Zach Bryan",
+  "description": "Today's top country hits. Cover: Megan Moroney",
   "name": "Hot Country",
   "tracks": [
     {
@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5"
+    },
+    {
+      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/0VPb1qcRGAjJhr0rh1d25D"
       },
@@ -4274,7 +4292,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe"
@@ -9338,7 +9356,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 227891,
       "name": "Old Dirt Roads",
       "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
@@ -10962,6 +10980,24 @@
       "duration_ms": 199068,
       "name": "Six Feet Apart",
       "url": "https://open.spotify.com/track/3aMUiKCIXJeurR5ppEMJZD"
+    },
+    {
+      "album": {
+        "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+        "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191437,
+      "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+      "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
     },
     {
       "album": {

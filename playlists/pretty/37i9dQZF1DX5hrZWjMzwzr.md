@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,364 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,363 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [5 INFLUENCEREK](https://open.spotify.com/track/1pTsC1EwqfBmf8Ab9yVRoK) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [5 INFLUENCEREK](https://open.spotify.com/album/6mLGEbtI3F0aq5Mm7MCSPl) | 2:24 |
 | 2 | [JEREMY SOCHAN](https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [JEREMY SOCHAN](https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw) | 2:25 |
-| 3 | [Ne Rozumiju](https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [BLINDBOX](https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0) | 3:20 |
-| 4 | [BFF](https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [BFF](https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO) | 2:54 |
+| 3 | [BFF](https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [BFF](https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO) | 2:54 |
+| 4 | [Ne Rozumiju](https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [BLINDBOX](https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0) | 3:20 |
 | 5 | [HIPNOZA](https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY) | 3:14 |
 | 6 | [Jolie Jolie](https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Venom Valentino](https://open.spotify.com/artist/4QqbTDfK1yAeJuNaPTivXy) | [Jolie Jolie](https://open.spotify.com/album/11iiBc9zHpGhPrLWCgVZ2K) | 2:33 |
 | 7 | [Nim Zajdzie Słońce](https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A), [Filip Leon](https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Nim Zajdzie Słońce](https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO) | 2:27 |

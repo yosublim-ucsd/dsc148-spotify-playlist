@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: AQUINO
+> Música brasileira fora da curva\. Foto: Jambu
 
-640 songs - 1 day 12 hr 20 min
+642 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Jaz uma Flor](https://open.spotify.com/track/4DFvldKpbj7dAclJSsxj3x) | [Moldrin](https://open.spotify.com/artist/3r6zGJ8POTGaVYelmIc0jf) | [Jaz uma Flor](https://open.spotify.com/album/1CeY970vJdP7gbt8HfXRTp) | 2:04 | 2024-02-16 | 2024-02-24 |
 | [juízo](https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B) | [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [juízo](https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ) | 2:51 | 2023-08-18 | 2024-03-30 |
 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 | 2022-05-13 | 2022-07-23 |
-| [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/track/2B6FmouvT6DchQ9F66K8Fs) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/album/0TBOkEVfhlnfQRK99DlpcT) | 2:56 | 2024-06-07 |  |
+| [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/track/2B6FmouvT6DchQ9F66K8Fs) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/album/0TBOkEVfhlnfQRK99DlpcT) | 2:56 | 2024-06-07 | 2024-07-13 |
 | [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 | 2022-07-09 |
 | [Leds do Japão](https://open.spotify.com/track/7BvivZBQZnRfKUABTyWnwl) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf) | [Leds do Japão](https://open.spotify.com/album/5fGPs5zSyeVMc5mwXNTZMp) | 5:27 | 2022-06-10 | 2023-05-27 |
 | [lentamente](https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [lentamente](https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r) | 3:19 | 2024-01-12 |  |
@@ -320,6 +320,7 @@
 | [Me chama pra dançar](https://open.spotify.com/track/5hDaaCG21ULMZ6Ar4vjm2X) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [QNHMN / MCPD](https://open.spotify.com/album/5U5KGKrvKAyFrgF6UlvUgT) | 3:14 | 2022-05-06 | 2022-06-04 |
 | [me encontra lá :\)](https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [visions](https://open.spotify.com/album/244lG8X2MPejtq1lKFBqa9) | 2:04 | 2022-04-22 | 2022-06-18 |
 | [Me Faça Bem](https://open.spotify.com/track/4R8XqARC4exOYsilfwkoyC) | [Ellefante](https://open.spotify.com/artist/18iXcPpChCj7xOVTHRrqkx), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [Me Faça Bem](https://open.spotify.com/album/3JDhhRgxGEyCCXq9COXc6e) | 3:22 | 2023-10-06 | 2023-10-28 |
+| [medo](https://open.spotify.com/track/3haIgc4Q5hTOiYNWDSYiAH) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [sonhos que nunca morrem](https://open.spotify.com/album/33etIhUAICBW6GkQPNMMWl) | 3:37 | 2024-07-12 |  |
 | [MEDO](https://open.spotify.com/track/1mvrOOfj2wRArXUqhKkjyO) | [Cefa](https://open.spotify.com/artist/47nyfQJpSHM8ezSh6QATyU) | [PRA QUE A REALIDADE NÃO DESTRUA](https://open.spotify.com/album/1pt9CSh2QFHmjA9ozwURW7) | 3:19 | 2023-10-06 | 2023-11-25 |
 | [Medo de Ser](https://open.spotify.com/track/4X2etbLfAFMwedJBQVTjK1) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Medo de Ser](https://open.spotify.com/album/6fY0Q0QUlP21Gr6lZlVcLP) | 2:34 | 2023-05-26 | 2023-06-17 |
 | [Melhor Assim](https://open.spotify.com/track/6Hs1FeGfpsSvgoMKyS7Ggx) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Melhor Assim](https://open.spotify.com/album/2YK1qx4izgB5Wpij68Ig7c) | 2:40 | 2023-10-27 | 2024-06-08 |
@@ -362,7 +363,7 @@
 | [Nada Vai Mudar](https://open.spotify.com/track/4lRljFMS2sUYJWouc5jNYZ) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Nada Vai Mudar](https://open.spotify.com/album/0RqFF8YxJoTazQXgFT4MJj) | 3:02 | 2022-06-10 | 2022-07-23 |
 | [Nascer, Viver, Morrer](https://open.spotify.com/track/188u45zEKJJFaeIO0aMlpF) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nascer, Viver, Morrer](https://open.spotify.com/album/6oabmbCAly8cR8j6I8SqOg) | 1:53 | 2022-05-06 | 2022-06-25 |
 | [nem sempre foi assim](https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [nem sempre foi assim](https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn) | 3:32 | 2022-06-03 | 2022-08-20 |
-| [Nem Sempre Fui Assim](https://open.spotify.com/track/0kCc2xrwESCbpGqtr3qer8) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Nem Sempre Fui Assim](https://open.spotify.com/album/2goR0VRITyLz5FMQ0Pm8W7) | 1:38 | 2024-06-28 |  |
+| [Nem Sempre Fui Assim](https://open.spotify.com/track/0kCc2xrwESCbpGqtr3qer8) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Nem Sempre Fui Assim](https://open.spotify.com/album/2goR0VRITyLz5FMQ0Pm8W7) | 1:38 | 2024-06-28 | 2024-07-13 |
 | [nesse verão](https://open.spotify.com/track/2o7Dnb3uCe2NRJhSEAruNv) | [Ente](https://open.spotify.com/artist/2lOXiSPGZ3mm6JpMhmL1bZ) | [nesse verão](https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A) | 2:47 | 2023-08-18 | 2023-12-02 |
 | [Netuno](https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [Fernando Rischbieter](https://open.spotify.com/artist/5G8onWVn2gx1OL3YuptZ6G) | [Netuno](https://open.spotify.com/album/42JEz98glWhal7Nte70EXS) | 5:50 | 2022-03-18 | 2022-05-07 |
 | [New Hit](https://open.spotify.com/track/2zp5qO1PlJJ5qb6eycAmI2) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/6dDeOUl4ZbHeCmJSWx03xw) | 2:43 | 2024-04-12 |  |
@@ -451,7 +452,7 @@
 | [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 | 2023-02-13 | 2023-03-06 |
 | [PRAZER](https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [PRAZER](https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll) | 3:48 | 2022-06-03 | 2022-06-25 |
 | [Primeira Pessoa](https://open.spotify.com/track/0a3M6e6nChwzrex3W6H4EU) | [Titcho Looper](https://open.spotify.com/artist/37pi9jWX60WC51BeByvvcJ), [Rodrigo Samsara](https://open.spotify.com/artist/16mPOeAPUyjIP11rtquMRC) | [Primeira Pessoa](https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V) | 3:36 | 2022-01-14 | 2022-03-18 |
-| [Primeiro Milhão](https://open.spotify.com/track/3V8QF1FBJhsiLudn6VP42c) | [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z), [Dang](https://open.spotify.com/artist/3RU4WZSYOfui6HPisseoh2) | [Primeiro Milhão](https://open.spotify.com/album/3arGuFXYKfRDskxBQkU2zt) | 2:16 | 2024-07-05 |  |
+| [Primeiro Milhão](https://open.spotify.com/track/3V8QF1FBJhsiLudn6VP42c) | [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z), [Dang](https://open.spotify.com/artist/3RU4WZSYOfui6HPisseoh2) | [Primeiro Milhão](https://open.spotify.com/album/3arGuFXYKfRDskxBQkU2zt) | 2:16 | 2024-07-05 | 2024-07-13 |
 | [Projeto Psiquiatria](https://open.spotify.com/track/2Z5oPMEQgBdfj1tLS8HIp5) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Projeto Psiquiatria](https://open.spotify.com/album/5r4sReyehHwEXuTM5wJQJ5) | 2:36 | 2022-04-29 | 2022-05-07 |
 | [Pulsar](https://open.spotify.com/track/75sJgyyoWq8Hz8793E1oIO) | [Arequipa](https://open.spotify.com/artist/0pnDB20LmxCVBhFuFAIcWw) | [Um Novo Caminho](https://open.spotify.com/album/1xYId2qIZVZ3EnGLp88BCN) | 3:27 | 2022-01-14 | 2022-08-06 |
 | [puro osso](https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso](https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0) | 3:37 | 2023-10-13 | 2024-05-18 |
@@ -608,6 +609,7 @@
 | [vai/fica](https://open.spotify.com/track/5J0d2UZQqY2tArK3i2HJzT) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [vai/fica](https://open.spotify.com/album/7iGZTI4eHlpjJYPLwbQF04) | 4:41 | 2022-01-14 | 2022-07-16 |
 | [Vale](https://open.spotify.com/track/3RsbQPOPalz26UnLQqBf3v) | [Festa Tempestade](https://open.spotify.com/artist/708vDP7cL5EXTGmLudtzR0) | [Vale](https://open.spotify.com/album/2mkkUx8L4pbKO3RqI4tAzx) | 3:49 | 2022-06-03 | 2022-08-06 |
 | [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2022-03-18 | 2022-06-11 |
+| [vc se foi e é tarde](https://open.spotify.com/track/3H38lOqSjOmKjsWWM2j6ph) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [vc se foi e é tarde](https://open.spotify.com/album/2LPCcoA9if6S59yj38PWSe) | 3:42 | 2024-07-12 |  |
 | [VEJA](https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [tds bem Global](https://open.spotify.com/album/5pGNFxHPkUaCu267VsRIXV) | 2:47 | 2023-09-01 | 2023-11-11 |
 | [Velho](https://open.spotify.com/track/1yTbENAWVsV5pasctksZp7) | [Jova](https://open.spotify.com/artist/5DETkZU3Alp5yzyLmB5rnw) | [Casa Caída](https://open.spotify.com/album/7IysNwtPcvNZtMgtz0V2kP) | 3:02 | 2023-04-14 | 2023-05-20 |
 | [vem cá](https://open.spotify.com/track/0w6WQE0WeYGslTMm79hh8z) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ), [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [vem cá](https://open.spotify.com/album/6fgGTsrWSyPnX1s7wVc2RH) | 3:25 | 2022-04-08 | 2022-05-14 |

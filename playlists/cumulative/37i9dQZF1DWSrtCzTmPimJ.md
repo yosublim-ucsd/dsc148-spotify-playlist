@@ -4,7 +4,7 @@
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-156 songs - 8 hr 9 min
+157 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Healing Alpha Sinus 106Hz \- 113Hz](https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp) | [AEX8](https://open.spotify.com/artist/6YKzzuOtORw4h0XGtkQQGb) | [Sound Bath](https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw) | 3:38 | 2023-11-24 |  |
 | [Interstellar Alpha 76Hz \- 83Hz](https://open.spotify.com/track/3vAJu0wV08n5Kbp81owWWR) | [Zeta Loxi](https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL) | [Interstellar Alpha 76Hz \- 83Hz](https://open.spotify.com/album/2GLyBi2j9uGDUgvbYDWfHA) | 2:33 | 2023-11-24 |  |
 | [Intuition \(Alpha Waves\)](https://open.spotify.com/track/0iFgGETi7Pk5dVxWhR05BJ) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Your Soul Knows](https://open.spotify.com/album/0y2XYw9JVyuSGmbOPhjXvt) | 2:55 | 2023-11-24 |  |
+| [Letting Go \(Alpha 104Hz \- 116Hz\)](https://open.spotify.com/track/0AqRTAghz2SxGhhc0l7Z1W) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Letting Go \(Alpha 104Hz \- 116Hz\)](https://open.spotify.com/album/0Ius07yTIgnqsiLbex8fUR) | 2:30 | 2024-07-12 |  |
 | [Macro Alpha 9Hz](https://open.spotify.com/track/1m8WXWhKsei0DNq9eJiRlp) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Macro Alpha 9Hz](https://open.spotify.com/album/6q9OvZj9UTzi6iikvnY7ri) | 2:49 | 2023-11-24 |  |
 | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/track/5XtTRBtppSEe2x08SonoLd) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/album/4nCsTi83xWcKZr24TQGgzY) | 3:08 | 2024-06-11 |  |
 | [Magma \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/37KxUBZ31TpipzVERTe7cJ) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 5:39 | 2023-11-24 |  |

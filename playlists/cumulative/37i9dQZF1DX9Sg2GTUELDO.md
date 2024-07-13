@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover：Sammi 鄭秀文
 
-329 songs - 19 hr 54 min
+331 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Only For Me](https://open.spotify.com/track/32nbQpvBnCDtXv59qchVdX) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Only For Me](https://open.spotify.com/album/4FkPEW0c45VA6ANisI3Wod) | 3:30 | 2024-06-27 |  |
 | [Out of the blue](https://open.spotify.com/track/5fJ9reRZCwq1ezsi9w4CdF) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Out of the blue](https://open.spotify.com/album/1GOtkuxH60AYTFKN1ul97u) | 3:26 | 2024-06-27 |  |
 | [Planet Nine](https://open.spotify.com/track/319vdKBCMdU0lSqk0DyPBo) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [Planet Nine](https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk) | 3:12 | 2024-06-27 |  |
+| [Pretty Good](https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [Pretty Good](https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu) | 3:15 | 2024-07-11 |  |
 | [Rain Rain地](https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Rain Rain地](https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS) | 3:10 | 2024-06-27 |  |
 | [Ride It Out](https://open.spotify.com/track/72Gt3dMTL2sQvjzJ9WU5Dn) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Ride It Out](https://open.spotify.com/album/1M0RzGTeOkCoJohtc22lLG) | 3:20 | 2024-06-27 |  |
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2024-06-27 |  |
@@ -158,6 +159,7 @@
 | [反烏托邦三部曲](https://open.spotify.com/track/2m4SorkT8zwRPVlSgQn4RK) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [反烏托邦三部曲](https://open.spotify.com/album/74XFMCPPsfb2EbpgHZjFxw) | 3:13 | 2024-06-27 |  |
 | [只記住你](https://open.spotify.com/track/1G5wuyySO7QZrD8aLIEmBh) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [只記住你](https://open.spotify.com/album/2el5KyUqO9Q8UXNpcg2A09) | 4:17 | 2024-06-27 |  |
 | [召喚絲](https://open.spotify.com/track/6LIDiHobyM8cop2efQJfb1) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [召喚絲](https://open.spotify.com/album/3MzUyJuZd9GPKDJtWP5mit) | 2:33 | 2024-06-27 |  |
+| [可愛的東西](https://open.spotify.com/track/4Cb0PkLEaQ4Gt5POqCodi8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [可愛的東西](https://open.spotify.com/album/5tDZuG6gTuxgo0MTVEFKka) | 3:24 | 2024-07-11 |  |
 | [史詩式完結](https://open.spotify.com/track/4PZ8v9on8C5V2L98xzgT8x) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [The Odyssey of Freya](https://open.spotify.com/album/12w8t90ZpgzOk9vz65NfNq) | 3:39 | 2024-06-27 |  |
 | [吃掉悲傷](https://open.spotify.com/track/0aqCB1fR2LiVmvg9iJYJgK) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Dream](https://open.spotify.com/album/6bmp48Idlo6783B88MS5kn) | 3:41 | 2024-06-27 |  |
 | [同枕 \- 劇集《再見 · 枕邊人》主題曲](https://open.spotify.com/track/1FuNK21Cdv2CjQnV4rftay) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [同枕 \(劇集《再見 · 枕邊人》主題曲\)](https://open.spotify.com/album/4ohfUB6jw3hZy8aTaqD9v9) | 3:51 | 2024-06-27 |  |

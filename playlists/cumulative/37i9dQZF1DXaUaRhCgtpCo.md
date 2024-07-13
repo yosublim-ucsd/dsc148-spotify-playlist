@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-154 songs - 8 hr 25 min
+155 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Train Heist \- "The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\)" Bonus Track](https://open.spotify.com/track/7I0Wha0ZV4GEq2PxWpg1mb) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 2 \(Chapters 5\-7\) \[Original Soundtrack\]](https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC) | 6:15 | 2022-02-11 |  |
 | [We Go Together](https://open.spotify.com/track/1Tu24oNxMH9mt7gdJV5j9h) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 3:17 | 2021-05-14 |  |
 | [Where I Fit](https://open.spotify.com/track/29nfXHhCyMJpQF8Z7bXztE) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch – Season 2: Vol\. 1 \(Episodes 1\-8\) \[Original Soundtrack\]](https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M) | 3:36 | 2023-02-21 |  |
+| [Where the Sun Sails and the Moon Walks](https://open.spotify.com/track/6WJZY3pVLemc5Xjx6YTBGE) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 2](https://open.spotify.com/album/2XDg88QEu1s1i5epFgW4Hg) | 2:33 | 2024-07-12 |  |
 | [Who Are You?](https://open.spotify.com/track/3vzAoaGvVA7UFaVuGjUG0p) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:04 | 2021-05-14 |  |
 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 | 2021-05-14 |  |
 | [“Chrome Dome”](https://open.spotify.com/track/1ACII6dVvZETwW8FtpDzfI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 2:01 | 2021-05-14 |  |

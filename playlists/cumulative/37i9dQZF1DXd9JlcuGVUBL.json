@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=99Tr1uxXR3WE8vIbfMbUqA\">Zach Bryan</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0?si=thfFqc9xSU2G3-VWFd2mKg\">Megan Moroney</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "album": {
@@ -243,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Diamante Maak Baba's",
+        "url": "https://open.spotify.com/album/4Lj0Xzyg3W1MacXNxTQC0M"
+      },
+      "artists": [
+        {
+          "name": "Corn\u00e9 Louw",
+          "url": "https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183302,
+      "name": "Diamante Maak Baba's",
+      "url": "https://open.spotify.com/track/5uaUeuchs7YAfgfGaVm30b"
+    },
+    {
+      "album": {
         "name": "Didn't I",
         "url": "https://open.spotify.com/album/5owWR8QqLFMGRnNIK0pftp"
       },
@@ -258,6 +294,24 @@
       "duration_ms": 205860,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/3pKrznV5COeDouofUDzq6F"
+    },
+    {
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170629,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
     },
     {
       "album": {
@@ -366,7 +420,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 213880,
       "name": "Heartbreak King",
       "url": "https://open.spotify.com/track/4f7mzXeDSFtgQHDBjrSKYe"
@@ -776,7 +830,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 206549,
       "name": "Prayed For You",
       "url": "https://open.spotify.com/track/2ihFl88JQJtqPzsNQaS4BU"
@@ -816,7 +870,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168571,
       "name": "Rooi Wit & Blou",
       "url": "https://open.spotify.com/track/2BoIVfNrLDsnhcjwd8eyNa"

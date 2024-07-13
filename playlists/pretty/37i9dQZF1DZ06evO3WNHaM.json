@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 364959,
+  "num_followers": 365313,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAACxCqNgj9j2Q7LLfm7s1Lqv",
+  "snapshot_id": "Zo8ggAAAAAAYC0kaKILnvDAqXFl4yeMq",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 276573,
-      "name": "Dai the Flu",
-      "url": "https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deftones",
         "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 203066,
       "name": "Needles and Pins",
       "url": "https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 276573,
+      "name": "Dai the Flu",
+      "url": "https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Lhabia",
-      "url": "https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -555,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 250222,
-      "name": "Ohms",
-      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Feiticeira",
-      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -596,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Lotion",
-      "url": "https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA"
+      "duration_ms": 251173,
+      "name": "Lhabia",
+      "url": "https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5"
     },
     {
       "added_at": null,
@@ -619,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Feiticeira",
+      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 220826,
       "name": "Root",
       "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Lotion",
+      "url": "https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 317281,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "(L)MIRL",
+      "url": "https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC"
     },
     {
       "added_at": null,

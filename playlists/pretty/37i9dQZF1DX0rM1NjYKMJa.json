@@ -1,15 +1,35 @@
 {
-  "description": "Carnival Sounds getting you ready for Miami Carnival 2023 curated by DJ JEL.",
-  "num_followers": 219965,
-  "original_name": "Carnival 2023",
+  "description": "The sound of 2024's Carnival Season. Cover: V'ghn",
+  "num_followers": 219987,
+  "original_name": "Carnival Sounds 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZRDGGwAAAABHtWtD2OPkFu4CrW48r0U9",
+  "snapshot_id": "ZpFbPAAAAACFg4hyIIg3OH8V1hXU/zh0",
   "tracks": [
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
+      "album": {
+        "name": "Heart of Carnival",
+        "url": "https://open.spotify.com/album/2N1jemN8hCRdsqFOX5dS5k"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "MSK MuSiK",
+          "url": "https://open.spotify.com/artist/6C7HNY3aVuBoEFPfvLNY7w"
+        }
+      ],
+      "duration_ms": 220808,
+      "name": "Heart of Carnival",
+      "url": "https://open.spotify.com/track/3Iq1wvKVm62usdyRYSpgll"
+    },
+    {
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Black Keys Riddim",
         "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
@@ -33,23 +53,7 @@
       "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
-      "album": {
-        "name": "Welcome To Spicemas",
-        "url": "https://open.spotify.com/album/1CjKM4g3AY5QrrVGN76Ife"
-      },
-      "artists": [
-        {
-          "name": "V'ghn",
-          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Welcome To Carnival",
-      "url": "https://open.spotify.com/track/5iQDeHszlApK5qgRaqEBTv"
-    },
-    {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/5mCdl9mYVaiJtqyzgzoAi6"
@@ -69,7 +73,7 @@
       "url": "https://open.spotify.com/track/4fmwyrPZ8cLFxOfchNXPf5"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
@@ -85,7 +89,7 @@
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Mind Off",
         "url": "https://open.spotify.com/album/0BLUeiCJ9m17THomGHIOty"
@@ -105,7 +109,7 @@
       "url": "https://open.spotify.com/track/12TP8c0mlvpZpKo1YhVcKc"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Clock Out",
         "url": "https://open.spotify.com/album/5ibA0XpRs4AUr9yXi43uho"
@@ -125,7 +129,7 @@
       "url": "https://open.spotify.com/track/3PI8rjpnZRJxxM2icDEbpB"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Nu 80's Riddim",
         "url": "https://open.spotify.com/album/0wq2TM47QNG7c15eoW32d0"
@@ -141,7 +145,7 @@
       "url": "https://open.spotify.com/track/1wmteKWEgIrPjlR6mDjPkE"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "The A List",
         "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
@@ -157,7 +161,7 @@
       "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
@@ -177,7 +181,23 @@
       "url": "https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
+      "album": {
+        "name": "Welcome To Spicemas",
+        "url": "https://open.spotify.com/album/1CjKM4g3AY5QrrVGN76Ife"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "Welcome To Carnival",
+      "url": "https://open.spotify.com/track/5iQDeHszlApK5qgRaqEBTv"
+    },
+    {
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Shake The Place",
         "url": "https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Like Yuh Self",
         "url": "https://open.spotify.com/album/3CRTmP0iyWPAsG54CkxUO5"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Long Live Soca",
         "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Mood (feat. Kes)",
         "url": "https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/4fYB2DqsRfxBlANK6gxVVC"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "FAMI SUMMER",
         "url": "https://open.spotify.com/album/5Mqife0K9kGhxmXJsnqUy9"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/0BtgOXvhaWt8AZizp6Jqt1"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Brain Freeze",
         "url": "https://open.spotify.com/album/7Aej7C4X2G1TcuIdCe6i9j"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/5h7UTFQiHqJxK7lLzMnS6S"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "High Street Riddim",
         "url": "https://open.spotify.com/album/4oHMfkHxT3nEEKkvNwW2Jr"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/2T9IHcNmJYm8KlHR0IFfkF"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "High Street Riddim",
         "url": "https://open.spotify.com/album/4oHMfkHxT3nEEKkvNwW2Jr"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/5PkP7Qcu0ZRYf0xZN4nnW0"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Trini Gyal",
         "url": "https://open.spotify.com/album/0GNdlmTccSekEIEq5LGeru"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/25sC1sdLyyqDKRWA79Wuid"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Mas",
         "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Headways",
         "url": "https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Slam Bang Riddim (No Drums & Percussions)",
         "url": "https://open.spotify.com/album/0Sias9IMrc4QjA4LLMnsrP"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/0Ge3TTT92PENBkEKxm1pKf"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Entering Greenzland",
         "url": "https://open.spotify.com/album/6lRs5CDfFAXEz8EaCn1Lhc"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/1OSQ76fIK7bR3OxbFTwj6h"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Slam Bang Riddim",
         "url": "https://open.spotify.com/album/0JgpoUoUMf9GnHfBudgAzo"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/4vPXWwTTxFJDx6ze8ocf8s"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Slam Bang Riddim",
         "url": "https://open.spotify.com/album/0JgpoUoUMf9GnHfBudgAzo"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/66BSLhzGVYcUUI8fTA6mbl"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Slam Bang Riddim",
         "url": "https://open.spotify.com/album/0JgpoUoUMf9GnHfBudgAzo"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/7dx8Z81E84h6XR7utcDZr8"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Fuh Spite",
         "url": "https://open.spotify.com/album/32VuD7Ugc4pEHPSGhrgt0G"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/6LwbLdUGrzO2BLjJu4nz7v"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Do What Yuh Want",
         "url": "https://open.spotify.com/album/3qgJjoCnV20wKZqRAJBs69"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/5zhsPGBmNDFQtjhsziS0t1"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/24dNsKnZXTFyyw2QzwRek1"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/3r5fGWOFozVnOPW4FSdjzP"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/47sdbQ1s6UieWF0zc1GnFa"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/5UE2ij3ca8bF3iWP5Kdt6q"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Nat U",
         "url": "https://open.spotify.com/album/63zelq9SbPGWRVZqIPNomO"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/7l6HLS77xO676yIOveWq9a"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "16 Oz. (Big Cup Riddim Version)",
         "url": "https://open.spotify.com/album/4yIFDYoHv1aRUEEHb16OGA"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/2plWOd8BgfD86Dx3o7Cwc9"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Last One Standing",
         "url": "https://open.spotify.com/album/74VjvYwI7iWXlq33hpcfL6"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/0KD1RhPkWYCjjz9EGYJ0lC"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Kon Sa",
         "url": "https://open.spotify.com/album/2vsBRtHowz1lItiHd4yI9l"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/3inCj3ZQ7RRqtvH0vG5wbz"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Hello Carnival",
         "url": "https://open.spotify.com/album/5R8hkmBAqZxpUk93st5Exk"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/3oWHkOKSrzVNNBMGjkOQnX"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Festival of Fire Riddim",
         "url": "https://open.spotify.com/album/6Qtqo6aIFAEUZI0fHVgINC"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/60JbCdnGtjktguVEToZW6N"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Push Back (Remix)",
         "url": "https://open.spotify.com/album/4wuUlqGIc5LtEhUi3k8Gwk"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/23ESifJg3CWLdYrCAL13C3"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "DAP (Drink and Party)",
         "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Freestyle Riddim, Pt. 1",
         "url": "https://open.spotify.com/album/5SPVidZO4L6rM4tP0bkP1w"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/1zH4ohNBrmrIHxDiEio1n9"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "WAISTLINE",
         "url": "https://open.spotify.com/album/1MZVNfWop2Vo2iaCyJFcyL"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/4zg38Wr08ig2EEkNC7Mm29"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Dibby Service Riddim",
         "url": "https://open.spotify.com/album/29Q7TXugc9MZ0w89W4ksWX"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/0ns1T6tt2DuQi5bCWfajBP"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Happy Daze Riddim",
         "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/5RuFeFXb4fmGiNyxedd34J"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Happy Daze Riddim",
         "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "The Ambush",
         "url": "https://open.spotify.com/album/6O7FDRJbtwZfpSONdGGVSg"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/1Uee0NFQjcpKDHi1BlXHcw"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/5pfuWbu38Rnbfbdzv4ZB0G"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/5VKLvoBIU8nJJwqWo2mQyG"
     },
     {
-      "added_at": "2023-09-24 23:28:27",
+      "added_at": "2024-07-12 16:35:08",
       "album": {
         "name": "DREAM",
         "url": "https://open.spotify.com/album/6mn9DaFLP61AJWjRohApNA"
@@ -869,6 +889,6 @@
       "url": "https://open.spotify.com/track/6Yb7jQk2hbILD9kHQnpoaH"
     }
   ],
-  "unique_name": "Carnival 2023",
+  "unique_name": "Carnival Sounds 2024",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa"
 }

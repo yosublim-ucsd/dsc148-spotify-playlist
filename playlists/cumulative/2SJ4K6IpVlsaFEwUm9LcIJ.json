@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Lost Marbles and Exploded Evidence",
+        "url": "https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw"
+      },
+      "artists": [
+        {
+          "name": "Enon",
+          "url": "https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "Kanon",
+      "url": "https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA"
+    },
+    {
+      "album": {
         "name": "Know By Heart",
         "url": "https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG"
       },

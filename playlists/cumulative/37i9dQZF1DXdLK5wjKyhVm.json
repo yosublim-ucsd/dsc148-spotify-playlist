@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "73 Spaceloop",
+        "url": "https://open.spotify.com/album/4CSoFQ8KiiRONQB5b59WFj"
+      },
+      "artists": [
+        {
+          "name": "BluntOne",
+          "url": "https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79103,
+      "name": "73 Spaceloop",
+      "url": "https://open.spotify.com/track/6NpJrkwYfrBXppjRbyjoL8"
+    },
+    {
+      "album": {
         "name": "Adam & Eve",
         "url": "https://open.spotify.com/album/3f4VKn62ZlxpULUeacSGlm"
       },
@@ -170,6 +188,24 @@
       "duration_ms": 131069,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub"
+    },
+    {
+      "album": {
+        "name": "always by your side",
+        "url": "https://open.spotify.com/album/7zdxISh4gzSHasN6xBDyG2"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108068,
+      "name": "always by your side",
+      "url": "https://open.spotify.com/track/79q1pBgBHbtakGcIaoGLJs"
     },
     {
       "album": {
@@ -402,7 +438,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 114000,
       "name": "Ayways",
       "url": "https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1"
@@ -837,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Broke2broken",
+        "url": "https://open.spotify.com/album/2PZiaTEs4mtUuxGMCdOFrJ"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Broke2broken",
+      "url": "https://open.spotify.com/track/2hiFXcFHL1lIMzZV7xl16p"
+    },
+    {
+      "album": {
         "name": "Brooklyn Fridge",
         "url": "https://open.spotify.com/album/3X8dq5MIueZuj1oUBWcSOB"
       },
@@ -1256,7 +1310,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 127307,
       "name": "Cloud Nine",
       "url": "https://open.spotify.com/track/6EYlWAcBvydDEVfkDYADg7"
@@ -1490,6 +1544,24 @@
       "duration_ms": 165626,
       "name": "Curls",
       "url": "https://open.spotify.com/track/2ECNr4Li4S3wgmhlgzzDnz"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/2itZuZzqQz9q1Lojz0a6bA"
+      },
+      "artists": [
+        {
+          "name": "Looper Boy",
+          "url": "https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dad's Typewriter Feels",
+      "url": "https://open.spotify.com/track/5HnINSPgOBtvkLvCdywObE"
     },
     {
       "album": {
@@ -1852,6 +1924,24 @@
       "duration_ms": 129522,
       "name": "Downhill",
       "url": "https://open.spotify.com/track/4YC5W9CCrGwppDSFVOBlEz"
+    },
+    {
+      "album": {
+        "name": "Dream Drift",
+        "url": "https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Dream Drift",
+      "url": "https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4"
     },
     {
       "album": {
@@ -2286,7 +2376,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 111750,
       "name": "Fika",
       "url": "https://open.spotify.com/track/32gy3AZgAjxHUUpVzA42YD"
@@ -2760,7 +2850,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 114782,
       "name": "Golden",
       "url": "https://open.spotify.com/track/72nUDZndXIVqRfcN8QY0OO"
@@ -2940,7 +3030,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155200,
       "name": "Headspace allure",
       "url": "https://open.spotify.com/track/2o46b3oeFeTEiVfxL98Kls"
@@ -4480,7 +4570,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 143693,
       "name": "Magic Mellow",
       "url": "https://open.spotify.com/track/4r4zfbVrsRbxkIi1Oq0nVz"
@@ -5264,6 +5354,24 @@
       "duration_ms": 145500,
       "name": "No Requests",
       "url": "https://open.spotify.com/track/5nl0c4J9RxP2hW4R8mzSbG"
+    },
+    {
+      "album": {
+        "name": "Noc turne",
+        "url": "https://open.spotify.com/album/5mSF6UngJPQ3vop2P9eiWV"
+      },
+      "artists": [
+        {
+          "name": "Zeitgeister",
+          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Noc turne",
+      "url": "https://open.spotify.com/track/0bdMRNjinGp524wzoc0Wwi"
     },
     {
       "album": {
@@ -6104,6 +6212,24 @@
       "duration_ms": 117321,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/4N1FXj7JNxeBg6fOyQyFHV"
+    },
+    {
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/4lslNVpFJjWTzQcypAooxN"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144313,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/3a9FDZH7YfRaTvrfdWnn43"
     },
     {
       "album": {
@@ -7607,6 +7733,24 @@
     },
     {
       "album": {
+        "name": "Tarkwa",
+        "url": "https://open.spotify.com/album/4e8AmquKCOiJtKHqjkRttj"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Tarkwa",
+      "url": "https://open.spotify.com/track/7GvpuOuUTrXDMihnd5lC4m"
+    },
+    {
+      "album": {
         "name": "Tea Leaves",
         "url": "https://open.spotify.com/album/6kWCwBJw2tWfoVWP5gGJAv"
       },
@@ -8230,6 +8374,24 @@
       "duration_ms": 126160,
       "name": "under water",
       "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
+    },
+    {
+      "album": {
+        "name": "Up In The Clouds Again",
+        "url": "https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po"
+      },
+      "artists": [
+        {
+          "name": "astra division",
+          "url": "https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127856,
+      "name": "Up In The Clouds Again",
+      "url": "https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI"
     },
     {
       "album": {

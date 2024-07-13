@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-100 songs - 4 hr 44 min
+101 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 | 2023-12-13 |  |
 | [S.B.W](https://open.spotify.com/track/0ouqa582jNyX4B5Gvvjwh9) | [Chromazz](https://open.spotify.com/artist/3OhxI9yPQIh8L5uRPB1WG7) | [S.B.W](https://open.spotify.com/album/2qQkJlgbShVtQsbI9D03eS) | 2:57 | 2023-12-13 |  |
 | [Simulation](https://open.spotify.com/track/5qmofSYIqQIDfm09Q8gwal) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Light Path 8](https://open.spotify.com/album/7fzkvNhOaUDsihQRGLl1K9) | 3:01 | 2023-12-13 |  |
-| [Sugar Mommy](https://open.spotify.com/track/00bnJqF7gcNMGInQhCr1Ps) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [Sugar Mommy](https://open.spotify.com/album/1hSFusQy5BLr7CWMC1UrIo) | 2:50 | 2023-12-13 |  |
+| [Sugar Mommy](https://open.spotify.com/track/0fuWxGIvZGIvp5yP61a3mw) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [Sugar Mommy](https://open.spotify.com/album/6kcAxB2fgyeTfl8FP0usM5) | 2:50 | 2024-07-12 |  |
+| [Sugar Mommy](https://open.spotify.com/track/00bnJqF7gcNMGInQhCr1Ps) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [Sugar Mommy](https://open.spotify.com/album/1hSFusQy5BLr7CWMC1UrIo) | 2:50 | 2023-12-13 | 2024-07-13 |
 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 | 2023-12-13 |  |
 | [Sunrise](https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/4xYXybTIaWJJVR3ahv85TO) | 2:18 | 2023-12-13 |  |
 | [Sunshine](https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ) | 2:52 | 2024-02-27 |  |

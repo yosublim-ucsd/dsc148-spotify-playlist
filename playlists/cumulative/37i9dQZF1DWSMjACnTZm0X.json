@@ -4561,6 +4561,28 @@
     },
     {
       "album": {
+        "name": "Sweat (Yumbs Remix)",
+        "url": "https://open.spotify.com/album/4svCZq2P5edr3izapQKj0v"
+      },
+      "artists": [
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Sweat - Yumbs Remix",
+      "url": "https://open.spotify.com/track/1Mu7Wh7hNeoC7GFBcIcjhc"
+    },
+    {
+      "album": {
         "name": "Take Ova (Remix)",
         "url": "https://open.spotify.com/album/4t8jMBM6olQPkf1y8SonMR"
       },

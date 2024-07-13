@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: David Carreira, LEO2745
 
-77 songs - 4 hr 14 min
+78 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/track/1Qi9DwRbJCAyBsLWY8Lope) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/album/0wQJo0SvCjABJJjgINGylA) | 3:22 | 2024-06-27 |  |
 | [G Wagon](https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [G Wagon](https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az) | 3:10 | 2024-07-04 |  |
 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 | 2024-06-27 |  |
-| [Há Sempre Uma Música](https://open.spotify.com/track/72zUGpAotxbRhlqXnB9nSD) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [SNTMNTL](https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn) | 3:01 | 2024-07-11 |  |
+| [Há Sempre Uma Música](https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Há Sempre Uma Música](https://open.spotify.com/album/68etasB9n5OlhGaBIxX6s9) | 3:01 | 2024-07-12 |  |
+| [Há Sempre Uma Música](https://open.spotify.com/track/72zUGpAotxbRhlqXnB9nSD) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [SNTMNTL](https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn) | 3:01 | 2024-07-11 | 2024-07-13 |
 | [I Love You](https://open.spotify.com/track/0JEoLrMXfX2eAuBqWGLQdt) | [Gui Santos](https://open.spotify.com/artist/3kjKGb3DFDRYUrht01EnWK), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [I Love You](https://open.spotify.com/album/2EhWvwxCdHOLcIZbrylw8o) | 3:09 | 2024-06-27 | 2024-07-12 |
 | [Juntar Estrelas](https://open.spotify.com/track/0OS0JI6vlxidLQnrZQ2G3m) | [Ivo Lucas](https://open.spotify.com/artist/2Py0XQSu8EfmYYOzvbOco5), [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Juntar Estrelas](https://open.spotify.com/album/3Zcv7hf4aVLPbDiIy19p7t) | 3:38 | 2024-06-27 |  |
 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/album/2WZOiUyx2FeSnmzdXWFhPs) | 3:14 | 2024-06-27 |  |

@@ -3001,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Kruela",
+        "url": "https://open.spotify.com/album/5KCs98xl6Gn8ZRnhfID3rN"
+      },
+      "artists": [
+        {
+          "name": "Kat Deluna",
+          "url": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247173,
+      "name": "Kruela",
+      "url": "https://open.spotify.com/track/6CdC51KG7NyeL77OSIYT3e"
+    },
+    {
+      "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
       },
@@ -5982,6 +6000,24 @@
       "duration_ms": 225260,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/0tz0qWCPcibn4ZAICo2ecR"
+    },
+    {
+      "album": {
+        "name": "Si Quieres Volver",
+        "url": "https://open.spotify.com/album/6Kfd61Rx2CmMlzeEGO1GuD"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Si Quieres Volver",
+      "url": "https://open.spotify.com/track/4UYgNUNHJPGIBUyDornbcp"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Swing",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Carbonne",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -920,6 +920,28 @@
       "duration_ms": 169017,
       "name": "500",
       "url": "https://open.spotify.com/track/7DRRBm6gsNolYnMUVxjbIa"
+    },
+    {
+      "album": {
+        "name": "Dose h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq"
+      },
+      "artists": [
+        {
+          "name": "Caballero",
+          "url": "https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "50\u00a2",
+      "url": "https://open.spotify.com/track/23Vfw3quYZrSLLVJMpARPr"
     },
     {
       "album": {
@@ -3963,6 +3985,28 @@
     },
     {
       "album": {
+        "name": "VICE CITY",
+        "url": "https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp"
+      },
+      "artists": [
+        {
+          "name": "Sasso",
+          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh"
+    },
+    {
+      "album": {
         "name": "Bando",
         "url": "https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv"
       },
@@ -4429,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "Par nous-m\u00eames",
+        "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Bene",
+      "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
+    },
+    {
+      "album": {
         "name": "Coup De Feu Rue De La Paix",
         "url": "https://open.spotify.com/album/64HldXz7R0KapCaiAiZiYC"
       },
@@ -4462,7 +4524,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 138750,
       "name": "Besoin",
       "url": "https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8"
@@ -6874,7 +6936,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 198146,
       "name": "Cannelloni",
       "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
@@ -6940,6 +7002,28 @@
       "duration_ms": 160026,
       "name": "Cargo",
       "url": "https://open.spotify.com/track/5iPLYlGTu8iCOVaqhmyWYq"
+    },
+    {
+      "album": {
+        "name": "LA VIE DU TRIPLE OG",
+        "url": "https://open.spotify.com/album/5du1qYrMbi78jEzaNf7NVj"
+      },
+      "artists": [
+        {
+          "name": "Mac Tyer",
+          "url": "https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198426,
+      "name": "CARGO (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/0chm8ReJ6d5O4RTDolJ68t"
     },
     {
       "album": {
@@ -8798,7 +8882,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168746,
       "name": "Colis\u00e9e (feat. SDM)",
       "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
@@ -8914,7 +8998,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 101500,
       "name": "COME BACK",
       "url": "https://open.spotify.com/track/1xHpGHG2xEUrfivnzWDpcv"
@@ -18544,7 +18628,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 117991,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2rTkTwADWvIQ2NXixzpTWI"
@@ -19534,7 +19618,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 259569,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp"
@@ -20452,7 +20536,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 182984,
       "name": "J'avoue",
       "url": "https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL"
@@ -22469,6 +22553,24 @@
     },
     {
       "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/0PiKFwhGs9zPnojBJAIcc4"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164480,
+      "name": "Karim B",
+      "url": "https://open.spotify.com/track/5IturN1tR27wlVtDCnSSJk"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/5oy3WDkdnPUWtUvcBEOtOX"
       },
@@ -23966,7 +24068,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
@@ -24744,7 +24846,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "La Raclure",
       "url": "https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts"
@@ -28820,7 +28922,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 197894,
       "name": "LVL UP",
       "url": "https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX"
@@ -29976,7 +30078,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 231156,
       "name": "Mapessa",
       "url": "https://open.spotify.com/track/4KcqVTWv453EFbAiM8lwoF"
@@ -30679,6 +30781,28 @@
     },
     {
       "album": {
+        "name": "Menteur (feat. Ronisia)",
+        "url": "https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144066,
+      "name": "Menteur (feat. Ronisia)",
+      "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
+    },
+    {
+      "album": {
         "name": "Merci",
         "url": "https://open.spotify.com/album/2obkT2ybG5Krb71MB9NVtP"
       },
@@ -31230,7 +31354,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 150857,
       "name": "Moi Qu'on Regarde",
       "url": "https://open.spotify.com/track/17EdUU3rXnRKBl629gSiBy"
@@ -32474,7 +32598,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156527,
       "name": "M\u00e9rite",
       "url": "https://open.spotify.com/track/30TFJPpwdXJPmhGVbY77rj"
@@ -33436,7 +33560,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 182546,
       "name": "Nous on sait",
       "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
@@ -34600,6 +34724,28 @@
       "duration_ms": 190186,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/7sxlv3kB4pS4ue5WIyW9yu"
+    },
+    {
+      "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
       "album": {
@@ -37273,6 +37419,28 @@
     },
     {
       "album": {
+        "name": "Pomme",
+        "url": "https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC"
+      },
+      "artists": [
+        {
+          "name": "William Papillon",
+          "url": "https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys"
+        },
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Pomme",
+      "url": "https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q"
+    },
+    {
+      "album": {
         "name": "Pomme Z",
         "url": "https://open.spotify.com/album/53zm21Uiy9gbCGQh7zptz8"
       },
@@ -38044,7 +38212,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 182562,
       "name": "Pretty Privilege (feat. Emma Beko)",
       "url": "https://open.spotify.com/track/0O16BMpkbPWHGgbdUk3tG8"
@@ -40084,7 +40252,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188761,
       "name": "Rien m'faire",
       "url": "https://open.spotify.com/track/5mai2Bwht380oISASmMx3T"
@@ -40186,6 +40354,24 @@
       "duration_ms": 297120,
       "name": "Ring-Ring Ding-A-Ling",
       "url": "https://open.spotify.com/track/6PW3k1lfQ91PF61cnzfrmG"
+    },
+    {
+      "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/2eYcNSEp94k1ds6zLEVY7K"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/6He8QwtREiMFmux0bAYfA8"
     },
     {
       "album": {
@@ -41383,6 +41569,24 @@
     },
     {
       "album": {
+        "name": "Samira",
+        "url": "https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Samira",
+      "url": "https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1"
+    },
+    {
+      "album": {
         "name": "Sandwich aux tomates",
         "url": "https://open.spotify.com/album/0uLti1mVXePKunYyzE2OH3"
       },
@@ -41676,7 +41880,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 166800,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/5QVvxHXCAkx2WVwVH9rGB5"
@@ -42136,7 +42340,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 157643,
       "name": "Sentiments",
       "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
@@ -43803,6 +44007,24 @@
     },
     {
       "album": {
+        "name": "spooky",
+        "url": "https://open.spotify.com/album/0h9lWHQMOqDrKvh6T9MqXz"
+      },
+      "artists": [
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "spooky",
+      "url": "https://open.spotify.com/track/1wN3zTs9IxADu8KZRw7TfN"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'abri",
         "url": "https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53"
       },
@@ -45156,7 +45378,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 216084,
       "name": "TARD LA NUIT",
       "url": "https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg"

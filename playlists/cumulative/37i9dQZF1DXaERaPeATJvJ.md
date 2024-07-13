@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Pure Saturday
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Float
 
-167 songs - 11 hr 35 min
+169 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100 Km/Jam](https://open.spotify.com/track/1tfr5ePg7gEIt6WiXeorNJ) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [The Brandals](https://open.spotify.com/album/7umiNnEcvqhsCLFGmc1QDO) | 2:40 | 2022-12-16 |  |
 | [100% Kontrol](https://open.spotify.com/track/24giWUT5X8fFPFE8quTB3v) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 2:21 | 2022-12-16 |  |
 | [2 AM](https://open.spotify.com/track/71x7IYQXrCv8Pd2CX39oQm) | [Monday Math Class](https://open.spotify.com/artist/2TEO3mpRZL9jXJakMGTF3J) | [Volume 1 \- Ep](https://open.spotify.com/album/6cHlFXEzCz5A4zIIy0hdNX) | 4:32 | 2021-11-25 |  |
+| [3 Hari Untuk Selamanya](https://open.spotify.com/track/1NQomGeI158zPjNE6srB1i) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [3 Hari Untuk Selamanya](https://open.spotify.com/album/5Nh5S8jMCnlYtEgc3PehIG) | 3:38 | 2024-07-12 |  |
 | [A Spy in the House of Love](https://open.spotify.com/track/6Um6kOVCAV2LdFUAEWXgyS) | [The Jonis](https://open.spotify.com/artist/5Pq2ik6ubF4yTY3BcTsDqb) | [A Spy in the House of Love](https://open.spotify.com/album/2GvKZUcqklr89phbizRh7M) | 4:39 | 2021-11-25 |  |
 | [a Thousand Miles from the Atmosphere](https://open.spotify.com/track/43wDwERxDlI7shRV8siX07) | [LastElise](https://open.spotify.com/artist/79sjdrTXc4buTUKgEuspYl) | [a Thousand Miles from the Atmosphere](https://open.spotify.com/album/2UHFzT9qA6tnmQjAaAPqo2) | 3:17 | 2022-08-04 |  |
 | [Ada Musik Di Dalam](https://open.spotify.com/track/0BvftkEIUBkarXlz1adPnc) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Centralismo](https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr) | 4:40 | 2024-03-22 | 2024-04-05 |
@@ -125,6 +126,7 @@
 | [Psychic Girl](https://open.spotify.com/track/1bkO8Q7QcKXAsVYNsiAP0Z) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 3:48 | 2023-10-27 |  |
 | [Puan, Kau Beri Nyawa](https://open.spotify.com/track/3sFaQyi9kJTJst7Yz8T9Jd) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Puan, Kau Beri Nyawa](https://open.spotify.com/album/04y6W0XCVx2YUvjeD2wcUX) | 3:51 | 2024-03-22 | 2024-04-05 |
 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 | 2021-11-25 |  |
+| [Pulang](https://open.spotify.com/track/3ITvxT4pByaqbVUImOWeT1) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [3 Hari Untuk Selamanya](https://open.spotify.com/album/5Nh5S8jMCnlYtEgc3PehIG) | 3:20 | 2024-07-12 |  |
 | [Rasa?](https://open.spotify.com/track/6pk39ZvOQcbyRAcGeS4xnC) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Rasa?](https://open.spotify.com/album/3zC0Q5uu3G426SaZdHpoMT) | 3:52 | 2024-03-22 | 2024-04-05 |
 | [Rasuna](https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 5:22 | 2021-11-25 |  |
 | [Ribbons and Tie](https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Tinkerwish](https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA) | 4:48 | 2022-08-04 |  |

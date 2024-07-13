@@ -1,28 +1,28 @@
 {
-  "description": "happy 5 years of lorem. thank you for listening :) cover: Devon Again",
-  "num_followers": 1156131,
+  "description": "happy 5 years of lorem. thank you for listening :) cover: Clairo",
+  "num_followers": 1157338,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpAO6wAAAACNucRJTw6Bzur0mIQby44V",
+  "snapshot_id": "ZpGWEQAAAAAaCjg+uJOvbigEuwnMEQMj",
   "tracks": [
     {
-      "added_at": "2024-07-11 16:57:14",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y"
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2024-07-10 15:54:47",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
     },
     {
+      "added_at": "2024-07-11 16:57:14",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y"
+    },
+    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "cherry cola / sunburn",
@@ -55,22 +71,6 @@
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
-    },
-    {
-      "added_at": "2024-06-28 17:15:36",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 225572,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
     },
     {
       "added_at": "2024-07-03 17:50:34",
@@ -100,29 +100,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-07-03 21:32:29",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": "2024-07-04 17:14:57",
@@ -141,6 +121,22 @@
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "you can hold the stars until they burn right through your hands",
+        "url": "https://open.spotify.com/album/2kpRETTOEaYlzLKReLpWnn"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 190828,
+      "name": "it's easiest to fuck something that's always in the mood",
+      "url": "https://open.spotify.com/track/2RH2ZzLgzRb7OyIhv5VJSy"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Look At That Woman",
@@ -157,20 +153,52 @@
       "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
     },
     {
-      "added_at": "2024-07-10 15:54:47",
+      "added_at": "2024-07-12 20:46:09",
       "album": {
-        "name": "She's Leaving You",
-        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
       },
       "artists": [
         {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 278226,
-      "name": "She's Leaving You",
-      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
+      "added_at": "2024-07-12 04:06:08",
+      "album": {
+        "name": "Image",
+        "url": "https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
+    },
+    {
+      "added_at": "2024-07-01 17:33:24",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -203,6 +231,90 @@
       "duration_ms": 188899,
       "name": "Wish",
       "url": "https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC"
+    },
+    {
+      "added_at": "2024-07-10 15:54:47",
+      "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+    },
+    {
+      "added_at": "2024-07-12 04:06:08",
+      "album": {
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
+    },
+    {
+      "added_at": "2024-06-26 17:07:59",
+      "album": {
+        "name": "Aggy",
+        "url": "https://open.spotify.com/album/2TyrytZI5dx2qjDSPSlPe2"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 206597,
+      "name": "Aggy",
+      "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
+    },
+    {
+      "added_at": "2024-06-28 17:15:36",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 225572,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
+    },
+    {
+      "added_at": "2024-07-03 21:32:29",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -241,38 +353,6 @@
       "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
     },
     {
-      "added_at": "2024-07-01 17:33:24",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
-    },
-    {
-      "added_at": "2024-06-26 17:07:59",
-      "album": {
-        "name": "Aggy",
-        "url": "https://open.spotify.com/album/2TyrytZI5dx2qjDSPSlPe2"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        }
-      ],
-      "duration_ms": 206597,
-      "name": "Aggy",
-      "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "BUG",
@@ -307,6 +387,38 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -359,6 +471,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Museum of My Mess",
+        "url": "https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 216038,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Cold Caller",
         "url": "https://open.spotify.com/album/6cu9qXzpFVNGU8ARlfqvH2"
       },
@@ -389,22 +517,6 @@
       "url": "https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Museum of My Mess",
-        "url": "https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 216038,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Timelapse",
@@ -419,6 +531,22 @@
       "duration_ms": 161400,
       "name": "Timelapse",
       "url": "https://open.spotify.com/track/1Cppjn0ioEQjIVBEYbfQ6R"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 170383,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
     },
     {
       "added_at": "2024-06-25 15:54:13",
@@ -445,6 +573,26 @@
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Drive Home: Parting Gifts",
+        "url": "https://open.spotify.com/album/2iCeb2ZA12OScogQ3GN3xy"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Found But Dilla (feat. Duckwrth)",
+      "url": "https://open.spotify.com/track/1l2BnZaqXq2fICXfwDjsuo"
+    },
+    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Toro / Alone in Miami",
@@ -459,22 +607,6 @@
       "duration_ms": 175666,
       "name": "Toro",
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Supersad",
-        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 170383,
-      "name": "Supersad",
-      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -589,26 +721,6 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Drive Home: Parting Gifts",
-        "url": "https://open.spotify.com/album/2iCeb2ZA12OScogQ3GN3xy"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Found But Dilla (feat. Duckwrth)",
-      "url": "https://open.spotify.com/track/1l2BnZaqXq2fICXfwDjsuo"
-    },
-    {
       "added_at": "2024-06-09 17:25:19",
       "album": {
         "name": "assisted memories",
@@ -623,26 +735,6 @@
       "duration_ms": 222272,
       "name": "waterfall",
       "url": "https://open.spotify.com/track/4pfMtNvaxXwvKOdoQNOxxZ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "The girl, so confusing version with lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "The girl, so confusing version with lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -677,6 +769,22 @@
       "url": "https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The Sweater Club",
+        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 197567,
+      "name": "Sinking Plastic Suns",
+      "url": "https://open.spotify.com/track/4Iin77CWpqNCNNtKUmTsUj"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "You're Not The One",
@@ -697,22 +805,6 @@
       "url": "https://open.spotify.com/track/722sWk4hIMxEeUcqNGUwfw"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
-    },
-    {
       "added_at": "2024-06-17 15:20:02",
       "album": {
         "name": "Triple Seven",
@@ -727,22 +819,6 @@
       "duration_ms": 206933,
       "name": "Triple Seven",
       "url": "https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "The Sweater Club",
-        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 197567,
-      "name": "Sinking Plastic Suns",
-      "url": "https://open.spotify.com/track/4Iin77CWpqNCNNtKUmTsUj"
     },
     {
       "added_at": "2024-06-12 17:22:00",
@@ -943,22 +1019,6 @@
       "duration_ms": 121884,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Teen Heartbreak",
-        "url": "https://open.spotify.com/album/7qm9tv1Pn9EkYcfxXwIH7t"
-      },
-      "artists": [
-        {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
-        }
-      ],
-      "duration_ms": 131311,
-      "name": "Teen Heartbreak",
-      "url": "https://open.spotify.com/track/5Qo3V9WDGb8eqCZtCgvJMw"
     },
     {
       "added_at": "2024-06-09 17:25:19",
@@ -1595,22 +1655,6 @@
       "duration_ms": 171518,
       "name": "girl with a problem",
       "url": "https://open.spotify.com/track/3XftKOFKKZKMt36MKV7fH4"
-    },
-    {
-      "added_at": "2024-05-04 23:54:21",
-      "album": {
-        "name": "Challengers (Original Score)",
-        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 85287,
-      "name": "Challengers",
-      "url": "https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS"
     },
     {
       "added_at": "2024-03-21 17:07:38",

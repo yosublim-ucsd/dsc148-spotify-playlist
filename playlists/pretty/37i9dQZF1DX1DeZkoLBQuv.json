@@ -331,6 +331,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "\u00c9 Natal",
         "url": "https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 168158,
       "name": "\u00c9 Natal",
       "url": "https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Cl\u00e1ssicos",
-        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 220788,
-      "name": "Maravilhoso \u00c9 / Rei dos Reis",
-      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
+        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
+      },
+      "artists": [
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        }
+      ],
+      "duration_ms": 218314,
+      "name": "Vem Cear",
+      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Natal de Amor",
         "url": "https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 301859,
       "name": "Natal de Amor",
       "url": "https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
-        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
-      },
-      "artists": [
-        {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
-        }
-      ],
-      "duration_ms": 218314,
-      "name": "Vem Cear",
-      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
     },
     {
       "added_at": "2023-12-22 03:00:00",

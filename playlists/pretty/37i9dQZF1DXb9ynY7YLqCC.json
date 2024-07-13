@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 172356,
+  "num_followers": 172406,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
-    },
-    {
-      "added_at": "2024-06-12 23:20:54",
-      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 256386,
       "name": "Ruleta",
       "url": "https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo"
+    },
+    {
+      "added_at": "2024-06-12 23:20:54",
+      "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
     },
     {
       "added_at": "2024-06-12 23:20:54",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "Buen Recuerdo",
-        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
+        "name": "No Me Dejes Caer",
+        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 251843,
-      "name": "Buen Recuerdo",
-      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
+      "duration_ms": 258540,
+      "name": "No Me Dejes Caer",
+      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
     },
     {
       "added_at": "2024-06-12 23:20:54",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "No Me Dejes Caer",
-        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
+        "name": "Buen Recuerdo",
+        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 258540,
-      "name": "No Me Dejes Caer",
-      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
+      "duration_ms": 251843,
+      "name": "Buen Recuerdo",
+      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
     },
     {
       "added_at": "2024-06-12 23:20:54",

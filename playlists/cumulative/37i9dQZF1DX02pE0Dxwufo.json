@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-14",
-  "description": "take a louisville slugger to both headlights",
+  "description": "houston, he's a problem",
   "name": "scorned",
   "tracks": [
     {
@@ -746,6 +746,24 @@
       "duration_ms": 166769,
       "name": "Man",
       "url": "https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0"
+    },
+    {
+      "album": {
+        "name": "Man on the Moon",
+        "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187017,
+      "name": "Man on the Moon",
+      "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
     },
     {
       "album": {

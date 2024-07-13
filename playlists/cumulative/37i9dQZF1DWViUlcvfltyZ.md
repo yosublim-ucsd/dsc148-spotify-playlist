@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia, Generic Animal in cover 🎸
 
-1,016 songs - 2 day 8 hr 9 min
+1,017 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Escamotage](https://open.spotify.com/track/6PvFtqIDr7O7EAwIm3hmbh) | [Moregrè](https://open.spotify.com/artist/2fw5erjUYoGPxwKhOnELAm) | [Non è un problema alla nostra età](https://open.spotify.com/album/46fL9X9499PDjxFdrosAp9) | 3:06 | 2023-11-09 | 2023-12-20 |
 | [Essenza nucleo](https://open.spotify.com/track/6eie8Er7S3zV796SLykcn1) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [Essenza nucleo](https://open.spotify.com/album/11lMqyKI7tmosUfxyibxXT) | 3:22 | 2023-11-23 | 2024-02-23 |
 | [Estate di Merda](https://open.spotify.com/track/2tKDMOvBIIP47ngRpHQsDl) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Estate di Merda](https://open.spotify.com/album/77Lhio4DcfwZ8PRhNzquc5) | 2:51 | 2022-06-02 | 2022-08-26 |
-| [Estate disperata](https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Estate disperata](https://open.spotify.com/album/2dwmDKJXMbcTzMx8CQTs5o) | 2:35 | 2024-05-09 |  |
+| [Estate disperata](https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Estate disperata](https://open.spotify.com/album/2dwmDKJXMbcTzMx8CQTs5o) | 2:35 | 2024-05-09 | 2024-07-13 |
 | [ETCIÙ](https://open.spotify.com/track/2DV5XHMD8ZBfx6oiifqPvJ) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [ETCIÙ](https://open.spotify.com/album/76DyrNe8TRXqni2vgG34vf) | 2:56 | 2024-04-25 | 2024-06-14 |
 | [EUFORIA](https://open.spotify.com/track/5ApsbsFX5SQhGF80DKSq9c) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [EUFORIA](https://open.spotify.com/album/6RtT9E1MvIfvR3d0hkkIqI) | 2:16 | 2022-07-14 | 2022-09-30 |
 | [Eurospin](https://open.spotify.com/track/3FCxMfyoUMbPbhK82ZCV7X) | [Scheletri](https://open.spotify.com/artist/5tzlUTfnx5Wp7dRPrJ8nPj) | [Eurospin](https://open.spotify.com/album/5K9rtKKJtr1VqvCZLZA9Ys) | 3:04 | 2023-11-23 | 2024-01-19 |
@@ -403,6 +403,7 @@
 | [ho sentito il tuo cuore](https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier) | [ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3) | [i mostri col cazzo che si nascondono sotto alle lenzuola](https://open.spotify.com/album/7LCf7e9ejfOnOqAE7oFSvJ) | 2:11 | 2023-03-02 | 2023-03-31 |
 | [Ho'oponopono](https://open.spotify.com/track/0Zluv3GSvcioMI90TlJr6w) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Ho'oponopono](https://open.spotify.com/album/4fDW5mdTkWAkpKMYc290qr) | 3:00 | 2024-02-29 | 2024-05-10 |
 | [Holobiont](https://open.spotify.com/track/06ZetzKuRbym6iYX0uPcKI) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Windows of My House \(Pastimes Vol\. III\)](https://open.spotify.com/album/5ZULctCGzLPmsTUFXtwC4T) | 2:02 | 2022-09-05 | 2022-09-16 |
+| [Holymates](https://open.spotify.com/track/0xAsmOF7QbZLjEamTQnWU3) | [DISQUIETED BY](https://open.spotify.com/artist/3nw6fswvwRK1KDcsP2kW9m) | [Holymates](https://open.spotify.com/album/2Ti2SNM93nktD2cJIuAXXc) | 3:06 | 2024-07-12 |  |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-08-31 | 2024-02-07 |
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2022-05-09 | 2022-07-01 |
 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 | 2023-02-16 | 2023-04-14 |

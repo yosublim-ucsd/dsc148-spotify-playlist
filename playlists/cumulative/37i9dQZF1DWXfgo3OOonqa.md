@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,531 songs - 2 day 18 hr 59 min
+1,532 songs - 2 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Fakkade Allt](https://open.spotify.com/track/18StO20ht1OzGWs9y8rNcR) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT), [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Fakkade Allt](https://open.spotify.com/album/280UZdvmVjQ0W7Z54kksPP) | 2:34 | 2023-06-29 | 2023-07-21 |
 | [Fall Inte](https://open.spotify.com/track/6hCvDIKfmfGxgXhOCIYS6X) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [Fall Inte](https://open.spotify.com/album/3qKnWl6HJP1yPhwT6VDVtD) | 2:19 | 2022-05-12 | 2022-06-10 |
 | [Falla ner](https://open.spotify.com/track/2hXiJmJtlAsP3Y05VZkpmW) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it) | [Falla ner](https://open.spotify.com/album/2LfX7BokNVL4C92ongvt7h) | 2:29 | 2021-12-16 | 2021-12-24 |
+| [Faller](https://open.spotify.com/track/52rYBxmWsmouJrq4rpbHQJ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Faller](https://open.spotify.com/album/7vXhgwKBcYtvSbMlG2yRqn) | 1:50 | 2024-07-12 |  |
 | [FALLER](https://open.spotify.com/track/2x8jpUHi6hYQBYeqJHb5P3) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [FALLER](https://open.spotify.com/album/6TguGjqXXMWee8xQvUG40N) | 2:38 | 2024-02-15 | 2024-04-19 |
 | [Faller](https://open.spotify.com/track/7DwJKdM6LtlMkJ6gcaG5fE) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Faller](https://open.spotify.com/album/6Wk0t9YDHCm6ZDv9zuywjJ) | 2:26 | 2021-12-16 | 2022-03-05 |
 | [Faller Ner](https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Faller Ner](https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg) | 2:10 | 2022-01-11 | 2022-03-04 |

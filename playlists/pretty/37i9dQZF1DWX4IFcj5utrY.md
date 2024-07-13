@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=lEo05sboQw6l8l5RA6rlXQ">DJ Lag</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,947 likes - 55 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,946 likes - 55 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

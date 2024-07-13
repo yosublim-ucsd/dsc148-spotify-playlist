@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 216786,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/6gKgpHghyWdA1YkzsUWTRe"
@@ -1730,6 +1730,24 @@
       "duration_ms": 252213,
       "name": "Bonita - Special Edition",
       "url": "https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H"
+    },
+    {
+      "album": {
+        "name": "Break in the Clouds",
+        "url": "https://open.spotify.com/album/5V0LwDqawJdWHZaUhxRypb"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205651,
+      "name": "Break in the Clouds",
+      "url": "https://open.spotify.com/track/7osYYu7FG5FVeqWG6oNCL1"
     },
     {
       "album": {
@@ -3680,6 +3698,28 @@
       "duration_ms": 381367,
       "name": "East of the Sun and West of the Moon",
       "url": "https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e"
+    },
+    {
+      "album": {
+        "name": "De camino al camino",
+        "url": "https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340756,
+      "name": "El Panadero",
+      "url": "https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj"
     },
     {
       "album": {
@@ -9098,7 +9138,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 159294,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/2I7LnGwzorTgRFn7FymQRg"

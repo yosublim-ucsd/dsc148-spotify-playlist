@@ -1,13 +1,49 @@
 {
   "description": "Featuring that new vintage. Cover: Lake Street Dive",
-  "num_followers": 414373,
+  "num_followers": 414387,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zow4BAAAAAC9bao9bLzeTFG6tAfK/26W",
+  "snapshot_id": "ZpCqQAAAAACTCIjPHOzpsmDyuE2N/Z6V",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/1Eq16zkqEjt8Hzrae9q6fa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 182777,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Slippin' (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 168169,
+      "name": "Slippin' (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"
+    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
@@ -889,26 +925,6 @@
       "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL"
-      },
-      "artists": [
-        {
-          "name": "Melissa Polinar",
-          "url": "https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG"
-        },
-        {
-          "name": "Glenn Lumanta",
-          "url": "https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme"
-        }
-      ],
-      "duration_ms": 228300,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Poems",
@@ -1087,22 +1103,6 @@
       "duration_ms": 204907,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2022-05-02 20:03:12",
-      "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/1xhTH88GmVGeWkl2R4gB2l"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Holding Pattern",
-      "url": "https://open.spotify.com/track/47DNjUtdIuDVDbcvO8HGtO"
     },
     {
       "added_at": "2022-05-20 04:01:00",

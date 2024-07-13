@@ -1,13 +1,81 @@
 {
-  "description": "The best in modern indie. Cover: Still Woozy",
-  "num_followers": 2075565,
+  "description": "The best in modern indie. Cover: Remi Wolf",
+  "num_followers": 2075532,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zogo9gAAAAA6oV8mUNvTlEciN0cuvlvl",
+  "snapshot_id": "ZpCqQAAAAABBEx0pVA27VyRBAKcZz/6S",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
+    },
+    {
+      "added_at": "2024-05-24 00:03:31",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Any Way (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 309896,
+      "name": "Any Way (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -25,6 +93,38 @@
       "url": "https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi"
     },
     {
+      "added_at": "2024-07-05 17:10:14",
+      "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Vertigo",
@@ -39,6 +139,22 @@
       "duration_ms": 148326,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2024-04-30 20:38:23",
@@ -73,20 +189,20 @@
       "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
-      "added_at": "2024-05-24 00:03:31",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+      "duration_ms": 182761,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
     },
     {
       "added_at": "2024-07-03 21:51:09",
@@ -125,56 +241,36 @@
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Any Way (feat. Maggie Rogers)",
-        "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
+        "name": "How Can I Love Her More?",
+        "url": "https://open.spotify.com/album/4AflCecOU26ScUgd34omyk"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
         }
       ],
-      "duration_ms": 309896,
-      "name": "Any Way (feat. Maggie Rogers)",
-      "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
+      "duration_ms": 167586,
+      "name": "How Can I Love Her More?",
+      "url": "https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
+        "name": "Oontz",
+        "url": "https://open.spotify.com/album/6u9KEtaprDU8f2IJXR0ODS"
       },
       "artists": [
         {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 182761,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
-    },
-    {
-      "added_at": "2024-07-05 17:10:14",
-      "album": {
-        "name": "A Tear in Space (Airlock)",
-        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 203989,
-      "name": "A Tear in Space (Airlock)",
-      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+      "duration_ms": 181916,
+      "name": "Oontz",
+      "url": "https://open.spotify.com/track/63edfGFGTKUTejLeFt3oPA"
     },
     {
       "added_at": "2024-07-03 21:51:09",
@@ -193,22 +289,6 @@
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Take A Bite",
@@ -223,6 +303,22 @@
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 155658,
+      "name": "Italian Horror",
+      "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -345,6 +441,38 @@
       "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
     },
     {
+      "added_at": "2024-05-24 00:03:31",
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 219950,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
+    },
+    {
       "added_at": "2024-07-03 21:51:09",
       "album": {
         "name": "Into The Blue",
@@ -375,6 +503,22 @@
       "duration_ms": 207613,
       "name": "Starvation",
       "url": "https://open.spotify.com/track/67c7PNN05Co9royqUCthR7"
+    },
+    {
+      "added_at": "2024-07-03 21:51:09",
+      "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
     },
     {
       "added_at": "2024-07-03 21:51:09",
@@ -423,6 +567,54 @@
       "duration_ms": 269800,
       "name": "Scream from New York, NY",
       "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Wasted (YTYKS)",
+        "url": "https://open.spotify.com/album/7e5MyGbbCFILWzac4BVPAv"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 255483,
+      "name": "Wasted (YTYKS)",
+      "url": "https://open.spotify.com/track/2qSAQ9xQDQUgNduZU4IXbt"
+    },
+    {
+      "added_at": "2024-07-03 21:51:09",
+      "album": {
+        "name": "Later",
+        "url": "https://open.spotify.com/album/73qPQ90oHCO3CN00GkEyRE"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
+        }
+      ],
+      "duration_ms": 267828,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/3TrnJe4PR4xRtrY6vElta3"
+    },
+    {
+      "added_at": "2024-06-13 16:56:48",
+      "album": {
+        "name": "Tunes For Late Spring",
+        "url": "https://open.spotify.com/album/0iNFxICphzHpMqus7PiS0U"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 242768,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/1akuYztpg4VfZT8Lg4N1w9"
     },
     {
       "added_at": "2024-07-03 21:51:09",
@@ -493,20 +685,20 @@
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
-      "added_at": "2024-07-03 21:51:09",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Madeline",
-        "url": "https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU"
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu"
       },
       "artists": [
         {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+          "name": "Holdan Sutton",
+          "url": "https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl"
         }
       ],
-      "duration_ms": 223071,
-      "name": "Madeline",
-      "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
+      "duration_ms": 308072,
+      "name": "Too Timid",
+      "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -525,22 +717,6 @@
       "url": "https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba"
     },
     {
-      "added_at": "2024-07-03 21:51:09",
-      "album": {
-        "name": "Later",
-        "url": "https://open.spotify.com/album/73qPQ90oHCO3CN00GkEyRE"
-      },
-      "artists": [
-        {
-          "name": "GIFT",
-          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
-        }
-      ],
-      "duration_ms": 267828,
-      "name": "Later",
-      "url": "https://open.spotify.com/track/3TrnJe4PR4xRtrY6vElta3"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Cruzafied",
@@ -555,22 +731,6 @@
       "duration_ms": 217600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
-    },
-    {
-      "added_at": "2024-05-24 00:03:31",
-      "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 192144,
-      "name": "May Ninth",
-      "url": "https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k"
     },
     {
       "added_at": "2024-07-03 21:51:09",
@@ -637,22 +797,6 @@
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
-      "added_at": "2024-06-13 16:56:48",
-      "album": {
-        "name": "Tunes For Late Spring",
-        "url": "https://open.spotify.com/album/0iNFxICphzHpMqus7PiS0U"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 242768,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/1akuYztpg4VfZT8Lg4N1w9"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The Last Year",
@@ -667,22 +811,6 @@
       "duration_ms": 215466,
       "name": "The Last Year",
       "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Oontz",
-        "url": "https://open.spotify.com/album/6u9KEtaprDU8f2IJXR0ODS"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 181916,
-      "name": "Oontz",
-      "url": "https://open.spotify.com/track/63edfGFGTKUTejLeFt3oPA"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -875,22 +1003,6 @@
       "duration_ms": 188979,
       "name": "Honeycrash",
       "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "How Can I Love Her More?",
-        "url": "https://open.spotify.com/album/4AflCecOU26ScUgd34omyk"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "How Can I Love Her More?",
-      "url": "https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r"
     },
     {
       "added_at": "2024-04-26 01:04:15",

@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 170246,
+  "num_followers": 170316,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Powerbausa",
         "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 203630,
       "name": "Was du Liebe nennst",
       "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
-      },
-      "artists": [
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Wenn Du mich l\u00e4sst",
-        "url": "https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 182042,
-      "name": "Wenn Du mich l\u00e4sst",
-      "url": "https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Sag deinem Ex",
         "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 123000,
       "name": "Sag deinem Ex",
       "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Wenn Du mich l\u00e4sst",
+        "url": "https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 182042,
+      "name": "Wenn Du mich l\u00e4sst",
+      "url": "https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Irgendwie anders",
         "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 215786,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Zwischen meinen Zeilen (Deluxe)",
-        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Zu dir",
-      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Ein neuer Tag",
-        "url": "https://open.spotify.com/album/6tWw1DGgF60yoCUexPx4UU"
-      },
-      "artists": [
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Wir beide",
-      "url": "https://open.spotify.com/track/059vqesASfCCpWPabAngNE"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Tanz Der Molek\u00fcle",
         "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 238480,
       "name": "Tanz der Molek\u00fcle - Single Version",
       "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Ein neuer Tag",
+        "url": "https://open.spotify.com/album/6tWw1DGgF60yoCUexPx4UU"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Wir beide",
+      "url": "https://open.spotify.com/track/059vqesASfCCpWPabAngNE"
     },
     {
       "added_at": "2024-02-09 07:01:34",

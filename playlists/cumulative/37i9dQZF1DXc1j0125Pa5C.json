@@ -199,6 +199,32 @@
     },
     {
       "album": {
+        "name": "Pagode DaPaz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7hfhY7lryzSuA60O0M3ZUP"
+      },
+      "artists": [
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245638,
+      "name": "Amor De Fim De Noite / Mina De F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WedJjvJK63JuWHcsWd8q4"
+    },
+    {
+      "album": {
         "name": "Sem Reznha Ac\u00fastico, Vol. 31",
         "url": "https://open.spotify.com/album/6snlDkpYBZmCeU8JFpenl2"
       },
@@ -1084,7 +1110,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 324562,
       "name": "Fissuras De Um Casal / Caixa Postal - Ao Vivo",
       "url": "https://open.spotify.com/track/45yo7oZ11jYQnM1XcQTLre"
@@ -1180,7 +1206,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 553500,
       "name": "Gera\u00e7\u00f5es 1: S\u00f3 pra Ver Se Voc\u00ea Volta / Gata Manda V / Chegando Agora / \u00c9 Bom Demais / \u00c9 pra Valer - Ao Vivo",
       "url": "https://open.spotify.com/track/1DPNkpwNalAiiHMOCyaJA0"
@@ -1452,6 +1478,54 @@
       "duration_ms": 211451,
       "name": "Meu Jeito Moleque / S.O.S Paix\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5AKmZ7GOu4WJecD4TSTicI"
+    },
+    {
+      "album": {
+        "name": "O Melhor Buteco do Mundo, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1fC9IoCdiIFuIfIjWnI096"
+      },
+      "artists": [
+        {
+          "name": "Grupo Buteco",
+          "url": "https://open.spotify.com/artist/1PHslMIRDsQloXt6ZyIb7E"
+        },
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369023,
+      "name": "Meu Jeito Moleque de Ser / O Amor N\u00e3o Tem Culpa / Meu Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0DbzBXn0ez4P6NhFWWFpuA"
+    },
+    {
+      "album": {
+        "name": "Quintal do Sub\u00farbio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/230KbUpSTnVu0a8hMhBElG"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        },
+        {
+          "name": "Marquinhos Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/1uN4dou3TaR8hMTIqAlrc6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321686,
+      "name": "Meu Sorriso / Nunca Mais Sofrer / Voc\u00ea Me Venceu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IFIEoeHDt3XplVbZHNLap"
     },
     {
       "album": {
@@ -2620,7 +2694,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 300839,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) / Depois Do Prazer - Ao Vivo",
       "url": "https://open.spotify.com/track/053FHzzKyvldCcvE3aaQwN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 96 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 96 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 66 | [LowBatt](https://open.spotify.com/track/0mJlScE5wSE1LW2IrVmbMD) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Gravity](https://open.spotify.com/album/27QdjDHdl4pbV4vNF0S4T2) | 2:41 |
 | 67 | [Bang Bang](https://open.spotify.com/track/7FSmuGYYTevjhvkc7lH6cx) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [True Story](https://open.spotify.com/album/6P9MmVepzwEvdFxYRdzTGF) | 2:19 |
 | 68 | [BLACK SHEEP OUTRO](https://open.spotify.com/track/0P6CMd1DCS3nRWeihcr6oW) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 3:56 |
-| 69 | [Sugar Mommy](https://open.spotify.com/track/00bnJqF7gcNMGInQhCr1Ps) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [Sugar Mommy](https://open.spotify.com/album/1hSFusQy5BLr7CWMC1UrIo) | 2:50 |
+| 69 | [Sugar Mommy](https://open.spotify.com/track/0fuWxGIvZGIvp5yP61a3mw) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [Sugar Mommy](https://open.spotify.com/album/6kcAxB2fgyeTfl8FP0usM5) | 2:50 |
 | 70 | [S.B.W](https://open.spotify.com/track/0ouqa582jNyX4B5Gvvjwh9) | [Chromazz](https://open.spotify.com/artist/3OhxI9yPQIh8L5uRPB1WG7) | [S.B.W](https://open.spotify.com/album/2qQkJlgbShVtQsbI9D03eS) | 2:57 |
 | 71 | [Realist / Outro](https://open.spotify.com/track/5ppW5OaqSE1IodXnBdEaLO) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 5:15 |
 | 72 | [Not Sorry](https://open.spotify.com/track/7ps92YupHzzx6b1Lyhmiyc) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [STAGES](https://open.spotify.com/album/2wTHtRmJdIwS8e7F4mrCzm) | 2:06 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 95 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 96 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AbWcNgAAAAB3Cx/q4ZXOsgFDXwxCMW4d`
+Snapshot ID: `AbWh1gAAAADQlSkFeQtzoAOSq6uTYjxb`

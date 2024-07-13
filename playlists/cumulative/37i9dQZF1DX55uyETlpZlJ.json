@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161589,
       "name": "KROORI",
       "url": "https://open.spotify.com/track/7z7xUrc1zGPdGXbM67kQX2"
@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 162000,
       "name": "Neene",
       "url": "https://open.spotify.com/track/3zSmzrISU59x6c0gwUxvHt"
@@ -7239,6 +7239,32 @@
     },
     {
       "album": {
+        "name": "Tomar Aamar Golpo(From \"Manikbabur Megh\")",
+        "url": "https://open.spotify.com/album/3zE9OCJDrDu7nf81946NPV"
+      },
+      "artists": [
+        {
+          "name": "Anirban Bhattacharya",
+          "url": "https://open.spotify.com/artist/3uJ7kyi2LZwKRUnL9QBHql"
+        },
+        {
+          "name": "Subhajit Mukherjee",
+          "url": "https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq"
+        },
+        {
+          "name": "Abhinandan Banerjee",
+          "url": "https://open.spotify.com/artist/1gJFTJcZ74SVOCmFiIPZH5"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Tomar Aamar Golpo(From \"Manikbabur Megh\")",
+      "url": "https://open.spotify.com/track/4EtuaGPxmNuvSifmeXPL86"
+    },
+    {
+      "album": {
         "name": "Top Dawg (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/7Gk6KYpt7X296a85MtW7if"
       },
@@ -7600,7 +7626,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168455,
       "name": "YENO AGIDHE-2",
       "url": "https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N"

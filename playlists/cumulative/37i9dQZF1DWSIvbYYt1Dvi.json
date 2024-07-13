@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "exu do blues \u00e9 AULAS",
+  "description": "febem \u00e9 AULAS",
   "name": "AULAS",
   "tracks": [
     {
@@ -1102,6 +1102,24 @@
       "duration_ms": 252000,
       "name": "Bambu Canta",
       "url": "https://open.spotify.com/track/1ohXnSWGBU4doY5rn9giw6"
+    },
+    {
+      "album": {
+        "name": "O Queridinho de Deus",
+        "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219626,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/46qKbX4BGTmIMJAKpyXTkk"
     },
     {
       "album": {
@@ -6817,6 +6835,28 @@
     },
     {
       "album": {
+        "name": "ABAIXO DO RADAR",
+        "url": "https://open.spotify.com/album/6ap64VE60iIhMk2TAA1ikK"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176303,
+      "name": "REL\u00d3GIO",
+      "url": "https://open.spotify.com/track/1kche1HMsudOzN2pfyCaWS"
+    },
+    {
+      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/5Jbiw69yGe9uAJ7ElPfPep"
       },
@@ -7484,7 +7524,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 174048,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/5nxgPIeHE8EKAHyuwllorX"
@@ -7970,7 +8010,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 278241,
       "name": "Tipo Ontem",
       "url": "https://open.spotify.com/track/47RYXL6oLVLkK9AmaUWR2p"

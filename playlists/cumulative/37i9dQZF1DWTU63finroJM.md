@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: 派偉俊Patrick Brasca.
 
-1,514 songs - 3 day 10 hr 54 min
+1,515 songs - 3 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Holiday Only](https://open.spotify.com/track/13xSCpapdAiR1bPWwoZp1y) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Holiday Only](https://open.spotify.com/album/1W0r6fsyYXIWVRJKR8cWfw) | 4:14 | 2022-02-03 | 2022-03-18 |
 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 | 2022-06-29 | 2023-05-09 |
 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 | 2022-09-08 | 2023-05-31 |
-| [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 |  |
+| [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 | 2024-07-13 |
 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 | 2023-09-22 | 2023-10-28 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-03-21 | 2023-04-18 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-03-21 | 2023-04-18 |
@@ -867,6 +867,7 @@
 | [No Hables \- Asi no te Amara Jamas \- Si Esta Casa Hablara \- Herida](https://open.spotify.com/track/7lQsh3MZhIGOqrberOsrs0) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [No Hables \- Asi no te Amara Jamas \- Si Esta Casa Hablara \- Herida](https://open.spotify.com/album/5wWoqk3MrPp0jvJYLVj058) | 9:21 | 2024-05-03 |  |
 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-02-03 | 2023-01-21 |
 | [No Le Contestes](https://open.spotify.com/track/3WtU9uawNMMEweexmATPDW) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:10 | 2022-03-24 | 2022-08-02 |
+| [No Love](https://open.spotify.com/track/2IFSm0WKnEoyiBwdCQ1w8L) | [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [No Love](https://open.spotify.com/album/4SVFRFKRsJvnIkWeT2Olen) | 2:16 | 2024-07-05 |  |
 | [No Quiero Na'](https://open.spotify.com/track/46lrIMeedN60uf6gmPmLu1) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Amor Roma](https://open.spotify.com/album/2pbBhYiSdgcWhuUFAzPru0) | 2:25 | 2022-04-07 | 2022-04-21 |
 | [No Scrubs](https://open.spotify.com/track/5SAprtHupMshMwlPuqan9c) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Featherweight](https://open.spotify.com/album/4m09VoIuOBrIT6oDwTQ0jO) | 4:27 | 2024-02-09 | 2024-03-16 |
 | [No Te Das Cuenta](https://open.spotify.com/track/7Lh3Rxv9V0XIVC1cCki1pV) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [No Te Das Cuenta](https://open.spotify.com/album/65pya5BvRjm3a1AGd63taZ) | 3:29 | 2022-03-24 | 2022-04-17 |

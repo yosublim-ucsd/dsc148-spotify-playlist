@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106401,
+  "num_followers": 106405,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 152405,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Pediste flores (con Loli Molina)",
         "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 193643,
       "name": "Pediste flores (con Loli Molina)",
       "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Ciclo Lunar",
-        "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 213310,
-      "name": "Ciclo Lunar",
-      "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 193517,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Ciclo Lunar",
+        "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 213310,
+      "name": "Ciclo Lunar",
+      "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "MIXTO",
         "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 243538,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "ReconoceR",
+        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
+      },
+      "artists": [
+        {
+          "name": "Pamela Rodriguez",
+          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Ligera Love",
+      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 224492,
       "name": "Polvo de estrellas",
       "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "ReconoceR",
-        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
-      },
-      "artists": [
-        {
-          "name": "Pamela Rodriguez",
-          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Ligera Love",
-      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Al lado tuyo",
-        "url": "https://open.spotify.com/album/08cAzHBSRUQuwZKQaNP6bn"
-      },
-      "artists": [
-        {
-          "name": "Denas & Miut",
-          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
-        },
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
-        }
-      ],
-      "duration_ms": 176106,
-      "name": "Al lado tuyo",
-      "url": "https://open.spotify.com/track/3iP9IvNBnqumfJ5hxhsPvV"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "El Chiste",
         "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 215000,
       "name": "El Chiste",
       "url": "https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Al lado tuyo",
+        "url": "https://open.spotify.com/album/08cAzHBSRUQuwZKQaNP6bn"
+      },
+      "artists": [
+        {
+          "name": "Denas & Miut",
+          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
+        },
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 176106,
+      "name": "Al lado tuyo",
+      "url": "https://open.spotify.com/track/3iP9IvNBnqumfJ5hxhsPvV"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Tripulantes",
         "url": "https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 228504,
       "name": "Tripulantes",
       "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Por los Dos",
         "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
       },
@@ -1583,6 +1603,26 @@
       "duration_ms": 181622,
       "name": "Por los Dos",
       "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Domingo Escarlata",
+        "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Domingo Escarlata",
+      "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1619,46 +1659,6 @@
       "duration_ms": 135942,
       "name": "C\u00f3mo olvidar",
       "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Domingo Escarlata",
-        "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Domingo Escarlata",
-      "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Ey",
-        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
-      },
-      "artists": [
-        {
-          "name": "Barco",
-          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
-        }
-      ],
-      "duration_ms": 197191,
-      "name": "Ey",
-      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 233507,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Ey",
+        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
+      },
+      "artists": [
+        {
+          "name": "Barco",
+          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
+        }
+      ],
+      "duration_ms": 197191,
+      "name": "Ey",
+      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
     },
     {
       "added_at": "2024-06-14 03:00:00",

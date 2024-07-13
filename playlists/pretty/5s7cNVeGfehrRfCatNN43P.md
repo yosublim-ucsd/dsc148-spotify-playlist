@@ -4,23 +4,20 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,676 likes - 14 songs - 40 min 6 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,674 likes - 11 songs - 34 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 |
-| 2 | [Daisy Chains](https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Daisy Chains \(The Summer EP\)](https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ) | 3:20 |
-| 3 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 |
-| 4 | [HIGH DEFINITION LOVER](https://open.spotify.com/track/4KlSsnjsSYRuyDzJClRzDC) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [HIGH DEFINITION LOVER](https://open.spotify.com/album/3PYKGSIj6cJyJGLnoRkyMU) | 2:50 |
-| 5 | [Til It Feels Alright](https://open.spotify.com/track/3K8EYQZ0rYcQgmnkXxPv78) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Til It Feels Alright](https://open.spotify.com/album/3mkBEDbWwmENCObd7hcVWk) | 2:25 |
-| 6 | [Lift You Up](https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lift You Up](https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya) | 3:47 |
-| 7 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 |
-| 8 | [On My Body](https://open.spotify.com/track/5aEswz3UYGouiW2o1xYEPQ) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [On My Body](https://open.spotify.com/album/2RHVk97p6ybscKCBcwUH1z) | 2:26 |
-| 9 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
-| 10 | [Love Me Not](https://open.spotify.com/track/3kPetyq0JMTHLUn1vNBw1C) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Love Me Not](https://open.spotify.com/album/4bBE5GKw2ScKlPN3yZPp5c) | 2:19 |
-| 11 | [Rush](https://open.spotify.com/track/4uAT9KngkkA9SXkYgFXoyR) | [CATBEAR](https://open.spotify.com/artist/2VcMAUD65hHSitLhcbyjIS) | [Rush](https://open.spotify.com/album/5OSPzMcg8W22IF5dSOFHVG) | 3:39 |
-| 12 | [The Car](https://open.spotify.com/track/4Qx3YoTw0ZyNbqDCUgboqz) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Annie\-Dog](https://open.spotify.com/album/2Gbd9jVGdt4xbLXNywrs69) | 3:23 |
-| 13 | [Tokyo](https://open.spotify.com/track/3lCIcU6bHi5Yya1Ey5npdJ) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [MIMI](https://open.spotify.com/artist/2CVsdM6ChnaL6fO64E3a5n) | [Tokyo](https://open.spotify.com/album/6P3ClrdsEcLsgkg7In975b) | 2:25 |
-| 14 | [En gang til](https://open.spotify.com/track/1YPVF4YQNKWLI5X7zSUZNP) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [En gang til](https://open.spotify.com/album/3UFh1o0obc9nJKhsktca2j) | 2:14 |
+| 1 | [i always knew you'd be the death of me](https://open.spotify.com/track/3iUDHA6FGAKfHX2jmgF0vO) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:16 |
+| 2 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 |
+| 3 | [My Oh My \- with Bebe Rexha & Tove Lo](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
+| 4 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 |
+| 5 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 |
+| 6 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
+| 7 | [Make Up](https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Up](https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R) | 2:31 |
+| 8 | [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 |
+| 9 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 |
+| 10 | [SNAKES AND LADDERS](https://open.spotify.com/track/5vCllKHimHZu1jQ9Y2A3yo) | [LEONI](https://open.spotify.com/artist/1XNDFH269CBhe582ubiCgp) | [SNAKES AND LADDERS](https://open.spotify.com/album/3eKoEn3l8mrAOjNA8Gm4Tn) | 3:26 |
+| 11 | [Crystal Ball](https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Crystal Ball](https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy) | 2:53 |
 
-Snapshot ID: `AAAKrFDOTWbdq9Dtky8J5jxndLh683k8`
+Snapshot ID: `AAAKrvcyrPnHJ1kZKpEtI1tRgBDHjOwH`

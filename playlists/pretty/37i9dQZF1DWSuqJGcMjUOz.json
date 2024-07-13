@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6212,
+  "num_followers": 6216,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "POURquoi!!",
-        "url": "https://open.spotify.com/album/0I3hm9l2KKfr1bhKlGk5Kj"
-      },
-      "artists": [
-        {
-          "name": "8ruki",
-          "url": "https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2"
-        },
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        }
-      ],
-      "duration_ms": 150160,
-      "name": "OH LAla!!",
-      "url": "https://open.spotify.com/track/4v07LupvD9RJHUAWFCSME2"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 210791,
       "name": "Croise les doigts",
       "url": "https://open.spotify.com/track/1Gy5hu4pDPRxkR0eWB5lfs"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "POURquoi!!",
+        "url": "https://open.spotify.com/album/0I3hm9l2KKfr1bhKlGk5Kj"
+      },
+      "artists": [
+        {
+          "name": "8ruki",
+          "url": "https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2"
+        },
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "duration_ms": 150160,
+      "name": "OH LAla!!",
+      "url": "https://open.spotify.com/track/4v07LupvD9RJHUAWFCSME2"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Osoyoos",
-        "url": "https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9drik St-Onge",
-          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
-        }
-      ],
-      "duration_ms": 235959,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Temp\u00eate",
         "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 209680,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Osoyoos",
+        "url": "https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "duration_ms": 235959,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
-      },
-      "artists": [
-        {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Nini",
         "url": "https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 151586,
       "name": "Franchement",
       "url": "https://open.spotify.com/track/175Yl76Q0ddCTXmiw7bsxx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Du feu dans les lilas",
         "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Feux de joie",
-        "url": "https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 209570,
-      "name": "Elle vit dans les bois",
-      "url": "https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Holla",
         "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 168888,
       "name": "Quelqu'un quand-m\u00eame",
       "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Feux de joie",
+        "url": "https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 209570,
+      "name": "Elle vit dans les bois",
+      "url": "https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 179833,
-      "name": "Le bois",
-      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Fluxus",
         "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 156904,
       "name": "OnO Song",
       "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "D\u00e9sol\u00e9 mouvement geste",
+        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
+      },
+      "artists": [
+        {
+          "name": "Navet Confit",
+          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
+        },
+        {
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Il a plu il a neig\u00e9",
+      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "O\u00f9 est pass\u00e9 mon contour",
         "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 246818,
       "name": "Mort de rire",
       "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "D\u00e9sol\u00e9 mouvement geste",
-        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
-      },
-      "artists": [
-        {
-          "name": "Navet Confit",
-          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
-        },
-        {
-          "name": "Douance",
-          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Il a plu il a neig\u00e9",
-      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
     },
     {
       "added_at": "2024-06-19 20:38:05",

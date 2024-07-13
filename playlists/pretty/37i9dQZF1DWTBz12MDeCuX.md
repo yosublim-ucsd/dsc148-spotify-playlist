@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,021 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,105 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 45 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 |
 | 46 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 |
 | 47 | [Everyday \(feat\. Rod Stewart, Miguel & Mark Ronson\)](https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 4:20 |
-| 48 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 |
+| 48 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
 | 49 | [Fällt mir schwer](https://open.spotify.com/track/1d1QAQ1UwhBMnlLBKLFcyZ) | [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Bisschen mehr Gefühl](https://open.spotify.com/album/6A5cTXYzNWTjPBjyaXiDe5) | 3:02 |
 | 50 | [Zungkuss](https://open.spotify.com/track/5E0TnhyZbOsygOe2xQUrCc) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Muss mein eigener Atze sein](https://open.spotify.com/album/7tIzwumlKnPsDFRIwG1ssW) | 2:32 |
 | 51 | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ) | 3:01 |

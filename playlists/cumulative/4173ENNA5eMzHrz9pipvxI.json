@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Tie\u0308sto, Lucas &amp; Steve, Sa\u0304n-Z",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: CYRIL &amp; Dean Lewis",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -902,6 +902,28 @@
       "duration_ms": 146974,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
+    },
+    {
+      "album": {
+        "name": "All My Tears",
+        "url": "https://open.spotify.com/album/3SA1Lqhmx2z2ATtRKIkdAU"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Weekend Wonders",
+          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/5tVUZvFsPHGGkQ5RF4CEC9"
     },
     {
       "album": {
@@ -8365,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "F#CK THE DJ",
+        "url": "https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "F#CK THE DJ",
+      "url": "https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY"
+    },
+    {
+      "album": {
         "name": "F**k it (How I Want It)",
         "url": "https://open.spotify.com/album/2go1OTPMheCBBttze51fep"
       },
@@ -8534,6 +8574,28 @@
       "duration_ms": 184186,
       "name": "Fall",
       "url": "https://open.spotify.com/track/726XHSvBhMGKI7OfZEXZCf"
+    },
+    {
+      "album": {
+        "name": "Fall At Your Feet (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143976,
+      "name": "Fall At Your Feet (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
     },
     {
       "album": {
@@ -10491,6 +10553,32 @@
     },
     {
       "album": {
+        "name": "Go Back (feat. AGGE)",
+        "url": "https://open.spotify.com/album/66YkNXT0BS3m32UfzoXXkk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "AGGE",
+          "url": "https://open.spotify.com/artist/6lToVu9We2bx2cbmc0qtg9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220652,
+      "name": "Go Back (feat. AGGE)",
+      "url": "https://open.spotify.com/track/4jWfLtPxJZroRYfb7dXttK"
+    },
+    {
+      "album": {
         "name": "Go For Excellence (Official 2024 UEC Track Elite European Championships Song)",
         "url": "https://open.spotify.com/album/1JUhV8Oc5fLUQy7LMLsbrl"
       },
@@ -11762,6 +11850,28 @@
       "duration_ms": 199384,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/44fKrt6SHESPvP3H1IpvBy"
+    },
+    {
+      "album": {
+        "name": "Hurricane (feat. Leah Guest)",
+        "url": "https://open.spotify.com/album/0AykD0vZXh4qotarIZaein"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Leah Guest",
+          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Hurricane (feat. Leah Guest)",
+      "url": "https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u"
     },
     {
       "album": {
@@ -16941,6 +17051,24 @@
     },
     {
       "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/5bC9YRPcdc3W90DG4aw04n"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155742,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5JzDUd8Iz8ol1f5WhfTJx9"
+    },
+    {
+      "album": {
         "name": "Made To Last",
         "url": "https://open.spotify.com/album/3KDV6CGIOM4u8923Cd1T1k"
       },
@@ -17928,6 +18056,24 @@
       "duration_ms": 199111,
       "name": "MOLLY (Will Sparks Remix)",
       "url": "https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y"
+    },
+    {
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158710,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
     },
     {
       "album": {
@@ -19394,6 +19540,24 @@
       "duration_ms": 140800,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/065VacUyBvH3e5rt3C6yh5"
+    },
+    {
+      "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "New Sound",
+      "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
     },
     {
       "album": {
@@ -22834,6 +22998,28 @@
       "duration_ms": 155146,
       "name": "Riverside MF",
       "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
+    },
+    {
+      "album": {
+        "name": "Rock Da House",
+        "url": "https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147967,
+      "name": "Rock Da House",
+      "url": "https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD"
     },
     {
       "album": {

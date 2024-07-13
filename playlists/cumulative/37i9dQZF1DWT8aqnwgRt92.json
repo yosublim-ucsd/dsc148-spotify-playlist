@@ -3729,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "FACELESS",
+        "url": "https://open.spotify.com/album/5EKoC23fdT9gTwbJOrfVZK"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "FACELESS",
+      "url": "https://open.spotify.com/track/6vxT9Jfpp5vJs0A8w6NUJl"
+    },
+    {
+      "album": {
         "name": "FAKEit",
         "url": "https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC"
       },
@@ -10414,6 +10432,24 @@
       "duration_ms": 235533,
       "name": "POLARIS IN THE NIGHT",
       "url": "https://open.spotify.com/track/0Nv8zocbCLFa35NK4IQig5"
+    },
+    {
+      "album": {
+        "name": "pray",
+        "url": "https://open.spotify.com/album/5yZ6GMSNq2Vx3HEqWMF3Zw"
+      },
+      "artists": [
+        {
+          "name": "Hakubi",
+          "url": "https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "pray",
+      "url": "https://open.spotify.com/track/1xnr08J8RdlHrDXKYarF9M"
     },
     {
       "album": {
@@ -17830,7 +17866,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 207775,
       "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30d5\u30ed\u30f3\u30c8\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u"
@@ -19214,6 +19250,24 @@
       "duration_ms": 196066,
       "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9 I LOVE YOU",
       "url": "https://open.spotify.com/track/1rMbW3ri5rFPwIaWXjeOi6"
+    },
+    {
+      "album": {
+        "name": "\u30bb\u30ca\u30ab\u30a2\u30ef\u30bb",
+        "url": "https://open.spotify.com/album/5RSmyqHHJJReS5tVHv0B7f"
+      },
+      "artists": [
+        {
+          "name": "AliA",
+          "url": "https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196480,
+      "name": "\u30bb\u30ca\u30ab\u30a2\u30ef\u30bb",
+      "url": "https://open.spotify.com/track/4I2TRJwkLkxotgmKJWNzPe"
     },
     {
       "album": {
@@ -20625,6 +20679,24 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/3ZM5smVHohm7YEhkZuqA7v"
+      },
+      "artists": [
+        {
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210943,
+      "name": "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/1jWQUBQcnHh0Rtzr8Rlu4s"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30fb\u30eb\u30fc\u30e0",
         "url": "https://open.spotify.com/album/2Yj0vtD6o8YM37DTibVl5g"
       },
@@ -21292,7 +21364,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 288200,
       "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
       "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
@@ -24950,7 +25022,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165866,
       "name": "\u6b63\u89e3\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/7iMizwkSqNacghYKrAo8o7"
@@ -25066,7 +25138,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 261497,
       "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
       "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"

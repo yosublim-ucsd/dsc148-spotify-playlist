@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-384 songs - 21 hr 45 min
+385 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ballade No\. 1](https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx) | [Ballade No\. 1](https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1) | 1:54 | 2021-05-14 | 2023-04-01 |
 | [BAM! \- Chill Remix](https://open.spotify.com/track/4qlZFwn0pvaZalY5lJUGzX) | [KELSON](https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [BAM! \(Remixes\)](https://open.spotify.com/album/1IOx2nHbWzjDa3EM6ly6Y1) | 2:40 | 2023-08-18 |  |
 | [Bang Bang \- Future Swing Mix](https://open.spotify.com/track/2hal3K1iZA1G0ttAwfMoPV) | [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW), [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII) | [Bang Bang \(Future Swing Mix\)](https://open.spotify.com/album/2AyWBB2grQkYia6WDEbWTt) | 2:03 | 2024-04-19 |  |
-| [Barbie Girl \- Electro Swing Remix](https://open.spotify.com/track/6aXMkpLI4aYeYCK2j3knI4) | [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Barbie Girl \(Electro Swing Remix\)](https://open.spotify.com/album/5LUTrIZZJ6ORJhc73mwTo2) | 2:39 | 2024-03-01 |  |
+| [Barbie Girl \- Electro Swing Remix](https://open.spotify.com/track/6aXMkpLI4aYeYCK2j3knI4) | [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Barbie Girl \(Electro Swing Remix\)](https://open.spotify.com/album/5LUTrIZZJ6ORJhc73mwTo2) | 2:39 | 2024-03-01 | 2024-07-13 |
 | [Bei mir bist du schön](https://open.spotify.com/track/3yKKZTpzR2fnxw50gar1Mc) | [Duo Stiehler/Lucaciu](https://open.spotify.com/artist/7nSGBz4UKbB91w3Qm6Mjcm) | [Bei mir bist du schön](https://open.spotify.com/album/7rrwhLZNJFe9vN8SagXtgO) | 3:05 | 2023-05-19 |  |
 | [Bei Mir Bistu Shein \- Electro Swing Mix](https://open.spotify.com/track/6w21L3eVgP07fWiYew9Tsd) | [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW) | [Bei Mir Bistu Shein](https://open.spotify.com/album/5olnobFFDdSBKTkTocF4bB) | 3:31 | 2022-09-16 | 2024-04-19 |
 | [Big Bad Wolf](https://open.spotify.com/track/5oDng0woFCH1OXJCTUhY1s) | [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Big Bad Wolf](https://open.spotify.com/album/3aXhjfpVZAjBKJsvZNqtt0) | 3:22 | 2022-10-12 | 2023-11-07 |
@@ -305,6 +305,7 @@
 | [Stormy Night](https://open.spotify.com/track/3yv7S3DWESv8CF52hGglqH) | [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a) | [Stormy Night](https://open.spotify.com/album/4XGIFbYRL1U8MYTLFZsInB) | 2:28 | 2023-08-11 |  |
 | [Street Lamp Swing](https://open.spotify.com/track/4Vjc2hFx7GT7YtyfRmomgR) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Self Portrait in 3 Colors](https://open.spotify.com/album/09g7W6QRRXWNGDvfDtBtJe) | 3:57 | 2020-10-30 |  |
 | [Summer Swing](https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Summer Swing](https://open.spotify.com/album/5rzDrcy3EbPwDUV6IFUc0N) | 2:38 | 2021-07-23 | 2023-05-20 |
+| [Sunny](https://open.spotify.com/track/758jr3lwM0Q6O9yPafMs8k) | [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Sunny](https://open.spotify.com/album/7kptn65vyNf42rqKfTZJWL) | 2:58 | 2024-07-12 |  |
 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [Mc Little Tree](https://open.spotify.com/artist/1WTWYBTjdHuCLJK9YXRbZb) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 | 2020-10-30 | 2024-04-19 |
 | [Superhero \- Original Mix](https://open.spotify.com/track/6kWxGDy6M6IBoUphdmYTSq) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn) | [Superhero](https://open.spotify.com/album/6v3ulVHcqgaI7Rc4Houepz) | 5:27 | 2020-10-30 |  |
 | [Swag Bag](https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 4:25 | 2020-10-30 |  |

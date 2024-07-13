@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: The Reklaws
+> The home of Canadian country music\. Cover: The Washboard Union
 
-80 songs - 4 hr 17 min
+85 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Cold Feet](https://open.spotify.com/track/2xMbZBV9hRc2tuIxkTiSoH) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Cold Feet](https://open.spotify.com/album/4SxOxJntqDiiHZFPcqEmGQ) | 2:22 | 2024-06-28 |  |
 | [Comeback Kid](https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Comeback Kid](https://open.spotify.com/album/2aNaTXajKGYdbTVL5cPAQT) | 3:27 | 2024-06-28 |  |
 | [Completely, Sweetly](https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Chains & Stakes](https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7) | 3:51 | 2024-06-28 |  |
-| [Concrete And Barbed Wire](https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Concrete And Barbed Wire](https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z) | 3:13 | 2024-06-28 |  |
+| [Concrete And Barbed Wire](https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Concrete And Barbed Wire](https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z) | 3:13 | 2024-06-28 | 2024-07-13 |
 | [Confession](https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:36 | 2024-06-28 |  |
 | [Coyote](https://open.spotify.com/track/0uQxv3pvFrL3ri6Cec2dQ1) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/5CuM2FEgmQ5a5PtrZJmtHU) | 4:16 | 2024-06-28 | 2024-07-06 |
 | [Dan](https://open.spotify.com/track/4y0LXmaQInSd2ZK0GEP9mm) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 5:02 | 2024-06-28 |  |
@@ -33,7 +33,7 @@
 | [Drive](https://open.spotify.com/track/4pIh9QjspvYmaHU5qLWhGC) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Drive](https://open.spotify.com/album/08jNvTGmw8wnDxIYqgYHx3) | 2:56 | 2024-06-28 |  |
 | [End Game](https://open.spotify.com/track/0Hn8PDXY6SAaikKJNjpD7z) | [Emma Kade](https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx) | [End Game](https://open.spotify.com/album/5uQoGeooNx3xA57poJGnRA) | 3:16 | 2024-06-28 |  |
 | [Family First](https://open.spotify.com/track/6Wwr6c7cF6xPvqTbGGBk9I) | [Eric Ethridge](https://open.spotify.com/artist/6h3SuFXFhINbYsVyIgaKLS) | [Family First](https://open.spotify.com/album/3UpphRVmpfImtobnjhFn3p) | 4:00 | 2024-06-28 | 2024-07-06 |
-| [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 | 2024-06-28 |  |
+| [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz) | 3:36 | 2024-06-28 |  |
 | [Go Get Er](https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/5XIsumyPFxk44Y4MXu5edY) | 3:03 | 2024-06-28 |  |
 | [Got It](https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Got It](https://open.spotify.com/album/2mEdu1KXHXyY8KaKnTBf0F) | 2:47 | 2024-06-28 |  |
@@ -48,12 +48,16 @@
 | [Just Wanna Feel It](https://open.spotify.com/track/3iO4eyPq0CKGKuAlVNfHXq) | [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Just Wanna Feel It](https://open.spotify.com/album/2vESO9JTAruodgv7S6OG45) | 3:15 | 2024-06-28 | 2024-07-06 |
 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 | 2024-06-28 | 2024-07-06 |
 | [Let Your Horses Run](https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run](https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd) | 2:59 | 2024-06-28 |  |
+| [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 | 2024-07-12 |  |
 | [Lonesome](https://open.spotify.com/track/1LGO73QwShLdT3iCxKIRrP) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz), [Trey Hensley](https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa) | [Lonesome](https://open.spotify.com/album/2fWGkbYkFIxHIYHZqIvjvh) | 3:50 | 2024-06-28 | 2024-07-06 |
-| [Lyin' To Me](https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Lyin' To Me](https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ) | 3:00 | 2024-06-28 |  |
+| [Lyin' To Me](https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Lyin' To Me](https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ) | 3:00 | 2024-06-28 | 2024-07-13 |
 | [Make It Out Alive](https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Make It Out Alive](https://open.spotify.com/album/4mi9ihXypXaweqvT4NAML7) | 3:55 | 2024-07-05 |  |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-28 |  |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-06-28 |  |
+| [Never Leave](https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud) | [Chase Heaslip](https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr) | [Never Leave](https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1) | 3:33 | 2024-07-12 |  |
 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-06-28 |  |
+| [New Paint](https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Westerly](https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj) | 3:13 | 2024-07-12 |  |
+| [Nobody Dies Anymore](https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Nobody Dies Anymore](https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr) | 3:58 | 2024-07-12 |  |
 | [Not So Much No More](https://open.spotify.com/track/2FKqYH559u3BIhdKpPRKtE) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Not So Much No More](https://open.spotify.com/album/3yHlZnt3ibKcgWORuu9swz) | 2:58 | 2024-06-28 |  |
 | [Not Yet](https://open.spotify.com/track/6Vecr80tnNQJmyoIMWkiCq) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Not Yet](https://open.spotify.com/album/64X6Dn40pMX4gBBkfr91b1) | 2:46 | 2024-06-28 |  |
 | [One Beer Away](https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/4PrVEVTs11WAhVm1k4Q7pd) | 3:38 | 2024-06-28 |  |
@@ -77,11 +81,12 @@
 | [The Devil I've Seen](https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Devil I've Seen](https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI) | 3:23 | 2024-06-28 |  |
 | [The Sound Of A Beer Getting Cracked](https://open.spotify.com/track/5pmt4pyh8w7w8q8zJb9CJA) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:14 | 2024-06-28 |  |
 | [TICKET TO RIDE](https://open.spotify.com/track/2lbIfAfYcUqvHqujrqNCjf) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [TICKET TO RIDE](https://open.spotify.com/album/5mQ7VgSUf5rfGeQAOl5bE0) | 2:15 | 2024-06-28 |  |
-| [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 | 2024-06-28 |  |
+| [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 | 2024-06-28 | 2024-07-13 |
 | [too hot to be sad](https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [pretty girls don’t cry](https://open.spotify.com/album/4soi8ZgqNC0NxPdtbfn3T7) | 2:44 | 2024-06-28 |  |
 | [Train \- Station Edition](https://open.spotify.com/track/2acYhYSssljNJW5Ud90Pyt) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Train \(Station Edition\)](https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit) | 3:21 | 2024-06-28 |  |
 | [Waste Of Space](https://open.spotify.com/track/4iiO21zbbsrp1q7u1pzG1D) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Waste Of Space](https://open.spotify.com/album/1ZV6NU52nZL07pMVfncdCR) | 3:10 | 2024-07-05 |  |
-| [Whether You Love Me or Not](https://open.spotify.com/track/32s0NIIpzep0lQkcIKGyXR) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Whether You Love Me or Not](https://open.spotify.com/album/6BsAYtZi9spVp8zw2JF5Ue) | 3:28 | 2024-06-28 |  |
+| [What Shoulder](https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [What Shoulder](https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy) | 2:56 | 2024-07-12 |  |
+| [Whether You Love Me or Not](https://open.spotify.com/track/32s0NIIpzep0lQkcIKGyXR) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Whether You Love Me or Not](https://open.spotify.com/album/6BsAYtZi9spVp8zw2JF5Ue) | 3:28 | 2024-06-28 | 2024-07-13 |
 | [Whiskey Bottle](https://open.spotify.com/track/1oopyVZOYfVijlYX6PFBUX) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Whiskey Bottle](https://open.spotify.com/album/4oBfh4vaQsqsizHoX0uP4e) | 2:58 | 2024-06-28 |  |
 | [White Claw](https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [White Claw](https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx) | 3:26 | 2024-06-28 |  |
 | [Who Knew](https://open.spotify.com/track/5Mr6sAj3FMX4nCxErLTv8p) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Who Knew](https://open.spotify.com/album/0a6djAftnj9ApNI89AKxhQ) | 3:02 | 2024-06-28 |  |

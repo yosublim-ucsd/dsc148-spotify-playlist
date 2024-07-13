@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "11:33am",
+        "url": "https://open.spotify.com/album/56ES1QuoXxtYf8IYgMEL0h"
+      },
+      "artists": [
+        {
+          "name": "picture frames",
+          "url": "https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139906,
+      "name": "11:33am",
+      "url": "https://open.spotify.com/track/5GVXB4BXb7ED0jfgSvSwsO"
+    },
+    {
+      "album": {
+        "name": "12:09pm",
+        "url": "https://open.spotify.com/album/2V6t4waC2EFVJALHvzAU8n"
+      },
+      "artists": [
+        {
+          "name": "picture frames",
+          "url": "https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "12:09pm",
+      "url": "https://open.spotify.com/track/1VfzuxGItDZSs5mTsBy53o"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/3M6FaDixxD0y7r6gcF4xOO"
       },
@@ -153,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9"
+      },
+      "artists": [
+        {
+          "name": "Tanner Christian Gesek",
+          "url": "https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135981,
+      "name": "A Practical Matter",
+      "url": "https://open.spotify.com/track/6diJq4Hz5Z8SMP87VhQR82"
+    },
+    {
+      "album": {
         "name": "A Rainy Afternoon",
         "url": "https://open.spotify.com/album/3B5YVMnNd79n1G227Z8TFe"
       },
@@ -244,6 +298,24 @@
       "duration_ms": 146011,
       "name": "Above The World",
       "url": "https://open.spotify.com/track/7Co7TQIM2mvfQAN0xqesVz"
+    },
+    {
+      "album": {
+        "name": "Adrift I",
+        "url": "https://open.spotify.com/album/4XzqK4FaWe5bnUaZdjqc9M"
+      },
+      "artists": [
+        {
+          "name": "Tristan De Liege",
+          "url": "https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272140,
+      "name": "Adrift I",
+      "url": "https://open.spotify.com/track/3mLfDYt6UMtkosd046b96i"
     },
     {
       "album": {
@@ -407,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9"
+      },
+      "artists": [
+        {
+          "name": "Tanner Christian Gesek",
+          "url": "https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Aristocracy",
+      "url": "https://open.spotify.com/track/3IcnyFd8Hz5X0738QpkK5J"
+    },
+    {
+      "album": {
         "name": "As I Breathe",
         "url": "https://open.spotify.com/album/5h4j3BZMDAqibxAH5fHBpR"
       },
@@ -452,6 +542,24 @@
       "duration_ms": 82291,
       "name": "As It Was (Piano Version)",
       "url": "https://open.spotify.com/track/5H8qAeA04uTyHv0vpeSadp"
+    },
+    {
+      "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9"
+      },
+      "artists": [
+        {
+          "name": "Tanner Christian Gesek",
+          "url": "https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Autumn Air",
+      "url": "https://open.spotify.com/track/4bIz6WIScPS9dVAd3zV99p"
     },
     {
       "album": {
@@ -606,6 +714,24 @@
       "duration_ms": 100717,
       "name": "Before the Rain",
       "url": "https://open.spotify.com/track/3EVLubPcTKGd8eX2sdCqsS"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/7yHeliIh6y6XPNhJKNWJxm"
     },
     {
       "album": {
@@ -792,6 +918,24 @@
       "duration_ms": 126768,
       "name": "Bluff Trail",
       "url": "https://open.spotify.com/track/1GuV3mmmbG7ngfD34BoPyD"
+    },
+    {
+      "album": {
+        "name": "Broken Waltz",
+        "url": "https://open.spotify.com/album/3ie4veJvgpbsyMhUyh5DUu"
+      },
+      "artists": [
+        {
+          "name": "Eddy Ruyter",
+          "url": "https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211693,
+      "name": "Broken Waltz",
+      "url": "https://open.spotify.com/track/4lCX28gJF69wmnHJbUXSxQ"
     },
     {
       "album": {
@@ -1633,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/3ZLvf47bCxxfOzNy2RUMaF"
+    },
+    {
+      "album": {
         "name": "Drudgery",
         "url": "https://open.spotify.com/album/4lzfezhTUx3zq9kUKOX8Pu"
       },
@@ -1666,6 +1828,42 @@
       "duration_ms": 228600,
       "name": "D\u00edas Nublados",
       "url": "https://open.spotify.com/track/2gtYrWBzGPwhBa4AU1UmuM"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0WbjP8lYfrOU8pQsICxhkS"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/56bA464HLY4yVa1tpHHAIC"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/12u5uPCbvSPreo15kiZzc6"
     },
     {
       "album": {
@@ -2587,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9"
+      },
+      "artists": [
+        {
+          "name": "Tanner Christian Gesek",
+          "url": "https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156947,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/4t7yC1KkVuWgAbrvzpRcBJ"
+    },
+    {
+      "album": {
         "name": "Golden Hourglass (piano version)",
         "url": "https://open.spotify.com/album/4m0B4VP5oTd1Wks9UWGsVk"
       },
@@ -2677,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9"
+      },
+      "artists": [
+        {
+          "name": "Tanner Christian Gesek",
+          "url": "https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210315,
+      "name": "Greeting Newness Again",
+      "url": "https://open.spotify.com/track/4w6La6oXkG65ZIgn2DIeIq"
+    },
+    {
+      "album": {
         "name": "growing",
         "url": "https://open.spotify.com/album/7toDCmXaDO2oGcx6puLhJC"
       },
@@ -2740,6 +2974,24 @@
       "duration_ms": 102668,
       "name": "Growing Stir",
       "url": "https://open.spotify.com/track/3dRd7BC1B47oBewvFhJdNE"
+    },
+    {
+      "album": {
+        "name": "Introspective Keys II",
+        "url": "https://open.spotify.com/album/207ouJBNWGwvJqbmZDC5x5"
+      },
+      "artists": [
+        {
+          "name": "Jovannah",
+          "url": "https://open.spotify.com/artist/1ORuRXKDxwmKaCIe3kb9hU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111047,
+      "name": "Guidance",
+      "url": "https://open.spotify.com/track/35cbWQsBEHm2UFkfbrzq07"
     },
     {
       "album": {
@@ -3959,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi"
+      },
+      "artists": [
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261720,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/65WIpfdc8d90P4805p1Nbe"
+    },
+    {
+      "album": {
         "name": "MASC (Piano Instrumental)",
         "url": "https://open.spotify.com/album/4J8ozGBPIfJqVaNdwimvq4"
       },
@@ -4125,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "Midnight Whisper",
+        "url": "https://open.spotify.com/album/2NjBQWW4hJjY9l5HbowvWZ"
+      },
+      "artists": [
+        {
+          "name": "Amr Shalaby",
+          "url": "https://open.spotify.com/artist/4oSK5XfYJE7VVMuMdbtp8h"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131586,
+      "name": "Midnight Whisper",
+      "url": "https://open.spotify.com/track/0je3yqAP0JLrzUpIalRwxG"
+    },
+    {
+      "album": {
         "name": "Moon And Stars",
         "url": "https://open.spotify.com/album/7uNmiXM4PDnmnT2cKaNuxN"
       },
@@ -4235,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi"
+      },
+      "artists": [
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/0wrwwRF7o5SN1fi7tJdrIA"
+    },
+    {
+      "album": {
         "name": "Snapshots",
         "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
       },
@@ -4250,6 +4556,28 @@
       "duration_ms": 65653,
       "name": "Moving Day At Her Third Floor Walk Up",
       "url": "https://open.spotify.com/track/28emNUpv5CbA8uKvCI68vT"
+    },
+    {
+      "album": {
+        "name": "Moving Mountains",
+        "url": "https://open.spotify.com/album/1rfXJKYCzO9AeH6wL2nGaR"
+      },
+      "artists": [
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        },
+        {
+          "name": "Ross Christopher",
+          "url": "https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275374,
+      "name": "Moving Mountains",
+      "url": "https://open.spotify.com/track/0ujllOMqSfFVDWsL5ONpUX"
     },
     {
       "album": {
@@ -4763,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi"
+      },
+      "artists": [
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "Open to Love",
+      "url": "https://open.spotify.com/track/1jqpCa125wI3RmzpMtIM3d"
+    },
+    {
+      "album": {
         "name": "ornaments",
         "url": "https://open.spotify.com/album/2oGlaQrJBnHqTyEsjKkLzm"
       },
@@ -5071,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2cIhSKzpS7q2ZHo1n2OTah"
+    },
+    {
+      "album": {
         "name": "Pink Lightning",
         "url": "https://open.spotify.com/album/4gLfnUHU8nujvU7h6pvxfl"
       },
@@ -5272,6 +5636,24 @@
       "duration_ms": 141612,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4jejClzRGNJm0FtYTRLA2Q"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi"
+      },
+      "artists": [
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166986,
+      "name": "Reflections in A minor",
+      "url": "https://open.spotify.com/track/7bdlPDcEwygLH4Z2Ie07gK"
     },
     {
       "album": {
@@ -5551,6 +5933,24 @@
     },
     {
       "album": {
+        "name": "Shatter",
+        "url": "https://open.spotify.com/album/5Ml0yXDy51e0R9S3w1a7C6"
+      },
+      "artists": [
+        {
+          "name": "Eddy Ruyter",
+          "url": "https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196922,
+      "name": "Shatter",
+      "url": "https://open.spotify.com/track/7wvFRSqx6PEboADEpPVKq6"
+    },
+    {
+      "album": {
         "name": "She Cooks",
         "url": "https://open.spotify.com/album/3x10zysnvcCZilx5I8OWXM"
       },
@@ -5719,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9"
+      },
+      "artists": [
+        {
+          "name": "Tanner Christian Gesek",
+          "url": "https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118124,
+      "name": "Snowglobe Far Away",
+      "url": "https://open.spotify.com/track/5JWeFhTQH05NvpyGpVIGDj"
+    },
+    {
+      "album": {
         "name": "So What if We're Dreaming (piano version)",
         "url": "https://open.spotify.com/album/2pUn6ufNkMST0hivK9ARmH"
       },
@@ -5770,6 +6188,24 @@
       "duration_ms": 133867,
       "name": "Soft Launch",
       "url": "https://open.spotify.com/track/5uTSZWLeWAZWn1et9JuPSF"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi"
+      },
+      "artists": [
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/2vVeVTuyjKOAaMSJGbpr28"
     },
     {
       "album": {
@@ -5951,6 +6387,24 @@
     },
     {
       "album": {
+        "name": "Soothing Symphony",
+        "url": "https://open.spotify.com/album/2Fj8en8b1VPTiWT8ThPR3l"
+      },
+      "artists": [
+        {
+          "name": "Ashe$",
+          "url": "https://open.spotify.com/artist/4IPum3MJGdi5oRREuR1Pwi"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276428,
+      "name": "Soothing Symphony",
+      "url": "https://open.spotify.com/track/0jwCYGWEpeVEIDFOUlHH66"
+    },
+    {
+      "album": {
         "name": "Sorrow Serenade",
         "url": "https://open.spotify.com/album/6Tu6Qk35PNRC9KVezzwBmd"
       },
@@ -6032,6 +6486,24 @@
       "duration_ms": 101725,
       "name": "Spring Honey",
       "url": "https://open.spotify.com/track/5HxYZZni3uzWlb0K80lC61"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi"
+      },
+      "artists": [
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201013,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6Jfcmb4UID5VSLXIsYV7v4"
     },
     {
       "album": {
@@ -6171,6 +6643,24 @@
     },
     {
       "album": {
+        "name": "Impressions of Bali",
+        "url": "https://open.spotify.com/album/6C1b9lgIBYZeulAXbJ2nOo"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Tegallalang",
+      "url": "https://open.spotify.com/track/5AtC5CGRT70t3qmn1E3UxD"
+    },
+    {
+      "album": {
         "name": "The Attic",
         "url": "https://open.spotify.com/album/6Un8iFf3GjdARGkJAC0qvw"
       },
@@ -6285,6 +6775,28 @@
     },
     {
       "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/29baVDOArAU8FdhwbRWY3o"
+      },
+      "artists": [
+        {
+          "name": "Kristen Miller",
+          "url": "https://open.spotify.com/artist/0dgW8jhegxDkxrgWt6KLLX"
+        },
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/5ooAC86Csmb1dFrtcT0uD3"
+    },
+    {
+      "album": {
         "name": "Snapshots",
         "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
       },
@@ -6375,6 +6887,42 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/2ZbRULAOxZGSxj76v6wTGj"
+    },
+    {
+      "album": {
+        "name": "the melody of her laughter",
+        "url": "https://open.spotify.com/album/4FhGViPMntmH7gDqim3CAt"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195607,
+      "name": "the melody of her laughter",
+      "url": "https://open.spotify.com/track/2EiO3oHPcW90Z16cEZSfCI"
+    },
+    {
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/0PjWlA3jt5Se7xlxLzV9S1"
       },
@@ -6426,6 +6974,24 @@
       "duration_ms": 177000,
       "name": "The Soul",
       "url": "https://open.spotify.com/track/4bb9ZHJFbG7LXz6byYoLFe"
+    },
+    {
+      "album": {
+        "name": "The Springs",
+        "url": "https://open.spotify.com/album/1PBWtNS2KHGqXJaLpjCMnK"
+      },
+      "artists": [
+        {
+          "name": "Tristan De Liege",
+          "url": "https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197037,
+      "name": "The Springs",
+      "url": "https://open.spotify.com/track/2x5GrDCJeF8X1dfbGuw1V5"
     },
     {
       "album": {
@@ -6676,6 +7242,24 @@
       "duration_ms": 98571,
       "name": "Tripinnante",
       "url": "https://open.spotify.com/track/0b8D2p5v2s94JTp4pOrp98"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi"
+      },
+      "artists": [
+        {
+          "name": "Alise Ashby",
+          "url": "https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/5zqM2WjN0x27D7x09kaXxW"
     },
     {
       "album": {
@@ -7045,6 +7629,28 @@
     },
     {
       "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/12PFAMlnvZpHBMi7Tpp64S"
+      },
+      "artists": [
+        {
+          "name": "Michael Martinez",
+          "url": "https://open.spotify.com/artist/5xU9fGVJjEudolpIPCqg4w"
+        },
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210808,
+      "name": "What Comes Next",
+      "url": "https://open.spotify.com/track/3pklbfnNNGUJcZRrUNPfgy"
+    },
+    {
+      "album": {
         "name": "we still have time to dream",
         "url": "https://open.spotify.com/album/0fmwMHXCtE9FAHtfJNymaK"
       },
@@ -7171,6 +7777,24 @@
     },
     {
       "album": {
+        "name": "Whispers of Forgiveness",
+        "url": "https://open.spotify.com/album/01jJZ2epIFCgSB6tXkZLY8"
+      },
+      "artists": [
+        {
+          "name": "Ashe$",
+          "url": "https://open.spotify.com/artist/4IPum3MJGdi5oRREuR1Pwi"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284745,
+      "name": "Whispers of Forgiveness",
+      "url": "https://open.spotify.com/track/0yf7DdAhGAdgHD8WjS6nOa"
+    },
+    {
+      "album": {
         "name": "white dahlias",
         "url": "https://open.spotify.com/album/1pvrhTxWb7d4EQvte9FFAh"
       },
@@ -7240,6 +7864,24 @@
       "duration_ms": 98299,
       "name": "winter walks",
       "url": "https://open.spotify.com/track/0tSRr77BrlU4idENmQprQS"
+    },
+    {
+      "album": {
+        "name": "Charisma",
+        "url": "https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9"
+      },
+      "artists": [
+        {
+          "name": "Tanner Christian Gesek",
+          "url": "https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/4Ss94RiEpmgLXO9JXwqil8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-99 songs - 5 hr 50 min
+100 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Fiel \- House Remix](https://open.spotify.com/track/4BGlE1u1ptkteX1sxQCzSA) | [Guille Preda](https://open.spotify.com/artist/7KXLbxjmLRmsWAal7N4HnJ), [Benja Murano](https://open.spotify.com/artist/60iQQCqxRxnfGVn7O0ijl4) | [Clubbin' Vol.1 \(House Remix\)](https://open.spotify.com/album/06zabyw045BqqS9MSfl8oL) | 3:48 | 2023-11-29 | 2024-03-29 |
 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 | 2023-11-29 |  |
 | [Fuletón](https://open.spotify.com/track/7hSuuBdqAYoH4P3PNDYN71) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 2:45 | 2023-11-29 |  |
+| [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 | 2024-07-12 |  |
 | [Gata Only \- J.PATRON Remix](https://open.spotify.com/track/5EYZeP0HXssaa3tvfTiKxf) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/73Zc3IZtfAoO8EgWWMALaP), [J.Patron](https://open.spotify.com/artist/4KIR9I8szkZCxEw9Ncdmdo) | [Gata Only \(J.PATRON Remix\)](https://open.spotify.com/album/49WGsbEmxU7zzRua0qa5wT) | 3:54 | 2024-05-03 |  |
 | [Gata Only \- Techengue](https://open.spotify.com/track/0E6vWWwX6Hg6T67KbHBW13) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Gata Only \(Techengue\)](https://open.spotify.com/album/1jyrigpkwzXAdy4IuThiKQ) | 2:15 | 2024-03-28 | 2024-05-03 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-11-29 |  |

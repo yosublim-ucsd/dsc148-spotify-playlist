@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 63850,
+  "num_followers": 63887,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZodvwAAAAADBaU7AWLUUdDp3cidFKaBU",
+  "snapshot_id": "ZpCqfAAAAADkY15vsG8FrSXzJ3AGEyaJ",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 258258,
       "name": "The Way You Sway - radio single",
       "url": "https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Girl From Cagayan De Oro",
+        "url": "https://open.spotify.com/album/7qU0xAK2XDVk4Qiq2sNzBt"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Arun Shenoy",
+          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
+        },
+        {
+          "name": "Douglas Lira",
+          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+        },
+        {
+          "name": "Jonathan Wesley",
+          "url": "https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st"
+        },
+        {
+          "name": "Sami Turunen",
+          "url": "https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO"
+        }
+      ],
+      "duration_ms": 267609,
+      "name": "The Girl From Cagayan De Oro",
+      "url": "https://open.spotify.com/track/7hpy2vrgp2duIotpoYPxSl"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -103,34 +135,6 @@
       "duration_ms": 245413,
       "name": "Later Together",
       "url": "https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Fresh Air",
-        "url": "https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shell",
-          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
-        },
-        {
-          "name": "Arun Shenoy",
-          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
-        },
-        {
-          "name": "Cord Martin",
-          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
-        },
-        {
-          "name": "Sam Ojalvo",
-          "url": "https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Fresh Air",
-      "url": "https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1089,7 +1093,7 @@
       "url": "https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2024-07-12 04:01:00",
       "album": {
         "name": "The Thing Is...",
         "url": "https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K"
@@ -1657,7 +1661,7 @@
       "url": "https://open.spotify.com/track/1jp41tll6761L9Q8PtqAab"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2024-07-12 04:01:00",
       "album": {
         "name": "Freddie Freeloader",
         "url": "https://open.spotify.com/album/1AzwNDfEC7MTfPMEOGYeOo"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
+  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
   "name": "This Is Gerardo Ortiz",
   "tracks": [
     {
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
@@ -1368,6 +1368,24 @@
       "duration_ms": 177365,
       "name": "Regresa Hermosa",
       "url": "https://open.spotify.com/track/13owSDdId4auyDUXxS7H8i"
+    },
+    {
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "Sangre Azul",
+      "url": "https://open.spotify.com/track/3Uu4iU6tVXlEjkpiDZC5UE"
     },
     {
       "album": {

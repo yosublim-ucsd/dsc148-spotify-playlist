@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-262 songs - 15 hr 53 min
+263 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Sitakokaciluka](https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/1535QxiyC32YhsagUl8Wkm) | 3:57 | 2023-09-11 | 2024-07-02 |
 | [Star](https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Star](https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ) | 2:38 | 2023-03-23 | 2023-05-23 |
 | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/track/6gPhUV80DvchiVxUZmgUi7) | [VuSe](https://open.spotify.com/artist/71I1aowbFdmoD5ydQ4TObT) | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/album/5w3AoIm6vGGMYPqaVzq2CY) | 1:29 | 2024-03-26 | 2024-04-19 |
+| [Swapnam](https://open.spotify.com/track/473hTuGXsaU59XzBTJB1eA) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Swapnam](https://open.spotify.com/album/0gh8MM140CnK7VwM1u5Q5K) | 3:36 | 2024-07-12 |  |
 | [Sweet Nothings](https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [First Things First](https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb) | 3:50 | 2022-11-02 | 2023-09-22 |
 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 | 2023-03-20 | 2023-07-04 |
 | [Tamil Pilla](https://open.spotify.com/track/5fi1gKgLd5mmg3wW3KVxGm) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad) | [Tamil Pilla](https://open.spotify.com/album/6EShTPXWuDThVXC88fTT7p) | 3:03 | 2023-06-20 | 2023-11-21 |

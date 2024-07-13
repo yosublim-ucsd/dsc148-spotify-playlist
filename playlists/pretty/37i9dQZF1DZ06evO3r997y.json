@@ -1,12 +1,12 @@
 {
-  "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
+  "description": "This is Akari Kito. The essential tracks, all in one playlist.",
   "num_followers": 2202,
-  "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "original_name": "This Is Akari Kito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAAANKMV6uGsAx2JGCiUdfsyL",
+  "snapshot_id": "Zo8ggAAAAAAfF+1Z4JK05N8x7xV/6JZj",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Doze Days",
-        "url": "https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ"
+        "name": "Desire Again",
+        "url": "https://open.spotify.com/album/3V5PD4Kz8oFjW9WLmd15Vr"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Fleeting Time",
-      "url": "https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB"
+      "duration_ms": 198493,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire Again",
-        "url": "https://open.spotify.com/album/3V5PD4Kz8oFjW9WLmd15Vr"
+        "name": "Dear Doze Days",
+        "url": "https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 198493,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ"
+      "duration_ms": 236933,
+      "name": "Fleeting Time",
+      "url": "https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB"
     },
     {
       "added_at": null,
@@ -537,6 +537,6 @@
       "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
     }
   ],
-  "unique_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "unique_name": "This Is Akari Kito",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"
 }

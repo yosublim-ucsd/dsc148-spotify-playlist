@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2xMLl29bSVkNwrP8ShrVMn"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        },
+        {
+          "name": "morningtime",
+          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185915,
+      "name": "Alpenglow",
+      "url": "https://open.spotify.com/track/77CHlEMNfFsgtqa00mVWWl"
+    },
+    {
+      "album": {
         "name": "Always By My Side",
         "url": "https://open.spotify.com/album/5Ncm5rj57b0RBlmT1PsUF9"
       },
@@ -888,7 +910,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 149229,
       "name": "Bedtime Stories",
       "url": "https://open.spotify.com/track/58tz6Yhb4Fls6Fanm7k7yR"
@@ -3261,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5eQTh2DTMOIeEmeB24W3y2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/28vceAWtFdaciUoglO567B"
+    },
+    {
+      "album": {
         "name": "duplicated",
         "url": "https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA"
       },
@@ -3514,7 +3554,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 143955,
       "name": "Empyreal",
       "url": "https://open.spotify.com/track/1pvSMxjRqHzDDwSdjOwLbX"
@@ -4670,7 +4710,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 154800,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/3HFGiK5ebI7HgPehxyoc2a"
@@ -7326,6 +7366,24 @@
       "duration_ms": 146000,
       "name": "Mercury Travellers",
       "url": "https://open.spotify.com/track/6ROdlwqYDQOtb0gOUVAwZz"
+    },
+    {
+      "album": {
+        "name": "Midnight Groove",
+        "url": "https://open.spotify.com/album/4cS4FNN1tFk9sT8avKlsSD"
+      },
+      "artists": [
+        {
+          "name": "Nova Night",
+          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Midnight Groove",
+      "url": "https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB"
     },
     {
       "album": {
@@ -10281,6 +10339,24 @@
     },
     {
       "album": {
+        "name": "seek somebody",
+        "url": "https://open.spotify.com/album/4cj8n9qE2S3ccWglfiNzMT"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164487,
+      "name": "seek somebody",
+      "url": "https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi"
+    },
+    {
+      "album": {
         "name": "Sense Of Self",
         "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
       },
@@ -10578,7 +10654,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 164571,
       "name": "sky high",
       "url": "https://open.spotify.com/track/4PHUBxrCkQkCHiG95e3zIS"
@@ -13516,6 +13592,24 @@
       "duration_ms": 246275,
       "name": "Wrapped in Comfort",
       "url": "https://open.spotify.com/track/1Ws41W4NPXCHHR0JVbyakj"
+    },
+    {
+      "album": {
+        "name": "Wunderkind",
+        "url": "https://open.spotify.com/album/3ngXpICokhkA4wmJXAdqZ7"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153962,
+      "name": "Wunderkind",
+      "url": "https://open.spotify.com/track/2JiKSNdbGmiRSeHgglHkTq"
     },
     {
       "album": {

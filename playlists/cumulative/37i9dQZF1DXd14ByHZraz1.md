@@ -2,7 +2,7 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Jess Glyne
+> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Bruno Martini, Laau
 
 197 songs - 10 hr 13 min
 

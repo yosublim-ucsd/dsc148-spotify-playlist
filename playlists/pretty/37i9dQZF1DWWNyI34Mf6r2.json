@@ -727,18 +727,22 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Begin to Hope",
-        "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
+        "name": "Ella and Louis",
+        "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
       "artists": [
         {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Fidelity",
-      "url": "https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K"
+      "duration_ms": 279733,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -759,22 +763,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Ella and Louis",
-        "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
+        "name": "Begin to Hope",
+        "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
         }
       ],
-      "duration_ms": 279733,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm"
+      "duration_ms": 226680,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K"
     },
     {
       "added_at": "2023-07-10 17:37:38",

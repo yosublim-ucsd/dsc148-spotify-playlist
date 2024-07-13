@@ -1,13 +1,61 @@
 {
-  "description": "Get to know our 2024 Artists to Watch! Cover: SNOW WIFE",
-  "num_followers": 4994,
+  "description": "Get to know our 2024 Artists to Watch! Cover: BabyDrill",
+  "num_followers": 5002,
   "original_name": "Artists To Watch 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAAAk5EcYOmvmjPV90j/1Danw",
+  "snapshot_id": "ZpCqQAAAAADFsKslKRDsUXGY8Dkyn8+S",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/0I2u7dApvBz7ErmDx3qJDr"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 178310,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 142307,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Boyfeel",
+        "url": "https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 149483,
+      "name": "Boyfeel",
+      "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -41,22 +89,6 @@
       "url": "https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Boyfeel",
-        "url": "https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 149483,
-      "name": "Boyfeel",
-      "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "After 7",
@@ -71,6 +103,22 @@
       "duration_ms": 155000,
       "name": "WOULD YOU?",
       "url": "https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "pink whitney",
+        "url": "https://open.spotify.com/album/7yBRQha30RNQeo3JZ3w6VF"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 122087,
+      "name": "pink whitney",
+      "url": "https://open.spotify.com/track/3KQBFQVb1ahszb7Cu7H83T"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -519,26 +567,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "ScoreGod",
-        "url": "https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9"
-      },
-      "artists": [
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 139802,
-      "name": "ScoreGod (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/3jvUUI68ZxFYosDbQLuSBL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1ueSCQNbsw3cZ0sV97Qrka"
       },
@@ -551,22 +579,6 @@
       "duration_ms": 183407,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/3h65hnA2SkIeOK3aVyUIe7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Love Me Not",
-        "url": "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140355,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL"
     },
     {
       "added_at": "2024-01-10 14:00:00",
@@ -615,22 +627,6 @@
       "duration_ms": 206012,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
-    },
-    {
-      "added_at": "2024-01-10 14:00:00",
-      "album": {
-        "name": "soak city (do it)",
-        "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 114135,
-      "name": "soak city (do it)",
-      "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
       "added_at": "2024-03-01 05:00:00",

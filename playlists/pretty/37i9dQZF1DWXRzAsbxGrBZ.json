@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 59383,
+  "num_followers": 59522,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "TARU",
-        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Simeon",
-          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
-        }
-      ],
-      "duration_ms": 399661,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Next Generation",
         "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
@@ -759,26 +739,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Falling outta love often",
-        "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
-      },
-      "artists": [
-        {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 261428,
-      "name": "Falling outta love often - Radio Edit",
-      "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU"
       },
@@ -803,6 +763,46 @@
       "duration_ms": 289154,
       "name": "For You - Radio Edit",
       "url": "https://open.spotify.com/track/4GXU7T8VbLPMPB1vSmDqfV"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "TARU",
+        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
+        }
+      ],
+      "duration_ms": 399661,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Falling outta love often",
+        "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 261428,
+      "name": "Falling outta love often - Radio Edit",
+      "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
     },
     {
       "added_at": "2024-07-11 23:00:00",

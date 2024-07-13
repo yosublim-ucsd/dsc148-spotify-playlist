@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-432 songs - 1 day 0 hr 27 min
+433 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 | 2020-09-13\* | 2021-03-06 |
 | [No Sense](https://open.spotify.com/track/1WWAozjG8X7wI4MLX6tTCB) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [No Sense](https://open.spotify.com/album/24Q03D5yT2JBRDI0sSfRQZ) | 2:33 | 2024-03-15 |  |
 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 | 2023-04-21 |  |
+| [No Way Out](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP) | [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [No Way Out](https://open.spotify.com/album/4i2HcYimANVCm3xSSafl39) | 2:27 | 2024-07-12 |  |
 | [Nobody Knows](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Nobody Knows](https://open.spotify.com/album/59NaZf5szsgzHSG6tYLOAp) | 4:21 | 2024-03-22 |  |
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-04-29 |
 | [Nothing Compares](https://open.spotify.com/track/5uK5imfy8JK9LNRLax5hwT) | [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g), [Thomas Sykes](https://open.spotify.com/artist/5YMczOrhIIwKHbOVV6VpNf) | [Nothing Compares](https://open.spotify.com/album/2nVYXhKU2ivwctV3TULWLC) | 2:40 | 2021-12-10 |  |
@@ -278,7 +279,7 @@
 | [Off My Mind](https://open.spotify.com/track/5vYHf0DY2jhfl8MFiNuVXv) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Off My Mind](https://open.spotify.com/album/2EH3bMjoWwEh3OtYoaIxsr) | 3:01 | 2024-02-23 |  |
 | [Oh Love](https://open.spotify.com/track/22Chkkf5Ki3SrU38HQpwbU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Nobody Cares](https://open.spotify.com/artist/2hdGv0wq4FVf5hmgie74oy) | [Oh Love](https://open.spotify.com/album/4pSYkhyW9nBxQt6yyo2jSZ) | 2:43 | 2021-01-23 | 2021-03-06 |
 | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/track/3053QmnOijQFGshvpAikky) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/album/4gbp4gRykVbPsJm61qu6Tn) | 3:00 | 2021-05-11 | 2021-06-19 |
-| [Only For A Moment](https://open.spotify.com/track/0PpRPtxo4NFFQCrsnLdDni) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Only For A Moment](https://open.spotify.com/album/5iJ6aK5fHpQfyG7MqYIZRp) | 3:45 | 2024-02-23 |  |
+| [Only For A Moment](https://open.spotify.com/track/0PpRPtxo4NFFQCrsnLdDni) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Only For A Moment](https://open.spotify.com/album/5iJ6aK5fHpQfyG7MqYIZRp) | 3:45 | 2024-02-23 | 2024-07-13 |
 | [Only One](https://open.spotify.com/track/6ipiRXjKsTcqLAigNmnbmv) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Only One](https://open.spotify.com/album/7CGYzuw78v8gVvaMyVedPd) | 3:11 | 2021-05-08 | 2021-08-21 |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2024-02-23 |  |
 | [Our Love](https://open.spotify.com/track/7wRzG4NhH6Vb6HvGkjM07I) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Our Love](https://open.spotify.com/album/19x0llDICOhN8uxi7kOHLF) | 3:29 | 2020-12-05 | 2023-12-14 |

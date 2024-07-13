@@ -4,7 +4,7 @@
 
 > Oficjalna playlista Great September Festival\. Posłuchaj wyjątkowych artystów, którzy wystąpią na festiwalu.
 
-141 songs - 8 hr 10 min
+143 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [planety](https://open.spotify.com/track/6lsLvG5cbPaZVc0w9YcpBr) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [planety](https://open.spotify.com/album/1vx7PMpZrqMhAS3tKEqaSk) | 3:55 | 2024-06-19 |  |
 | [Plastik](https://open.spotify.com/track/360dVLsPRAXnAqK87f8kAH) | [Promyki](https://open.spotify.com/artist/4y2gAgEWSOw7AG93lm9dGq) | [Plastik](https://open.spotify.com/album/2tJ7EEHBM9M9kIu7GtXV6S) | 1:48 | 2024-06-19 |  |
 | [Plaza](https://open.spotify.com/track/6Fe6s0tCQuZ8zTXYSGInQq) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik) | [Plaza](https://open.spotify.com/album/2H95RQFyXscntnuWt75EMD) | 3:08 | 2024-06-19 |  |
+| [Poproszę więcej siebie](https://open.spotify.com/track/53LjYUbwHKVBxyqsMYVLTG) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Poproszę więcej siebie](https://open.spotify.com/album/5n2dZDqOQYSuLcbhuRevhF) | 3:09 | 2024-07-12 |  |
 | [Practice Is My Passion](https://open.spotify.com/track/1rxHL5Ji2MEcWAYp5IsKXH) | [Oxford Drama](https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr) | [The World Is Louder](https://open.spotify.com/album/145aYBOL9nkQ3aVoyAQ5aM) | 4:22 | 2024-06-19 |  |
 | [Pressure Love](https://open.spotify.com/track/6A8kyzSMSsVulz9P2HdGPf) | [Safario](https://open.spotify.com/artist/38Ge46KyPYGGh1Bv6KULSD), [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Pressure Love](https://open.spotify.com/album/6TzdVnJ0nbqS2citnEtEgF) | 3:28 | 2024-06-19 |  |
 | [primabalerina](https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [Sanatorium](https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA) | 2:16 | 2024-06-19 |  |
@@ -118,6 +119,7 @@
 | [SO CAUGHT](https://open.spotify.com/track/4Eg3WwxoDutabyOTE7byM1) | [Dafeat](https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [MIXTAPE](https://open.spotify.com/album/4GgeAIhLYSG9mq4iKF5z0p) | 3:28 | 2024-06-19 |  |
 | [Strange Love](https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [In Search of a Better Tomorrow](https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS) | 5:44 | 2024-06-19 |  |
 | [Szalikowcy miłości \(bliżej bonga\)](https://open.spotify.com/track/5jjf4nRgA9eWKy5fYJ0lQn) | [Hurt](https://open.spotify.com/artist/3YKDQwFsJl1Y9oBDWeO8jh) | [Festiwal bodźców](https://open.spotify.com/album/1UURRbCOADzBrs2xOwaojM) | 3:19 | 2024-06-19 |  |
+| [Ten Kij](https://open.spotify.com/track/1xQu73IDqru1XUVzbcllol) | [Pan Savyan](https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT) | [Ten Kij](https://open.spotify.com/album/6x1C7BIpMB1eeX1Vwvmt8L) | 2:37 | 2024-07-12 |  |
 | [The Animal Thing](https://open.spotify.com/track/1Ruc4b5DYgDLBJZACUXFOV) | [PYCORKA](https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE), [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [The Animal Thing](https://open.spotify.com/album/2fIFfJABVVqbqQz3s8ZRPM) | 3:02 | 2024-07-05 |  |
 | [The Leader](https://open.spotify.com/track/5ZtNyzzcqfuCJMfkUQbYL1) | [Oxford Drama](https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr) | [The Leader](https://open.spotify.com/album/0dwDmq0hpZcSp6jzfTD4Eb) | 4:02 | 2024-06-19 |  |
 | [THEY DON'T KNOW HOW MUCH I CARE](https://open.spotify.com/track/5utBwRlYpbVlcuw5tlX5E3) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [THEY DON'T KNOW HOW MUCH I CARE](https://open.spotify.com/album/3r7eNEls5AGtR92AwYuu2M) | 2:54 | 2024-06-19 |  |

@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-258 songs - 14 hr 15 min
+259 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Fly Away \- RIP King T](https://open.spotify.com/track/5l4rlMRDBwWBchh6phCXte) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(RIP King T\)](https://open.spotify.com/album/5L0hCFPh4J7M77QYu2OltJ) | 2:53 | 2022-01-28 | 2022-07-16 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-07-15 | 2023-04-15 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG) | 3:24 | 2022-01-28 | 2022-07-29 |
+| [Fortnight \(feat\. Post Malone\) \- Acoustic Version](https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Fortnight \(Acoustic Version\)](https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX) | 3:48 | 2024-07-12 |  |
 | [fuck, i’m lonely \- stripped](https://open.spotify.com/track/35JIFWky1D0rMRs3gUsQyg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/0QK2iz42DII4IWWQOzNg3l) | 3:07 | 2022-01-28 | 2022-02-26 |
 | [Funny \- Stripped](https://open.spotify.com/track/3Y7OKgEqnFTAH61TSHBpyo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Funny \(Stripped\)](https://open.spotify.com/album/7yIoOSWZ0XQ0dQmjQE6LwB) | 3:39 | 2022-01-28 | 2022-07-16 |
 | [Giants \- Guitar](https://open.spotify.com/track/73bMIXlioc1cKjgMdEiKps) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Giants \(Guitar\)](https://open.spotify.com/album/0MSjhom26Fks1kedwf6ZaW) | 2:56 | 2022-01-28 | 2022-10-09 |
@@ -265,6 +266,6 @@
 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 | 2023-06-09 | 2023-10-28 |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 |  |
 | [You should be sad \- Acoustic](https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:18 | 2022-01-28 |  |
-| [Zuma Beach](https://open.spotify.com/track/5APKmJ6uRNPyq8CvclpgDP) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Zuma Beach](https://open.spotify.com/album/712mCVzBMjXOoIl45cmj1N) | 3:54 | 2023-09-08 |  |
+| [Zuma Beach](https://open.spotify.com/track/5APKmJ6uRNPyq8CvclpgDP) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Zuma Beach](https://open.spotify.com/album/712mCVzBMjXOoIl45cmj1N) | 3:54 | 2023-09-08 | 2024-07-13 |
 
 \*This playlist was first scraped on 2022-02-05. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Omar Apollo",
-  "num_followers": 1332014,
+  "num_followers": 1331995,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAAC9a5pddlDR1NSke9OxXmND",
+  "snapshot_id": "ZpCqQAAAAACJhJgl7Z1Hy9y5XJ3DF97A",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/1qhzuAx20QoG9IIcl2X4Me"
+      },
+      "artists": [
+        {
+          "name": "Lillian Hepler",
+          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "The Secret of Us",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Flower of the soul",
@@ -79,6 +111,22 @@
       "duration_ms": 322223,
       "name": "Butterflies (feat. Tim Bernardes)",
       "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Tears For Fun",
+      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -111,6 +159,22 @@
       "duration_ms": 213979,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/534LueCImkuvFriDEIxUiS"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 181602,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -169,6 +233,22 @@
       "url": "https://open.spotify.com/track/13NS1isrYiasCdCt775RL3"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "i hope i never fall in love",
+        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "love & limerence",
@@ -183,6 +263,22 @@
       "duration_ms": 263739,
       "name": "here, alone, again",
       "url": "https://open.spotify.com/track/36yrRl61EcLYpTgiy2MB8V"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "something bout april",
+        "url": "https://open.spotify.com/album/7rvEikbxxiQLByajEQcKB8"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "something bout april",
+      "url": "https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -231,6 +327,38 @@
       "duration_ms": 163014,
       "name": "Found You First",
       "url": "https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "lover boy",
+        "url": "https://open.spotify.com/album/2KvPFsQl591kXKkhhEtnMe"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "one before the one",
+      "url": "https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1069,22 +1197,6 @@
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Boy From Home",
-        "url": "https://open.spotify.com/album/29V5xzxhyhTCqRikGT7JZ2"
-      },
-      "artists": [
-        {
-          "name": "Brynn Cartelli",
-          "url": "https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek"
-        }
-      ],
-      "duration_ms": 230576,
-      "name": "Boy From Home",
-      "url": "https://open.spotify.com/track/3Tbe6ohCLkQwuQEWQSyLBl"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Suddenly Okay",
@@ -1099,22 +1211,6 @@
       "duration_ms": 156008,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1227,22 +1323,6 @@
       "duration_ms": 181959,
       "name": "Carolina blue",
       "url": "https://open.spotify.com/track/0iRBoKux3rGtdtQ3cQy9US"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Hey mom, don\u2019t worry I\u2019m fine",
-        "url": "https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Lilly",
-      "url": "https://open.spotify.com/track/7AmQQNY6A0v1uWxx46hcD3"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1453,22 +1533,6 @@
       "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
-        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 214438,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
-    },
-    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "Collapse List",
@@ -1483,58 +1547,6 @@
       "duration_ms": 235133,
       "name": "Co-Pathetic",
       "url": "https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        },
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 244750,
-      "name": "Those Eyes (feat. Zeph)",
-      "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Trustfall",
-        "url": "https://open.spotify.com/album/2whIOqiGvtYyy2SA67pElo"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 182110,
-      "name": "Trustfall",
-      "url": "https://open.spotify.com/track/1xeDnOaPmfVZsMYSsDLyhF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Save My Soul",
-      "url": "https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj"
     },
     {
       "added_at": "2024-04-22 19:24:52",
@@ -1603,22 +1615,6 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 303933,
-      "name": "Take A Chance With Me",
-      "url": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
     },
     {
       "added_at": "2024-03-22 04:00:00",

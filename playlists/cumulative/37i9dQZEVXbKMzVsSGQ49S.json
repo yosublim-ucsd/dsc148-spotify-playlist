@@ -5492,7 +5492,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 206707,
       "name": "Can You Trust Me",
       "url": "https://open.spotify.com/track/2q6F9uAITbbFHxWJNv6kcy"
@@ -16106,7 +16106,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 157611,
       "name": "Hvert ertu a\u00f0 fara?",
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
@@ -16710,10 +16710,28 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
     },
     {
       "album": {
@@ -23800,7 +23818,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 212480,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/0OP8vwExIbQNNwB2bU7gH1"
@@ -32462,6 +32480,28 @@
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/2L9flqwYJrt0GjGMnaCkAb"
+      },
+      "artists": [
+        {
+          "name": "Adil C",
+          "url": "https://open.spotify.com/artist/7x3MbA2lRnl8xXFc9A9uUq"
+        },
+        {
+          "name": "Sage Sam",
+          "url": "https://open.spotify.com/artist/1DfajICHw7TuLzZIpdxsi8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152777,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/1Cb1O5uhVVlPbrcd1owreG"
     },
     {
       "album": {

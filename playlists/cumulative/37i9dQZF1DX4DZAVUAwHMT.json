@@ -10199,6 +10199,24 @@
     },
     {
       "album": {
+        "name": "The Future Is A Foreign Land",
+        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225224,
+      "name": "The Future Is A Foreign Land",
+      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+    },
+    {
+      "album": {
         "name": "The General",
         "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
       },

@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-85 songs - 3 hr 43 min
+86 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [So Hum](https://open.spotify.com/track/4LPXddfvILqIyfqIntPK9k) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [So Hum](https://open.spotify.com/album/1n7FuonhS869rKleqYJZ7m) | 4:07 | 2023-03-10 | 2023-12-01 |
 | [Solfeggio Drone 741 Hz](https://open.spotify.com/track/3hjqDCbPg9R3W8XqXr0tpP) | [Xin Amos](https://open.spotify.com/artist/5n1MhPv1DwAakjDKblFvZU) | [Solfeggio Drones](https://open.spotify.com/album/0oZC0sfdqhd4fdthAAKD4x) | 2:50 | 2023-08-07 |  |
 | [Solfeggio Frequencies 741 Hz](https://open.spotify.com/track/6dqI2f7OmRg9WwceXAj7vR) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [741 Hz Full Body Detox](https://open.spotify.com/album/4SMlPCLiGgBN18AGs2jYaa) | 2:11 | 2023-03-10 |  |
+| [Solfeggio Starscape 741 Hz](https://open.spotify.com/track/4WQKrRECuLQwCc9fTrIioX) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Solfeggio Starscapes](https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM) | 2:35 | 2024-07-13 |  |
 | [The Journey \(741Hz\)](https://open.spotify.com/track/3I1SgolxvEIX4NYQazTxB4) | [Tree Talker](https://open.spotify.com/artist/5BWcNI4vQrnhrBht2b1tU0) | [The Journey \(741Hz\)](https://open.spotify.com/album/6u33HITV2QQwtvQAEzubWT) | 2:35 | 2023-11-30 |  |
 | [Throat Chakra Activation \(741 Hz\)](https://open.spotify.com/track/28W7aTw5YlT1Xa1bmAJfgR) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [The Throat Chakra: Vishuddha](https://open.spotify.com/album/3vm2MExrxtgSimqimrzGQd) | 1:03 | 2023-03-10 | 2024-03-14 |
 | [Throat Solfeggio 741 Hz](https://open.spotify.com/track/3srb1tARH6ehOeLKrdKxTr) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:55 | 2023-11-30 |  |

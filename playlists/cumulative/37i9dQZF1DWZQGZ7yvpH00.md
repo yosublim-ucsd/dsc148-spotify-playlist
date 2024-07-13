@@ -4,7 +4,7 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ismael CM, Adrian L Santos, Calle 24 en portada.
 
-335 songs - 18 hr 42 min
+337 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Así Me Enamoré](https://open.spotify.com/track/4MLCePPmMHFALJ6w43inZ9) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [Así Me Enamoré](https://open.spotify.com/album/4lEyFHKyu1WlUC74bRqeFC) | 3:52 | 2024-02-16 | 2024-03-30 |
 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 | 2024-01-26 | 2024-03-02 |
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-03-15 |  |
-| [BACCARAT](https://open.spotify.com/track/1hCvC3gQ4cbovnJGGyFkGq) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [BACCARAT](https://open.spotify.com/album/53zFNi3wpzWtdqGHyMY9la) | 4:02 | 2024-05-31 |  |
+| [BACCARAT](https://open.spotify.com/track/1hCvC3gQ4cbovnJGGyFkGq) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [BACCARAT](https://open.spotify.com/album/53zFNi3wpzWtdqGHyMY9la) | 4:02 | 2024-05-31 | 2024-07-13 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-08 |  |
 | [Blanca Navidad](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 | 2022-11-16 | 2023-01-06 |
 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 | 2023-02-17 | 2023-06-03 |
@@ -117,6 +117,7 @@
 | [Hoy Toco La Luna](https://open.spotify.com/track/1AIp8XDmpIbtCuCMnSZt1v) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Hoy Toco La Luna](https://open.spotify.com/album/0T9bLYnoIJn0ffqbyhl83P) | 3:47 | 2023-06-16 | 2023-07-15 |
 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 | 2022-01-28 | 2022-06-25 |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-07 | 2023-01-14 |
+| [Intercambio Injusto](https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Intercambio Injusto](https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y) | 3:25 | 2024-07-12 |  |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-06-03 | 2023-01-14 |
 | [Jueves 10](https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 4:47 | 2022-01-05 | 2024-01-20 |
 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-06-10 | 2023-06-24 |
@@ -227,7 +228,7 @@
 | [Pretender](https://open.spotify.com/track/2a8q3CS5vCPezW8xFUGuo3) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pretender](https://open.spotify.com/album/0JOlC6XynWzVpVVQ2h0gho) | 3:33 | 2024-01-19 | 2024-03-09 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-16 | 2023-07-01 |
 | [Psicodelica](https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 4:13 | 2021-11-22 |  |
-| [QPTP](https://open.spotify.com/track/4QwuMUb4t18E83ZbDAEdQV) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [QPTP](https://open.spotify.com/album/18dwo21fkS7TglV0L9lF6r) | 2:29 | 2024-05-31 |  |
+| [QPTP](https://open.spotify.com/track/4QwuMUb4t18E83ZbDAEdQV) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [QPTP](https://open.spotify.com/album/18dwo21fkS7TglV0L9lF6r) | 2:29 | 2024-05-31 | 2024-07-13 |
 | [Que Fue Lo Que Paso](https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:47 | 2022-04-05 | 2023-01-14 |
 | [Que Ha Pasado](https://open.spotify.com/track/3733tuu2eHD8WxG3jHzJxI) | [Drupys](https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre) | [Que Ha Pasado](https://open.spotify.com/album/50IMgyC7NKx4BP659RDGkX) | 3:14 | 2023-05-26 | 2023-07-01 |
 | [Que Linda Se Le Ve](https://open.spotify.com/track/2OqxU44QdNmVanpNxqHBbe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Que Linda Se Le Ve](https://open.spotify.com/album/7Jjms4SHlgcXgiK9aZKO2O) | 3:12 | 2023-09-22 | 2023-10-14 |
@@ -244,6 +245,7 @@
 | [Ropa de Bazar](https://open.spotify.com/track/3537Ai6IAzCsNh6gXmqi1a) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14) | [Ropa de Bazar](https://open.spotify.com/album/3MUk2wK0l0Haz4aTqVI5el) | 2:50 | 2024-06-07 |  |
 | [Rosas](https://open.spotify.com/track/3mxudxSkGLflWoHbQ1vFb7) | [Angel Montoya](https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH) | [Rosas](https://open.spotify.com/album/4fUNL9z52KcUKr5vBn3Uw8) | 3:20 | 2024-02-02 | 2024-03-09 |
 | [Rosas](https://open.spotify.com/track/5b7UcPpRAGQ8fc9d8jvq64) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Rosas](https://open.spotify.com/album/0E0NF6LtPOz3ZejtCnAXnp) | 3:26 | 2024-05-17 | 2024-06-22 |
+| [SAD](https://open.spotify.com/track/6jPjh2OOE5N73hu2D3ykDa) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [SAD](https://open.spotify.com/album/4JamwiEhZ7D7fRJ2DFZ74D) | 3:42 | 2024-07-12 |  |
 | [Sad Loqueron](https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:01 | 2024-05-24 |  |
 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 | 2024-04-12 | 2024-05-25 |
 | [Sanaré](https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Sanaré](https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri) | 2:21 | 2024-01-05 | 2024-03-09 |

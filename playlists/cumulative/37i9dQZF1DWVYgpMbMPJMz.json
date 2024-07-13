@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:5A0SFJQSdSjFHGcndiGT1s\">Planetshakers</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:3YCKuqpv9nCsIhJ2v8SMix\">Elevation Worship</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "All Because of Mercy (Live at The Ryman)",
+        "url": "https://open.spotify.com/album/53VJA2PxhBoNXZ3vKDivtO"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236051,
+      "name": "All Because of Mercy (Live at The Ryman)",
+      "url": "https://open.spotify.com/track/6JMjhP5hH2RxOSKl6GR4DV"
+    },
+    {
+      "album": {
         "name": "Psalms, Hymns, and Spiritual Songs (Live)",
         "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 279395,
       "name": "All In - Live",
       "url": "https://open.spotify.com/track/3Qx5gcbDqSUnUgY2BAr7iJ"
@@ -2339,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Come Unto Jesus",
+        "url": "https://open.spotify.com/album/4L3CRIybUMbLsqivnWPdNg"
+      },
+      "artists": [
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217495,
+      "name": "Come Unto Jesus",
+      "url": "https://open.spotify.com/track/1NCTwLSSviZZdaYPD4sM66"
+    },
+    {
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc"
       },
@@ -3881,6 +3917,28 @@
     },
     {
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jenna Barrientes",
+          "url": "https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347587,
+      "name": "Great Is (feat. Jenna Barrientes)",
+      "url": "https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3"
+    },
+    {
+      "album": {
         "name": "Greater Still",
         "url": "https://open.spotify.com/album/2VxkvyT0wTRjAz4G69X7kV"
       },
@@ -4228,7 +4286,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 249799,
       "name": "Help Us See Christ",
       "url": "https://open.spotify.com/track/02nIEKXN3xOrJr0I2ObiJn"
@@ -5283,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "I Will Exalt You (This Is Holy)",
+        "url": "https://open.spotify.com/album/3O2KAhrBubA8dX3OooOQ3l"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214067,
+      "name": "I Will Exalt You (This Is Holy)",
+      "url": "https://open.spotify.com/track/3c4Rcr55kJQt35PoWSYqOq"
+    },
+    {
+      "album": {
         "name": "I Will Remember",
         "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
@@ -5609,6 +5685,32 @@
     },
     {
       "album": {
+        "name": "In You (Live)",
+        "url": "https://open.spotify.com/album/3EFEtAzV6OKU0Cj6BhJM18"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Jessie-Rose Rayner",
+          "url": "https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU"
+        },
+        {
+          "name": "Brett Shaw",
+          "url": "https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513333,
+      "name": "In You - Live",
+      "url": "https://open.spotify.com/track/69iGnsdcWQUbiuKyjaztY5"
+    },
+    {
+      "album": {
         "name": "Indescribable (Live)",
         "url": "https://open.spotify.com/album/0OsInJMPIo3mzpevs4yWex"
       },
@@ -5756,6 +5858,24 @@
       "duration_ms": 266200,
       "name": "It Is Finished",
       "url": "https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX"
+    },
+    {
+      "album": {
+        "name": "Knowing God (Live)",
+        "url": "https://open.spotify.com/album/6kFQYERknrmQg2N7cnGpKg"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261422,
+      "name": "It Is Finished - Live",
+      "url": "https://open.spotify.com/track/6JLnmZ7kiCDt0mrcsEwnPj"
     },
     {
       "album": {
@@ -6660,7 +6780,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 218155,
       "name": "Let Revival In",
       "url": "https://open.spotify.com/track/6cXwtvNwOX1CxkoiF8iAax"
@@ -6908,7 +7028,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 353015,
       "name": "Long Live The King - Acoustic",
       "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
@@ -7094,7 +7214,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188456,
       "name": "Magnify",
       "url": "https://open.spotify.com/track/1S8R5VFrFKvyepYSksxB0V"
@@ -8222,7 +8342,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 339230,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/1vYteIOnwxr8btfWqQfsVv"
@@ -8428,7 +8548,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 372736,
       "name": "Overflow - Live",
       "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
@@ -8832,6 +8952,24 @@
       "duration_ms": 302048,
       "name": "Precious Love - Live",
       "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
+    },
+    {
+      "album": {
+        "name": "Preference (Live)",
+        "url": "https://open.spotify.com/album/0i9tmWUNDNKQpazOlTy8Tw"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467000,
+      "name": "Preference - Live",
+      "url": "https://open.spotify.com/track/4KZBNnHig4PN0cS5UkI6lq"
     },
     {
       "album": {
@@ -9248,7 +9386,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 521042,
       "name": "Revelation Song - Live",
       "url": "https://open.spotify.com/track/64Vcux99vOGYkJ6u9KY2A4"
@@ -9972,7 +10110,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 291458,
       "name": "Steady Love",
       "url": "https://open.spotify.com/track/1RO3hZt6FlYBLK40UxFwax"
@@ -10124,7 +10262,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 452829,
       "name": "Sure Been Good (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/5doYljP28aXEnQryAPrcka"
@@ -10388,6 +10526,24 @@
       "duration_ms": 326273,
       "name": "Tell the Story (Psalm 8) - Live",
       "url": "https://open.spotify.com/track/5ujsO21VAHuwmoNIdo3tdV"
+    },
+    {
+      "album": {
+        "name": "Testament",
+        "url": "https://open.spotify.com/album/1bAgxtfkRMwZpcSNelcl59"
+      },
+      "artists": [
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295103,
+      "name": "Testament",
+      "url": "https://open.spotify.com/track/64VGyBMqnwD7kbLZf8oJvv"
     },
     {
       "album": {
@@ -11508,7 +11664,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 197567,
       "name": "Time And Time Again",
       "url": "https://open.spotify.com/track/6TGeYkxj1y93ik3pqCX2b0"
@@ -12251,6 +12407,32 @@
     },
     {
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430689,
+      "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
+    },
+    {
+      "album": {
         "name": "Where the War Ends",
         "url": "https://open.spotify.com/album/5GRCn56qnPjg1nKfhHKg1t"
       },
@@ -12354,7 +12536,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 331219,
       "name": "Who Else - Live at Gateway Conference",
       "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
@@ -12683,6 +12865,28 @@
     },
     {
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430747,
+      "name": "Yahweh We \ud83e\udd0d You",
+      "url": "https://open.spotify.com/track/6AJYNru2GfKj46emhLMtuJ"
+    },
+    {
+      "album": {
         "name": "Yahweh Will Manifest (Live From San Juan PR)",
         "url": "https://open.spotify.com/album/5OoSjMQoO2PlmUSzP33gwQ"
       },
@@ -12702,6 +12906,24 @@
       "duration_ms": 513466,
       "name": "Yahweh Will Manifest - Live From San Juan PR",
       "url": "https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz"
+    },
+    {
+      "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/0gBQNaBYQSm8Uok70NTLhJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313815,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z"
     },
     {
       "album": {

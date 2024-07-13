@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Banda Toro. The essential tracks, all in one playlist.",
+  "description": "This Is Banda Toro. Los temas esenciales, todos en una lista.",
   "name": "This Is Banda Toro",
   "tracks": [
     {
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 171466,
       "name": "La Vida Alegre",
       "url": "https://open.spotify.com/track/5zT0IoSZ32APqIAUmTO1kk"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 136386,
       "name": "Tampico Hermoso San Luis Potosi",
       "url": "https://open.spotify.com/track/32yy8yQftpKs6nI0nlmnfp"

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-530 songs - 20 hr 24 min
+532 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,8 @@
 | [colors of a night](https://open.spotify.com/track/1ygF2oxp5bjMQctM7c3kxS) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [colors of a night](https://open.spotify.com/album/0pk3a6XFh1WiuhXwCphASp) | 1:56 | 2021-12-07 | 2024-05-14 |
 | [Come The Money](https://open.spotify.com/track/5yO3E2n5bHBeRir4URHOtG) | [Chuck Morrison](https://open.spotify.com/artist/6m3viXMwlZLZFKL8EQsDnB) | [Come The Money](https://open.spotify.com/album/2BhirANPh4QcvnH0F98mPT) | 2:12 | 2021-12-07 |  |
 | [comfort of home](https://open.spotify.com/track/4IDBRflR08FVQ5PAjxlaRl) | [ilaywho](https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey) | [comfort of home](https://open.spotify.com/album/0fqFQ1ZiwFlikoENr5qNEG) | 1:30 | 2023-08-31 |  |
-| [Conspiracy](https://open.spotify.com/track/66I86wuKX4PxvGqiHFxSvK) | [FRANK](https://open.spotify.com/artist/2q1lPSowgmgiCLtnSRMNMD) | [Conspiracy](https://open.spotify.com/album/7Espl4AUElcBOlIMwwTIhj) | 2:19 | 2023-02-07 |  |
-| [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 | 2022-07-29 |  |
+| [Conspiracy](https://open.spotify.com/track/66I86wuKX4PxvGqiHFxSvK) | [Frank](https://open.spotify.com/artist/5qZcNO746AWwiBxDXBgCDU) | [Conspiracy](https://open.spotify.com/album/7Espl4AUElcBOlIMwwTIhj) | 2:19 | 2023-02-07 |  |
+| [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 | 2022-07-29 | 2024-07-13 |
 | [Corner Garden](https://open.spotify.com/track/628hS5M8ymBdzrSJhu6Gad) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr), [\#13](https://open.spotify.com/artist/0yuehcXdnYlOlitRFFxTle) | [Corner Garden](https://open.spotify.com/album/6i0m3KoFhVSQQwHBEGaLql) | 2:40 | 2024-06-19 |  |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-12-07 |  |
 | [Country House](https://open.spotify.com/track/6s5uGQwee1EJREU4LMjbpt) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Country House](https://open.spotify.com/album/2GHuDcUA8BW1VBC7vYCd0w) | 2:36 | 2023-06-06 |  |
@@ -317,6 +317,7 @@
 | [morning coffe](https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo) | [inbetweenjobs](https://open.spotify.com/artist/0T05MHbAGVD9ZwWfVztzBk) | [morning coffe](https://open.spotify.com/album/6xhWgSZJ06ndOEfezRyMQP) | 2:40 | 2021-12-07 | 2022-06-10 |
 | [Morning Dew](https://open.spotify.com/track/1wgeSj5ZR7NE1h7pHPSGyB) | [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Morning Dew](https://open.spotify.com/album/3vKjGSYqC0mlq477LXrvK4) | 2:02 | 2022-05-13 | 2022-09-17 |
 | [Morning In The Forest](https://open.spotify.com/track/3fX2BwW4wtmvPOsy9nDmEj) | [Stainlexz](https://open.spotify.com/artist/1Qcw8vwRygx31ecdpJZsyT) | [Morning In The Forest](https://open.spotify.com/album/1mdPUcchdD1uXRAjPixTCD) | 2:12 | 2021-12-07 | 2022-11-26 |
+| [Morning Light](https://open.spotify.com/track/620tO1NlLhNzZjDrzxmjPN) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [Morning Light](https://open.spotify.com/album/54fCUklWFJ56errSDowOD2) | 2:37 | 2024-07-12 |  |
 | [Morning Reflection](https://open.spotify.com/track/1OI2Xxby5rIzTMSKQWRWi2) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Ruinous Echoes](https://open.spotify.com/album/2cKLUNhIu7TuAqaAcA2wVB) | 3:12 | 2024-06-28 |  |
 | [Morning Sun](https://open.spotify.com/track/54s96Z1GPxY0YjTkZPDbDq) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Morning Sun](https://open.spotify.com/album/1NV2iVj9ZMGOfIecW7R43n) | 2:20 | 2022-10-14 |  |
 | [Mosaic Forest](https://open.spotify.com/track/70KirfSGTOx9ndISuiEEe9) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Mosaic Forest](https://open.spotify.com/album/6dS6dGaLg7W1DnqrDyy6FJ) | 2:15 | 2023-03-01 |  |
@@ -324,6 +325,7 @@
 | [moss](https://open.spotify.com/track/1NCtkoFxK4bsOOd3OIqDLF) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [moss](https://open.spotify.com/album/1c89nRHJ9Q9NEB0uEKwbxw) | 1:55 | 2022-09-30 | 2022-11-21 |
 | [moss](https://open.spotify.com/track/2AyT3ztpcyVVmY67OxUNAq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [moss](https://open.spotify.com/album/7uqTdJRerYBW0KBbi29mww) | 1:55 | 2022-11-11 | 2022-12-05 |
 | [moss](https://open.spotify.com/track/4diIfT7DDHpTl7888rR4CN) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 1:55 | 2022-11-11 | 2022-11-24 |
+| [Mother Nature](https://open.spotify.com/track/6mIDMdR81sRUeu7nZraIWN) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Mother Nature](https://open.spotify.com/album/3L9VeCXKkuBhtaLBJzzeJO) | 1:42 | 2024-07-12 |  |
 | [Muddy](https://open.spotify.com/track/506Z7ZBQuue7pbeBv3a0OM) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Muddy](https://open.spotify.com/album/6RXOUVWckGhNU2X4D69Xip) | 2:17 | 2023-03-08 |  |
 | [My Love](https://open.spotify.com/track/4wGrZiGaO4WVm6mNfaDjch) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:42 | 2021-12-07 | 2022-05-27 |
 | [My Secret Garden](https://open.spotify.com/track/4d6SWT6p66wZFkIFecDbBi) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [My Secret Garden](https://open.spotify.com/album/5HIkW0PItJ2tfyKxLT79FK) | 1:58 | 2023-06-06 |  |

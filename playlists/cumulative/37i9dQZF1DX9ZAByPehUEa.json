@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 200475,
       "name": "A&S",
       "url": "https://open.spotify.com/track/627wB1SaZ0HHinIiubj3UE"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 244000,
       "name": "AIN'T NOBODY",
       "url": "https://open.spotify.com/track/5WikCHR54A4ZJBkUOwgiMm"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 149760,
       "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
       "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 381172,
       "name": "Dancing Down The Path",
       "url": "https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 221397,
       "name": "Det l\u00e4cker - Sebastian Furrer Edit",
       "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
@@ -3249,6 +3249,28 @@
     },
     {
       "album": {
+        "name": "BBYGIRL EP",
+        "url": "https://open.spotify.com/album/4EnIgXTSRQmLbgBd92heFR"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "HOLD TIGHT",
+      "url": "https://open.spotify.com/track/289tmBFmHQMK6smVI5V1z2"
+    },
+    {
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
       },
@@ -3308,7 +3330,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170000,
       "name": "Hotel Adriano",
       "url": "https://open.spotify.com/track/132ri9OsKKZIbjB9ZzCftA"
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -3898,6 +3920,28 @@
       "duration_ms": 257263,
       "name": "Keep Moving - The Blessed Madonna remix / Edit",
       "url": "https://open.spotify.com/track/7wrW0eAXIEcKF6tgUXYNa7"
+    },
+    {
+      "album": {
+        "name": "Keep On Waiting",
+        "url": "https://open.spotify.com/album/4tKBklazmf4jeAqkDV6iXV"
+      },
+      "artists": [
+        {
+          "name": "HAI-LIFE",
+          "url": "https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2"
+        },
+        {
+          "name": "Soleil",
+          "url": "https://open.spotify.com/artist/0XKTCyBXEVwbZ7yXHhqRpc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Keep On Waiting",
+      "url": "https://open.spotify.com/track/6zRbUtYcdwUYQ9CNShaqov"
     },
     {
       "album": {
@@ -6131,6 +6175,28 @@
     },
     {
       "album": {
+        "name": "Pagaia",
+        "url": "https://open.spotify.com/album/19XagvskmJR5KIVdrNiVew"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Black Legend",
+          "url": "https://open.spotify.com/artist/4qLiTGMBoVE95pmqJPseOU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166190,
+      "name": "Pagaia",
+      "url": "https://open.spotify.com/track/6WQY5UTB3Z4WLBx5TWq0tq"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -7803,6 +7869,28 @@
     },
     {
       "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+    },
+    {
+      "album": {
         "name": "Tension (The Remixes)",
         "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
       },
@@ -7946,7 +8034,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188180,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"

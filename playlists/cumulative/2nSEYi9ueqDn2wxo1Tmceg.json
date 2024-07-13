@@ -4009,6 +4009,28 @@
     },
     {
       "album": {
+        "name": "Harmonics",
+        "url": "https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Findia",
+          "url": "https://open.spotify.com/artist/1238uDqogGK9DyE1zry8Dz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh"
+    },
+    {
+      "album": {
         "name": "O Monolith",
         "url": "https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI"
       },

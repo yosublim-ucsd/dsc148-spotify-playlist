@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: LP Giobbi",
+  "description": "The best indie dance tracks of the moment. Cover: Fcukers",
   "name": "metropolis",
   "tracks": [
     {
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 270000,
       "name": "Angel in the Darkness",
       "url": "https://open.spotify.com/track/5jM21mkpoPIhlU4o8yr0VI"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 186361,
       "name": "Another 9 Days",
       "url": "https://open.spotify.com/track/5ep94VV9J0bZEYMtzjAaRZ"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 229411,
       "name": "be with you",
       "url": "https://open.spotify.com/track/1Vd5j7qyC4XKHsWfurNEXm"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 232827,
       "name": "beggin' u 2",
       "url": "https://open.spotify.com/track/1CBUhnEqPSZqVzZ76mRb1Q"
@@ -3551,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Burn3r",
+        "url": "https://open.spotify.com/album/53nqrLHGvSxdrpb1XcDQY3"
+      },
+      "artists": [
+        {
+          "name": "Vlossom",
+          "url": "https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Burn3r",
+      "url": "https://open.spotify.com/track/4DMOzhaZMNKkJuVQyexbb4"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB"
       },
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204240,
       "name": "Cactus Water",
       "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 253386,
       "name": "caught up",
       "url": "https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP"
@@ -5780,6 +5798,28 @@
       "duration_ms": 192857,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
+    },
+    {
+      "album": {
+        "name": "Harmonics",
+        "url": "https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Findia",
+          "url": "https://open.spotify.com/artist/1238uDqogGK9DyE1zry8Dz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh"
     },
     {
       "album": {
@@ -7982,7 +8022,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 144000,
       "name": "Feelin' Blue",
       "url": "https://open.spotify.com/track/2UnGmYcXHH2utQ0OmLDB3d"
@@ -9210,6 +9250,24 @@
       "duration_ms": 166384,
       "name": "Ginger (Feel Good)",
       "url": "https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi"
+    },
+    {
+      "album": {
+        "name": "give me a reason",
+        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159327,
+      "name": "give me a reason",
+      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
     },
     {
       "album": {
@@ -10541,6 +10599,28 @@
     },
     {
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
       },
@@ -10974,6 +11054,24 @@
       "duration_ms": 167639,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5SfOiw8SfnZhCRRARbMiRa"
+    },
+    {
+      "album": {
+        "name": "Homie Don\u2019t Shake",
+        "url": "https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "Homie Don\u2019t Shake",
+      "url": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0"
     },
     {
       "album": {
@@ -12270,7 +12368,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 241760,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/5lvB1y6l9FF5BiOSDPNM27"
@@ -13989,6 +14087,28 @@
     },
     {
       "album": {
+        "name": "lift off!",
+        "url": "https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214391,
+      "name": "lift off!",
+      "url": "https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/2Xl05sxgAvqCXhQo4A1SQ4"
       },
@@ -14390,6 +14510,24 @@
       "duration_ms": 509538,
       "name": "Locked",
       "url": "https://open.spotify.com/track/1vBxzMZGCneeEemHVMw6Q3"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5avsKDJKSNjssCGsQysTFJ"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3lRX4cmV9miVBF06ZOEtLC"
     },
     {
       "album": {
@@ -15153,6 +15291,28 @@
     },
     {
       "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
+    },
+    {
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
       },
@@ -15722,7 +15882,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 237780,
       "name": "maybe it's u",
       "url": "https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4"
@@ -15876,6 +16036,32 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/74EV5CXWAnrCBOyCXj0ZoG"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3QYtytvuqpK7Ehl29vadbA"
     },
     {
       "album": {
@@ -16732,7 +16918,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 248054,
       "name": "Napkin",
       "url": "https://open.spotify.com/track/6PQ7eauPtCs5PTX63rghQQ"
@@ -24696,7 +24882,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
@@ -25351,6 +25537,24 @@
     },
     {
       "album": {
+        "name": "trust issues",
+        "url": "https://open.spotify.com/album/1RsKVs4ymGMbjHiVT83Cmr"
+      },
+      "artists": [
+        {
+          "name": "Lubalin",
+          "url": "https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "trust issues",
+      "url": "https://open.spotify.com/track/4MeabdGHhY0AIs0NaWttgQ"
+    },
+    {
+      "album": {
         "name": "Tumbling Dice",
         "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
       },
@@ -25562,6 +25766,24 @@
       "duration_ms": 142250,
       "name": "U Neva",
       "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
+    },
+    {
+      "album": {
+        "name": "U R MINE",
+        "url": "https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191286,
+      "name": "U R MINE",
+      "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Travis
 
-1,345 songs - 3 day 5 hr 19 min
+1,346 songs - 3 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-13 | 2023-04-21 |
 | [2 of us](https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [2 of us](https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI) | 2:46 | 2024-01-11 | 2024-01-19 |
-| [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno) | 3:34 | 2024-06-21 |  |
+| [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno) | 3:34 | 2024-06-21 | 2024-07-13 |
 | [25](https://open.spotify.com/track/1YSJWOAY8r5tWVOvekY9bi) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Sugar House](https://open.spotify.com/album/76Ay3WdOwB9FZJ0mVaWxgx) | 3:44 | 2024-01-18 | 2024-01-26 |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-04 | 2024-01-12 |
 | [30 Somehow](https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s) | 4:41 | 2023-12-07 | 2023-12-15 |
@@ -659,6 +659,7 @@
 | [LANGUAGE](https://open.spotify.com/track/13ynkovTAESCMefYh6MqIb) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [LANGUAGE](https://open.spotify.com/album/1Pu6wKzlEoCEMO2P2p5PeM) | 2:58 | 2023-06-22 | 2023-06-30 |
 | [Last Man In The World](https://open.spotify.com/track/4BO4583RpKU9ILHVvIR5vv) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Last Man In The World](https://open.spotify.com/album/44yyClOXbzPpTBhcUbsarK) | 2:42 | 2023-05-25 | 2023-06-16 |
 | [Last Night On Earth \- Single Version / Remastered 2024](https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Last Night On Earth](https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM) | 4:15 | 2024-05-07 | 2024-05-16 |
+| [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 |  |
 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-27 | 2023-05-05 |
 | [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-02-29 | 2024-03-08 |
 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 | 2024-02-08 |  |

@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Backyard Lover",
+        "url": "https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328348,
+      "name": "Backyard Lover",
+      "url": "https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz"
+    },
+    {
+      "album": {
         "name": "Bad Luck Bad Habit",
         "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
       },

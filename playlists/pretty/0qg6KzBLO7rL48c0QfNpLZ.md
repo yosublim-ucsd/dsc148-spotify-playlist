@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,600 likes - 270 songs - 12 hr 19 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,611 likes - 289 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,5 +278,24 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 268 | [How Hard I Try](https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Dawn EP](https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM) | 3:18 |
 | 269 | [So Sick](https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [So Sick](https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y) | 2:57 |
 | 270 | [Craving](https://open.spotify.com/track/7hMbTPIYxu9q2yFN92Kz29) | [Who](https://open.spotify.com/artist/5kd3KjfO9uFcNDvuGJRXsU) | [Craving](https://open.spotify.com/album/2MlYAECsEqKtHcKAT3fXKX) | 2:29 |
+| 271 | [Find My Way](https://open.spotify.com/track/4cJ8O7vr4PXIsKu32EkV4E) | [Blevo](https://open.spotify.com/artist/5Uu0ppV7jzY7ZR9xVCInHO), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Find My Way](https://open.spotify.com/album/50QDKZAyUDJTUQKrZ0d6Gb) | 2:01 |
+| 272 | [Drifted Away](https://open.spotify.com/track/4FEg06HTTbU1bgzXd0gHvy) | [Jace Winter](https://open.spotify.com/artist/5xdImw7qBLc0z1HfGI8OYW), [Night Sky](https://open.spotify.com/artist/7CxLhJWH8dGeJI4P0egvFy) | [Drifted Away](https://open.spotify.com/album/69l2W9QiQFYS0x2lYrQWrC) | 2:38 |
+| 273 | [Own Island](https://open.spotify.com/track/1y4FH38GIJbtBTzrKkiQR5) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Vic Roz](https://open.spotify.com/artist/71CGmn7JPqjfNVZMOjCDDh), [Miss Sister](https://open.spotify.com/artist/3R7J4LfkDyuKo6a8vPg02t) | [Own Island](https://open.spotify.com/album/5J0RHhxmnr6PJvlcenXLN9) | 2:07 |
+| 274 | [Heathens](https://open.spotify.com/track/2RVwR8YVyDasUY73Z30czb) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Heathens](https://open.spotify.com/album/13LKgwPsZm5lHGBqiHtuT1) | 2:37 |
+| 275 | [All We Ever Do](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [All We Ever Do](https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV) | 3:15 |
+| 276 | [Gun](https://open.spotify.com/track/6lmsqsHbHPmUhNXZASLcs1) | [LEVII](https://open.spotify.com/artist/74gYSnr96ktD8abXLhBhXk), [ODBLU](https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02) | [Gun](https://open.spotify.com/album/0DTQwzh2Mzdkr3k7HQqZPV) | 2:34 |
+| 277 | [Lost In Your Love](https://open.spotify.com/track/6PZRYmqXmtPkV7TAPLVOaW) | [NIIMO](https://open.spotify.com/artist/4gh9sEmLgNymA2kguERsbq), [AVNT:GRD](https://open.spotify.com/artist/4bLWtJy0s6TputHQAeQV6V) | [Lost In Your Love](https://open.spotify.com/album/7354inearIW9cx3IPwFrjc) | 2:40 |
+| 278 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 |
+| 279 | [see it too](https://open.spotify.com/track/4XFrGc9OyYWpsnhjqSgEl2) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [Hope](https://open.spotify.com/album/2Mle4tLWdBtenSNHQKCUrE) | 2:17 |
+| 280 | [Where Did You Go](https://open.spotify.com/track/3kLuuPQIuL7AunuU24y1Qt) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Where Did You Go](https://open.spotify.com/album/6sqwtHyW62AeqXBQvOuKVD) | 2:18 |
+| 281 | [Say Goodbye](https://open.spotify.com/track/7kZwycmA0V5jm1pEKhmcXE) | [Ten Pictures](https://open.spotify.com/artist/56JblCBPFFJbOhsHoPrJ4e) | [Say Goodbye](https://open.spotify.com/album/2vLbevKWQc8oUreTpO3cXB) | 2:32 |
+| 282 | [Tragedy](https://open.spotify.com/track/71hWRaMZm9hFIZQ5eJrsO9) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Tragedy](https://open.spotify.com/album/6qhSibXvlfMh8qLYWIVNtZ) | 2:15 |
+| 283 | [Tonight](https://open.spotify.com/track/4rRDtL1KkUSuN5FEzhYj6X) | [JETISOO](https://open.spotify.com/artist/75KoLvLE1GbnaT4vMgAmXr), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Tonight](https://open.spotify.com/album/3WeTMwm5FSFXW5MBDn1hCn) | 2:26 |
+| 284 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
+| 285 | [Beach Day](https://open.spotify.com/track/4IQ1jrrISjRcYCvfmeMbx1) | [Sarah Berg](https://open.spotify.com/artist/58GK9mZiINEotW5TokOgUs) | [Beach Day](https://open.spotify.com/album/3Hhc0nXRn5LS2TYaGWKVmh) | 2:42 |
+| 286 | [Sonic Serenity](https://open.spotify.com/track/1QSATY0asrdgRYwiAFUKDX) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Sonic Serenity](https://open.spotify.com/album/36XhwINgs83ynnbybPM64Y) | 2:58 |
+| 287 | [Don't Let Go](https://open.spotify.com/track/7gc83M7EZqHIGukEvzziOu) | [blu skies](https://open.spotify.com/artist/2cKo9hDcG09gWlu5gDJRNH), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Don't Let Go](https://open.spotify.com/album/2z6VAEGJf9IpJcxhzo3wDy) | 2:32 |
+| 288 | [Like Summer](https://open.spotify.com/track/14GJrwRsB4fuVPQvHY1m4K) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [CUBY](https://open.spotify.com/artist/6n1wZRMdadogX69VCHg9F0) | [Like Summer](https://open.spotify.com/album/3KQxkDvHuLi5w2uxKucj1R) | 2:58 |
+| 289 | [Body](https://open.spotify.com/track/32ZEpRQ9NSvx5n5cMYxPI6) | [Abysa](https://open.spotify.com/artist/1l6WpyoLhfnRYauESffPd5), [KONNA](https://open.spotify.com/artist/19nDS3WamQdqBoNOBN9344) | [Body](https://open.spotify.com/album/5Po45gHLPXv6As1OI9RBiM) | 2:42 |
 
-Snapshot ID: `AAAXkAui4yz2FpGNevnrZLIiULxfnWeZ`
+Snapshot ID: `AAAXo4kMZzQ64pfUxG775/sEGtxWjLlp`

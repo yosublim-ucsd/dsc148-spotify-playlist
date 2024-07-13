@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 135758,
       "name": "Distant",
       "url": "https://open.spotify.com/track/7I5zI2Ty0O5MXS3yucCzdo"
@@ -740,6 +740,24 @@
       "duration_ms": 104697,
       "name": "HURTZ",
       "url": "https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq"
+    },
+    {
+      "album": {
+        "name": "Happy Vibes",
+        "url": "https://open.spotify.com/album/2c9ewhIfXYZCEPKmGeMvdu"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/2AoDB8SsxTyCYOmGcUBDwQ"
     },
     {
       "album": {
@@ -3528,7 +3546,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 137739,
       "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z"
@@ -4552,7 +4570,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 268906,
       "name": "\u042d\u043d\u0434\u043e\u0440\u0444\u0438\u043d",
       "url": "https://open.spotify.com/track/4GbHNkWtWUIZAL0owhoz1i"

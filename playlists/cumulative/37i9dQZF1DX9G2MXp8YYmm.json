@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Balerin",
+        "url": "https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr"
+      },
+      "artists": [
+        {
+          "name": "Melek Mosso",
+          "url": "https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176330,
+      "name": "Balerin",
+      "url": "https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9"
+    },
+    {
+      "album": {
         "name": "Bana Sorma",
         "url": "https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh"
       },
@@ -490,7 +508,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173949,
       "name": "Daha K\u00f6t\u00fc Ne Olabilir Ki",
       "url": "https://open.spotify.com/track/7ySv3opHwbZNSvehYIVkwN"

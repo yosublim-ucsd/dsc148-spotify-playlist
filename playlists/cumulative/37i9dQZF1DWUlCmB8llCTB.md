@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Nio Garcia & Blessd.
 
-839 songs - 1 day 21 hr 5 min
+840 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [A Distancia](https://open.spotify.com/track/57OXmqVMeKe8AaEt6Y5FG1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mr\. W \(Deluxe\)](https://open.spotify.com/album/0uozDpPbY35wVv78dHMICs) | 3:16 | 2024-06-21 |  |
 | [A PERRIARLA](https://open.spotify.com/track/3apuZaELjRvEXdVVFJM52K) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [A PERRIARLA](https://open.spotify.com/album/5y5WH77HKAE6hxL5zN5ynt) | 4:01 | 2022-03-11 | 2022-06-24 |
 | [A POKA LUZ](https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [A POKA LUZ](https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi) | 2:24 | 2024-04-12 |  |
-| [A Toda Hora](https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU) | [A Toda Hora](https://open.spotify.com/album/003hJuxeqS9V6z807tXdov) | 3:05 | 2024-05-03 |  |
+| [A Toda Hora](https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU) | [A Toda Hora](https://open.spotify.com/album/003hJuxeqS9V6z807tXdov) | 3:05 | 2024-05-03 | 2024-07-13 |
 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 | 2022-03-11 | 2022-05-07 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-04 | 2023-02-25 |
 | [Aborrecio](https://open.spotify.com/track/3KSldp6Yh0XIvN0tyPJWK4) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Aborrecio](https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg) | 4:28 | 2023-02-17 | 2023-07-22 |
@@ -282,6 +282,7 @@
 | [EY CHORY](https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:58 | 2023-10-10 | 2024-03-09 |
 | [FaceTime](https://open.spotify.com/track/4mz5eHbBc0p3lc2Unx1rpD) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [FaceTime](https://open.spotify.com/album/50LxOtVkrgEz0yaU9DyzHf) | 3:05 | 2021-12-24 | 2022-04-16 |
 | [Faldas y Gistros](https://open.spotify.com/track/0qFS3YSjOgoO7qiOekDJtp) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Faldas y Gistros](https://open.spotify.com/album/4I3UDGvDhFHcq9nPFzsOb1) | 2:59 | 2024-01-26 | 2024-04-19 |
+| [Faldita ALO](https://open.spotify.com/track/6PI2ixIOiD6OkAm214UirV) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Faldita ALO](https://open.spotify.com/album/5irHltn3ay8OPqNMgcDm8p) | 2:00 | 2024-07-12 |  |
 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 | 2023-06-02 | 2023-11-11 |
 | [Fanático \(feat\. Feid & De La Ghetto\) \- Remix](https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Fanático \(feat\. Feid & De La Ghetto\) \[Remix\]](https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO) | 5:10 | 2021-12-24 | 2022-05-20 |
 | [Felicidades](https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Felicidades](https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr) | 2:45 | 2023-02-10 | 2023-07-08 |

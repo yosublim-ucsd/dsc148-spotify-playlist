@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Noriel",
+  "description": "The best of Latin Trap. Cover: Hades66 & Ovi",
   "name": "Trap Land",
   "tracks": [
+    {
+      "album": {
+        "name": "+ Picky",
+        "url": "https://open.spotify.com/album/59KqyeA9BMG4rOwHFM8IWS"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "Jonniel Rythmz",
+          "url": "https://open.spotify.com/artist/5wcCS0O8zB98kNPZu61Gab"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156404,
+      "name": "+ Picky",
+      "url": "https://open.spotify.com/track/08zL5yit4qSigkp1JnWwXR"
+    },
     {
       "album": {
         "name": "EL TIBUR\u00d3N",
@@ -189,6 +211,24 @@
     },
     {
       "album": {
+        "name": "166",
+        "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118558,
+      "name": "3 PECADOS DESPUES\u2026",
+      "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
+    },
+    {
+      "album": {
         "name": "3: 03 AM",
         "url": "https://open.spotify.com/album/57Z9sMMSi5coMDQmumROHg"
       },
@@ -357,6 +397,32 @@
     },
     {
       "album": {
+        "name": "9X19 Remix",
+        "url": "https://open.spotify.com/album/7DDWh295HYGWRu318Zt9Oc"
+      },
+      "artists": [
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266808,
+      "name": "9X19 - Remix",
+      "url": "https://open.spotify.com/track/0Q8cAuAymRXibeXAsGQre6"
+    },
+    {
+      "album": {
         "name": "9x19/300BLK (with Pressure 9X19)",
         "url": "https://open.spotify.com/album/427d3CxZHdeioa6SYe8iP7"
       },
@@ -458,7 +524,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165250,
       "name": "ADRENALEAN",
       "url": "https://open.spotify.com/track/4ICrRT8KzB9YfuYrlnh7sl"
@@ -881,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Baby Demon",
+        "url": "https://open.spotify.com/album/0yMErHqzYaX4PyCAz4640l"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311254,
+      "name": "Baby Demon",
+      "url": "https://open.spotify.com/track/1PGXHcJVqYWVMVkMLIDGZV"
+    },
+    {
+      "album": {
         "name": "Baby Father 2.0 (with Myke Towers, Arc\u00e1ngel, \u00d1engo Flow & Yeruza)",
         "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
       },
@@ -1100,7 +1188,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 127826,
       "name": "Balmain",
       "url": "https://open.spotify.com/track/6eLCtyK6VcTrcJy6MiWLzg"
@@ -1996,7 +2084,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 235662,
       "name": "COSA NOSTRA",
       "url": "https://open.spotify.com/track/4dyk4RsP8lpUkM4HTU0x9Q"
@@ -3807,6 +3895,28 @@
     },
     {
       "album": {
+        "name": "Hablame de Dinero",
+        "url": "https://open.spotify.com/album/23CByWK5jUxfmovn5Pemko"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Hablame de Dinero",
+      "url": "https://open.spotify.com/track/6vtApjN1rhSEMM4hoemQIv"
+    },
+    {
+      "album": {
         "name": "Hablando Claro 2",
         "url": "https://open.spotify.com/album/3Sd9yX21R6KImYjHdgQMxb"
       },
@@ -4290,7 +4400,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165773,
       "name": "James Harden",
       "url": "https://open.spotify.com/track/3rdKC8IwlU1Vzux0iC774e"
@@ -6459,6 +6569,28 @@
     },
     {
       "album": {
+        "name": "Pensamos Rapido",
+        "url": "https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0"
+      },
+      "artists": [
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Pensamos Rapido",
+      "url": "https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb"
+    },
+    {
+      "album": {
         "name": "PERCOSEX",
         "url": "https://open.spotify.com/album/0P29ZeH7aAPrrBPkSncYMZ"
       },
@@ -7530,7 +7662,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 239939,
       "name": "Super Gremlin - El Diablo Mix",
       "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
@@ -8076,7 +8208,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 149647,
       "name": "UNDO",
       "url": "https://open.spotify.com/track/2ZmWkW0NexjqymHIHeji8r"

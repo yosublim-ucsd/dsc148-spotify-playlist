@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,922 songs - 4 day 7 hr 30 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,925 songs - 4 day 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1930,5 +1930,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1920 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
 | 1921 | [Return to Zero Возвращайся Beztebya \- Slowed Reverb](https://open.spotify.com/track/5INzvllYMlajboTg4dcTIw) | [Marc Acardipane](https://open.spotify.com/artist/2hyRTXUyfd56j4siLF4zJx), [angel vox](https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw), [Dayerteq](https://open.spotify.com/artist/1fmBphPpwm9K2udLEXPXsd) | [Return to Zero Возвращайся Beztebya](https://open.spotify.com/album/6V23ydJxx6VErSJvN7AIaK) | 2:16 |
 | 1922 | [Hoe Down](https://open.spotify.com/track/4QchMCEGCbrorISE15WzOr) | [NYCSocialite](https://open.spotify.com/artist/6MzNAu6g7xSxh01on0lF4d) | [Hoe Down](https://open.spotify.com/album/3h5nYwvtxMgw9o2OvFxfQA) | 2:24 |
+| 1923 | [My Meds Aren't Working](https://open.spotify.com/track/3iubkenxO8JUJNp7phyVlb) | [Dystopia](https://open.spotify.com/artist/32lwvl98Ck0aCggYSMUlaR) | [Dystopia](https://open.spotify.com/album/6JDxhxRjAntUSWJN9HfRKc) | 4:01 |
+| 1924 | [Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 3:48 |
+| 1925 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 |
 
-Snapshot ID: `AAADJKZMaYP7/W/KC3KEIgFL5K/2PXVg`
+Snapshot ID: `AAADJ7fWVUorCFFKKTcBFbZwkPCJjlmm`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-564 songs - 1 day 4 hr 48 min
+566 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [CONNECTION](https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [CONNECTION](https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6) | 1:48 | 2023-04-04 | 2023-08-10 |
 | [Consume Me](https://open.spotify.com/track/2eBajT1oKY0ugtD1Lc5zaq) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Consume Me](https://open.spotify.com/album/4Z5cARDkDPUcU2i5ona0GH) | 5:12 | 2023-01-13 | 2023-04-28 |
 | [Control](https://open.spotify.com/track/46MUbxLye12SKBN7xHg3CF) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Control](https://open.spotify.com/album/3WEPzTQTjVJSCVv0lKEKq0) | 2:46 | 2023-08-08 | 2024-03-13 |
+| [corrupted](https://open.spotify.com/track/39GHv2K1RKIQfZHFjR1yjY) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [corrupted](https://open.spotify.com/album/3BvcTWoK35dqfpunJgJBHm) | 1:42 | 2024-07-12 |  |
 | [Cozy Thunder](https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:16 | 2023-02-17 | 2023-08-10 |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
 | [Crazy](https://open.spotify.com/track/5nihLVpUd4birzwDlSp1Ph) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Crazy](https://open.spotify.com/album/59yKZOWSuX7wYlH5nZneRY) | 3:08 | 2023-08-08 | 2023-12-14 |
@@ -358,7 +359,7 @@
 | [numbers](https://open.spotify.com/track/4qF8OCdowrImJ8To54Xfzo) | [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [numbers](https://open.spotify.com/album/04MxkL5HrdLkF7SXqtxW2D) | 2:35 | 2023-03-10 | 2023-08-10 |
 | [Nunca](https://open.spotify.com/track/39tVEd3FP8xQix5eOEsnZT) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Maria\-Lea](https://open.spotify.com/artist/3JJ77d8rkL5KfvNNOjp3zg) | [Nunca](https://open.spotify.com/album/5wWjtihZAD8ckCkEhJHgYa) | 2:31 | 2023-12-13 | 2024-04-17 |
 | [Oblivion](https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/3OIFSAU72optxkAdxjyoUF) | 3:50 | 2023-08-08 | 2024-01-13 |
-| [OFFLINE](https://open.spotify.com/track/1OJCShDuK5Nt65EvtzOKER) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/4VNlFLwUEOLU2X0FvIi2NG) | [OFFLINE](https://open.spotify.com/album/35HuahdvG1p9pFHllhSAAX) | 2:39 | 2024-07-11 |  |
+| [OFFLINE](https://open.spotify.com/track/1OJCShDuK5Nt65EvtzOKER) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [OFFLINE](https://open.spotify.com/album/35HuahdvG1p9pFHllhSAAX) | 2:39 | 2024-07-11 |  |
 | [Oh My Gawd](https://open.spotify.com/track/3wBFnFG8GTTdY6VzMyJ1wQ) | [Crushed Candy](https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1) | [Oh My Gawd](https://open.spotify.com/album/3VRnwIygZQl33g9i4C2L5Q) | 2:04 | 2024-02-06 |  |
 | [Old School](https://open.spotify.com/track/2H1M1zD08kZI5GuG4smljN) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Old School](https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5) | 2:44 | 2022-07-08 | 2023-04-28 |
 | [Omen](https://open.spotify.com/track/2bjtlNmO8Rf5Bl4rxNl3GJ) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Omen](https://open.spotify.com/album/1R22jTxrC9kIYip1RbCduE) | 2:57 | 2023-08-08 | 2024-02-17 |
@@ -380,6 +381,7 @@
 | [Over The Sun \(Pt\. 2\)](https://open.spotify.com/track/5am1Z9nOgSjMqpQiFpl9zh) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [Over The Sun](https://open.spotify.com/album/0510k3Jl4VjegKyNqUw3Fq) | 2:41 | 2023-07-14 | 2023-08-10 |
 | [Overcome](https://open.spotify.com/track/0QTMzJWVw3RAEdgsdWbcTI) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Overcome](https://open.spotify.com/album/722r13TFSAi1uVzLeFcB9z) | 2:49 | 2023-04-19 | 2023-08-10 |
 | [Overcome](https://open.spotify.com/track/4hJ9GlqWQKgEU24yUbqDZB) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 2:49 | 2023-06-21 | 2023-08-10 |
+| [Overdose](https://open.spotify.com/track/7pEO3MdT6X2MRUHzeLH2XR) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Overdose](https://open.spotify.com/album/2Vd2ZArU5bvDhmhjYEqJQY) | 2:51 | 2024-07-12 |  |
 | [Overdrive](https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Ellerslie](https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE) | [Overdrive](https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A) | 3:13 | 2023-04-06 | 2023-08-10 |
 | [Paper Walls](https://open.spotify.com/track/55RkSrohK0n8gI4DEwZbRV) | [Elliot Kings](https://open.spotify.com/artist/79ouDRepsDjwqL2ykIpoTm), [Riggs](https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj), [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Paper Walls](https://open.spotify.com/album/5CCgQ6komBkLrELk7xknR9) | 2:46 | 2023-04-11 | 2023-08-10 |
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 | 2023-08-10 |

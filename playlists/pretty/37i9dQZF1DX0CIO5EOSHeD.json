@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Hovvdy",
-  "num_followers": 496654,
+  "num_followers": 496721,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X"
-      },
-      "artists": [
-        {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
-        }
-      ],
-      "duration_ms": 208848,
-      "name": "Choking on Flowers",
-      "url": "https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 163764,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "duration_ms": 208848,
+      "name": "Choking on Flowers",
+      "url": "https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "That's What They Wanted",
-        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
-      },
-      "artists": [
-        {
-          "name": "canless valley",
-          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
-        }
-      ],
-      "duration_ms": 116832,
-      "name": "That's What They Wanted",
-      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "That's What They Wanted",
+        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
+      },
+      "artists": [
+        {
+          "name": "canless valley",
+          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
+        }
+      ],
+      "duration_ms": 116832,
+      "name": "That's What They Wanted",
+      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "California Screaming",
         "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "There's A Big Star Outside",
-        "url": "https://open.spotify.com/album/1yg5mDwQPoM6fj4zrq5vOC"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/3BzGaX0BMT6DJIjHREFfTl"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/6OpjqsrtNRVnviCrXj8XOh"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 211885,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/5nXPrRi96k1FVpBdIxujlN"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "There's A Big Star Outside",
+        "url": "https://open.spotify.com/album/1yg5mDwQPoM6fj4zrq5vOC"
+      },
+      "artists": [
+        {
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/3BzGaX0BMT6DJIjHREFfTl"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Didn't Want to Go",
         "url": "https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 129940,
       "name": "Didn't Want to Go",
       "url": "https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "KPR",
-        "url": "https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox"
+        "name": "Open",
+        "url": "https://open.spotify.com/album/5XOlVDmoXEsVEgIO4vzrMu"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "World Brain",
+          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
         }
       ],
-      "duration_ms": 213002,
-      "name": "KPR",
-      "url": "https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA"
+      "duration_ms": 238573,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/5GrmEP9RYU4XEHCPLdTAP0"
     },
     {
       "added_at": "2024-07-09 21:52:54",

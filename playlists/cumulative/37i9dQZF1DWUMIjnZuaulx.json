@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\">CeCe Winans</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:76dDIM8amCY58U3uvr1Rw1\">Karen Clark Sheard</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 249943,
       "name": "Able - Live",
       "url": "https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 255047,
       "name": "Always (Father I Trust You) - Live",
       "url": "https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 172217,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
@@ -2158,6 +2158,28 @@
       "duration_ms": 534256,
       "name": "Finished - Live",
       "url": "https://open.spotify.com/track/0lnYAAK3oLQvbZl5yM46qk"
+    },
+    {
+      "album": {
+        "name": "Finished Work Reprise (Remix) (Live)",
+        "url": "https://open.spotify.com/album/00xruuxZlDXXbCvtV0jRWv"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127289,
+      "name": "Finished Work Reprise (Remix) (Live)",
+      "url": "https://open.spotify.com/track/6VWK2uxbP9zSV30CrSMoj0"
     },
     {
       "album": {
@@ -6237,6 +6259,36 @@
     },
     {
       "album": {
+        "name": "MEANT FOR ME",
+        "url": "https://open.spotify.com/album/4ri3RsqnstuIwsjdyZhMa0"
+      },
+      "artists": [
+        {
+          "name": "Stanley Brown",
+          "url": "https://open.spotify.com/artist/2SkIiDmOxLJlgSq7oeKH2W"
+        },
+        {
+          "name": "Christopher Williams",
+          "url": "https://open.spotify.com/artist/3nSTpkXILmt81zYj6AsWdM"
+        },
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "MEANT FOR ME",
+      "url": "https://open.spotify.com/track/42LGQOQoLCR81i6SRaTFnk"
+    },
+    {
+      "album": {
         "name": "Mercy (Live)",
         "url": "https://open.spotify.com/album/4nkCtTJ93bjfnlVwLVXMHu"
       },
@@ -6917,6 +6969,24 @@
     },
     {
       "album": {
+        "name": "No words",
+        "url": "https://open.spotify.com/album/4TTZoiV1mFYUWX0PJncDhu"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241107,
+      "name": "No words",
+      "url": "https://open.spotify.com/track/6vORdtborYd1kyGbsjc1OW"
+    },
+    {
+      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -7084,6 +7154,32 @@
       "duration_ms": 273283,
       "name": "Not Moved",
       "url": "https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/73k5ivCtC4hKJeeTKuZM2n"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445533,
+      "name": "Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/0QWtBHKR8yLhA2H55TyB2h"
     },
     {
       "album": {
@@ -7796,7 +7892,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 239616,
       "name": "Release Control (Radio)",
       "url": "https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW"
@@ -8144,7 +8240,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 260842,
       "name": "Send It Down",
       "url": "https://open.spotify.com/track/5tVIywhdtlrN5UOI5kJVFY"
@@ -8374,6 +8470,28 @@
       "duration_ms": 182386,
       "name": "So Good To Me (HALLELUJAH!)",
       "url": "https://open.spotify.com/track/2nbNrq7DcQad5jb1otsM3s"
+    },
+    {
+      "album": {
+        "name": "Heart of a Human",
+        "url": "https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149566,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
     },
     {
       "album": {
@@ -8694,7 +8812,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 297346,
       "name": "Still Holy - Live",
       "url": "https://open.spotify.com/track/3YsEogxeJAkMGHQfsPbpg2"
@@ -10881,6 +10999,24 @@
     },
     {
       "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/0gBQNaBYQSm8Uok70NTLhJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313815,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z"
+    },
+    {
+      "album": {
         "name": "God Be Praised",
         "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
       },
@@ -11062,7 +11198,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 292906,
       "name": "You Won't Ever Let Me Down - Live",
       "url": "https://open.spotify.com/track/36b88T7XpccbUp6Qj78cOC"
@@ -11102,6 +11238,24 @@
       "duration_ms": 288099,
       "name": "You're The Worthy One",
       "url": "https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp"
+    },
+    {
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236095,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV"
     },
     {
       "album": {

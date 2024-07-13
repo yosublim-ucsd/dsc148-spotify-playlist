@@ -4,7 +4,7 @@
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-230 songs - 10 hr 56 min
+238 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,11 +112,13 @@
 | [528 Reiki Sleep \- Ambient Version](https://open.spotify.com/track/2k3S07rtQqG3ITt79oXkrO) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Reiki Sleep](https://open.spotify.com/album/3DGobUtGGPwuAt0c3XGcxR) | 1:55 | 2023-09-19 | 2024-03-14 |
 | [528hz](https://open.spotify.com/track/2KWBvaIHg9AkofDcEiW7d7) | [Antique Bronze](https://open.spotify.com/artist/7ku4TYmlNvkaNzUvXLw6PX) | [528hz](https://open.spotify.com/album/2IJyhwnvxYhpMXbl0wBvco) | 3:46 | 2024-05-11 |  |
 | [528hz Love Frequency](https://open.spotify.com/track/7mxLKVzvBUb0K6W8wKwBcx) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:46 | 2023-09-19 | 2023-12-01 |
+| [528hz Love Therapy](https://open.spotify.com/track/4svZMkbkYzcTgfYTESsBq8) | [Solfeggio Sound Empire](https://open.spotify.com/artist/3hWEsvb8gRPdMMjfTPoA22) | [528hz Love Therapy](https://open.spotify.com/album/7xqCQCsi0FST5TTKnLOebd) | 4:00 | 2024-07-13 |  |
 | [528hz Oscillating Love Frequency](https://open.spotify.com/track/0Uru40KT5hM9RdzHZmP8Mk) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528hz Oscillating Love Frequency](https://open.spotify.com/album/4ujYIEJ7B35yo76kaRIREa) | 2:27 | 2023-02-08 |  |
 | [528Hz Water Harp](https://open.spotify.com/track/4mKWKQtqWnp0CxBTTWYL03) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528Hz Water Harp](https://open.spotify.com/album/3n5LTpN6LM1ZqeSuINKMqZ) | 3:24 | 2023-09-19 | 2024-03-14 |
 | [528Hz Wide Open Fields](https://open.spotify.com/track/1mB7a8P1zcyUtuvZvA59Xj) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [528Hz Wide Open Fields](https://open.spotify.com/album/59FKtOxawCQkQ3D8tzAUmh) | 2:59 | 2024-04-07 |  |
 | [Aetherial Reflections 528Hz](https://open.spotify.com/track/43VCGh2xtIAEzREBVRq5Xp) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Aetherial Reflections 528Hz](https://open.spotify.com/album/6OfDJGH1HK7w4EV3xarV74) | 3:13 | 2024-03-13 |  |
 | [Alchemy of Peace 528 Hz](https://open.spotify.com/track/3a9fMpm7q9I5HmovLUibEI) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Alchemy of Peace 528 Hz](https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9) | 3:10 | 2023-07-11 |  |
+| [Ambience \(528 Hz\)](https://open.spotify.com/track/7ucyAsF1csQytWVQmvgIFC) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Ambience \(528 Hz\)](https://open.spotify.com/album/62VC5kRKye9aTshZcSOPab) | 2:25 | 2024-07-13 |  |
 | [Andromeda \- 528hz](https://open.spotify.com/track/3Jp6ocsetmFMig16nRaLwf) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Andromeda \- 528hz](https://open.spotify.com/album/4RKtqqFCt9Cf0BCu72Jaxz) | 4:07 | 2024-05-11 |  |
 | [Angelic](https://open.spotify.com/track/31Wii4QuGZK0LlDrNZxEuv) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lagoon](https://open.spotify.com/album/0gB1AjEmje8Jmbz969EWjg) | 2:40 | 2023-02-08 |  |
 | [Another Galaxy \- 528hz](https://open.spotify.com/track/6TlZUXHoOGnxDSaiI1blxH) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [Another Galaxy \- 528hz](https://open.spotify.com/album/6MK9bVWeT5dctFCO0ZORga) | 2:45 | 2024-05-11 |  |
@@ -156,6 +158,7 @@
 | [Equipoise](https://open.spotify.com/track/612NwtubGzCA41IJRpYZJh) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Equipoise](https://open.spotify.com/album/3ZbKVAGQCVGvLtjKz71txP) | 3:00 | 2023-02-08 |  |
 | [Eternal Frequencies](https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG) | [Beatrice Laporte](https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr) | [Clarity Frequency](https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq) | 2:32 | 2023-02-21 |  |
 | [Eternal Wonders \- 528Hz](https://open.spotify.com/track/2ycVyVlcCcJG2Fk5yQKqkq) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Eternal Wonders \- 528Hz](https://open.spotify.com/album/4et44nQ9nqh0Ba31SdNBxy) | 3:17 | 2024-04-07 | 2024-05-12 |
+| [Ethereal Euphoria 528Hz](https://open.spotify.com/track/7InggMQnZguCR0wYltM7cW) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ethereal Euphoria 528Hz](https://open.spotify.com/album/5ziXvIcWrDQKJbk2uYHnIe) | 3:16 | 2024-07-13 |  |
 | [Ethereal in 528hz](https://open.spotify.com/track/2PiEsCiricooWn5a3CxuVU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ethereal in 528hz](https://open.spotify.com/album/5pqypFlXKBTOfxIxB1KrP2) | 2:50 | 2023-02-08 | 2023-09-20 |
 | [Evinda 528Hz](https://open.spotify.com/track/4pvGp8H2NqcdX5bFQkQjsL) | [Sienna Salvatore](https://open.spotify.com/artist/70qqsrrsnNczuDUivf3UEx) | [Evinda 528Hz](https://open.spotify.com/album/5GYQLIMs433tbEf77bwYDy) | 2:40 | 2024-04-07 |  |
 | [Expressive Binaural Beat](https://open.spotify.com/track/2HUvs4LPYAb22yYDAdOIpp) | [Plexus](https://open.spotify.com/artist/5dbFQbGTkfAvqr9ECyJRsU) | [Floating Sounds](https://open.spotify.com/album/47odIFYF7fKx0gJ54onduE) | 2:30 | 2023-02-08 |  |
@@ -173,6 +176,7 @@
 | [Heard & Answered 528 Hz](https://open.spotify.com/track/1wwPgERZasd8mbo0aDJ8s0) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Heard & Answered 528 Hz](https://open.spotify.com/album/1CHQLLVq7vFKKxXQMuW35z) | 3:08 | 2023-04-06 |  |
 | [Heavenly Portal 528 Hz](https://open.spotify.com/track/7eRKA2baivor19wewOAQ4n) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Heavenly Portal 528 Hz](https://open.spotify.com/album/6a4np3ukSYj7PrimbdKcTS) | 2:43 | 2023-08-07 |  |
 | [Holism 528 Hz](https://open.spotify.com/track/5JuMLm0kowwyiJQ6ohpa7p) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Holism 528 Hz](https://open.spotify.com/album/7AA5aAPeGCDtfmfdvxSCI7) | 2:30 | 2023-02-08 |  |
+| [horizon haze 528 Hz](https://open.spotify.com/track/1p5kAnlkOIvp7OXVFvOCJD) | [floating echoes](https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe) | [safe spaces](https://open.spotify.com/album/4RBraLdK9yXvO1aAjuEzMS) | 3:45 | 2024-07-13 |  |
 | [I Heal \(Solfeggio 528 Hz\)](https://open.spotify.com/track/4upriszcVpL9MtMW3kOU1d) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Hara Healer](https://open.spotify.com/album/75BRkDL9t4MI94dmCEk5Ow) | 3:01 | 2023-08-07 |  |
 | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/track/4ODuujsx5VRf6W7UfJv4uP) | [Marun Valenti](https://open.spotify.com/artist/0UFMKIKMcCZApRPCnS23pt) | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/album/1bekhuWpcVqb39OVKJQiW6) | 2:42 | 2023-02-08 |  |
 | [Imagine 528 Hz](https://open.spotify.com/track/7pQc01eRvQffBpMRPGwBO2) | [Sapphire Frequencies](https://open.spotify.com/artist/7En7YqTxnz9HE6lSByaML4) | [Imagine 528 Hz](https://open.spotify.com/album/6TaaGvZYF6h1gbLAdBkQ0E) | 2:50 | 2024-04-07 |  |
@@ -223,9 +227,11 @@
 | [Soothing 528 Hz](https://open.spotify.com/track/3CnPZ2U4fQ4CxjDLY9StX0) | [Gilbert Frost](https://open.spotify.com/artist/2uyHDj3s1k5eEG46b0pj3h) | [Soothing 528 Hz](https://open.spotify.com/album/7iCN0KyHDLpW0uQxETCinr) | 2:30 | 2023-11-30 |  |
 | [Soporwaves 528 Hz](https://open.spotify.com/track/7GJWh1vAhzUQOmUzTD5eHQ) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Soporwaves 528 Hz](https://open.spotify.com/album/6AGj5BcUxH4dUfAzWUaHHr) | 3:01 | 2024-05-11 |  |
 | [spiraling harmony 528 Hz](https://open.spotify.com/track/10UdOGvOMetTGtuBsJwsJ4) | [floating echoes](https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe) | [spiraling harmony 528 Hz](https://open.spotify.com/album/71koSWx81yYso1mwzXfuD6) | 3:19 | 2024-05-11 |  |
+| [Spiritual Intuition 528 Hz](https://open.spotify.com/track/7DOSxPmlIG0HXzasJeEjOx) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Spiritual Intuition 528 Hz](https://open.spotify.com/album/2XqRbJ0XQ8WDPGUWY2yic9) | 3:18 | 2024-07-13 |  |
 | [Stay Close 852 Hz](https://open.spotify.com/track/08oWPv0iCrqcXlEz9fnWKA) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Stay Close 852 Hz](https://open.spotify.com/album/5csEEPZwqvgDtrU4MzcGEK) | 2:32 | 2023-02-08 |  |
 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2023-02-08 |  |
 | [Stillness 528 Hz](https://open.spotify.com/track/15R17KcjlGhkGnK0WQXUeP) | [Wyndon](https://open.spotify.com/artist/1BqAkR85z3mqqeQcCaHUpa) | [Stillness 528 Hz](https://open.spotify.com/album/28oSg3maJO90kUA35TaH3D) | 2:46 | 2023-09-28 |  |
+| [Sunlit Meadows \(528 Hz\)](https://open.spotify.com/track/3JtYl0Auz51SfGTzubUN8w) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Sunlit Meadows \(528 Hz\)](https://open.spotify.com/album/0Mamgug1U51EDg2oIXz3Lh) | 2:34 | 2024-07-13 |  |
 | [Suspended in Time 528Hz](https://open.spotify.com/track/2AlSl9svSZiPOz8HLGzehn) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Suspended in Time 528Hz](https://open.spotify.com/album/3wkXTVe5vEYlmdOg47BgNs) | 3:10 | 2024-03-13 |  |
 | [Terra Firma](https://open.spotify.com/track/5OIkpy9XQbTFBtDdMbgpRq) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Terra Firma](https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0) | 2:45 | 2023-02-08 | 2023-09-20 |
 | [The Solar Plexus](https://open.spotify.com/track/3MT3MRv2dHEPJ8iewyU7sk) | [Chakra Healing Music Academy](https://open.spotify.com/artist/568O2cGvLWBRq81ESU0Dlw) | [The Solar Plexus: Manipura Meditation, Unblock Third Chakra for Personal Power](https://open.spotify.com/album/0qGNtgX2DdPIWYzVObBfGV) | 3:18 | 2023-02-08 | 2023-12-01 |
@@ -235,8 +241,10 @@
 | [Tranquility 528 Hz](https://open.spotify.com/track/6fRVsZTr38TxNhjGshiGK6) | [Mateo Stewart](https://open.spotify.com/artist/6wSpDuNcItpeFJNm9vSFD7) | [Tranquility 528 Hz](https://open.spotify.com/album/0fP27VZnTaF2UaYh28Dm5O) | 2:38 | 2023-11-30 |  |
 | [Traveler \- 528hz](https://open.spotify.com/track/0I2kOQX4Ze1muap28CqOWA) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Traveler \- 528hz](https://open.spotify.com/album/4Gcs60XMhnd2YrPrnnwETs) | 3:37 | 2024-06-11 |  |
 | [Trippertronics 528 Hz](https://open.spotify.com/track/7qmlDL2e8N8HyNmqfg4AoH) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:56 | 2023-11-30 |  |
+| [Twilight Promise 528 Hz](https://open.spotify.com/track/5FAcwR9AB9AnqbFUjWxJby) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Awoken 528 Hz](https://open.spotify.com/album/0xw8bDKvLIKxQVitWoWJsI) | 3:45 | 2024-07-13 |  |
 | [unwinding mind 528 Hz](https://open.spotify.com/track/4ygQzLDawyji6Q0VxhQDfV) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 | 2023-02-08 |  |
 | [Very Gentle 528 Hz](https://open.spotify.com/track/36lK0alPIzF9mV22hNkCIL) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [528 Hz Sleep & Relaxation](https://open.spotify.com/album/4qaU7LnjZmjwmwF3ar9p4U) | 3:05 | 2023-04-06 |  |
 | [Warm Light 528 Hz](https://open.spotify.com/track/0K63aGIdMRvLiODv0Joaxe) | [Mindra](https://open.spotify.com/artist/3YfVff4wWeiUd5Cmbl3VLm) | [Warm Light EP](https://open.spotify.com/album/4nCc1RosiutNoEOx33MWcC) | 2:33 | 2023-08-07 |  |
+| [Wonder 528 Hz](https://open.spotify.com/track/7j5Wcm2ZV4UPnkl7aPGBvY) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Wonder 528 Hz](https://open.spotify.com/album/1BwKXX9j4ReqD0mTT0FQfh) | 3:10 | 2024-07-13 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 159738,
+  "num_followers": 159749,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAAA/9oNA9xcBdc8RJGGd1z3A",
+  "snapshot_id": "Zo8ggAAAAABhBPEhOy/V/ZCPiQW7KvxS",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Est\u00e1s",
-        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 392026,
-      "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
-      "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habr\u00e1 Victoria",
         "url": "https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 261780,
       "name": "Para Sempre Te Adorarei",
       "url": "https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivo Est\u00e1s",
+        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 392026,
+      "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
+      "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
     },
     {
       "added_at": null,

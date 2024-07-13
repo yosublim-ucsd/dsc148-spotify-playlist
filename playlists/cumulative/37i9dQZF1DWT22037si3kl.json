@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 152392,
       "name": "Caro",
       "url": "https://open.spotify.com/track/3EUhXVaFdt7pONMZkCJR2g"
@@ -4107,6 +4107,32 @@
     },
     {
       "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "Hostil",
+      "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
+    },
+    {
+      "album": {
         "name": "Hugo Boss",
         "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
       },
@@ -4604,6 +4630,36 @@
       "duration_ms": 125217,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6SMCQA0rN8B9aHmXjGlqbi"
+    },
+    {
+      "album": {
+        "name": "Mixtape Novset, Vol. 1",
+        "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        },
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Jovem Pr\u00edncipe - Remix",
+      "url": "https://open.spotify.com/track/1Ky0nJZ03ZH3Y50uD4gvek"
     },
     {
       "album": {

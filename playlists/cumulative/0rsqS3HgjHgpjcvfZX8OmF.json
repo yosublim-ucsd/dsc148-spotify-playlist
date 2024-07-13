@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Imagine Dragons",
+  "description": "The best and latest rock and alternative. Cover: HARDY",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -212,6 +212,24 @@
       "duration_ms": 249266,
       "name": "Bail Out",
       "url": "https://open.spotify.com/track/1KGD63pRjyoWu244zx6P8g"
+    },
+    {
+      "album": {
+        "name": "Bass Player's Brother",
+        "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186489,
+      "name": "Bass Player's Brother",
+      "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
     },
     {
       "album": {
@@ -522,7 +540,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 183529,
       "name": "Come Out",
       "url": "https://open.spotify.com/track/4FZYzPLOHh90osvljS7ueD"
@@ -919,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/3DSeKDE99lVGaIVVo9orLT"
+      },
+      "artists": [
+        {
+          "name": "Dear Rouge",
+          "url": "https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211186,
+      "name": "Garbage",
+      "url": "https://open.spotify.com/track/1Gq7qJGtmzdqVjAzeoV1Kx"
+    },
+    {
+      "album": {
         "name": "Get Back Again",
         "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
       },
@@ -1014,6 +1050,28 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
+    },
+    {
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161352,
+      "name": "HAPPY HOUR (feat. Knox)",
+      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
     },
     {
       "album": {
@@ -1334,7 +1392,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208253,
       "name": "Kid",
       "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
@@ -1536,6 +1594,24 @@
       "duration_ms": 233626,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
+    },
+    {
+      "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "album": {
@@ -2098,7 +2174,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 198748,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
@@ -3024,7 +3100,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173736,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE"

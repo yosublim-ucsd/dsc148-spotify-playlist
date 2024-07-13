@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Calema
 
-390 songs - 23 hr 7 min
+391 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Nha Vida](https://open.spotify.com/track/58ig8QROM1L1lr6nP0XdRm) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Nha Vida](https://open.spotify.com/album/7l83iXj3DuIF126R7pdWUq) | 3:44 | 2022-05-13 | 2022-06-03 |
 | [Nhanhado](https://open.spotify.com/track/76Se6CPXmYEVaJm0mWJ90n) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Nhanhado](https://open.spotify.com/album/344Mi4Gakz1iTzi8CeGT9G) | 3:34 | 2022-01-21 | 2022-01-25 |
 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 | 2021-12-10 | 2023-05-19 |
+| [NOSSA VIBE](https://open.spotify.com/track/0PG2mpoAD8kSYoXHThdxUN) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA), [Emilly Quirino](https://open.spotify.com/artist/6Eke2i3EEqJksjVaiX40Sm) | [NOSSA VIBE](https://open.spotify.com/album/7rNbUICAdn0aX1R8ILvKqQ) | 3:38 | 2024-07-11 |  |
 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 | 2021-12-10 |  |
 | [Novinha](https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Novinha](https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN) | 3:09 | 2022-11-04 | 2022-11-18 |
 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 | 2022-12-09 | 2024-07-10 |

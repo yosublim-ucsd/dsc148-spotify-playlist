@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Jorge Rojas.",
+  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Los Nocheros y el Chaque\u00f1o Palaveccino.",
   "name": "Lunas de Folklore",
   "tracks": [
     {
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 212944,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu"
@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Mi \u00daltima Carta",
+        "url": "https://open.spotify.com/album/11O74gRggmfrtEYoNAem0U"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185212,
+      "name": "Mi \u00daltima Carta",
+      "url": "https://open.spotify.com/track/43WqH65SJnBZThYmkQ7qzE"
+    },
+    {
+      "album": {
         "name": "Ceibo",
         "url": "https://open.spotify.com/album/1bop3bvcBDJjOFRhyVBIGs"
       },
@@ -2062,7 +2084,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 216661,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/6w8vrqjspBrCckBZOerReI"
@@ -2548,7 +2570,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 190285,
       "name": "Septiembre Azul",
       "url": "https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA"

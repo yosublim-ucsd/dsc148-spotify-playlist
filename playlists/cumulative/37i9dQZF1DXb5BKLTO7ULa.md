@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Roxy Dekker & Ronnie Flex
 
-6,948 songs - 15 day 4 hr 25 min
+6,951 songs - 15 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1021,6 +1021,7 @@
 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 | 2024-03-07 | 2024-03-15 |
 | [Cash In The Bag](https://open.spotify.com/track/3I05hF7RWlU4I4jK2Wbo4T) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Cash In The Bag](https://open.spotify.com/album/1BENRdSOPvKeGkP1gDqeMa) | 3:10 | 2023-09-07 | 2023-09-15 |
 | [Cast a Shadow](https://open.spotify.com/track/5oFvMMRMBH75xyAIKguCiG) | [Pale Puma](https://open.spotify.com/artist/79bbqMgV2GjDdD6fA7pOBe) | [Haunted by Dreams That Were Never My Own](https://open.spotify.com/album/1o0dZl0dzrvTaTZeufxDFr) | 3:51 | 2023-09-07 | 2023-09-15 |
+| [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-11 |  |
 | [Catch a Fire \- Single version](https://open.spotify.com/track/56UPUkTlqxEYXKSZLeXVlt) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx) | [Catch a Fire](https://open.spotify.com/album/7rtLz93buCYHS29jsShf06) | 3:56 | 2023-07-06 | 2023-07-14 |
 | [Catching Feelings](https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Catching Feelings](https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M) | 2:46 | 2024-01-25 | 2024-02-02 |
 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-04-06 | 2023-04-14 |
@@ -2163,6 +2164,7 @@
 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 | 2024-03-07 | 2024-03-15 |
 | [Fuck You Want](https://open.spotify.com/track/7ziRXgzWzuMMkHTuiGtWq2) | [Niko](https://open.spotify.com/artist/6GMXTHNc34bj2rFo35e2T2) | [Fuck You Want](https://open.spotify.com/album/0AxrF6bZ2RN3AJftT8cFNS) | 3:05 | 2024-03-28 | 2024-04-05 |
 | [FUEGO](https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [FUEGO](https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS) | 3:40 | 2024-04-11 | 2024-04-19 |
+| [Fuel](https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:33 | 2024-07-11 |  |
 | [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 | 2023-06-08 | 2023-06-16 |
 | [Fun Fact](https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Fun Fact](https://open.spotify.com/album/5EAS9bSHTwrTlizIJIVUqO) | 2:31 | 2024-02-22 | 2024-03-01 |
 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-11 |  |
@@ -5388,6 +5390,7 @@
 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 | 2024-02-01 | 2024-02-09 |
 | [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 | 2024-04-25 | 2024-05-03 |
 | [Somebody New](https://open.spotify.com/track/4xfNBcd49rQKvlkoNJBtgv) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz), [KARA music](https://open.spotify.com/artist/1ZZv2JtbeBIN7CUqxpIFgM) | [Somebody New](https://open.spotify.com/album/1LG2Ms7cEKWEt5Ubrp6RXo) | 3:07 | 2023-03-17 | 2023-03-25 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [Somebody Without U](https://open.spotify.com/track/48oDk3NjbAjwrBL7vrbgyl) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Somebody Without U](https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR) | 3:23 | 2024-05-31 | 2024-06-07 |
 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2024-01-11 | 2024-01-19 |
 | [Somedays](https://open.spotify.com/track/7mhNOMlEyc3X6kT2p8q12H) | [Beau Zwart](https://open.spotify.com/artist/0yuIEVxJaq3DUSo0ShzdZm), [Sykes](https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA) | [Somedays](https://open.spotify.com/album/1zopJzaNTErG0DT8yEE1s0) | 2:35 | 2024-02-15 | 2024-02-23 |

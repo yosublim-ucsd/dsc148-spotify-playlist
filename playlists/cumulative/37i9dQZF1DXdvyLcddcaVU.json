@@ -281,6 +281,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "All eyes on me",
         "url": "https://open.spotify.com/album/5otdGXKxJdrYSU98OubLpT"
       },
@@ -1269,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Canaillou",
+        "url": "https://open.spotify.com/album/2NSYHz9XrchBdlVdtLYUXX"
+      },
+      "artists": [
+        {
+          "name": "TIMEO",
+          "url": "https://open.spotify.com/artist/0pNMzsxbYpuf2bxg1nQWZl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156925,
+      "name": "Canaillou",
+      "url": "https://open.spotify.com/track/6LgStwh7l5Y91je4vuT6EC"
+    },
+    {
+      "album": {
         "name": "ALPHA (Parties 1 & 2)",
         "url": "https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS"
       },
@@ -1426,7 +1470,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -1945,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129153,
+      "name": "CRF - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
+    },
+    {
+      "album": {
         "name": "Criminel",
         "url": "https://open.spotify.com/album/1FVnIpB2rYgUcxGZxbRdcv"
       },
@@ -2086,7 +2148,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 118101,
       "name": "Dans Tes Bras",
       "url": "https://open.spotify.com/track/3fnYdXsfIeTVijs8qPXt6O"
@@ -2330,7 +2392,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 132676,
       "name": "Doggy",
       "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
@@ -3271,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
+    },
+    {
+      "album": {
         "name": "Hess",
         "url": "https://open.spotify.com/album/7lvh7khzciXblQxdBcbrfC"
       },
@@ -3416,7 +3496,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -4421,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Lilou Dallas",
+      "url": "https://open.spotify.com/track/2GgkH0MWw40xMXcwljb4mk"
+    },
+    {
+      "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
       },
@@ -4436,7 +4534,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161311,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
@@ -4844,10 +4942,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+    },
+    {
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
       "album": {
@@ -5542,7 +5662,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 173375,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3OKAYvfvOvxqZQk3KBCIZr"
@@ -6187,6 +6307,28 @@
     },
     {
       "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Mr Reload It",
+          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+    },
+    {
+      "album": {
         "name": "Piranha (feat. Vacra)",
         "url": "https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK"
       },
@@ -6274,7 +6416,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 228960,
       "name": "Porcherie - Live",
       "url": "https://open.spotify.com/track/34I5gvziy5QXpXrZopO2VH"
@@ -6665,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Fant\u00f4me",
+        "url": "https://open.spotify.com/album/2l9Mji9qRvRY8JdX8MZMia"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Rose noire",
+      "url": "https://open.spotify.com/track/70EV0Zz3Q0xcc3eEJl4kC5"
+    },
+    {
+      "album": {
         "name": "Roule un autre (A COLORS SHOW)",
         "url": "https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx"
       },
@@ -6792,6 +6952,24 @@
       "duration_ms": 170078,
       "name": "Sans nuances",
       "url": "https://open.spotify.com/track/4waXynr0ZvdD98abYYFmiY"
+    },
+    {
+      "album": {
+        "name": "Taxi 5 (Bande originale inspir\u00e9e du film)",
+        "url": "https://open.spotify.com/album/4BEvV8uiYjEPcuotngqHJF"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Santana",
+      "url": "https://open.spotify.com/track/0G0WC5ghZRRH6LJNNXtK1W"
     },
     {
       "album": {
@@ -7174,7 +7352,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
@@ -7528,7 +7706,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 275693,
       "name": "Te Bot\u00e9",
       "url": "https://open.spotify.com/track/42FWqCxAw5aG1FvjyVjIlH"
@@ -7630,6 +7808,24 @@
       "duration_ms": 142429,
       "name": "texto",
       "url": "https://open.spotify.com/track/2QYzsRBgtTsZpiHgQqX1DP"
+    },
+    {
+      "album": {
+        "name": "TGIF (Alternate Versions)",
+        "url": "https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3"
     },
     {
       "album": {

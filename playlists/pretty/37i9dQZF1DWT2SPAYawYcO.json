@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: Nick Ward",
-  "num_followers": 375989,
+  "num_followers": 376065,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "Zo/lYAAAAADgqKOOtfYUNYcBvmOJbRSV",
   "tracks": [
+    {
+      "added_at": "2024-07-11 14:00:00",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+    },
     {
       "added_at": "2024-07-11 14:00:00",
       "album": {
@@ -495,6 +515,26 @@
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
+    },
+    {
+      "added_at": "2024-07-11 14:00:00",
+      "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY"
     },
     {
       "added_at": "2024-07-11 14:00:00",
@@ -1019,6 +1059,26 @@
       "duration_ms": 267553,
       "name": "Pink Smoke",
       "url": "https://open.spotify.com/track/7qJswKoIImLc8pPN8LtEJb"
+    },
+    {
+      "added_at": "2024-07-11 14:00:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/273G5nf7G44BxNW0IuXzZr"
+      },
+      "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 136002,
+      "name": "Bless Her Heart",
+      "url": "https://open.spotify.com/track/2wPM1Dk12o8u8dMNveQqhm"
     },
     {
       "added_at": "2024-07-11 14:00:00",

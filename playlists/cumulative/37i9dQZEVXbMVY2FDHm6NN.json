@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156416,
       "name": "3am - Demo Ver.",
       "url": "https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli"
@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
+    },
+    {
+      "album": {
         "name": "FOREVER 1 - The 7th Album",
         "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
       },
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189680,
       "name": "HEYA",
       "url": "https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN"
@@ -1918,6 +1936,24 @@
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "album": {
+        "name": "I SWAY",
+        "url": "https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "Klaxon",
+      "url": "https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X"
     },
     {
       "album": {
@@ -2478,7 +2514,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
@@ -3495,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+    },
+    {
+      "album": {
         "name": "LOVE IN STEREO",
         "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
       },
@@ -4212,7 +4266,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 175500,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2"
@@ -5310,7 +5364,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 245394,
       "name": "\u5982\u679c\u7231\u5fd8\u4e86 - Live",
       "url": "https://open.spotify.com/track/5klrVTKUgkEf7UWr4my5Mr"
@@ -6666,6 +6720,46 @@
       "duration_ms": 243000,
       "name": "\u80fd\u4e0d\u80fd\u548c\u6211\u7559\u5728\u53f0\u5317(\u966a\u6211\u5e7e\u5929)",
       "url": "https://open.spotify.com/track/63N9fNPJ5kkbvtntCwgIbm"
+    },
+    {
+      "album": {
+        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229655,
+      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+    },
+    {
+      "album": {
+        "name": "\u82e5\u6708\u4eae\u6ca1\u6765\uff08\u82e5\u662f\u6708\u4eae\u8fd8\u6ca1\u6765\uff09",
+        "url": "https://open.spotify.com/album/2ouP14yNLuS1WWTVeQ1muW"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u5b87\u5b99Leto",
+          "url": "https://open.spotify.com/artist/1llNL6f36GgpMrKnRCx0uK"
+        },
+        {
+          "name": "\u4e54\u6d5a\u4e1e",
+          "url": "https://open.spotify.com/artist/3JhHdQILs3D6Te4gSdyaA3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173822,
+      "name": "\u82e5\u6708\u4eae\u6ca1\u6765\uff08\u82e5\u662f\u6708\u4eae\u8fd8\u6ca1\u6765\uff09",
+      "url": "https://open.spotify.com/track/414Mr8wR2m7fs2K0n8Bx3I"
     },
     {
       "album": {

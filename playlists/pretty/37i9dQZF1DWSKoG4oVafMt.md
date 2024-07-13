@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,136 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,235 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 11 | [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/track/2FRSsjZloHsmBF60bCoPrQ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/album/6SgKeQDMRzq0noM0FSaPP6) | 3:25 |
 | 12 | [Taare](https://open.spotify.com/track/3oWoAZ0Pe8PsI4A5SVVF3A) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Taare](https://open.spotify.com/album/0jwE7wNAlVPDUxem6bUXJ7) | 3:11 |
 | 13 | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harmanjeet](https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/416V9hPUHyM30URol93F8M) | 4:03 |
-| 14 | [Khokhe](https://open.spotify.com/track/4GErNkWRhtRXFCfAz7aTY5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Khokhe](https://open.spotify.com/album/5VJOK0k6L7nLzX9UtwwCCa) | 3:23 |
+| 14 | [Khokhe](https://open.spotify.com/track/4GErNkWRhtRXFCfAz7aTY5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Pranjhal Dahiya](https://open.spotify.com/artist/3oIIQ4yVwHDgjz1TfPhgmU) | [Khokhe](https://open.spotify.com/album/5VJOK0k6L7nLzX9UtwwCCa) | 3:23 |
 | 15 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
 | 16 | [Whenever](https://open.spotify.com/track/75NrYaibnoCgQZASqWrcYs) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/0sQRiOLXkzvK9b3r1LVZHK) | 3:30 |
 | 17 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 |

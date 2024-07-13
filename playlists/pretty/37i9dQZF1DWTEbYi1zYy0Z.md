@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,850 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,887 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 |
-| 2 | [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 |
-| 3 | [Dream Maker](https://open.spotify.com/track/2qoRdks21e71gFc9zVBSHt) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Dream Maker](https://open.spotify.com/album/2KQxEMbI2vReIpBtTZDYAp) | 4:13 |
-| 4 | [Brown Sugar](https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [Brown Sugar](https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu) | 4:31 |
-| 5 | [Road Block](https://open.spotify.com/track/0HMyfgtGDcCvcXSYmY38CF) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Road Block](https://open.spotify.com/album/1CBHUjIsLWB0kpyhpUQ8xr) | 3:30 |
-| 6 | [Later Together](https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Later Together](https://open.spotify.com/album/0cQOJUaBWc8h7iCBTHEUd9) | 4:05 |
-| 7 | [Fresh Air](https://open.spotify.com/track/2Xh0zqD0VwVfo3xgVXiO0Q) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Cord Martin](https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx), [Sam Ojalvo](https://open.spotify.com/artist/4ZnNAbmDRT7GZe8p3Vjuip) | [Fresh Air](https://open.spotify.com/album/7HOog0MOFLIgCmSDoRz4Fy) | 3:29 |
+| 2 | [The Girl From Cagayan De Oro](https://open.spotify.com/track/7hpy2vrgp2duIotpoYPxSl) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [The Girl From Cagayan De Oro](https://open.spotify.com/album/7qU0xAK2XDVk4Qiq2sNzBt) | 4:27 |
+| 3 | [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 |
+| 4 | [Dream Maker](https://open.spotify.com/track/2qoRdks21e71gFc9zVBSHt) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Dream Maker](https://open.spotify.com/album/2KQxEMbI2vReIpBtTZDYAp) | 4:13 |
+| 5 | [Brown Sugar](https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [Brown Sugar](https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu) | 4:31 |
+| 6 | [Road Block](https://open.spotify.com/track/0HMyfgtGDcCvcXSYmY38CF) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Road Block](https://open.spotify.com/album/1CBHUjIsLWB0kpyhpUQ8xr) | 3:30 |
+| 7 | [Later Together](https://open.spotify.com/track/0EEmz4rs2yKfEIE9ODHVUg) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Later Together](https://open.spotify.com/album/0cQOJUaBWc8h7iCBTHEUd9) | 4:05 |
 | 8 | [Levante](https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Levante](https://open.spotify.com/album/3es4r2kxay6xjDFi20KRMG) | 4:33 |
 | 9 | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/track/7mBype4FhRTYuF4u9rdmdc) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/album/7CCKQMYC2LEy4or4Wq0Il6) | 4:26 |
 | 10 | [A Beautiful Story](https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo) | [Ludovic Louis](https://open.spotify.com/artist/7dzml0MudQRS956whBQ455) | [If Everything Is Written](https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `ZodvwAAAAADBaU7AWLUUdDp3cidFKaBU`
+Snapshot ID: `ZpCqfAAAAADkY15vsG8FrSXzJ3AGEyaJ`

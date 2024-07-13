@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Biznaga.
 
-110 songs - 5 hr 51 min
+111 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Me paso por tu zona](https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Me paso por tu zona](https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO) | 2:11 | 2024-06-27 |  |
 | [Mi Barrio](https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Mi Barrio](https://open.spotify.com/album/57E7nwWxTOuc3WirxePwmc) | 3:10 | 2024-06-27 | 2024-07-05 |
 | [Mi fábrica de baile Rock](https://open.spotify.com/track/61qYmqAXyKU0wjgIwxOMUL) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn), [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Mi fábrica de baile Rock](https://open.spotify.com/album/0Eqz8IR76mmUbqY3eSSqpQ) | 3:15 | 2024-06-27 |  |
+| [Momento PULP](https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx), [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Momento PULP](https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U) | 2:12 | 2024-07-11 |  |
 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 | 2024-06-27 |  |
 | [Nacho Fernández](https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Nacho Fernández](https://open.spotify.com/album/47aaiQ9Idp7Luvp5ryErjD) | 2:17 | 2024-07-04 | 2024-07-12 |
 | [No me devuelvas la palabra](https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [No me devuelvas la palabra](https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl) | 3:03 | 2024-06-27 |  |
@@ -94,7 +95,7 @@
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 |  |
 | [Salgo A La Calle](https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Salgo A La Calle](https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd) | 3:13 | 2024-06-27 |  |
 | [Si No Es Hoy Cuándo Es](https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Si No Es Hoy Cuándo Es](https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA) | 5:32 | 2024-07-04 |  |
-| [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 | 2024-07-11 |  |
+| [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 | 2024-07-11 | 2024-07-13 |
 | [Sin Hablar](https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Repion](https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R) | 3:25 | 2024-06-27 |  |
 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 | 2024-06-27 |  |
 | [Sofisticado](https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Sofisticado](https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw) | 2:57 | 2024-06-27 |  |

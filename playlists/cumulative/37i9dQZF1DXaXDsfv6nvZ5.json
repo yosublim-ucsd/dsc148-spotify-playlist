@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195082,
       "name": "Changed",
       "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 149941,
       "name": "Chasing",
       "url": "https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2"
@@ -2488,6 +2488,24 @@
       "duration_ms": 182381,
       "name": "Easy, Lee",
       "url": "https://open.spotify.com/track/1Bl4fX4phSMmAmwNT0n5kw"
+    },
+    {
+      "album": {
+        "name": "The Heart",
+        "url": "https://open.spotify.com/album/5scS19vWf1ahjNYDHepumB"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207526,
+      "name": "Enjoy The Ride",
+      "url": "https://open.spotify.com/track/1vdEi8eTMGQd1TBOFYTPeE"
     },
     {
       "album": {
@@ -5331,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Love Goes",
+        "url": "https://open.spotify.com/album/2z1sSMgDKfQXnfi71Ro1LZ"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166665,
+      "name": "Love Goes",
+      "url": "https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV"
+    },
+    {
+      "album": {
         "name": "Love Is A Losing Game (Live at Stebbing Studio)",
         "url": "https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O"
       },
@@ -5820,6 +5856,24 @@
       "duration_ms": 282315,
       "name": "Mary",
       "url": "https://open.spotify.com/track/1Ox21gx050alMVNZL3XCMJ"
+    },
+    {
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/5MbsdKvQFOFKk0Ntje7vp4"
+      },
+      "artists": [
+        {
+          "name": "Eric Roberson",
+          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231538,
+      "name": "Mask",
+      "url": "https://open.spotify.com/track/34Vo7tOWSgBGcwnQX7Dobn"
     },
     {
       "album": {
@@ -8297,6 +8351,32 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "Elena Pinderhughes",
+          "url": "https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
+    },
+    {
+      "album": {
         "name": "Something Keeps Calling (feat. Rob Bacon)",
         "url": "https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw"
       },
@@ -8524,7 +8604,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 184128,
       "name": "Stand on Trial",
       "url": "https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7"
@@ -9720,7 +9800,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 176000,
       "name": "U N D R E S S - Remix",
       "url": "https://open.spotify.com/track/4c2QC1VaXfNGFaDASusFiI"

@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-274 songs - 14 hr 46 min
+275 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cardenalito](https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciseis](https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG) | 3:32 | 2023-10-12 | 2024-04-19 |
 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 | 2022-12-30 | 2023-04-09 |
 | [Chistes Malos](https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Chistes Malos](https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba) | 2:51 | 2024-02-09 |  |
+| [Chocomenta](https://open.spotify.com/track/3puwMzQnKzBKf0LH851Yha) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Chocomenta](https://open.spotify.com/album/5q6pe9FjbRgBdAeUNxD1Wr) | 2:44 | 2024-07-12 |  |
 | [Cielo](https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:56 | 2024-04-19 |  |
 | [Cliché](https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:44 | 2022-07-11 | 2024-04-19 |
 | [Cliché](https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cliché](https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf) | 3:44 | 2022-05-20 | 2022-07-29 |
@@ -141,7 +142,7 @@
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2022-05-20 | 2022-10-28 |
 | [malapami](https://open.spotify.com/track/1aWRzqsBsAXrw2SQwWzG6O) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [malapami](https://open.spotify.com/album/1tnRRNp1RHvmVUoZXtFIn5) | 2:58 | 2022-05-20 | 2023-01-07 |
 | [malapami](https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [malapami](https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2) | 2:58 | 2023-12-15 | 2024-04-15 |
-| [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-06-21 |  |
+| [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-06-21 | 2024-07-13 |
 | [MAN\-GO](https://open.spotify.com/track/5u0Ey4kvhRwg8IY1yR3R14) | [KIKI](https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp), [4NALOG](https://open.spotify.com/artist/2f3J0wbNURbwMETUIk7T9i) | [CHA\-CHAN](https://open.spotify.com/album/0KVByDuldyObpOIiaZwmmP) | 2:45 | 2022-05-20 | 2023-01-07 |
 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 | 2022-05-20 |  |
 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-05-20 |  |

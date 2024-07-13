@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Jorge Rojas.
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros y el Chaqueño Palaveccino.
 
-168 songs - 9 hr 21 min
+169 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Las Moras](https://open.spotify.com/track/4aFcSioY14fDCLAxOUrfUf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Con el Alma \(Sesiones 2020\)](https://open.spotify.com/album/3ZFER51zrslR8BjOl5TZzx) | 2:36 | 2021-12-31 | 2022-10-08 |
 | [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 | 2024-04-27 |
 | [Lluvia](https://open.spotify.com/track/5cYth5JAOgE7bYW1dtGlSl) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba Lopez](https://open.spotify.com/artist/3l3XAAFEthDxTpUtA5p3cZ) | [Vivir](https://open.spotify.com/album/1XJoy7s9d3U5C1WyYrMkjN) | 3:32 | 2023-10-20 | 2024-04-19 |
-| [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 |  |
+| [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 | 2024-07-13 |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 | 2022-10-08 |
 | [Lo Jujeño](https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Lo Jujeño](https://open.spotify.com/album/5ruxuaQ8tKTXlNMqSZu3hX) | 2:14 | 2023-01-27 | 2023-09-02 |
 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-18 | 2023-10-21 |
@@ -111,7 +111,8 @@
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3qsDt6tpHNSWf7CsFCaOvm) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/4u0P9UEKJZzvU9bULx7LM0) | 2:29 | 2021-12-31 |  |
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/5CdVPqzKaMfVNW4n4Kf1ug) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/68VpK263eWI3odk21VUfAt) | 2:29 | 2023-06-02 | 2024-04-19 |
 | [Mi Regreso](https://open.spotify.com/track/1CfwzL2EwovUSJk12fhNva) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Mi Regreso](https://open.spotify.com/album/6IQdh1uIQiHyUuqfoCFtP4) | 2:59 | 2021-12-31 |  |
-| [Mientes](https://open.spotify.com/track/6w8vrqjspBrCckBZOerReI) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Ceibo](https://open.spotify.com/album/1bop3bvcBDJjOFRhyVBIGs) | 3:36 | 2021-12-31 |  |
+| [Mi Última Carta](https://open.spotify.com/track/43WqH65SJnBZThYmkQ7qzE) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Mi Última Carta](https://open.spotify.com/album/11O74gRggmfrtEYoNAem0U) | 3:05 | 2024-07-12 |  |
+| [Mientes](https://open.spotify.com/track/6w8vrqjspBrCckBZOerReI) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Ceibo](https://open.spotify.com/album/1bop3bvcBDJjOFRhyVBIGs) | 3:36 | 2021-12-31 | 2024-07-13 |
 | [Mundo](https://open.spotify.com/track/2jL5pH60kWWSNEyoxENRol) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mundo](https://open.spotify.com/album/3irWZcLfE9HCACenWfVp3E) | 3:42 | 2021-12-31 |  |
 | [Nada \- REMIX](https://open.spotify.com/track/2TjYOCmxd4HTjcZxtjoj1c) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Nada \(REMIX\)](https://open.spotify.com/album/5CHPMtTMwLIL2vK6GnDjMM) | 3:31 | 2022-08-26 |  |
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 | 2022-07-02 |
@@ -136,7 +137,7 @@
 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 | 2021-12-31 | 2023-11-11 |
 | [Río](https://open.spotify.com/track/6gLpELrs5XY17BCwryawRv) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Pitín Zalazar](https://open.spotify.com/artist/7waf4UygCUUvNwHz7i6oYW) | [Eco](https://open.spotify.com/album/3ejrQS0tgyUNG2WyHRoNJA) | 2:58 | 2023-10-05 |  |
 | [Santo Remedio](https://open.spotify.com/track/2HoFKu6ZTMTozR2wksXApW) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Santo Remedio](https://open.spotify.com/album/4VeHkt4dygRUrozJZHkU4e) | 3:52 | 2023-08-18 |  |
-| [Septiembre Azul](https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi) | [Septiembre Azul](https://open.spotify.com/album/1zR4ZOHugUOaapOrrbQuBU) | 3:10 | 2021-12-31 |  |
+| [Septiembre Azul](https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi) | [Septiembre Azul](https://open.spotify.com/album/1zR4ZOHugUOaapOrrbQuBU) | 3:10 | 2021-12-31 | 2024-07-13 |
 | [Si Acaso Regresaras](https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Si Acaso Regresaras](https://open.spotify.com/album/1oJMF6AUvk5MLoGIhEC6nr) | 3:08 | 2021-12-31 | 2022-02-05 |
 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si No Te Vuelvo a Ver](https://open.spotify.com/album/4I2nmRLtjWyFoNdHP6W9op) | 3:18 | 2021-12-31 | 2023-09-02 |
 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-12 |  |

@@ -1,37 +1,13 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 28968,
+  "num_followers": 29016,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAAAwUG8JLNdoswhI1JhP0ZvF",
+  "snapshot_id": "Zo8ggAAAAAAglXnqrgwROq6osM3kgjoN",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c1lbum JGL",
-        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "\u00c1lbum JGL",
-      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
-    },
     {
       "added_at": null,
       "album": {
@@ -95,6 +71,30 @@
       "duration_ms": 142469,
       "name": "Tu Coquette",
       "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c1lbum JGL",
+        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "\u00c1lbum JGL",
+      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "La Recia",
+      "url": "https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Voladora",
         "url": "https://open.spotify.com/album/4SnkVoszi7UkF2KhTG6aLM"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 153917,
       "name": "La Voladora",
       "url": "https://open.spotify.com/track/7FRGDHMVFd3r8dxFzu2xed"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "La Recia",
-      "url": "https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.H.C. (En Vivo)",
-        "url": "https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "T.H.C. - En Vivo",
-      "url": "https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "T.H.C. (En Vivo)",
+        "url": "https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "T.H.C. - En Vivo",
+      "url": "https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En La Mira",
         "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 193306,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 201367,
       "name": "La Carrucha (En Vivo)",
       "url": "https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Equipo del Terror",
-        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
-      },
-      "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 204313,
-      "name": "El Equipo del Terror",
-      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El \u00c1guila Real",
         "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Equipo del Terror",
+        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 204313,
+      "name": "El Equipo del Terror",
+      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Due\u00f1a De Mi Vida",
         "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 182498,
       "name": "70 Calaveras",
       "url": "https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Parranda Con Darey (En Vivo)",
-        "url": "https://open.spotify.com/album/3oIBYT7NlLS89k4yu80Mj2"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "La Neta - En Vivo",
-      "url": "https://open.spotify.com/track/2IKNbUKTFTaN5Tflyg9wTm"
     }
   ],
   "unique_name": "This Is Los Dareyes De La Sierra",

@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Solfeggio Starscapes",
+        "url": "https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM"
+      },
+      "artists": [
+        {
+          "name": "Alice Charkha",
+          "url": "https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155984,
+      "name": "Solfeggio Starscape 852 Hz",
+      "url": "https://open.spotify.com/track/6LxWDMO7ZM4JVhZ15lKGWW"
+    },
+    {
+      "album": {
         "name": "Love Frequencies Volume 1",
         "url": "https://open.spotify.com/album/01nuV2tdLaSwawU9ijp7YR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,856 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,112 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 69 | [Eternal Sunshine](https://open.spotify.com/track/6ubtpZG99JxA9NQYsfgzkZ) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Eternal Sunshine](https://open.spotify.com/album/1yGJdpnJ0LpgRHHw7wbbFp) | 2:52 |
 | 70 | [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 |
 
-Snapshot ID: `ZozdhAAAAACurmDZhFShDeWkzSKaQ7+C`
+Snapshot ID: `ZpFB5gAAAACKRUtkQvucBkl+w1962L9Q`

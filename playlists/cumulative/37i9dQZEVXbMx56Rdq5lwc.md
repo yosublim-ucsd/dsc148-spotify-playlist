@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,671 songs - 3 day 19 hr 30 min
+1,672 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,8 @@
 | [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 | 2023-04-11 | 2023-04-20 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2024-02-12 |
 | [I Like It](https://open.spotify.com/track/2aJrZrl0uwElGowjrWrkYX) | [Novlem](https://open.spotify.com/artist/1ffUdnq7sh0g9LA0KunQJC) | [I Like It](https://open.spotify.com/album/6gc6Tz0E5NWtKnK3eyNvIR) | 2:50 | 2023-01-07 | 2023-01-13 |
-| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-20 |  |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-20 | 2024-07-13 |
+| [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-12 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-08-11 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2021-10-26 | 2022-04-27 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
@@ -1540,7 +1541,7 @@
 | [Vandens Ženklai \- Late Pal Remix](https://open.spotify.com/track/2nyeHzzLN8a2vT65zavwNF) | [Hiperbolė](https://open.spotify.com/artist/3ZFyBdeq0XQ2qeUZ2TGJX7), [Late Pal](https://open.spotify.com/artist/64DEapgmv6F3XOthfkkavF) | [Vandens Ženklai \(Late Pal Remix\)](https://open.spotify.com/album/4ZXdmUPjLsdtWrDJsWh2dm) | 2:03 | 2021-08-23 | 2022-01-04 |
 | [Vandenyne](https://open.spotify.com/track/6ylbOdO015EjqIdmVcbe0X) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [SOS](https://open.spotify.com/album/3fHD08f0WSSeAkpPwbUwju) | 3:20 | 2021-05-09 | 2021-05-10 |
 | [Vasara](https://open.spotify.com/track/72IfyOLWPQMu0pPBkq7H5o) | [Jazzu](https://open.spotify.com/artist/1wFdWxzcJOmD61tZBVk0lu) | [Vasara](https://open.spotify.com/album/2ZprTkXHWWXFiZtgf6sf5N) | 4:11 | 2021-07-04 | 2021-08-31 |
-| [Vasaros Mergaitės](https://open.spotify.com/track/27xc4u7iFXOvSuwOHRGrn8) | [Natalija Bunke](https://open.spotify.com/artist/7JnMOQerkDxyg5jSGjhD9Q), [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Vasaros Mergaitės](https://open.spotify.com/album/4VRbyLzIKCToj1ltDEbOMG) | 2:47 | 2024-06-21 | 2024-07-12 |
+| [Vasaros Mergaitės](https://open.spotify.com/track/27xc4u7iFXOvSuwOHRGrn8) | [Natalija Bunke](https://open.spotify.com/artist/7JnMOQerkDxyg5jSGjhD9Q), [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Vasaros Mergaitės](https://open.spotify.com/album/4VRbyLzIKCToj1ltDEbOMG) | 2:47 | 2024-06-21 |  |
 | [Vasarą galvoj minoras](https://open.spotify.com/track/1wGPGvj0moDoKMMVwFWFLj) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Vasarą galvoj minoras](https://open.spotify.com/album/1zv3ZtZNyjViwE7wRI9ajp) | 3:24 | 2021-08-10 | 2022-09-18 |
 | [Važiuoju Kur Širdis](https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa) | [GJan](https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy) | [Važiuoju Kur Širdis](https://open.spotify.com/album/5jUi7zJHx8ZWwQNgtEUJ2O) | 3:45 | 2023-05-03 | 2023-11-14 |
 | [Važiuoju Kur Širdis](https://open.spotify.com/track/56dRTtIRW7JYJajIWp4aTg) | [GJan](https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy) | [Verkiu Raudonų Vyšnių Sode](https://open.spotify.com/album/2Ww3sadhLaKl4fscYZiQmE) | 3:45 | 2024-01-21 | 2024-01-30 |
@@ -1560,7 +1561,7 @@
 | [Visiems Reikia Meilės](https://open.spotify.com/track/4YzEkKX4i5s6FJlK9HGB3o) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Visiems Reikia Meilės](https://open.spotify.com/album/0WghARoKRu5Qj2W3yoLHcK) | 2:38 | 2021-12-08 | 2021-12-10 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-29 |
 | [Viskas Ką Turiu](https://open.spotify.com/track/3XxelZxcOZFY4xcXr7ZYvq) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Viskas Ką Turiu](https://open.spotify.com/album/0TYJSkJ5xrMoFWJ8I5Zv0F) | 2:53 | 2022-08-14 | 2024-06-11 |
-| [Viskas puiku](https://open.spotify.com/track/6qsIIEuJy1MflfNcik4XZK) | [Jazzu](https://open.spotify.com/artist/1wFdWxzcJOmD61tZBVk0lu), [Gamka](https://open.spotify.com/artist/5D5bUnXBGrpSFRosyhUuY5) | [Viskas puiku](https://open.spotify.com/album/1mBuCoanxBSLx3q51XeK24) | 3:52 | 2024-02-19 |  |
+| [Viskas puiku](https://open.spotify.com/track/6qsIIEuJy1MflfNcik4XZK) | [Jazzu](https://open.spotify.com/artist/1wFdWxzcJOmD61tZBVk0lu), [Gamka](https://open.spotify.com/artist/5D5bUnXBGrpSFRosyhUuY5) | [Viskas puiku](https://open.spotify.com/album/1mBuCoanxBSLx3q51XeK24) | 3:52 | 2024-02-19 | 2024-07-13 |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2021-05-21 | 2021-06-05 |
 | [VOID](https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:07 | 2023-04-01 | 2023-04-03 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-21 | 2021-06-27 |

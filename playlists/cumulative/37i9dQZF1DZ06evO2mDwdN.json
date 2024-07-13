@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This Is Harold Melvin & The Blue Notes. Todas as faixas essenciais numa \u00fanica playlist.",
+  "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
   "name": "This Is Harold Melvin & The Blue Notes",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 225666,
       "name": "Ain't No Stoppin' Us Now - Rerecorded",
       "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 249760,
       "name": "Could It Be I'm Falling in Love (Rerecorded)",
       "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 322146,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "It All Depends On You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161986,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 338586,
       "name": "Pretty Flower (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3RjJB4T5VClw5FoqefBrl5"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 279426,
       "name": "To Be True (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 383120,
       "name": "Today's Your Lucky Day",
       "url": "https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 492796,
       "name": "Tonight's the Night",
       "url": "https://open.spotify.com/track/6Ib3CF2lnbq3mozpq4petK"
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 213173,
       "name": "What Can A Man Do",
       "url": "https://open.spotify.com/track/3CHoatkZzRYeCmrelOa1SG"

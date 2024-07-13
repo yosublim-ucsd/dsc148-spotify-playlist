@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: OG-ANIC",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Percy",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1857,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Love & Secret",
+        "url": "https://open.spotify.com/album/5Nf4Rf9Xankkmsb4737GM6"
+      },
+      "artists": [
+        {
+          "name": "Percy",
+          "url": "https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr"
+        },
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148394,
+      "name": "Love & Secret",
+      "url": "https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/6IWqR8ZaphtdUXEMoC73QF"
       },
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 135724,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4JjsTrUcrLM8OGuJjjfXKk"
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 172800,
       "name": "Sexy Girl",
       "url": "https://open.spotify.com/track/5YxH99t2aXNAUCF33JKCFv"
@@ -4302,6 +4324,24 @@
       "duration_ms": 237142,
       "name": "\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14",
       "url": "https://open.spotify.com/track/223gVe8099ZA8fDZ95JBZS"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e1d\u0e31\u0e19\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e14\u0e31\u0e1a",
+        "url": "https://open.spotify.com/album/0hwSBDYDfgjk2sgsTB2GYE"
+      },
+      "artists": [
+        {
+          "name": "Lil Bigboat",
+          "url": "https://open.spotify.com/artist/2YhH2j5TLv62N87Qh5Q0tD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e1d\u0e31\u0e19\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e14\u0e31\u0e1a",
+      "url": "https://open.spotify.com/track/0lCn1DMrJXm2HRsUWz5KdP"
     },
     {
       "album": {
@@ -5805,6 +5845,32 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/7xEX4LGaf8goQWX18DjW4e"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        },
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        },
+        {
+          "name": "K.AGLET",
+          "url": "https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "\u0e1e\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/72LSBDgovfMyaWvokiZNJt"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e34\u0e29\u0e20\u0e31\u0e22",
         "url": "https://open.spotify.com/album/0vQxrz3zSuD4JndtlJ4D5i"
       },
@@ -6356,7 +6422,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 150588,
       "name": "\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e2b\u0e4c",
       "url": "https://open.spotify.com/track/1PQTcYZibE8fCKtGbB784Y"
@@ -6938,7 +7004,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 242005,
       "name": "\u0e2b\u0e27\u0e31\u0e07\u0e27\u0e48\u0e32\u0e08\u0e30\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4x8v9usS4BBpWZVE080Dc2"
@@ -8800,6 +8866,24 @@
       "duration_ms": 174153,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
       "url": "https://open.spotify.com/track/5rbS1DclteKX1kyKiaWOdz"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e43\u0e04\u0e23",
+        "url": "https://open.spotify.com/album/7EYHtKsFk55AzgFkiKNTeV"
+      },
+      "artists": [
+        {
+          "name": "PEE CLOCK",
+          "url": "https://open.spotify.com/artist/6cSZFqw3uA0BoCchNwEXZd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/0e9dJ3S5EMxTyMtBZdz3z2"
     },
     {
       "album": {

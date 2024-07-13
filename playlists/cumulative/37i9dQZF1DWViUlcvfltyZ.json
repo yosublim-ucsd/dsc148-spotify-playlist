@@ -5368,7 +5368,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155031,
       "name": "Estate disperata",
       "url": "https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr"
@@ -7344,6 +7344,24 @@
       "duration_ms": 122595,
       "name": "Holobiont",
       "url": "https://open.spotify.com/track/06ZetzKuRbym6iYX0uPcKI"
+    },
+    {
+      "album": {
+        "name": "Holymates",
+        "url": "https://open.spotify.com/album/2Ti2SNM93nktD2cJIuAXXc"
+      },
+      "artists": [
+        {
+          "name": "DISQUIETED BY",
+          "url": "https://open.spotify.com/artist/3nw6fswvwRK1KDcsP2kW9m"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186900,
+      "name": "Holymates",
+      "url": "https://open.spotify.com/track/0xAsmOF7QbZLjEamTQnWU3"
     },
     {
       "album": {

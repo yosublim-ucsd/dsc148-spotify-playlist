@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: James Blake & Lil Yachty",
+  "description": "Genre-less. Quality first always. Cover: Moses Sumney",
   "name": "POLLEN",
   "tracks": [
     {
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219258,
       "name": "All You Can Do Is Try (Bella Boo Remix)",
       "url": "https://open.spotify.com/track/1GPQcQ8F7DlZQ6dTBhP2cP"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 196516,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 237892,
       "name": "blindfold",
       "url": "https://open.spotify.com/track/3ugFBkzWvMJCyABzk5vS7l"
@@ -7073,6 +7073,24 @@
     },
     {
       "album": {
+        "name": "blush",
+        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106222,
+      "name": "bruce willisss",
+      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
+    },
+    {
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -7662,6 +7680,24 @@
       "duration_ms": 211945,
       "name": "Call",
       "url": "https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2"
+    },
+    {
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182240,
+      "name": "Call It Love - Edit",
+      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "album": {
@@ -10251,6 +10287,24 @@
     },
     {
       "album": {
+        "name": "Macro",
+        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239786,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
+    },
+    {
+      "album": {
         "name": "Things Don't Always Go The Way You Plan",
         "url": "https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n"
       },
@@ -11098,7 +11152,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 230936,
       "name": "dangerous game",
       "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
@@ -18043,6 +18097,24 @@
     },
     {
       "album": {
+        "name": "give me a reason",
+        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159327,
+      "name": "give me a reason",
+      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
+    },
+    {
+      "album": {
         "name": "Give Me Another Chance",
         "url": "https://open.spotify.com/album/5yx7wIgtaRSBhzcu3vbrV6"
       },
@@ -18308,6 +18380,24 @@
       "duration_ms": 141748,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/5DHbdBObeYTJrjd2qRSGnL"
+    },
+    {
+      "album": {
+        "name": "Gold Coast",
+        "url": "https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB"
     },
     {
       "album": {
@@ -19957,6 +20047,24 @@
     },
     {
       "album": {
+        "name": "Can You Hear Me Dreaming?",
+        "url": "https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222980,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1WkYI0DxUqXKFqTayA8897"
+    },
+    {
+      "album": {
         "name": "R&B?",
         "url": "https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz"
       },
@@ -19972,6 +20080,32 @@
       "duration_ms": 179439,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0dTP1GvdwEb3MXHks8qbYa"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Lev",
+          "url": "https://open.spotify.com/artist/534mPnx4yc2nDRE2M8xPzn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/67RloP5xniak0DT4jXwxX0"
     },
     {
       "album": {
@@ -20864,7 +20998,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
@@ -21945,6 +22079,28 @@
     },
     {
       "album": {
+        "name": "I Just Can't Be Alone (with Billy Lemos)",
+        "url": "https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160062,
+      "name": "I Just Can't Be Alone (with Billy Lemos)",
+      "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
+    },
+    {
+      "album": {
         "name": "I Just Want To Wake Up With You",
         "url": "https://open.spotify.com/album/4kgN9BT3xXwqohp9IRpr1d"
       },
@@ -22524,6 +22680,24 @@
       "duration_ms": 181009,
       "name": "I'm Pressed",
       "url": "https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o"
+    },
+    {
+      "album": {
+        "name": "i'm so tired",
+        "url": "https://open.spotify.com/album/2jBv5T0o3KtwOgWEvBz9Nk"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "i'm so tired",
+      "url": "https://open.spotify.com/track/4p3KnnHKwXk0x9Yv5gHrx6"
     },
     {
       "album": {
@@ -26137,6 +26311,24 @@
     },
     {
       "album": {
+        "name": "Maybe In Another Life",
+        "url": "https://open.spotify.com/album/06eUuvfojvijkzWKr8uxLL"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170194,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/54BP8ZcpMY2FiNlrwWMHXe"
+    },
+    {
+      "album": {
         "name": "Lexicon",
         "url": "https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N"
       },
@@ -28703,6 +28895,24 @@
     },
     {
       "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/3jx04kCoe1V9ogqoXLNs8g"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/3MSL42Ay6qoGALjrIacm4L"
+    },
+    {
+      "album": {
         "name": "Mascarade (feat. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2"
       },
@@ -30552,6 +30762,28 @@
       "duration_ms": 197889,
       "name": "My Gemini",
       "url": "https://open.spotify.com/track/138p1RBrDR4rXU9f3Wo3Da"
+    },
+    {
+      "album": {
+        "name": "Posse EP Volume 2",
+        "url": "https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255428,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
     },
     {
       "album": {
@@ -35138,7 +35370,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 142456,
       "name": "Police Scanner",
       "url": "https://open.spotify.com/track/2M8VHnYfCGxS0DDA8n0yXX"
@@ -41726,7 +41958,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168510,
       "name": "Stacy's Chips",
       "url": "https://open.spotify.com/track/3vKvc3L1fq3mtAcJV8zdCd"
@@ -44498,7 +44730,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 236293,
       "name": "The Bug",
       "url": "https://open.spotify.com/track/381x0Ox55JwTU6QTENUWkI"
@@ -45312,6 +45544,24 @@
       "duration_ms": 194946,
       "name": "The Warning",
       "url": "https://open.spotify.com/track/7fsKKCAfAsgbmEZs9r8pAS"
+    },
+    {
+      "album": {
+        "name": "Signs of Romance",
+        "url": "https://open.spotify.com/album/2SKQxaocHjM6dXerK1wJYn"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Then Close Your Eyes",
+      "url": "https://open.spotify.com/track/5itTAsIxbBrRdr7ljA3KEC"
     },
     {
       "album": {
@@ -46550,7 +46800,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 147020,
       "name": "Turn it up",
       "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
@@ -47310,7 +47560,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
@@ -48534,7 +48784,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 164475,
       "name": "Weak - Mav's Version",
       "url": "https://open.spotify.com/track/3j6Zfk3H6v9IO6r48YdKVo"
@@ -49158,7 +49408,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189422,
       "name": "When Ur Near - Edit",
       "url": "https://open.spotify.com/track/1CNm0rxrvh3J32GAZ1F8A5"
@@ -50454,7 +50704,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 215823,
       "name": "Workin\u2019 On It",
       "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"

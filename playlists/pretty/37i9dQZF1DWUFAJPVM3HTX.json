@@ -1,12 +1,12 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=uw8Pr4YUQSiftuVfDdkfWA\">Kenji</a>. Updates every Wednesday.",
-  "num_followers": 243982,
+  "num_followers": 244045,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo7bRwAAAABNhonOr4zYtF6ZzbzTkCQf",
+  "snapshot_id": "ZpDRdgAAAAAjeT2vAHmzzV/mtq6Cc4zt",
   "tracks": [
     {
       "added_at": "2024-07-10 19:04:39",
@@ -23,6 +23,22 @@
       "duration_ms": 232258,
       "name": "salma",
       "url": "https://open.spotify.com/track/0BY7J3wneD0hjvKWkSuGvL"
+    },
+    {
+      "added_at": "2024-07-12 06:47:18",
+      "album": {
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/2Jwd2qYafsTWEGMpC1KvRT"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/0LUMUysFT7uH7fI8dTt7uw"
     },
     {
       "added_at": "2024-07-10 19:04:39",
@@ -45,6 +61,26 @@
       "url": "https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId"
     },
     {
+      "added_at": "2024-07-12 06:47:18",
+      "album": {
+        "name": "Don't Wanna Let You Down",
+        "url": "https://open.spotify.com/album/5O8QsJ9KSgaUtrTnSlyvO2"
+      },
+      "artists": [
+        {
+          "name": "omoid\u00e9",
+          "url": "https://open.spotify.com/artist/4WK8Uiyh2rcYNK0ktKvBaL"
+        },
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "duration_ms": 220661,
+      "name": "Don't Wanna Let You Down",
+      "url": "https://open.spotify.com/track/1znS1Nb3cRFg8UKHvbQaaY"
+    },
+    {
       "added_at": "2024-07-10 19:04:39",
       "album": {
         "name": "callmepretty",
@@ -59,6 +95,22 @@
       "duration_ms": 110750,
       "name": "callmepretty",
       "url": "https://open.spotify.com/track/4J797axvbOfmcYylSrrmK7"
+    },
+    {
+      "added_at": "2024-07-12 06:47:18",
+      "album": {
+        "name": "today",
+        "url": "https://open.spotify.com/album/0PKvX5TqcrWwadnfGDWe2r"
+      },
+      "artists": [
+        {
+          "name": "Kelz2busy",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "duration_ms": 95432,
+      "name": "today",
+      "url": "https://open.spotify.com/track/3CeObtgyBu5kGWo3T8QDxn"
     },
     {
       "added_at": "2024-07-10 19:04:39",
@@ -85,40 +137,24 @@
       "url": "https://open.spotify.com/track/7apSdTerXduqtHOqOc2WtW"
     },
     {
-      "added_at": "2024-07-10 19:04:39",
+      "added_at": "2024-07-12 06:47:18",
       "album": {
-        "name": "wicked foos (demo)",
-        "url": "https://open.spotify.com/album/4z7uVHzhnzymjZwXzSE4DO"
+        "name": "carla's revenge (feat. Shantel May)",
+        "url": "https://open.spotify.com/album/7wxgEC7JL2A5UZnxW2f4Mv"
       },
       "artists": [
         {
-          "name": "Carter Ace",
-          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
-        }
-      ],
-      "duration_ms": 87692,
-      "name": "wicked foos - demo",
-      "url": "https://open.spotify.com/track/7erx0h8RYTkoPaqos7mKcF"
-    },
-    {
-      "added_at": "2024-07-10 19:04:39",
-      "album": {
-        "name": "Cali Nights",
-        "url": "https://open.spotify.com/album/1wno0B0nc2eK6NwW0mUNO4"
-      },
-      "artists": [
-        {
-          "name": "Iceje",
-          "url": "https://open.spotify.com/artist/3RmldMFNL7H3Upru0b0ZM6"
+          "name": "IX WULF",
+          "url": "https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2"
         },
         {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Cali Nights",
-      "url": "https://open.spotify.com/track/6ExuqS8PeeMT1NdzCJ3K0O"
+      "duration_ms": 187075,
+      "name": "carla's revenge (feat. Shantel May)",
+      "url": "https://open.spotify.com/track/4siTPKthioqW6tOBC0l7AS"
     },
     {
       "added_at": "2024-07-10 19:04:39",
@@ -139,6 +175,58 @@
       "duration_ms": 167307,
       "name": "#YMDLLAA",
       "url": "https://open.spotify.com/track/4yhtnjNTHwX87tqSlYFuRV"
+    },
+    {
+      "added_at": "2024-07-10 19:04:39",
+      "album": {
+        "name": "wicked foos (demo)",
+        "url": "https://open.spotify.com/album/4z7uVHzhnzymjZwXzSE4DO"
+      },
+      "artists": [
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "duration_ms": 87692,
+      "name": "wicked foos - demo",
+      "url": "https://open.spotify.com/track/7erx0h8RYTkoPaqos7mKcF"
+    },
+    {
+      "added_at": "2024-07-12 06:47:18",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/0xWBvhAqMlx1VLn5T3XpS2"
+      },
+      "artists": [
+        {
+          "name": "sectiontoo",
+          "url": "https://open.spotify.com/artist/3AfDFNOpXAPEPlFFrBMOL3"
+        }
+      ],
+      "duration_ms": 128470,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/74aJCk11WJPLCFagSoBkod"
+    },
+    {
+      "added_at": "2024-07-10 19:04:39",
+      "album": {
+        "name": "Cali Nights",
+        "url": "https://open.spotify.com/album/1wno0B0nc2eK6NwW0mUNO4"
+      },
+      "artists": [
+        {
+          "name": "Iceje",
+          "url": "https://open.spotify.com/artist/3RmldMFNL7H3Upru0b0ZM6"
+        },
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Cali Nights",
+      "url": "https://open.spotify.com/track/6ExuqS8PeeMT1NdzCJ3K0O"
     },
     {
       "added_at": "2024-07-10 19:04:39",

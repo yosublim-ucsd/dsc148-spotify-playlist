@@ -1,6 +1,6 @@
 {
   "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:2fLOBc2u4ihUBpfqumia4k\">Zagi</a>,  <a href=\"spotify:artist:76lCUlBvj6ZyMbohoYSlaX\">Magda Szczebiot</a>, <a href=\"spotify:artist:6tow0VqHl4rZK7jZg77bSK\">Agnieszka Pokorska</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
-  "num_followers": 24603,
+  "num_followers": 24606,
   "original_name": "Fresh Finds Polska",
   "owner": {
     "name": "Spotify",
@@ -56,6 +56,10 @@
       },
       "artists": [
         {
+          "name": "SPECTROOM",
+          "url": "https://open.spotify.com/artist/5tUarpmY1IXfl21I83E2be"
+        },
+        {
           "name": "FERBI",
           "url": "https://open.spotify.com/artist/1nItIOHyYmpdNK6exWstp8"
         },
@@ -70,10 +74,6 @@
         {
           "name": "Hensiv",
           "url": "https://open.spotify.com/artist/5ciG9jQiln3bgkwnzA5AI4"
-        },
-        {
-          "name": "SPECTROOM",
-          "url": "https://open.spotify.com/artist/5tUarpmY1IXfl21I83E2be"
         }
       ],
       "duration_ms": 156923,

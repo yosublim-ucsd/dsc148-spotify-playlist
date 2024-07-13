@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 67005,
+  "num_followers": 67017,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Kawalerka",
-        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
-      },
-      "artists": [
-        {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "Kawalerka",
+        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
+      },
+      "artists": [
+        {
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
     },
     {
       "added_at": "2024-07-05 15:39:09",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
         "name": "Nie k\u0142am \u017ce mnie kochasz",
         "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 186026,
       "name": "Nie k\u0142am \u017ce mnie kochasz",
       "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2024-07-05 15:39:09",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Kayah & Bregovic",
-        "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
+        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
       },
       "artists": [
         {
-          "name": "Kayah",
-          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
-        },
-        {
-          "name": "Goran Bregovi\u0107",
-          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
         }
       ],
-      "duration_ms": 271760,
-      "name": "\u015apij Kochanie \u015apij",
-      "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
+      "duration_ms": 157837,
+      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
     },
     {
       "added_at": "2024-07-05 15:39:09",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
+        "name": "Kayah & Bregovic",
+        "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
       },
       "artists": [
         {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+          "name": "Kayah",
+          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
+        },
+        {
+          "name": "Goran Bregovi\u0107",
+          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
         }
       ],
-      "duration_ms": 157837,
-      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
+      "duration_ms": 271760,
+      "name": "\u015apij Kochanie \u015apij",
+      "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
     },
     {
       "added_at": "2024-07-05 15:39:09",

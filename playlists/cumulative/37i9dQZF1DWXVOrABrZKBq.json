@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Rowjay",
+  "description": "Le rap francophone est en forme. Photo: UZI",
   "name": "Connexion Rap",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189618,
       "name": "AKRAPO 7",
       "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 160306,
       "name": "BALLE DANS LE COEUR",
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
@@ -278,6 +278,24 @@
       "duration_ms": 192333,
       "name": "Bando",
       "url": "https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl"
+    },
+    {
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227211,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
     },
     {
       "album": {
@@ -490,7 +508,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167641,
       "name": "BUSINESS CLASS",
       "url": "https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1"
@@ -811,6 +829,42 @@
     },
     {
       "album": {
+        "name": "Conscious Rapper",
+        "url": "https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214442,
+      "name": "Conscious Rapper",
+      "url": "https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129153,
+      "name": "CRF - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
+    },
+    {
+      "album": {
         "name": "Croise les doigts",
         "url": "https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t"
       },
@@ -954,7 +1008,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 197116,
       "name": "DEMB\u00c9L\u00c9",
       "url": "https://open.spotify.com/track/7znhCvyqxCEUPFutuLM6jR"
@@ -1023,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178401,
+      "name": "Dolce Camara",
+      "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
+    },
+    {
+      "album": {
         "name": "LA VIE RAPIDE",
         "url": "https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI"
       },
@@ -1060,6 +1136,24 @@
       "duration_ms": 168195,
       "name": "Double vision",
       "url": "https://open.spotify.com/track/5b8ejMaA6qpep9IdAS2EKe"
+    },
+    {
+      "album": {
+        "name": "Dougie",
+        "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
+      },
+      "artists": [
+        {
+          "name": "K2S",
+          "url": "https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Dougie",
+      "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
     },
     {
       "album": {
@@ -1361,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "SUR LE CHEMIN (Phase 2)",
+        "url": "https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "GARS DU ZOO",
+      "url": "https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf"
+    },
+    {
+      "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP"
       },
@@ -1646,7 +1758,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189545,
       "name": "J'Fonce",
       "url": "https://open.spotify.com/track/2HondNQ2pnnAYxRrWUDezm"
@@ -1980,7 +2092,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170413,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/0uXABzWpeGIziTD0Sliozg"
@@ -2144,7 +2256,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 152645,
       "name": "MONNAIE",
       "url": "https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg"
@@ -2368,6 +2480,28 @@
       "duration_ms": 193070,
       "name": "Oseille Des Francs-Ma\u00e7ons",
       "url": "https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN"
+    },
+    {
+      "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
       "album": {
@@ -2608,7 +2742,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 203368,
       "name": "Prot\u00e9ger et Servir",
       "url": "https://open.spotify.com/track/3CsD5Pl7fVItNzxuQ5rwYm"
@@ -3177,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "TELLEMENT",
+      "url": "https://open.spotify.com/track/2IRPBtxyymzRVZ069OkTZQ"
+    },
+    {
+      "album": {
         "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
       },
@@ -3403,6 +3559,32 @@
     },
     {
       "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Vrais salauds (feat. Gazo & Kore)",
+      "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -3556,7 +3738,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 169881,
       "name": "\u16b7. INSPIR\u00c9 DE FAITS R\u00c9ELS #6",
       "url": "https://open.spotify.com/track/0QqP2jJFb8RhGjugYSbFxf"

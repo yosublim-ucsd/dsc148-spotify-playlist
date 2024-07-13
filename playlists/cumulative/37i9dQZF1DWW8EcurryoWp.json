@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2000SEVEN",
+        "url": "https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161352,
+      "name": "2000SEVEN",
+      "url": "https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy"
+    },
+    {
+      "album": {
         "name": "a dream like that",
         "url": "https://open.spotify.com/album/6kALorGtrDcXAh09rHCFzk"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 238906,
       "name": "Baked Cheesecake",
       "url": "https://open.spotify.com/track/2f9blujS4WOKvmQ50k2TqU"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 216405,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/541LlFMbD7senXbFuf58mN"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211829,
       "name": "Camera Shy",
       "url": "https://open.spotify.com/track/2C1JgukgvDi86aODDZrSp2"
@@ -416,6 +434,24 @@
       "duration_ms": 225683,
       "name": "Fish",
       "url": "https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl"
+    },
+    {
+      "album": {
+        "name": "When Night Turns Into Day",
+        "url": "https://open.spotify.com/album/0MZ205dvlIc7j8QYpikurE"
+      },
+      "artists": [
+        {
+          "name": "Telebox",
+          "url": "https://open.spotify.com/artist/2WUhMmMOwEArxH5zseJz2s"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Following the Night",
+      "url": "https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy"
     },
     {
       "album": {
@@ -666,6 +702,24 @@
       "duration_ms": 261984,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/0cTIMuTfgEHWfyb3ZDNv0P"
+    },
+    {
+      "album": {
+        "name": "I Sobbingly Beg For Somebody To Know Me",
+        "url": "https://open.spotify.com/album/5kmiFZ6mqTJXzCvD9HwR59"
+      },
+      "artists": [
+        {
+          "name": "Amphigory",
+          "url": "https://open.spotify.com/artist/07i7WBXmO96RPjcPqtxG0D"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234125,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/60WMnp10PEgJifKRHZ5NUb"
     },
     {
       "album": {

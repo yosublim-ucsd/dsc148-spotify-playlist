@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: John Summit &amp; Kaskade
 
-210 songs - 11 hr 4 min
+213 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-10-27 |  |
 | [Ecstasy](https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:19 | 2023-10-27 | 2024-05-13 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-10-27 |  |
+| [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 | 2024-07-12 |  |
 | [EX EX EX \(Whoops\)](https://open.spotify.com/track/2RzCQnxjPUTycRgUp1sZCm) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:23 | 2023-10-27 |  |
 | [Fade Away](https://open.spotify.com/track/34oeP18McHOZnAyigk6LZl) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Fade Away](https://open.spotify.com/album/19TAs7mYNcz1OMjAQcY0sk) | 2:58 | 2024-02-16 |  |
 | [Feel](https://open.spotify.com/track/2VhiDHhgFx6hKhgGB6sRLH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 03 + 04](https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW) | 3:15 | 2024-06-14 |  |
@@ -97,6 +98,7 @@
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-10-27 |  |
 | [Hypnotize](https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Hypnotize EP](https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu) | 2:33 | 2024-05-10 |  |
 | [I Don't Wanna Work](https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [I Don't Wanna Work](https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ) | 2:35 | 2023-10-27 | 2023-11-25 |
+| [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 | 2024-07-12 |  |
 | [I'm My Only Friend \(feat\. Arden Jones\)](https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [I'm My Only Friend](https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz) | 3:12 | 2023-10-27 | 2023-11-25 |
 | [idwtwya](https://open.spotify.com/track/0xYF2Wq1PPIPG0hhNPOcef) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [idwtwya](https://open.spotify.com/album/6FDMavTlbAF69v2L8jEvbj) | 3:12 | 2024-06-28 |  |
 | [If U Need It](https://open.spotify.com/track/0xfaCHwtlu4xXZO9x3Axen) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 2:59 | 2024-02-02 |  |
@@ -193,6 +195,7 @@
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2024-02-20 |  |
 | [Take My Soul](https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Days Before Grace](https://open.spotify.com/album/6Hkf54OpfrK7PGlab7OB1J) | 5:01 | 2023-10-27 | 2024-05-13 |
 | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/album/2H3ydFTmEuRxYfDjGZVHh0) | 2:32 | 2023-10-27 | 2024-02-27 |
+| [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2024-07-12 |  |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 |  |
 | [The Box](https://open.spotify.com/track/0iWXA5HTkEVfIhOUS9dMUI) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [The Box](https://open.spotify.com/album/3eTsXqycvOk2j4STUhDJ2A) | 3:41 | 2024-06-14 |  |
 | [The Morning Sun](https://open.spotify.com/track/5j3c3iXhV0JVI6wz6iJXI8) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Morning Sun](https://open.spotify.com/album/2tSKHQyNzJS8TCb0jZpq6h) | 2:34 | 2024-06-25 |  |

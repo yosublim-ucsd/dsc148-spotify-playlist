@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-433 songs - 1 day 2 hr 16 min
+434 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Feel My Soul](https://open.spotify.com/track/4DZ245N8mr2TWSfvn3mzpy) | [Danny Toeman](https://open.spotify.com/artist/7xp92niYNUvO0DIRmSQRuD) | [Feel My Soul](https://open.spotify.com/album/1Rpqs8oBSQbHZBxSLvgFFT) | 4:26 | 2022-09-23 | 2022-10-08 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 | 2023-02-18 |
 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 | 2022-02-04 | 2024-01-20 |
-| [Fill My Cup](https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Fill My Cup](https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ) | 3:48 | 2024-06-07 |  |
+| [Fill My Cup](https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Fill My Cup](https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ) | 3:48 | 2024-06-07 | 2024-07-13 |
 | [Fire](https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 | 2021-07-09 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2021-07-09 | 2023-10-28 |
 | [Fire](https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Fire](https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV) | 4:29 | 2022-07-01 | 2023-03-18 |
@@ -328,6 +328,7 @@
 | [Sentimental Fool](https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/1mvLDGAm4xagW3SX03mCNq) | 3:05 | 2022-08-19 | 2022-08-27 |
 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 | 2024-01-19 |  |
 | [Shake Shake](https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Voli Contra](https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM) | [Shake Shake](https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B) | 2:25 | 2023-06-30 | 2023-08-26 |
+| [Sharpen Your Shovel](https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/6C8U1GaZoEocQR4CqvW9SK) | 2:58 | 2024-07-12 |  |
 | [Shinin'](https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Shinin'](https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4) | 2:57 | 2023-06-02 |  |
 | [Shy](https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2021-07-09 | 2023-02-18 |
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2021-07-09 | 2022-07-26 |

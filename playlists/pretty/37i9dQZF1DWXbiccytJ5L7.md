@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,951 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,052 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 29 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 |
 | 30 | [All The Girls Wanna Ride](https://open.spotify.com/track/4u4JqBap9AgXwHMH90pKTl) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Kuntry](https://open.spotify.com/album/6EquuFDUflWCLiB6Rc6dsE) | 3:25 |
 | 31 | [Kuntry Till I Die](https://open.spotify.com/track/3KXgEbDeVZc8AeOKQkt7hw) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Kuntry Till I Die](https://open.spotify.com/album/5UphQrCEMtGP9d2jTDbl02) | 4:02 |
-| 32 | [Runaway Train](https://open.spotify.com/track/39T5oAenSW23lsJT41u8VP) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Runaway Train](https://open.spotify.com/album/00GNobeHKDEOYXXkXxGwl5) | 3:15 |
-| 33 | [Chop An Axe](https://open.spotify.com/track/7GtRhC9Akk38hpP1aiyfr6) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Chop An Axe](https://open.spotify.com/album/7xF5E4uHp1lOUXJFdTcBrb) | 2:33 |
+| 32 | [Chop An Axe](https://open.spotify.com/track/7GtRhC9Akk38hpP1aiyfr6) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Chop An Axe](https://open.spotify.com/album/7xF5E4uHp1lOUXJFdTcBrb) | 2:33 |
+| 33 | [Never That](https://open.spotify.com/track/2j30qP3L1KxCsShuiRJrqz) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Never That](https://open.spotify.com/album/0Zm7fPy6VYKbwcx67wWCry) | 2:57 |
 | 34 | [Dirt Road Dollars \(feat\. Nate Kenyon\)](https://open.spotify.com/track/2gzZn5WD5Tb2uOLDw41eGi) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Dirt Road Dollars \(feat\. Nate Kenyon\)](https://open.spotify.com/album/4HFhm6f269FUupuUAyFmDr) | 4:38 |
 | 35 | [Southern Son Rising](https://open.spotify.com/track/1mxC7Co5LM1WgRoHasWT3l) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [JJ & Sissy](https://open.spotify.com/artist/57bzCuijw6UJJWH8X4MIBq) | [Southern Son Rising](https://open.spotify.com/album/5XGvXPGOcXITUh8TGfopVw) | 2:50 |
 | 36 | [Hill Billy](https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Jeremy Crews](https://open.spotify.com/artist/0IGDqrNOOGsVtgZphF4lAK) | [Hill Billy](https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC) | 3:35 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 98 | [Ride 4 Me](https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/0GikiFDQpTLKZ6ytl4zms0) | 3:12 |
 | 99 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `ZohfLwAAAAAX4QLPDfj4WVnmLo2xUTeo`
+Snapshot ID: `ZpCqQAAAAAAyjwt2YcpVT5V7fUaLH8zT`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is La Receta. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 26015,
+  "description": "This is La Receta. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 26092,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAAAMkja29bUSL9s+fa4qhlqN",
+  "snapshot_id": "Zo8ggAAAAABiQzKQX9QyB8lEMK/FS4JF",
   "tracks": [
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mauricio MG",
-        "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         }
       ],
-      "duration_ms": 155746,
-      "name": "Mauricio MG",
-      "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
+      "duration_ms": 158733,
+      "name": "El Sombero De Lado",
+      "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
     },
     {
       "added_at": null,
@@ -883,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+        "name": "Mauricio MG",
+        "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         }
       ],
-      "duration_ms": 158733,
-      "name": "El Sombero De Lado",
-      "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
+      "duration_ms": 155746,
+      "name": "Mauricio MG",
+      "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
     },
     {
       "added_at": null,

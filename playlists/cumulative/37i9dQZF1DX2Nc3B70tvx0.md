@@ -2,9 +2,9 @@
 
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> The best in modern indie\. Cover: Still Woozy
+> The best in modern indie\. Cover: Remi Wolf
 
-2,299 songs - 5 day 17 hr 57 min
+2,306 songs - 5 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [Flip Phones](https://open.spotify.com/track/2AOQZ47E5vdoCG2ACZIi6c) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [win'20](https://open.spotify.com/album/7HxeuvcM84U4sWEtOSlePG) | 3:31 | 2020-02-28 | 2020-07-24 |
 | [Float Away](https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Float Away](https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe) | 3:06 | 2023-08-11 | 2023-09-02 |
 | [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 | 2024-02-09 | 2024-04-12 |
+| [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-12 |  |
 | [Flood](https://open.spotify.com/track/0GN6R2MTtwVtaWNNFAIIFu) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flood](https://open.spotify.com/album/4gB7kUlROQjAwyLzB9i7q8) | 2:57 | 2020-07-03 | 2020-12-04 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-09-02 | 2022-04-21 |
 | [Flowers](https://open.spotify.com/track/29sQdO0XyF2fkdvbvmx8G0) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Flowers](https://open.spotify.com/album/3n2Lm7DjOxSL43kAREcP0x) | 4:57 | 2019-05-26\* | 2019-08-16 |
@@ -1049,6 +1050,7 @@
 | [it's not me \(it's u\)](https://open.spotify.com/track/0X6onE002e0PuXSdVZmlDF) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [it's not me \(it's u\)](https://open.spotify.com/album/0HjYqaRHjEG0SioDj6W0hx) | 3:40 | 2023-02-10 | 2023-02-17 |
 | [It's Random](https://open.spotify.com/track/3gaerxLTSaKc8miymFRkVA) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [It's Random](https://open.spotify.com/album/2Y4v8He65mQHczvIzanV2W) | 2:24 | 2022-03-10 | 2022-07-19 |
 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 | 2022-10-14 | 2022-11-12 |
+| [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 | 2024-07-12 |  |
 | [It’s All In Your Mind](https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 4:38 | 2024-06-21 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-10-27 | 2023-02-11 |
 | [Jacket](https://open.spotify.com/track/2tIhAgXNwBbjmvn3hkYXat) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Plunge](https://open.spotify.com/album/6ZJWVfBCtZ7AdLMzzaazux) | 3:11 | 2024-03-28 | 2024-05-18 |
@@ -1500,6 +1502,7 @@
 | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/album/2xMIyNXGHO2RJLtcZqnMVn) | 2:44 | 2024-05-03 | 2024-06-07 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-03-03 | 2023-08-18 |
 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 | 2022-03-18 | 2022-04-19 |
+| [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-12 |  |
 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 | 2021-03-08 | 2021-09-03 |
 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 | 2024-01-19 | 2024-04-06 |
 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-11-10 | 2022-05-21 |
@@ -1831,6 +1834,7 @@
 | [Sorry Instead](https://open.spotify.com/track/5rHD6gnDX7pyBiS5AuRMwT) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody \(Deluxe\)](https://open.spotify.com/album/3VHJ9vMV6k9gSxbI1yPPFz) | 3:19 | 2023-02-17 | 2023-03-18 |
 | [soshy](https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [soshy](https://open.spotify.com/album/0It6cwMGugiHHtmLTjmoju) | 2:56 | 2021-10-11 | 2021-10-12 |
 | [Soul Smile](https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Soul Smile](https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N) | 4:09 | 2023-01-27 | 2023-02-25 |
+| [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-07-12 |  |
 | [Southern Sky](https://open.spotify.com/track/3ijBnsYKZ71OuUOEkrEXbl) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Southern Sky](https://open.spotify.com/album/08T5CUnlygrwS5M7AWcn4C) | 3:12 | 2019-08-23 | 2019-09-27 |
 | [Southwark](https://open.spotify.com/track/3bd1O7MfS4Rb8vN75n9N95) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Southwark](https://open.spotify.com/album/2699ypm810TH1wlzRo3LJb) | 3:22 | 2020-03-06 | 2020-10-13 |
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-05 | 2023-06-23 |
@@ -2095,6 +2099,7 @@
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-28 | 2024-04-19 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-28 |  |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-28 | 2024-03-31 |
+| [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 | 2024-07-12 |  |
 | [Took A Fall](https://open.spotify.com/track/4TyeyVjCW0iwgvW59nShYA) | [Golden Daze](https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn) | [Took A Fall](https://open.spotify.com/album/4WOFyIAuVlijkvRqqJK5fa) | 3:17 | 2019-05-26\* | 2019-08-13 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-06-22 |
 | [Touch](https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:52 | 2019-11-01 | 2020-05-15 |
@@ -2188,6 +2193,7 @@
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-16 | 2020-04-03 |
 | [Waste Your Time](https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Waste Your Time](https://open.spotify.com/album/128amSWTlex39AOupLETx0) | 3:28 | 2022-07-29 | 2022-08-12 |
 | [Wasted](https://open.spotify.com/track/01EZT06EIdnVOLl96Parta) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Wasted](https://open.spotify.com/album/2L78qBH9kCRwbX4o6rPpWs) | 2:29 | 2020-09-04 | 2021-03-24 |
+| [Wasted \(YTYKS\)](https://open.spotify.com/track/2qSAQ9xQDQUgNduZU4IXbt) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Wasted \(YTYKS\)](https://open.spotify.com/album/7e5MyGbbCFILWzac4BVPAv) | 4:15 | 2024-07-12 |  |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-08 | 2023-12-09 |
 | [Wasted Time](https://open.spotify.com/track/0rlonE9cFsQJUofKngLbzk) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/7dC882FIaYsSL0Xr8IWOZY) | 3:05 | 2019-10-19 | 2020-03-14 |
 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 | 2023-07-21 | 2023-08-02 |
@@ -2271,6 +2277,7 @@
 | [World\_train](https://open.spotify.com/track/6x3xYEa3GbZSSdiuFD29P8) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Affection](https://open.spotify.com/album/41fPjriqD2ycjCAE8TfmuT) | 5:03 | 2024-05-03 |  |
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-02-10 | 2023-05-12 |
 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/3jE1H7U8EFjj8wcYPMtKuY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Write A List of Things To Look Forward To](https://open.spotify.com/album/0Agc23wEgrRlf0CgmZMWxn) | 2:48 | 2021-10-06 | 2022-01-31 |
+| [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-12 |  |
 | [Yards / Gardens](https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Yards / Gardens](https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ) | 2:21 | 2021-11-19 | 2022-04-09 |
 | [Year Of The Spider](https://open.spotify.com/track/5pSTwad8BxVN8nbYggPWmp) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/1wIt68VvP4DjmCztavomtX) | 2:30 | 2021-07-19 | 2022-04-05 |
 | [yellow is the color of her eyes](https://open.spotify.com/track/4D3nttJPU6L0M2epr7sId6) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [yellow is the color of her eyes](https://open.spotify.com/album/47V6znsE4WU8uWXrsXpmhx) | 7:15 | 2019-12-07 | 2020-04-18 |

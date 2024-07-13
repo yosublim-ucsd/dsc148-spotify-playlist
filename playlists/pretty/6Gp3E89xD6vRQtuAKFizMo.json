@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44231,
+  "num_followers": 44230,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZgCnxPQACkW03xTfhz8gXkPgilVWv",
+  "snapshot_id": "AAAZglCYI0h0J+96k9lGPnmHj2deaT2W",
   "tracks": [
+    {
+      "added_at": "2024-07-12 14:21:28",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/7aneBfOjpEOtzBReiowj3u"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 184857,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe"
+    },
+    {
+      "added_at": "2024-07-12 14:21:52",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/258Bb0r7QEzRADEv9r0MSN"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6hgRyyRDRpiEa4eaqfq3nS"
+    },
     {
       "added_at": "2024-07-08 23:44:19",
       "album": {

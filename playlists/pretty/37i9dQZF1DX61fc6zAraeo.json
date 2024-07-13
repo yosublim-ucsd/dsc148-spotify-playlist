@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98837,
+  "num_followers": 98840,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "PEGASUS",
-        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 180462,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Midnight Lover",
         "url": "https://open.spotify.com/album/2idGqa3Qj3PMa1thq4lYZQ"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 123423,
       "name": "Midnight Lover",
       "url": "https://open.spotify.com/track/0waC54U6IPRJws5gPW5LgW"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "PEGASUS",
+        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 180462,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -483,6 +483,34 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "24k Heart Of Gold",
+        "url": "https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 136642,
+      "name": "24k Heart Of Gold",
+      "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Misbehave",
         "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
       },
@@ -535,34 +563,6 @@
       "duration_ms": 132467,
       "name": "Elevate (feat. RANI)",
       "url": "https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "24k Heart Of Gold",
-        "url": "https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 136642,
-      "name": "24k Heart Of Gold",
-      "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Got That",
         "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 206410,
       "name": "The Switch",
       "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 154513,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 149760,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1339,22 +1339,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
       "artists": [
         {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 160400,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1383,26 +1387,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
       },
       "artists": [
         {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
         },
         {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+      "duration_ms": 160400,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg"
-      },
-      "artists": [
-        {
-          "name": "Makasi",
-          "url": "https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6"
-        },
-        {
-          "name": "Dannii Murphy",
-          "url": "https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI"
-        }
-      ],
-      "duration_ms": 214003,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Nothing In Common",
         "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 180000,
       "name": "Nothing In Common",
       "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg"
+      },
+      "artists": [
+        {
+          "name": "Makasi",
+          "url": "https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6"
+        },
+        {
+          "name": "Dannii Murphy",
+          "url": "https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI"
+        }
+      ],
+      "duration_ms": 214003,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
-      },
-      "artists": [
-        {
-          "name": "DJ YUKI",
-          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
-        },
-        {
-          "name": "Kate Wild",
-          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
-        }
-      ],
-      "duration_ms": 170039,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 130491,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/48N52eeLSjB5zJU42Hgefb"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
+      },
+      "artists": [
+        {
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "duration_ms": 170039,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Everytime Next To Me (feat. Robin Bengtsson)",
         "url": "https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 160949,
       "name": "Everytime Next To Me (feat. Robin Bengtsson)",
       "url": "https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
     },
     {
       "added_at": "2024-07-04 22:00:00",

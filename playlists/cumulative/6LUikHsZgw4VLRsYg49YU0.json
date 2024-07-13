@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "album": {
         "name": "Call You Mine (Remixes)",
         "url": "https://open.spotify.com/album/1nqYsOef1yKKuGOVchbsk6"
       },
@@ -884,7 +902,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 241575,
       "name": "first death",
       "url": "https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC"
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 296066,
       "name": "Number One (vocal ver.)",
       "url": "https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 276746,
       "name": "Number One - Bankai",
       "url": "https://open.spotify.com/track/1nThz7yEG2vbyI4UmInj5z"
@@ -2203,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "RISE UP",
+        "url": "https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "RISE UP",
+      "url": "https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe"
+    },
+    {
+      "album": {
         "name": "Rising Hope",
         "url": "https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH"
       },
@@ -2555,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "My Hero Academia: Season 7 (Original Pre-Release Soundtrack)",
+        "url": "https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248493,
+      "name": "STAR AND STRIPE",
+      "url": "https://open.spotify.com/track/0nua09YwX8IHIqIIl4E1oB"
+    },
+    {
+      "album": {
         "name": "STARS",
         "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
       },
@@ -2890,7 +2944,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 183531,
       "name": "U - English Version",
       "url": "https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY"
@@ -3268,7 +3322,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 237913,
       "name": "\u3088\u3075\u304b\u3057\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/0LQs5gRhqJKLOl8fFukRsQ"
@@ -3398,7 +3452,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 259191,
       "name": "\u30b9\u30ab\u30fc",
       "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
@@ -3452,10 +3506,54 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 232706,
       "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
       "url": "https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+        "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
+      },
+      "artists": [
+        {
+          "name": "GEMN",
+          "url": "https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew"
+        },
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        },
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+      "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246223,
+      "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR"
     },
     {
       "album": {
@@ -3474,6 +3572,24 @@
       "duration_ms": 215706,
       "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
+    },
+    {
+      "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230524,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
     },
     {
       "album": {
@@ -3560,7 +3676,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 230666,
       "name": "\u5922\u3067\u9022\u3048\u305f\u3089",
       "url": "https://open.spotify.com/track/6YEEDqbKxnTiSymWyIyn43"
@@ -4058,7 +4174,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 271813,
       "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b",
       "url": "https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP"

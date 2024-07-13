@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Desconsuelo",
+        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
+      },
+      "artists": [
+        {
+          "name": "DOJO",
+          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243126,
+      "name": "Desconsuelo",
+      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
+    },
+    {
+      "album": {
         "name": "Desmotivada",
         "url": "https://open.spotify.com/album/0fuevSufdQPDZTWoyeEu5H"
       },
@@ -1298,6 +1316,42 @@
       "duration_ms": 375107,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/78ZxiCT7pdrtUUIsIxF5xQ"
+    },
+    {
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "album": {
+        "name": "DOSMILUNO",
+        "url": "https://open.spotify.com/album/6uoua1Avho6zNGkzBXYQHP"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248837,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/2enGfhz9AAN3i2ixcNv7ay"
     },
     {
       "album": {
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156333,
       "name": "LATAS",
       "url": "https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m"
@@ -2358,7 +2412,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 121607,
       "name": "Magic Town",
       "url": "https://open.spotify.com/track/6gzSzsdssXUUNEOcGDOxMX"
@@ -2732,7 +2786,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 203792,
       "name": "No Te Perdono",
       "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
@@ -3072,7 +3126,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 148750,
       "name": "Perro Agonizante",
       "url": "https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt"
@@ -3372,6 +3426,24 @@
       "duration_ms": 210266,
       "name": "Regalos",
       "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr"
+      },
+      "artists": [
+        {
+          "name": "La Memoria de Funes",
+          "url": "https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137887,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"
     },
     {
       "album": {

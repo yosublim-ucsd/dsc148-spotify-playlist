@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29733,
+  "num_followers": 29744,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBH0AAAAAA3ysrOfznfx0TjxCXGc+OR",
+  "snapshot_id": "ZpEe1AAAAABGc8H8Cu14UpSNtrDSy5hi",
   "tracks": [
     {
       "added_at": "2024-07-11 21:00:00",
@@ -113,24 +113,20 @@
       "url": "https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09"
     },
     {
-      "added_at": "2024-07-11 21:00:00",
+      "added_at": "2024-07-12 12:17:24",
       "album": {
-        "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd (Live)",
-        "url": "https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu"
+        "name": "\u05e2\u05d5\u05d3 \u05de\u05e9\u05e7\u05d0\u05d5\u05ea \u05d7\u05e8\u05d9\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK"
       },
       "artists": [
         {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Sheygets",
+          "url": "https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8"
         }
       ],
-      "duration_ms": 343074,
-      "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
-      "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
+      "duration_ms": 225700,
+      "name": "5/4",
+      "url": "https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -243,22 +239,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "PC People (feat. ROUSSO)",
-        "url": "https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc"
+        "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd (Live)",
+        "url": "https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu"
       },
       "artists": [
         {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
         },
         {
-          "name": "ROUSSO",
-          "url": "https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 179650,
-      "name": "PC People (feat. ROUSSO)",
-      "url": "https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO"
+      "duration_ms": 343074,
+      "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
+      "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -363,22 +359,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/1CjEqOxmsaPtlm3aVp1tKU"
+        "name": "PC People (feat. ROUSSO)",
+        "url": "https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc"
       },
       "artists": [
         {
-          "name": "Danny Kuttner",
-          "url": "https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         },
         {
-          "name": "Roy Reemy",
-          "url": "https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0"
+          "name": "ROUSSO",
+          "url": "https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb"
         }
       ],
-      "duration_ms": 190776,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/4GUSxRTGJe1nzfadp9dA7V"
+      "duration_ms": 179650,
+      "name": "PC People (feat. ROUSSO)",
+      "url": "https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -399,18 +395,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/1CjEqOxmsaPtlm3aVp1tKU"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Danny Kuttner",
+          "url": "https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH"
+        },
+        {
+          "name": "Roy Reemy",
+          "url": "https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0"
         }
       ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+      "duration_ms": 190776,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/4GUSxRTGJe1nzfadp9dA7V"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -443,6 +443,22 @@
       "duration_ms": 183142,
       "name": "\u05d4\u05d9\u05d0 \u05ea\u05de\u05e9\u05d9\u05da \u05d2\u05dd \u05d1\u05dc\u05e2\u05d3\u05d9\u05da",
       "url": "https://open.spotify.com/track/63MZV8fBPGsf7ub7ZadhpX"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -547,6 +563,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 201004,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
         "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
         "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
       },
@@ -563,22 +595,6 @@
       "duration_ms": 248146,
       "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
       "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 201004,
-      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
-      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/2AYNaul3xaYy6bh4aVaXHE"
-      },
-      "artists": [
-        {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        }
-      ],
-      "duration_ms": 203890,
-      "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
-      "url": "https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
         "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
-      },
-      "artists": [
-        {
-          "name": "Yoni Rechter",
-          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
         "name": "Shot Shot Cherry",
         "url": "https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/2AYNaul3xaYy6bh4aVaXHE"
+      },
+      "artists": [
+        {
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        }
+      ],
+      "duration_ms": 203890,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
+      "url": "https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
         "name": "Until The Morning",
         "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 151719,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
+        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
+      },
+      "artists": [
+        {
+          "name": "Yoni Rechter",
+          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 168923,
-      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
         "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
         "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
       },
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
+        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 168923,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
         "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
         "url": "https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg"
       },
@@ -911,6 +927,34 @@
       "duration_ms": 197100,
       "name": "\u05d0\u05e4\u05d5\u05e7\u05dc\u05d9\u05e4\u05e1\u05d4",
       "url": "https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
+        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        },
+        {
+          "name": "Eder 2 Lipschitz",
+          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
+        },
+        {
+          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
+          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
+        },
+        {
+          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
+          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
+        }
+      ],
+      "duration_ms": 190259,
+      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
+      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -959,22 +1003,18 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "\u05db\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/7lIHyWYs1wRbk1GxAIY7oG"
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
       },
       "artists": [
         {
-          "name": "Boom Pam",
-          "url": "https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J"
-        },
-        {
-          "name": "Shai Tsabari",
-          "url": "https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A"
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
         }
       ],
-      "duration_ms": 223540,
-      "name": "\u05db\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q"
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -999,62 +1039,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "\u05dc\u05d0 \u05dc\u05d1\u05d3",
-        "url": "https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW"
+        "name": "\u05db\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/7lIHyWYs1wRbk1GxAIY7oG"
       },
       "artists": [
         {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        }
-      ],
-      "duration_ms": 240263,
-      "name": "\u05dc\u05d0 \u05dc\u05d1\u05d3",
-      "url": "https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
-        "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+          "name": "Boom Pam",
+          "url": "https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J"
         },
         {
-          "name": "Eder 2 Lipschitz",
-          "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
-        },
-        {
-          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
-          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
-        },
-        {
-          "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
-          "url": "https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s"
+          "name": "Shai Tsabari",
+          "url": "https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A"
         }
       ],
-      "duration_ms": 190259,
-      "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
-        "name": "Petrified",
-        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
-      },
-      "artists": [
-        {
-          "name": "David Lerner",
-          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
-        }
-      ],
-      "duration_ms": 252456,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+      "duration_ms": 223540,
+      "name": "\u05db\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q"
     },
     {
       "added_at": "2024-07-11 21:00:00",

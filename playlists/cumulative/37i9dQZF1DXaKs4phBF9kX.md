@@ -2,7 +2,7 @@
 
 ### [80s Summer Rock](https://open.spotify.com/playlist/37i9dQZF1DXaKs4phBF9kX)
 
-> Rock that was on repeat during the summers of the 1980s.
+> Rock on repeat during the summers of the 1980s.
 
 135 songs - 10 hr 15 min
 

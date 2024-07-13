@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rafaga & Roze Oficial.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: LiL CaKe
 
-542 songs - 1 day 2 hr 51 min
+543 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,9 +270,10 @@
 | [MAL AHÍ](https://open.spotify.com/track/76yC0nTceLTh1wW1NfxoJe) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [MAL AHÍ](https://open.spotify.com/album/5AhhiMMEQ3cRzhcrSxXel6) | 2:20 | 2023-05-12 | 2023-06-10 |
 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 | 2021-12-23 |  |
 | [Mala Mía](https://open.spotify.com/track/7M3TFDbwMlj6pA9LNctVhg) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Los Cachi](https://open.spotify.com/artist/3pM9j6wCNUesLvva2X8cqq), [El Gordo Record](https://open.spotify.com/artist/3FRotmIGShw8layiLtqtQG) | [Mala Mía](https://open.spotify.com/album/71s1Hw4Faib1f5hISDO3wc) | 3:17 | 2022-03-25 | 2022-06-30 |
-| [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2021-12-23 |  |
+| [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2021-12-23 | 2024-07-13 |
 | [Martes 13](https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Martes 13](https://open.spotify.com/album/3W8jFYffyTKJqm6hSQtARd) | 2:17 | 2024-01-12 | 2024-01-27 |
 | [Me Acostumbré \- Remix](https://open.spotify.com/track/4KG46mLezl65EXuLEXg7Jd) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Me Acostumbré \(Remix\)](https://open.spotify.com/album/2rBNq4YGmjA99Br9UiCKAx) | 3:14 | 2024-02-09 | 2024-05-03 |
+| [Me contó un pajarito](https://open.spotify.com/track/77rUZmUBYdHKRlicQcRG5g) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Me contó un pajarito](https://open.spotify.com/album/3Ys048QukYZMG2eopoRrEX) | 2:05 | 2024-07-12 |  |
 | [Me Muero por Besarte](https://open.spotify.com/track/4ySkQDs1dYGvSmbhX1fwvv) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Me Muero por Besarte](https://open.spotify.com/album/6pk9keWjLlXBjXumLetz8L) | 3:32 | 2022-01-03 | 2022-07-09 |
 | [Me Niego a Perderte](https://open.spotify.com/track/6qywqcqskr2WWHlEjgqlz6) | [Modo Avión](https://open.spotify.com/artist/7lDhdRdV3e2zZ9MAEg8kbp) | [Me Niego a Perderte](https://open.spotify.com/album/0NKNUbZdQ49LT0fzPsO1NN) | 2:51 | 2022-01-03 | 2022-06-10 |
 | [Me Rehuso](https://open.spotify.com/track/40LwWoR8KL8tK4JLFiL53j) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [\#ATR](https://open.spotify.com/album/0yfjiOX5Vmg2uZebLzToq3) | 3:14 | 2022-01-03 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist.
+> Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Eminem
 
-1,074 songs - 2 day 4 hr 48 min
+1,076 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Can't Stop](https://open.spotify.com/track/1JR3cLdPWwOuLOKeOEdigw) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Can't Stop](https://open.spotify.com/album/2EIZWvKBNPhezHx8Jovb3q) | 3:25 | 2024-06-13 | 2024-06-21 |
 | [carcassonne](https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [carcassonne](https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku) | 2:11 | 2024-05-30 | 2024-06-07 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-05-30 | 2024-06-07 |
+| [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-11 |  |
 | [Catch Me If You Can](https://open.spotify.com/track/3BPKta7sEofkBwa77Odf5w) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 2:21 | 2024-04-26 | 2024-05-03 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-23 | 2024-06-01 |
 | [CH3RRY \(with N3WYRKLA\)](https://open.spotify.com/track/6xoyoWN5fdxLcq84nKlr57) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [CH3RRY \(with N3WYRKLA\)](https://open.spotify.com/album/2vF7GDeoe5WHov70CdTz05) | 2:57 | 2024-06-13 | 2024-06-21 |
@@ -851,6 +852,7 @@
 | [Soft](https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Soft](https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB) | 5:18 | 2024-05-30 | 2024-06-07 |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-06-13 | 2024-06-21 |
 | [Sombrero](https://open.spotify.com/track/4fsNlfLaFMoOMUSREM44xi) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Sombrero](https://open.spotify.com/album/2jpHZ31k90PXbTGYdx4eeI) | 2:17 | 2024-06-06 | 2024-06-14 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/album/3azyEFtI48wqFlyWHG2Oxe) | 2:37 | 2024-06-20 | 2024-06-28 |
 | [something bout april](https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [something bout april](https://open.spotify.com/album/7rvEikbxxiQLByajEQcKB8) | 2:54 | 2024-07-11 |  |
 | [Sometimes You're Lonely](https://open.spotify.com/track/61Ptc6lATpsHBUwCSG71Ag) | [Leyya](https://open.spotify.com/artist/0uG3hwOGxuGEOAyocfCwfl) | [Sometimes You're Lonely](https://open.spotify.com/album/1SQUz1aHmJqJ3EUmmNcnit) | 3:31 | 2024-05-16 | 2024-05-24 |

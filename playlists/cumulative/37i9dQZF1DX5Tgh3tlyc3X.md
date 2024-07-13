@@ -4,7 +4,7 @@
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-194 songs - 10 hr 0 min
+195 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Hopeful \- Alpha Sinus 64 \- 65,3 hz](https://open.spotify.com/track/57QUXv3pUENQAK1zXb2BKK) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Alpha Sinus](https://open.spotify.com/album/1bKv528U0Z6FgdmFtRUrb9) | 3:30 | 2023-11-24 |  |
 | [Improved Creativity Theta 7Hz](https://open.spotify.com/track/3uh18fpoK2Gdur5MEYNikk) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 3:13 | 2023-11-24 |  |
 | [Lake Views \(Binaural Theta 104 Hz \- 98.5 Hz\)](https://open.spotify.com/track/4JfvAvu2mdZPM1s6d6sSXh) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:27 | 2023-11-24 |  |
+| [Letting Go \(Alpha 104Hz \- 116Hz\)](https://open.spotify.com/track/0AqRTAghz2SxGhhc0l7Z1W) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Letting Go \(Alpha 104Hz \- 116Hz\)](https://open.spotify.com/album/0Ius07yTIgnqsiLbex8fUR) | 2:30 | 2024-07-12 |  |
 | [Lotus \(Theta 198 Hz \- 206 Hz\)](https://open.spotify.com/track/1OTLWciJzBeXHKRycakcPS) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Nearby & Lotus \(Theta Binaural\)](https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu) | 2:48 | 2023-11-24 |  |
 | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/track/5XtTRBtppSEe2x08SonoLd) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/album/4nCsTi83xWcKZr24TQGgzY) | 3:08 | 2024-06-11 |  |
 | [Magma \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/37KxUBZ31TpipzVERTe7cJ) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 5:39 | 2023-11-24 |  |

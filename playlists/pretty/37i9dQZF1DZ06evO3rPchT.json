@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 69121,
+  "num_followers": 69245,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAAAhYmqCzNdYjbvUlsPDgKLc",
+  "snapshot_id": "Zo8ggAAAAADinvvz2F/SkWMjVv98QRwH",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "QUIT!!",
+      "url": "https://open.spotify.com/track/7zMxba1lNupXVlKTIx8b4O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 189153,
       "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
       "url": "https://open.spotify.com/track/0p9RXscosrY9vbQv12ZcLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 167298,
-      "name": "QUIT!!",
-      "url": "https://open.spotify.com/track/7zMxba1lNupXVlKTIx8b4O"
     },
     {
       "added_at": null,
@@ -923,46 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 207298,
-      "name": "I'LL QUIT LOVIN' YOU",
-      "url": "https://open.spotify.com/track/0A0xAsq5n8A3CQufm7JF3v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worst Country Song Of All Time",
-        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "The Worst Country Song Of All Time",
-      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
       },
@@ -979,6 +939,22 @@
       "duration_ms": 171626,
       "name": "Some Things Never Change (feat. HARDY)",
       "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 207298,
+      "name": "I'LL QUIT LOVIN' YOU",
+      "url": "https://open.spotify.com/track/0A0xAsq5n8A3CQufm7JF3v"
     },
     {
       "added_at": null,

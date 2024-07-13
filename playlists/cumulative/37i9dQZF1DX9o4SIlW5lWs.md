@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: La Kuppe & Amar Azul.
 
-443 songs - 1 day 1 hr 25 min
+444 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [APD](https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [APD](https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb) | 2:49 | 2024-05-10 |  |
 | [Así Era Ella](https://open.spotify.com/track/26ykEHxWfZU1UfupwrHp4K) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Así Era Ella](https://open.spotify.com/album/3NdIjdU9Zp7FquEfnZsFtA) | 3:06 | 2023-03-04 | 2023-03-11 |
 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 | 2022-01-14 | 2022-07-29 |
+| [Ay Amor](https://open.spotify.com/track/29czCirGYs1NGXct1ouYLP) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Ay Amor](https://open.spotify.com/album/2aGDw9k4Ma4aeqNqV746rE) | 2:43 | 2024-07-12 |  |
 | [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 | 2022-03-08 | 2023-06-10 |
 | [Bonita y Mentirosa](https://open.spotify.com/track/5nek9u170O2y9lGK9a7uRJ) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Bonita y Mentirosa](https://open.spotify.com/album/0xdNqIKfuVie2xOX827Tmn) | 1:17 | 2022-01-21 | 2022-07-13 |
 | [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 | 2022-01-21 | 2024-06-19 |
@@ -291,7 +292,7 @@
 | [Pideme la Luna](https://open.spotify.com/track/69dck8DkCQr45RNexlWZq0) | [Ke Aparato](https://open.spotify.com/artist/6wIYNVaeKZpSC4asngCp6M), [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Pideme la luna](https://open.spotify.com/album/0O4nyQIKiBo9JaDBzkY94W) | 2:51 | 2023-10-20 | 2023-12-09 |
 | [Piel y Huesos](https://open.spotify.com/track/4xtRpCuA9EHceVZKERguSt) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Piel y Huesos](https://open.spotify.com/album/2Cl7E7XTjxzsYBEiTQqsxw) | 3:18 | 2024-05-10 | 2024-06-22 |
 | [Piensame](https://open.spotify.com/track/3DnSi9XRkcqEOHPaYcMeHr) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Ep N\-Blq 33](https://open.spotify.com/album/5h61fNKIiR3eleB74l8xCv) | 2:57 | 2022-04-01 | 2022-07-14 |
-| [Pienso en Ti](https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Amor, Familia y Respeto](https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71) | 2:54 | 2024-07-05 |  |
+| [Pienso en Ti](https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Amor, Familia y Respeto](https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71) | 2:54 | 2024-07-05 | 2024-07-13 |
 | [Pienso en Ti](https://open.spotify.com/track/1CyNMu6acmjLDN51yaWWap) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [\- 22 \-](https://open.spotify.com/album/5F10xwo7yEThhhBLctvaG1) | 3:12 | 2022-04-01 | 2022-07-06 |
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 | 2022-12-24 |
 | [Por Dios Que No](https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No](https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN) | 2:48 | 2024-01-08 |  |

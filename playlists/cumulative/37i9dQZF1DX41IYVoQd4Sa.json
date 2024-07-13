@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\u05e2\u05d5\u05d3 \u05de\u05e9\u05e7\u05d0\u05d5\u05ea \u05d7\u05e8\u05d9\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK"
+      },
+      "artists": [
+        {
+          "name": "Sheygets",
+          "url": "https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225700,
+      "name": "5/4",
+      "url": "https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z"
+    },
+    {
+      "album": {
         "name": "A Thousand Times",
         "url": "https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 240263,
       "name": "\u05dc\u05d0 \u05dc\u05d1\u05d3",
       "url": "https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i"

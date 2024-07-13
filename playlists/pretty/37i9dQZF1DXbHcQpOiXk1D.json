@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: berlioz",
-  "num_followers": 313653,
+  "num_followers": 313714,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBj8AAAAACZjwm8MkXOvAviIDyfZUUR",
+  "snapshot_id": "ZpD2oQAAAACE5p4hr3UU7A8c1+P6HwYI",
   "tracks": [
     {
       "added_at": "2024-07-11 23:00:00",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
     },
     {
-      "added_at": "2024-07-11 23:00:00",
+      "added_at": "2024-07-12 09:25:53",
       "album": {
-        "name": "The Seer",
-        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/4IgZPrzOS3Cj833Bl8O1Dn"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "Kurtis Li",
+          "url": "https://open.spotify.com/artist/5CE0MYU8KQ7hAGCf6wSj3L"
         }
       ],
-      "duration_ms": 302960,
-      "name": "The Seer",
-      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+      "duration_ms": 325426,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/75php8CsPxI3Gwl7eIr7KW"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 302960,
+      "name": "The Seer",
+      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Freudian Slips",
         "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Black Classical Music",
         "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
       },
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Connla's Well",
         "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "The Colour Purple (Live From Malibu)",
         "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 163226,
       "name": "The Colour Purple - Live From Malibu",
       "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -607,6 +623,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "I\u2019ll Do Whatever You Want",
         "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
       },
@@ -627,22 +659,6 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -735,26 +751,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Messimalism (Above Thought)",
-        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
-      },
-      "artists": [
-        {
-          "name": "Emanative",
-          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
-        },
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 404458,
-      "name": "Messimalism (Above Thought)",
-      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "So Mi Stay",
         "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
       },
@@ -783,6 +779,26 @@
       "duration_ms": 245626,
       "name": "I Stitched My Mind Back To My Body",
       "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Messimalism (Above Thought)",
+        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
+      },
+      "artists": [
+        {
+          "name": "Emanative",
+          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
+        },
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 404458,
+      "name": "Messimalism (Above Thought)",
+      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -851,26 +867,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "When It Comes Together",
-        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        },
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "When It Comes Together",
-      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
       },
@@ -907,18 +903,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+        "name": "When It Comes Together",
+        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        },
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
         }
       ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+      "duration_ms": 188181,
+      "name": "When It Comes Together",
+      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
       "artists": [
         {
-          "name": "Mom Tudie",
-          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
-        },
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 207857,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1003,6 +999,26 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        },
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Listen To The Sky",
         "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
       },
@@ -1015,6 +1031,22 @@
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Unchained Melodies Vol. 1",
+        "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
+      },
+      "artists": [
+        {
+          "name": "Romain Axisa",
+          "url": "https://open.spotify.com/artist/0fD0vte7xBaEjDkxPsSQsW"
+        }
+      ],
+      "duration_ms": 176702,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1039,22 +1071,6 @@
       "duration_ms": 424960,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Unchained Melodies Vol. 1",
-        "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
-      },
-      "artists": [
-        {
-          "name": "Romain Axisa",
-          "url": "https://open.spotify.com/artist/0fD0vte7xBaEjDkxPsSQsW"
-        }
-      ],
-      "duration_ms": 176702,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "All Black Everything",
         "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 431293,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 237507,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 431293,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1319,30 +1335,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 227835,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0egI36OMLEcADQ8zJSbZGm"
       },
@@ -1371,18 +1363,26 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Ode Two",
-        "url": "https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk"
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
       },
       "artists": [
         {
-          "name": "Tanhai Collective",
-          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
         }
       ],
-      "duration_ms": 311686,
-      "name": "Ode Two",
-      "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
     }
   ],
   "unique_name": "Jazz UK",

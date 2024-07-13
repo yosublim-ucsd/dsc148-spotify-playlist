@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "btrem artilheira nata e as de ra\u00e7a",
+  "description": "torya e mil fitas ",
   "name": "Baby Hair",
   "tracks": [
     {
@@ -1939,6 +1939,32 @@
     },
     {
       "album": {
+        "name": "Nega Doce",
+        "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Fitas",
+      "url": "https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2"
+    },
+    {
+      "album": {
         "name": "Fiz Minha Unha",
         "url": "https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn"
       },
@@ -1962,6 +1988,48 @@
       "duration_ms": 146666,
       "name": "Fiz Minha Unha",
       "url": "https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe"
+    },
+    {
+      "album": {
+        "name": "TROPA",
+        "url": "https://open.spotify.com/album/6FZ218TQm3MCkNPUy5HwaS"
+      },
+      "artists": [
+        {
+          "name": "TROPA",
+          "url": "https://open.spotify.com/artist/1nlGQts3gmftixL86sQVq8"
+        },
+        {
+          "name": "Tshawtty",
+          "url": "https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "NABRU",
+          "url": "https://open.spotify.com/artist/6a4IWOVhX5VTq92mPQKoWh"
+        },
+        {
+          "name": "Pretta Poder",
+          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw"
+        },
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8"
     },
     {
       "album": {
@@ -2842,7 +2910,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161625,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65"
@@ -3822,7 +3890,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 178322,
       "name": "Peita Preta",
       "url": "https://open.spotify.com/track/3PQL3PRicFrAWGwRl5OFjG"
@@ -5066,7 +5134,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 96000,
       "name": "Sou Eu Mesma",
       "url": "https://open.spotify.com/track/0jBkw14sG2bbWaAWt95INe"
@@ -5674,6 +5742,24 @@
       "duration_ms": 164571,
       "name": "Vish",
       "url": "https://open.spotify.com/track/6hQ5cvIg7XRqG1zMRqx9o2"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Parece Com Vergonha",
+        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Voc\u00ea Parece Com Vergonha",
+      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Zach Bryan
+> A new shade of Country\. Cover: Johnny Blue Skies
 
-573 songs - 1 day 11 hr 8 min
+574 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Mighty Beast](https://open.spotify.com/track/4tyP3hJbZSD26PTo3K5PW5) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Mighty Beast / All the Wars from Now On](https://open.spotify.com/album/2H053931olSuzHhdvxpfcm) | 4:31 | 2023-07-14 | 2023-08-19 |
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 | 2024-04-19 |
 | [Miner Imperfections](https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 4:36 | 2023-09-22 | 2023-12-16 |
+| [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 | 2024-07-12 |  |
 | [Misery And Gin](https://open.spotify.com/track/0adJ2biCBdsGx8UvQHOo0E) | [Layla Tucker](https://open.spotify.com/artist/6mwCvYDNETNaNFDaujxY2Z) | [Misery And Gin](https://open.spotify.com/album/55LBQ89hsBDsC1RTFQCaZZ) | 3:11 | 2022-03-11 | 2022-04-23 |
 | [Monkey in the Middle](https://open.spotify.com/track/36NTnP2EXnqdmasNeXA88y) | [Dave Hause](https://open.spotify.com/artist/6b58ZzXRHPakxMhPx7xHAx) | [Monkey in the Middle](https://open.spotify.com/album/60Q2AAD32xJgAfxFQV3MKA) | 2:54 | 2022-03-25 | 2022-04-29 |
 | [Moon & Stars](https://open.spotify.com/track/7BdHOZHXOplL5ifxKbuyPx) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Moon & Stars](https://open.spotify.com/album/5znuG2VCpIsnSE2HVTIuqP) | 4:56 | 2021-12-17 | 2022-01-15 |

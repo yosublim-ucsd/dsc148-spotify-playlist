@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Lasso, Alex Ponce & Sebastian Llosa",
+  "description": "Fresh Latin pop on the rise. Cover: Andry Kiddos & ODDLIQUOR",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Modales",
+        "url": "https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "Buen Provecho",
+      "url": "https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE"
+    },
+    {
+      "album": {
         "name": "buenos aires",
         "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
       },
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
@@ -5006,7 +5024,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 184745,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/7nJRXovps7c2ffbnbLD642"
@@ -8084,7 +8102,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 133065,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx"
@@ -8897,6 +8915,28 @@
     },
     {
       "album": {
+        "name": "ojitos",
+        "url": "https://open.spotify.com/album/1rgmk3Mxs6nkZ7SFMrBPg3"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
+        {
+          "name": "ODDLIQUOR",
+          "url": "https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113560,
+      "name": "ojitos",
+      "url": "https://open.spotify.com/track/5IH0Dy9tmUQlfVdpu1XR1D"
+    },
+    {
+      "album": {
         "name": "Ojitos de Mar",
         "url": "https://open.spotify.com/album/5j0OvZUnnSdSoHTQXdXlfV"
       },
@@ -9601,6 +9641,24 @@
     },
     {
       "album": {
+        "name": "veranito sad",
+        "url": "https://open.spotify.com/album/22lBXb7aYpM76G4kRrBjCJ"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "playa rinc\u00f3n",
+      "url": "https://open.spotify.com/track/2G44TDemMwipPekDCHOVz5"
+    },
+    {
+      "album": {
         "name": "PLAYBOY",
         "url": "https://open.spotify.com/album/7tGoCupmv66uD6hFI451P7"
       },
@@ -9968,6 +10026,24 @@
       "duration_ms": 230061,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c"
+    },
+    {
+      "album": {
+        "name": "P\u00eddeme a las 11:11",
+        "url": "https://open.spotify.com/album/50RjjC917s2MtrEUfxlska"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176511,
+      "name": "P\u00eddeme a las 11:11",
+      "url": "https://open.spotify.com/track/72vMjpSXKH26sTsjBHh34P"
     },
     {
       "album": {
@@ -11018,7 +11094,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 164005,
       "name": "si te esperas",
       "url": "https://open.spotify.com/track/0aE77kppxdg0cMnokn0W2m"
@@ -11614,7 +11690,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 147835,
       "name": "Take 5",
       "url": "https://open.spotify.com/track/4Ut9HHMszZPbWFrEOX8cso"

@@ -2,7 +2,7 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani del momento! Alessandra Amoroso e Bigmama in cover
+> I brani italiani del momento! Alessandra Amoroso e BigMama in cover
 
 59 songs - 2 hr 57 min
 

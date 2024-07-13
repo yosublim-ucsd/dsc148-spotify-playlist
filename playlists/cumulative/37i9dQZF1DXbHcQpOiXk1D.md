@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: berlioz
 
-601 songs - 1 day 18 hr 39 min
+602 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 | 2024-03-08 | 2024-03-12 |
 | [Eye Glass](https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Show Your Face](https://open.spotify.com/album/0hCQ1KdPi8iTGuisaQzeBh) | 4:54 | 2022-02-11 | 2022-08-30 |
 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 | 2023-03-08 | 2024-06-01 |
+| [Fade Away](https://open.spotify.com/track/75php8CsPxI3Gwl7eIr7KW) | [Kurtis Li](https://open.spotify.com/artist/5CE0MYU8KQ7hAGCf6wSj3L) | [In Bloom](https://open.spotify.com/album/4IgZPrzOS3Cj833Bl8O1Dn) | 5:25 | 2024-07-12 |  |
 | [Fallen](https://open.spotify.com/track/1Krlt9rsWFe2rx4xDXohUp) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Fallen](https://open.spotify.com/album/6GEDmIVCjsICy3Jw4mZZD1) | 2:14 | 2022-03-24 | 2023-07-13 |
 | [Falling](https://open.spotify.com/track/6wylJQBd31qKnAtbEmrN5P) | [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Falling](https://open.spotify.com/album/4JUVXlxZJ7g1K9YQD4lnzs) | 3:21 | 2022-03-24 | 2022-04-20 |
 | [Falling Fast](https://open.spotify.com/track/2YIzh2AjR9d1A0fEZ2M66b) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Crisis & Opportunity, Vol.3 \- Unfold](https://open.spotify.com/album/4joLXzBylW8503medJp3Ir) | 3:51 | 2022-12-16 | 2024-03-12 |
@@ -373,7 +374,7 @@
 | [Nova](https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Nova](https://open.spotify.com/album/6E4fyKEXySdsJMWYE3IDQn) | 5:13 | 2022-03-31 | 2023-02-17 |
 | [now rest.](https://open.spotify.com/track/7w2BFaIljW2VETno4xiwsr) | [Daisy George](https://open.spotify.com/artist/4HS2aOCR0Km1namVrjoP59), [Mohan Evans](https://open.spotify.com/artist/4lwPjcmi291GXEg8WGNhEJ) | [see me now](https://open.spotify.com/album/0iWIgSsPhn9UClzSQH7Dk2) | 5:56 | 2023-03-08 | 2024-03-03 |
 | [ode to rahsaan](https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [ode to rahsaan](https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF) | 3:30 | 2024-06-20 |  |
-| [Ode Two](https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Ode Two](https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk) | 5:11 | 2024-06-14 |  |
+| [Ode Two](https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Ode Two](https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk) | 5:11 | 2024-06-14 | 2024-07-13 |
 | [Odysea](https://open.spotify.com/track/0eg7p0AvjI5NYzcoVBUuFM) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Shapes](https://open.spotify.com/album/0n3DBqRTXilI8glp9nSzGP) | 4:23 | 2021-12-17 | 2022-07-28 |
 | [Odysea](https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Shapes](https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW) | 4:23 | 2022-09-09 | 2022-11-18 |
 | [Old School Struggling](https://open.spotify.com/track/2GeFEgpn2YdmNhewoiSwa6) | [All Day Breakfast Cafe](https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd) | [Old School Struggling](https://open.spotify.com/album/2RdXV3Y9nNfcW2rdMghNlU) | 3:30 | 2022-02-18 | 2022-07-14 |

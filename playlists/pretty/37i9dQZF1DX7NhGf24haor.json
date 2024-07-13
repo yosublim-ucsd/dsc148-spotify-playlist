@@ -1,13 +1,37 @@
 {
   "description": "Updated weekly | Hardstyle | Cover: Coone",
-  "num_followers": 230305,
+  "num_followers": 230436,
   "original_name": "Hardstyle Adrenaline! 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo5hygAAAADJBYjlb35Vp30RrBvh5pDN",
+  "snapshot_id": "ZpDjZgAAAABtekKdlt4GgUPpApS9Oav8",
   "tracks": [
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "The Showdown",
+        "url": "https://open.spotify.com/album/1HVwxjRTjijCJfMWQLfGCA"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "JDX",
+          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
+        }
+      ],
+      "duration_ms": 180329,
+      "name": "The Showdown",
+      "url": "https://open.spotify.com/track/0GMhPWb7ljKYBpJ8iEqInL"
+    },
     {
       "added_at": "2024-07-05 07:40:07",
       "album": {
@@ -27,6 +51,26 @@
       "duration_ms": 207483,
       "name": "Warrior Cry",
       "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "My Horizon (feat. Max P)",
+        "url": "https://open.spotify.com/album/4RsqfhmOLFSUQs09jeBzIO"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Max P",
+          "url": "https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0StDmNzhLuJmaR3K0i3ORB"
     },
     {
       "added_at": "2024-07-05 07:40:07",
@@ -81,6 +125,26 @@
       "url": "https://open.spotify.com/track/0FHWVYM8n0xNn8NCrZEQLe"
     },
     {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/3cUjOkczwQfDYCwykax7lg"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "duration_ms": 148406,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/2wwkUAQnTjsW2PPCe5MIkE"
+    },
+    {
       "added_at": "2024-07-05 07:40:07",
       "album": {
         "name": "Backstabbers (Envy)",
@@ -97,20 +161,44 @@
       "url": "https://open.spotify.com/track/4HuoADJExHXV7o3qRVcDPY"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-07-12 08:03:50",
       "album": {
-        "name": "LASER",
-        "url": "https://open.spotify.com/album/0O0hmYBxGrHnz44UNuOp4R"
+        "name": "Supercharged (Official Gearbox Supercharged 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0Ly9HoEAfZB5VtaYgKnNS2"
       },
       "artists": [
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        },
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
         }
       ],
-      "duration_ms": 188885,
-      "name": "LASER",
-      "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
+      "duration_ms": 243003,
+      "name": "Supercharged (Official Gearbox Supercharged 2024 Anthem)",
+      "url": "https://open.spotify.com/track/0ZJW8n6SckfqvyqSZDczIH"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "The Quest of Power",
+        "url": "https://open.spotify.com/album/4OqOjNB8XBTayoxVHQC4nU"
+      },
+      "artists": [
+        {
+          "name": "Hardstyle Legends",
+          "url": "https://open.spotify.com/artist/7h1AK4oFSkeL6vlOa5NHb0"
+        }
+      ],
+      "duration_ms": 216282,
+      "name": "The Quest of Power",
+      "url": "https://open.spotify.com/track/3TUs1XIoANIXrd04Nx3G2U"
     },
     {
       "added_at": "2024-07-05 07:40:07",
@@ -137,24 +225,72 @@
       "url": "https://open.spotify.com/track/54NYW1EBw5h8tX956UlUHY"
     },
     {
-      "added_at": "2024-06-29 10:36:38",
+      "added_at": "2024-07-12 08:03:50",
       "album": {
-        "name": "Sar\u00e0 perch\u00e9 ti amo (Hardstyle)",
-        "url": "https://open.spotify.com/album/24Fjk0l7vLIXzggZO0h3qm"
+        "name": "Hard Beat",
+        "url": "https://open.spotify.com/album/6JdGln5CLBPWHGgelscMt0"
       },
       "artists": [
         {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
         },
         {
-          "name": "Ad Libitum Voices",
-          "url": "https://open.spotify.com/artist/00piBmGJNJhEkjG4CyqGaG"
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
-      "duration_ms": 163640,
-      "name": "Sar\u00e0 perch\u00e9 ti amo - Hardstyle",
-      "url": "https://open.spotify.com/track/0onEgLZd4gp6HvyoAifqUk"
+      "duration_ms": 188702,
+      "name": "Hard Beat",
+      "url": "https://open.spotify.com/track/7Gs5hS0rQsdE5GVjovT5rm"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "Beautiful Days (feat. Sam LeMay)",
+        "url": "https://open.spotify.com/album/0Qf1Z8ylCl5bamLwd5uEO6"
+      },
+      "artists": [
+        {
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
+        },
+        {
+          "name": "Sam Lemay",
+          "url": "https://open.spotify.com/artist/11ooXjcX0LXtpDs9FnwF4C"
+        }
+      ],
+      "duration_ms": 184818,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/2YKCg1eGB6eTKCwm7Xe7C5"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "Beyond The Horizon (Official REBELLiON Outdoor 2024 Anthem)",
+        "url": "https://open.spotify.com/album/1mpsidGT8eH6DbYHKMHqRP"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        }
+      ],
+      "duration_ms": 264750,
+      "name": "Beyond The Horizon - Official REBELLiON Outdoor 2024 Anthem",
+      "url": "https://open.spotify.com/track/3ArdKgg2zsicXooMacqSCX"
     },
     {
       "added_at": "2024-07-05 07:40:07",
@@ -175,6 +311,138 @@
       "duration_ms": 147967,
       "name": "1 Team (Kick Edit)",
       "url": "https://open.spotify.com/track/2brTbOlmEfyBTGNyLCKewi"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "Turn The F Up",
+        "url": "https://open.spotify.com/album/3Yr72pI7wJCPLDfX1IYwjK"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "duration_ms": 195949,
+      "name": "Turn The F Up",
+      "url": "https://open.spotify.com/track/6HfhwVnqO6xYxsyyWKYG3s"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/1f2ngTn299NDRLiK4e6RnT"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "duration_ms": 216274,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/0HWnnhwpbyFRqpbHqEpIGq"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "PWR",
+        "url": "https://open.spotify.com/album/4Smxcfjy6og6lpk5IJqzwi"
+      },
+      "artists": [
+        {
+          "name": "ZIGGY X",
+          "url": "https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83"
+        }
+      ],
+      "duration_ms": 136218,
+      "name": "PWR",
+      "url": "https://open.spotify.com/track/5F77xUTErpZtpKNOaaJnE8"
+    },
+    {
+      "added_at": "2024-06-29 10:36:38",
+      "album": {
+        "name": "Sar\u00e0 perch\u00e9 ti amo (Hardstyle)",
+        "url": "https://open.spotify.com/album/24Fjk0l7vLIXzggZO0h3qm"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        },
+        {
+          "name": "Ad Libitum Voices",
+          "url": "https://open.spotify.com/artist/00piBmGJNJhEkjG4CyqGaG"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "Sar\u00e0 perch\u00e9 ti amo - Hardstyle",
+      "url": "https://open.spotify.com/track/0onEgLZd4gp6HvyoAifqUk"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "Sea Of Sorrows",
+        "url": "https://open.spotify.com/album/3hlfRalWj7A5XmBMeyGorn"
+      },
+      "artists": [
+        {
+          "name": "Bmberjck",
+          "url": "https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/4aCstIicV5Gewybcl6C8oi"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "LOKO",
+        "url": "https://open.spotify.com/album/0lUPX0039SUdops9txCtC7"
+      },
+      "artists": [
+        {
+          "name": "KAMI",
+          "url": "https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "LOKO",
+      "url": "https://open.spotify.com/track/0DRJ9JQqNN2lFIxdave6Gx"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5ZMkCCjUgZbN2YolxAIbxt"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Moreno",
+          "url": "https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt"
+        }
+      ],
+      "duration_ms": 160732,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/23MuWrr5pcRstWtUrVJ74N"
+    },
+    {
+      "added_at": "2024-07-12 08:03:50",
+      "album": {
+        "name": "To The Top",
+        "url": "https://open.spotify.com/album/4XdH0kZSt6Hnps9yJk9udr"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        }
+      ],
+      "duration_ms": 205548,
+      "name": "To The Top",
+      "url": "https://open.spotify.com/track/6FRdyoSvbeucvDmXOHMSx7"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1275,22 +1543,6 @@
     {
       "added_at": "2024-06-14 08:21:02",
       "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac"
-      },
-      "artists": [
-        {
-          "name": "Deepack",
-          "url": "https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
         "name": "LA DI DA",
         "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
       },
@@ -1643,46 +1895,6 @@
     {
       "added_at": "2024-06-14 08:21:02",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/40jTHjnIKBeFfrclZgtBlV"
-      },
-      "artists": [
-        {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        },
-        {
-          "name": "Lawstylez",
-          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
-        }
-      ],
-      "duration_ms": 192540,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/4qjEo9lS4mD1u9N4yXhsDc"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
-        "name": "OCEANS",
-        "url": "https://open.spotify.com/album/4PaVdTWedoyw0MBZ7079Ch"
-      },
-      "artists": [
-        {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
-        },
-        {
-          "name": "Anderex",
-          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "OCEANS",
-      "url": "https://open.spotify.com/track/60AzVHpUUphAetN5u1sw1l"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
         "name": "In Your Bones",
         "url": "https://open.spotify.com/album/2wV6AlO748m7m0STGhl5EH"
       },
@@ -1715,114 +1927,6 @@
       "duration_ms": 240375,
       "name": "City Of Lights",
       "url": "https://open.spotify.com/track/6za0QnyS1KhKwQsRBrc5hM"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
-        "name": "Move Your Feet",
-        "url": "https://open.spotify.com/album/6jeWxhEJrd0XwSxSBCKr5w"
-      },
-      "artists": [
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/1L9h9rrW1bvWiFWj6XD31j"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
-        "name": "Nobody Said It Was Easy (feat. Eelco)",
-        "url": "https://open.spotify.com/album/30h2dhNfkYYLhtNg7w27kE"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "Loud x Fout",
-          "url": "https://open.spotify.com/artist/4lkET6bLWntrKVap1MuYWA"
-        },
-        {
-          "name": "Eelco",
-          "url": "https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX"
-        }
-      ],
-      "duration_ms": 188903,
-      "name": "Nobody Said It Was Easy (feat. Eelco)",
-      "url": "https://open.spotify.com/track/1kvbBzDJoHYc3Bj4TpqGps"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
-        "name": "REVELATION",
-        "url": "https://open.spotify.com/album/7nFID6F6iyZK8YT5sq84m5"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        },
-        {
-          "name": "Disarray",
-          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
-        }
-      ],
-      "duration_ms": 175503,
-      "name": "REVELATION",
-      "url": "https://open.spotify.com/track/76VDWzdfYhfv2S1nuOZTJY"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
-        "name": "WARHORN (E2 We Rise Or Fall)",
-        "url": "https://open.spotify.com/album/2ER06lGXSEBKo7aDe3XrAy"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        },
-        {
-          "name": "Maintain",
-          "url": "https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "WARHORN (E2 We Rise Or Fall)",
-      "url": "https://open.spotify.com/track/19Lm5UIDheWcngR6ApupP8"
-    },
-    {
-      "added_at": "2024-06-14 08:21:02",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/0Vgrsf93VWqzbbqQbhi70K"
-      },
-      "artists": [
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        },
-        {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/31Ga0NFKXegEWnoF7q3CzE"
     }
   ],
   "unique_name": "Hardstyle Adrenaline! 2024",

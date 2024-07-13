@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from Bollywood's badshah, Shah Rukh Khan.",
-  "num_followers": 110456,
+  "num_followers": 110541,
   "original_name": "King Khan: The Best of SRK",
   "owner": {
     "name": "Spotify",
@@ -211,10 +211,14 @@
     {
       "added_at": "2022-09-14 10:20:36",
       "album": {
-        "name": "Kuch Kuch Hota Hai",
+        "name": "Kuch Kuch Hota Hai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
       },
       "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
         {
           "name": "Kumar Sanu",
           "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
@@ -391,10 +395,14 @@
     {
       "added_at": "2022-09-14 10:20:36",
       "album": {
-        "name": "Kuch Kuch Hota Hai",
+        "name": "Kuch Kuch Hota Hai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
       },
       "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
         {
           "name": "Kavita Krishnamurthy",
           "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
@@ -455,7 +463,7 @@
     {
       "added_at": "2022-09-14 10:20:36",
       "album": {
-        "name": "Kuch Kuch Hota Hai",
+        "name": "Kuch Kuch Hota Hai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
       },
       "artists": [

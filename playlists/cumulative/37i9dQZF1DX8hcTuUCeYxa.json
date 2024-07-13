@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Dancing Alone",
+        "url": "https://open.spotify.com/album/7myJycpKkQVg2hvgzkQKE7"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/7Fpl4ofpbd3Q8rAZDL9ZPO"
+    },
+    {
+      "album": {
         "name": "Darkest Lullaby",
         "url": "https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH"
       },

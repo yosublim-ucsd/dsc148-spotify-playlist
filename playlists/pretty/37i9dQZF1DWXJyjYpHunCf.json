@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Gracie Abrams",
-  "num_followers": 919320,
+  "num_followers": 919476,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn5IAwAAAAAWBRyK3eHLeKCQVv5K5GuI",
+  "snapshot_id": "ZpFS1gAAAABZvkGz4W3ez+tUXKTEFYNx",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -23,26 +23,6 @@
       "duration_ms": 185552,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -77,6 +57,42 @@
       "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Enjoy the view",
+        "url": "https://open.spotify.com/album/1MYDttHKjrYFTc8G9DYeYy"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 152530,
+      "name": "Enjoy the view",
+      "url": "https://open.spotify.com/track/6WDHGgsxiB2YQIib7kcmRf"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Mountain Mama",
@@ -107,6 +123,22 @@
       "duration_ms": 199267,
       "name": "out of breath",
       "url": "https://open.spotify.com/track/16L5lEXtnJ3ahA3jE8aWKo"
+    },
+    {
+      "added_at": "2024-07-12 15:59:18",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/0EKc0MQ8huSHiUm1ipjSD7"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/2Lm7Qmm7UvlRojt0c8BFI1"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -157,6 +189,38 @@
       "url": "https://open.spotify.com/track/38rCgMdqt97TcHeSaYsydV"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Black Monday",
+        "url": "https://open.spotify.com/album/6OuwOOydUWhPmlz1PiL2zz"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Black Monday",
+      "url": "https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Falling Faster",
@@ -171,6 +235,22 @@
       "duration_ms": 92141,
       "name": "Falling Faster",
       "url": "https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Ghost of Our Past",
+        "url": "https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 164888,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -191,22 +271,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Pretty Little Devil",
-        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
-      },
-      "artists": [
-        {
-          "name": "Shaya Zamora",
-          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
-        }
-      ],
-      "duration_ms": 167690,
-      "name": "Pretty Little Devil",
-      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
       },
@@ -219,22 +283,6 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -475,6 +523,22 @@
       "duration_ms": 220500,
       "name": "When You Know Someone",
       "url": "https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Pretty Little Devil",
+        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 167690,
+      "name": "Pretty Little Devil",
+      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1147,22 +1211,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Eulogize",
-        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
-      },
-      "artists": [
-        {
-          "name": "Shaya Zamora",
-          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
       },
@@ -1579,38 +1627,6 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "All We Ever Knew",
-        "url": "https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu"
     },
     {
       "added_at": "2024-06-28 04:00:00",

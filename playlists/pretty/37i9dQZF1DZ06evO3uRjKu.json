@@ -1,12 +1,12 @@
 {
-  "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 67836,
+  "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
+  "num_followers": 67880,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAADfHKl2zRcxUeb34NoxIuxB",
+  "snapshot_id": "Zo8ggAAAAACGnmuxAbzH5/IqPR8RMi1V",
   "tracks": [
     {
       "added_at": null,
@@ -695,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
+        "name": "Carm\u00edn",
+        "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
       },
       "artists": [
+        {
+          "name": "Yoru",
+          "url": "https://open.spotify.com/artist/5Hbzj3FeAKHQMRZN3HfUwZ"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 270054,
-      "name": "Te Puedo Enamorar",
-      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
+      "duration_ms": 178036,
+      "name": "Carm\u00edn",
+      "url": "https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3"
     },
     {
       "added_at": null,
@@ -727,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carm\u00edn",
-        "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
+        "name": "7",
+        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
       },
       "artists": [
-        {
-          "name": "Yoru",
-          "url": "https://open.spotify.com/artist/5Hbzj3FeAKHQMRZN3HfUwZ"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 178036,
-      "name": "Carm\u00edn",
-      "url": "https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3"
+      "duration_ms": 270054,
+      "name": "Te Puedo Enamorar",
+      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
     },
     {
       "added_at": null,

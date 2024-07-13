@@ -1,12 +1,12 @@
 {
   "description": "It's a Saturday night in the country, all the time!",
-  "num_followers": 171068,
+  "num_followers": 171086,
   "original_name": "Country Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZUzX0AAAAAD1wYA6/B6kQS4v42jjHYKR",
+  "snapshot_id": "ZpC7AgAAAADmmu1ZQpRA8tu5OSnlpT5i",
   "tracks": [
     {
       "added_at": "2023-11-09 13:00:00",
@@ -1367,22 +1367,6 @@
       "duration_ms": 198624,
       "name": "Singles You Up - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/3clfDJ1mvmbSTg9jw40wan"
-    },
-    {
-      "added_at": "2023-11-09 13:00:00",
-      "album": {
-        "name": "Footloose",
-        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
     }
   ],
   "unique_name": "Country Party",

@@ -985,6 +985,32 @@
     },
     {
       "album": {
+        "name": "At Night I Think Of You (Seth Troxler & Nick Morgan Remix)",
+        "url": "https://open.spotify.com/album/4GBQXHCUrxqHQFzLizB4Oq"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Nick Morgan",
+          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "At Night I Think Of You - Seth Troxler & Nick Morgan Remix",
+      "url": "https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh"
+    },
+    {
+      "album": {
         "name": "ATK",
         "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
       },
@@ -6847,6 +6873,32 @@
     },
     {
       "album": {
+        "name": "M4M",
+        "url": "https://open.spotify.com/album/5GLMaVQdAKlEAvoAiVHlD2"
+      },
+      "artists": [
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+        },
+        {
+          "name": "Alex Dovo",
+          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
+        },
+        {
+          "name": "Louie Dager",
+          "url": "https://open.spotify.com/artist/5KjKqg0GxwnlLLFQGmD95M"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "M4M",
+      "url": "https://open.spotify.com/track/41WTmr2BJ19i0Xqg3CS6I8"
+    },
+    {
+      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
       },
@@ -7634,6 +7686,28 @@
       "duration_ms": 196452,
       "name": "Musa",
       "url": "https://open.spotify.com/track/72DaECSz5fvcv21o33kUxK"
+    },
+    {
+      "album": {
+        "name": "Music is Better Remixed",
+        "url": "https://open.spotify.com/album/0I1gMDng6EbZINOlPpd569"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415204,
+      "name": "Music is Better - Maxi Meraki Remix",
+      "url": "https://open.spotify.com/track/2QH3TD75UTjO60CK21fSDM"
     },
     {
       "album": {
@@ -8894,7 +8968,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
@@ -11641,6 +11715,28 @@
     },
     {
       "album": {
+        "name": "Undressed (Vidojean & Oliver Loenn Remix)",
+        "url": "https://open.spotify.com/album/6Ib3IehyjOhGyDLqaZQWRH"
+      },
+      "artists": [
+        {
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
+        },
+        {
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Undressed - Vidojean & Oliver Loenn Remix",
+      "url": "https://open.spotify.com/track/1f0ErRtNccQIzEnqRm0BA2"
+    },
+    {
+      "album": {
         "name": "Vai Caralho (Do togo)",
         "url": "https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN"
       },
@@ -12482,6 +12578,28 @@
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
+    {
+      "album": {
+        "name": "You Take Me Higher",
+        "url": "https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187142,
+      "name": "You Take Me Higher",
+      "url": "https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4"
     },
     {
       "album": {

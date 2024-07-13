@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25734,
+  "num_followers": 25736,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgK5rh9CW0fgVfrvB9r/L0LEMZgGzD",
+  "snapshot_id": "AABgLQq1dE1kOUrjDcef1IOkNqsV9KUA",
   "tracks": [
     {
       "added_at": "2024-07-12 00:40:26",
@@ -423,6 +423,142 @@
       "duration_ms": 185142,
       "name": "UFO",
       "url": "https://open.spotify.com/track/14cBot3XRGMiYmNMEqzaTh"
+    },
+    {
+      "added_at": "2024-07-12 11:44:45",
+      "album": {
+        "name": "Ragada",
+        "url": "https://open.spotify.com/album/7guCptieuZYbuW8TNs8Zxo"
+      },
+      "artists": [
+        {
+          "name": "Darren Shelton",
+          "url": "https://open.spotify.com/artist/295ok76bJBGnVogj0sqWfB"
+        }
+      ],
+      "duration_ms": 191397,
+      "name": "Ragada",
+      "url": "https://open.spotify.com/track/6XsDaUfvv1c2xNxJJU6geT"
+    },
+    {
+      "added_at": "2024-07-12 11:44:45",
+      "album": {
+        "name": "My Horizon (feat. Max P)",
+        "url": "https://open.spotify.com/album/4RsqfhmOLFSUQs09jeBzIO"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Max P",
+          "url": "https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0StDmNzhLuJmaR3K0i3ORB"
+    },
+    {
+      "added_at": "2024-07-12 11:44:45",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/63IfPO83Z3yhMNClQnFPFH"
+      },
+      "artists": [
+        {
+          "name": "ARKO",
+          "url": "https://open.spotify.com/artist/2GI2DwMpAtvgmCqOrEnq3s"
+        },
+        {
+          "name": "Dare County",
+          "url": "https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL"
+        }
+      ],
+      "duration_ms": 191372,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4tH0GB3np4chzxoXS5IajH"
+    },
+    {
+      "added_at": "2024-07-12 11:44:45",
+      "album": {
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/6e3Y47Vphq2lIEn0L8Zkqw"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        },
+        {
+          "name": "Naomi Westlake",
+          "url": "https://open.spotify.com/artist/6VmEzQSpeEOCSvUdCp8tml"
+        }
+      ],
+      "duration_ms": 190263,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/49R5Hdo99MQJrkSNUI3XGY"
+    },
+    {
+      "added_at": "2024-07-12 11:44:45",
+      "album": {
+        "name": "SOUL VE55EL",
+        "url": "https://open.spotify.com/album/2quhHlNOIIGihAoNkaXNxw"
+      },
+      "artists": [
+        {
+          "name": "Whitesquare",
+          "url": "https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI"
+        }
+      ],
+      "duration_ms": 249618,
+      "name": "SOUL VE55EL",
+      "url": "https://open.spotify.com/track/0XyJDqQ6L4qZo7IBZFlD94"
+    },
+    {
+      "added_at": "2024-07-12 11:44:45",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/5DLR9wkAjJjVanWEoRyNSP"
+      },
+      "artists": [
+        {
+          "name": "Mazro",
+          "url": "https://open.spotify.com/artist/3MB0qmKdbLc7JCbcE2TWX7"
+        },
+        {
+          "name": "Belami",
+          "url": "https://open.spotify.com/artist/0f6de5eTnB43IvDNU4us6s"
+        }
+      ],
+      "duration_ms": 157927,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/04aCkDB3YtAdqA45rLXkUT"
+    },
+    {
+      "added_at": "2024-07-12 11:44:45",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/3ASvWqSzt1Xv8OlCrvLgz2"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "duration_ms": 161303,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/0Tecw73XLa1zgXnV4AhIUw"
     },
     {
       "added_at": "2024-07-12 00:40:26",

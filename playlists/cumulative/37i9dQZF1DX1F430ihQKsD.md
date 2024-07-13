@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Rau\_Ze
+> La scène musicale montréalaise au premier plan\. Photo: Avril Jensen
 
-487 songs - 1 day 4 hr 6 min
+488 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Son Mad](https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Son Mad](https://open.spotify.com/album/5ofh151AVkCnjXPaxDPGyG) | 2:07 | 2024-06-14 |  |
 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2023-05-19 | 2024-06-08 |
 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 | 2024-02-09 | 2024-04-06 |
+| [spooky](https://open.spotify.com/track/1wN3zTs9IxADu8KZRw7TfN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [spooky](https://open.spotify.com/album/0h9lWHQMOqDrKvh6T9MqXz) | 4:40 | 2024-07-12 |  |
 | [Spotlite](https://open.spotify.com/track/2E2lgZQrewdgFAHoGRp7ob) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [\*69 b/w Spotlite](https://open.spotify.com/album/1Ftwhb11RZkJ6gjLU3NyXR) | 2:36 | 2023-12-15 |  |
 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-02 |  |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-03-25 | 2022-10-14 |
@@ -477,7 +478,7 @@
 | [Ville américaine](https://open.spotify.com/track/0YVMPldYkDHfpT4oZdr9kT) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Ville américaine](https://open.spotify.com/album/04ExG9J3eCZkOEi4wB08H5) | 3:11 | 2022-03-25 | 2022-04-16 |
 | [Virer nos vies](https://open.spotify.com/track/3xxhsgtji7JHYpcNNJAiF7) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 4:50 | 2024-06-28 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2022-03-25 | 2022-05-28 |
-| [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 | 2024-05-03 |  |
+| [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 | 2024-05-03 | 2024-07-13 |
 | [Wear You Out](https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Wear You Out](https://open.spotify.com/album/2hbpz06Bgw4SONqk2MSqJ6) | 3:31 | 2024-03-01 | 2024-04-06 |
 | [What It Is](https://open.spotify.com/track/5j8qS9IDLegyFRSziYAinL) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Half White Full Black](https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG), [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [What It Is](https://open.spotify.com/album/56Dpa4dNBz06Qjnj8K0Eym) | 1:58 | 2023-03-17 | 2023-08-26 |
 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 | 2023-01-27 | 2023-11-18 |

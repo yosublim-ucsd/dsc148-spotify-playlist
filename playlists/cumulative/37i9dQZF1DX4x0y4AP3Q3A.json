@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: 8 Lat W Tybecie",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Hedone",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 260648,
       "name": "+ / -",
       "url": "https://open.spotify.com/track/01vW9RjfocT7wYiB7XeDdF"
@@ -74,6 +74,24 @@
       "duration_ms": 228292,
       "name": "Bezimienny",
       "url": "https://open.spotify.com/track/0gsA43a7l7wsYlOp3hSVoh"
+    },
+    {
+      "album": {
+        "name": "Blokada",
+        "url": "https://open.spotify.com/album/0AhEKkbABISuvmuio5lWSL"
+      },
+      "artists": [
+        {
+          "name": "BABINSKI",
+          "url": "https://open.spotify.com/artist/0PWLmsa6wp61ZRpMmo5qKn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282101,
+      "name": "Blokada",
+      "url": "https://open.spotify.com/track/0dzqcCQnSGEEvamkhZnDGq"
     },
     {
       "album": {
@@ -320,7 +338,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 256528,
       "name": "Czerwony jak ceg\u0142a - Live",
       "url": "https://open.spotify.com/track/5RmutooaQVggsIl1U6OgHS"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 193410,
       "name": "Czuj!",
       "url": "https://open.spotify.com/track/23OV4qkpmUC13KpVgPimgk"
@@ -400,7 +418,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 163902,
       "name": "DUSZ\u0118 MY\u015aLI",
       "url": "https://open.spotify.com/track/5jIQo5FlwSpl65LqDo4OZt"
@@ -498,6 +516,42 @@
       "duration_ms": 167294,
       "name": "Flu song",
       "url": "https://open.spotify.com/track/0iqkvpNYXjURoTPp7kLd6Q"
+    },
+    {
+      "album": {
+        "name": "Surf Simulation",
+        "url": "https://open.spotify.com/album/3LIwqhxt1VtED6Vx3dBZdE"
+      },
+      "artists": [
+        {
+          "name": "Sea Saw",
+          "url": "https://open.spotify.com/artist/6dVZRovEXkQHI1ucG3D3Mc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "G_Beat",
+      "url": "https://open.spotify.com/track/0njdfh80isf4iNfbU9YYXw"
+    },
+    {
+      "album": {
+        "name": "Hide a Lie",
+        "url": "https://open.spotify.com/album/0G1kJkQPPs7DAJovQ7xp20"
+      },
+      "artists": [
+        {
+          "name": "Hidel Eye",
+          "url": "https://open.spotify.com/artist/3p7SOpsF37g2ry8QOdf45R"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172747,
+      "name": "Hide a Lion",
+      "url": "https://open.spotify.com/track/5lEgfZ17Vlha5k66Zlwu5u"
     },
     {
       "album": {
@@ -617,6 +671,24 @@
     },
     {
       "album": {
+        "name": "kiedy ju\u017c b\u0119dziemy wolni",
+        "url": "https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx"
+      },
+      "artists": [
+        {
+          "name": "mop",
+          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240090,
+      "name": "kiedy ju\u017c b\u0119dziemy wolni",
+      "url": "https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY"
+    },
+    {
+      "album": {
         "name": "Taki jak ja",
         "url": "https://open.spotify.com/album/2nbZbkSc3d4qsSkuoXBbH2"
       },
@@ -664,7 +736,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 261000,
       "name": "Konstrukcjo Wsporcza",
       "url": "https://open.spotify.com/track/6XNVSPtVvYww1puK44KC4V"
@@ -725,6 +797,24 @@
     },
     {
       "album": {
+        "name": "kszta\u0142ty",
+        "url": "https://open.spotify.com/album/3UxNmO3rtVulqN7FluSC50"
+      },
+      "artists": [
+        {
+          "name": "M\u0119ty",
+          "url": "https://open.spotify.com/artist/2j1zeThdsuFQusrVG0Ut9L"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286403,
+      "name": "kszta\u0142ty",
+      "url": "https://open.spotify.com/track/0H9NADafdrevzKcJ7V5r8a"
+    },
+    {
+      "album": {
         "name": "Licznik",
         "url": "https://open.spotify.com/album/6CKUmEOMbNJY031cMCslGi"
       },
@@ -754,7 +844,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 272305,
       "name": "Light from a Fiercer Place",
       "url": "https://open.spotify.com/track/5l6nZJilF7B5igh5hmmdAo"
@@ -866,7 +956,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155242,
       "name": "Mbapp\u00e9, Supersonic",
       "url": "https://open.spotify.com/track/0Pp47g2mXCVFV9mKaW4jrg"
@@ -942,10 +1032,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 192125,
       "name": "Na Dwa",
       "url": "https://open.spotify.com/track/4kF7o3NLsptNHLeSrIQzXU"
+    },
+    {
+      "album": {
+        "name": "Na Ksi\u0119\u017cyc - MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/44sVY5o8XE4QoRfqPtAXIn"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Waglewski",
+          "url": "https://open.spotify.com/artist/7JD5zcxm7BuEHC7fUiyVSN"
+        },
+        {
+          "name": "Waglewski Fisz Emade",
+          "url": "https://open.spotify.com/artist/1iVtqED0cwyZXzrWZPih4H"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388039,
+      "name": "Na Ksi\u0119\u017cyc - MTV Unplugged - Live",
+      "url": "https://open.spotify.com/track/0hiiSZXvqGp2RCtZC9ZL5l"
     },
     {
       "album": {
@@ -1021,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Nie wiem",
+        "url": "https://open.spotify.com/album/5MiOmLux0TbGPIZd8XDUlf"
+      },
+      "artists": [
+        {
+          "name": "Antidotum",
+          "url": "https://open.spotify.com/artist/7F2KB39PI6taCAusAJ9cp2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292923,
+      "name": "Nie wiem",
+      "url": "https://open.spotify.com/track/0du7MHahJNqKTtAtvQGsw8"
+    },
+    {
+      "album": {
         "name": "Szumopolita",
         "url": "https://open.spotify.com/album/3CwfeClxlPNsZ0UTF76dho"
       },
@@ -1032,10 +1162,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 238117,
       "name": "Nie wiem",
       "url": "https://open.spotify.com/track/7gSY54q8R4Jlk4J1oRNO0x"
+    },
+    {
+      "album": {
+        "name": "600 Lat Samotno\u015bci",
+        "url": "https://open.spotify.com/album/0a2ceno5j7BykP4mwf979O"
+      },
+      "artists": [
+        {
+          "name": "Hedone",
+          "url": "https://open.spotify.com/artist/6V5i3nKQb9azqjqdCLlQFJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Nie Wiem Jak Jest",
+      "url": "https://open.spotify.com/track/3llPwITzXBO5CHoHe9PSvl"
     },
     {
       "album": {
@@ -1054,6 +1202,42 @@
       "duration_ms": 359586,
       "name": "Niuan",
       "url": "https://open.spotify.com/track/54PpHphKDh8lkEoNdK7iQq"
+    },
+    {
+      "album": {
+        "name": "d\u017cingle z \u017cycia EP",
+        "url": "https://open.spotify.com/album/4NtWnDhyamDToCZohS4C08"
+      },
+      "artists": [
+        {
+          "name": "Max Bravura",
+          "url": "https://open.spotify.com/artist/5msKa7kkaySPp9bQ9PZyJO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134131,
+      "name": "NMZC",
+      "url": "https://open.spotify.com/track/0cWcEFI0D2oQoIVcGomT9g"
+    },
+    {
+      "album": {
+        "name": "No Escape From Charlie",
+        "url": "https://open.spotify.com/album/0lo4XjUZwHbcqkOQTyqMsC"
+      },
+      "artists": [
+        {
+          "name": "The Saturday Tea",
+          "url": "https://open.spotify.com/artist/59mMQSfzbGi7TT2ocSrGRd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167417,
+      "name": "No Escape From Charlie",
+      "url": "https://open.spotify.com/track/2CcSIBgT5kMClGra5DbsXR"
     },
     {
       "album": {
@@ -1108,6 +1292,24 @@
       "duration_ms": 200266,
       "name": "Pachniesz s\u0142o\u0144cem",
       "url": "https://open.spotify.com/track/4xu2YOGUfuvnEb2CFGpLeR"
+    },
+    {
+      "album": {
+        "name": "Parawan",
+        "url": "https://open.spotify.com/album/2NQR4aB56oqaIOvro7wYQw"
+      },
+      "artists": [
+        {
+          "name": "De \u0141indows",
+          "url": "https://open.spotify.com/artist/20Yiyh3eq6aJp7zglRMi2t"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178251,
+      "name": "Parawan",
+      "url": "https://open.spotify.com/track/5lipM52EXvKZLa7xICl2DH"
     },
     {
       "album": {
@@ -1230,7 +1432,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 223866,
       "name": "Pusty pixel",
       "url": "https://open.spotify.com/track/65eB1ATFbY1Q8kxh8IIkJI"
@@ -1255,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Py\u0142",
+        "url": "https://open.spotify.com/album/3tjnF0v2Lioy4gNPLdecJp"
+      },
+      "artists": [
+        {
+          "name": "Lekkoduch",
+          "url": "https://open.spotify.com/artist/55HCIIhxIydvWcgelg76Br"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188548,
+      "name": "Py\u0142",
+      "url": "https://open.spotify.com/track/6JEC1jbRZtaciNgG4isAkJ"
+    },
+    {
+      "album": {
         "name": "P\u0142on\u0119",
         "url": "https://open.spotify.com/album/6zez9AYcZQZD3TE0IXMr2N"
       },
@@ -1266,7 +1486,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 234866,
       "name": "P\u0142on\u0119",
       "url": "https://open.spotify.com/track/2d69V9itMzOjxhXyNge73X"
@@ -1652,7 +1872,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 246271,
       "name": "To \u015bwiat\u0142o nigdy nie b\u0119dzie zielone",
       "url": "https://open.spotify.com/track/7ET5DJ6fP1PGhCJirS2Fb2"
@@ -1670,7 +1890,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 352352,
       "name": "Ultimo",
       "url": "https://open.spotify.com/track/0G5HcOBprmQT4DtfYDgnfQ"
@@ -1706,7 +1926,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 228565,
       "name": "W Mojej G\u0142owie Ci\u0105gle S\u0142owa",
       "url": "https://open.spotify.com/track/1B5kcWk1KolAalMh9VyW64"
@@ -1728,6 +1948,42 @@
       "duration_ms": 260186,
       "name": "Wakacyjny chill",
       "url": "https://open.spotify.com/track/3e6fmM4WqRpbGlN9TLH631"
+    },
+    {
+      "album": {
+        "name": "Wczoraj",
+        "url": "https://open.spotify.com/album/2S5bzqDkhpV0NbtTG49JSl"
+      },
+      "artists": [
+        {
+          "name": "Kolumbia",
+          "url": "https://open.spotify.com/artist/2pErY8PZ1DoourougRvWWy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180131,
+      "name": "Wczoraj",
+      "url": "https://open.spotify.com/track/5RFYmGekVXhiKomsTRd3uD"
+    },
+    {
+      "album": {
+        "name": "Wielki Plan",
+        "url": "https://open.spotify.com/album/7yzL3t8jRPY26ImDAFilgg"
+      },
+      "artists": [
+        {
+          "name": "Jucha",
+          "url": "https://open.spotify.com/artist/7grFJvqwCclBqOR4GQA3cz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234793,
+      "name": "Wielki Plan",
+      "url": "https://open.spotify.com/track/2vLBkuFMxeImptJby7bRLG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=mPYZUNrmTteFS11dsWFJCA>Judikay</a>
 
-3,027 songs - 9 day 2 hr 31 min
+3,029 songs - 9 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Awamaridi \(The Concealer\)](https://open.spotify.com/track/2Snz7q1mGvTgnjo4HuNjin) | [EmmexBoi](https://open.spotify.com/artist/2t4sYUXHtruGnC7jhLCPDz) | [Awamaridi \(The Concealer\)](https://open.spotify.com/album/2zUSYTyLaA1La4dAFkZsPp) | 1:27 | 2023-09-08 | 2023-09-22 |
 | [Aware](https://open.spotify.com/track/2QkobHvjthbnQ1WD6CYNF5) | [lilaclaza](https://open.spotify.com/artist/7FXIKjgUgp1r8ls5QT6oIP), [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [introvert](https://open.spotify.com/album/1HkXSVKwwNOBLbosUsPd5p) | 2:14 | 2024-05-17 | 2024-06-01 |
 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-09-01 | 2023-09-15 |
+| [Away](https://open.spotify.com/track/0FhnCGaHknyRcmUCsrmeQM) | [Olalekanmi](https://open.spotify.com/artist/4Pl5P0qsfWKPdz1vQu0DAA) | [Away](https://open.spotify.com/album/1Pv8MhijA6VnIqWrGluTPf) | 2:40 | 2024-07-12 |  |
 | [Away](https://open.spotify.com/track/3xncYv9ty08qsBETaLDe20) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Away](https://open.spotify.com/album/5ABreDC4M2Buddojown8T1) | 2:43 | 2023-09-29 | 2023-10-14 |
 | [Away](https://open.spotify.com/track/048xYw945gtFRUzXJangTJ) | [SekreTz](https://open.spotify.com/artist/7he7Kv575lHSDNHReomGGf) | [Away](https://open.spotify.com/album/2mx3WWnR1G8ZkuLzgOqo1Z) | 2:55 | 2023-11-03 | 2023-11-17 |
 | [AWAY](https://open.spotify.com/track/5hVEJdVu0jJReVJQRvjFtz) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [AWAY](https://open.spotify.com/album/2t9FeXfRbzq03QGQ6NWumJ) | 2:15 | 2024-06-14 | 2024-06-28 |
@@ -2350,6 +2351,7 @@
 | [Shower Blessings](https://open.spotify.com/track/55IJLms6CxKeFfTN0IK6LS) | [Star Baba Jay](https://open.spotify.com/artist/4x6fGvDyGYKei3Dc3u1MkU) | [Shower Blessings](https://open.spotify.com/album/2m3ykGRxqqmUxqXIpKTdLK) | 3:34 | 2023-12-01 | 2023-12-15 |
 | [Shower Me](https://open.spotify.com/track/4zgWDuucywhhA7zcILf0pn) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Shower Me](https://open.spotify.com/album/0K2AUY3s6PpMLq19G3JMab) | 3:19 | 2023-09-15 | 2023-09-29 |
 | [Showtime](https://open.spotify.com/track/1hYY9wAQ6wCbZTsKEjxU6d) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Askoye](https://open.spotify.com/artist/3e7v61CscDoK3g7LSYo7tz) | [Showtime](https://open.spotify.com/album/1FKR6VNjtKmKLvqdSONe2o) | 3:17 | 2023-11-24 | 2023-12-01 |
+| [Sign in \(Alo\)](https://open.spotify.com/track/56AsXL2V6F7o8ghii088sc) | [Sun The Sign](https://open.spotify.com/artist/3kNm4HTB5OBaPlfF9NYQlv), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Sign in \(Alo\)](https://open.spotify.com/album/3WyJNsLMlAQoocDOoFG5yf) | 2:27 | 2024-07-12 |  |
 | [Signs and Wonders](https://open.spotify.com/track/3nbgNaPsu81CPDE4P6cTR0) | [Mokia psalm](https://open.spotify.com/artist/07OkFyqAxxTcBlzqWX6XMY) | [Genesis](https://open.spotify.com/album/7MMptZ5wikos2svPOYx0sq) | 3:37 | 2023-06-23 | 2023-07-07 |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-04-19 |
 | [Silent Night](https://open.spotify.com/track/5OzOBgprIqWm4kwByR72ln) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Silent Night](https://open.spotify.com/album/1C8dBLdykBJdhg6RFGE4Lb) | 3:21 | 2023-12-08 | 2023-12-22 |
@@ -2726,7 +2728,7 @@
 | [Use Me Lord](https://open.spotify.com/track/3XfsgBwb38RYE1ONm1S7Ly) | [Miracle V](https://open.spotify.com/artist/2KkZT2Y0mlbVL1DuF18AdQ) | [Use Me Lord](https://open.spotify.com/album/6iPWYieSog8N92DWBAK6xA) | 5:51 | 2024-05-17 | 2024-06-01 |
 | [Uthando Lwakho Luyangengama](https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakho Luyangengama](https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg) | 4:28 | 2023-10-27 | 2023-11-10 |
 | [UYesu](https://open.spotify.com/track/1TH90Rg3SZ7cNU9YQICwE0) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr), [Healling](https://open.spotify.com/artist/2Gd5qK78l1BeejHMAxBOki) | [What's Coming](https://open.spotify.com/album/7btZCei8TAMJaCoiRPbSmW) | 5:58 | 2023-10-27 | 2023-11-10 |
-| [Varities](https://open.spotify.com/track/60MjFinT6k7RmzzA8dRCbU) | [Philipiano](https://open.spotify.com/artist/1pvl20igVaAnDLUWxrpoTl) | [Inside](https://open.spotify.com/album/1wShyAOCtSnqTBfPydxJ4T) | 10:32 | 2024-07-12 |  |
+| [Varieties](https://open.spotify.com/track/60MjFinT6k7RmzzA8dRCbU) | [Philipiano](https://open.spotify.com/artist/1pvl20igVaAnDLUWxrpoTl) | [Inside](https://open.spotify.com/album/1wShyAOCtSnqTBfPydxJ4T) | 10:32 | 2024-07-12 |  |
 | [Ven \- Remix](https://open.spotify.com/track/27mmbAOPtbBrOqhH6eFquA) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Ven \(Remix\)](https://open.spotify.com/album/3SppLiEdDyIlJa4Akg8pZY) | 1:10 | 2024-04-26 | 2024-05-03 |
 | [Very Big God \(Live\)](https://open.spotify.com/track/3mfSmto5o9ZJsAiV68eekS) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Very Big God \(Live\)](https://open.spotify.com/album/5UpyYpUQrggjNDZvlBf2Yu) | 3:58 | 2024-06-28 | 2024-07-12 |
 | [Very Grateful](https://open.spotify.com/track/6AQcDjtqyHkNxlnEwf79g0) | [Kelvocal](https://open.spotify.com/artist/5Qrekjo7sdohkvhXv3tW1T) | [Very Grateful](https://open.spotify.com/album/4Ze7nPCnngScXGcBDlLgWj) | 3:08 | 2023-12-01 | 2023-12-15 |

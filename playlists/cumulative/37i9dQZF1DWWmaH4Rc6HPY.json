@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Hombres G y Reik en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 217333,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/05jqbc1rLQEO7ChyHBmE6V"
@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Al Borde del Infinito",
+        "url": "https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249413,
+      "name": "Al Borde del Infinito",
+      "url": "https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq"
+    },
+    {
+      "album": {
         "name": "Al menos ahora",
         "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
       },
@@ -190,6 +208,24 @@
       "duration_ms": 147853,
       "name": "Algo De Verdad",
       "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
+    },
+    {
+      "album": {
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "album": {
@@ -622,7 +658,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204510,
       "name": "Cuando No Quedan Ganas",
       "url": "https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL"
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 225480,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd"
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 202199,
       "name": "Las Notas de mi Psic\u00f3loga",
       "url": "https://open.spotify.com/track/74YenQVP95xqKxAkZuzfhI"
@@ -1404,6 +1440,28 @@
       "duration_ms": 214853,
       "name": "Mago",
       "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
+    },
+    {
+      "album": {
+        "name": "Marta tiene un marcapasos",
+        "url": "https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178535,
+      "name": "Marta tiene un marcapasos",
+      "url": "https://open.spotify.com/track/7shspTz6FNQstsNXsKPiGe"
     },
     {
       "album": {
@@ -2250,6 +2308,24 @@
       "duration_ms": 163795,
       "name": "Rubia sol morena \ud83c\udf19 v2",
       "url": "https://open.spotify.com/track/4MalLppLw1qEzTZc2DQuBl"
+    },
+    {
+      "album": {
+        "name": "Sabor a Chocolate",
+        "url": "https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231027,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq"
     },
     {
       "album": {

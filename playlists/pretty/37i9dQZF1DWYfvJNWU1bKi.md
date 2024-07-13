@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Indian 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,380 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,508 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 56 | [Yaar Azhaippadhu \- From "Maara"](https://open.spotify.com/track/5kByOzRm7KpgFUOeClZbek) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Yaar Azhaippadhu \(From "Maara"\)](https://open.spotify.com/album/6fzTq7MV4KcGditF41bsWe) | 4:10 |
 | 57 | [Uyir Uruvaatha \- From "Iravukku Aayiram Kangal"](https://open.spotify.com/track/5dmT9CGPfulrQxLZDKnujW) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Adiyae Azhagae](https://open.spotify.com/album/5xKHvZGvhLHfsp7AgzL1kK) | 4:13 |
 | 58 | [Asku Laska](https://open.spotify.com/track/3PzkxdshpgSkWrEeVqTsDe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 6:20 |
-| 59 | [High On Love](https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP) | [Yuvan Shankar Raja,Sid Sriram](https://open.spotify.com/artist/6Evs1xNlpWtRw45FmPQ2DV) | [High On Love \(From "Pyaar Prema Kaadhal" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT) | 4:00 |
-| 60 | [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 |
+| 59 | [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 |
+| 60 | [High On Love](https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP) | [Yuvan Shankar Raja,Sid Sriram](https://open.spotify.com/artist/6Evs1xNlpWtRw45FmPQ2DV) | [High On Love \(From "Pyaar Prema Kaadhal" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT) | 4:00 |
 | 61 | [Munbe Vaa](https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Silunu Oru Kadhal](https://open.spotify.com/album/2V66QirokxORBvsvLCkX75) | 5:56 |
 | 62 | [Malai Mangum Neram](https://open.spotify.com/track/2yDBeS1pUuX9ms5Y3ItIAf) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Rowthiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Bi1ggSG4ljoZoD4e5jpyA) | 5:13 |
 | 63 | [Vaa Vaathi](https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8) | 3:45 |

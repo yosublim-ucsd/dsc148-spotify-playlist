@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con Foudeqush en portada\. 🌊✨
 
-526 songs - 1 day 3 hr 6 min
+527 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [El Castillo De La Pureza](https://open.spotify.com/track/7vOGeCyclXHCgAxC7IyTyi) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Castillo De La Pureza](https://open.spotify.com/album/0wn1xgrHkSxTG8dsH7qvnd) | 4:41 | 2024-02-23 | 2024-03-17 |
 | [El Cine](https://open.spotify.com/track/13CSEQrnkUEHazIs8Khlgu) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [El Cine](https://open.spotify.com/album/39HFnEulyqMasSEG5ijfsK) | 4:03 | 2024-06-21 |  |
 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2022-10-14 | 2023-05-06 |
+| [El Crush](https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [El Crush](https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm) | 2:28 | 2024-07-12 |  |
 | [El Cuarto](https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [El Cuarto](https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6) | 2:56 | 2023-02-24 | 2024-01-13 |
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 | 2024-01-13 |
 | [Elefante Rosado](https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Elefante Rosado](https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl) | 2:13 | 2022-02-18 | 2023-01-11 |
@@ -331,7 +332,7 @@
 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 | 2022-03-23 | 2024-03-09 |
 | [Nostalgia](https://open.spotify.com/track/0A91vGTQe1bwbm6QuL8x1B) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Nostalgia](https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB) | 5:22 | 2022-07-01 | 2022-08-06 |
 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-14 | 2023-05-20 |
-| [NSQD](https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [NSQD](https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c) | 2:22 | 2024-03-22 |  |
+| [NSQD](https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [NSQD](https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c) | 2:22 | 2024-03-22 | 2024-07-13 |
 | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 | 2023-07-01 |
 | [Nuevas Normas](https://open.spotify.com/track/5vVCqSbs29fU2KTj9snGmr) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Nuevas Normas](https://open.spotify.com/album/5LHkIWpDVtAqZiYGgCLVm8) | 3:40 | 2023-07-14 | 2023-08-26 |
 | [Nunca Es Tarde](https://open.spotify.com/track/4vON8gxrfLjvhKTCmps2vL) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Femme Fatale](https://open.spotify.com/album/6wX6esnD9cfrG4WszpaE4r) | 2:34 | 2022-10-14 | 2023-02-18 |

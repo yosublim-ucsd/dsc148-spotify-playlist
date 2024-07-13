@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Antimateria",
+        "url": "https://open.spotify.com/album/7DMDHH3ko36wCPkA6XSMv5"
+      },
+      "artists": [
+        {
+          "name": "Beta M\u00e1ximo",
+          "url": "https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101731,
+      "name": "Antimateria",
+      "url": "https://open.spotify.com/track/2vzkOxWmJWQFzRRu1zNRsN"
+    },
+    {
+      "album": {
         "name": "Arder\u00e1n",
         "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
       },
@@ -453,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Contra el Mar",
+        "url": "https://open.spotify.com/album/6JlX6G26bdreUH3t6Q21LK"
+      },
+      "artists": [
+        {
+          "name": "Presi\u00f3n",
+          "url": "https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Contra el Mar",
+      "url": "https://open.spotify.com/track/7MF0JmLAmM3HczGPc1YVYz"
+    },
+    {
+      "album": {
         "name": "Control de Masas",
         "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
       },
@@ -584,7 +620,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167374,
       "name": "Cuidado! Las palomas son drones",
       "url": "https://open.spotify.com/track/6oxXnEoxq2jmxXNMqqPZfH"
@@ -779,6 +815,24 @@
     },
     {
       "album": {
+        "name": "El Dolor",
+        "url": "https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240971,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK"
+    },
+    {
+      "album": {
         "name": "N.S.A. La Santa Familia",
         "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
       },
@@ -808,7 +862,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 262566,
       "name": "El Futuro No Espera (Versi\u00f3n 2024)",
       "url": "https://open.spotify.com/track/5yUkQEHXeihHaEqwc5nkOY"
@@ -1265,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Generaci\u00f3n Enferma",
+        "url": "https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166886,
+      "name": "Generaci\u00f3n Enferma",
+      "url": "https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd"
+    },
+    {
+      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG"
       },
@@ -1348,7 +1420,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
@@ -1370,6 +1442,24 @@
       "duration_ms": 185191,
       "name": "Histeria",
       "url": "https://open.spotify.com/track/1yvuEnWoS4I2jXKxMHBnxP"
+    },
+    {
+      "album": {
+        "name": "HISTERIA",
+        "url": "https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148864,
+      "name": "HISTERIA",
+      "url": "https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20"
     },
     {
       "album": {
@@ -1528,7 +1618,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 276058,
       "name": "Ka\u00f1a",
       "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
@@ -1716,7 +1806,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 142373,
       "name": "Las Drogas",
       "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
@@ -1795,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
+    },
+    {
+      "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
@@ -1810,6 +1918,24 @@
       "duration_ms": 289367,
       "name": "Maki Navaja, El \u00daltimo Chorisso",
       "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+    },
+    {
+      "album": {
+        "name": "Ma\u00f1anitas Tristes",
+        "url": "https://open.spotify.com/album/2oSYLsiA8RivZIifOF0PSe"
+      },
+      "artists": [
+        {
+          "name": "Belcro",
+          "url": "https://open.spotify.com/artist/4tmbWd3f0koaAlvyWhCHih"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113253,
+      "name": "Ma\u00f1anitas Tristes",
+      "url": "https://open.spotify.com/track/2mqNssH1HbTbZZ3tlUxUq2"
     },
     {
       "album": {
@@ -2192,7 +2318,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 186493,
       "name": "Nos Enga\u00f1an - original",
       "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
@@ -2564,7 +2690,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 227546,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh"
@@ -2742,6 +2868,24 @@
       "duration_ms": 192880,
       "name": "Sols El Poble Salva Al Poble",
       "url": "https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK"
+    },
+    {
+      "album": {
+        "name": "Sombra y Luz",
+        "url": "https://open.spotify.com/album/0sTzX1wBi75FyQhzYmLAZm"
+      },
+      "artists": [
+        {
+          "name": "La Inquisici\u00f3n",
+          "url": "https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157991,
+      "name": "Sombra y Luz - Sombra y Luz",
+      "url": "https://open.spotify.com/track/4tBjhicwmWAxDDblcDHbN0"
     },
     {
       "album": {
@@ -3012,7 +3156,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 118931,
       "name": "\u00bfIA o estupidez humana?",
       "url": "https://open.spotify.com/track/1j9lzxIksQYcNf9zajvo9M"

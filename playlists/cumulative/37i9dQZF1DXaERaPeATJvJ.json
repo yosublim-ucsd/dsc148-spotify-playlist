@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Pure Saturday",
+  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Float",
   "name": "Memorindie",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 272454,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/71x7IYQXrCv8Pd2CX39oQm"
+    },
+    {
+      "album": {
+        "name": "3 Hari Untuk Selamanya",
+        "url": "https://open.spotify.com/album/5Nh5S8jMCnlYtEgc3PehIG"
+      },
+      "artists": [
+        {
+          "name": "Float",
+          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "3 Hari Untuk Selamanya",
+      "url": "https://open.spotify.com/track/1NQomGeI158zPjNE6srB1i"
     },
     {
       "album": {
@@ -2148,6 +2166,24 @@
       "duration_ms": 197306,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
+    },
+    {
+      "album": {
+        "name": "3 Hari Untuk Selamanya",
+        "url": "https://open.spotify.com/album/5Nh5S8jMCnlYtEgc3PehIG"
+      },
+      "artists": [
+        {
+          "name": "Float",
+          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/3ITvxT4pByaqbVUImOWeT1"
     },
     {
       "album": {

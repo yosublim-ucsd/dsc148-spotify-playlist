@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-545 songs - 1 day 8 hr 21 min
+546 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Tea Vibes](https://open.spotify.com/track/1iJV3JB2IjuVYE3dSdY9oA) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes \- Single](https://open.spotify.com/album/3FDsCWMMNczB3gUKe7Wokj) | 3:31 | 2022-07-11 | 2022-10-07 |
 | [Tea Vibes](https://open.spotify.com/track/5RjmGdKkv1jm1eZay74ViD) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes](https://open.spotify.com/album/4UQWiTOg75IvIlw4W8YI4H) | 3:31 | 2022-07-11 | 2022-07-29 |
 | [Thaali Thevaiyilla](https://open.spotify.com/track/7sGbiYX2gBJZKVv5MEu86W) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Magisha](https://open.spotify.com/artist/6x9x7olMHIDgJyq80uhuFM) | [Thaali Thevaiyilla](https://open.spotify.com/album/5aLR6tWLPiM31mQvKvVMwn) | 4:12 | 2024-06-19 |  |
+| [Thaimai](https://open.spotify.com/track/08VXFcciBdessz9jOYXiPh) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Akash Premkumar](https://open.spotify.com/artist/03L3fnjptwgc4m7Jt3bFSD) | [Thaimai](https://open.spotify.com/album/6Ig6IiYyMKDfBjRPgZDX41) | 3:00 | 2024-07-12 |  |
 | [Thalakeezhai](https://open.spotify.com/track/349EqVyKRJaTmhSENFxu4v) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Thalakeezhai](https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG) | 2:40 | 2024-07-04 |  |
 | [Thalaradhe](https://open.spotify.com/track/1mb6CBQ7l1QfuaF3Av9kSR) | [Nijil Dhinakar](https://open.spotify.com/artist/0Y4SyLXBpdQUJAml0K2Qmn), [Karthik baskar](https://open.spotify.com/artist/1ye2t09VNGVKiVnubCWhuT) | [Thalaradhe](https://open.spotify.com/album/4aQNQEPmLqtqoNjD0ISk00) | 2:03 | 2022-08-23 | 2023-02-09 |
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/15kqLTDPwuLphV2mpl4sYc) | 3:27 | 2022-08-30 | 2022-10-07 |

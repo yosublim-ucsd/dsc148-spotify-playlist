@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 27 | [Humpty Dumpty](https://open.spotify.com/track/04o3c9AXKwBfe3fGfDG8Dx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 4:01 |
 | 28 | [Nothing Is Good Enough \- Instrumental](https://open.spotify.com/track/1tV2cbfQDjdgQFq5fuGHPf) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 3:09 |
 | 29 | [This Is How It Goes](https://open.spotify.com/track/2k7KQNmP59SqQfUlxEFfxe) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:47 |
-| 30 | [Charmer](https://open.spotify.com/track/48POiFEHYdj2hxUfDg2oU6) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:25 |
+| 30 | [Charmer](https://open.spotify.com/track/3u9FwK9xifhR6nu7ftCesB) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 3:26 |
 | 31 | [Lost In Space](https://open.spotify.com/track/59bI6atsWpDL3g8H1c60Wq) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:28 |
 | 32 | [Simple Fix](https://open.spotify.com/track/27xNHfSxIWFITp4i3sTv4M) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 4:12 |
 | 33 | [Philly Sinks](https://open.spotify.com/track/5c9uBqu6jLS45MgTfJbmZU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:14 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 97 | [The King of the Jailhouse](https://open.spotify.com/track/3o2M7CLofErdy5ic24gFe2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 5:19 |
 | 98 | [True Believer](https://open.spotify.com/track/3ys2GIJaRln9NFeFkrm4wD) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:32 |
 | 99 | [She Really Wants You](https://open.spotify.com/track/73T4BhGTXJNbwgvv9HtaZJ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:26 |
-| 100 | [Volunteers of America](https://open.spotify.com/track/22cpblBBWOJN1yM5FMiK4l) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:43 |
-| 101 | [I Can't Get My Head Around It](https://open.spotify.com/track/5dxI2hCDcV4tTCHxNpo2ee) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:37 |
+| 100 | [I Can't Get My Head Around It](https://open.spotify.com/track/5dxI2hCDcV4tTCHxNpo2ee) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:37 |
+| 101 | [Volunteers of America](https://open.spotify.com/track/22cpblBBWOJN1yM5FMiK4l) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:43 |
 | 102 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
 | 103 | [You're With Stupid Now](https://open.spotify.com/track/1KMrRIYGxU3jsGzD5fGe17) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:29 |
 | 104 | [Robert Lowell and Sylvia Plath](https://open.spotify.com/track/2puxN3wToKKlfmcMYRspOe) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:13 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AbWcQwAAAADdcJ4pGeT2oZ9OmaXdiN3J`
+Snapshot ID: `AbWh3gAAAADP4oPKyE4GdAgfty4Y/7Z5`

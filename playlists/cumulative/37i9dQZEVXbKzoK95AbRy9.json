@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161884,
       "name": "A Internet \u00c9 Toxica",
       "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 116307,
       "name": "Aquariano Nato",
       "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -944,6 +944,36 @@
       "duration_ms": 163013,
       "name": "DENTRO DA HILUX",
       "url": "https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN"
+    },
+    {
+      "album": {
+        "name": "Desilus\u00e3o (MTG) (feat. Loirin Prod)",
+        "url": "https://open.spotify.com/album/488ePTBXMWN0LVNsFDHbEr"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Loirin prod",
+          "url": "https://open.spotify.com/artist/0SgHuOMfN5sYzxKYMAHhvJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Desilus\u00e3o (MTG) (feat. Loirin Prod)",
+      "url": "https://open.spotify.com/track/4dSDTAZ7ohybHBonbtMBpP"
     },
     {
       "album": {
@@ -2638,10 +2668,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 117576,
       "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
       "url": "https://open.spotify.com/track/13KLZ8VI9P7H7bxs0vtsXC"
+    },
+    {
+      "album": {
+        "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+        "url": "https://open.spotify.com/album/35DPR0dkam349rdNwMQjTh"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117576,
+      "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+      "url": "https://open.spotify.com/track/7JMtl41kGPDlzxsH3FkkqD"
     },
     {
       "album": {
@@ -2770,6 +2818,28 @@
       "duration_ms": 132247,
       "name": "Nuuu Que Trem B\u00e3o - Ao vivo",
       "url": "https://open.spotify.com/track/4j43glFTBnFmFCiiV9CHoy"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
+        "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        },
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117230,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
+      "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
     },
     {
       "album": {
@@ -3625,6 +3695,28 @@
     },
     {
       "album": {
+        "name": "Sombra Desconhecida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160885,
+      "name": "Sombra Desconhecida - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
+    },
+    {
+      "album": {
         "name": "Sonho Dela (Cowboy)",
         "url": "https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq"
       },
@@ -3860,6 +3952,28 @@
       "duration_ms": 266666,
       "name": "THE BOX MEDLEY FUNK 2",
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
+    },
+    {
+      "album": {
+        "name": "Tigrinho",
+        "url": "https://open.spotify.com/album/05OsrGORxKEKWXziKlgYKV"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        },
+        {
+          "name": "Guerra Neto",
+          "url": "https://open.spotify.com/artist/06BpHz4LyxvDFHPYron5jO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120714,
+      "name": "Tigrinho",
+      "url": "https://open.spotify.com/track/6fORpZeVACbxNYPILlldfZ"
     },
     {
       "album": {
@@ -4220,7 +4334,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"

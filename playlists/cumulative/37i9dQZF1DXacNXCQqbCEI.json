@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
+  "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
   "name": "El\u00e9ctrica Selv\u00e1tica",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 289186,
       "name": "Altamar",
       "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 246116,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 271335,
       "name": "Las Mellas - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
@@ -4970,6 +4970,24 @@
       "duration_ms": 220725,
       "name": "Sutileza",
       "url": "https://open.spotify.com/track/4nM8qYpn5Vea91lfZoEHAo"
+    },
+    {
+      "album": {
+        "name": "Mi Latinoam\u00e9rica Sufre",
+        "url": "https://open.spotify.com/album/64fUUQ01HGk9FKTK57VnwZ"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222643,
+      "name": "S\u00e9 que estoy cambiando",
+      "url": "https://open.spotify.com/track/48BTCgnfwIzMB6HSn6bRDr"
     },
     {
       "album": {

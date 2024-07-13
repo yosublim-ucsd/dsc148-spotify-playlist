@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180021,
       "name": "Deixa",
       "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Maria do Olho Verde",
+      "url": "https://open.spotify.com/track/6c5AQO3llPWxeAK4b3cAut"
+    },
+    {
+      "album": {
         "name": "Marrenta",
         "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
       },
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 220160,
       "name": "meu am\u00f4 chegou",
       "url": "https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe"
@@ -5608,6 +5626,28 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "album": {
+        "name": "O que \u00e9 teu te encontra",
+        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151386,
+      "name": "O que \u00e9 teu te encontra",
+      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
     },
     {
       "album": {
@@ -6856,7 +6896,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155605,
       "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
       "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
@@ -8408,6 +8448,32 @@
       "duration_ms": 148915,
       "name": "Telepatia",
       "url": "https://open.spotify.com/track/4mYq9GLiRglw3V6lztdV4e"
+    },
+    {
+      "album": {
+        "name": "Tem Barata Voadora Que Se Acha Borboleta",
+        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
+      },
+      "artists": [
+        {
+          "name": "NAT\u00d6",
+          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "CRIS.",
+          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "Tem Barata Voadora Que Se Acha Borboleta",
+      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
     },
     {
       "album": {

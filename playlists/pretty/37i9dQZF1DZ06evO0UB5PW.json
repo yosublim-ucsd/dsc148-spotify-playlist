@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 55022,
+  "num_followers": 55047,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAABKSIMV2CC+vwKRCQ5J1IP1",
+  "snapshot_id": "Zo8ggAAAAAD1TTAC3Dm7asZt5SdBCNn7",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "The Motherload",
+      "url": "https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emperor of Sand",
         "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 303106,
       "name": "Steambreather",
       "url": "https://open.spotify.com/track/4Ut80ggQbyiJN2pGCs7VfB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Once More 'Round the Sun",
-        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/4coYVm83MTdcEKlWcbU4Zh"
     },
     {
       "added_at": null,
@@ -84,9 +84,25 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 320507,
-      "name": "Teardrinker",
-      "url": "https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq"
+      "duration_ms": 411932,
+      "name": "More Than I Could Chew",
+      "url": "https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/4coYVm83MTdcEKlWcbU4Zh"
     },
     {
       "added_at": null,
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 411932,
-      "name": "More Than I Could Chew",
-      "url": "https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 178946,
       "name": "Once More 'Round the Sun",
       "url": "https://open.spotify.com/track/5tWHXNwoIZsSL7qnmsgfpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 301778,
+      "name": "Pain with an Anchor",
+      "url": "https://open.spotify.com/track/4rFC258Osi9vYljhOU0r6u"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 301778,
-      "name": "Pain with an Anchor",
-      "url": "https://open.spotify.com/track/4rFC258Osi9vYljhOU0r6u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 372640,
       "name": "Asleep in the Deep",
       "url": "https://open.spotify.com/track/6yiFbPkFbHzuzQsEatSc03"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Colony of Birchmen",
+      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
     },
     {
       "added_at": null,
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 299542,
-      "name": "The Crux",
-      "url": "https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 314040,
       "name": "Tread Lightly",
       "url": "https://open.spotify.com/track/46PDxEshU0SPeKY36Pu3FY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 299542,
+      "name": "The Crux",
+      "url": "https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB"
     },
     {
       "added_at": null,
@@ -324,25 +340,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Colony of Birchmen",
-      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 209932,
-      "name": "Pushing the Tides",
-      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
+      "duration_ms": 204866,
+      "name": "Crystal Skull",
+      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
     },
     {
       "added_at": null,
@@ -363,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emperor of Sand",
-        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Word to the Wise",
-      "url": "https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood Mountain",
-        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Crystal Skull",
-      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hushed and Grim",
         "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
@@ -404,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 377695,
-      "name": "Sickle and Peace",
-      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
+      "duration_ms": 209932,
+      "name": "Pushing the Tides",
+      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
     },
     {
       "added_at": null,
@@ -436,25 +404,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 388200,
-      "name": "Roots Remain",
-      "url": "https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stairway to Nick John",
-        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 485018,
-      "name": "Stairway to Heaven",
-      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+      "duration_ms": 240280,
+      "name": "Word to the Wise",
+      "url": "https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad"
     },
     {
       "added_at": null,
@@ -475,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once More 'Round the Sun",
-        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
       "artists": [
         {
@@ -484,9 +436,41 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 332040,
-      "name": "Chimes at Midnight",
-      "url": "https://open.spotify.com/track/4KYy8DKz2E9DSnlgN0YJOs"
+      "duration_ms": 377695,
+      "name": "Sickle and Peace",
+      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stairway to Nick John",
+        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 485018,
+      "name": "Stairway to Heaven",
+      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emperor of Sand",
+        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 388200,
+      "name": "Roots Remain",
+      "url": "https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 354306,
       "name": "Crack the Skye",
       "url": "https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 363454,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/334K6B7IWJUFFWxWdYjdXq"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 654293,
-      "name": "The Czar: Usurper / Escape / Martyr / Spiral",
-      "url": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
+      "duration_ms": 324786,
+      "name": "Ghost of Karelia",
+      "url": "https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 324786,
-      "name": "Ghost of Karelia",
-      "url": "https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng"
+      "duration_ms": 654293,
+      "name": "The Czar: Usurper / Escape / Martyr / Spiral",
+      "url": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
     },
     {
       "added_at": null,

@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 159456,
       "name": "CHEGOU 3",
       "url": "https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn"
@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -4152,6 +4152,28 @@
       "duration_ms": 168941,
       "name": "HIND'S HALL",
       "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
+    },
+    {
+      "album": {
+        "name": "Hit The Floor",
+        "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Hit The Floor",
+      "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
     },
     {
       "album": {
@@ -6378,7 +6400,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189492,
       "name": "Lunettes",
       "url": "https://open.spotify.com/track/39ZrkiKrSzPgv9ttRxgZgC"

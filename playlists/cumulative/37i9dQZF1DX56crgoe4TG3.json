@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 207440,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/6W90nyRbwOUaiww9dSEnAa"
@@ -694,6 +694,24 @@
       "duration_ms": 455973,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/3oVRuQY34aspcdgEWbL0lD"
+    },
+    {
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "album": {
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 225506,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc"
@@ -2688,6 +2706,36 @@
       "duration_ms": 209000,
       "name": "Let's Get It Started",
       "url": "https://open.spotify.com/track/0Ti70H69CvNwtfku4ajGTA"
+    },
+    {
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
+      },
+      "artists": [
+        {
+          "name": "The Desert Willows",
+          "url": "https://open.spotify.com/artist/11kqrpD777gwAzqoqbGk11"
+        },
+        {
+          "name": "Shane Travis",
+          "url": "https://open.spotify.com/artist/0Rpj6yLa15br1rTsEz4ZAv"
+        },
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240305,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
     },
     {
       "album": {
@@ -2800,6 +2848,28 @@
       "duration_ms": 259389,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5okFkhRbWOSDWp3c15ouMB"
+    },
+    {
+      "album": {
+        "name": "Pickin' On The Doors",
+        "url": "https://open.spotify.com/album/4CGYV0NXAcsomCK4swjBuX"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/0YUD5sVmPo7eQTxbNXwEg8"
     },
     {
       "album": {
@@ -3528,7 +3598,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 277920,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/23DqNr2t9vvi1tiS4vYqUB"

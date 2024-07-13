@@ -1577,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "album": {
         "name": "Going Deep",
         "url": "https://open.spotify.com/album/5xiRFjvRCLO0adzicqhZOs"
       },
@@ -3572,7 +3590,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 206889,
       "name": "Spacewave",
       "url": "https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu"

@@ -2,9 +2,9 @@
 
 ### [PURO SUCO DO BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Mc Livinho, DJ TOPO
+> aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Mc NATTAN, Ana Castela
 
-305 songs - 14 hr 25 min
+306 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Lets Go 4](https://open.spotify.com/track/1sZERP8lxfWxjyzPGl2MvA) | [leo caneta de ouro](https://open.spotify.com/artist/38MPWRSmaPNCLmbr1RH73n) | [Lets Go 4](https://open.spotify.com/album/38zYNwOTfIWOT5FKmWnEBu) | 4:31 | 2023-09-08 | 2023-09-14 |
 | [Let´s Go 4](https://open.spotify.com/track/3NU9HlJzAGxs3S7oE2QyF2) | [fpz](https://open.spotify.com/artist/6iApZhWkdXv40VOWDFAGFe) | [Let´s Go 4](https://open.spotify.com/album/4OvtSRAQWxnLMxgD2o3KOq) | 4:31 | 2023-08-29 | 2023-09-11 |
 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 | 2023-05-15 |  |
-| [Liga Pros Tralha](https://open.spotify.com/track/7aWxNKi3sycttLY7wR6Smp) | [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Liga Pros Tralha](https://open.spotify.com/album/0YRtTfeCv5x6wfCtyRNi11) | 2:56 | 2024-05-09 |  |
+| [Liga Pros Tralha](https://open.spotify.com/track/7aWxNKi3sycttLY7wR6Smp) | [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Liga Pros Tralha](https://open.spotify.com/album/0YRtTfeCv5x6wfCtyRNi11) | 2:56 | 2024-05-09 | 2024-07-13 |
 | [Love Absurdo](https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Love Absurdo](https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS) | 3:04 | 2023-05-15 | 2023-10-17 |
 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 | 2023-05-15 | 2024-06-15 |
 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 | 2023-07-06 | 2024-04-27 |
@@ -208,6 +208,7 @@
 | [Passada de Mão \- Ao Vivo](https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Passada de Mão \(Ao Vivo\)](https://open.spotify.com/album/1uaWBRr8TaO8vCLso2waUO) | 2:43 | 2024-02-03 | 2024-06-15 |
 | [Passe Livre](https://open.spotify.com/track/3UBt3hcQDzqi3MB4V5AzGH) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Passe Livre](https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd) | 2:53 | 2023-05-15 | 2023-07-22 |
 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj) | 3:12 | 2024-01-17 | 2024-02-04 |
+| [Pega Cabuloso \- Ao Vivo em São Paulo](https://open.spotify.com/track/4A59ygOlOd3V0GbyEmUxKs) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Pega Cabuloso \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o) | 2:17 | 2024-07-12 |  |
 | [PEGA ESCANDALOSO](https://open.spotify.com/track/0ODlZu2uJ13I29NfFJJVir) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [PEGA ESCANDALOSO](https://open.spotify.com/album/04zYU6BO0y6Tz9rkmg658x) | 2:37 | 2024-04-19 | 2024-07-06 |
 | [Pega o Guanabara \- Ao Vivo](https://open.spotify.com/track/63q5Qb9ERTpapEmARxKBE6) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Wesley Safadão Ao Vivo em Fortaleza \- EP.01](https://open.spotify.com/album/3rlBnUvwFdWTdEzlaakPfg) | 2:58 | 2023-05-15 | 2023-10-24 |
 | [Película de Vidro \- Ao Vivo](https://open.spotify.com/track/5G14doWE8UZLFw9nlcNDm8) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Película de Vidro \(Ao Vivo\)](https://open.spotify.com/album/7psl0XwwmQZArUR3efXKgx) | 2:26 | 2024-02-09 |  |

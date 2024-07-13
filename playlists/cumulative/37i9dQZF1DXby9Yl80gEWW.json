@@ -540,7 +540,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 240440,
       "name": "Big Country - Instrumental",
       "url": "https://open.spotify.com/track/7N3SAicdAPqwRXu7luvNl2"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 231098,
       "name": "Finch In The Pantry",
       "url": "https://open.spotify.com/track/3A9Ko23awcO4gL0a9RTesh"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU"
@@ -4108,7 +4108,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 149528,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6erMR3NgwNe9v7IgjImkjq"
@@ -4991,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Music In My Soul",
+        "url": "https://open.spotify.com/album/0HLMvCeIF5bl6QT5mi0waL"
+      },
+      "artists": [
+        {
+          "name": "High Fidelity",
+          "url": "https://open.spotify.com/artist/34bKWGpOaWlussfYQW71EO"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146866,
+      "name": "There Is Power in the Blood",
+      "url": "https://open.spotify.com/track/44e9foUE9X9WNuSuW0rrNB"
+    },
+    {
+      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -5046,6 +5064,24 @@
       "duration_ms": 206106,
       "name": "Town's End",
       "url": "https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM"
+    },
+    {
+      "album": {
+        "name": "Bluegrass Holiday",
+        "url": "https://open.spotify.com/album/5pCqKLZkDzJdXAmCMPi5zE"
+      },
+      "artists": [
+        {
+          "name": "J.D. Crowe",
+          "url": "https://open.spotify.com/artist/1CSyDCZKVQyFIW0Eo8CHDp"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143800,
+      "name": "Train 45",
+      "url": "https://open.spotify.com/track/0Aw2HnJlaD1Kp11gh17u8H"
     },
     {
       "album": {

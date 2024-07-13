@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-174 songs - 10 hr 15 min
+175 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Faz Parte](https://open.spotify.com/track/4qgEfqc8o2hfpS2OT1J1AM) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Faz Parte](https://open.spotify.com/album/1Op8EBccQRtltpW8eOGZPe) | 2:59 | 2023-02-03 | 2023-04-16 |
 | [Fim de Tarde](https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fim de Tarde](https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh) | 2:18 | 2023-06-02 | 2024-04-20 |
 | [Flutuar](https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Flutuar](https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX) | 3:34 | 2023-11-24 |  |
+| [Fui Liberto](https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t) | [Nicole Gomes](https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA), [Gospel Beat Brasil](https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU) | [Fui Liberto](https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3) | 2:33 | 2024-07-12 |  |
 | [GPS](https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [GPS](https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b) | 3:35 | 2022-08-05 | 2023-07-15 |
 | [Graça Sobre Graça](https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs) | [Brenda Danese](https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r) | [Graça Sobre Graça](https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi) | 3:11 | 2023-08-18 |  |
 | [Hoje Eu Vivo](https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE), [Babi Garcia](https://open.spotify.com/artist/01sgeuHsummWMm330PtyM5) | [Hoje Eu Vivo](https://open.spotify.com/album/71zFfgb78uhDc28Ym9v35b) | 2:23 | 2023-11-24 | 2023-12-23 |
@@ -139,7 +140,7 @@
 | [Selo do Perdão \(Legado\)](https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA) | [Carlinhos Félix](https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4) | [Selo do Perdão \(Legado\)](https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q) | 4:10 | 2024-06-21 |  |
 | [Seu Amor](https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Amor](https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs) | 2:46 | 2023-06-23 |  |
 | [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 | 2022-08-05 | 2023-02-04 |
-| [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 | 2022-08-05 |  |
+| [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 | 2022-08-05 | 2024-07-13 |
 | [Sinal de Aviso](https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Sinal de Aviso](https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4) | 3:15 | 2023-11-03 | 2024-04-19 |
 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 | 2022-08-05 |  |
 | [Sonhar](https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw) | [Sonhar](https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK) | 2:18 | 2023-11-03 |  |

@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Novo Som
 
-152 songs - 11 hr 47 min
+153 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [O Meu Lugar](https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [O Meu Lugar](https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2) | 4:05 | 2023-10-06 |  |
 | [O Mundo ao Seu Redor](https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [O Mundo ao Seu Redor](https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K) | 3:08 | 2022-09-02 | 2022-12-10 |
 | [O Poder do Todo Dia](https://open.spotify.com/track/3OBnnhkdIGXts9gTZoboZO) | [Di Monteiro](https://open.spotify.com/artist/5ez9IAyDbZRWrtcwgzXd5T), [Maefe](https://open.spotify.com/artist/3RxVvaganelxfeNBjEJdTQ) | [O Poder do Todo Dia](https://open.spotify.com/album/3yskn8PCd7V7Q5fzbOPvr8) | 2:30 | 2024-03-08 | 2024-04-19 |
-| [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 | 2022-11-25 |  |
+| [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 | 2022-11-25 | 2024-07-13 |
 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 | 2022-09-02 |  |
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/2DdXmwABkeRvYEwAttO5Gk) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [OH! Se Fendesses \(Ao Vivo\)](https://open.spotify.com/album/23W9YrV5f32i4boR90nsmj) | 6:22 | 2022-10-14 | 2022-11-13 |
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:22 | 2022-09-02 | 2024-04-19 |
@@ -153,6 +153,7 @@
 | [Tudo Muda Com Você](https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96) | [Celeste](https://open.spotify.com/artist/7p7x7OL8D73ujzsNHF7jHR) | [Tudo Muda Com Você](https://open.spotify.com/album/72sIaqNgznTJCbLOSXMncf) | 3:36 | 2022-09-02 | 2023-01-14 |
 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 | 2023-04-15 |  |
 | [Uma Carta de Amanhã](https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX) | [Uma Carta de Amanhã](https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ) | 3:51 | 2022-09-02 | 2024-03-09 |
+| [Uma Oração](https://open.spotify.com/track/6xHz3aS5XTXaOpzCbaqmDL) | [Ellen Lizz](https://open.spotify.com/artist/3AcayJdSS6Uk5PEMxcJswe), [Luiz Claudio](https://open.spotify.com/artist/61q7DO3LsxVBCeQlrcz7ub) | [Uma Oração](https://open.spotify.com/album/1ugjC1NVyPlRhG7WzoCWB9) | 4:04 | 2024-07-12 |  |
 | [Vem Cantar \- Salmo 95](https://open.spotify.com/track/1isclXANLY4ny3quvpST7p) | [Tanlan](https://open.spotify.com/artist/1tVNmuJHlGbAP5y5Wl2Vdj) | [Vem Cantar \- Salmo 95](https://open.spotify.com/album/4xZH5F4dsOX652q4btTdAx) | 3:40 | 2023-10-06 | 2023-11-04 |
 | [Vestido Azul](https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK) | [Columbário](https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV) | 3:35 | 2023-11-03 | 2024-06-15 |
 | [Viver](https://open.spotify.com/track/0aAQv9SZAJ3KgJuQ0lqNRn) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Flávio Morilha](https://open.spotify.com/artist/7lZ1saVYmbFFjaY0Vcxuy7) | [Viver](https://open.spotify.com/album/1vS6G52uJfUgt8ZIInVMgK) | 3:48 | 2023-11-24 | 2023-12-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 341279,
+  "num_followers": 341375,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -307,22 +323,6 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
-      },
-      "artists": [
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
     },
     {
       "added_at": "2024-04-18 21:02:57",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Roped In",
-        "url": "https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
         "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
       },
@@ -821,20 +805,20 @@
       "url": "https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb"
     },
     {
-      "added_at": "2022-08-03 02:33:45",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+        "name": "Roped In",
+        "url": "https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -855,6 +839,22 @@
       "duration_ms": 163837,
       "name": "Concise",
       "url": "https://open.spotify.com/track/4H0wNqcWYEZBW94oBygF0k"
+    },
+    {
+      "added_at": "2022-08-03 02:33:45",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     }
   ],
   "unique_name": "Deep Listening",

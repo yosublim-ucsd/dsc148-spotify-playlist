@@ -2,7 +2,7 @@
 
 ### [Top Latin Indie](https://open.spotify.com/playlist/37i9dQZF1DX4V5eXk4NKqu)
 
-> The best of Latin Indie today, featuring Diamante Eléctrico.
+> The best of Latin Indie today, featuring Buscabulla.
 
 343 songs - 19 hr 32 min
 

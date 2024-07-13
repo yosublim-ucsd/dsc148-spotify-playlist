@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "H\u00e1 Sempre Uma M\u00fasica",
+        "url": "https://open.spotify.com/album/68etasB9n5OlhGaBIxX6s9"
+      },
+      "artists": [
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181900,
+      "name": "H\u00e1 Sempre Uma M\u00fasica",
+      "url": "https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE"
+    },
+    {
+      "album": {
         "name": "SNTMNTL",
         "url": "https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn"
       },
@@ -868,7 +886,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181900,
       "name": "H\u00e1 Sempre Uma M\u00fasica",
       "url": "https://open.spotify.com/track/72zUGpAotxbRhlqXnB9nSD"

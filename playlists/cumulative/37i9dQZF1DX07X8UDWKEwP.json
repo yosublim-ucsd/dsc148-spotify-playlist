@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/6QYWcCRml9vdNtkWcgPpbX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183992,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/0tmWlRsH7q0JfFrWxfQvqw"
+    },
+    {
+      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM"
       },
@@ -536,7 +558,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 169699,
       "name": "Asi Es La Vida",
       "url": "https://open.spotify.com/track/4qZglQyHvpdDWjbc7cayAY"
@@ -634,7 +656,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195938,
       "name": "Atr\u00e9vete a un #Tbt",
       "url": "https://open.spotify.com/track/47NsRHpErV9F69SN4QxcjF"
@@ -1132,6 +1154,24 @@
       "duration_ms": 281082,
       "name": "Brindo Con Agua",
       "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
+    },
+    {
+      "album": {
+        "name": "Modales",
+        "url": "https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "Buen Provecho",
+      "url": "https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE"
     },
     {
       "album": {
@@ -2150,7 +2190,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 187000,
       "name": "Di Que S\u00ed",
       "url": "https://open.spotify.com/track/3SwU6NpaZ257IYLkOINHuM"
@@ -3518,7 +3558,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168050,
       "name": "Hipnotizado",
       "url": "https://open.spotify.com/track/067dYPI35SJr0zqunPGcxg"
@@ -3672,7 +3712,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 275820,
       "name": "Indiferencia",
       "url": "https://open.spotify.com/track/3F9R0He2vnBCMk32p4ddgT"
@@ -5009,6 +5049,28 @@
     },
     {
       "album": {
+        "name": "ME GUSTAN TODAS",
+        "url": "https://open.spotify.com/album/2gdenJOV6lUWmyRWMRDgJS"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181791,
+      "name": "ME GUSTAN TODAS",
+      "url": "https://open.spotify.com/track/360nASHrDZlY2REawPoE20"
+    },
+    {
+      "album": {
         "name": "Comienzos",
         "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
       },
@@ -5598,7 +5660,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188012,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/4eVSoe47ZA7LqMhPpqNb6Z"
@@ -8112,7 +8174,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 153500,
       "name": "TE AMO \u2661",
       "url": "https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN"
@@ -8802,7 +8864,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 290107,
       "name": "Vanidad",
       "url": "https://open.spotify.com/track/1QlJSCz5vDDsvbDovwcVlV"

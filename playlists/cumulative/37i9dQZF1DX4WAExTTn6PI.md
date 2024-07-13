@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Americana's artists and hits of tomorrow\. Cover: Willow Avalon
+> Americana's artists and hits of tomorrow\. Cover: Cassandra Lewis
 
-220 songs - 13 hr 27 min
+221 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Hideout](https://open.spotify.com/track/0WB8tErWLgN3ryFfb6Q7mt) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 2:59 | 2022-01-28 |  |
 | [Higher Ground](https://open.spotify.com/track/3IPkN2bQT15rbDzw6nEdwY) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [Higher Ground](https://open.spotify.com/album/5phrODBYV3rPkxO3qVB7oY) | 3:42 | 2023-09-15 |  |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2022-01-28 | 2023-08-26 |
+| [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 | 2024-07-12 |  |
 | [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 | 2022-01-28 | 2023-05-27 |
 | [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 | 2022-01-28 | 2023-06-03 |
 | [Hurtin' For A Letdown](https://open.spotify.com/track/0XMBic5RxL53u8Ec9NYpFi) | [The Whitmore Sisters](https://open.spotify.com/artist/6LDUQ8ecAEvFDWE2khOE8h) | [Hurtin' For A Letdown](https://open.spotify.com/album/7jQGgDRrSnK4W4tIndigra) | 3:39 | 2022-01-28 | 2024-03-09 |
@@ -121,7 +122,7 @@
 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 | 2022-01-28 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2022-01-28 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 | 2024-04-19 |
-| [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 | 2024-03-22 |  |
+| [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 | 2024-03-22 | 2024-07-13 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-08 |  |
 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2024-03-22 | 2024-04-19 |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2022-01-28 |  |

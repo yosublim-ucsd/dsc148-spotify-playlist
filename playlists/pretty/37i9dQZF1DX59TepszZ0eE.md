@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=CtHImU\_HR3aNPd5uZmAMUQ>Lebo Sekgobela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,564 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,721 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 50 | [Ntate Kemang \- Live](https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 4:29 |
 | 51 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 |
 | 52 | [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 |
-| 53 | [Jesu Ufik'ekuseni \(feat\. Thinah Zungu\) \[Live\]](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 |
+| 53 | [Jesu Ufik'ekuseni \- Live](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 |
 | 54 | [Difela Medley \- Live](https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Difela Medley \(Live\)](https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z) | 11:05 |
 | 55 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 |
 | 56 | [Faithful](https://open.spotify.com/track/103rEdXIcaKjYy2Jr9rIos) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Faithful](https://open.spotify.com/album/1OozBkdbKJjxnwLTHh9KdD) | 6:00 |

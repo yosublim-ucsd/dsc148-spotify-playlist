@@ -1,13 +1,33 @@
 {
   "description": "The latest tracks from Mad Decent and friends. New music from Snow Strippers and Aluna, plus the latest cuts from evilgiane, Kito &amp; Chrome Sparks + more.",
-  "num_followers": 50700,
+  "num_followers": 50696,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAaGxtZM8MJ78Pde+wiIiWUpyaSvlXy",
+  "snapshot_id": "AAAaHt7mtAELfPhTNyzJp2WcWWJkKEFb",
   "tracks": [
+    {
+      "added_at": "2024-07-12 22:43:56",
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
+    },
     {
       "added_at": "2024-06-07 19:21:15",
       "album": {
@@ -1619,26 +1639,6 @@
       "duration_ms": 209600,
       "name": "Diamond Shovel",
       "url": "https://open.spotify.com/track/2Ij8nA08Iz2Zl0sA1Wnd9T"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Fuetazo (feat. Villano Antillano)",
-        "url": "https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Fuetazo (feat. Villano Antillano)",
-      "url": "https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k"
     },
     {
       "added_at": "2024-04-25 22:53:02",

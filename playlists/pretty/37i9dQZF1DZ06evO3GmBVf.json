@@ -1,37 +1,13 @@
 {
-  "description": "This Is Lefty Sm. Los temas esenciales, todos en una lista.",
-  "num_followers": 174824,
+  "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
+  "num_followers": 174937,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAAAtBbC/M9zFbSw4TOGapqYZ",
+  "snapshot_id": "Zo8ggAAAAACEdYFTHCTzXrebk7u2tiFw",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lefty Por Vida",
-        "url": "https://open.spotify.com/album/4Upu5DGgJIbTpxhJjBRxJI"
-      },
-      "artists": [
-        {
-          "name": "Mr. Capone-E",
-          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Dos Locos",
-          "url": "https://open.spotify.com/artist/0urvfx3TFwJcZzOWIXTsy0"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Lefty Por Vida",
-      "url": "https://open.spotify.com/track/7GTHVJKJmahreNz7QkQroz"
-    },
     {
       "added_at": null,
       "album": {
@@ -739,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Agusticidad",
-        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Qu\u00e9 Agusticidad",
-      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volvi\u00f3 A Amanecer",
         "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
       },
@@ -771,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Avion de Papel",
         "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
       },
@@ -783,6 +759,34 @@
       "duration_ms": 194899,
       "name": "Quien Te Viera",
       "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo x Nada",
+        "url": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 374571,
+      "name": "Todo x Nada",
+      "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
     },
     {
       "added_at": null,
@@ -815,34 +819,6 @@
       "duration_ms": 279642,
       "name": "Ahora Es Diferente",
       "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo x Nada",
-        "url": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
-      },
-      "artists": [
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 374571,
-      "name": "Todo x Nada",
-      "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
     },
     {
       "added_at": null,

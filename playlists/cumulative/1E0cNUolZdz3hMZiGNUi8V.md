@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.
 
-157 songs - 7 hr 27 min
+158 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 | 2024-03-15 | 2024-05-17 |
 | [NFL](https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [NFL](https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll) | 3:05 | 2023-11-03 | 2023-12-09 |
 | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/track/4zEacEOMttSocwk0HkP7yK) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY), [Veronica Elizabeth](https://open.spotify.com/artist/4F41MoSaTAAARtg7WrLSJf) | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/album/0TB0Y7sgxun4jaAZjjnrqY) | 2:56 | 2023-12-15 | 2024-01-13 |
+| [NOT AGAIN](https://open.spotify.com/track/3cmNx9h3F3JiWd6L4L8IOB) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [NOT AGAIN](https://open.spotify.com/album/3CHqfSgCxVI5NgOMqXOPdR) | 2:57 | 2024-07-13 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-16 |  |
 | [Obama](https://open.spotify.com/track/7Dy3mdmBaRqXcYDUiFp3EY) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Obama](https://open.spotify.com/album/07XjgQCGbjO95TzLITGjx0) | 2:23 | 2024-02-23 | 2024-03-02 |
 | [Okay Bet Pt\. 2 \(feat\. Skilla Baby\)](https://open.spotify.com/track/5ULeTthsfnh8av4MiKWHga) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Okay Bet Pt\. 2 \(feat\. Skilla Baby\)](https://open.spotify.com/album/48FhsqFEXciRzwi9cGp8Gz) | 2:39 | 2023-11-17 | 2023-12-02 |

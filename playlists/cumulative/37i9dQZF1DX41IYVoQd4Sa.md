@@ -4,10 +4,11 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-69 songs - 4 hr 14 min
+70 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5/4](https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z) | [Sheygets](https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8) | [עוד משקאות חריפים](https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK) | 3:45 | 2024-07-12 |  |
 | [A Thousand Times](https://open.spotify.com/track/3lJnPyMLhZ2javY7UZl36K) | [Russo](https://open.spotify.com/artist/0ECpBE2RTJep1cVxNFulEA), [Roni Bar Hadas](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [A Thousand Times](https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF) | 2:56 | 2024-06-27 |  |
 | [Another Life](https://open.spotify.com/track/5ehKFubjMlzscWxQOZXU1Y) | [Metropolin](https://open.spotify.com/artist/2CH9N0ISuyCkZ2q3XEY2V0), [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [Another Life](https://open.spotify.com/album/5q3coMph1VFaQTZliJZJIA) | 3:32 | 2024-06-27 |  |
 | [Come Back Home](https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Come Back Home](https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P) | 2:39 | 2024-06-27 |  |
@@ -45,7 +46,7 @@
 | [כל החיים](https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [כל החיים](https://open.spotify.com/album/7lIHyWYs1wRbk1GxAIY7oG) | 3:43 | 2024-06-27 |  |
 | [כנען \(12 מרגלים\)](https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [כנען \(12 מרגלים\)](https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy) | 4:50 | 2024-06-27 |  |
 | [כשאין בי אהבה](https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [כשאין בי אהבה](https://open.spotify.com/album/7jpjHhEo31VK1T5DaVB8S5) | 3:20 | 2024-06-27 | 2024-07-12 |
-| [לא לבד](https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [לא לבד](https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW) | 4:00 | 2024-06-27 |  |
+| [לא לבד](https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [לא לבד](https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW) | 4:00 | 2024-06-27 | 2024-07-13 |
 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 | 2024-06-27 |  |
 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 | 2024-06-27 | 2024-07-06 |
 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 | 2024-06-27 |  |

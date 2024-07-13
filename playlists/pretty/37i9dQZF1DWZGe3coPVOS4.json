@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 10559,
+  "num_followers": 10570,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZodvwAAAAAC9kAAqcU/8zXGeGIc8X14n",
+  "snapshot_id": "ZpCqQAAAAACPSPWS1anEUcEiFhk4MdNs",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180961,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/2dlaRwCVkHNNomzCq9TMtT"
+    },
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {

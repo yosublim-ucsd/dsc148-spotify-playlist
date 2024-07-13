@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-678 songs - 1 day 13 hr 52 min
+680 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-06-06 | 2022-06-14 |
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-24 | 2023-10-31 |
 | [thelma & louise](https://open.spotify.com/track/3SHo8R3i90ctwIA63ZZ1UV) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls : le salon](https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43) | 3:28 | 2023-06-04 | 2023-06-26 |
+| [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 |  |
 | [There Is No Now](https://open.spotify.com/track/0ZuqHAy3t1HMFwW0eEDuWk) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [There Is No Now](https://open.spotify.com/album/643N5j1VgfWwWjmN0x8eaK) | 2:19 | 2023-06-25 | 2023-07-04 |
 | [Things I'd Save In A Fire](https://open.spotify.com/track/2kowYoi8DhfsrkVxuQbEPt) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Things I'd Save In A Fire](https://open.spotify.com/album/39JM743L6d0gmPBfrLp2wl) | 2:52 | 2023-06-04 | 2023-06-13 |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2023-11-08 |  |
@@ -634,6 +635,7 @@
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-18 | 2022-09-28 |
 | [VICEROY \(OUTRO\)](https://open.spotify.com/track/4aIBulWf0GiefNZRvy9M9v) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [VICEROY...LIKE THE BUTTERFLY](https://open.spotify.com/album/3ADXdCzTGTTKggrHf3WU3o) | 1:59 | 2022-10-31 | 2022-11-15 |
 | [Waiting Is A Waste](https://open.spotify.com/track/23lw0TWJHsenU54gom8xbC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Waiting Is A Waste](https://open.spotify.com/album/50MP1DO66qTGSYkcGsUKBY) | 2:57 | 2022-07-10 | 2022-07-18 |
+| [Waiting On A Blue Sky](https://open.spotify.com/track/3uINSMhXxGQVBNOQJjxEZZ) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Waiting On A Blue Sky](https://open.spotify.com/album/2SL0oVqyBwYCJ2rY51pLGf) | 4:15 | 2024-07-12 |  |
 | [Wanderlust](https://open.spotify.com/track/1ErrkKi89V68HHsyUizbJA) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 4:16 | 2022-06-10 | 2023-02-23 |
 | [Warhol](https://open.spotify.com/track/3P707u2l8c3jQkHUaXYE1L) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 2:35 | 2022-10-31 | 2022-11-22 |
 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 | 2023-11-08 |  |

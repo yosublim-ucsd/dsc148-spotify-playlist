@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Juliito y Pressure 9X19 plantando cara.",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Panda Black y Cris MJ plantando cara.",
   "name": "FRONTEO",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 196056,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/3xbl4UEJ28HP7ivHhcm44w"
@@ -743,6 +743,36 @@
     },
     {
       "album": {
+        "name": "Customers",
+        "url": "https://open.spotify.com/album/0CFpsWfZAX9D57lv16DJp8"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+        },
+        {
+          "name": "Galindo Again",
+          "url": "https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW"
+        },
+        {
+          "name": "Jozzu",
+          "url": "https://open.spotify.com/artist/0w82woTBdhc5VcxIAL7V3U"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Customers",
+      "url": "https://open.spotify.com/track/6x5aWKAL2H7UjK7u26rFSf"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
       },
@@ -856,7 +886,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 214588,
       "name": "El Palo",
       "url": "https://open.spotify.com/track/64Gag4P7kkhhHRRj3w9pvQ"
@@ -1503,6 +1533,32 @@
     },
     {
       "album": {
+        "name": "LA JOYA DE ESTA ERA",
+        "url": "https://open.spotify.com/album/4nzkQMvil5AE6qeD9fhYAY"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Koki LS",
+          "url": "https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167996,
+      "name": "LA JOYA DE ESTA ERA",
+      "url": "https://open.spotify.com/track/6uPpIqBNBayeWrMmVcVb5Z"
+    },
+    {
+      "album": {
         "name": "Los Dioses",
         "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
       },
@@ -1544,7 +1600,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 241777,
       "name": "Las 3 Torres",
       "url": "https://open.spotify.com/track/01nnJYsbiVmikEm1VP0rVi"
@@ -1650,6 +1706,24 @@
       "duration_ms": 212866,
       "name": "Mas Dinero Mas Problemas",
       "url": "https://open.spotify.com/track/6YxXzFaGbErX7dwFbBNEY1"
+    },
+    {
+      "album": {
+        "name": "Matematicas",
+        "url": "https://open.spotify.com/album/7ChzHihD3ExV1iVXOgAH4b"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131624,
+      "name": "Matematicas",
+      "url": "https://open.spotify.com/track/7mircCKS3EvrV5LjS1ZwQl"
     },
     {
       "album": {
@@ -2228,6 +2302,28 @@
       "duration_ms": 355795,
       "name": "PASIEMPRE",
       "url": "https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS"
+    },
+    {
+      "album": {
+        "name": "Pensamos Rapido",
+        "url": "https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0"
+      },
+      "artists": [
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Pensamos Rapido",
+      "url": "https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb"
     },
     {
       "album": {
@@ -2933,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "GOTTI A",
+        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127259,
+      "name": "Todas Las Estrellas",
+      "url": "https://open.spotify.com/track/22UZeBQhw1JsGo7Z8GBZ92"
+    },
+    {
+      "album": {
         "name": "Todos Miran",
         "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
       },
@@ -3070,7 +3184,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 378502,
       "name": "Vivimo Caro - Remix",
       "url": "https://open.spotify.com/track/6WRArwDDHBdYewyCMifSUT"
@@ -3212,7 +3326,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 206535,
       "name": "Yo Con Mi Man",
       "url": "https://open.spotify.com/track/72gC51qe5TmbkrcCMThAHw"

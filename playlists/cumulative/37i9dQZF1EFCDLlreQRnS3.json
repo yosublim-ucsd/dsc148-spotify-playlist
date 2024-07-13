@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/5HCQ1g5WrQuojo1eRv8FP6"
+      },
+      "artists": [
+        {
+          "name": "Nimus",
+          "url": "https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/5Q79xM1viK36w808nH17S4"
+    },
+    {
+      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT"
       },

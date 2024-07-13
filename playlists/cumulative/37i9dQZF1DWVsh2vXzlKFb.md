@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-532 songs - 1 day 5 hr 41 min
+533 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-05-03 |  |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-13 | 2024-05-18 |
 | [Everytime](https://open.spotify.com/track/7KvmxwYZ76UIauFy8jvRIT) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/6y9rLPYIzbyxEAOIV3nXxz) | 3:10 | 2022-04-01 | 2022-06-12 |
+| [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-07-12 |  |
 | [Feel Good](https://open.spotify.com/track/60crPH0AEVhi1ZxicgyR0W) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Feel Good](https://open.spotify.com/album/79V11xrNVRaU5hSNgT2Lrs) | 4:30 | 2022-06-10 | 2022-07-29 |
 | [Feel Good](https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:04 | 2023-03-11 | 2023-05-20 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 | 2023-08-29 |
@@ -162,7 +163,7 @@
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2022-07-14 | 2023-05-20 |
 | [Free \- Single Version](https://open.spotify.com/track/6kPsTBAGRoAeCCbzYoAZIm) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Free](https://open.spotify.com/album/6O3OdDwmvAM9S9mpk4Z3pv) | 3:39 | 2021-08-13 | 2022-07-29 |
 | [Futon](https://open.spotify.com/track/0F57gwy0G6aqnaMAH1ELSV) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [Futon](https://open.spotify.com/album/6ZRN6AGbq8CBE59kMsB2bk) | 2:36 | 2023-11-24 | 2024-05-18 |
-| [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-06-07 |  |
+| [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-06-07 | 2024-07-13 |
 | [Get Lost](https://open.spotify.com/track/4tg3FiM0L7BsaYPbV6tVz3) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Get Lost](https://open.spotify.com/album/6YGNCm1Au10LFfhcTw2lGC) | 2:43 | 2023-06-13 | 2023-06-24 |
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2023-05-19 | 2024-05-18 |
 | [Girlfriend](https://open.spotify.com/track/4LvUNvzk0a6giwk1655Qu7) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Girlfriend](https://open.spotify.com/album/3fX6Tjrop4puyO774iUrSJ) | 3:57 | 2022-07-14 | 2022-08-19 |

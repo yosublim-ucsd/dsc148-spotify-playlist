@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "album": {
         "name": "ASMR",
         "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
       },
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189600,
       "name": "Brud",
       "url": "https://open.spotify.com/track/5B8iLwK2ckI5UsovR0RtjD"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 226129,
       "name": "Danuta odbiera Nobla - 1989 Musical",
       "url": "https://open.spotify.com/track/0YxsNbQcemKZ5SKthdOvlP"
@@ -656,7 +674,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 193304,
       "name": "Demony tu s\u0105",
       "url": "https://open.spotify.com/track/2uFNv9XmEy5tYO2KgkcWjD"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 194482,
       "name": "Domena",
       "url": "https://open.spotify.com/track/24wBTE3yw0SuQovVAkPBYC"
@@ -1165,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "KOCHAMCISZ\u0118",
+        "url": "https://open.spotify.com/album/2vxlqegoJnmIpmpqQqcCtm"
+      },
+      "artists": [
+        {
+          "name": "IVO",
+          "url": "https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D"
+        },
+        {
+          "name": "St. Elmo",
+          "url": "https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "KOCHAMCISZ\u0118",
+      "url": "https://open.spotify.com/track/1efC39rKu3CKifIpb3YiDk"
+    },
+    {
+      "album": {
         "name": "KOCYK",
         "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
       },
@@ -1385,6 +1425,32 @@
     },
     {
       "album": {
+        "name": "MIASTO AWANTUR",
+        "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
+      },
+      "artists": [
+        {
+          "name": "J\u0119drzej Wise",
+          "url": "https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC"
+        },
+        {
+          "name": "Krzy Krzysztof",
+          "url": "https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi"
+        },
+        {
+          "name": "maszaitsme",
+          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "MIASTO AWANTUR",
+      "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
+    },
+    {
+      "album": {
         "name": "Moja droga",
         "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
       },
@@ -1422,7 +1488,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 210722,
       "name": "MOLO",
       "url": "https://open.spotify.com/track/7s8Kfdlu6ALxGno0EGVEbu"
@@ -1444,10 +1510,36 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167832,
       "name": "MUZYKA KREOLSKA",
       "url": "https://open.spotify.com/track/2skCg0SplZmCtanggIRdn1"
+    },
+    {
+      "album": {
+        "name": "Napraw mnie",
+        "url": "https://open.spotify.com/album/54GsKSqetYJTfYeOLNsSRJ"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        },
+        {
+          "name": "Alicja",
+          "url": "https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Napraw mnie",
+      "url": "https://open.spotify.com/track/4ho9H9m4r2mh12Df93n5wu"
     },
     {
       "album": {
@@ -1875,6 +1967,28 @@
     },
     {
       "album": {
+        "name": "SCiB 2000",
+        "url": "https://open.spotify.com/album/4n8AmJmM0g3MdStdA6XoJN"
+      },
+      "artists": [
+        {
+          "name": "Belmondawg",
+          "url": "https://open.spotify.com/artist/41OErJWZbkNcNzYPoy0PWJ"
+        },
+        {
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "SCiB 2000",
+      "url": "https://open.spotify.com/track/0kaWozl2PIaY3JHBi57VRc"
+    },
+    {
+      "album": {
         "name": "Serato",
         "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
       },
@@ -2086,6 +2200,24 @@
       "duration_ms": 226765,
       "name": "szara bluza",
       "url": "https://open.spotify.com/track/52YPR9esscjfP5OzB3XYoj"
+    },
+    {
+      "album": {
+        "name": "Ten Jeden Dzie\u0144",
+        "url": "https://open.spotify.com/album/31fHnYup3cSDrVUX6kfXIr"
+      },
+      "artists": [
+        {
+          "name": "Lui.Gi",
+          "url": "https://open.spotify.com/artist/14oez6IQwzZ010GoAIo35h"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Ten Jeden Dzie\u0144",
+      "url": "https://open.spotify.com/track/4xQcZCQFyAntJ6Fatpghbj"
     },
     {
       "album": {
@@ -2454,6 +2586,10 @@
       },
       "artists": [
         {
+          "name": "SPECTROOM",
+          "url": "https://open.spotify.com/artist/5tUarpmY1IXfl21I83E2be"
+        },
+        {
           "name": "FERBI",
           "url": "https://open.spotify.com/artist/1nItIOHyYmpdNK6exWstp8"
         },
@@ -2468,10 +2604,6 @@
         {
           "name": "Hensiv",
           "url": "https://open.spotify.com/artist/5ciG9jQiln3bgkwnzA5AI4"
-        },
-        {
-          "name": "SPECTROOM",
-          "url": "https://open.spotify.com/artist/5tUarpmY1IXfl21I83E2be"
         }
       ],
       "date_added": "2024-07-05",

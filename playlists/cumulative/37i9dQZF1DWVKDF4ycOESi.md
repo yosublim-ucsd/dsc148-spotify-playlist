@@ -2,9 +2,9 @@
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Le migliori uscite di questa settimana! La cover arriva tra qualche ora 👀
+> Eminem in cover + le migliori uscite di questa settimana!
 
-1,135 songs - 2 day 8 hr 32 min
+1,136 songs - 2 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [solo](https://open.spotify.com/track/3QiskORyET9BSwf93XPNaK) | [Lia](https://open.spotify.com/artist/236k5ZQlVODV0XczrnsURF) | [solo](https://open.spotify.com/album/19PaBA6xWBAxBHCPeUifcL) | 2:54 | 2024-06-06 | 2024-06-14 |
 | [Solo diamanti](https://open.spotify.com/track/29ZokjwQEz6D0Di4NRqhXe) | [Charlotte M](https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M) | [Solo diamanti](https://open.spotify.com/album/42bQdfBiHqcduWK3aowMt1) | 2:41 | 2024-06-20 | 2024-06-28 |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-06-13 | 2024-06-21 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-12 |  |
 | [SOS \(feat\. Don Pero\)](https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [SOS \(feat\. Don Pero\)](https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD) | 2:53 | 2024-06-06 | 2024-06-14 |
 | [Sotto Effetto](https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Sotto Effetto](https://open.spotify.com/album/4O32SggIcVIFHoRIzTPtdB) | 2:52 | 2024-06-13 | 2024-06-21 |
 | [Sottobraccio](https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sottobraccio](https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y) | 3:08 | 2024-05-16 | 2024-05-24 |
@@ -1108,7 +1109,7 @@
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-06-20 | 2024-06-28 |
 | [Ways To Go \(feat\. Khalid\)](https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [12 Notes](https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj) | 2:34 | 2024-05-09 | 2024-05-17 |
 | [We Good \(feat\. Shibui\)](https://open.spotify.com/track/3EJ22lVARDROJPOAI1PdmW) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [We Good \(feat\. Shibui\)](https://open.spotify.com/album/1TLhRklP5YWQElK8CvFkQE) | 2:54 | 2024-04-26 | 2024-05-03 |
-| [WEEKEND \(feat\. Ghali, Artie 5ive\)](https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:21 | 2024-07-11 |  |
+| [WEEKEND \(feat\. Ghali, Artie 5ive\)](https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:02 | 2024-07-11 |  |
 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 | 2024-06-27 | 2024-07-05 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-23 | 2024-06-01 |
 | [When It Rains](https://open.spotify.com/track/3QZTCVkRbtZG3Jp4vwhV1F) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When It Rains](https://open.spotify.com/album/5rknaasYykSFpXCMy5m4Zh) | 2:49 | 2024-07-04 | 2024-07-12 |

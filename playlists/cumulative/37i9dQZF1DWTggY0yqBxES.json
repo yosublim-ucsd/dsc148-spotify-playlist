@@ -2195,6 +2195,28 @@
     },
     {
       "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/4s7l7WkqQ7IZ7maODnCLD8"
+      },
+      "artists": [
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241550,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/6M1QYMXtlQqHn7QoJTmKXz"
+    },
+    {
+      "album": {
         "name": "Birthday Suit",
         "url": "https://open.spotify.com/album/5I90hkoIV4dsuc6cWud8lE"
       },
@@ -3040,7 +3062,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 117251,
       "name": "BULLY",
       "url": "https://open.spotify.com/track/1T2MtGqjxsP6YkHNPTEjpa"
@@ -3466,7 +3488,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 209866,
       "name": "Chain Hang Low (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/5FByRC0MNQpoA88jEk7URl"
@@ -3808,7 +3830,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 110668,
       "name": "COACH",
       "url": "https://open.spotify.com/track/0EPA0aXSo19r3Yem8QDqb7"
@@ -4623,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "DEM BONEZ",
+        "url": "https://open.spotify.com/album/0hK45x0oJNdOUkei041aXb"
+      },
+      "artists": [
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117073,
+      "name": "DEM BONEZ",
+      "url": "https://open.spotify.com/track/0uVXpwmiUGb4wVv6ykxVJL"
+    },
+    {
+      "album": {
         "name": "Demons on Tuck",
         "url": "https://open.spotify.com/album/2kg7rwvS3ofT2LloUZAGRy"
       },
@@ -5386,6 +5426,24 @@
       "duration_ms": 178293,
       "name": "DRACULA",
       "url": "https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO"
+    },
+    {
+      "album": {
+        "name": "DREAMS I SEE",
+        "url": "https://open.spotify.com/album/4v4448kFqcuBFv6uhUW6as"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "DREAMS I SEE",
+      "url": "https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf"
     },
     {
       "album": {
@@ -7482,7 +7540,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 110089,
       "name": "GUN SMOKE",
       "url": "https://open.spotify.com/track/7osIdQv8dmv4Ijfu2AEBB5"
@@ -7788,6 +7846,32 @@
       "duration_ms": 155520,
       "name": "HEARTLESS",
       "url": "https://open.spotify.com/track/4Hr02qRS0QYWAyR2XQ6MhV"
+    },
+    {
+      "album": {
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148050,
+      "name": "Heartstop (feat. Channel Tres)",
+      "url": "https://open.spotify.com/track/14PYybLk7xXWFRTaGcqjXX"
     },
     {
       "album": {
@@ -8576,6 +8660,28 @@
       "duration_ms": 212357,
       "name": "I Got Paid Today",
       "url": "https://open.spotify.com/track/0e956pEKFmTCHO5fSwFXP8"
+    },
+    {
+      "album": {
+        "name": "I Hate Everything",
+        "url": "https://open.spotify.com/album/7AWk5kjw2sLUKuqrKsme7o"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        },
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213846,
+      "name": "I Hate Everything",
+      "url": "https://open.spotify.com/track/5Vt1BSaPCpgqeERjFSykmm"
     },
     {
       "album": {
@@ -10204,7 +10310,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 148666,
       "name": "Lil Angel",
       "url": "https://open.spotify.com/track/70Z2wP3lTfnqPt3SAIhUVC"
@@ -10523,6 +10629,24 @@
     },
     {
       "album": {
+        "name": "Viceroy",
+        "url": "https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150468,
+      "name": "LONELY MF",
+      "url": "https://open.spotify.com/track/7AGOsBjHLrI2tjAlcsO5e7"
+    },
+    {
+      "album": {
         "name": "ours & we (demo)",
         "url": "https://open.spotify.com/album/0B5MgreNOJ2BIVmDpgZ3mW"
       },
@@ -10658,6 +10782,24 @@
       "duration_ms": 198053,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
+    },
+    {
+      "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/1KR1gc88IThLxo5mNJk3Zy"
+      },
+      "artists": [
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166157,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/7908UOD9R5aO1kVozbx9Qt"
     },
     {
       "album": {
@@ -12358,7 +12500,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 155302,
       "name": "None of Your Business (from Despicable Me 4)",
       "url": "https://open.spotify.com/track/6aOaD4kexUZLvOltxQY4ph"
@@ -13775,6 +13917,24 @@
     },
     {
       "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/623ScMbAhkNmOvAUxpZzOT"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109416,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/42ADnFPhERC2Gy1BXb3ehv"
+    },
+    {
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/4hK6GXrRsNajwG0KIPE2vn"
       },
@@ -14562,7 +14722,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170386,
       "name": "RESPEK",
       "url": "https://open.spotify.com/track/5Bbr0WZHVxuJ8DxBjdPywV"
@@ -18566,7 +18726,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 135384,
       "name": "Wake Up! (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3pXexc6FHcfGTivRK0jKet"

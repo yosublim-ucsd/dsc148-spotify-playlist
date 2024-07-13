@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-89 songs - 3 hr 33 min
+90 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Devagar](https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw) | [Beagle Bonnie](https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3), [DJ Noé](https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3) | [Sample Saga: Brazil](https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe) | 1:57 | 2023-09-14 |  |
 | [Diamond Sparkle](https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Beautiful Lights](https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR) | 2:28 | 2023-09-14 | 2024-06-21 |
 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 | 2023-06-26 |  |
-| [El Malecón](https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Lofi Chill](https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf) | 1:55 | 2023-09-14 |  |
+| [El Malecón](https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Lofi Chill](https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf) | 1:55 | 2023-09-14 | 2024-07-13 |
 | [En el Tianguis Lo\-Fi](https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw) | [Bandido Beat](https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL) | [En el Tianguis Lo\-Fi](https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF) | 5:19 | 2023-06-26 |  |
 | [Estoy Ahí](https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz) | [Mystérika](https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC) | [El Comienzo](https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN) | 3:56 | 2023-06-26 |  |
 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 | 2023-06-26 |  |
@@ -74,6 +74,7 @@
 | [Moonlight Juice](https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Moonlight Juice](https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5) | 2:27 | 2023-06-26 |  |
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2023-06-26 |  |
 | [México Mágico](https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:38 | 2023-09-14 |  |
+| [Mónaco \- LoFi Version](https://open.spotify.com/track/0ZYAxyqDsbJzamxBotAb1S) | [LoFi HITS](https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Mónaco \(LoFi Version\)](https://open.spotify.com/album/0GXHy7qkfGgTGfWRHv7AJH) | 2:59 | 2024-07-12 |  |
 | [No Sé Que Hacer](https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB) | [Harissa](https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo) | 3:03 | 2023-06-26 |  |
 | [Nos Usamos](https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Uno Es Mínimo Dos](https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK) | 4:29 | 2023-06-26 |  |
 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2023-06-26 |  |

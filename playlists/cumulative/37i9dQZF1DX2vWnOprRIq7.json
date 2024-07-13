@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "El lado electr\u00f3nico del indie latino, featuring Alex Anwandter.",
+  "description": "El lado electr\u00f3nico del indie latino, featuring Bob Crous & Andry Bett.",
   "name": "NE\u00d3N",
   "tracks": [
     {
@@ -202,6 +202,28 @@
       "duration_ms": 249148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
+    },
+    {
+      "album": {
+        "name": "pain\u2019t",
+        "url": "https://open.spotify.com/album/0oJ81Hld66457CqXHkyw7b"
+      },
+      "artists": [
+        {
+          "name": "Bob Crous",
+          "url": "https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE"
+        },
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Algo Nuevo",
+      "url": "https://open.spotify.com/track/5inx7jLc2w5ypAEp2zir2L"
     },
     {
       "album": {
@@ -594,7 +616,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 316227,
       "name": "Bailarina - Pyura Remix",
       "url": "https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX"

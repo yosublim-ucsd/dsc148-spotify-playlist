@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 225106,
       "name": "All of It, Subatomic",
       "url": "https://open.spotify.com/track/60f736bY4JFznb2dVD4twn"
@@ -1298,6 +1298,32 @@
       "duration_ms": 438285,
       "name": "Divenire - Reimagined by Mercan Dede & Kora",
       "url": "https://open.spotify.com/track/6hX4lTpGKrxvyFy2HKVJT6"
+    },
+    {
+      "album": {
+        "name": "Double Sky",
+        "url": "https://open.spotify.com/album/0ADGUhzdeqidQRGFpfOHFs"
+      },
+      "artists": [
+        {
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
+        },
+        {
+          "name": "Simon Goff",
+          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+        },
+        {
+          "name": "Philipp Johann Thimm",
+          "url": "https://open.spotify.com/artist/7v8RCL7y8b8I9J9rSMIN96"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403777,
+      "name": "Double Sky",
+      "url": "https://open.spotify.com/track/1Bs8JK94zPJ7UgJ16clWmx"
     },
     {
       "album": {
@@ -3502,7 +3528,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 258000,
       "name": "Moonmoons",
       "url": "https://open.spotify.com/track/4TspfEJNuFpudxZvaIbyKs"
@@ -5898,10 +5924,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 282893,
       "name": "Time and Space",
       "url": "https://open.spotify.com/track/4SGWxmXNOyiFmv5jFjMNkq"
+    },
+    {
+      "album": {
+        "name": "to be found",
+        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
+      },
+      "artists": [
+        {
+          "name": "Marius Nitzbon",
+          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "to be found",
+      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
     },
     {
       "album": {
@@ -6484,6 +6528,28 @@
       "duration_ms": 258221,
       "name": "Zima",
       "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
+    },
+    {
+      "album": {
+        "name": "Zima (Niklas Paschburg Rework)",
+        "url": "https://open.spotify.com/album/3kBWJZJ4NxeBVejRsmNhfb"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        },
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255737,
+      "name": "Zima - Niklas Paschburg Rework",
+      "url": "https://open.spotify.com/track/0iLPZUz5EE5I3IGlHfeS5w"
     },
     {
       "album": {

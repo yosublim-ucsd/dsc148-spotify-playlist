@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:6rt9RysQUXJjzYXaIXdXu7">Paris Price</a>
 
-1,307 songs - 2 day 8 hr 41 min
+1,308 songs - 2 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1181,6 +1181,7 @@
 | [TOOYOUNG](https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [Boy On Mars 2](https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq) | 1:47 | 2022-08-03 | 2022-09-01 |
 | [TOP DOWN](https://open.spotify.com/track/4YU8dkN9oM9plcHxpTrW5e) | [Theodor Black](https://open.spotify.com/artist/7e9wx93Dz1ZnFnhXFDWiJz) | [PARADISE FM](https://open.spotify.com/album/6oKKtL6HMxNKp5hRYQSi3L) | 2:52 | 2022-08-10 | 2022-09-29 |
 | [Top Floor](https://open.spotify.com/track/625AFKib80nrvDSzIRqvOU) | [Jehiah](https://open.spotify.com/artist/33ljqFlfshcaFhMBZFSYPX) | [Top Floor](https://open.spotify.com/album/1bpxnd2Txeo0GRVEFPf8L7) | 2:25 | 2021-12-01 | 2022-01-14 |
+| [topskii](https://open.spotify.com/track/2r9uICIFFppYQLYieKpOl5) | [RW 5ive](https://open.spotify.com/artist/10EeD8ckn8gnq59j5oR0yb) | [topskii](https://open.spotify.com/album/21cE1YgZiEyEdiGpoBy4FU) | 2:31 | 2024-07-12 |  |
 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 | 2022-08-10 | 2022-10-06 |
 | [Toxic Situation](https://open.spotify.com/track/72v4BijnUMQoU2LB9lAZTU) | [Big Bratt](https://open.spotify.com/artist/4H7s71IsQDWe4DFArSBzD4), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The First Lady](https://open.spotify.com/album/1QpImHMH1H8R9zocMvmbsq) | 2:31 | 2024-06-12 | 2024-06-20 |
 | [TRACKHAWK](https://open.spotify.com/track/1tOnsspmCml7fdSC4TsI77) | [Wiardon](https://open.spotify.com/artist/7DNWAdCPicuaw9vhjudRlS) | [TRACKHAWK](https://open.spotify.com/album/1ItLOxHON2RHBRTl6GP3bY) | 2:40 | 2023-05-17 | 2023-07-20 |
@@ -1226,7 +1227,7 @@
 | [Vetements Coat](https://open.spotify.com/track/11tQlBxV7X5EZ6D3JOE5tr) | [Tino Szn](https://open.spotify.com/artist/5aQ4epm9xnqB7ZKfnEILCB) | [Sentient](https://open.spotify.com/album/3GmZeMPNeEcTflcdQxm9G8) | 3:12 | 2022-07-27 | 2022-09-15 |
 | [vintage bathing ape](https://open.spotify.com/track/1bOBELQjY2GiYqP6NvuS5j) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU) | [SOLACE](https://open.spotify.com/album/6PHJaADgQGWUYZWu80PEkU) | 1:44 | 2024-07-03 |  |
 | [VITAMIN D](https://open.spotify.com/track/10Tsc5cYUkFJGI5E2dKeCm) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [VITAMIN D](https://open.spotify.com/album/1S0ukiLSuVxLNHAEZjCCMJ) | 3:14 | 2023-01-18 | 2023-02-09 |
-| [volcano](https://open.spotify.com/track/3PxWuAJypDleSb1HKVphxX) | [qu](https://open.spotify.com/artist/3Ci56b91PyFRKz2fpk211A), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [where did the sun go](https://open.spotify.com/album/5tYj1XoDlPNiidSf1NCUAM) | 3:02 | 2024-07-03 |  |
+| [volcano](https://open.spotify.com/track/3PxWuAJypDleSb1HKVphxX) | [qu](https://open.spotify.com/artist/3Ci56b91PyFRKz2fpk211A), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [where did the sun go](https://open.spotify.com/album/5tYj1XoDlPNiidSf1NCUAM) | 3:02 | 2024-07-03 | 2024-07-13 |
 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [BOA Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 | 2022-04-28 | 2022-06-09 |
 | [VooDoo \- Original Mix](https://open.spotify.com/track/4unr5Fdon9ADjCW4irnRxf) | [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ), [BOA Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6) | [VooDoo](https://open.spotify.com/album/1ImWN8VtzmAZcoYjc0dNtO) | 2:38 | 2022-11-30 | 2023-01-12 |
 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 | 2022-11-30 | 2023-01-12 |

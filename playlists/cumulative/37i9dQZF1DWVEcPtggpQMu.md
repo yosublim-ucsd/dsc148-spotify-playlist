@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj?si=UOfBGOhwRNi2PUqdIRHVzg">Audiomarc</a>
+> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX?si=1Kv0k2jFRGW0VyIp6q\_tHg">Yung Tyran</a>
 
 784 songs - 1 day 18 hr 13 min
 
@@ -726,7 +726,7 @@
 | [UNGAZINCISHI \(feat\. Focalistic & Tyler ICU\)](https://open.spotify.com/track/4WCMChQUxMOZBiYZThe2BD) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [UNGAZINCISHI](https://open.spotify.com/album/5B0CepxSBk2uaDZasXIqpe) | 4:02 | 2023-01-30 | 2023-03-10 |
 | [Ungowam](https://open.spotify.com/track/751GvmaHmkKabdGXgYNZfj) | [Darkie Fiction](https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg) | [Wam](https://open.spotify.com/album/3Ob96QPttduONODAgtmSFO) | 2:24 | 2023-07-07 | 2023-07-14 |
 | [Up To](https://open.spotify.com/track/4iY5WNI5CnUO47RJdiRGKO) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Up To](https://open.spotify.com/album/6t2NIsHHQv1dSYgXCJsCwY) | 3:46 | 2022-02-10 | 2022-03-18 |
-| [Up To You](https://open.spotify.com/track/2JLm7OPi9VHU0E8ouGGohg) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Imani Basquiat](https://open.spotify.com/artist/0BFt0fxpu1k96TEIeEd1xu) | [Home \(Yard Edition\)](https://open.spotify.com/album/135PbNHsRKY5U4GS0gBvmM) | 4:26 | 2024-07-11 |  |
+| [Up To You](https://open.spotify.com/track/2JLm7OPi9VHU0E8ouGGohg) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Imani Basquiat](https://open.spotify.com/artist/0BFt0fxpu1k96TEIeEd1xu) | [Home \(Yard Edition\)](https://open.spotify.com/album/135PbNHsRKY5U4GS0gBvmM) | 4:26 | 2024-07-11 | 2024-07-13 |
 | [uSANELEIGHOST](https://open.spotify.com/track/0fSYV7Fu6icGmEuX9f2Ywy) | [uSanele](https://open.spotify.com/artist/2D70qn16njNHR9H5hP8rPo) | [uSANELEIGHOST](https://open.spotify.com/album/6EI2HQMB3YBkATAUSLhQC4) | 2:43 | 2023-12-01 | 2024-04-05 |
 | [Ushukela \(feat\. Blue Pappi, Sastii & Lowfeye\)](https://open.spotify.com/track/623xoswmJONiZIXblBTIVz) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [Ushukela \(feat\. Blue Pappi, Sastii & Lowfeye\)](https://open.spotify.com/album/00OXfVXB9T8ZqbOriTEzdj) | 3:39 | 2024-07-04 |  |
 | [Uthando Alupheli](https://open.spotify.com/track/5EGW1DZkM5AMjaZEZuYfOI) | [031Choppa](https://open.spotify.com/artist/2bGBeEA63lBcVdS9PpmESJ) | [Oncamnce Vol.2](https://open.spotify.com/album/29RMsBs8PArJy2NSENTphv) | 2:11 | 2022-02-17 | 2022-02-25 |

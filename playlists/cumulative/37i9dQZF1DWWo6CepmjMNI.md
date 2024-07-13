@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: CURS
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: TWINSHOUSE
 
-68 songs - 5 hr 3 min
+69 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [River](https://open.spotify.com/track/0V1DGS7GNqUAHInaU7b7Db) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [River](https://open.spotify.com/album/6hKyADQiXU8sh3fwGpdQuI) | 3:50 | 2024-06-21 |  |
 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 | 2024-06-28 |  |
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 |  |
+| [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 |  |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 |  |
 | [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 | 2024-06-21 |  |
 | [ขอบคุณ](https://open.spotify.com/track/0ybe3S732T6M2ch6fSrEIQ) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ขอบคุณ](https://open.spotify.com/album/03zPBAx38bbnMbqdEfA24p) | 4:06 | 2024-06-28 |  |
@@ -29,7 +30,7 @@
 | [จากเมื่อวาน \(present\)](https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [จากเมื่อวาน \(present\)](https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL) | 4:27 | 2024-07-05 |  |
 | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/track/1Q74VWWMSq4CU30yUQdFdd) | [A Irynn](https://open.spotify.com/artist/1Eyb60kL2vSZ7OAxygY9Xt) | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/album/49s5RFPDHJLLfMeCyFXs0w) | 5:08 | 2024-06-21 |  |
 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 | 2024-06-21 |  |
-| [ตลอดไป](https://open.spotify.com/track/5eTOts5kvMHOVDMtOqY6uX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [ตลอดไป](https://open.spotify.com/album/3pA4CJzeCiRpSSLSqt6NkY) | 4:46 | 2024-06-21 |  |
+| [ตลอดไป](https://open.spotify.com/track/5eTOts5kvMHOVDMtOqY6uX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [ตลอดไป](https://open.spotify.com/album/3pA4CJzeCiRpSSLSqt6NkY) | 4:46 | 2024-06-21 | 2024-07-13 |
 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 | 2024-06-21 |  |
 | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/track/0nqVLxHEfr4FJ8NVl4DHwI) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/album/6BNRczALadlNUQYJmAE3Ny) | 3:49 | 2024-06-21 |  |
 | [ถ้าเธอต้องไป](https://open.spotify.com/track/0sfYqbTSE8OWu8ZzcLHlKF) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ถ้าเธอต้องไป](https://open.spotify.com/album/6Eg48wAsh9LdmHDoZvbebA) | 4:11 | 2024-06-21 |  |

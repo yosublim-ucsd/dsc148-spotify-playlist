@@ -1651,6 +1651,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jenlos Pasar",
+        "url": "https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124292,
+      "name": "D\u00e9jenlos Pasar",
+      "url": "https://open.spotify.com/track/0qsvu01LWI7F2MIVA0kjQm"
+    },
+    {
+      "album": {
         "name": "El 20x4",
         "url": "https://open.spotify.com/album/1t3yQTqCKqkrTTvv7EyZzT"
       },
@@ -1764,6 +1786,24 @@
       "duration_ms": 191685,
       "name": "El Bob Esponja (Versi\u00f3n Banda)",
       "url": "https://open.spotify.com/track/6k66FmM0fjoVkO3hYx3FhI"
+    },
+    {
+      "album": {
+        "name": "El Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/5eFh81ZOJPtiP0hUqPpd4O"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/2bPBTRQTJ2SKYzWyCwR6yN"
     },
     {
       "album": {
@@ -2566,7 +2606,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 152586,
       "name": "Estoy Loquito De La Cabeza",
       "url": "https://open.spotify.com/track/0Ig02WNXDRo0kzpZiK9O7m"
@@ -2790,7 +2830,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 133480,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"

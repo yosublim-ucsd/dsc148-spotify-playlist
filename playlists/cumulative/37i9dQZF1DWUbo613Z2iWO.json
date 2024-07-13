@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Bren Joy",
+  "description": "R&B of the moment by the artists of the future. Cover: Sasha Keable",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 134012,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/0VNw1hLu0iVvSd6EFqlzcQ"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
@@ -2445,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "Drugs n' Lullabies",
+        "url": "https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134845,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/3ve0jZkY2ZrFY4ycBCKKFt"
+    },
+    {
+      "album": {
         "name": "Rendezvous - EP",
         "url": "https://open.spotify.com/album/6dCmUQ1L9sbPhIoup8ACyo"
       },
@@ -2514,6 +2532,28 @@
       "duration_ms": 108588,
       "name": "Care",
       "url": "https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN"
+    },
+    {
+      "album": {
+        "name": "carla's revenge (feat. Shantel May)",
+        "url": "https://open.spotify.com/album/7wxgEC7JL2A5UZnxW2f4Mv"
+      },
+      "artists": [
+        {
+          "name": "IX WULF",
+          "url": "https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2"
+        },
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187075,
+      "name": "carla's revenge (feat. Shantel May)",
+      "url": "https://open.spotify.com/track/4siTPKthioqW6tOBC0l7AS"
     },
     {
       "album": {
@@ -3331,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/0h3cx9s1TA0Bdflp2LiJ6V"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239306,
+      "name": "CRYBABY",
+      "url": "https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD"
+    },
+    {
+      "album": {
         "name": "it takes a village",
         "url": "https://open.spotify.com/album/06dEIh43cQW1uEbSWaso7S"
       },
@@ -3736,7 +3794,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156334,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz"
@@ -3953,6 +4011,28 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Let You Down",
+        "url": "https://open.spotify.com/album/5O8QsJ9KSgaUtrTnSlyvO2"
+      },
+      "artists": [
+        {
+          "name": "omoid\u00e9",
+          "url": "https://open.spotify.com/artist/4WK8Uiyh2rcYNK0ktKvBaL"
+        },
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220661,
+      "name": "Don't Wanna Let You Down",
+      "url": "https://open.spotify.com/track/1znS1Nb3cRFg8UKHvbQaaY"
+    },
+    {
+      "album": {
         "name": "Don't Want A Love Song",
         "url": "https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe"
       },
@@ -4098,7 +4178,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165520,
       "name": "Double Tragedy",
       "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
@@ -4379,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "ELEVATOR",
+        "url": "https://open.spotify.com/album/7I0gpmIgD3wKMb7yzv25Tw"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180122,
+      "name": "ELEVATOR",
+      "url": "https://open.spotify.com/track/4WDvLaLJSnyL1Ttn1S0RM5"
+    },
+    {
+      "album": {
         "name": "KINDA HAPPY, KINDA SAD",
         "url": "https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl"
       },
@@ -4611,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "Exes",
+        "url": "https://open.spotify.com/album/2CSmZtcqtil57qW8BOiAoG"
+      },
+      "artists": [
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162764,
+      "name": "Exes",
+      "url": "https://open.spotify.com/track/4zUkoSQCwdHmidKyzXZXUV"
+    },
+    {
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
       },
@@ -4724,6 +4840,28 @@
       "duration_ms": 237727,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4"
+    },
+    {
+      "album": {
+        "name": "Faith + Sight",
+        "url": "https://open.spotify.com/album/702fkCVmFTYMQGZCXIyAWa"
+      },
+      "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159113,
+      "name": "Faith + Sight",
+      "url": "https://open.spotify.com/track/1XbYrixaAFERnv6QPsSWJ3"
     },
     {
       "album": {
@@ -5043,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Feeling Me Too",
+        "url": "https://open.spotify.com/album/3KqWydFhdw6buuSyLhQK3M"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198356,
+      "name": "Feeling Me Too",
+      "url": "https://open.spotify.com/track/0Zz9eaiOnqDkQai79mHhEX"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL"
       },
@@ -5191,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Maybe In Another Life",
+        "url": "https://open.spotify.com/album/06eUuvfojvijkzWKr8uxLL"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182168,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5d7uaddNeJAcTUAxll0pMS"
+    },
+    {
+      "album": {
         "name": "Find Out",
         "url": "https://open.spotify.com/album/4fb6nRbdtHukZzKROJulFZ"
       },
@@ -5206,6 +5380,24 @@
       "duration_ms": 121333,
       "name": "Find Out",
       "url": "https://open.spotify.com/track/5q7lMdy4gRlklJfUj0rGHu"
+    },
+    {
+      "album": {
+        "name": "Find Out",
+        "url": "https://open.spotify.com/album/2riOJEMeaodyfB9RN8hE5f"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/71e1X3xV66f3ZeaPg6ztqn"
     },
     {
       "album": {
@@ -5332,7 +5524,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140606,
       "name": "FLORIDA BABY",
       "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
@@ -10403,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7k7RbJfosRsUdilfBSKw7Q"
+      },
+      "artists": [
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163979,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/2wmSGI7ufutj3VJDGEXlAz"
+    },
+    {
+      "album": {
         "name": "My, My, My",
         "url": "https://open.spotify.com/album/4tTpotB7s3xrsTSu1QPo66"
       },
@@ -10734,6 +10944,32 @@
       "duration_ms": 180506,
       "name": "No Luv (with Chikoruss)",
       "url": "https://open.spotify.com/track/1vvgv7dJ3bk9s0zgcBBZet"
+    },
+    {
+      "album": {
+        "name": "No More Maybes (feat. Bibi Bourelly & India Shawn)",
+        "url": "https://open.spotify.com/album/5foVF96o1WhMDI29PJ2jyf"
+      },
+      "artists": [
+        {
+          "name": "TAVE",
+          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        },
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199439,
+      "name": "No More Maybes (feat. Bibi Bourelly & India Shawn)",
+      "url": "https://open.spotify.com/track/3vUm8HaXvzoaP8yNNNiiu2"
     },
     {
       "album": {
@@ -12645,6 +12881,24 @@
     },
     {
       "album": {
+        "name": "RaRa",
+        "url": "https://open.spotify.com/album/6iMw4R8UyXcAIj8aCWPMPx"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "RaRa",
+      "url": "https://open.spotify.com/track/1kLYRXosVxfzYdvQrApT5F"
+    },
+    {
+      "album": {
         "name": "RASTA PASTA (ft. Masego)",
         "url": "https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm"
       },
@@ -12906,7 +13160,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
@@ -13258,6 +13512,32 @@
       "duration_ms": 180220,
       "name": "RM. 143 - RM112 Remix",
       "url": "https://open.spotify.com/track/5nEXSU70UNltl8Q1PS7AWR"
+    },
+    {
+      "album": {
+        "name": "GOLD II",
+        "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "GOLD",
+          "url": "https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191658,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
     },
     {
       "album": {
@@ -14216,7 +14496,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161529,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
@@ -14364,7 +14644,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 207097,
       "name": "Space",
       "url": "https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi"
@@ -15916,7 +16196,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 205032,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m"

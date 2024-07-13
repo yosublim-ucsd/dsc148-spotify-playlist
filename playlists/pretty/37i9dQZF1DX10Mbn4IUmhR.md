@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X?si=eIYAfWTuRhmM7MSrNCzzFw">Katy Perry</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,857 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 32 | [When I'm With You](https://open.spotify.com/track/6VUupbPVzQc9KsAnUECeP2) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [When I'm With You](https://open.spotify.com/album/27FX6DWdFHstVDi6ZK2Aaa) | 2:21 |
 | 33 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
 | 34 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
-| 35 | [Warm Bodies](https://open.spotify.com/track/5evgNAbd9zPVUM5JVKfNBH) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Warm Bodies](https://open.spotify.com/album/5w668hdD4at4FpOzQMVm19) | 3:08 |
-| 36 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
-| 37 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 |
-| 38 | [Mistakes](https://open.spotify.com/track/0Qm4vRjjCK9tzvZWYy5v8t) | [Higgo](https://open.spotify.com/artist/2b3OLghxHZj3CUbVmjRPwn), [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [Mistakes](https://open.spotify.com/album/5DDEY0ta0DWlaLEAMn0tTd) | 3:32 |
-| 39 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
-| 40 | [Open](https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Open](https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f) | 3:59 |
-| 41 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
-| 42 | [You Don’t Know Me](https://open.spotify.com/track/2hRIkSVcG4ORSKtxL5jnmo) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx) | [You Don’t Know Me](https://open.spotify.com/album/1umPw2JtACEyyQpvdYPZCH) | 2:14 |
-| 43 | [I Won't Let You Down](https://open.spotify.com/track/2OtHrRQpXoiz9Z1vbg6EPS) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [I Won't Let You Down](https://open.spotify.com/album/59LEK5PJusHfE8oLpskdhU) | 3:32 |
-| 44 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 45 | [Shirt](https://open.spotify.com/track/7Gejbl2DoylzXdpw2zbmOF) | [Connor Austin](https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j) | [Shirt](https://open.spotify.com/album/0TJjLt37lC5u5sV8xR8hnB) | 2:47 |
-| 46 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
-| 47 | [Through the Windowsill](https://open.spotify.com/track/6bWgljsieAr0YhZtKrqLzq) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Through the Windowsill](https://open.spotify.com/album/59KdqWni3CiDMMpnUQB00e) | 3:04 |
-| 48 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 49 | [Taste of You](https://open.spotify.com/track/5bo4onmRRHHfvXdufb5LrM) | [Cheyanne](https://open.spotify.com/artist/0MG7jeZpAjGceZerJxvu9c) | [Taste of You](https://open.spotify.com/album/0bku2FAuU16txh9jDPMCGI) | 3:09 |
-| 50 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
+| 35 | [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 |
+| 36 | [Warm Bodies](https://open.spotify.com/track/5evgNAbd9zPVUM5JVKfNBH) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Warm Bodies](https://open.spotify.com/album/5w668hdD4at4FpOzQMVm19) | 3:08 |
+| 37 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
+| 38 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 |
+| 39 | [Mistakes](https://open.spotify.com/track/0Qm4vRjjCK9tzvZWYy5v8t) | [Higgo](https://open.spotify.com/artist/2b3OLghxHZj3CUbVmjRPwn), [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [Mistakes](https://open.spotify.com/album/5DDEY0ta0DWlaLEAMn0tTd) | 3:32 |
+| 40 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
+| 41 | [Open](https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Open](https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f) | 3:59 |
+| 42 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
+| 43 | [You Don’t Know Me](https://open.spotify.com/track/2hRIkSVcG4ORSKtxL5jnmo) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx) | [You Don’t Know Me](https://open.spotify.com/album/1umPw2JtACEyyQpvdYPZCH) | 2:14 |
+| 44 | [I Won't Let You Down](https://open.spotify.com/track/2OtHrRQpXoiz9Z1vbg6EPS) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [I Won't Let You Down](https://open.spotify.com/album/59LEK5PJusHfE8oLpskdhU) | 3:32 |
+| 45 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
+| 46 | [Shirt](https://open.spotify.com/track/7Gejbl2DoylzXdpw2zbmOF) | [Connor Austin](https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j) | [Shirt](https://open.spotify.com/album/0TJjLt37lC5u5sV8xR8hnB) | 2:47 |
+| 47 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
+| 48 | [Through the Windowsill](https://open.spotify.com/track/6bWgljsieAr0YhZtKrqLzq) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Through the Windowsill](https://open.spotify.com/album/59KdqWni3CiDMMpnUQB00e) | 3:04 |
+| 49 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 50 | [Taste of You](https://open.spotify.com/track/5bo4onmRRHHfvXdufb5LrM) | [Cheyanne](https://open.spotify.com/artist/0MG7jeZpAjGceZerJxvu9c) | [Taste of You](https://open.spotify.com/album/0bku2FAuU16txh9jDPMCGI) | 3:09 |
 
-Snapshot ID: `ZpBV4AAAAABWb48qoOA7V4LhOfLEnHFX`
+Snapshot ID: `ZpD8jAAAAABK2htjM/DVVsfPzjket0Xo`

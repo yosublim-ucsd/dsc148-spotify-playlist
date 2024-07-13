@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-124 songs - 5 hr 59 min
+127 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [396 Hz Chakra Khan](https://open.spotify.com/track/60S6i0Q73myZu4WZIEfKBn) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [396 Hz Chakra Khan](https://open.spotify.com/album/11XPMpvcsyKOcax3wiiCY1) | 2:39 | 2023-03-10 |  |
 | [396 Hz Chill Out](https://open.spotify.com/track/6s1Msat4uHpLy7iBLS9pqU) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:02 | 2023-03-10 |  |
 | [396 Hz Cosmic Light](https://open.spotify.com/track/2GjBa9h45454y9oElOgsBn) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Cosmic Light](https://open.spotify.com/album/188ZsQ7k8ky4RNMxNeBvTx) | 2:34 | 2024-05-11 |  |
+| [396 Hz Cosmiflow](https://open.spotify.com/track/2MDELc6AvQdlPU4FMP0uPp) | [Elnas](https://open.spotify.com/artist/55WeSuvEkyLLgJjDU2zAO0) | [396 Hz Cosmiflow](https://open.spotify.com/album/2z3dXnt6oZfao3X9PYP0N2) | 2:42 | 2024-07-13 |  |
 | [396 Hz Crystal Clear Communication](https://open.spotify.com/track/09976pMEoO3GihO4fxpdj6) | [Lost Fables](https://open.spotify.com/artist/1uTJ77nWT4cR9Ur5HtdHPo) | [396 Hz Crystal Clear Communication](https://open.spotify.com/album/4meOuguV2uA5oIC15bIu85) | 2:33 | 2023-09-28 |  |
 | [396 Hz Dissolve Negativity](https://open.spotify.com/track/3qwJjnF4TuLF2kHuOntIUi) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [396 Hz Liberating Guilt and Fear](https://open.spotify.com/album/0cqSFzDfDw47trjyqX7dOV) | 2:11 | 2023-03-10 |  |
 | [396 Hz Dormant](https://open.spotify.com/track/2plZlVBY52NKgrgSBXxVMc) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:52 | 2023-03-10 |  |
@@ -52,6 +53,7 @@
 | [396 Hz Intuition](https://open.spotify.com/track/4LfmeqYs4SbePpLycJn72C) | [Asaj Sadie](https://open.spotify.com/artist/3derbhCfD9yibDm38jEvac) | [396 Hz Intuition](https://open.spotify.com/album/6r1OBW17IliEnsbT7H34IM) | 2:56 | 2023-08-07 |  |
 | [396 Hz Intuitive Visions](https://open.spotify.com/track/4aPKj8LUtMVdP1kZnj9q5O) | [Asleep and Awake](https://open.spotify.com/artist/0VrvNCvwrGmGyPYCxFBPUu) | [396 Hz Intuitive Visions](https://open.spotify.com/album/6totEEE7XiXxmqPPdCgB23) | 3:08 | 2023-11-30 |  |
 | [396 Hz Liberate Negativity](https://open.spotify.com/track/0xaEBIlw1l79iL4B9iwJ5y) | [Solfeggio Frequencies for Meditation](https://open.spotify.com/artist/5WkGVH2I9VFYiicvzevCuh) | [396 Hz Release Fear and Guilt](https://open.spotify.com/album/15tSxKZL0Uls9hPBXuvnye) | 1:56 | 2023-03-10 | 2023-09-29 |
+| [396 Hz Melody of Release](https://open.spotify.com/track/214fMDZSTdIftSeAT2X3tF) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [396 Hz Melody of Release](https://open.spotify.com/album/3STTxTkcmKqhNCXlALuGea) | 2:40 | 2024-07-13 |  |
 | [396 Hz Merging Frequencies](https://open.spotify.com/track/7Fy4K88RSLiunr5yYiuqD0) | [Celliophone](https://open.spotify.com/artist/6sDhNL1dc3l5O68faOoDTQ) | [396 Hz Merging Frequencies](https://open.spotify.com/album/7LLtiecDJZmrTsySKFnl62) | 3:06 | 2023-11-30 |  |
 | [396 Hz Open Mind](https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:38 | 2023-03-10 |  |
 | [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 | 2023-03-10 | 2024-05-12 |
@@ -126,6 +128,7 @@
 | [Rooting \(396 Hz\)](https://open.spotify.com/track/4DpigZhkWvugs95bvOO2Mh) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Solfeggios for Root Chakra](https://open.spotify.com/album/5yHk2mxxyE3OmRcdlaAkMo) | 3:28 | 2023-03-10 |  |
 | [Sanctuaire \- 396 Hz](https://open.spotify.com/track/4uYqVRHyipvWNrvCSTsWrW) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Sanctuaire](https://open.spotify.com/album/7ziZCzsvTqnc9PzFX4YhUy) | 2:32 | 2023-03-10 |  |
 | [secure 396 Hz](https://open.spotify.com/track/6kuj6CzQ7yHrbLowd0X7Dq) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:03 | 2023-03-10 |  |
+| [Solfeggio Starscape 396 Hz](https://open.spotify.com/track/78eTh6GwqiItpNwaXDrsOr) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Solfeggio Starscapes](https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM) | 2:35 | 2024-07-13 |  |
 | [Solfeggio Symmetry 396 Hz](https://open.spotify.com/track/0mC64f2FjjnJb6Zun1ZwtM) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Symmetry 396 Hz](https://open.spotify.com/album/1ZF740ON7OBSI6pz43E6Vd) | 2:33 | 2023-03-10 |  |
 | [Sthir 396 Hz](https://open.spotify.com/track/1Jn647F7ZEOooJ3nJbYT8p) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Sthir 396 Hz](https://open.spotify.com/album/1yZ8vUUivjzU6tj23UODFM) | 2:51 | 2024-04-07 |  |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-11 |  |

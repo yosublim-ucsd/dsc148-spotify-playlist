@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-498 songs - 1 day 13 hr 40 min
+499 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bambino mio bellissimo](https://open.spotify.com/track/7obfVUJCnQCq9gJtcbDc8w) | [Ambrogio Sparagna](https://open.spotify.com/artist/7lRA9ocPguyn2V54oWhznJ) | [La Chiarastella](https://open.spotify.com/album/38F120tTNm6o2TtjgL6BQS) | 3:11 | 2022-12-05 | 2023-02-01 |
 | [Bankok](https://open.spotify.com/track/3HAgu3lBspl1BStTn0bxRX) | [Giorgio Azzolini](https://open.spotify.com/artist/5hNq8eCu7SHNqAGLriG1Io) | [Jazz from Italy \- The Scicluna Street](https://open.spotify.com/album/5OxLUWP0mmrr4aYedUrNo4) | 5:50 | 2023-06-04 | 2023-09-18 |
 | [Battiti in parole](https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [fusion.](https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54) | 3:40 | 2022-11-02 |  |
-| [Because](https://open.spotify.com/track/55uXIX2gUpgELEKQUWFcuh) | [Marco Pignataro's Dream Alliance](https://open.spotify.com/artist/0oIiyWHkiX4kp0D0jB9Vo1) | [Awakening](https://open.spotify.com/album/5BMmT4GCOsMzs5twzbR8ec) | 3:27 | 2024-04-15 |  |
+| [Because](https://open.spotify.com/track/55uXIX2gUpgELEKQUWFcuh) | [Marco Pignataro's Dream Alliance](https://open.spotify.com/artist/0oIiyWHkiX4kp0D0jB9Vo1) | [Awakening](https://open.spotify.com/album/5BMmT4GCOsMzs5twzbR8ec) | 3:27 | 2024-04-15 | 2024-07-13 |
 | [Being Tall](https://open.spotify.com/track/77cm678VORgeHsoVVBTeHX) | [Francesca Gaza](https://open.spotify.com/artist/6jLkAhKbd3toZ58ri9NQrV), [Lilac for People](https://open.spotify.com/artist/1kzPulOF322PjMpEXxRaDi), [Francesco Panconesi](https://open.spotify.com/artist/6uKv6Z2fiKeT5Y5t7mNyLH), [Lorenzo Pellegrini](https://open.spotify.com/artist/6c3utzV4qal0l7YBAritiT), [Federico D'Angelo](https://open.spotify.com/artist/6zKvi01bSjLn1CQdjdxMqN), [Mattia Galeotti](https://open.spotify.com/artist/2tKfm6EL0BNZk730TYTmef), [Jacopo Fagioli](https://open.spotify.com/artist/695Z6UdxewsuHti1yj1p02), [Alessandro Mazzieri](https://open.spotify.com/artist/2p4O37ipDx6ZgQ9oWNwTtX), [Luca Sguera](https://open.spotify.com/artist/3bipt9nPFehsZyLDvObGlr) | [Sfiorire](https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA) | 4:47 | 2023-09-17 | 2023-12-06 |
 | [Bella di Notte](https://open.spotify.com/track/6aXpr1JhIbJvg2wJlYuXRz) | [Alessandro Di Liberto](https://open.spotify.com/artist/4SXlb6krjl3fsmbcjpj6vo) | [Flowery Piano](https://open.spotify.com/album/2Hz5Q2dIKU4hbJINpivstO) | 4:26 | 2023-01-30 | 2023-06-05 |
 | [Belle Est La Vie Dans La Ville](https://open.spotify.com/track/3kFNzif5TvZhQXYUCqeqTj) | [Federico Casagrande](https://open.spotify.com/artist/3UIT7PDaIaJ33MxQeIwGyR) | [Under Water the Way Out](https://open.spotify.com/album/4tormw8XSvVDp0zvqPnQVD) | 3:34 | 2023-01-30 | 2023-06-05 |
@@ -162,6 +162,7 @@
 | [For a Film](https://open.spotify.com/track/3bExIkI6AUuWrlvdJnuo4G) | [Mirko Signorile](https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq) | [Soundtrack Cinema \(Music for Movie\)](https://open.spotify.com/album/307CWhGmG2NeFRVTrcBl5d) | 3:57 | 2023-06-04 | 2023-09-18 |
 | [Frevo](https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv) | [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Pierluigi Balducci](https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1), [Nando Di Modugno](https://open.spotify.com/artist/5CULFq6PQEgNcdiOygxmg3) | [Tabacco e Caffè](https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH) | 4:51 | 2023-01-30 | 2023-06-05 |
 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2023-12-05 | 2024-03-29 |
+| [Fun](https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE) | [Oona Rea](https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb) | [First Name: Oona](https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ) | 2:18 | 2024-06-28 |  |
 | [G\. Continuo](https://open.spotify.com/track/3AysbOjtY3rcDSnLEjHv6e) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ) | [Koine'](https://open.spotify.com/album/4PfDpofG0M3YtpFjpmXg1t) | 6:25 | 2023-06-04 | 2023-09-18 |
 | [Galleggiare](https://open.spotify.com/track/3FWkpMmUhZK6svSSyJ8pn6) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [Galleggiare](https://open.spotify.com/album/0ckS1bMEcLoTmjyoxzIYP6) | 4:18 | 2022-08-31 |  |
 | [Generazia](https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72) | [Franco Cerri](https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw) | [Franco Cerri Jazz](https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8) | 1:19 | 2022-09-30 |  |

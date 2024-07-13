@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Hovvdy
 
-407 songs - 21 hr 57 min
+408 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Jonah](https://open.spotify.com/track/740cFOON0lTS7vwP8wpXLz) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [Jonah](https://open.spotify.com/album/1GwoB5FkcuDTrODlxHxeV8) | 3:11 | 2021-08-27 | 2022-05-17 |
 | [just the way it is](https://open.spotify.com/track/0hLf3CBO9Oq7OAQx3r4XRR) | [latenitexeno](https://open.spotify.com/artist/4ILu2F4cEF1CiFEUT8XFqF), [Triple$ix](https://open.spotify.com/artist/2UQuceFmElR6ErvDnT54eM), [front room club](https://open.spotify.com/artist/1sSuSoA3Mzz8T9LBA0hT8t) | [just the way it is](https://open.spotify.com/album/7ce6J51paS5QUNBeIwpjf0) | 3:07 | 2020-10-27\* | 2022-07-13 |
 | [Karaoke](https://open.spotify.com/track/3XDlKHONraLh0a7TsWUxyn) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Karaoke](https://open.spotify.com/album/2e51oImIs1Ewu7vlAhI6md) | 5:15 | 2021-08-20 | 2022-07-19 |
-| [KPR](https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [KPR](https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox) | 3:33 | 2023-12-02 |  |
+| [KPR](https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [KPR](https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox) | 3:33 | 2023-12-02 | 2024-07-13 |
 | [Late Afternoon](https://open.spotify.com/track/2h9BJAGYxYJB7eYb49CgN7) | [Sports & Music](https://open.spotify.com/artist/48hF8pmQ61ySf1iwpF3Yo9) | [Late Afternoon](https://open.spotify.com/album/5OJlYTZ2GuTJqydydhTclC) | 2:07 | 2021-11-10 | 2022-04-28 |
 | [Late Smoke](https://open.spotify.com/track/1bAMwlbkQSpHYQB34VsV6B) | [crytothemoon](https://open.spotify.com/artist/0FKZcqak2HXauS8TvS9u6g) | [Late Smoke](https://open.spotify.com/album/7gRDfW6TOP8cBlbbdQAXzg) | 2:27 | 2020-10-27\* | 2022-07-27 |
 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 | 2022-03-30 |  |
@@ -270,6 +270,7 @@
 | [OH GOD](https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/4IrzLi3zyjvFxiinNRQM3P) | 2:12 | 2022-09-13 | 2023-09-16 |
 | [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 | 2022-08-05 | 2022-10-26 |
 | [One Year Stand](https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:35 | 2022-09-13 | 2024-04-19 |
+| [Open](https://open.spotify.com/track/5GrmEP9RYU4XEHCPLdTAP0) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open](https://open.spotify.com/album/5XOlVDmoXEsVEgIO4vzrMu) | 3:58 | 2024-07-09 |  |
 | [Orange Roses](https://open.spotify.com/track/670aiWD6QsDWp84szcpWE6) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Orange Roses](https://open.spotify.com/album/3R6PGdhybXer7PrwSCpc0w) | 4:05 | 2020-10-27\* | 2022-07-29 |
 | [Own](https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Own](https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV) | 4:59 | 2023-05-18 | 2023-07-22 |
 | [Paces](https://open.spotify.com/track/6RiF8SC99TQlhS1HkdM7sF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:44 | 2023-12-02 |  |

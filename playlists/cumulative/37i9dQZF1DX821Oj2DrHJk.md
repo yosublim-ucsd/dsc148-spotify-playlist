@@ -2,7 +2,7 @@
 
 ### [70s Summer Rock](https://open.spotify.com/playlist/37i9dQZF1DX821Oj2DrHJk)
 
-> Rock that was on repeat during the summers of the 1970s.
+> Rock on repeat during the summers of the 1970s.
 
 165 songs - 11 hr 40 min
 

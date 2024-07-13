@@ -187,6 +187,32 @@
     },
     {
       "album": {
+        "name": "Ancara Messi",
+        "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
+      },
+      "artists": [
+        {
+          "name": "Poniboy",
+          "url": "https://open.spotify.com/artist/3fs56TuW5WSYNOQi8wjRcd"
+        },
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Ancara Messi",
+      "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi"
       },
@@ -726,6 +752,24 @@
       "duration_ms": 151680,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
+    },
+    {
+      "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "album": {
@@ -1452,7 +1496,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 204945,
       "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
       "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
@@ -6350,7 +6394,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"

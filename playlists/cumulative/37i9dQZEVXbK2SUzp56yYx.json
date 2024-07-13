@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 103360,
       "name": "Anatomy - Slowed",
       "url": "https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6"
@@ -689,6 +689,32 @@
     },
     {
       "album": {
+        "name": "Bombalaya (Blooom Remix)",
+        "url": "https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Wolfy Lights",
+          "url": "https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z"
+        },
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Bombalaya - Blooom Remix",
+      "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
+    },
+    {
+      "album": {
         "name": "BREAK A NECK (w/ Ayesha Erotica)",
         "url": "https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk"
       },
@@ -852,6 +878,24 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "album": {
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
     },
     {
       "album": {
@@ -1708,7 +1752,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -2388,6 +2432,24 @@
       "duration_ms": 145510,
       "name": "High",
       "url": "https://open.spotify.com/track/70p9DWXn03qMcC6PPgJPay"
+    },
+    {
+      "album": {
+        "name": "HIGHLY INSULTED",
+        "url": "https://open.spotify.com/album/0bEUjC4d1dOH8Spxv8Tzdm"
+      },
+      "artists": [
+        {
+          "name": "\u043a\u0430\u0442\u044f \u043c\u0438\u043b\u0442\u0435\u0439",
+          "url": "https://open.spotify.com/artist/7ghBdIc5Lj3pbAvTa0Xums"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "HIGHLY INSULTED",
+      "url": "https://open.spotify.com/track/76wgL5yfNiX3tpwLofH4rt"
     },
     {
       "album": {
@@ -3798,7 +3860,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 109668,
       "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
       "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
@@ -4526,8 +4588,8 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
-      "duration_ms": 175321,
+      "date_removed": null,
+      "duration_ms": 172794,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
     },
@@ -5264,7 +5326,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 166923,
       "name": "Someday",
       "url": "https://open.spotify.com/track/2lMzStqWLtcUXBfDGMNmRK"
@@ -7592,7 +7654,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 213939,
       "name": "\u0413\u043e\u043b\u0430\u044f",
       "url": "https://open.spotify.com/track/3AM9u8JepvTpTKOQT6B7N5"
@@ -9900,7 +9962,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188415,
       "name": "\u0421\u0435\u043b\u0444\u0445\u0430\u0440\u043c",
       "url": "https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4"
@@ -10554,7 +10616,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188596,
       "name": "\u0423\u0442\u0438-\u041f\u0443\u0442\u0438",
       "url": "https://open.spotify.com/track/2T1AuZE4fHpWPovzm985OI"

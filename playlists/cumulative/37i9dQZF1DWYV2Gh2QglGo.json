@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: The Reklaws",
+  "description": "The home of Canadian country music. Cover: The Washboard Union",
   "name": "North Country",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 193274,
       "name": "Concrete And Barbed Wire",
       "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 209680,
       "name": "Finding Firsts",
       "url": "https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd"
@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1"
+      },
+      "artists": [
+        {
+          "name": "Cold Creek County",
+          "url": "https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216959,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD"
+    },
+    {
+      "album": {
         "name": "Lonesome",
         "url": "https://open.spotify.com/album/2fWGkbYkFIxHIYHZqIvjvh"
       },
@@ -762,7 +780,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180342,
       "name": "Lyin' To Me",
       "url": "https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt"
@@ -831,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1"
+      },
+      "artists": [
+        {
+          "name": "Chase Heaslip",
+          "url": "https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213269,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
+    },
+    {
+      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
       },
@@ -846,6 +882,42 @@
       "duration_ms": 173203,
       "name": "New Me",
       "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
+    },
+    {
+      "album": {
+        "name": "Westerly",
+        "url": "https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193586,
+      "name": "New Paint",
+      "url": "https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu"
+    },
+    {
+      "album": {
+        "name": "Nobody Dies Anymore",
+        "url": "https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238049,
+      "name": "Nobody Dies Anymore",
+      "url": "https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W"
     },
     {
       "album": {
@@ -1286,7 +1358,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 205970,
       "name": "To Be Honest",
       "url": "https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l"
@@ -1347,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "What Shoulder",
+        "url": "https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "What Shoulder",
+      "url": "https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX"
+    },
+    {
+      "album": {
         "name": "Whether You Love Me or Not",
         "url": "https://open.spotify.com/album/6BsAYtZi9spVp8zw2JF5Ue"
       },
@@ -1358,7 +1448,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 208420,
       "name": "Whether You Love Me or Not",
       "url": "https://open.spotify.com/track/32s0NIIpzep0lQkcIKGyXR"

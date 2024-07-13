@@ -3646,7 +3646,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 214820,
       "name": "Soap",
       "url": "https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q"
@@ -3668,6 +3668,28 @@
       "duration_ms": 222813,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "album": {
+        "name": "Sometimes (with Ben Abraham)",
+        "url": "https://open.spotify.com/album/3Vz6utsS6MCzevTtvOiPQx"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        },
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175034,
+      "name": "Sometimes (with Ben Abraham)",
+      "url": "https://open.spotify.com/track/7cWgxFcVh7ppU0CgCfZ9qE"
     },
     {
       "album": {

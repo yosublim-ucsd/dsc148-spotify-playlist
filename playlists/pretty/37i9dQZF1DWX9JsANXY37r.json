@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121582,
+  "num_followers": 121585,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 291900,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa"
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
     },
     {
       "added_at": "2024-07-05 03:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-05 03:00:00",
       "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 291900,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa"
+    },
+    {
+      "added_at": "2024-07-05 03:00:00",
+      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 177726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/555ix1gW9A1QtXoVfCPbfB"
-    },
-    {
-      "added_at": "2024-07-05 03:00:00",
-      "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
     },
     {
       "added_at": "2024-07-05 03:00:00",

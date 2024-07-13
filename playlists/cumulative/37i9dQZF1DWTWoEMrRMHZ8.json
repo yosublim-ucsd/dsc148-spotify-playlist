@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 201962,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
@@ -4406,7 +4406,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 286052,
       "name": "Esot\u00e9rico",
       "url": "https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn"
@@ -4937,6 +4937,28 @@
     },
     {
       "album": {
+        "name": "Fascina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4y2gkqcYkMseR49a2PzDal"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/36wFIGOzilPz03RSfP5Rl7"
+        },
+        {
+          "name": "Marcello Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/3meY1PqyH0j5oWNNeknkZO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Fascina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3WNTi4K0O6oaK306nHDNm0"
+    },
+    {
+      "album": {
         "name": "Mil Coisas Invis\u00edveis",
         "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
       },
@@ -5330,7 +5352,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181589,
       "name": "fugindo do samba",
       "url": "https://open.spotify.com/track/2CIyH4J7T3xR6VmsZbe0mS"
@@ -5486,7 +5508,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 158749,
       "name": "Golpe Baixo",
       "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
@@ -6597,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Malandragem",
+        "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231648,
+      "name": "Malandragem",
+      "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
+    },
+    {
+      "album": {
         "name": "Mal\u00ea",
         "url": "https://open.spotify.com/album/04CejgJc5DS7Oy3r29ofZr"
       },
@@ -7588,6 +7628,24 @@
       "duration_ms": 228810,
       "name": "Mulher Corvo",
       "url": "https://open.spotify.com/track/5KSgDzS7qN7o9SxplH7gDx"
+    },
+    {
+      "album": {
+        "name": "Multicolorida",
+        "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256344,
+      "name": "Multicolorida",
+      "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
     },
     {
       "album": {
@@ -8834,7 +8892,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 214992,
       "name": "O Vento",
       "url": "https://open.spotify.com/track/4LkoWJaD6nAftnz9w6r4Lr"
@@ -9736,6 +9794,24 @@
       "duration_ms": 173546,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/20esrvSWWSwppeTNszrqBX"
+    },
+    {
+      "album": {
+        "name": "PERNAMBUCANA",
+        "url": "https://open.spotify.com/album/0HoOXLK65NE1EvegdBlzd2"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199503,
+      "name": "PERNAMBUCANA",
+      "url": "https://open.spotify.com/track/0Q62TpLE71tDSBbm6pqi9C"
     },
     {
       "album": {
@@ -12021,6 +12097,28 @@
     },
     {
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/24KDILHIpRPBcxAN9S4tXz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Orlando Morais",
+          "url": "https://open.spotify.com/artist/5fjNNMiS4xA9ri50gHSHPv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256049,
+      "name": "Sentido",
+      "url": "https://open.spotify.com/track/47p6zm9vtMTgqVljgyH5wT"
+    },
+    {
+      "album": {
         "name": "Sentido da Vida",
         "url": "https://open.spotify.com/album/4rTZqc29huKABVedShBX1x"
       },
@@ -12640,7 +12738,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 193949,
       "name": "S\u00f3 Mais Um Pouquinho",
       "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
@@ -12900,6 +12998,32 @@
       "duration_ms": 219375,
       "name": "Telegrama",
       "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
+    },
+    {
+      "album": {
+        "name": "Tem Barata Voadora Que Se Acha Borboleta",
+        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
+      },
+      "artists": [
+        {
+          "name": "NAT\u00d6",
+          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "CRIS.",
+          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "Tem Barata Voadora Que Se Acha Borboleta",
+      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
     },
     {
       "album": {
@@ -13880,7 +14004,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181226,
       "name": "Vaga-Lumes",
       "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"

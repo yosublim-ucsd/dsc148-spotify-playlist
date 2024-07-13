@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-88 songs - 4 hr 16 min
+89 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Miss You](https://open.spotify.com/track/1m51a4loj9dnJXxtfo3owt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:50 | 2023-07-14 |  |
 | [Miss You](https://open.spotify.com/track/0xxdVLq9v6ZKegFDy47NdD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Miss You](https://open.spotify.com/album/77PTfPvhEoJGlgMW4AIvEb) | 2:50 | 2023-06-09 | 2023-07-15 |
 | [Mona Lisa](https://open.spotify.com/track/4AC1jOph59b5NS5ZTIq3K0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:06 | 2024-01-22 |  |
+| [Murder On The Dancefloor](https://open.spotify.com/track/2dlaRwCVkHNNomzCq9TMtT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:00 | 2024-07-12 |  |
 | [Nonsense](https://open.spotify.com/track/48nWVjNj7vfIKhvCTT9H6z) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Nonsense](https://open.spotify.com/album/5gPQTWdHj7aP0mxBB7v9IE) | 2:37 | 2023-07-07 | 2023-07-15 |
 | [Nonsense](https://open.spotify.com/track/5oiT9PyDJr1Jy93UH02yuM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:37 | 2023-07-14 |  |
 | [Old Town Road](https://open.spotify.com/track/07cQIm99dnNSKs6skathg0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 1:50 | 2023-06-09 |  |

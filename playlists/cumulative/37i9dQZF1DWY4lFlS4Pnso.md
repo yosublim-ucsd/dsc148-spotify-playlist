@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Charli XCX
+> The UK's biggest playlist\. Cover: Charli xcx
 
 191 songs - 9 hr 57 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4B4YYJ0BAYBK86yxqQV7mu\">Funky</a> y <a href=\"spotify:artist:6pdXxGaaEGf7huw3C6fz6a\">Gilberto Daza</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7zpvy5B9gb5KprNUzNCOEE\">Miel San Marcos</a> y <a href=\"spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj\">Matthew West</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 210522,
       "name": "Detras De Mi",
       "url": "https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf"
@@ -5239,6 +5239,32 @@
     },
     {
       "album": {
+        "name": "Gracias Dios (I Thank God)",
+        "url": "https://open.spotify.com/album/0tyDdxmO7qzT0aG01gki0R"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221086,
+      "name": "Gracias Dios (I Thank God)",
+      "url": "https://open.spotify.com/track/6y5X5hmwqGg9CEFXqoxBYs"
+    },
+    {
+      "album": {
         "name": "No yo, sino Cristo",
         "url": "https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe"
       },
@@ -6982,6 +7008,24 @@
       "duration_ms": 229675,
       "name": "Me Encontraste feat. Alex Zurdo",
       "url": "https://open.spotify.com/track/6yZas5dhLsCOsLywd36CeG"
+    },
+    {
+      "album": {
+        "name": "Por Su Esp\u00edritu - Sesiones Org\u00e1nicas",
+        "url": "https://open.spotify.com/album/3eZZua5gb3LGME4w3ozjsE"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260674,
+      "name": "Me Gu\u00edas",
+      "url": "https://open.spotify.com/track/7vgJxBeHZCyhi7Q10SvKiP"
     },
     {
       "album": {
@@ -8751,6 +8795,28 @@
     },
     {
       "album": {
+        "name": "Adoraci\u00f3n III",
+        "url": "https://open.spotify.com/album/5zb3EC60lfoW1rRvmfoxtU"
+      },
+      "artists": [
+        {
+          "name": "Anthem Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A"
+        },
+        {
+          "name": "SioVera",
+          "url": "https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Por Amor // Eres Mi Todo",
+      "url": "https://open.spotify.com/track/3UwKMKVWGzDnNtpzNRWxbw"
+    },
+    {
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -8870,7 +8936,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 232394,
       "name": "Presente Y Futuro",
       "url": "https://open.spotify.com/track/4Pt3XjZidq0ChEYpMdvMDC"
@@ -9632,7 +9698,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 189078,
       "name": "Ruido!",
       "url": "https://open.spotify.com/track/134153YPVKNep495TmCqRm"
@@ -10006,6 +10072,28 @@
       "duration_ms": 194986,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+    },
+    {
+      "album": {
+        "name": "Sigue Orando (Don't Stop Praying)",
+        "url": "https://open.spotify.com/album/5RudolYe3u7YMRDM3ZqHpp"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233586,
+      "name": "Sigue Orando (Don't Stop Praying)",
+      "url": "https://open.spotify.com/track/6t9lLCkgPTSEtT5jnOBJax"
     },
     {
       "album": {
@@ -11470,6 +11558,28 @@
       "duration_ms": 333893,
       "name": "Tu Reino Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
+    },
+    {
+      "album": {
+        "name": "Tu Sangre",
+        "url": "https://open.spotify.com/album/4XQucKprACMjUIZzmaOxkr"
+      },
+      "artists": [
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 659554,
+      "name": "Tu Sangre",
+      "url": "https://open.spotify.com/track/2L8Us5UApjGOm5jutj6gcR"
     },
     {
       "album": {

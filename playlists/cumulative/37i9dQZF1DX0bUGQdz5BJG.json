@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Addictions",
+        "url": "https://open.spotify.com/album/5bUMRuNysQnyqJfxGM6PKM"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Addictions",
+      "url": "https://open.spotify.com/track/0aplFNbDGW0ZbUfqpjJXX1"
+    },
+    {
+      "album": {
         "name": "After Me?",
         "url": "https://open.spotify.com/album/2uXVVL02SJGNLxy1tGdGKP"
       },
@@ -5460,7 +5478,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211136,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/6KkSL1VtQv2rERqEypDSpd"
@@ -6046,6 +6064,24 @@
       "duration_ms": 205767,
       "name": "Chevy Nova",
       "url": "https://open.spotify.com/track/7zXV9zgIIYZ6doQmjsi2Xh"
+    },
+    {
+      "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/2tT60TblCPfVfj8Odtirb3"
+      },
+      "artists": [
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/1mXPjWm26tfAGYbw1sKGNC"
     },
     {
       "album": {
@@ -11742,7 +11778,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 221008,
       "name": "Gettin' Back Up To Heaven",
       "url": "https://open.spotify.com/track/5yk26Oj6sdmhXEZva3cO9l"
@@ -14810,7 +14846,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 225000,
       "name": "Hey Arizona",
       "url": "https://open.spotify.com/track/3HtsiHZAOyk9X2x6ARQ99S"
@@ -14994,6 +15030,24 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "album": {
+        "name": "High And Lonesome",
+        "url": "https://open.spotify.com/album/6an3mho8XOKCHZ5YbEeVuj"
+      },
+      "artists": [
+        {
+          "name": "Mae Estes",
+          "url": "https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237366,
+      "name": "High And Lonesome",
+      "url": "https://open.spotify.com/track/0KjS3ONF2X13tZt2F2dnVH"
     },
     {
       "album": {
@@ -19078,7 +19132,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167843,
       "name": "Keep It On The Low",
       "url": "https://open.spotify.com/track/2WRJqUniDtI9QkyqVHixya"
@@ -28993,6 +29047,24 @@
     },
     {
       "album": {
+        "name": "River Black",
+        "url": "https://open.spotify.com/album/2CYkL1bu5tL1WAedm89dGf"
+      },
+      "artists": [
+        {
+          "name": "Dillon James",
+          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170169,
+      "name": "River Black",
+      "url": "https://open.spotify.com/track/4ZebmxjLdT4TFC52HUnxlj"
+    },
+    {
+      "album": {
         "name": "River Jordan",
         "url": "https://open.spotify.com/album/4oTxax02L5oGUREh79Ndjj"
       },
@@ -36021,6 +36093,28 @@
     },
     {
       "album": {
+        "name": "Tickets to Turnpike (feat. Kyle Nix)",
+        "url": "https://open.spotify.com/album/0o0U19QOAUnAjoRzCVG8SS"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        },
+        {
+          "name": "Kyle Nix",
+          "url": "https://open.spotify.com/artist/5I5An83jvtFRFFT7ngn1Aj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206813,
+      "name": "Tickets to Turnpike (feat. Kyle Nix)",
+      "url": "https://open.spotify.com/track/6NcoXOiP99eNk95rhkdJQi"
+    },
+    {
+      "album": {
         "name": "Tie'r Down",
         "url": "https://open.spotify.com/album/2UdZbgxFn36Nk1RwV1xZ90"
       },
@@ -36844,7 +36938,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 192643,
       "name": "Turn It Down (with Ashland Craft)",
       "url": "https://open.spotify.com/track/6GGdHtj1oe3UbtgfDvKAdA"
@@ -38196,7 +38290,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 185678,
       "name": "What if I",
       "url": "https://open.spotify.com/track/3QbpR65scNHVSluvLKOdS6"
@@ -38320,6 +38414,24 @@
       "duration_ms": 228840,
       "name": "What She Sees in Me",
       "url": "https://open.spotify.com/track/4H1Op2dTXFN3HNUKEOK9HF"
+    },
+    {
+      "album": {
+        "name": "What Shoulder",
+        "url": "https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "What Shoulder",
+      "url": "https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX"
     },
     {
       "album": {

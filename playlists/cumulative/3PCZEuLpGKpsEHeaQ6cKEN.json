@@ -457,6 +457,32 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5ZLcOtEmIuI9DFQfBSamFs"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6mN40z3rm6Yg7Pl5L9MSnx"
+    },
+    {
+      "album": {
         "name": "All About U",
         "url": "https://open.spotify.com/album/4G6sfkzJS5XDXQF2uAf2nh"
       },

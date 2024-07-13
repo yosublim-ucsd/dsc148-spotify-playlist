@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Poppy on top of today's best Metal playlist.",
+  "description": "Bring Me The Horizon on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 245947,
       "name": "Burden",
       "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 187234,
       "name": "crying",
       "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
@@ -6269,6 +6269,24 @@
     },
     {
       "album": {
+        "name": "The Order Of Fear",
+        "url": "https://open.spotify.com/album/2ZAHidu1BbX01QEiG8BpcF"
+      },
+      "artists": [
+        {
+          "name": "Orden Ogan",
+          "url": "https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237994,
+      "name": "Kings of the Underworld",
+      "url": "https://open.spotify.com/track/6ouLDMuQXNZY6WAhQZ9Z7c"
+    },
+    {
+      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/3J7qLVPyQ4wdZk0N2bGfhW"
       },
@@ -9857,6 +9875,24 @@
     },
     {
       "album": {
+        "name": "Who Are You When No One Is Watching?",
+        "url": "https://open.spotify.com/album/5wrkIue3cXCux4doh1vEwM"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205837,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/1uGjwm01UDtRWWACi6tQwd"
+    },
+    {
+      "album": {
         "name": "Song of the Dusk",
         "url": "https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om"
       },
@@ -10690,6 +10726,24 @@
       "duration_ms": 231666,
       "name": "The Body",
       "url": "https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3"
+    },
+    {
+      "album": {
+        "name": "The Cave We Fear To Enter",
+        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "The Cave We Fear to Enter",
+      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
     },
     {
       "album": {
@@ -12056,7 +12110,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 238534,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"

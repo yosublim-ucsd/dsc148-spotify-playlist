@@ -4,11 +4,12 @@
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, coming soon to theaters.
 
-22 songs - 1 hr 25 min
+24 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-05-16 |  |
+| [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/track/2EiJiEYSo7vfryttFuDuIw) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/album/080pSIFP4RIZmTbyRrwsE0) | 3:14 | 2024-07-12 |  |
 | [Already Had It \(From Twisters: The Album\)](https://open.spotify.com/track/2175PkxzwUmUdeJc3J1d0p) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Already Had It \(From Twisters: The Album\)](https://open.spotify.com/album/0BkWWyaoHbUvGbDm9Iibwj) | 2:45 | 2024-06-21 |  |
 | [Broken](https://open.spotify.com/track/7BrL1RQ15niOHFCprkh58C) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:02 | 2024-05-16 |  |
 | [Darling Pretty](https://open.spotify.com/track/5o9uGs39GioJkpX43E9amG) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:31 | 2024-05-16 |  |
@@ -26,6 +27,7 @@
 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-06-21 |  |
 | [Respect the Wind](https://open.spotify.com/track/1Uk3N1ayracgnAgw8jk7Zf) | [Eddie Van Halen](https://open.spotify.com/artist/1DlE1l0q1w0cE9cQVIsC7I), [Alex Van Halen](https://open.spotify.com/artist/3CmDSgt3JbEGKxvssuARPB) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:46 | 2024-05-16 |  |
 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 | 2024-06-28 |  |
+| [Steal My Thunder \(feat\. Tucker Wetmore\) \[From Twisters: The Album\]](https://open.spotify.com/track/5570h72QV2nxy5AhozdPnG) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Steal My Thunder \(feat\. Tucker Wetmore\) \[From Twisters: The Album\]](https://open.spotify.com/album/3GL86cYOcOKs90uu65hVkx) | 3:09 | 2024-07-12 |  |
 | [Talula \- BT's Tornado Mix](https://open.spotify.com/track/2QcQUTwIq5KYlqcg4UI1a9) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Tim Weidner](https://open.spotify.com/artist/5tUCwGnLlLLYSMpYvxrVOE) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:43 | 2024-05-16 |  |
 | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/track/5DWplsLK5juocMo4PBX826) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v) | 2:30 | 2024-06-21 |  |
 | [Twisted](https://open.spotify.com/track/2S2IT5e9CcsClsBkaTnBwO) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:13 | 2024-05-16 |  |

@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Lost In Translation Beta",
+        "url": "https://open.spotify.com/album/3EPAePiqH5B7VYUVBiHtCH"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Lost In Translation Beta (64-74hz)",
+      "url": "https://open.spotify.com/track/3Jl5YrehEmurX8z4tfbbuy"
+    },
+    {
+      "album": {
         "name": "Beta Focus",
         "url": "https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd"
       },
@@ -1342,6 +1360,24 @@
       "duration_ms": 311000,
       "name": "Pure Beta Binaural Beat - Increased Concentration",
       "url": "https://open.spotify.com/track/3Xu94JRuFVpuLoqH9JR579"
+    },
+    {
+      "album": {
+        "name": "Radiating Cognition (Beta 77.8Hz - 96.1Hz)",
+        "url": "https://open.spotify.com/album/1MKQNjQGS2AoVFUXo5MwjU"
+      },
+      "artists": [
+        {
+          "name": "sweetHz",
+          "url": "https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150337,
+      "name": "Radiating Cognition (Beta 77.8Hz - 96.1Hz)",
+      "url": "https://open.spotify.com/track/1TGCXEWldi4BSwI1Fr6fNk"
     },
     {
       "album": {

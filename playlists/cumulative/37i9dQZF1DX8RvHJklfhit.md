@@ -2,7 +2,7 @@
 
 ### [Latin Indie Classics](https://open.spotify.com/playlist/37i9dQZF1DX8RvHJklfhit)
 
-> Your favorite Latin Indie classics.
+> Your favorite Latin Indie classics\. Cover: Mon Laferte
 
 254 songs - 15 hr 6 min
 

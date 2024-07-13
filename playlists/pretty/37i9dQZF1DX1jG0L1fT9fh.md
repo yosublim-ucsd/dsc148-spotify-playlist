@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,188 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,205 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

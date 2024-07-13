@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165436,
       "name": "Black Loro",
       "url": "https://open.spotify.com/track/4oXmqXtCQhbK77XGg4c8fx"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 129729,
       "name": "Chuva de Bala",
       "url": "https://open.spotify.com/track/1NylSwWpTFtlAXSxhlZH0C"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 182535,
       "name": "Crossover",
       "url": "https://open.spotify.com/track/5rWiq2Q0rOwWUfqOkUqgo8"
@@ -4160,6 +4160,32 @@
       "duration_ms": 178356,
       "name": "Fio a Fio",
       "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
+    },
+    {
+      "album": {
+        "name": "Mixtape Novset, Vol. 1",
+        "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "A$TRO PITBULL",
+          "url": "https://open.spotify.com/artist/2rhPASsMJ3MBzKdbrF9UMJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Flerte",
+      "url": "https://open.spotify.com/track/2psH9Fga5Tzmv56JlubiNn"
     },
     {
       "album": {
@@ -7293,6 +7319,28 @@
     },
     {
       "album": {
+        "name": "ABAIXO DO RADAR",
+        "url": "https://open.spotify.com/album/6ap64VE60iIhMk2TAA1ikK"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138302,
+      "name": "N\u00d3IS \u00c9 ISSO A\u00cd",
+      "url": "https://open.spotify.com/track/0l3oyutSwY0sxzu1DUEgcA"
+    },
+    {
+      "album": {
         "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
         "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
       },
@@ -9844,6 +9892,44 @@
       "duration_ms": 324000,
       "name": "Set Vida Errada 3",
       "url": "https://open.spotify.com/track/50VBWokNXnmStGE13Rm0ck"
+    },
+    {
+      "album": {
+        "name": "Para Todas do Job",
+        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255157,
+      "name": "Seu Job",
+      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
     },
     {
       "album": {

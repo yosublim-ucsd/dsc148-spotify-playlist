@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186837,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+    },
+    {
+      "album": {
         "name": "Ibiza Pareo",
         "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180277,
       "name": "Autodefensa",
       "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
@@ -968,6 +986,32 @@
       "duration_ms": 230988,
       "name": "Cuando el sol est\u00e1 as\u00ed",
       "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
+    },
+    {
+      "album": {
+        "name": "Cuando me muera",
+        "url": "https://open.spotify.com/album/3WkfjLHDo7jpnkTEiGPdrf"
+      },
+      "artists": [
+        {
+          "name": "Andrea \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n"
+        },
+        {
+          "name": "Lonnie Hillyer",
+          "url": "https://open.spotify.com/artist/4I5JOqmSw3rmws7FxLPP6P"
+        },
+        {
+          "name": "Tom\u00e1s Brugu\u00e9s",
+          "url": "https://open.spotify.com/artist/1vh2HYwdjMQa0dcTNP3MjO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255910,
+      "name": "Cuando me muera",
+      "url": "https://open.spotify.com/track/7yHsECJ87q9dRKmocjuMFL"
     },
     {
       "album": {
@@ -2532,7 +2576,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 345723,
       "name": "Las Se\u00f1ales",
       "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
@@ -3720,7 +3764,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 160519,
       "name": "perfecta",
       "url": "https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S"
@@ -3904,6 +3948,24 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "album": {
+        "name": "Por Mil Noches",
+        "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
+      },
+      "artists": [
+        {
+          "name": "Maggie Sky",
+          "url": "https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283826,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI"
     },
     {
       "album": {
@@ -4278,7 +4340,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 218431,
       "name": "Si Me Canso de Callar",
       "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"
@@ -4642,6 +4704,28 @@
       "duration_ms": 207669,
       "name": "Todo el mundo miente",
       "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
+    },
+    {
+      "album": {
+        "name": "\u00c9xito",
+        "url": "https://open.spotify.com/album/5nkt0p0MCd9WqFjk2zcw9b"
+      },
+      "artists": [
+        {
+          "name": "Samantha Navarro",
+          "url": "https://open.spotify.com/artist/42bSW87StWghA8hysIh96X"
+        },
+        {
+          "name": "Diego Matturro",
+          "url": "https://open.spotify.com/artist/4b0yopCKitZnedZydA8Aca"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189098,
+      "name": "Todo Parece",
+      "url": "https://open.spotify.com/track/7wrUGAtnEhdTEaIPg6PpGM"
     },
     {
       "album": {

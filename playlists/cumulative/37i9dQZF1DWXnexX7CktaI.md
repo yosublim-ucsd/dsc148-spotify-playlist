@@ -2,7 +2,7 @@
 
 ### [Gold Edition](https://open.spotify.com/playlist/37i9dQZF1DWXnexX7CktaI)
 
-> Still in rotation\. Cover: Tems
+> Still in rotation\. Cover: Chris Brown
 
 182 songs - 11 hr 9 min
 

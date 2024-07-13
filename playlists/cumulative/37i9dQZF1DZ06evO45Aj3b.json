@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
+  "description": "This Is Dominic Fike. Los temas esenciales, todos en una lista.",
   "name": "This Is Dominic Fike",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 76480,
       "name": "Dominic\u2019s Interlude",
       "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"

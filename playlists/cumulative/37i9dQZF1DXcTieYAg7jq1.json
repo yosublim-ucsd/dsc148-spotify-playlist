@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 236293,
       "name": "Holding Pattern",
       "url": "https://open.spotify.com/track/47DNjUtdIuDVDbcvO8HGtO"
@@ -5061,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/1Eq16zkqEjt8Hzrae9q6fa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182777,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3"
+    },
+    {
+      "album": {
         "name": "One Thing",
         "url": "https://open.spotify.com/album/4YNRtUmWyTeKmpt402o33l"
       },
@@ -5346,7 +5364,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 228300,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"
@@ -6066,6 +6084,28 @@
       "duration_ms": 180335,
       "name": "Sleeptalking",
       "url": "https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir"
+    },
+    {
+      "album": {
+        "name": "Slippin' (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168169,
+      "name": "Slippin' (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"
     },
     {
       "album": {

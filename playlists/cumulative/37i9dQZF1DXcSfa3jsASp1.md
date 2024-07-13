@@ -2,7 +2,7 @@
 
 ### [10s Summer Rock](https://open.spotify.com/playlist/37i9dQZF1DXcSfa3jsASp1)
 
-> Rock that was on repeat during the summers of the 2010s.
+> Rock on repeat during the summers of the 2010s.
 
 170 songs - 10 hr 47 min
 

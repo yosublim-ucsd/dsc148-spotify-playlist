@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Carol Biazin",
+  "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
   "name": "GLOW Brasil",
   "tracks": [
     {
@@ -174,6 +174,32 @@
       "duration_ms": 276521,
       "name": "Alasca",
       "url": "https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm"
+    },
+    {
+      "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
       "album": {
@@ -1122,7 +1148,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140879,
       "name": "Da Me M\u00e1s",
       "url": "https://open.spotify.com/track/2w7Q1ggNlhGtSQxcZHms6n"
@@ -1454,7 +1480,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 245933,
       "name": "Fluorescente",
       "url": "https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v"
@@ -2357,6 +2383,42 @@
     },
     {
       "album": {
+        "name": "KIKIKI",
+        "url": "https://open.spotify.com/album/2VXdtQLsLZN6p2xPOnhQne"
+      },
+      "artists": [
+        {
+          "name": "KIKIKI",
+          "url": "https://open.spotify.com/show/2VXdtQLsLZN6p2xPOnhQne"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2184503,
+      "name": "O KIKIKI da Jaloo e da Boombeat",
+      "url": "https://open.spotify.com/episode/0gjga2PfWTFV60ihqyK0eQ"
+    },
+    {
+      "album": {
+        "name": "KIKIKI",
+        "url": "https://open.spotify.com/album/2VXdtQLsLZN6p2xPOnhQne"
+      },
+      "artists": [
+        {
+          "name": "KIKIKI",
+          "url": "https://open.spotify.com/show/2VXdtQLsLZN6p2xPOnhQne"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2280104,
+      "name": "O KIKIKI do Winnit e do Rico Dalasam",
+      "url": "https://open.spotify.com/episode/2VTgQH2IvGxgnmYOc2NMex"
+    },
+    {
+      "album": {
         "name": "Jaqueira",
         "url": "https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M"
       },
@@ -2807,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Mari No Barzinho (Ao Vivo No RJ)",
+        "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161610,
+      "name": "P\u00e1gina De Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k"
+    },
+    {
+      "album": {
         "name": "Que Passa",
         "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
       },
@@ -2884,7 +2964,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181951,
       "name": "Quero te ver gozar",
       "url": "https://open.spotify.com/track/5YE3cApQuFEnAbvjAOR674"

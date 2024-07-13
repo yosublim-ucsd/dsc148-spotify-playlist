@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Breathe and Believe (From \"UnPrisoned: Season 2\")",
+        "url": "https://open.spotify.com/album/3MSWX3se1SWMgc6brDwMvi"
+      },
+      "artists": [
+        {
+          "name": "Mo\u00efse",
+          "url": "https://open.spotify.com/artist/73B6eQowikxUyej3UD3qvT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147648,
+      "name": "Breathe and Believe - From \"UnPrisoned: Season 2\"",
+      "url": "https://open.spotify.com/track/3pDgRqmHWUcyvAndHZT7Su"
+    },
+    {
+      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },

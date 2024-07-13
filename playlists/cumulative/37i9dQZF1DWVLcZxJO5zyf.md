@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: JÃO
 
-305 songs - 14 hr 24 min
+306 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 | 2024-04-13 |
 | [Que Tal](https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:10 | 2023-08-18 |  |
 | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/track/707X30zRZYb1HYe1BtiY69) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/album/3mX5V5Jbliy12mrafRMzfs) | 2:20 | 2022-01-14 | 2022-08-13 |
+| [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-07-12 |  |
 | [QUER DANÇAR](https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Bonde do Tigrão](https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR) | [QUER DANÇAR](https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451) | 2:10 | 2023-11-10 | 2024-03-02 |
 | [Quero Te Ver Pelada](https://open.spotify.com/track/5a5YuCUYrM8yNowoHilHQh) | [Angela Destro](https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6) | [Quero Te Ver Pelada](https://open.spotify.com/album/0N3w2AOuJDkuulEilRJ1qg) | 1:10 | 2024-07-05 |  |
 | [Radar](https://open.spotify.com/track/0V4LaOkdQm1sJwNerXcxMl) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 3:02 | 2022-01-14 | 2022-07-29 |

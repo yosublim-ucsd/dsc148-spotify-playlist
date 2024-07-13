@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
@@ -7850,7 +7850,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
@@ -9454,6 +9454,24 @@
       "duration_ms": 326582,
       "name": "Conquistadora",
       "url": "https://open.spotify.com/track/0GOyB49I3DQKLCOBUAH5T1"
+    },
+    {
+      "album": {
+        "name": "Samba de Raiz - Ao Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
+      },
+      "artists": [
+        {
+          "name": "Samba De Raiz",
+          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Conselho - Ao Vivo",
+      "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
     },
     {
       "album": {
@@ -28426,7 +28444,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
@@ -32602,7 +32620,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
@@ -47972,6 +47990,24 @@
     {
       "album": {
         "name": "\u00bfCom\u00f3 Est\u00e1s?",
+        "url": "https://open.spotify.com/album/1G8XJWw7Z2EfxUrhe6RGlo"
+      },
+      "artists": [
+        {
+          "name": "ELU",
+          "url": "https://open.spotify.com/artist/4C53psmv7ayjtW22NqPCTy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "\u00bfCom\u00f3 Est\u00e1s?",
+      "url": "https://open.spotify.com/track/2NDhm0KzilrnQ9zCI63BAl"
+    },
+    {
+      "album": {
+        "name": "\u00bfCom\u00f3 Est\u00e1s?",
         "url": "https://open.spotify.com/album/6y9N28Bbkgy5LvAEEwTP3f"
       },
       "artists": [
@@ -47982,7 +48018,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 223384,
       "name": "\u00bfCom\u00f3 Est\u00e1s?",
       "url": "https://open.spotify.com/track/3kxSYuY6LoArKkIlau9X70"

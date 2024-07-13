@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,186 likes - 93 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,379 likes - 93 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 92 | [Take On Me](https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Take On Me](https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw) | 2:26 |
 | 93 | [Kiss Me](https://open.spotify.com/track/4xni5u37UubdobwY7FpnqZ) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/7xpY3HpVuf7KsxPFXXU6nO) | 2:28 |
 
-Snapshot ID: `ZnT6wAAAAADmGL79T5C1DT619zuw0TTd`
+Snapshot ID: `ZpGiZQAAAACxQNB57K1ZwqKclTnO0ZLF`

@@ -1,13 +1,33 @@
 {
-  "description": "The best of today's funk. Cover: Durand Bernarr\n",
-  "num_followers": 324855,
+  "description": "The best of today's funk. Cover: MonoNeon",
+  "num_followers": 325111,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZodvwQAAAACi8mLaQIQ8hgRH4JsmUHai",
+  "snapshot_id": "ZpCqQAAAAAA1PXWgSZCfWWNkvGC6claF",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/5p12lpNSgfFD9mYuuLzgMK"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 224302,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/56RlwQy5HsHbf6guHUMluq"
+    },
     {
       "added_at": "2024-07-01 15:12:38",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 253133,
       "name": "Hip Replacement",
       "url": "https://open.spotify.com/track/0xbRBmn4poZWxCdnbfvmCq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Bad Credit",
+        "url": "https://open.spotify.com/album/1kqW4NHYIiXcEacyhcRh5c"
+      },
+      "artists": [
+        {
+          "name": "Yonny",
+          "url": "https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ"
+        }
+      ],
+      "duration_ms": 202633,
+      "name": "Bad Credit",
+      "url": "https://open.spotify.com/track/1rX4NEQw31PCs8xN125GiZ"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -41,6 +77,22 @@
       "url": "https://open.spotify.com/track/3clenG2tAtYdINNWyR4VA8"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Vibes Alright",
+        "url": "https://open.spotify.com/album/6hwewxU4YEgTBoxsU5FEOu"
+      },
+      "artists": [
+        {
+          "name": "Marc Rebillet",
+          "url": "https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI"
+        }
+      ],
+      "duration_ms": 177737,
+      "name": "Vibes Alright",
+      "url": "https://open.spotify.com/track/6ZtWV5Xnnj8Mowoc02JWB5"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Dance 'N Forget",
@@ -55,22 +107,6 @@
       "duration_ms": 200527,
       "name": "Dance 'N Forget",
       "url": "https://open.spotify.com/track/1LHWhmfgWC2sU9iewXd0cz"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Jelly Roll",
-        "url": "https://open.spotify.com/album/3XyBAOkeZyg7rX9GiNw9eZ"
-      },
-      "artists": [
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Jelly Roll",
-      "url": "https://open.spotify.com/track/5H6iPB2CyzGoI7Hzlxz9Da"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -891,26 +927,6 @@
       "duration_ms": 154988,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/4pvWcCnoJnhSQtCMEeb0bb"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "He Said/She Said (Lack of Afro Remix)",
-        "url": "https://open.spotify.com/album/0WVFG00h9vS2j1puywuwoL"
-      },
-      "artists": [
-        {
-          "name": "Acantha Lang",
-          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
-        },
-        {
-          "name": "Lack Of Afro",
-          "url": "https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "He Said/She Said - Lack of Afro Remix",
-      "url": "https://open.spotify.com/track/38lFhq6f4r72RGm8t3M0j0"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1875,26 +1891,6 @@
       "duration_ms": 181951,
       "name": "Drip Feed",
       "url": "https://open.spotify.com/track/5fhIrC32KM91BM9z4OVMnh"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "SUPERPOWERS",
-        "url": "https://open.spotify.com/album/4oIKEETxNWLpwlxZHEyx7R"
-      },
-      "artists": [
-        {
-          "name": "Stee Moglie",
-          "url": "https://open.spotify.com/artist/5koldNtStAQ8R6emPcSE51"
-        },
-        {
-          "name": "Funky DL",
-          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
-        }
-      ],
-      "duration_ms": 178349,
-      "name": "SUPERPOWERS",
-      "url": "https://open.spotify.com/track/717vo5eln3dMd1mOSdGQMr"
     },
     {
       "added_at": "2023-12-01 05:01:00",

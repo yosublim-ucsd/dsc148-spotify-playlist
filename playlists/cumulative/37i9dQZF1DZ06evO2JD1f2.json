@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is EST Gee. The essential tracks, all in one playlist.",
+  "description": "This Is EST Gee. Los temas esenciales, todos en una lista.",
   "name": "This Is EST Gee",
   "tracks": [
     {
@@ -76,7 +76,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 184833,
       "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 158431,
       "name": "Backstage Passes (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 227096,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 149807,
       "name": "Make It Even",
       "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"

@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Justo a Tempo",
+        "url": "https://open.spotify.com/album/4ntSsj5jGtbkQSjFtWl5BX"
+      },
+      "artists": [
+        {
+          "name": "El Cachivache Quinteto",
+          "url": "https://open.spotify.com/artist/1WESGlIggKkTGIQO0Z7Jfh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169033,
+      "name": "Gipsy Vals",
+      "url": "https://open.spotify.com/track/2dlDO0UnTyur4GVjZCi04K"
+    },
+    {
+      "album": {
         "name": "Gran Hotel Victoria",
         "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 227426,
       "name": "Luna de Abril",
       "url": "https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF"
@@ -1692,6 +1710,28 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
+    },
+    {
+      "album": {
+        "name": "Melod\u00eda de Arrabal",
+        "url": "https://open.spotify.com/album/5bX4LtXjkxlBTHZsvUWUgq"
+      },
+      "artists": [
+        {
+          "name": "Luisina Mathieu",
+          "url": "https://open.spotify.com/artist/7f6Rk0hZPT0CiiY2LgFKQz"
+        },
+        {
+          "name": "Emiliano Faryna",
+          "url": "https://open.spotify.com/artist/6tMMigNU4IDUOrBkxrpuo6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162725,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/3kGMUnjlTtO8TzCFJMAAvb"
     },
     {
       "album": {
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 230160,
       "name": "Mimi Pinson (with Gran Orquesta T\u00edpica OTRA)",
       "url": "https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp"

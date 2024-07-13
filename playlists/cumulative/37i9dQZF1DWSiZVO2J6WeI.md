@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-382 songs - 19 hr 38 min
+383 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Ceremonial Stone](https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji) | [Star Patterns](https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d) | [Bertrand of the Ringing](https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ) | 3:18 | 2022-01-12 | 2024-04-06 |
 | [Cesia](https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 2:48 | 2022-01-12 | 2023-07-29 |
 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 | 2022-02-18 | 2024-05-21 |
+| [Cherubic](https://open.spotify.com/track/64vuLVctWmDQG4zErYr1RL) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Cherubic](https://open.spotify.com/album/2pH99SeBHOlbqmonYjAqgZ) | 2:30 | 2024-07-09 |  |
 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 | 2024-01-17 |  |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-13 |  |
 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 | 2022-12-09 |  |
@@ -96,7 +97,7 @@
 | [Deep Contemplation](https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Understanding Yourself](https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ) | 3:48 | 2022-01-19 | 2024-01-21 |
 | [Deep Down](https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE) | [SUND](https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL) | [Deep Down](https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82) | 2:46 | 2022-01-12 | 2024-01-18 |
 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 | 2022-01-12 | 2024-05-21 |
-| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 |  |
+| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 | 2024-07-13 |
 | [Descanso](https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Descanso](https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy) | 3:47 | 2022-01-12 | 2023-03-15 |
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2022-01-12 | 2024-05-21 |
 | [Determination](https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [Determination](https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt) | 1:52 | 2022-01-12 | 2023-07-29 |

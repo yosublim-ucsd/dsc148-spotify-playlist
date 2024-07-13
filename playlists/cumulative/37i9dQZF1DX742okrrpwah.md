@@ -4,7 +4,7 @@
 
 > Katy Perry au top des nouveautés de la semaine !
 
-1,006 songs - 2 day 4 hr 19 min
+1,007 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,7 +713,7 @@
 | [Patineuse](https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK) | [Morgane Imbeaud](https://open.spotify.com/artist/0g7GbpCnCwZfTMj8dHqFjy) | [The Lake](https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ) | 3:39 | 2024-05-09 | 2024-05-17 |
 | [PCC](https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [PCC](https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr) | 2:32 | 2024-05-02 | 2024-05-10 |
 | [Peligrosa](https://open.spotify.com/track/4ryaMHFEQNuYeiyb0TdjUk) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Peligrosa](https://open.spotify.com/album/6xOOoW12k17QueY7SMUHu0) | 3:44 | 2024-05-09 | 2024-05-17 |
-| [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:14 | 2024-07-11 |  |
+| [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:15 | 2024-07-11 |  |
 | [People of the Sun](https://open.spotify.com/track/5GaXT2QZkhKyzovjKDwiyh) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [People of the Sun](https://open.spotify.com/album/5hrHrFwkBxFvyYOw4nPdxQ) | 2:10 | 2024-05-30 | 2024-06-07 |
 | [Pepper](https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Pepper](https://open.spotify.com/album/3ER9n0Pq3mhv2q60sLwKNc) | 2:58 | 2024-06-06 | 2024-06-14 |
 | [Perdants magnifiques](https://open.spotify.com/track/3nKBUKJiHCFNtcRZ1pPuqS) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [L'aube d'un nouveau jour](https://open.spotify.com/album/5FZVjIZoYfNxAl3XBqDqh3) | 3:15 | 2024-05-30 | 2024-06-07 |
@@ -837,6 +837,7 @@
 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 | 2024-06-06 | 2024-06-14 |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-06-13 | 2024-06-21 |
 | [Somebody Else](https://open.spotify.com/track/0f3KwAAjShsbqQNA7VvIum) | [Tom Leeb](https://open.spotify.com/artist/35fF6CkBMBkqoebE4lc3GY) | [Somebody Else](https://open.spotify.com/album/1f854GrL99BOBvkYjLLnCR) | 3:01 | 2024-07-04 | 2024-07-12 |
+| [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-11 |  |
 | [Somebody Without U](https://open.spotify.com/track/48oDk3NjbAjwrBL7vrbgyl) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Somebody Without U](https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR) | 3:23 | 2024-05-30 | 2024-06-07 |
 | [Sommet](https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Sommet](https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF) | 2:27 | 2024-05-02 | 2024-05-10 |
 | [Songs In My Head](https://open.spotify.com/track/1r7Q77PuiuZwSJgVooeuiv) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Songs In My Head](https://open.spotify.com/album/5ZAJ8oDLqCT9cuELS11OdP) | 3:06 | 2024-05-16 | 2024-05-24 |

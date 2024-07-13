@@ -4,7 +4,7 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-86 songs - 4 hr 29 min
+88 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,12 +76,14 @@
 | [Enlightment \- 963Hz](https://open.spotify.com/track/2nY7UgFmtpqeeQcB9vc6TD) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Enlightment \- 963Hz](https://open.spotify.com/album/2Ms7ggeaMmwqjmC0sgS6gM) | 2:48 | 2024-02-14 | 2024-03-09 |
 | [Enyrma 396Hz](https://open.spotify.com/track/1orxcdtIK5ejnttDYCbHmw) | [Balanced Resonances](https://open.spotify.com/artist/1NaTgQgoB7SBLTiso71iKn) | [Enyrma 396Hz](https://open.spotify.com/album/4tFBZdSmxsOHEa4kxMEley) | 2:59 | 2024-02-14 | 2024-03-09 |
 | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9) | 3:06 | 2023-04-06 |  |
+| [Lost In Translation Beta \(64\-74hz\)](https://open.spotify.com/track/3Jl5YrehEmurX8z4tfbbuy) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Lost In Translation Beta](https://open.spotify.com/album/3EPAePiqH5B7VYUVBiHtCH) | 3:00 | 2024-07-12 |  |
 | [Memory \(98.7Hz \- 117.6Hz\)](https://open.spotify.com/track/2C1ltQaRUjQC10ST5JkhGZ) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Beta Focus](https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd) | 3:52 | 2022-09-06 | 2023-10-06 |
 | [Porch Thoughts E Theta \(80\-84hz\)](https://open.spotify.com/track/11KGooXHkq7YhFrDsPtza7) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Settle Down Theta](https://open.spotify.com/album/0zMekCx6Gww7LJAv0A80VD) | 2:45 | 2024-01-24 | 2024-03-09 |
 | [Presence Beta Sinus 130 Hz \- 146 Hz](https://open.spotify.com/track/39NMPaHisCJGGODQDArsiN) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 2:56 | 2022-11-23 |  |
 | [Propelling Mind Bb Delta \(115\-119hz\)](https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thoughtless Eclipse Delta](https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU) | 2:36 | 2024-02-14 | 2024-03-09 |
 | [Pure Beta Binaural beat \- Increased Concentration](https://open.spotify.com/track/31sVwkyXHzYVmvIWPeGMp3) | [Miracle Tone](https://open.spotify.com/artist/40Fj46UX9zICwQk10sRrIC) | [Binaural Beats \- Brainwave Symphony](https://open.spotify.com/album/5YdEDCuKxG6ZaGBMoNNB9y) | 5:11 | 2023-11-17 |  |
 | [Pure Beta Binaural Beat \- Increased Concentration](https://open.spotify.com/track/3Xu94JRuFVpuLoqH9JR579) | [Miracle Tone](https://open.spotify.com/artist/40Fj46UX9zICwQk10sRrIC) | [Binaural Beats \- Brainwave Symphony](https://open.spotify.com/album/2dntuBkASZkAZgOOZ3Gfqn) | 5:11 | 2024-02-14 | 2024-04-19 |
+| [Radiating Cognition \(Beta 77.8Hz \- 96.1Hz\)](https://open.spotify.com/track/1TGCXEWldi4BSwI1Fr6fNk) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Radiating Cognition \(Beta 77.8Hz \- 96.1Hz\)](https://open.spotify.com/album/1MKQNjQGS2AoVFUXo5MwjU) | 2:30 | 2024-07-12 |  |
 | [Realign \(Beta 130.5 Hz \- 149.1 Hz\)](https://open.spotify.com/track/2hhOdjkHZXyNnHw4nLTFM5) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Decompress & Realign \(Binaural Beta\)](https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD) | 2:40 | 2022-11-23 | 2023-10-06 |
 | [Silver Silk C\# Beta \(73\-103hz\)](https://open.spotify.com/track/5RAcJD3t8CgedWDUP0WGTM) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Silver Silk Beta](https://open.spotify.com/album/17GFBvbCDzwuotH1jBs9Yb) | 2:30 | 2023-09-27 | 2024-02-14 |
 | [Soaring Eagle Beta Sinus 116 Hz \- 131 Hz](https://open.spotify.com/track/3qR90xoCsHQceqOGhdgPbs) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 3:13 | 2022-11-23 |  |

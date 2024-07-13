@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-770 songs - 1 day 20 hr 14 min
+771 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Portal](https://open.spotify.com/track/7Ifj94OvitrEBJolFPeBTN) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Portal](https://open.spotify.com/album/0oSIeNRjMe5z6wAJ0AB5xs) | 2:34 | 2024-02-12 | 2024-05-07 |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 | 2022-10-08 |
 | [Powerplay](https://open.spotify.com/track/7LL3hlhfrumxAS0vOGO2Ia) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Powerplay](https://open.spotify.com/album/3OXUzQBV9M1vssUSPHjVi9) | 3:30 | 2023-02-07 | 2023-04-25 |
+| [Pressure](https://open.spotify.com/track/365IYr43HlceGJWG5ENNQ5) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Pressure](https://open.spotify.com/album/1Pa9ilp1EF4CoSJAcd25Ma) | 3:24 | 2024-07-12 |  |
 | [Pressure on the Masses](https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Pressure on the Masses](https://open.spotify.com/album/6cv6BsZtHsPreytOE8jN3S) | 3:55 | 2023-10-23 | 2024-02-07 |
 | [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-01-30 | 2024-04-20 |
 | [Promise](https://open.spotify.com/track/7lmKzGSg0mGYUdsfmshKmH) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Promise](https://open.spotify.com/album/6WuW14efnZAX1Zb8pmPzML) | 2:41 | 2024-03-28 | 2024-06-18 |

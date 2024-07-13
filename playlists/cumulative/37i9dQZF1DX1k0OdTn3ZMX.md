@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with Magnolia Park.
 
-169 songs - 9 hr 44 min
+170 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-01-26 |  |
 | [SYM](https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [SYM](https://open.spotify.com/album/0ysImV9oUwrQbgVt9ed6AS) | 2:54 | 2024-06-28 |  |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 | 2024-02-03 |
+| [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 | 2024-07-12 |  |
 | [Takers](https://open.spotify.com/track/6ayctlryVPbBV7mwVBHfwU) | [Discrepancies](https://open.spotify.com/artist/4SfKNu30hoXHZRfBFx1W19) | [Takers](https://open.spotify.com/album/5HoeNbrXoL39PA4RHQxo5j) | 3:16 | 2024-06-14 | 2024-06-22 |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
 | [Terrorwave](https://open.spotify.com/track/4SuU44gp3mL6ws3zZ82n9i) | [生 Conform 死](https://open.spotify.com/artist/37mOmrBhYDEfRM1aSp91bl) | [Vol II: Music for Living Failures](https://open.spotify.com/album/5BFNFpJ9MiGeEjXTtUdm8A) | 4:20 | 2024-02-02 | 2024-04-13 |

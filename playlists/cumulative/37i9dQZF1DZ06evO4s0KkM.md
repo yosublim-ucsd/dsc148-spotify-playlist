@@ -2,7 +2,7 @@
 
 ### [This Is Dropkick Murphys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s0KkM)
 
-> This is Dropkick Murphys\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
 113 songs - 6 hr 4 min
 

@@ -2,7 +2,7 @@
 
 ### [90s Summer Rock](https://open.spotify.com/playlist/37i9dQZF1DX1kznM9KyewU)
 
-> Rock that was on repeat during the summers of the 1990s.
+> Rock on repeat during the summers of the 1990s.
 
 139 songs - 10 hr 10 min
 

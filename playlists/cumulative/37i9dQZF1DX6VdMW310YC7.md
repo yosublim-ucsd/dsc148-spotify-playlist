@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,641 songs - 4 day 16 hr 43 min
+1,642 songs - 4 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Hide](https://open.spotify.com/track/2DYJNVVrazyhpwoh6TKvHr) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Mont Blvck](https://open.spotify.com/artist/0STW8YgwkqybSDbQP5OlDz) | [Soloma](https://open.spotify.com/album/4SQIO1v71xFw6n0YAgHkur) | 4:05 | 2020-02-29\* | 2020-03-16 |
 | [Hide and Seek \- Don Diablo Edit](https://open.spotify.com/track/7hQqneQFiXJQOvz6ppQs2y) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Hide and Seek \(Don Diablo Edit\)](https://open.spotify.com/album/0WVSlz6N4Q5OQ1KkygpJXG) | 4:58 | 2020-04-24 | 2020-10-09 |
 | [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 | 2023-07-21 |  |
+| [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-12 |  |
 | [High Flyer](https://open.spotify.com/track/1nWH3PxlaUTcB9EqbJbVSy) | [Lyz Damon](https://open.spotify.com/artist/0t3MnJRdHczhCBCGbPgRL8) | [Road Trip](https://open.spotify.com/album/3tdYyQIzmVq9jP5utxOTII) | 3:41 | 2020-03-16 | 2021-03-06 |
 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 | 2021-06-05 | 2021-11-13 |
 | [High On Life](https://open.spotify.com/track/7sPTC8zYAKiKAHUkJtq9YC) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [High On Life](https://open.spotify.com/album/1OfW4pkj3JPFUFbe2cH6Du) | 3:52 | 2020-05-22 | 2020-07-03 |
@@ -1244,7 +1245,7 @@
 | [Sea To Sky](https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven) | 4:24 | 2022-03-18 | 2022-07-27 |
 | [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-04-29 | 2022-12-29 |
 | [Seasons](https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy) | [Seasons](https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO) | 2:33 | 2023-02-24 | 2024-03-02 |
-| [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 |  |
+| [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 | 2024-07-13 |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 | 2024-03-23 |
 | [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-06-21 |  |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |

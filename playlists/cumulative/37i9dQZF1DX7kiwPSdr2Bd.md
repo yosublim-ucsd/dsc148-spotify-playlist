@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Eyshila
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fernanda Brum
 
-255 songs - 22 hr 57 min
+256 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Acalmarei](https://open.spotify.com/track/6ddcJb42CdRBDRiSqED9xM) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Acalmarei](https://open.spotify.com/album/0dNxHMdvrMgox8nfNuJFjM) | 5:11 | 2023-09-25 | 2023-11-04 |
 | [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 | 2023-07-07 | 2023-08-05 |
 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 | 2022-10-28 | 2023-03-25 |
+| [Alguém](https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Alguém](https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3) | 3:49 | 2024-07-12 |  |
 | [Amado Por Mim](https://open.spotify.com/track/6OpFBCGJ282fCG15Ewb5Ob) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Canções de Identidade e Filiação](https://open.spotify.com/album/6SQLvKAgKe2gjWET6NZduq) | 9:35 | 2022-11-25 | 2023-02-04 |
 | [Amigas da Cruz: Coral das Mulheres 10](https://open.spotify.com/track/1qGvQHGy8EzD2k8KR23eb5) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz), [Kesia Mara](https://open.spotify.com/artist/45CkIraQ30WnzVCKnBC9Tu), [Felicia Lima](https://open.spotify.com/artist/2cvnS5GB47p0sy6SCw2uSg) | [Amigas da Cruz: Coral das Mulheres 10](https://open.spotify.com/album/4LHRMLBOALFCa4vVncHump) | 6:01 | 2023-02-03 | 2023-03-25 |
 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 | 2022-10-07 |  |
@@ -136,7 +137,7 @@
 | [Meu Amigo É Deus \- Ao Vivo](https://open.spotify.com/track/1gT5kwHXiHmDUbxg0E43ol) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Meu Amigo É Deus \(Ao Vivo\)](https://open.spotify.com/album/6YorWlOuBChcgJjZWnKktu) | 6:52 | 2023-10-20 | 2023-11-25 |
 | [Meu Barco](https://open.spotify.com/track/0i2M2QV6qDK1FtXrcAi8is) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Meu Barco](https://open.spotify.com/album/25A4Bjej4P4SF4qLuoWStH) | 5:03 | 2023-01-13 | 2023-02-11 |
 | [Meu Deus É Grande](https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz), [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [Meu Deus É Grande](https://open.spotify.com/album/0MPV6iVIQRJwlXjCwi9UaK) | 5:38 | 2023-08-04 |  |
-| [Meu Filho, Descansa](https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Meu Filho, Descansa](https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ) | 4:03 | 2023-12-22 |  |
+| [Meu Filho, Descansa](https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Meu Filho, Descansa](https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ) | 4:03 | 2023-12-22 | 2024-07-13 |
 | [Meu Perfume \- Ao Vivo](https://open.spotify.com/track/4CvqtrYo12Nmyd0j88LJbq) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Meu Perfume \(Ao Vivo\)](https://open.spotify.com/album/1qtwvGqyEdfabD3y1DSL9o) | 7:12 | 2023-05-12 | 2023-05-27 |
 | [Milagre Pra Você](https://open.spotify.com/track/5RXHfNspEa1aTC5cVMuO99) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Milagre Pra Você](https://open.spotify.com/album/03gC5ufzpeQ2x0AViEJ9rF) | 5:48 | 2023-03-17 | 2024-04-20 |
 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi) | 5:12 | 2023-04-21 |  |

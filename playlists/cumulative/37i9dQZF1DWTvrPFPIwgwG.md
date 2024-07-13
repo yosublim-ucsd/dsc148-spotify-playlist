@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kailane Frauches
 
-208 songs - 17 hr 35 min
+209 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Calma Meu Filho](https://open.spotify.com/track/5TcHJfpBbJn4aqWnN9ijg8) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [Calma Meu Filho](https://open.spotify.com/album/4soMftZMeHhqIZxqTnf6yG) | 4:10 | 2023-05-05 | 2023-06-03 |
 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 | 2022-12-23 |  |
 | [Casa Cheia](https://open.spotify.com/track/1i3DVRWjZuiVwA4bOeKENl) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Felipe Farkas](https://open.spotify.com/artist/34jtUB0kEXX3VZCMoPPemU) | [Casa Cheia](https://open.spotify.com/album/00EWWHeeej4SKqcPx0pgLJ) | 4:28 | 2022-09-09 | 2022-10-15 |
+| [Cenário Favorável \- Ao Vivo](https://open.spotify.com/track/3hHUmc9hNW9YspTVcymE7q) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Cenário Favorável \(Ao Vivo\)](https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc) | 5:42 | 2024-07-12 |  |
 | [Cheiro de Guerra](https://open.spotify.com/track/1a8F9EWgr8k4sINiqpstr0) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Cheiro de Guerra](https://open.spotify.com/album/02jpKdZsl0VvdbwIrBUcVK) | 5:27 | 2023-10-13 | 2024-06-15 |
 | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg) | 4:53 | 2023-09-25 |  |
 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 | 2022-09-09 | 2023-04-16 |
@@ -83,7 +84,7 @@
 | [Eu Tenho uma Promessa](https://open.spotify.com/track/1QeiFzV3c26r6k9g6s5iFY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa](https://open.spotify.com/album/29IH8z7nCBUzWPsf2Z4iVc) | 4:31 | 2024-04-19 |  |
 | [Eu Vou na Frente](https://open.spotify.com/track/7IhoNVHiXR4PQcYkV0bEwp) | [Nithael Alves](https://open.spotify.com/artist/7bJNPAbxZjdvFLQqdG0mOd) | [Eu Vou na Frente](https://open.spotify.com/album/2CxfBwzBDXCpgpfYZEtG1Z) | 4:39 | 2023-10-20 | 2023-11-04 |
 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 | 2024-04-19 |  |
-| [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 |  |
+| [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 | 2024-07-13 |
 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 | 2022-09-09 |  |
 | [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 | 2022-09-09 | 2024-06-29 |
 | [Foi Livramento](https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Foi Livramento](https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq) | 3:39 | 2023-07-07 |  |

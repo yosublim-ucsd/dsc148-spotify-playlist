@@ -4696,6 +4696,28 @@
     {
       "album": {
         "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
+    },
+    {
+      "album": {
+        "name": "Hiding",
         "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
       },
       "artists": [
@@ -4884,7 +4906,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
@@ -10744,7 +10766,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211371,
       "name": "The Future",
       "url": "https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD"
@@ -12566,6 +12588,32 @@
       "duration_ms": 237500,
       "name": "When We Meet Again - Edit",
       "url": "https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb"
+    },
+    {
+      "album": {
+        "name": "Where's The Music Gone",
+        "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        },
+        {
+          "name": "Paul Rogers",
+          "url": "https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228496,
+      "name": "Where's The Music Gone",
+      "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Foudeqush en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79643,
+  "num_followers": 79651,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoeL4AAAAABijOxe0MUa+udLZ+s1yn96",
+  "snapshot_id": "ZpElagAAAAAxuJZcZzRGG5bBBFcmlobb",
   "tracks": [
     {
       "added_at": "2024-07-05 06:00:00",
@@ -277,6 +277,38 @@
       "url": "https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl"
     },
     {
+      "added_at": "2024-07-12 12:45:30",
+      "album": {
+        "name": "El Crush",
+        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
+      },
+      "artists": [
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Crush",
+      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "los \u00e1ngeles cantan",
+        "url": "https://open.spotify.com/album/7krDfkFR9gogAKgMaGqRtI"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 186598,
+      "name": "los \u00e1ngeles cantan",
+      "url": "https://open.spotify.com/track/5epwMXy0ChnEP139GCS0RF"
+    },
+    {
       "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Patadas de Ahogado",
@@ -295,22 +327,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "los \u00e1ngeles cantan",
-        "url": "https://open.spotify.com/album/7krDfkFR9gogAKgMaGqRtI"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "los \u00e1ngeles cantan",
-      "url": "https://open.spotify.com/track/5epwMXy0ChnEP139GCS0RF"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -383,22 +399,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "S\u00cdSIFO / NADIE M\u00c1S!",
         "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
       },
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "EL NI\u00d1O DE LOS CORAZONES",
         "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
       },
@@ -499,26 +515,6 @@
       "duration_ms": 169285,
       "name": "BAD INTENCIONES",
       "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Se fue la luz",
-        "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Se fue la luz",
-      "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -615,6 +611,26 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Se fue la luz",
+        "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Se fue la luz",
+      "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/0ojvLswWgJky4lzYB15dIk"
       },
@@ -643,6 +659,50 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "las cosas no son lo que parecen",
+        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 174659,
+      "name": "las cosas no son lo que parecen",
+      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "disfraz",
+        "url": "https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        },
+        {
+          "name": "Irvin Mach",
+          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
+        },
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "disfraz",
+      "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -679,66 +739,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "disfraz",
-        "url": "https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        },
-        {
-          "name": "Irvin Mach",
-          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
-        },
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "disfraz",
-      "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Desastre Emocional",
-        "url": "https://open.spotify.com/album/1bnsJ7ZuB6TaWW364pwtag"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Desastre Emocional",
-      "url": "https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "las cosas no son lo que parecen",
-        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 174659,
-      "name": "las cosas no son lo que parecen",
-      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "maracuy\u00e1",
         "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 138500,
       "name": "maracuy\u00e1",
       "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Fortuna y Maldici\u00f3n",
-        "url": "https://open.spotify.com/album/5pevKZr0dFpIxFGmUwXoKx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Fortuna y Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/2eUN0JaW9jGln2Y7ND8kRy"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -787,6 +771,38 @@
       "duration_ms": 179000,
       "name": "DIME X FAVOR",
       "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Desastre Emocional",
+        "url": "https://open.spotify.com/album/1bnsJ7ZuB6TaWW364pwtag"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Desastre Emocional",
+      "url": "https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Fortuna y Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/5pevKZr0dFpIxFGmUwXoKx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Fortuna y Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/2eUN0JaW9jGln2Y7ND8kRy"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -839,22 +855,6 @@
       "duration_ms": 177826,
       "name": "Desconocernos",
       "url": "https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Escuchado",
-        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "El Cine",
-        "url": "https://open.spotify.com/album/39HFnEulyqMasSEG5ijfsK"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        },
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 243780,
-      "name": "El Cine",
-      "url": "https://open.spotify.com/track/13CSEQrnkUEHazIs8Khlgu"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "feliz a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
@@ -963,6 +943,42 @@
       "duration_ms": 163451,
       "name": "feliz a\u00f1o nuevo",
       "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Escuchado",
+        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "El Cine",
+        "url": "https://open.spotify.com/album/39HFnEulyqMasSEG5ijfsK"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        },
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 243780,
+      "name": "El Cine",
+      "url": "https://open.spotify.com/track/13CSEQrnkUEHazIs8Khlgu"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Aguilera",
-        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 150661,
-      "name": "Aguilera",
-      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Desorden",
         "url": "https://open.spotify.com/album/1y0EaKqovoRvT9316GaP9u"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 208000,
       "name": "Desorden",
       "url": "https://open.spotify.com/track/0y5NsA4NMN27BVBLezLnqT"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Aguilera",
+        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 150661,
+      "name": "Aguilera",
+      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1139,6 +1155,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Viceversa",
         "url": "https://open.spotify.com/album/4k7CS3g3K0aXrPhInSX5QD"
       },
@@ -1155,18 +1187,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1187,22 +1219,6 @@
       "duration_ms": 156253,
       "name": "California",
       "url": "https://open.spotify.com/track/2sOfChSTFiuicBli18TJkc"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 137532,
       "name": "KR1MIN4L",
       "url": "https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "NSQD",
-        "url": "https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "NSQD",
-      "url": "https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B"
     }
   ],
   "unique_name": "la pop~wave",

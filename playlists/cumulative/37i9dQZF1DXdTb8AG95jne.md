@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Hyuk Oh, Sunset Rollercoaster\(혁오, 선셋 롤러코스터\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-743 songs - 1 day 21 hr 27 min
+744 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Rain](https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [Rain](https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4) | 3:36 | 2022-03-31 | 2022-04-16 |
 | [Rain Drop 주르륵 \(With danwoo lim\)](https://open.spotify.com/track/3tlCKAqLhoHpzKvOlBMVqY) | [OHZU](https://open.spotify.com/artist/1JI61NmjPxJltAJwcNgb81), [danwoo lim](https://open.spotify.com/artist/3ubaacfE5aNEXvmHhkNlTZ) | [Rain Drop 주르륵](https://open.spotify.com/album/0Cnt5CZL9rJoXVxjBXma0S) | 3:24 | 2022-04-12 | 2022-04-21 |
 | [Rain In The Night](https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:01 | 2021-12-21 | 2022-06-24 |
-| [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 | 2021-12-12 |  |
+| [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 | 2021-12-12 | 2024-07-13 |
 | [Rather Go Blind](https://open.spotify.com/track/7rBO40xtZaRkpxXKnEQa26) | [ZAYSTIN](https://open.spotify.com/artist/7BQgVJEUzCUX8Q2KZDgrH8) | [Rather Go Blind](https://open.spotify.com/album/6XAmqfdbVy1lpNqMppNg7m) | 3:58 | 2022-03-31 | 2022-04-08 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-12-21 |  |
 | [Red Lines](https://open.spotify.com/track/1YJ5G3mdv6Bps9XhbIv89E) | [Pony](https://open.spotify.com/artist/4Lxb5bo6TR7l8QL8UxDdd6), [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [The Pacific Ocean 태평양](https://open.spotify.com/album/21CrO1TGS7e9tTuRzaOiqX) | 2:41 | 2022-03-31 | 2022-04-19 |
@@ -725,6 +725,7 @@
 | [You'll be fine](https://open.spotify.com/track/6nRvFUhyQtBxw4gPCF3OzR) | [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [You'll be fine](https://open.spotify.com/album/60m28acTUmMG2FRi4oxYu8) | 2:56 | 2022-07-04 | 2022-08-05 |
 | [you'll be fine](https://open.spotify.com/track/4604K51J5Vz4TaiUcjPNlG) | [lily by](https://open.spotify.com/artist/1fGqEKeI0hFiz3prcEZJjO) | [you'll be fine](https://open.spotify.com/album/4p1qkwc0H1RoSTeIHcB91A) | 3:15 | 2022-03-31 | 2022-04-04 |
 | [You're The Reason 이 밤이 특별해진 건](https://open.spotify.com/track/1lxC8oDMNaxfhhseIThJGg) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [05](https://open.spotify.com/album/1cP958luLNOn9sYtH83Xl8) | 4:17 | 2022-03-31 | 2022-04-06 |
+| [Young Man](https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:17 | 2024-07-10 |  |
 | [Young People](https://open.spotify.com/track/1T3kSXQGxdY144SzofbEQt) | [nijuu](https://open.spotify.com/artist/5DOwMhG96lFhlPpNG9oaWW) | [Young People](https://open.spotify.com/album/1Q1jrlmvrqpxQOLa7i9VGh) | 3:04 | 2022-03-31 | 2022-05-12 |
 | [Your Voice Makes Me Dream](https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Your Voice Makes Me Dream](https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n) | 4:00 | 2021-12-12 | 2022-07-27 |
 | [Youth](https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq) | 6:01 | 2021-12-12 | 2022-07-29 |

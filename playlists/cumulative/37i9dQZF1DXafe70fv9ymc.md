@@ -4,7 +4,7 @@
 
 > you give me shiverssss
 
-83 songs - 4 hr 11 min
+85 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,10 @@
 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2024-02-09 |  |
 | [Fast](https://open.spotify.com/track/6UCvdFpOt1vQwKaOvl0LCq) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 2:27 | 2024-02-23 | 2024-04-26 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-23 |  |
-| [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 | 2024-02-09 |  |
+| [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 | 2024-02-09 | 2024-07-13 |
 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 | 2024-02-23 |  |
 | [Heart On Fire](https://open.spotify.com/track/1apBZCzXcyW1NUqeUtrldP) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 1:08 | 2024-02-09 |  |
+| [Heat](https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Noir](https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb) | [Heat](https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl) | 2:18 | 2024-07-12 |  |
 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 | 2024-02-09 | 2024-06-01 |
 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 | 2024-04-26 |  |
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 |  |
@@ -53,7 +54,7 @@
 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 |  |
 | [Love Essential](https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 4:00 | 2024-02-09 |  |
 | [Love Lust](https://open.spotify.com/track/6AnyjdZUzKczUqOpWCvt30) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Love Lust](https://open.spotify.com/album/4mJPHa9BSpMEROuL2oZvnP) | 3:14 | 2024-03-29 |  |
-| [Loyalty](https://open.spotify.com/track/1q2jsuLItn7MCCvaPoLOdu) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:40 | 2024-02-09 |  |
+| [Loyalty](https://open.spotify.com/track/1q2jsuLItn7MCCvaPoLOdu) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:40 | 2024-02-09 | 2024-07-13 |
 | [Maybe](https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE) | 3:28 | 2024-02-09 | 2024-06-28 |
 | [Mo](https://open.spotify.com/track/1dE9i3dl3lgZJIF5DwsBkj) | [H3riQ](https://open.spotify.com/artist/1M2yyejVWWdV0rhGqKWgjz) | [Mo](https://open.spotify.com/album/5MilKSjkEUGyt5TgYomB8u) | 3:22 | 2024-03-01 | 2024-04-26 |
 | [Nobody Gotta Know](https://open.spotify.com/track/1uqlrp7UizucM2Lk1Ndcn7) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [Nobody Gotta Know](https://open.spotify.com/album/5zFoqU21uLBJlZXq8EAL57) | 2:11 | 2024-02-09 | 2024-05-17 |
@@ -75,6 +76,7 @@
 | [Stuck Inside](https://open.spotify.com/track/5l0YvtHzzyNPJ4rAiw9tYT) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z), [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Home Buddies](https://open.spotify.com/album/5HVCOmfEypAFVDbUatTywe) | 1:55 | 2024-02-09 | 2024-03-01 |
 | [SUNRISE](https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [SUNRISE](https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1) | 2:48 | 2024-06-21 |  |
 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 | 2024-02-09 |  |
+| [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 | 2024-07-12 |  |
 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2024-02-09 | 2024-06-07 |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2024-02-09 |  |
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-31 |  |

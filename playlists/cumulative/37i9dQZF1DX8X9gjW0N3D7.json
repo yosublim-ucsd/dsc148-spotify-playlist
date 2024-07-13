@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/1668f4YvYOIMuUEW8lJWVP"
+      },
+      "artists": [
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130600,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/16N4Uin8Z7dr3wLq87EA6S"
+    },
+    {
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy"
       },
@@ -544,7 +562,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 135500,
       "name": "La protagoniste",
       "url": "https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA"
@@ -963,6 +981,28 @@
     },
     {
       "album": {
+        "name": "Pomme",
+        "url": "https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC"
+      },
+      "artists": [
+        {
+          "name": "William Papillon",
+          "url": "https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys"
+        },
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Pomme",
+      "url": "https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q"
+    },
+    {
+      "album": {
         "name": "Quand il s'en va",
         "url": "https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9"
       },
@@ -1018,7 +1058,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 209154,
       "name": "Rappelle-moi ton nom",
       "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"

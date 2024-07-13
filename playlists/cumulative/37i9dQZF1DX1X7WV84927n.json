@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Badflower",
+  "description": "For full-volume lovers. Cover: Seether",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 237800,
       "name": "ASTRAL GALLERY [feat. Michael Skaggs]",
       "url": "https://open.spotify.com/track/4cT96N5SNOpbDH3FTGXss1"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 212866,
       "name": "BAD DECISIONS",
       "url": "https://open.spotify.com/track/6ItNJBafyjtSNxF13Ar8kD"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 316875,
       "name": "Bear The Cross",
       "url": "https://open.spotify.com/track/7yhAitRlEOyWIgui3JXSOs"
@@ -1236,6 +1236,24 @@
       "duration_ms": 206257,
       "name": "Bella from Hell",
       "url": "https://open.spotify.com/track/1lg9tzQWH89iV7ZPiszEID"
+    },
+    {
+      "album": {
+        "name": "Return to Dust",
+        "url": "https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB"
+      },
+      "artists": [
+        {
+          "name": "Return to Dust",
+          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203340,
+      "name": "Belly Up",
+      "url": "https://open.spotify.com/track/1IZR2yJzCjHkaxbv5rCdP8"
     },
     {
       "album": {
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 220591,
       "name": "DAHLIA",
       "url": "https://open.spotify.com/track/4vgPAXTYnTEjk7zevnYNKv"
@@ -3136,6 +3154,24 @@
       "duration_ms": 226413,
       "name": "Deliver Me",
       "url": "https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo"
+    },
+    {
+      "album": {
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
       "album": {
@@ -4046,7 +4082,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 258325,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
@@ -4082,7 +4118,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 179146,
       "name": "Everything We Lost In The Fire",
       "url": "https://open.spotify.com/track/32NLJBaveYOK3fO3oTr9vF"
@@ -5314,7 +5350,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 223866,
       "name": "Gone",
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
@@ -5470,7 +5506,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 198705,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/2wHPwpIRqAzvlglzfF7Bfz"
@@ -6943,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "Judas Mind",
+        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244728,
+      "name": "Judas Mind - edit",
+      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+    },
+    {
+      "album": {
         "name": "Just Like 73 (Tom Morello Version)",
         "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
       },
@@ -7947,6 +8001,24 @@
     },
     {
       "album": {
+        "name": "Made Me This Way",
+        "url": "https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi"
+      },
+      "artists": [
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Made Me This Way",
+      "url": "https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL"
+    },
+    {
+      "album": {
         "name": "MAGNETIC",
         "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
       },
@@ -8012,7 +8084,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 183771,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3UdtanIR0jXzkisvUlU8qs"
@@ -8034,6 +8106,24 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/2Gtt9CAnO8snYeEWvJwjtP"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217053,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2c4pzmTObTntrKyQXGf0wy"
     },
     {
       "album": {
@@ -8164,7 +8254,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 238239,
       "name": "Mercy (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/5mUOOeMZEXeIHzU8E0lgXC"
@@ -9486,7 +9576,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 202068,
       "name": "On the Other Side of Tonight",
       "url": "https://open.spotify.com/track/0Fwgk7r48uJpO4Hjb6NGmY"
@@ -10098,7 +10188,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 231160,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/5jAJWEiul0dh390FLvF5ML"
@@ -10452,7 +10542,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 246939,
       "name": "Random Acts of Violence",
       "url": "https://open.spotify.com/track/1Hf0eeTmSfBncaTGXgp6Ah"
@@ -11590,7 +11680,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 182851,
       "name": "Shut Me Out",
       "url": "https://open.spotify.com/track/0rl58wlk9DrfZw1pZPV5KW"
@@ -12056,7 +12146,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 232769,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/72mymKLs4ni8MYGVq8EHUP"
@@ -12742,7 +12832,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 268317,
       "name": "The Blue-Eyed Devil",
       "url": "https://open.spotify.com/track/1mWwtzS4kByon7itf7TGQe"
@@ -13784,7 +13874,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 212571,
       "name": "Through My Head",
       "url": "https://open.spotify.com/track/7ydzZp3LEAugJbxCaJBiYh"
@@ -14944,7 +15034,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 255560,
       "name": "Wanting and Waiting",
       "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"

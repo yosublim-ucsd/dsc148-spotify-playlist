@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180511,
       "name": "25 Rosas",
       "url": "https://open.spotify.com/track/3w08iUjYVTFdpaUKDdek0U"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 198360,
       "name": "Asi Te Quiero",
       "url": "https://open.spotify.com/track/4w0k7oGaTLMAmBQ3NUU7Ws"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 179234,
       "name": "Bandido de Amores",
       "url": "https://open.spotify.com/track/4ZcQtsMR1XcaE4NZm22Y2T"
@@ -466,6 +466,28 @@
       "duration_ms": 183768,
       "name": "Bandido de Amores",
       "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
+    },
+    {
+      "album": {
+        "name": "Bonus Track",
+        "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191432,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
     },
     {
       "album": {
@@ -563,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243495,
+      "name": "Carrera a Muerte",
+      "url": "https://open.spotify.com/track/5Sn7H60c3q068ywPNMeTWX"
+    },
+    {
+      "album": {
         "name": "El Rey Del Jaripeo",
         "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
       },
@@ -578,6 +618,24 @@
       "duration_ms": 194362,
       "name": "Como Perro Con Rabia",
       "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
+    },
+    {
+      "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189930,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/7atNmWz49se35HjJG7rAqC"
     },
     {
       "album": {
@@ -755,6 +813,24 @@
     },
     {
       "album": {
+        "name": "El Consentido",
+        "url": "https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201884,
+      "name": "El Consentido",
+      "url": "https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH"
+    },
+    {
+      "album": {
         "name": "Homenaje al Poeta Gracias Joan Sebastian",
         "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
       },
@@ -770,6 +846,42 @@
       "duration_ms": 181682,
       "name": "El Ilegal",
       "url": "https://open.spotify.com/track/43jcEGEx5ICgVx3PLWus1Y"
+    },
+    {
+      "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195880,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/7zqJRHLM9MfoHj0WRRgAn2"
+    },
+    {
+      "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232289,
+      "name": "El Peor de tus Antojos",
+      "url": "https://open.spotify.com/track/5FLqQtW3HFY1KTUpmogMva"
     },
     {
       "album": {
@@ -820,7 +932,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 187222,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/0NnEpjGXz9Sz752vzuhkOm"
@@ -979,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "En la Barra",
+        "url": "https://open.spotify.com/album/3tcdp6oiqrpUDllXxHQNfz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152417,
+      "name": "En la Barra",
+      "url": "https://open.spotify.com/track/5fSDc9As0URB6KhCyTdHPo"
+    },
+    {
+      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -1084,7 +1214,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161173,
       "name": "Eso Y Mas",
       "url": "https://open.spotify.com/track/2PjkM9mcZCvcejOuvupb3h"
@@ -1455,6 +1585,28 @@
     },
     {
       "album": {
+        "name": "Litzahaya",
+        "url": "https://open.spotify.com/album/3HfkxQauyghL6mcQViSqui"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208887,
+      "name": "Litzahaya",
+      "url": "https://open.spotify.com/track/3t9RSoRYSbvXH3YmvKtLaS"
+    },
+    {
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0YpiREnG6SkKqGKJs7QNrz"
       },
@@ -1614,7 +1766,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165666,
       "name": "Mas Alla Del Sol",
       "url": "https://open.spotify.com/track/11lScnLmiPDjqQ9SM6G0hj"
@@ -1722,7 +1874,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 207586,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7ExYnTuBouEyCDCSo5xRbh"
@@ -1855,6 +2007,28 @@
     },
     {
       "album": {
+        "name": "Mil Navajas",
+        "url": "https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mil Navajas",
+      "url": "https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ"
+    },
+    {
+      "album": {
         "name": "Nuestras Favoritas De Joan Sebastian",
         "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
       },
@@ -1978,7 +2152,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211367,
       "name": "Oiga",
       "url": "https://open.spotify.com/track/1eXyQgh9G5L8KDzKo9DA5V"
@@ -2112,6 +2286,24 @@
       "duration_ms": 190457,
       "name": "Puede Que S\u00ed",
       "url": "https://open.spotify.com/track/61j37qu0Yn1bXFynsFYXnC"
+    },
+    {
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA"
     },
     {
       "album": {
@@ -2256,7 +2448,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 222400,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/5qebmxkA0qSeW9g3avEUBW"
@@ -2390,7 +2582,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 275200,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/00s2jnZ4cVZssim4VqrszP"
@@ -2412,6 +2604,24 @@
       "duration_ms": 157746,
       "name": "Sembrador De Amor",
       "url": "https://open.spotify.com/track/31u2sFmZgwQPC2fp0HgYAj"
+    },
+    {
+      "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170587,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/7o5X3sYNni86izyToG0J8a"
     },
     {
       "album": {
@@ -2772,7 +2982,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 171978,
       "name": "Verdad Que Duele",
       "url": "https://open.spotify.com/track/404zd3wFwXkYsDIHpH1UA5"
@@ -2812,6 +3022,24 @@
       "duration_ms": 215386,
       "name": "Volcanes Dormidos",
       "url": "https://open.spotify.com/track/395im9lFQlq0zpWeXhcSLd"
+    },
+    {
+      "album": {
+        "name": "Volv\u00ed Pa'l Pueblo",
+        "url": "https://open.spotify.com/album/65KhdQQw0nbKv1MGhVPTpu"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205907,
+      "name": "Volv\u00ed Pa'l Pueblo",
+      "url": "https://open.spotify.com/track/1KrrQARol7JPxCvvPenGKI"
     },
     {
       "album": {
@@ -2862,7 +3090,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181812,
       "name": "Y las Mariposas",
       "url": "https://open.spotify.com/track/6w3eW98PzKqX0wDFYjJiGh"

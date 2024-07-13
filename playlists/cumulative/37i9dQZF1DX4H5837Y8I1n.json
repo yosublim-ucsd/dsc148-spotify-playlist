@@ -1060,10 +1060,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 77895,
       "name": "Never Lost a Fight",
       "url": "https://open.spotify.com/track/5hdHqxAhZQQEsDe9OT8dZS"
+    },
+    {
+      "album": {
+        "name": "Kalki 2898 Ad (Telugu)",
+        "url": "https://open.spotify.com/album/7FVfeI4Xa5CgRYKv82goj7"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77895,
+      "name": "Never Lost a Fight",
+      "url": "https://open.spotify.com/track/6r5DTR4IKZgNcNS4IBdlry"
     },
     {
       "album": {
@@ -1919,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Kalki 2898 Ad (Telugu)",
+        "url": "https://open.spotify.com/album/7FVfeI4Xa5CgRYKv82goj7"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Veera Dheera",
+      "url": "https://open.spotify.com/track/1oyA1gaiHOj7HtDWo35K25"
+    },
+    {
+      "album": {
         "name": "Kalki 2898 AD - Original Score",
         "url": "https://open.spotify.com/album/2DCSdnzBZrp7hKksR5eOfX"
       },
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 245666,
       "name": "Veera Dheera",
       "url": "https://open.spotify.com/track/7vDsW9gQkHwTVo9XyZVQMB"

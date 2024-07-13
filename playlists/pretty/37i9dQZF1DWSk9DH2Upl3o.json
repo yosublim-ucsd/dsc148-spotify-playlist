@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 32362,
+  "num_followers": 32400,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zow62AAAAACiPEEaRDbaY5o0KaC3i7M3",
+  "snapshot_id": "ZpCqQAAAAAAEvTTk84R7QmHXEm3QKsny",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "New Sol",
+        "url": "https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE"
+      },
+      "artists": [
+        {
+          "name": "Dangermuffin",
+          "url": "https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR"
+        }
+      ],
+      "duration_ms": 260178,
+      "name": "New Sol",
+      "url": "https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 348120,
       "name": "Toketee Breakdown",
       "url": "https://open.spotify.com/track/57qewUGyCnID5sskpTqz7U"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "How to Dream in Color",
+        "url": "https://open.spotify.com/album/3mAcc0urYeQn27UJsAQVN9"
+      },
+      "artists": [
+        {
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+        }
+      ],
+      "duration_ms": 511353,
+      "name": "In the Shadow of the Mountain",
+      "url": "https://open.spotify.com/track/1IT6PwgBR7nkE9oL9CAqqy"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -101,6 +133,22 @@
       "url": "https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Chromalight",
+        "url": "https://open.spotify.com/album/2CveRTXmjHuKWbuMv4ECbV"
+      },
+      "artists": [
+        {
+          "name": "STS9",
+          "url": "https://open.spotify.com/artist/1eZ4td9oadjw7GkW0LzxNK"
+        }
+      ],
+      "duration_ms": 336874,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/5Wn6rxedCveheZWPkrGENi"
+    },
+    {
       "added_at": "2024-05-17 04:01:00",
       "album": {
         "name": "Sum'n Boutchu",
@@ -115,22 +163,6 @@
       "duration_ms": 305737,
       "name": "Sum'n Boutchu",
       "url": "https://open.spotify.com/track/4THWSAfTsDC6W7rzgLeYpZ"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "How Do I Come Down",
-        "url": "https://open.spotify.com/album/1u8CBtWZJmwOTAXhNXrWNq"
-      },
-      "artists": [
-        {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
-        }
-      ],
-      "duration_ms": 334322,
-      "name": "How Do I Come Down",
-      "url": "https://open.spotify.com/track/4tKPAW11lGdkfPZLpvbgxI"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -809,22 +841,6 @@
       "url": "https://open.spotify.com/track/7w3f1gluu1NTtKcTD6s5p0"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 339120,
-      "name": "Opelika Yella",
-      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
-    },
-    {
       "added_at": "2023-06-23 04:01:00",
       "album": {
         "name": "On and On",
@@ -999,22 +1015,6 @@
       "duration_ms": 245893,
       "name": "Kangaroo",
       "url": "https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Joyfell",
-        "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
-      },
-      "artists": [
-        {
-          "name": "Underground Springhouse",
-          "url": "https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt"
-        }
-      ],
-      "duration_ms": 308798,
-      "name": "Joyfell",
-      "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
     },
     {
       "added_at": "2023-02-24 05:01:00",

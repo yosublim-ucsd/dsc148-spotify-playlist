@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59194,
+  "num_followers": 59205,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
-      },
-      "artists": [
-        {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Dansa runt problemen",
         "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 170083,
       "name": "Dansa runt problemen",
       "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "When she holds me",
+        "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "When she holds me",
+      "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Inget halleluja",
         "url": "https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 182040,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "When she holds me",
-        "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 243440,
-      "name": "When she holds me",
-      "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "\u00bfKan Du H\u00f6ra Det?",
-        "url": "https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay"
-      },
-      "artists": [
-        {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
-        }
-      ],
-      "duration_ms": 231351,
-      "name": "D\u00e4r Jag Fann Dig Sist",
-      "url": "https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "En F\u00f6rsta Dans",
         "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "\u00bfKan Du H\u00f6ra Det?",
+        "url": "https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 231351,
+      "name": "D\u00e4r Jag Fann Dig Sist",
+      "url": "https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Som En Sol",
-        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
-      },
-      "artists": [
-        {
-          "name": "Toxe",
-          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Som En Sol",
-      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Empty the Bags",
         "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 153559,
       "name": "Empty the Bags",
       "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Som En Sol",
+        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
+      },
+      "artists": [
+        {
+          "name": "Toxe",
+          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Som En Sol",
+      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
+      },
+      "artists": [
+        {
+          "name": "Julia Logan",
+          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Waterworks",
         "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
-      },
-      "artists": [
-        {
-          "name": "Julia Logan",
-          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
-      },
-      "artists": [
-        {
-          "name": "Fee van Deelen",
-          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
-        }
-      ],
-      "duration_ms": 223676,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Closer To You",
         "url": "https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
+      },
+      "artists": [
+        {
+          "name": "Fee van Deelen",
+          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
+        }
+      ],
+      "duration_ms": 223676,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Jackrabbit",
         "url": "https://open.spotify.com/album/6hyRcNW7sC85JHhDE0krBe"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 159250,
       "name": "Jackrabbit",
       "url": "https://open.spotify.com/track/4YJwViRMJjbnCmBCtBAaZM"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Ord som l\u00e4mnats kvar",
+        "url": "https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji"
+      },
+      "artists": [
+        {
+          "name": "Svart Rid\u00e5",
+          "url": "https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM"
+        }
+      ],
+      "duration_ms": 395240,
+      "name": "Ord som l\u00e4mnats kvar",
+      "url": "https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1319,38 +1335,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Ord som l\u00e4mnats kvar",
-        "url": "https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji"
-      },
-      "artists": [
-        {
-          "name": "Svart Rid\u00e5",
-          "url": "https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM"
-        }
-      ],
-      "duration_ms": 395240,
-      "name": "Ord som l\u00e4mnats kvar",
-      "url": "https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Blomma i city",
-        "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
-      },
-      "artists": [
-        {
-          "name": "Johanna Frostling",
-          "url": "https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Blomma i city",
-      "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Utan Dig (oh nej)",
         "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 157031,
       "name": "Utan Dig (oh nej)",
       "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Blomma i city",
+        "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
+      },
+      "artists": [
+        {
+          "name": "Johanna Frostling",
+          "url": "https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Blomma i city",
+      "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Dance Melancholia",
-        "url": "https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 202134,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Born a Riot",
         "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Dance Melancholia",
+        "url": "https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 202134,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Moonlight, Are You Listening Now?",
-        "url": "https://open.spotify.com/album/3h2ezfDowgqaCdaZQDs2Zi"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Moonlight, Are You Listening Now?",
-      "url": "https://open.spotify.com/track/3gF4L7lzTpjINl1NPj2z6g"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "arken/prismor",
         "url": "https://open.spotify.com/album/0w84MKny8k6Usfod8gDVxD"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 248000,
       "name": "prismor",
       "url": "https://open.spotify.com/track/3qR6U22OHQY7YykVUrGZSV"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Moonlight, Are You Listening Now?",
+        "url": "https://open.spotify.com/album/3h2ezfDowgqaCdaZQDs2Zi"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Moonlight, Are You Listening Now?",
+      "url": "https://open.spotify.com/track/3gF4L7lzTpjINl1NPj2z6g"
     }
   ],
   "unique_name": "p\u00e5 repeat",

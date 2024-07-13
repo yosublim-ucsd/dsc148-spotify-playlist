@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,549 likes - 66 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,568 likes - 66 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,6 +73,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 63 | [Climax](https://open.spotify.com/track/2jbNi1IR23YtHh6KukzNDk) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Stoked](https://open.spotify.com/artist/3p7fzDBhVlfoYrpM2p5n0T) | [Climax](https://open.spotify.com/album/2EsASjGU0TlCRfyj6KWwQr) | 4:03 |
 | 64 | [L'Esperanza \- Hardspace Mix](https://open.spotify.com/track/6xwiTbE15WhxHCt59YY0Ni) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [L'Esperanza \(Revisited\)](https://open.spotify.com/album/6jRnX0LQz4zoIXu4hjTd4R) | 5:56 |
 | 65 | [Take Your Mind](https://open.spotify.com/track/5vco8a9dSl1kHGBYg9v7Ih) | [Pablo Say](https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU) | [Take Your Mind](https://open.spotify.com/album/2yRQILZ3s98zO9IfbD8hiS) | 6:36 |
-| 66 | [WILD ELECTRIC \- Radio Edit](https://open.spotify.com/track/7iwjufaEbssvRvLHcp6hZM) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e) | [Wild Electric \(Gregor Tresher Remix\)](https://open.spotify.com/album/7oMPL8UGC8Tda4Mca3f4hI) | 2:59 |
+| 66 | [WILD ELECTRIC \- Gregor Tresher Radio Edit](https://open.spotify.com/track/7iwjufaEbssvRvLHcp6hZM) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e) | [Wild Electric \(Gregor Tresher Remix\)](https://open.spotify.com/album/7oMPL8UGC8Tda4Mca3f4hI) | 2:59 |
 
 Snapshot ID: `ZofhVAAAAAChDNKjV6pt8rszmoDVSxWE`

@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 157449,
       "name": "ALI BABA",
       "url": "https://open.spotify.com/track/1JsnuScewrW3Sib5zDtxYD"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 196048,
       "name": "ASOBI (feat. Candee & MonyHorse) - Remix",
       "url": "https://open.spotify.com/track/7C5OicvHguY1bVUF7lSuFq"
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182030,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM"
+    },
+    {
+      "album": {
         "name": "DOSHABURI",
         "url": "https://open.spotify.com/album/61bA17oFLiO0GB2hVLJnUp"
       },
@@ -729,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Fast Pass",
+        "url": "https://open.spotify.com/album/1d0Zd9cEVBugHOAuJQYNu9"
+      },
+      "artists": [
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Fast Pass",
+      "url": "https://open.spotify.com/track/39wnOZkUJODG6ZxGqHkXoT"
+    },
+    {
+      "album": {
         "name": "BRAIN RUSH",
         "url": "https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN"
       },
@@ -810,7 +846,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180937,
       "name": "FLY",
       "url": "https://open.spotify.com/track/0cvYy3Ei7KTanZ1572x6Sw"
@@ -1757,6 +1793,32 @@
     },
     {
       "album": {
+        "name": "Mononoke Kyoto",
+        "url": "https://open.spotify.com/album/5RCC8yqpCdwCrhrmD8oRob"
+      },
+      "artists": [
+        {
+          "name": "MNNK Bro.",
+          "url": "https://open.spotify.com/artist/2V9hCxzluWeF6gepmvKZWo"
+        },
+        {
+          "name": "Takashi Murakami",
+          "url": "https://open.spotify.com/artist/4Pj5KU6cveEf8JPb4tlhCm"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212181,
+      "name": "Mononoke Kyoto",
+      "url": "https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB"
+    },
+    {
+      "album": {
         "name": "MORIAGE",
         "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
       },
@@ -2244,6 +2306,24 @@
       "duration_ms": 241898,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/3JkLRKvufT3vSABHmDbdIl"
+    },
+    {
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
+      },
+      "artists": [
+        {
+          "name": "D3adStock",
+          "url": "https://open.spotify.com/artist/62uaSv3EJe0PwHj3mtFFjS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110500,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
     },
     {
       "album": {
@@ -2768,7 +2848,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156009,
       "name": "STRAIGHT UP",
       "url": "https://open.spotify.com/track/2Wgc8Sag9Vm17eudpNZg0S"

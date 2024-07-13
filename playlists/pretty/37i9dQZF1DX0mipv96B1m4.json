@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1191,
+  "num_followers": 1190,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Rambada",
-        "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Rambada",
-      "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bwogana",
         "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 181028,
       "name": "Bwogana",
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Rambada",
+        "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Rambada",
+      "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "My Bed",
-        "url": "https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO"
-      },
-      "artists": [
-        {
-          "name": "John Frog",
-          "url": "https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE"
-        }
-      ],
-      "duration_ms": 167428,
-      "name": "My Bed",
-      "url": "https://open.spotify.com/track/7lD0Y8t0dYmsjKcYlW08gc"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Gemazima",
         "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 181342,
       "name": "Gemazima",
       "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "My Bed",
+        "url": "https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO"
+      },
+      "artists": [
+        {
+          "name": "John Frog",
+          "url": "https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE"
+        }
+      ],
+      "duration_ms": 167428,
+      "name": "My Bed",
+      "url": "https://open.spotify.com/track/7lD0Y8t0dYmsjKcYlW08gc"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "JUICY BODY",
-        "url": "https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns"
-      },
-      "artists": [
-        {
-          "name": "Ziza Bafana",
-          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
-        },
-        {
-          "name": "Ritah Danchall",
-          "url": "https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl"
-        }
-      ],
-      "duration_ms": 150301,
-      "name": "Juicy Body",
-      "url": "https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "We Can",
         "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "JUICY BODY",
+        "url": "https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns"
+      },
+      "artists": [
+        {
+          "name": "Ziza Bafana",
+          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
+        },
+        {
+          "name": "Ritah Danchall",
+          "url": "https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl"
+        }
+      ],
+      "duration_ms": 150301,
+      "name": "Juicy Body",
+      "url": "https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 196963,
       "name": "Gyal A Bubble",
       "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bwonjagala",
         "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 217338,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2024-03-01 12:07:08",

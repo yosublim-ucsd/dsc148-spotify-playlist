@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 5 hr 58 min
+115 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2024-01-29 |  |
 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 | 2024-01-29 |  |
 | [Far From Home](https://open.spotify.com/track/4u5gUi7D1SJy8vcn4eWhWb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Far From Home](https://open.spotify.com/album/2KyQLmtmDxAgsrM6XKtuIg) | 2:46 | 2024-01-29 |  |
+| [Fast Lane](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Fast Lane](https://open.spotify.com/album/5HCQ1g5WrQuojo1eRv8FP6) | 2:00 | 2024-07-12 |  |
 | [Fiancé](https://open.spotify.com/track/764fINoQQmvNeAleav2Uuy) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 3:15 | 2024-01-29 |  |
 | [Fine Without You](https://open.spotify.com/track/2ADQwsjzZIEJYi2QtfAvqc) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Fine Without You](https://open.spotify.com/album/2cgbaxqFkFGzx1gHzQN9zW) | 3:04 | 2024-01-29 |  |
 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 | 2024-06-27 |  |

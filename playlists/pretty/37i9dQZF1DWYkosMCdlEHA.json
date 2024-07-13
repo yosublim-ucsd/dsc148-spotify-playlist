@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 143290,
+  "num_followers": 143322,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,22 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
       },
       "artists": [
         {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+      "duration_ms": 173858,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -591,22 +595,18 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Quem Sabe",
-        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
       },
       "artists": [
         {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        },
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 173858,
-      "name": "Quem Sabe",
-      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 230840,
-      "name": "A Sombra da Maldade (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c"
+      "duration_ms": 222066,
+      "name": "Firmamento (Wrong Girl to Play With) [Ac\u00fastico]",
+      "url": "https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 222066,
-      "name": "Firmamento (Wrong Girl to Play With) [Ac\u00fastico]",
-      "url": "https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1"
+      "duration_ms": 230840,
+      "name": "A Sombra da Maldade (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c"
     },
     {
       "added_at": "2024-07-05 13:49:13",

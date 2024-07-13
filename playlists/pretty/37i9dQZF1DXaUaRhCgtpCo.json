@@ -1,12 +1,12 @@
 {
   "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. ",
-  "num_followers": 525789,
+  "num_followers": 525801,
   "original_name": "Best of Star Wars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo75VgAAAAAG6J2+Gqk/P3+Q8YiVAeyQ",
+  "snapshot_id": "ZpCqQAAAAAD2b4LIB2Q9k1B5vEwse5BF",
   "tracks": [
     {
       "added_at": "2024-06-14 04:00:00",
@@ -79,6 +79,26 @@
       "duration_ms": 198861,
       "name": "The Mandalorian",
       "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Star Wars Lofi: Vol. 2",
+        "url": "https://open.spotify.com/album/2XDg88QEu1s1i5epFgW4Hg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        },
+        {
+          "name": "Star Wars Lofi",
+          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Where the Sun Sails and the Moon Walks",
+      "url": "https://open.spotify.com/track/6WJZY3pVLemc5Xjx6YTBGE"
     },
     {
       "added_at": "2024-06-14 04:00:00",

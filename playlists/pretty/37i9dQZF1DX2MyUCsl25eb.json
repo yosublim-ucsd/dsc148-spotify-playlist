@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 969800,
+  "num_followers": 969798,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo05zAAAAAAxbkJ0SUxHGn5th2r1y08x",
+  "snapshot_id": "ZpCqQAAAAADo5fwLEQSok7bnFxOwyZoI",
   "tracks": [
     {
       "added_at": "2024-07-09 13:23:23",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/1mhAbQXngabXhuwxoQycNa"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "i hope i never fall in love",
+        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX"
+    },
+    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Hurt",
@@ -39,6 +71,22 @@
       "duration_ms": 161976,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Wreck",
+        "url": "https://open.spotify.com/album/3G6M5Mq5OxXxGk0wVPoeAU"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 168900,
+      "name": "Wreck",
+      "url": "https://open.spotify.com/track/47VfDBmjjID2C4lGr24qrF"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -71,26 +119,6 @@
       "duration_ms": 179559,
       "name": "Dammit Randy",
       "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "cut! (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 128164,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1233,22 +1261,6 @@
       "url": "https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh"
     },
     {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Empty Room",
-      "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
-    },
-    {
       "added_at": "2023-12-01 05:01:00",
       "album": {
         "name": "Lifeline (From the Original Motion Picture \u201cThe Color Purple\u201d)",
@@ -1447,22 +1459,6 @@
       "duration_ms": 171680,
       "name": "Ain't She",
       "url": "https://open.spotify.com/track/5jSjOdVDA4pL4geykH3riL"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/5yifCNmASgALVJ3mlBre69"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 214865,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/0UrupbFijMlpNFH0hEuJnN"
     },
     {
       "added_at": "2024-02-09 05:00:00",

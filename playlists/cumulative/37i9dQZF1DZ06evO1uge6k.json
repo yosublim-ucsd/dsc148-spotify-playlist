@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This Is ZZ Top. Los temas esenciales, todos en una lista.",
+  "description": "This is ZZ Top. The essential tracks, all in one playlist.",
   "name": "This Is ZZ Top",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 261453,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 133973,
       "name": "Tush (2006 Remaster)",
       "url": "https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y"

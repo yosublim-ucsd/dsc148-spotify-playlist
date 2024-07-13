@@ -4,7 +4,7 @@
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-99 songs - 4 hr 50 min
+101 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [417 Hz Breathing](https://open.spotify.com/track/2PVTROWVvNQMktFx1j6fCG) | [Solfeggio Flow](https://open.spotify.com/artist/10mwt6z8SsapStLLNoIVF7) | [417 Hz Breathing](https://open.spotify.com/album/3sK1wsHDIu3Dfm3X7loUgH) | 2:50 | 2024-04-07 |  |
 | [417 Hz Calma](https://open.spotify.com/track/7fgFpG7NkhCSHGE8HwPWRp) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation](https://open.spotify.com/album/5aLjQ1knFzjkmMxwJrPPpd) | 2:46 | 2023-03-10 |  |
 | [417 Hz Calma \(Nature\)](https://open.spotify.com/track/5RpPrA45N1wKZRUjVR2NJk) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds](https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68) | 2:46 | 2023-03-10 |  |
+| [417 Hz Calmique](https://open.spotify.com/track/5BkVQCNspVVMFuZE5HJ8He) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [417 Hz Calmique](https://open.spotify.com/album/62FfUcpRICcDOH0epLRQ1R) | 3:07 | 2024-07-13 |  |
 | [417 Hz Chakra](https://open.spotify.com/track/4QzI9XTnSaCGmVMIhrU1hB) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [417 Hz Soundscapes for Relaxation and Meditation](https://open.spotify.com/album/5aLjQ1knFzjkmMxwJrPPpd) | 3:02 | 2023-03-10 |  |
 | [417 Hz Cleanse](https://open.spotify.com/track/61fHYkXunOIrrXSKJ08qnE) | [Rivers Of Time](https://open.spotify.com/artist/01HPpfT387ULSdN6EztPip) | [417 Hz Cleanse](https://open.spotify.com/album/31fgs2Xr6dCqtyK9Y3zZTO) | 2:50 | 2023-03-10 |  |
 | [417 Hz Dreaming](https://open.spotify.com/track/24oMtH0hxjdGqGn3t6Qg6o) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [Solfeggio Frequencies \- Dreaming](https://open.spotify.com/album/4CDtshYZuEoPqtrHva3ssW) | 1:38 | 2023-03-10 | 2024-03-14 |
@@ -98,6 +99,7 @@
 | [Skyldr](https://open.spotify.com/track/7aMwXSn4Cd6Os0DDBSPlxm) | [Loki Minder](https://open.spotify.com/artist/71PXav3tiDxIWWVrpiaI7l) | [Fagr](https://open.spotify.com/album/67tg7wn4DN9c6w6RmyIzbP) | 3:11 | 2023-03-10 |  |
 | [Smoke Trail 417 Hz](https://open.spotify.com/track/0Dj878mrTiDipyRNfEdQrK) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Smoke Trail 417 Hz](https://open.spotify.com/album/4BSkTCkqYShlNNXLUOb0eJ) | 2:51 | 2023-03-10 |  |
 | [Solfeggio Frequencies 417 Hz](https://open.spotify.com/track/1QXGDHadzECcysKNMZvOrN) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/7kzeMhrQC35t2RwRYyAWW1) | 2:40 | 2023-03-10 |  |
+| [Solfeggio Starscape 417 Hz](https://open.spotify.com/track/5RCfK2PlwW3VEM3LzhGiz8) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Solfeggio Starscapes](https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM) | 2:35 | 2024-07-13 |  |
 | [Svadhishthana Sacral Chakra](https://open.spotify.com/track/6zGZRRip5SjFPT2n8DFlXV) | [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c), [Instrumental Zone](https://open.spotify.com/artist/2n5ur2MSvLE1XOfGs1cYKX) | [Chakra Meditation](https://open.spotify.com/album/70i2hi6CzACmxg9LSdcLfh) | 3:12 | 2023-03-10 |  |
 | [Synchronized Hearts 417 Hz](https://open.spotify.com/track/2b4ff5jOqIIeUz4bbzEkV2) | [Mindra](https://open.spotify.com/artist/3YfVff4wWeiUd5Cmbl3VLm) | [Synchronized Hearts 417 Hz](https://open.spotify.com/album/2lwCGChAMsRMOy5xOwST4a) | 2:29 | 2023-11-30 |  |
 | [Talisman](https://open.spotify.com/track/7nbNCSPIvcyjQNcCTwD6aX) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:07 | 2023-03-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sing-along with your favorite songs from Disney Junior shows including new music from Ariel.",
-  "num_followers": 56652,
+  "num_followers": 56666,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnyKzwAAAABieoWvaKEk2IHPx8pP9vpP",
+  "snapshot_id": "ZpCqQAAAAABepBWcMkoJ6AYBAeGDXPMW",
   "tracks": [
     {
       "added_at": "2024-06-26 21:40:30",
@@ -43,6 +43,22 @@
       "duration_ms": 154464,
       "name": "Swing and Smash",
       "url": "https://open.spotify.com/track/3nTPfuMCc4s8VG5elQ5jWN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Let's Play",
+        "url": "https://open.spotify.com/album/2vijAF119YGvdaJpxHu5An"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 156928,
+      "name": "Let's Play",
+      "url": "https://open.spotify.com/track/4Ohi0kHSLouZNmqyp4ajtw"
     },
     {
       "added_at": "2024-06-17 20:24:33",

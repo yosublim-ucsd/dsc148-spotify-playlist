@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,348 likes - 15 songs - 54 min 50 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 20,358 likes - 16 songs - 58 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 13 | [Space : Unadorned](https://open.spotify.com/track/0UqPxh5QwZza8CDU4vmrES) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:01 |
 | 14 | [Tattler](https://open.spotify.com/track/0Z8PnlfoTklzYEvFEsWlEc) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paradise and Lunch](https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt) | 4:19 |
 | 15 | [For You](https://open.spotify.com/track/3ZPgyQzK9cwKMQzxDFiYRd) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [Then I Try Some More](https://open.spotify.com/album/0TrqwVnAcuTtGU7VcRJFiJ) | 2:07 |
+| 16 | [Kanon](https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [Lost Marbles and Exploded Evidence](https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw) | 3:20 |
 
-Snapshot ID: `AAAKtX7WhgDRMGyDUBoHdwFgOM2K+D+G`
+Snapshot ID: `AAAKtnS3/zjhxxPNZHK6I/NtsdYJ7pTr`

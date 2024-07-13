@@ -1,6 +1,6 @@
 {
   "description": "Pino D'Angi\u00f2, italo disco king, you will always be missed \ud83d\udc94 1952-2024",
-  "num_followers": 237878,
+  "num_followers": 239329,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "Greatest Hits & Remixes",
         "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
       },
@@ -903,18 +919,22 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+        "name": "Che Caldo",
+        "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
       "artists": [
         {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+          "name": "ELASI",
+          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
+        },
+        {
+          "name": "Anoraak",
+          "url": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
         }
       ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
+      "duration_ms": 205903,
+      "name": "Che Caldo",
+      "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -943,26 +963,6 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Che Caldo",
-        "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
-      },
-      "artists": [
-        {
-          "name": "ELASI",
-          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
-        },
-        {
-          "name": "Anoraak",
-          "url": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
-        }
-      ],
-      "duration_ms": 205903,
-      "name": "Che Caldo",
-      "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1175,50 +1175,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/1uQdlwYMsBOvlPzTAPbl8b"
-      },
-      "artists": [
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        },
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        }
-      ],
-      "duration_ms": 276190,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/1SGYJUbsLAKodPmWFbzb8i"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
-        "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
-      },
-      "artists": [
-        {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
-        }
-      ],
-      "duration_ms": 401773,
-      "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
-      "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "BUBBLEGUM (J\u00fcrgen Paape \"Frutti Di Mare\" Remix)",
         "url": "https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C"
       },
@@ -1283,6 +1239,50 @@
       "duration_ms": 257250,
       "name": "What Do You Live For? (feat. David Blank & Saturnino)",
       "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
+        "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
+      },
+      "artists": [
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "duration_ms": 401773,
+      "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
+      "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/1uQdlwYMsBOvlPzTAPbl8b"
+      },
+      "artists": [
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "duration_ms": 276190,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1SGYJUbsLAKodPmWFbzb8i"
     },
     {
       "added_at": "2024-07-12 00:01:00",

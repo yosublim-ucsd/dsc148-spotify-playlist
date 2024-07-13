@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2643,
+  "num_followers": 2645,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAADIIbfoqply2uPrVHbGfxaV",
+  "snapshot_id": "Zo8ggAAAAABX2P/JKerRXHrZ9Ydg2Byj",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 236934,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4ngV4717539caCp8SVI35A"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 292863,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 236934,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 230010,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Love",
         "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
       },
@@ -439,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
       },
       "artists": [
         {
@@ -448,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 222066,
-      "name": "High on Love",
-      "url": "https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk"
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 207500,
       "name": "Hard Place",
       "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk"
     },
     {
       "added_at": null,

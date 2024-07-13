@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 63937,
       "name": "As I Look Around",
       "url": "https://open.spotify.com/track/40tSAzLY6R1X8ictHXJyrz"
@@ -370,6 +370,24 @@
       "duration_ms": 154996,
       "name": "Big Disappointment",
       "url": "https://open.spotify.com/track/79KaITjubucfKzHLM7Hg5c"
+    },
+    {
+      "album": {
+        "name": "Bind",
+        "url": "https://open.spotify.com/album/59thVU5JwLgrsMlcdObFob"
+      },
+      "artists": [
+        {
+          "name": "Mile End",
+          "url": "https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155575,
+      "name": "Bind",
+      "url": "https://open.spotify.com/track/10u2Moizl0LxgYdqE40Qbv"
     },
     {
       "album": {
@@ -694,7 +712,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 71728,
       "name": "Cocalero",
       "url": "https://open.spotify.com/track/4rKMeOxbIotmiTwWnv8sqz"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 135973,
       "name": "Compromised",
       "url": "https://open.spotify.com/track/28TwG43K9sLsTCRqOcT9ex"
@@ -979,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Held in Contempt",
+        "url": "https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx"
+      },
+      "artists": [
+        {
+          "name": "Doubt",
+          "url": "https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112768,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz"
+    },
+    {
+      "album": {
         "name": "Delusions of Grandeur",
         "url": "https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1"
       },
@@ -1052,6 +1088,24 @@
       "duration_ms": 172388,
       "name": "Different Strokes",
       "url": "https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF"
+    },
+    {
+      "album": {
+        "name": "Disarm or Be Destroyed",
+        "url": "https://open.spotify.com/album/6GDJd5FesDqLj69PvkA4AR"
+      },
+      "artists": [
+        {
+          "name": "Wolfbrigade",
+          "url": "https://open.spotify.com/artist/0ixn2a4hS73Linz5TQGxVx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128772,
+      "name": "Disarm or Be Destroyed",
+      "url": "https://open.spotify.com/track/6O4WvtOVKqU3UvDibirC6s"
     },
     {
       "album": {
@@ -1531,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/3u5ZuLp0rEewAdfqPsXyrW"
+      },
+      "artists": [
+        {
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200563,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/7xy2eGVR0eECpBSxEs8jUB"
+    },
+    {
+      "album": {
         "name": "FUBAR",
         "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
       },
@@ -1776,7 +1848,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 140546,
       "name": "Heathen's Prayer",
       "url": "https://open.spotify.com/track/1NpFQLM62vCEbXtb9Wcyqj"
@@ -2723,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "ONLY ONE MODE",
+        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172949,
+      "name": "NO LOVE BUT FOR OUR OWN",
+      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/7F5ZISHwZlOgSFmg5LKVeG"
       },
@@ -2806,7 +2896,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 129312,
       "name": "NOTHING",
       "url": "https://open.spotify.com/track/72xrNfQneqrk6EtCp1ITpo"
@@ -3137,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Positions of Power",
+        "url": "https://open.spotify.com/album/6oukUvyh4U9JuLQkXCfzwW"
+      },
+      "artists": [
+        {
+          "name": "Skullpresser",
+          "url": "https://open.spotify.com/artist/074HajIHsqL6ax3y72BtN9"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100509,
+      "name": "Positions of Power",
+      "url": "https://open.spotify.com/track/7aciKhyjuMXQ2nWGe1PHYn"
+    },
+    {
+      "album": {
         "name": "Power Pop",
         "url": "https://open.spotify.com/album/7IIIJ2OsKS6R0ZGNqAiFsI"
       },
@@ -3206,6 +3314,24 @@
       "duration_ms": 63663,
       "name": "Primitive Desires",
       "url": "https://open.spotify.com/track/4kH7PEz8BvSWN7mRzeIuHv"
+    },
+    {
+      "album": {
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/14CX7obhYfTmp9o4iEcBB8"
+      },
+      "artists": [
+        {
+          "name": "Reviler",
+          "url": "https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155631,
+      "name": "Promises Broken",
+      "url": "https://open.spotify.com/track/3AAtOsNxNuJ7YA7cVa1Kcz"
     },
     {
       "album": {
@@ -3584,7 +3710,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 133440,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3gtyrM3EjX5zly1EfFg2FA"
@@ -3926,7 +4052,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 59563,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/14X4ZR07p0VLHHIPutOUVk"

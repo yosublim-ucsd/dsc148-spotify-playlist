@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 ### [Chilled Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX1jlzMTQ2PY5)
 
-> Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
+> Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,033 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,116 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 49 | [Grow](https://open.spotify.com/track/0JCHKnoruBII0Ir6CnhLCf) | [Carmelle Cox](https://open.spotify.com/artist/5LprRwSpDwiAQxRbrZ70zz), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [ST Files](https://open.spotify.com/artist/3ovV3uOHZzKoAzcdNSsP2p) | [Grow](https://open.spotify.com/album/3ltcAgSi9tAObMxJwGvzBC) | 5:55 |
 | 50 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 |
 
-Snapshot ID: `Zoc3vAAAAADZuL3hcCdFYhW9LKEPZpob`
+Snapshot ID: `ZpEkmQAAAACXO7pAbp2N0zBxBBPoZDKB`

@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167272,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/437HzuCcsjDaj3hsvOOmZu"
@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 176250,
       "name": "Mi Ex",
       "url": "https://open.spotify.com/track/7mwHBQyDsNNede1HHRGLH9"
@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 162240,
       "name": "Polvito",
       "url": "https://open.spotify.com/track/7eqoRSVevSWWhw437jt8l2"
@@ -4436,6 +4436,24 @@
       "duration_ms": 366093,
       "name": "Quiribi - Yamil Remix",
       "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
+    },
+    {
+      "album": {
+        "name": "Quisiera Tenerte",
+        "url": "https://open.spotify.com/album/1P3G25pEZYVIUf4jQH0pF3"
+      },
+      "artists": [
+        {
+          "name": "Carloh",
+          "url": "https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Quisiera Tenerte",
+      "url": "https://open.spotify.com/track/2isQjbpcfEUTnc7sa8rf2G"
     },
     {
       "album": {
@@ -5045,6 +5063,32 @@
     },
     {
       "album": {
+        "name": "Teka (with Peso Pluma) [Francis Mercier Remix]",
+        "url": "https://open.spotify.com/album/2RWR1CmGObjC3Ymd0QxcoI"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200975,
+      "name": "Teka (with Peso Pluma) - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/163iSInkItNVNrPeKjzbZN"
+    },
+    {
+      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/2Hy9l4nv7LKZaEIwKwjsby"
       },
@@ -5554,7 +5598,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188538,
       "name": "Vai Caralho (Do togo)",
       "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"

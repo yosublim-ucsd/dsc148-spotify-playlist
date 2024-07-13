@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 43750,
+  "num_followers": 43765,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3PAAAAAABl6HRu7O9xCxVGr2q0vwC6",
+  "snapshot_id": "Zo8ggAAAAABrjzRQEiq87d7w/YVb1/+N",
   "tracks": [
     {
       "added_at": null,
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": null,
@@ -55,6 +39,22 @@
       "duration_ms": 205506,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2Vm9PdvlNkCDqInLdOVkAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf"
     },
     {
       "added_at": null,
@@ -84,25 +84,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf"
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": null,
@@ -119,6 +103,86 @@
       "duration_ms": 184680,
       "name": "Always Be",
       "url": "https://open.spotify.com/track/7LyZKnITD52R7SLxoh2VFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "Lucky Denver Mint",
+      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Big Casino",
+      "url": "https://open.spotify.com/track/463wBlCYhDPuOVvAU8bS1h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Just Tonight",
+      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
     },
     {
       "added_at": null,
@@ -159,86 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Big Casino",
-      "url": "https://open.spotify.com/track/463wBlCYhDPuOVvAU8bS1h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Lucky Denver Mint",
-      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "The Authority Song",
-      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Just Tonight",
-      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 221186,
       "name": "555",
       "url": "https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Kill",
+      "url": "https://open.spotify.com/track/6dnHFZrpQDzSAxIsnQaEcJ"
     },
     {
       "added_at": null,
@@ -280,25 +280,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 273200,
-      "name": "If You Don't, Don't",
-      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Kill",
-      "url": "https://open.spotify.com/track/6dnHFZrpQDzSAxIsnQaEcJ"
+      "duration_ms": 217213,
+      "name": "The Authority Song",
+      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
     },
     {
       "added_at": null,
@@ -315,6 +299,22 @@
       "duration_ms": 215706,
       "name": "Sure and Certain",
       "url": "https://open.spotify.com/track/48nnqkmwmjZ7ohyShSyKAm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 433160,
+      "name": "23",
+      "url": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
     },
     {
       "added_at": null,
@@ -344,25 +344,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 261933,
-      "name": "Get It Faster",
-      "url": "https://open.spotify.com/track/07Bw7ACBw1xzhKpXrraskA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 433160,
-      "name": "23",
-      "url": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
+      "duration_ms": 273200,
+      "name": "If You Don't, Don't",
+      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
     },
     {
       "added_at": null,
@@ -383,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Chase This Light",
-      "url": "https://open.spotify.com/track/3sA8cYDDjhjowVUue11AbF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -411,6 +379,22 @@
       "duration_ms": 169573,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/19cVww3dRYFzVvslJu2NtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Chase This Light",
+      "url": "https://open.spotify.com/track/3sA8cYDDjhjowVUue11AbF"
     },
     {
       "added_at": null,
@@ -504,9 +488,25 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 209640,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+      "duration_ms": 191796,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Nothing Wrong",
+      "url": "https://open.spotify.com/track/1XgHX1RQSXq5yxfpxCSJiz"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 208600,
       "name": "I Will Steal You Back",
       "url": "https://open.spotify.com/track/32Cimaqis8qkGRMACGsOkh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 188400,
       "name": "Believe In What You Want",
       "url": "https://open.spotify.com/track/1MiVBh1JWUmplMqR79UjzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
     },
     {
       "added_at": null,

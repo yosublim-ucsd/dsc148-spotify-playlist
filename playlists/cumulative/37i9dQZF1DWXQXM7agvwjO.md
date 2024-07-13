@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: The Jansen \(Indonesia\)
 
-1,410 songs - 3 day 12 hr 59 min
+1,412 songs - 3 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4), [HENG](https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N) | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8) | 3:28 | 2022-04-28 | 2022-07-08 |
 | [Like this?](https://open.spotify.com/track/1XBYvu3zLapg0VLyHA2gB5) | [JIEON](https://open.spotify.com/artist/3EezwA5hkNydvSaWbhTv4Z) | [YYY](https://open.spotify.com/album/5qtWZLH7pmnDKWyX5NPLAa) | 2:55 | 2022-09-01 | 2022-10-14 |
 | [like you said you would](https://open.spotify.com/track/1nDdAH7CDC0mMN23X6ZTqQ) | [Roman Kayz](https://open.spotify.com/artist/6wMCLX99dfazjaH8QbnCrd) | [like you said you would](https://open.spotify.com/album/7LyzQ7PGeMkwraE2jsAV6o) | 3:00 | 2023-01-19 | 2023-02-24 |
-| [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-06-27 | 2024-07-05 |
+| [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-06-27 |  |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-07-16 | 2022-09-02 |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-25 | 2022-10-07 |
 | [linger on](https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [linger on](https://open.spotify.com/album/30vksPo2RNA1yAco5kitiA) | 3:24 | 2023-10-12 | 2023-10-20 |
@@ -756,7 +756,7 @@
 | [Mr\. Feelgood](https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Mr\. Feelgood](https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF) | 3:50 | 2024-05-30 |  |
 | [Mr\. Streetboy](https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Mr\. Streetboy](https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT) | 3:06 | 2023-11-23 | 2023-12-15 |
 | [Mungkin Saja](https://open.spotify.com/track/0P9SQLVE76N3QX4AkiyuM7) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Mungkin Saja](https://open.spotify.com/album/4simdciqfJWcdZHk1URkfW) | 2:15 | 2024-06-06 | 2024-06-28 |
-| [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-05-23 |  |
+| [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-05-23 | 2024-07-13 |
 | [Music All We Have](https://open.spotify.com/track/5BtEJ0u8sxno9kymiloA0S) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Music All We Have](https://open.spotify.com/album/7HdVwXyh6GSIe8n6Ilnbo7) | 4:02 | 2022-08-11 | 2022-09-30 |
 | [Mute](https://open.spotify.com/track/6VZYg1hHBVae2x8cQf8Qvp) | [Bakers in Space](https://open.spotify.com/artist/01BZLSIsPBIV3u139alCVf) | [Acoustic Vol\. I](https://open.spotify.com/album/7dsV0TdxQC5a60F4OJQpw7) | 5:21 | 2023-10-27 | 2023-11-17 |
 | [MY ALL TIME FAVOURITE HEARTBREAKING MOMENT](https://open.spotify.com/track/47gkKdc32LL8pnBxWUIynq) | [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [MY ALL TIME FAVOURITE HEARTBREAKING MOMENT](https://open.spotify.com/album/2tGEZnwR4yxXmOM4CnpDnW) | 3:09 | 2023-10-19 | 2023-11-24 |
@@ -842,6 +842,7 @@
 | [Over You](https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [Joshua Wong](https://open.spotify.com/artist/2IW3TsYtBaWuk15kyAIRdK) | [Over You](https://open.spotify.com/album/549aG93aYXXywD71wj36Sw) | 3:32 | 2023-03-09 | 2023-04-21 |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-14 | 2022-05-27 |
 | [Pahit Manis](https://open.spotify.com/track/6Bgz0aLA2UuVizhbSw0w1j) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI), [Herri Hamid](https://open.spotify.com/artist/0EtE4shOS9M5b0eVQt6KuI) | [Kelana](https://open.spotify.com/album/3l8kJNJHSCPLaxmHgAyqpC) | 3:24 | 2022-07-22 | 2022-09-23 |
+| [Painless](https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Painless](https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk) | 5:15 | 2024-07-12 |  |
 | [Pair Of You](https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Pair Of You](https://open.spotify.com/album/67lgGIywB4fMJ0xHsHgUiL) | 2:24 | 2022-09-22 | 2022-10-14 |
 | [Pandora \(Part Deux\)](https://open.spotify.com/track/3MhUnHXh9g2ph3iOBh6KCY) | [Ajie Gergaji](https://open.spotify.com/artist/0K24CkYcxAoXu2YgmdHuIS), [Yustie \(Female\)](https://open.spotify.com/artist/6SOFZaPWM70rktmx1OCwsW) | [Pandora \(Part Deux\)](https://open.spotify.com/album/3zIRn3Q3jdRCSNkQeWQ0mM) | 5:20 | 2024-04-18 | 2024-04-26 |
 | [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 | 2022-03-24 | 2022-05-27 |
@@ -1326,6 +1327,7 @@
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-07-14 | 2023-07-28 |
 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-08-11 | 2022-09-23 |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-29 | 2024-03-08 |
+| [なんてね](https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [なんてね](https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu) | 2:32 | 2024-07-12 |  |
 | [まだ早い果物](https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [まだ早い果物](https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0) | 4:49 | 2024-06-21 | 2024-07-05 |
 | [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-12 | 2023-01-20 |
@@ -1337,7 +1339,7 @@
 | [シンガーソングライター](https://open.spotify.com/track/1KhhkktUMXHy58wCbfPXcY) | [ポニーテールスクライム](https://open.spotify.com/artist/3pjuGFTZi5mmhM1F01cYOz) | [シンガーソングライター](https://open.spotify.com/album/55huvXkFnL1UeYiJhpHRBx) | 4:14 | 2022-10-28 | 2022-11-11 |
 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 | 2023-07-14 | 2023-08-25 |
 | [スペル](https://open.spotify.com/track/1ne0pXfW1MlansRIqBT5Ln) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [スペル](https://open.spotify.com/album/1ixXMADF3UxGBzK3dNcOkZ) | 4:31 | 2024-06-13 | 2024-07-05 |
-| [スペル](https://open.spotify.com/track/48TVHchZik2dh8c8XYTsFZ) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [呪文](https://open.spotify.com/album/4dTwNjYB5TZra6uAasAZmK) | 4:31 | 2024-06-27 |  |
+| [スペル](https://open.spotify.com/track/48TVHchZik2dh8c8XYTsFZ) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [呪文](https://open.spotify.com/album/4dTwNjYB5TZra6uAasAZmK) | 4:31 | 2024-06-27 | 2024-07-13 |
 | [チョコレート](https://open.spotify.com/track/1FhcDHsPF10O1Padlv0nMl) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [チョコレート](https://open.spotify.com/album/62Dw3XXgYGO6s8HEbCnUar) | 3:45 | 2023-03-16 | 2023-04-09 |
 | [ドク](https://open.spotify.com/track/3gP9oOdbuyRpD5Pn3SiAMv) | [warbear](https://open.spotify.com/artist/0crqBMILaHvFaCvagAiwZr) | [Patch](https://open.spotify.com/album/5kpqm3njhyZaMOclXBuhEj) | 2:57 | 2022-10-06 | 2022-11-11 |
 | [ハイウェイ](https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ハイウェイ](https://open.spotify.com/album/1uG3yhVOQ21x9wAqBuPR9d) | 4:00 | 2024-01-11 | 2024-01-26 |

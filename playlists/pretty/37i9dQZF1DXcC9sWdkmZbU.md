@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,058 likes - 76 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,064 likes - 76 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 75 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
 | 76 | [Every Move I Make](https://open.spotify.com/track/6hv4MN2Knt4Zk2EyeCJ1pb) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Shout to the Lord Kids](https://open.spotify.com/album/3srxJtNh6S5SCHgxoMomWV) | 3:10 |
 
-Snapshot ID: `ZjRobQAAAACH/Dg/BFeOiLeppeY9APuU`
+Snapshot ID: `ZpFmdgAAAADrl74xCSjCkHo83pMoX3ns`

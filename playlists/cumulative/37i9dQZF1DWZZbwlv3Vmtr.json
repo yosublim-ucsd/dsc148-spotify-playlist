@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 134594,
       "name": "At Eventide",
       "url": "https://open.spotify.com/track/19NGKR9VbsWUgf7RfAkm71"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 194085,
       "name": "Candlestick Oasis",
       "url": "https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 151958,
       "name": "catch me",
       "url": "https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1"
@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 130285,
       "name": "Golden",
       "url": "https://open.spotify.com/track/04KynVoyrEf4OU48Dw9hgS"
@@ -9714,7 +9714,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 131211,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm"
@@ -11296,7 +11296,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 125560,
       "name": "Principles",
       "url": "https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk"
@@ -13327,6 +13327,24 @@
     },
     {
       "album": {
+        "name": "cereal killer",
+        "url": "https://open.spotify.com/album/1ClyffZjfgfvkXVRTl1SCK"
+      },
+      "artists": [
+        {
+          "name": "wavcrush",
+          "url": "https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "smooth",
+      "url": "https://open.spotify.com/track/0wPvjJbgU7IDcEwPTkC2eD"
+    },
+    {
+      "album": {
         "name": "Memories Of Sunshine",
         "url": "https://open.spotify.com/album/3Xvk28MlcjlNdvkF3Y2psa"
       },
@@ -14074,7 +14092,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 161294,
       "name": "stone walls",
       "url": "https://open.spotify.com/track/5nel7kSpeghUoQwWGg79JC"
@@ -14208,7 +14226,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF"
@@ -15694,7 +15712,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 156750,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV"

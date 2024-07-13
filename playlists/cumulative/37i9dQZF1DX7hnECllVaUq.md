@@ -2,7 +2,7 @@
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Casey Barnes
+> The biggest hits from country artists around the globe\. Cover: The Reklaws
 
 167 songs - 9 hr 21 min
 

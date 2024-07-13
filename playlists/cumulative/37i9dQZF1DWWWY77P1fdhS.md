@@ -2,7 +2,7 @@
 
 ### [Swag ](https://open.spotify.com/playlist/37i9dQZF1DWWWY77P1fdhS)
 
-> It’s early 2010s, you’ve got sillybandz on your wrist, a mustache tattoo on your finger, and angry birds on your iphone\. Cover: LMFAO & Lil Jon
+> Recession Pop 4eva\.  Cover: LMFAO & Lil Jon
 
 101 songs - 6 hr 9 min
 

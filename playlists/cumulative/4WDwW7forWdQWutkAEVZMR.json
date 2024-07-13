@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: The Kid LAROI",
+  "description": "Your go-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: The Kid LAROI)",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 96653,
       "name": "4 Everybody",
       "url": "https://open.spotify.com/track/0ggnJHNFNhRqoj7MnbYjKe"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 127985,
       "name": "All Alone (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/3VzlXjegD3ophiGyDcrIr7"
@@ -692,6 +692,24 @@
       "duration_ms": 202608,
       "name": "Always Never",
       "url": "https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn"
+    },
+    {
+      "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "album": {
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 185272,
       "name": "bad emotions",
       "url": "https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m"
@@ -1556,6 +1574,24 @@
       "duration_ms": 129343,
       "name": "BIZCOCHITO (LEORD Y HARACA KIKO REMIX) (feat. Haraca Kiko)",
       "url": "https://open.spotify.com/track/378K0CspMQVjZq68UxQCKR"
+    },
+    {
+      "album": {
+        "name": "Black Beans & Coffee",
+        "url": "https://open.spotify.com/album/39AwGXAxECTMNntEfzM8cj"
+      },
+      "artists": [
+        {
+          "name": "Levi Turner",
+          "url": "https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126870,
+      "name": "Black Beans & Coffee",
+      "url": "https://open.spotify.com/track/4r0R8Rxzh3M4FMhiXMYqD8"
     },
     {
       "album": {
@@ -2764,7 +2800,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170029,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
@@ -3216,7 +3252,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 224695,
       "name": "Damn Near Normal",
       "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
@@ -3640,7 +3676,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 131756,
       "name": "Desire.",
       "url": "https://open.spotify.com/track/7DXedNZllVV3wvBXOQdbaz"
@@ -4551,6 +4587,24 @@
     },
     {
       "album": {
+        "name": "SOLO I",
+        "url": "https://open.spotify.com/album/7L5DXzvtNX1VMC34uGIPFk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "engravings - solo piano",
+      "url": "https://open.spotify.com/track/21YJ3qxYHWkjg3xHQXIEOA"
+    },
+    {
+      "album": {
         "name": "After TTBR",
         "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
       },
@@ -4774,6 +4828,24 @@
       "duration_ms": 237727,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4"
+    },
+    {
+      "album": {
+        "name": "The Ghost of Our Past",
+        "url": "https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164888,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9"
     },
     {
       "album": {
@@ -5102,7 +5174,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 186232,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
@@ -5880,6 +5952,24 @@
       "duration_ms": 106511,
       "name": "Grown Man",
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
+    },
+    {
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn"
     },
     {
       "album": {
@@ -6745,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "i hope i never fall in love",
+        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216818,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
+    },
+    {
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
       },
@@ -7358,6 +7466,24 @@
       "duration_ms": 194160,
       "name": "It Ain't Austin",
       "url": "https://open.spotify.com/track/3lSS8lGZEXH8zd2p6wUUil"
+    },
+    {
+      "album": {
+        "name": "you can hold the stars until they burn right through your hands",
+        "url": "https://open.spotify.com/album/2kpRETTOEaYlzLKReLpWnn"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190828,
+      "name": "it's easiest to fuck something that's always in the mood",
+      "url": "https://open.spotify.com/track/2RH2ZzLgzRb7OyIhv5VJSy"
     },
     {
       "album": {
@@ -8811,6 +8937,24 @@
     },
     {
       "album": {
+        "name": "Masked",
+        "url": "https://open.spotify.com/album/3Jf53fAKASv2A8g8XCKLro"
+      },
+      "artists": [
+        {
+          "name": "Resentvul",
+          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82285,
+      "name": "Masked",
+      "url": "https://open.spotify.com/track/4bW7g0BV62I55XnwS22hRk"
+    },
+    {
+      "album": {
         "name": "Matchmaker",
         "url": "https://open.spotify.com/album/1Y2OkBKU0Im7RiZeb7imrp"
       },
@@ -8934,7 +9078,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 231826,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/1sYwReHpKNZFjbZwg8DYJ5"
@@ -9936,7 +10080,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 213833,
       "name": "No Shade at Pitti",
       "url": "https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u"
@@ -11447,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Save Me (Original Music From The Motion Picture TRAP)",
+        "url": "https://open.spotify.com/album/6Pyz3vuvVkr9krpN44261K"
+      },
+      "artists": [
+        {
+          "name": "Saleka",
+          "url": "https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167576,
+      "name": "Save Me (Original Music From The Motion Picture TRAP)",
+      "url": "https://open.spotify.com/track/143NYQeUdjxzFotWiWo2O6"
+    },
+    {
+      "album": {
         "name": "say u don't love me anymore",
         "url": "https://open.spotify.com/album/5L4i7ud5dg22pnFezCpcq5"
       },
@@ -12796,7 +12958,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 175247,
       "name": "Tears",
       "url": "https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI"

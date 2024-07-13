@@ -1,6 +1,6 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. Peaches",
-  "num_followers": 152061,
+  "num_followers": 152186,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx"
     },
     {
-      "added_at": "2023-09-05 20:03:48",
-      "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
-    },
-    {
       "added_at": "2023-09-05 19:58:53",
       "album": {
         "name": "The Drums",
@@ -715,6 +699,22 @@
       "duration_ms": 174306,
       "name": "Lets Go Surfing",
       "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+    },
+    {
+      "added_at": "2023-09-05 20:03:48",
+      "album": {
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
     },
     {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Cansei De Ser Sexy",
-        "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
-      },
-      "artists": [
-        {
-          "name": "CSS",
-          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Music Is My Hot, Hot Sex",
-      "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
-    },
-    {
       "added_at": "2023-12-04 21:48:29",
       "album": {
         "name": "Remember Me",
@@ -1487,6 +1471,22 @@
       "duration_ms": 251818,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Cansei De Ser Sexy",
+        "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
+      },
+      "artists": [
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Music Is My Hot, Hot Sex",
+      "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
     },
     {
       "added_at": "2023-09-05 19:58:53",

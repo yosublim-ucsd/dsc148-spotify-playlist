@@ -4,28 +4,24 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,371 likes - 19 songs - 1 hr 6 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,371 likes - 15 songs - 54 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Très Heureux](https://open.spotify.com/track/3Iybyv19Ia1SnMO9q4kCYA) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Très Heureux](https://open.spotify.com/album/5lqubazpQwzdSX35eebdFm) | 2:58 |
-| 2 | [KÒWÁ](https://open.spotify.com/track/3KtKqd5wl1E93AsmR8ssxl) | [Big Adamz](https://open.spotify.com/artist/6Y89AqkF8MmgXt8OVJFe7z) | [KÒWÁ](https://open.spotify.com/album/3Cfn2pIVncFSvQ5aHbIxyQ) | 3:03 |
-| 3 | [Emerald City](https://open.spotify.com/track/5x1XUUVkdNXuZAzesAfFum) | [Ginger Molasses](https://open.spotify.com/artist/6QYnNgrlO0AGx8ktN8bm3u) | [Ginger Molasses](https://open.spotify.com/album/5NT4ZQVea4XtSHzK6LzIXg) | 3:49 |
-| 4 | [Still Alive](https://open.spotify.com/track/1NHH3B2PWq6k1tyNhfBt0V) | [Geezerbomb](https://open.spotify.com/artist/7cPlO6Ai5O8yDvqntDK7PF) | [Still Alive](https://open.spotify.com/album/2iX6wZqDKzFAzFeR8ocB9L) | 2:57 |
-| 5 | [Lost](https://open.spotify.com/track/2JM1uuOSE5AuqPDNxQlHBH) | [Forgotten King](https://open.spotify.com/artist/0UZMZR6ZxchlP4Ba6Bvkzk) | [Lost](https://open.spotify.com/album/3MLz6LAsxWKZCwTiDs5axe) | 7:13 |
-| 6 | [English Meadow \- Acoustic](https://open.spotify.com/track/0Mte8MCj7vphuvyAVxDSor) | [Smokin Eskimo](https://open.spotify.com/artist/6OF3TNl4rNM3Ix1SoV1E4i) | [Underground Sky Rabbit](https://open.spotify.com/album/00grnoZhU6AtjuPiG9pE0X) | 4:25 |
-| 7 | [The World Goes On](https://open.spotify.com/track/76PuFGFitzWWYvBb8JjLOE) | [Valley People](https://open.spotify.com/artist/7tuHjCOt2gh5wN36kSYk2D) | [The World Goes On](https://open.spotify.com/album/6A2Pzu9I5EQfp8EiEnHt8J) | 2:45 |
-| 8 | [4 år](https://open.spotify.com/track/05nrIdqSV97SSEDFXBm47A) | [Kvarnvik](https://open.spotify.com/artist/7DHKQetJA5e8K74TWPY04d) | [4 år](https://open.spotify.com/album/5ElpaYL469OTPAvWSf2yMH) | 3:32 |
-| 9 | [Kobrat](https://open.spotify.com/track/1j5jBo020j65IEDRoyNgCF) | [Pudel Blanco](https://open.spotify.com/artist/54ehlR3XM3YNwv5R7p60iN), [Sofia Aurelia](https://open.spotify.com/artist/7arGlfSTU7H0Nf6tPE0jEQ) | [Kobrat](https://open.spotify.com/album/4skrGfAmLT8vgPuty8sDSZ) | 2:38 |
-| 10 | [Kompass](https://open.spotify.com/track/1lyBtHgLmjQm8hkzyqwxLb) | [Simi](https://open.spotify.com/artist/6IeVrt47kE26dHQbHB1CdM) | [Kompass](https://open.spotify.com/album/5HSu5NZiirXuWS0lO4yN1l) | 3:20 |
-| 11 | [Accident](https://open.spotify.com/track/7uoH1F8YNWt7Kqvh5OHYpO) | [Femme Rêve](https://open.spotify.com/artist/3OaU68KZqnxHpj4MA3sX5Z) | [Accident](https://open.spotify.com/album/6PKH9jhFQKYX2QiWEpIzKY) | 3:11 |
-| 12 | [FULLSEND](https://open.spotify.com/track/6JVwzTvuco2Xnmzmv9hIBd) | [Kalxide](https://open.spotify.com/artist/1JjFPz4iCMp40y474Qhvsu) | [DISSOCIATED](https://open.spotify.com/album/1leD0ZApMm9BmMyFAwiUUg) | 4:00 |
-| 13 | [PSYCHO](https://open.spotify.com/track/4ez7UiUStOUh4zTI2prrSB) | [Ms\. Tina Perez](https://open.spotify.com/artist/4RB20KqkDZPKK4zYNKwQ6i) | [PSYCHO](https://open.spotify.com/album/5Vr4you09V8InVsq8CJXip) | 3:04 |
-| 14 | [Drop it Low](https://open.spotify.com/track/77Fky8D6YigDSCGfjmrT4q) | [KULA](https://open.spotify.com/artist/6tgfHy5F0ofAcG0x8Hty96) | [Drop it Low](https://open.spotify.com/album/63ajDpHAmsNb7WlmC43z1V) | 2:50 |
-| 15 | [Vegas](https://open.spotify.com/track/5VmJMpdTYsj1TG6u3vBpC6) | [Lia](https://open.spotify.com/artist/5PupfdzQLJybcaOvpCtKE5) | [Vegas](https://open.spotify.com/album/785U5SonkbB6ZKy9stoJZ9) | 2:36 |
-| 16 | [Une évidence](https://open.spotify.com/track/1dXSV6UIWilixoklYx6pMp) | [Laurent Buratti](https://open.spotify.com/artist/4j73WszgCQSdT0rsohD0jJ) | [Une évidence](https://open.spotify.com/album/6g3Ompg18iOKUNk4zNDSa5) | 5:10 |
-| 17 | [MySelf](https://open.spotify.com/track/3PX4p197D9oj1xRzw0MeGD) | [Sciroccarme](https://open.spotify.com/artist/5gp3G32SMfTXHWzqXt45Lg) | [MySelf](https://open.spotify.com/album/0qHV3tO31BCSIfbcVYPpoX) | 3:15 |
-| 18 | [Playing with fire](https://open.spotify.com/track/5Dj3PoXYwYxUJnivxPWPV9) | [saint Tibbs](https://open.spotify.com/artist/17KpCqGHVwpRPDHsTIL7o2) | [Playing with fire](https://open.spotify.com/album/2pfR5IxlRO0m7QyiJ9ix5X) | 3:07 |
-| 19 | [Bella!](https://open.spotify.com/track/45tdwSNTXFQXZ5zJFK9jyM) | [Willowhead](https://open.spotify.com/artist/3VQcv9slDXL09gPMXHqjrS) | [Bella!](https://open.spotify.com/album/4iX0bNfJFb3LRm7pvRtZRy) | 2:50 |
+| 1 | [Takaisin Pasilaan](https://open.spotify.com/track/37Sre4CH0fqK4N7BsuvSPi) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB) | [Vieraslaji](https://open.spotify.com/album/65DJRI5MPflz0NdKFaFhEU) | 2:44 |
+| 2 | [itd mean my life](https://open.spotify.com/track/44k4tFdbnpCL1es1eEt4MT) | [TeYo](https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC) | [itd mean my life](https://open.spotify.com/album/0R8i93ePX6thEiOLT7Tn9B) | 3:38 |
+| 3 | [Easy Come Easy Go](https://open.spotify.com/track/1TZE3t9U97cQ7aVPEfcfV2) | [Marko Kattilakoski](https://open.spotify.com/artist/6Txkvc6QZf8Qfr3YyEgdnR), [West11](https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK) | [Easy Come Easy Go](https://open.spotify.com/album/294KlaRRWiw9ndZikr6VqZ) | 3:45 |
+| 4 | [Varje dag](https://open.spotify.com/track/0o5u3IczFLsuYeM0t63Uhz) | [Ludvig Isacsson](https://open.spotify.com/artist/1avku2Cmise3sJpGwiYytg), [Marie Bergman](https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99) | [Varje dag](https://open.spotify.com/album/4t2YQO2in7vxZf5tjykGxG) | 4:23 |
+| 5 | [Not Easy, Not Forever \- Color Temperature Remix](https://open.spotify.com/track/4WT6xWr9IAUqF9VpK8OtKE) | [Josaleigh Pollett](https://open.spotify.com/artist/58f1MCgC8Q0XnjYqEpklz9), [Crowd Shy](https://open.spotify.com/artist/56PFTDT6hR5g9uDRWTDRVk), [Color Temperature](https://open.spotify.com/artist/6Y1vAFL7PrlfvlluPBA1ar) | [In The Garden, By The Remixes](https://open.spotify.com/album/1xoT0JdDJ5OVfFFMihIJJY) | 4:02 |
+| 6 | [jag låtsas](https://open.spotify.com/track/4NHEs0K45egvpXX1JPOYtW) | [Victor Franchell](https://open.spotify.com/artist/5l0WKb0FzqJlY6VJFHBaDT) | [jag låtsas](https://open.spotify.com/album/1M1xSlZsGyiODEGAi2Fb62) | 2:50 |
+| 7 | [Här Kommer Solen](https://open.spotify.com/track/7oF6PCeKDGlwf4tOtlFrdx) | [Amanda Warren](https://open.spotify.com/artist/5IXA2Evm4dcj8KLg7ZzayA), [West11](https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK) | [Här Kommer Solen](https://open.spotify.com/album/2zU5URZznB4Erp2ob3qyjs) | 4:30 |
+| 8 | [Tonight \(Radio Cut\)](https://open.spotify.com/track/2adIbQuOV5pBkTTBS4VgWG) | [Jacob Royle](https://open.spotify.com/artist/4vSWG2d6bzNELDBs36Jbv3) | [Tonight \(Radio Cut\)](https://open.spotify.com/album/2aUVCr8NuXoyuxpU2ffF23) | 4:16 |
+| 9 | [Et jää ilman suudelmaa](https://open.spotify.com/track/3l9lUN6Vql1UH5kCfwUMzs) | [5th Avenue](https://open.spotify.com/artist/3ELjxCK78ayhPzLVbKBOIK) | [Et jää ilman suudelmaa](https://open.spotify.com/album/6hIO5fLIqRdss8HQnKnPo6) | 2:35 |
+| 10 | [hourglass](https://open.spotify.com/track/3v1aUx7Lt7dp5G25UwGQtF) | [Sleep Driver](https://open.spotify.com/artist/1ANSbw6oiPa5PFyZixkAOY) | [hourglass](https://open.spotify.com/album/2BSnMZM28gw7cTfEEfiEjQ) | 4:07 |
+| 11 | [Merenrannalle](https://open.spotify.com/track/2OJmAK1suW1bFBTXoSaGkX) | [Kaamoskivut](https://open.spotify.com/artist/5criU0WJKImKOxtus8SwpQ) | [Merenrannalle](https://open.spotify.com/album/1UHQ03EL4wdBB4UzWExl2q) | 3:30 |
+| 12 | [La mala](https://open.spotify.com/track/1v5tmqnMfkN6Q9c4YEWSIF) | [Princess Prada](https://open.spotify.com/artist/102DdTs2nwkrxfcbZZOsXB), [Rayo](https://open.spotify.com/artist/3eWWKcc07vz4dghL63VHFY), [Imaabs](https://open.spotify.com/artist/72XTGSo6ca4qEKtXDclrg4) | [La mala](https://open.spotify.com/album/1JQos3o3Kaj74QCRoKxnoK) | 3:08 |
+| 13 | [Be Still](https://open.spotify.com/track/1oxmvySkIwc0iR2M4Dpm2i) | [Travae Williams](https://open.spotify.com/artist/5JvFMlFX9PqsH8HpeMU1rJ) | [Be Still](https://open.spotify.com/album/6SRyR6okLBaqmDpJXaytPC) | 3:36 |
+| 14 | [Dead man's Shoes](https://open.spotify.com/track/3tBiNRdU4n3hBYzggcmIR1) | [Vaughan Bourke](https://open.spotify.com/artist/2XKAftO0CFIQSIaqPwUZqi), [Suno AI](https://open.spotify.com/artist/3xm18XjUp2o01Xg7MepLFx) | [Dead man's Shoes](https://open.spotify.com/album/7EOVd4QQpMmNQ8xsiNbPW4) | 3:24 |
+| 15 | [Death to all traitors](https://open.spotify.com/track/58WiRCeWxcXtW5oozu1hhV) | [Electric BAZOOKA](https://open.spotify.com/artist/2mB6zXSi9Uoe39RfOszU4U) | [Death to all traitors](https://open.spotify.com/album/4VN1gntECBuKBO5rj8o6pk) | 3:27 |
 
-Snapshot ID: `AAADwl+GyN/aU6ZH69aqGODV0BXKdl4O`
+Snapshot ID: `AAADxMEpUakUtCSeXx4MqZ2VtZNr+2vZ`

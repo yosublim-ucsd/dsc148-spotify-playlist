@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Que me toquen el corrido de \"El Mentado\" para recordar a Ariel \ud83d\ude4f\ud83c\udffc\u2728\ud83e\udee1\ud83d\udc96 ",
+  "description": "De Tierras Surianas vengo, de all\u00e1 les traigo mi canto \ud83d\ude4f\ud83c\udffc\ud83e\udd20\ud83d\udc96  Joan Sebastian en portada.",
   "name": "Inmortales de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Bonus Track",
+        "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191432,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
+    },
+    {
+      "album": {
         "name": "Te Vengo A Ver... Con Banda Sinaloense",
         "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
       },
@@ -240,7 +262,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 247362,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN"
@@ -276,7 +298,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 211786,
       "name": "Caja de Muerte",
       "url": "https://open.spotify.com/track/5XpEpxGo0ejjR84KvIleV0"
@@ -316,6 +338,24 @@
       "duration_ms": 195866,
       "name": "Cosas Del Diablo",
       "url": "https://open.spotify.com/track/5AWc1V5Tou8j8lF9ngc3cg"
+    },
+    {
+      "album": {
+        "name": "20 Canciones Banda y Norteno",
+        "url": "https://open.spotify.com/album/6zFlPbgZKZFN5t40RMg065"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Cosas Del Diablo",
+      "url": "https://open.spotify.com/track/6wVe2PjZyYn42TaRizV7Y9"
     },
     {
       "album": {
@@ -518,7 +558,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
@@ -540,6 +580,24 @@
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/43q0J3OPQvNq2UPU2Enu9X"
+    },
+    {
+      "album": {
+        "name": "El Consentido",
+        "url": "https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201884,
+      "name": "El Consentido",
+      "url": "https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH"
     },
     {
       "album": {
@@ -612,7 +670,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156511,
       "name": "El Mentado",
       "url": "https://open.spotify.com/track/4qZfObHdk6sphLcReDazoq"
@@ -634,6 +692,24 @@
       "duration_ms": 239120,
       "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
       "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
+    },
+    {
+      "album": {
+        "name": "Joan Sebastian",
+        "url": "https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "El Peor De Tus Antojos",
+      "url": "https://open.spotify.com/track/2oipHDyjAILailWMTyIKMo"
     },
     {
       "album": {
@@ -666,7 +742,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 215797,
       "name": "El Rey De Corazones",
       "url": "https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO"
@@ -738,7 +814,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 180133,
       "name": "En Tu Pelo",
       "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
@@ -792,10 +868,28 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+    },
+    {
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera - Pedro Infante",
+        "url": "https://open.spotify.com/album/18D7PLKVrWsls3JKP6iPxH"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "Fallaste corazon",
+      "url": "https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5"
     },
     {
       "album": {
@@ -1064,10 +1158,32 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 212503,
       "name": "La Vida Es Como una Baraja",
       "url": "https://open.spotify.com/track/2FdCfWxayWg4m9CCkcnxxT"
+    },
+    {
+      "album": {
+        "name": "Litzahaya",
+        "url": "https://open.spotify.com/album/3HfkxQauyghL6mcQViSqui"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208887,
+      "name": "Litzahaya",
+      "url": "https://open.spotify.com/track/3t9RSoRYSbvXH3YmvKtLaS"
     },
     {
       "album": {
@@ -1212,7 +1328,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 210279,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
@@ -1389,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Serie 33",
+        "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Zamacona",
+          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
+    },
+    {
+      "album": {
         "name": "Volver\u00e9 A Conquistarte",
         "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
@@ -1462,7 +1600,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "P\u00eddeme",
       "url": "https://open.spotify.com/track/0UQj8YtpeoHRsxbPN0OAmI"
@@ -1506,7 +1644,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
@@ -1578,7 +1716,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 273008,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
@@ -1614,7 +1752,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
@@ -1657,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+    },
+    {
+      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -1668,7 +1824,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
@@ -1812,7 +1968,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 199482,
       "name": "Un Idiota",
       "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
@@ -1960,7 +2116,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 207123,
       "name": "Yo la Quer\u00eda para Mi",
       "url": "https://open.spotify.com/track/6JRJhfBSAGgQKXkXsTH4b0"
@@ -1978,7 +2134,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 282885,
       "name": "Yo Quisiera Entrar",
       "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
@@ -1996,7 +2152,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 178998,
       "name": "Yo ser\u00eda",
       "url": "https://open.spotify.com/track/61vBr1IQfCxXiVBVT1w4us"

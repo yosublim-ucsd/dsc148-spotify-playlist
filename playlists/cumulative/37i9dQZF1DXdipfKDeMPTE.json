@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "73 Spaceloop",
+        "url": "https://open.spotify.com/album/4CSoFQ8KiiRONQB5b59WFj"
+      },
+      "artists": [
+        {
+          "name": "BluntOne",
+          "url": "https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79103,
+      "name": "73 Spaceloop",
+      "url": "https://open.spotify.com/track/6NpJrkwYfrBXppjRbyjoL8"
+    },
+    {
+      "album": {
         "name": "atlas hour (beats)",
         "url": "https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0"
       },
@@ -2795,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Dream Drift",
+        "url": "https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Dream Drift",
+      "url": "https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4"
+    },
+    {
+      "album": {
         "name": "Dream ON",
         "url": "https://open.spotify.com/album/1pCrJ0Ortb3rbhiUaWbkfU"
       },
@@ -3364,7 +3400,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 144843,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/7kN7OZOVPZtm1HwxuwTLaG"
@@ -3512,7 +3548,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 129882,
       "name": "Follow The Lights",
       "url": "https://open.spotify.com/track/2vl2lbZvqLHIc6s82WA3Ki"
@@ -5840,10 +5876,36 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 119000,
       "name": "Memories Of A Strange Night",
       "url": "https://open.spotify.com/track/1aZ9C8rWi8pw7zy0uHvUzO"
+    },
+    {
+      "album": {
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/6I85V0la5Z78OtkDjLQGTS"
+      },
+      "artists": [
+        {
+          "name": "Sundaze",
+          "url": "https://open.spotify.com/artist/2YxIkLC16Y21afaSqjP9b0"
+        },
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/1LdTVVYYXOD6Xq0RjQ0OSu"
     },
     {
       "album": {
@@ -10224,7 +10286,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 148000,
       "name": "tight squeeze",
       "url": "https://open.spotify.com/track/2F0umTe5UJsSlGSbeUcD8p"
@@ -11048,6 +11110,24 @@
       "duration_ms": 101647,
       "name": "Windmill",
       "url": "https://open.spotify.com/track/3b9dGQOud5zYbwsiKy03Rn"
+    },
+    {
+      "album": {
+        "name": "Windows Ep",
+        "url": "https://open.spotify.com/album/4X3wVAVsL5spYI1xyv1cAO"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6e1c1C1STPq7bMebiyV4Xg"
     },
     {
       "album": {

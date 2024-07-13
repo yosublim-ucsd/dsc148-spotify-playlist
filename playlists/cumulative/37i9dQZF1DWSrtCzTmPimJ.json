@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Letting Go (Alpha 104Hz - 116Hz)",
+        "url": "https://open.spotify.com/album/0Ius07yTIgnqsiLbex8fUR"
+      },
+      "artists": [
+        {
+          "name": "sweetHz",
+          "url": "https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Letting Go (Alpha 104Hz - 116Hz)",
+      "url": "https://open.spotify.com/track/0AqRTAghz2SxGhhc0l7Z1W"
+    },
+    {
+      "album": {
         "name": "Macro Alpha 9Hz",
         "url": "https://open.spotify.com/album/6q9OvZj9UTzi6iikvnY7ri"
       },

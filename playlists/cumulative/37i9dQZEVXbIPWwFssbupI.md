@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,877 songs - 4 day 3 hr 26 min
+1,879 songs - 4 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Akrapovic](https://open.spotify.com/track/2GJM3nRv8ihs52OsCjjV6j) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [2.7.0 : Château Noir](https://open.spotify.com/album/3EDTWgtPkgHRlTMcLX4cUY) | 3:32 | 2021-03-27 | 2021-03-29 |
 | [Albiceleste](https://open.spotify.com/track/0aNKeqaXgtsWkhnxfkC01l) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Memoria](https://open.spotify.com/album/4ocMBARU5In7WQpVoT9OPv) | 3:48 | 2022-01-22 | 2022-01-30 |
 | [Alcantara](https://open.spotify.com/track/4VvSKm5jmeaDh5w01h09aa) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:14 | 2023-06-10 | 2023-06-15 |
+| [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-12 |  |
 | [All eyes on me](https://open.spotify.com/track/3oLn9QmwHO8Yu7NRCdAfIj) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 2:53 | 2024-04-15 | 2024-04-19 |
 | [All eyes on me](https://open.spotify.com/track/3pshEpoqS6tcAxTHUZuJtV) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/2NaMnPeINMU7mVRcje8FBt) | 2:53 | 2023-08-02 | 2023-08-04 |
 | [All Eyez On Me](https://open.spotify.com/track/4kb2Z4gHhmQTFOfkQiq5DH) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:42 | 2021-09-19 | 2021-09-20 |
@@ -265,7 +266,7 @@
 | [Booster](https://open.spotify.com/track/0Vnmr0cgh7iJbjtKITDJ9S) | [Larry](https://open.spotify.com/artist/0YqeL4iGLLNiwRXZvew1TM) | [Booster](https://open.spotify.com/album/33qEyxpT8FltxwAk4PEoGk) | 2:07 | 2021-04-06 | 2021-04-07 |
 | [BOSS](https://open.spotify.com/track/2K2hSiCZAwwlFvwTxVRqoi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:08 | 2022-07-02 | 2022-07-08 |
 | [Bosseur \(feat\. Tiakola\)](https://open.spotify.com/track/2rsXI0FAVX6fP70IvpwMcn) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LMDB](https://open.spotify.com/album/3o1net35E68el0fmiQO0Jx) | 2:56 | 2022-12-17 | 2022-12-19 |
-| [Bottega](https://open.spotify.com/track/0iCQMR9dp2SD8fwoavT5z4) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:58 | 2024-05-04 |  |
+| [Bottega](https://open.spotify.com/track/0iCQMR9dp2SD8fwoavT5z4) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:58 | 2024-05-04 | 2024-07-13 |
 | [Bottega](https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Bottega](https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv) | 2:58 | 2024-04-18 | 2024-05-05 |
 | [Boucan \(feat\. Franglish\)](https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Boucan \(feat\. Franglish\)](https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r) | 2:51 | 2024-04-26 |  |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-11-03 | 2023-11-11 |
@@ -763,7 +764,8 @@
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes \(Anniversary Edition\)](https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl) | 4:39 | 2024-01-01 | 2024-01-03 |
 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2024-01-01 | 2024-01-03 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2023-08-03 |
-| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-26 |  |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-26 | 2024-07-13 |
+| [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-12 |  |
 | [I Love U](https://open.spotify.com/track/3AX8XsctkvdewCyTeYzgOY) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:21 | 2023-02-18 | 2023-02-24 |
 | [I love you](https://open.spotify.com/track/6jDe94y1dbLDU53Q1NPxLH) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:57 | 2024-02-17 |  |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 | 2023-12-09 | 2024-02-18 |

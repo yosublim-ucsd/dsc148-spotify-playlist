@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/2jsUAX35AS9G9AYRjOJPEB"
+      },
+      "artists": [
+        {
+          "name": "Font",
+          "url": "https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/7kxPKFydPwupNiqBeKRWXK"
+    },
+    {
+      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -934,6 +952,28 @@
       "duration_ms": 208000,
       "name": "Blogueirinha Safada",
       "url": "https://open.spotify.com/track/3E3QCN5FWBZ4R4ZpqBwJ1S"
+    },
+    {
+      "album": {
+        "name": "Blusa da High",
+        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160338,
+      "name": "Blusa da High",
+      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
     },
     {
       "album": {
@@ -4219,6 +4259,32 @@
     },
     {
       "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Pole Dance",
+      "url": "https://open.spotify.com/track/1BSp7V0I9hHaWOF2SU5G9V"
+    },
+    {
+      "album": {
         "name": "Ponto G",
         "url": "https://open.spotify.com/album/33UYF8KWjJoKufXHS5AZbD"
       },
@@ -5052,6 +5118,28 @@
       "duration_ms": 144000,
       "name": "SILICONE",
       "url": "https://open.spotify.com/track/3pdFQvirFfrahF6qOZlcnT"
+    },
+    {
+      "album": {
+        "name": "Sintomas De Prazer",
+        "url": "https://open.spotify.com/album/10M5H4gvL3q9D84m1iDySM"
+      },
+      "artists": [
+        {
+          "name": "Guiz\u00e3o",
+          "url": "https://open.spotify.com/artist/1LJAfDSvuy8y6jr8nYMJSa"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184793,
+      "name": "Sintomas De Prazer",
+      "url": "https://open.spotify.com/track/62ebkMQMliwwHPtlL9IPQW"
     },
     {
       "album": {

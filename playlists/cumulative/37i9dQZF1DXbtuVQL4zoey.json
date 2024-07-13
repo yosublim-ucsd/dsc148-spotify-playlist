@@ -4519,6 +4519,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream Shuttle",
+        "url": "https://open.spotify.com/album/0x7j1WXneHXj1B40oHsKKs"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129733,
+      "name": "Ice Cream Shuttle",
+      "url": "https://open.spotify.com/track/4dxyKYFJX0JOyuwHCLshDf"
+    },
+    {
+      "album": {
         "name": "Ilha Grande",
         "url": "https://open.spotify.com/album/74sycg76S8nqr0DxqZw9Pg"
       },
@@ -6112,7 +6130,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 149800,
       "name": "Mount Rakko",
       "url": "https://open.spotify.com/track/6ogjgDHnzNUgtvH35sCtVj"
@@ -6590,7 +6608,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 160878,
       "name": "Orange Tree",
       "url": "https://open.spotify.com/track/667UZer8DqG0zUgmaQd0mm"
@@ -7501,6 +7519,32 @@
     },
     {
       "album": {
+        "name": "Romania",
+        "url": "https://open.spotify.com/album/2CnObqYqqApGtaiz7tMwBe"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "DEOVI",
+          "url": "https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Romania",
+      "url": "https://open.spotify.com/track/3xBz7VpGTYeZiQk1e35ecj"
+    },
+    {
+      "album": {
         "name": "Kid Tested & Mother Approved",
         "url": "https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc"
       },
@@ -7866,6 +7910,24 @@
       "duration_ms": 171692,
       "name": "see you tomorrow",
       "url": "https://open.spotify.com/track/190S9EQAuaAfqz0oaQF392"
+    },
+    {
+      "album": {
+        "name": "See You, Space Cowboy",
+        "url": "https://open.spotify.com/album/5cYKSdW2gvvEIGkkvALVdh"
+      },
+      "artists": [
+        {
+          "name": "404flipp",
+          "url": "https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147108,
+      "name": "See You, Space Cowboy",
+      "url": "https://open.spotify.com/track/3wH8G4TzAVS6YyBhlUX6Se"
     },
     {
       "album": {
@@ -8607,6 +8669,24 @@
     },
     {
       "album": {
+        "name": "Sugar Rush",
+        "url": "https://open.spotify.com/album/4TJxGTHPJYqvdNHtnz6tiL"
+      },
+      "artists": [
+        {
+          "name": "Dubtrack",
+          "url": "https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/48pNFaVMV89PQ6YWLMkEP9"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz"
       },
@@ -9134,7 +9214,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 160941,
       "name": "Sweet Morning",
       "url": "https://open.spotify.com/track/3sDROMtJXbaBbFag9akZLY"
@@ -10362,6 +10442,24 @@
       "duration_ms": 116590,
       "name": "warm ocean",
       "url": "https://open.spotify.com/track/3lN0whHnarXeTmsRpJ1CsI"
+    },
+    {
+      "album": {
+        "name": "Wave Rider",
+        "url": "https://open.spotify.com/album/4cpW5HSenjzhjWkuhSxNyr"
+      },
+      "artists": [
+        {
+          "name": "le gronk",
+          "url": "https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Wave Rider",
+      "url": "https://open.spotify.com/track/6m9hDC3uksXTzu8SPHDAnv"
     },
     {
       "album": {

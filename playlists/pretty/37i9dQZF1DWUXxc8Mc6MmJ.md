@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,813 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,139 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 58 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
 | 59 | [Is It Still Beautiful](https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
 | 60 | [Everyday With You](https://open.spotify.com/track/4FpNWU5qCPCZR7LkuyuJr7) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [KING THE LAND \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/1RbPDmimZAOVVbyHyjwXhq) | 2:50 |
-| 61 | [Crying out](https://open.spotify.com/track/7jVLe21bkwX1DTy1mfkxjB) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [CART OST](https://open.spotify.com/album/680xGIfuVXMyY3fxb0kII9) | 3:51 |
-| 62 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 |
+| 61 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 |
+| 62 | [Crying out](https://open.spotify.com/track/7jVLe21bkwX1DTy1mfkxjB) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [CART OST](https://open.spotify.com/album/680xGIfuVXMyY3fxb0kII9) | 3:51 |
 | 63 | [It's Definitely You](https://open.spotify.com/track/0hxiCHqAgJUMxLI5F619Mc) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG \(Music from the Original TV Series\)](https://open.spotify.com/album/0DbUqmdD39ndx8EUlhhSUx) | 3:50 |
 | 64 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
 | 65 | [I Love You, I Remember You](https://open.spotify.com/track/5nclYlcWMW9QgnBZU2apZh) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5fWzkB75o6HICDEDzWq5tf) | 4:06 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 90 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 |
 | 91 | [Rest](https://open.spotify.com/track/6a2cutO8pmtSA9atoH041j) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [CASTAWAY DIVA OST Part.1](https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6) | 3:40 |
 | 92 | [Home](https://open.spotify.com/track/5c26OuSMT9s3zuNxA8GvHu) | [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/22vwnmmlPoPk04mJfvwTBo) | 3:51 |
-| 93 | [You Are My Everything \- English Version](https://open.spotify.com/track/659eroHArk1V6qzOBDaLDL) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
-| 94 | [Dream](https://open.spotify.com/track/4C8IyegMjj5vmSdO4HUATk) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [Dream](https://open.spotify.com/album/0kqgFrRX8ynvKc0Qy4jkMl) | 4:02 |
+| 93 | [Dream](https://open.spotify.com/track/4C8IyegMjj5vmSdO4HUATk) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [Dream](https://open.spotify.com/album/0kqgFrRX8ynvKc0Qy4jkMl) | 4:02 |
+| 94 | [You Are My Everything \- English Version](https://open.spotify.com/track/659eroHArk1V6qzOBDaLDL) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 | 95 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
 | 96 | [How Can I Love You](https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Descendants Of The Sun Pt.10 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl) | 4:20 |
-| 97 | [Make it count](https://open.spotify.com/track/6zDfmmeyBbUBti3KhVhiyf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Touch your heart OST Part.1](https://open.spotify.com/album/0TRDHt2m0F2XScn7J7YzfV) | 3:26 |
-| 98 | [Please say something, even though it is a lie](https://open.spotify.com/track/3w1OiIgombILLvuVo8HRAm) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [W OST Part.2](https://open.spotify.com/album/5pcvUvnnXKju9j9qR5b7HK) | 3:33 |
+| 97 | [Please say something, even though it is a lie](https://open.spotify.com/track/3w1OiIgombILLvuVo8HRAm) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [W OST Part.2](https://open.spotify.com/album/5pcvUvnnXKju9j9qR5b7HK) | 3:33 |
+| 98 | [Make it count](https://open.spotify.com/track/6zDfmmeyBbUBti3KhVhiyf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Touch your heart OST Part.1](https://open.spotify.com/album/0TRDHt2m0F2XScn7J7YzfV) | 3:26 |
 | 99 | [Meet Again](https://open.spotify.com/track/4Zp3rm12p5PiHToYJflmyy) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [The Uncanny Counter \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/10UR0IIhXKA0n6lreq6Huv) | 4:33 |
 | 100 | [HEAVEN](https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Guardian \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ) | 4:19 |
 

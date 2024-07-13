@@ -2015,6 +2015,28 @@
     },
     {
       "album": {
+        "name": "Bad Boy 2",
+        "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/22v0nQAXYjRlRcO9KFKYgN"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -2604,7 +2626,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 146705,
       "name": "Anastima",
       "url": "https://open.spotify.com/track/2KQLXPaVQ1sqvhvTN2crqz"
@@ -12394,7 +12416,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -13744,7 +13766,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 119153,
       "name": "HABIBI",
       "url": "https://open.spotify.com/track/0CPhqd0ZX0CUW2qU5uZP2q"
@@ -16048,10 +16070,28 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 137812,
       "name": "KALOKAIRI",
       "url": "https://open.spotify.com/track/4f5U2wOXspirNi7GNfJGvO"
+    },
+    {
+      "album": {
+        "name": "Bad Boy 2",
+        "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120960,
+      "name": "Kalokairi",
+      "url": "https://open.spotify.com/track/1rHSPCWFHneNv8JUn5EzDz"
     },
     {
       "album": {
@@ -25337,6 +25377,28 @@
     },
     {
       "album": {
+        "name": "Bad Boy 2",
+        "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132704,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/16mGbBq6JHxw3WKxiFbsHv"
+    },
+    {
+      "album": {
         "name": "PANAMERA",
         "url": "https://open.spotify.com/album/6Fo3srFW1Zo9UMp8NLaiKd"
       },
@@ -31433,6 +31495,28 @@
     },
     {
       "album": {
+        "name": "Bad Boy 2",
+        "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145788,
+      "name": "Superstars",
+      "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"
+    },
+    {
+      "album": {
         "name": "Made in Athens",
         "url": "https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0"
       },
@@ -32916,7 +33000,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 167310,
       "name": "Tipota Tiheo",
       "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
@@ -35220,6 +35304,28 @@
       "duration_ms": 192941,
       "name": "Vradia",
       "url": "https://open.spotify.com/track/7m2z3y1R6K7ZXBMYeEK9zn"
+    },
+    {
+      "album": {
+        "name": "Bad Boy 2",
+        "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Corle",
+          "url": "https://open.spotify.com/artist/6z05xgIbD3oUDdSwE16YNo"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Vroum Vroum",
+      "url": "https://open.spotify.com/track/0m0EGs9EklyrLpsWlw38F1"
     },
     {
       "album": {

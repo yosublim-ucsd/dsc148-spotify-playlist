@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain]
 
 > Indie Brandneu presents..\. Die besten Indie Songs aus 2023\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,284 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,287 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

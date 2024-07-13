@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 430073,
+  "num_followers": 430075,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
-      },
-      "artists": [
-        {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        },
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/0O0cMYT5mf86GEswEyH3D0"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 120605,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "duration_ms": 123658,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
-      },
-      "artists": [
-        {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "Cross the Bridge",
         "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 138913,
       "name": "Cross the Bridge",
       "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "DNAII",
-        "url": "https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF"
-      },
-      "artists": [
-        {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "tears",
-      "url": "https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "Ch\u014dchin",
         "url": "https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 185676,
       "name": "Ch\u014dchin",
       "url": "https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "DNAII",
+        "url": "https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "tears",
+      "url": "https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "memories",
-        "url": "https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ"
-      },
-      "artists": [
-        {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
-        }
-      ],
-      "duration_ms": 179459,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "PAREIDOLIA",
         "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
       },
@@ -1191,22 +1175,18 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "Entering the Golden Gai",
-        "url": "https://open.spotify.com/album/79ZWhnZpiCFpL85460vemv"
+        "name": "memories",
+        "url": "https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ"
       },
       "artists": [
         {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        },
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
         }
       ],
-      "duration_ms": 178536,
-      "name": "Entering the Golden Gai",
-      "url": "https://open.spotify.com/track/4XgqM3v3F5O88zY9LW0eDl"
+      "duration_ms": 179459,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1255,6 +1235,42 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "Entering the Golden Gai",
+        "url": "https://open.spotify.com/album/79ZWhnZpiCFpL85460vemv"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        },
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Entering the Golden Gai",
+      "url": "https://open.spotify.com/track/4XgqM3v3F5O88zY9LW0eDl"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
         "name": "Libration",
         "url": "https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
-      },
-      "artists": [
-        {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "Moon Prairie",
         "url": "https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a"
       },
@@ -1319,26 +1319,6 @@
       "duration_ms": 91964,
       "name": "Moon Prairie",
       "url": "https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
-        "name": "work_1",
-        "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "yuhei miura",
-          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
-        }
-      ],
-      "duration_ms": 76549,
-      "name": "Bedroom",
-      "url": "https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1359,6 +1339,26 @@
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "work_1",
+        "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
+        }
+      ],
+      "duration_ms": 76549,
+      "name": "Bedroom",
+      "url": "https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
-        "name": "Step to Your Mind",
-        "url": "https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V"
-      },
-      "artists": [
-        {
-          "name": "SUKISHA",
-          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
-        }
-      ],
-      "duration_ms": 96166,
-      "name": "Step to Your Mind",
-      "url": "https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
         "name": "Dissociation",
         "url": "https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 116959,
       "name": "Cows In The Distance",
       "url": "https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
+        "name": "Step to Your Mind",
+        "url": "https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "duration_ms": 96166,
+      "name": "Step to Your Mind",
+      "url": "https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+      },
+      "artists": [
+        {
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
         "name": "Mount Fuji",
         "url": "https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2024-07-04 15:00:00",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-07-04 15:00:00",
       "album": {
+        "name": "re: Nobody Else",
+        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "pige",
+          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "re: Nobody Else",
+      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
+    },
+    {
+      "added_at": "2024-07-04 15:00:00",
+      "album": {
         "name": "16FLIP -Atomosphere'22-",
         "url": "https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH"
       },
@@ -1775,22 +1795,6 @@
       "duration_ms": 45690,
       "name": "Beat Diary 917",
       "url": "https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x"
-    },
-    {
-      "added_at": "2024-07-04 15:00:00",
-      "album": {
-        "name": "Hapuna",
-        "url": "https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw"
-      },
-      "artists": [
-        {
-          "name": "LONELY ONES",
-          "url": "https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Hapuna",
-      "url": "https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

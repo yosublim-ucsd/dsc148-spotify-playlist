@@ -2,7 +2,7 @@
 
 ### [Chilled Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX1jlzMTQ2PY5)
 
-> Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
+> Escape with these melodic liquid drum & bass beats
 
 175 songs - 12 hr 47 min
 

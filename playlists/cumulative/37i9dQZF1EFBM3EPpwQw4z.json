@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Shout Out Loud",
+        "url": "https://open.spotify.com/album/0RxDOIayfWgryjYbkgDQRK"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206575,
+      "name": "Shout Out Loud",
+      "url": "https://open.spotify.com/track/7otkkXuwLdVPPWMuuCw0Hs"
+    },
+    {
+      "album": {
         "name": "Welcome to Diver City",
         "url": "https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ"
       },

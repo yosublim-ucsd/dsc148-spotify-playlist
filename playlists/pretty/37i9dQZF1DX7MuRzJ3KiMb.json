@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 91284,
+  "num_followers": 91313,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
+        "name": "Aquello que llaman amor",
+        "url": "https://open.spotify.com/album/1bULNS6QwGROWbeoxgUU2X"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 195603,
+      "name": "Aquello que llaman amor",
+      "url": "https://open.spotify.com/track/2mRhNjLh1qflTjUPsn92of"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 165960,
       "name": "Qu\u00e9 Suerte",
       "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
-        "name": "Aquello que llaman amor",
-        "url": "https://open.spotify.com/album/1bULNS6QwGROWbeoxgUU2X"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 195603,
-      "name": "Aquello que llaman amor",
-      "url": "https://open.spotify.com/track/2mRhNjLh1qflTjUPsn92of"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "Tengo Algo Que Decirte",
         "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 125624,
       "name": "Estar Cerca de Ti",
       "url": "https://open.spotify.com/track/5bpaf2lcJD8neZJu4hbqKc"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Morra",
-        "url": "https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg"
-      },
-      "artists": [
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Morra",
-      "url": "https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -1051,34 +1035,18 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+        "name": "Morra",
+        "url": "https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg"
       },
       "artists": [
         {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+      "duration_ms": 217120,
+      "name": "Morra",
+      "url": "https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -1099,6 +1067,38 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Recuerdos de un amor",
-        "url": "https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP"
-      },
-      "artists": [
-        {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
-        }
-      ],
-      "duration_ms": 210357,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "Querernos Bien",
         "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 183043,
       "name": "Querernos Bien",
       "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Recuerdos de un amor",
+        "url": "https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "duration_ms": 210357,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"
     },
     {
       "added_at": "2024-07-11 01:50:59",

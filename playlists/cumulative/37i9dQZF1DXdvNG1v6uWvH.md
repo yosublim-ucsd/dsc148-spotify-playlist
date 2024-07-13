@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-1,257 songs - 2 day 18 hr 3 min
+1,258 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 | 2024-05-03 | 2024-05-10 |
 | [Tequila](https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Tequila](https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL) | 2:46 | 2024-06-21 | 2024-06-28 |
 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 | 2024-06-21 | 2024-06-28 |
+| [thank god](https://open.spotify.com/track/2SUrx1x8BqAe4ASqIoiNY1) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye](https://open.spotify.com/album/4iEl6x2j3jrUDq0fbhOd6i) | 3:26 | 2024-07-12 |  |
 | [That Song With The Kick Drum](https://open.spotify.com/track/5TO3kVu0IMPs9KGDUkprjK) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [That Song With The Kick Drum](https://open.spotify.com/album/6piLxUrATeF7bybEoqvzys) | 2:55 | 2024-06-14 | 2024-06-21 |
 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-05-31 | 2024-06-07 |
 | [The Attraction](https://open.spotify.com/track/1iWrl4TzpSuZSfKYASgZda) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [La Comitiva](https://open.spotify.com/album/6l187RCxp0fG5k0hdXxVOQ) | 5:24 | 2024-05-17 | 2024-05-24 |

@@ -9899,6 +9899,28 @@
     },
     {
       "album": {
+        "name": "Thaimai",
+        "url": "https://open.spotify.com/album/6Ig6IiYyMKDfBjRPgZDX41"
+      },
+      "artists": [
+        {
+          "name": "C. Sathya",
+          "url": "https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed"
+        },
+        {
+          "name": "Akash Premkumar",
+          "url": "https://open.spotify.com/artist/03L3fnjptwgc4m7Jt3bFSD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180329,
+      "name": "Thaimai",
+      "url": "https://open.spotify.com/track/08VXFcciBdessz9jOYXiPh"
+    },
+    {
+      "album": {
         "name": "Thalakeezhai",
         "url": "https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: The Cold Stares",
+  "description": "The best of modern blues rock. Cover: Larkin Poe",
   "name": "Modern Blues Rock",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
@@ -730,6 +730,24 @@
       "duration_ms": 211143,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3"
+    },
+    {
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "album": {
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 203200,
       "name": "Dirt On My Diamonds",
       "url": "https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 146178,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
@@ -3041,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Love out of Lemons",
+        "url": "https://open.spotify.com/album/0jsAmlf5wVis6otmdokfsA"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Love out of Lemons",
+      "url": "https://open.spotify.com/track/2GXzTdHHiguNECDsp3hW0W"
+    },
+    {
+      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -3272,6 +3308,24 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
+    },
+    {
+      "album": {
+        "name": "Never Made It To Memphis",
+        "url": "https://open.spotify.com/album/1SDFJ44buRab1oJZiN1UOv"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Never Made It To Memphis",
+      "url": "https://open.spotify.com/track/3grlrtWpHXHPtyLu6kWawn"
     },
     {
       "album": {
@@ -4402,7 +4456,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 269326,
       "name": "Solar Fire",
       "url": "https://open.spotify.com/track/65gFWCRdKZD19F32AHhtmK"
@@ -5536,7 +5590,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 168571,
       "name": "Twisted Angel",
       "url": "https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs"
@@ -5876,6 +5930,24 @@
       "duration_ms": 265276,
       "name": "Will We Ever",
       "url": "https://open.spotify.com/track/2hYQpTCX3z4LybxKKRhaBO"
+    },
+    {
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/3kHwkySXzWkWvnYCGh7Os2"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201899,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/0MFLsMsoNdZL1q17a8gzlz"
     },
     {
       "album": {

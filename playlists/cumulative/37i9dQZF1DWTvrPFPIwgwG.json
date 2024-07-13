@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Cen\u00e1rio Favor\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342318,
+      "name": "Cen\u00e1rio Favor\u00e1vel - Ao Vivo",
+      "url": "https://open.spotify.com/track/3hHUmc9hNW9YspTVcymE7q"
+    },
+    {
+      "album": {
         "name": "Cheiro de Guerra",
         "url": "https://open.spotify.com/album/02jpKdZsl0VvdbwIrBUcVK"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 357599,
       "name": "Fara\u00f3 ou Deus",
       "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"

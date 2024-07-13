@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 181699,
       "name": "Fue Facil",
       "url": "https://open.spotify.com/track/6FTYhQeBISU2K63RB0q6xc"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 214514,
       "name": "Hoy Te Vi - Remasterizado 2019",
       "url": "https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a"
@@ -3000,6 +3000,28 @@
       "duration_ms": 217810,
       "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
+    },
+    {
+      "album": {
+        "name": "L\u00e1vate la cara / La piel bien caliente / Contigo me gusta (En Vivo)",
+        "url": "https://open.spotify.com/album/1dQ1TkbCDH7kiH9C0Ew2JC"
+      },
+      "artists": [
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+        },
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "L\u00e1vate la cara / La piel bien caliente / Contigo me gusta - En vivo",
+      "url": "https://open.spotify.com/track/2ndF6D7xJJVLiYmiVdfAR7"
     },
     {
       "album": {
@@ -5026,7 +5048,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 275375,
       "name": "Si Te Vas - Vivo",
       "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
@@ -6010,6 +6032,28 @@
       "duration_ms": 211703,
       "name": "Vivir Asi Es Morir de Amor",
       "url": "https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha"
+    },
+    {
+      "album": {
+        "name": "EL PEPO - SESSIONES CON PUBLICO #10 (SIN MIEDO : 1 \"TIRO\")",
+        "url": "https://open.spotify.com/album/2uHThYsO36fD1sBQ47G4bT"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142922,
+      "name": "Vos de bebe",
+      "url": "https://open.spotify.com/track/18QGtUiEkREzwBz0WbnNo6"
     },
     {
       "album": {

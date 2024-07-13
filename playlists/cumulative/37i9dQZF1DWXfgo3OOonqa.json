@@ -9003,6 +9003,24 @@
     },
     {
       "album": {
+        "name": "Faller",
+        "url": "https://open.spotify.com/album/7vXhgwKBcYtvSbMlG2yRqn"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "Faller",
+      "url": "https://open.spotify.com/track/52rYBxmWsmouJrq4rpbHQJ"
+    },
+    {
+      "album": {
         "name": "FALLER",
         "url": "https://open.spotify.com/album/6TguGjqXXMWee8xQvUG40N"
       },

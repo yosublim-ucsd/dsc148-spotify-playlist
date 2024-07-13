@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: White 2115, Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,985 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,311 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 3 | [na bombę](https://open.spotify.com/track/1oMOYIGc9IOJ6N8DqxwkRN) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [na bombę](https://open.spotify.com/album/2IgQ47b8DZ9gNemDk1ON7o) | 3:05 |
 | 4 | [SOBOTA WIECZÓR](https://open.spotify.com/track/62x7s8C2GFiu9Ju3eSZ5GB) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Jacuś](https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq) | [SOBOTA WIECZÓR](https://open.spotify.com/album/3ve9nVA4gEYrA0m1OrL2P6) | 2:12 |
 | 5 | [Power Up](https://open.spotify.com/track/0UUfAzaqo4pO0ikM7llaRJ) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI) | [Power Up](https://open.spotify.com/album/0iwUNQApuN2m00w8Y5opQ8) | 3:38 |
-| 6 | [Wosk](https://open.spotify.com/track/7KbJRPtHT3uVD2gmqO8A4u) | [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Wosk](https://open.spotify.com/album/2Urv8R4iILFJDzrVrVoPDs) | 2:48 |
+| 6 | [Wosk](https://open.spotify.com/track/7KbJRPtHT3uVD2gmqO8A4u) | [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Wosk](https://open.spotify.com/album/2Urv8R4iILFJDzrVrVoPDs) | 2:46 |
 | 7 | [Woda Księżycowa](https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Woda Księżycowa](https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb) | 3:11 |
 | 8 | [GENERACJA CUZI](https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [GENERACJA CUZI](https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU) | 1:53 |
 | 9 | [ILE LAT?](https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [ILE LAT?](https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti) | 2:30 |

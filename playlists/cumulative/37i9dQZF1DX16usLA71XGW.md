@@ -4,7 +4,7 @@
 
 > East Africa queens in their music bag\. Cover: Anjella
 
-141 songs - 7 hr 31 min
+143 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 | 2023-06-01 |  |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-07-18 | 2023-10-20 |
 | [Colours](https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 3:44 | 2022-09-29 | 2024-02-16 |
+| [Conquer](https://open.spotify.com/track/0KJI0836GUL4JT258Y5v4z) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Conquer](https://open.spotify.com/album/5qoAudHr7rBpuEH7Z8wlQt) | 3:36 | 2024-07-12 |  |
 | [Consistency](https://open.spotify.com/track/5JHlLFvkzyPW6dnmFANKM6) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [Consistency](https://open.spotify.com/album/2ECQyI2DuXhoTyF3EoCWNN) | 3:18 | 2024-02-15 |  |
 | [Dakika Moja](https://open.spotify.com/track/7ES0Y6lLl5NrMhz4sbaePq) | [Ruby](https://open.spotify.com/artist/2ypTfYYhRIQFIYj6bdnKa6) | [Dakika Moja](https://open.spotify.com/album/54uEgwNVQ0L8FNHO8gFYbA) | 3:42 | 2022-07-18 |  |
 | [Dark Skin](https://open.spotify.com/track/5AjVctG4cZUAlGFWpuIxLe) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Dark Skin](https://open.spotify.com/album/08kjRiczlt4ykqCXPBoASh) | 3:22 | 2022-07-18 | 2024-07-05 |
@@ -60,6 +61,7 @@
 | [Love](https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 1:55 | 2022-07-18 | 2023-03-11 |
 | [Love](https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 1:55 | 2022-07-18 | 2023-06-02 |
 | [Love Ballad No\. 3](https://open.spotify.com/track/3GjD1VmMDQRBI85fRZyrvC) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 4:18 | 2022-07-18 | 2024-06-01 |
+| [Love Commissioner](https://open.spotify.com/track/1TKPuXEo6va9g9GtY6YuOo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr), [David Lutalo](https://open.spotify.com/artist/6oSfZEWn2BRxv81M5JwKXl) | [Love Commissioner](https://open.spotify.com/album/3GwTRy50XVuhcsKiUh2Wad) | 3:55 | 2024-07-12 |  |
 | [Love So Hard](https://open.spotify.com/track/0wziWY68BtP0cCoysabecJ) | [Neliah](https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5) | [Love So Hard](https://open.spotify.com/album/6ZeXSuv1si3Mobh4Z446Wz) | 3:40 | 2024-05-17 | 2024-06-01 |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2022-07-18 | 2023-10-27 |
 | [Maajab](https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab](https://open.spotify.com/album/5d1qznmP03spOwDdS60r57) | 3:18 | 2023-06-23 |  |
@@ -139,7 +141,7 @@
 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-07-18 |  |
 | [WANO](https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv) | [NTAATE](https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9) | [WANO](https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t) | 3:31 | 2022-07-18 | 2023-02-11 |
 | [Want It All](https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:04 | 2022-09-01 | 2024-02-16 |
-| [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 |  |
+| [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 | 2024-07-13 |
 | [Where \(Has the Time Gone\)](https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Where \(Has the Time Gone\)](https://open.spotify.com/album/6JwEB4ctGyzJis0UAZwQFC) | 2:22 | 2022-07-18 | 2023-05-12 |
 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-17 |  |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-26 |  |

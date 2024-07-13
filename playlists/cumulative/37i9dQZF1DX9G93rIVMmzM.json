@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Being One",
+        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Being One",
+      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
+    },
+    {
+      "album": {
         "name": "\u2020\u2020\u2020 (Crosses)",
         "url": "https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV"
       },
@@ -1065,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb"
+      },
+      "artists": [
+        {
+          "name": "Trxy!",
+          "url": "https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115401,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8"
+    },
+    {
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
       },
@@ -1203,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/1MKe8RxZmbsjKNDaxltzhX"
+      },
+      "artists": [
+        {
+          "name": "breakk.away",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212364,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3RaeO8MAeAqOsJqWlVJL38"
+    },
+    {
+      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -1254,6 +1308,24 @@
       "duration_ms": 223026,
       "name": "Sleeptalk",
       "url": "https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW"
+    },
+    {
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192340,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
     },
     {
       "album": {
@@ -1344,6 +1416,24 @@
       "duration_ms": 217600,
       "name": "Static King",
       "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
+    },
+    {
+      "album": {
+        "name": "I + II",
+        "url": "https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx"
+      },
+      "artists": [
+        {
+          "name": "Leaving Time",
+          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130250,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q"
     },
     {
       "album": {
@@ -1550,7 +1640,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 224320,
       "name": "Vermilion, Pt. 2",
       "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"

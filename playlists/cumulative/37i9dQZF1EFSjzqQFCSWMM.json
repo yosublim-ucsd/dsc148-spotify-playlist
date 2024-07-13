@@ -1476,6 +1476,24 @@
     {
       "album": {
         "name": "Sugar Mommy",
+        "url": "https://open.spotify.com/album/6kcAxB2fgyeTfl8FP0usM5"
+      },
+      "artists": [
+        {
+          "name": "Mamazi",
+          "url": "https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170788,
+      "name": "Sugar Mommy",
+      "url": "https://open.spotify.com/track/0fuWxGIvZGIvp5yP61a3mw"
+    },
+    {
+      "album": {
+        "name": "Sugar Mommy",
         "url": "https://open.spotify.com/album/1hSFusQy5BLr7CWMC1UrIo"
       },
       "artists": [
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170762,
       "name": "Sugar Mommy",
       "url": "https://open.spotify.com/track/00bnJqF7gcNMGInQhCr1Ps"

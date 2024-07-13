@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 732414,
+  "num_followers": 732420,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Young Blood (Acoustic)",
+        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Young Blood - Acoustic",
+      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 191773,
       "name": "Paint",
       "url": "https://open.spotify.com/track/5Ewz5ms8XpjtkihWFLnJJs"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Young Blood (Acoustic)",
-        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Young Blood - Acoustic",
-      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cragie Dhu",
-        "url": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
-      },
-      "artists": [
-        {
-          "name": "Dougie MacLean",
-          "url": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
-        }
-      ],
-      "duration_ms": 299746,
-      "name": "Caledonia",
-      "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cragie Dhu",
+        "url": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
+      },
+      "artists": [
+        {
+          "name": "Dougie MacLean",
+          "url": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
+        }
+      ],
+      "duration_ms": 299746,
+      "name": "Caledonia",
+      "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Early Morning Coffee Cups",
         "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 199853,
       "name": "Early Morning Coffee Cups",
       "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cartoon People",
-        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 213539,
-      "name": "Cartoon People",
-      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cartoon People",
+        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 213539,
+      "name": "Cartoon People",
+      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/0GvYqatNTFDOB4qxoW27t2"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 292760,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/2wVrDSnhFnwy9SQLgP9Yiq"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
-      },
-      "artists": [
-        {
-          "name": "Rod Ladgrove",
-          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
-        }
-      ],
-      "duration_ms": 189912,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "With You - A Sweet Little Love Song Demo",
         "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 154573,
       "name": "With You - A Sweet Little Love Song Demo",
       "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
+      },
+      "artists": [
+        {
+          "name": "Rod Ladgrove",
+          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+        }
+      ],
+      "duration_ms": 189912,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "No One's Gonna Love You - Live from Spotify Sweden",
-      "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "No One's Gonna Love You - Live from Spotify Sweden",
+      "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "London City, Boy, It's Killing Me (The Town)",
-        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
-      },
-      "artists": [
-        {
-          "name": "Nick & June",
-          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "London City, Boy, It's Killing Me - The Town",
-      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/7HzU6LycytXTD4Hhd6euqn"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 214747,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/5s0tx3uxCUYaBgcmkyItn2"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "London City, Boy, It's Killing Me (The Town)",
+        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
+      },
+      "artists": [
+        {
+          "name": "Nick & June",
+          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "London City, Boy, It's Killing Me - The Town",
+      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "White Picket Fence",
+        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
+      },
+      "artists": [
+        {
+          "name": "Fiona Harte",
+          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
+        }
+      ],
+      "duration_ms": 245342,
+      "name": "White Picket Fence",
+      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Lampedusa (Acoustic Version)",
         "url": "https://open.spotify.com/album/2dpyKPNUrzHvdoz3XArHUf"
       },
@@ -2075,34 +2091,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "White Picket Fence",
-        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
+        "name": "Where We Belong - EP",
+        "url": "https://open.spotify.com/album/7bdk7rFPU8nwQ9mhhNMTfs"
       },
       "artists": [
         {
-          "name": "Fiona Harte",
-          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         }
       ],
-      "duration_ms": 245342,
-      "name": "White Picket Fence",
-      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+      "duration_ms": 187291,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/5HubAbRqLMYGp5vV7dPOy5"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Where We Belong - EP",
-        "url": "https://open.spotify.com/album/7bdk7rFPU8nwQ9mhhNMTfs"
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 187291,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/5HubAbRqLMYGp5vV7dPOy5"
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Albion",
-        "url": "https://open.spotify.com/album/06qVI0EPrbAVuJkk5h0epR"
-      },
-      "artists": [
-        {
-          "name": "Friede Merz",
-          "url": "https://open.spotify.com/artist/2wwFjcTcqWYd6l35ZSEZYQ"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Albion",
-      "url": "https://open.spotify.com/track/5hkb78xguoXfpbIPkiHlFb"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Keep The Times",
         "url": "https://open.spotify.com/album/0iMzWAkVMzrJ68cr10I0CL"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 236495,
       "name": "Roamer",
       "url": "https://open.spotify.com/track/3kX3E2ggU9LodxC0RYCR0w"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Albion",
+        "url": "https://open.spotify.com/album/06qVI0EPrbAVuJkk5h0epR"
+      },
+      "artists": [
+        {
+          "name": "Friede Merz",
+          "url": "https://open.spotify.com/artist/2wwFjcTcqWYd6l35ZSEZYQ"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Albion",
+      "url": "https://open.spotify.com/track/5hkb78xguoXfpbIPkiHlFb"
     },
     {
       "added_at": "2024-04-24 06:24:42",

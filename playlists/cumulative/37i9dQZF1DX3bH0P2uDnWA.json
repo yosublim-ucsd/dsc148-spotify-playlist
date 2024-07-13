@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 159843,
       "name": "Barbie Girl - Electro Swing Remix",
       "url": "https://open.spotify.com/track/6aXMkpLI4aYeYCK2j3knI4"
@@ -6048,6 +6048,24 @@
       "duration_ms": 158350,
       "name": "Summer Swing",
       "url": "https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg"
+    },
+    {
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7kptn65vyNf42rqKfTZJWL"
+      },
+      "artists": [
+        {
+          "name": "Intended Immigration",
+          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178615,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/758jr3lwM0Q6O9yPafMs8k"
     },
     {
       "album": {

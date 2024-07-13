@@ -2,9 +2,9 @@
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This Is P\-Lo\. Los temas esenciales, todos en una lista.
+> This is P\-Lo\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 26 min
+75 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,8 +63,9 @@
 | [SILK](https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty) | [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SILK](https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR) | 3:21 | 2024-01-29 | 2024-06-23 |
 | [Sneeze](https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:35 | 2024-01-29 |  |
 | [Stunna Anthem](https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 3:01 | 2024-01-29 |  |
+| [SWING IT \(feat\. Jay Anthony\)](https://open.spotify.com/track/66CNrz8P6P9CB6bJfA5sXp) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:19 | 2024-07-13 |  |
 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 | 2024-01-29 |  |
-| [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 | 2024-01-29 |  |
+| [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 | 2024-01-29 | 2024-07-13 |
 | [THUMB \(feat\. Nef The Pharaoh & ALLBLACK\)](https://open.spotify.com/track/5GZQYTcFNDkmtAmnCD8tn7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:56 | 2024-07-09 |  |
 | [TIP TOE](https://open.spotify.com/track/4KDJTUDQlHarTz5bbqg5My) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [TIP TOE](https://open.spotify.com/album/0ueP3SY22S6mvhNRcWt1qw) | 2:28 | 2024-06-30 |  |
 | [Too Big](https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SNOOP CUBE 40 $HORT](https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ) | 3:36 | 2024-01-29 |  |

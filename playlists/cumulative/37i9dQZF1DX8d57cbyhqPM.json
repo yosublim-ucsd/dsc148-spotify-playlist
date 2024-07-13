@@ -1493,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148657,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
+    },
+    {
+      "album": {
         "name": "Coeur",
         "url": "https://open.spotify.com/album/03EK6fSqFPAYOAjyHsKbcv"
       },
@@ -2042,6 +2064,28 @@
       "duration_ms": 225600,
       "name": "Do Me Like",
       "url": "https://open.spotify.com/track/4nQxcx1puImaEuSbglXFvt"
+    },
+    {
+      "album": {
+        "name": "Docteur",
+        "url": "https://open.spotify.com/album/162nDhwiOcYx3pfOhupgi3"
+      },
+      "artists": [
+        {
+          "name": "Samarino",
+          "url": "https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7"
+        },
+        {
+          "name": "Dj Mombochi",
+          "url": "https://open.spotify.com/artist/7fos6HOfczHgrlqQUGxGyT"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238926,
+      "name": "Docteur",
+      "url": "https://open.spotify.com/track/2r3XgBC5RTGwmbwpBgojZQ"
     },
     {
       "album": {
@@ -2803,7 +2847,7 @@
     },
     {
       "album": {
-        "name": "Garde ta position",
+        "name": "Garde Ta Position",
         "url": "https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8"
       },
       "artists": [
@@ -2816,7 +2860,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 133584,
-      "name": "Garde ta position",
+      "name": "Garde Ta Position",
       "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
     },
     {
@@ -2880,6 +2924,24 @@
       "duration_ms": 184120,
       "name": "Genkidama",
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
+    },
+    {
+      "album": {
+        "name": "Ghetto Youth",
+        "url": "https://open.spotify.com/album/4mCTUvIMOI3u7XSUrjbomm"
+      },
+      "artists": [
+        {
+          "name": "Cash Crime",
+          "url": "https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101182,
+      "name": "Ghetto Youth",
+      "url": "https://open.spotify.com/track/68Sv4hfeTd5adTfPIuA0lg"
     },
     {
       "album": {
@@ -3138,6 +3200,28 @@
       "duration_ms": 255845,
       "name": "INDIGO",
       "url": "https://open.spotify.com/track/5JlG5WJSZ0b1mHWtXyXYig"
+    },
+    {
+      "album": {
+        "name": "47\u00b0",
+        "url": "https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174945,
+      "name": "J'ach\u00e8te",
+      "url": "https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ"
     },
     {
       "album": {
@@ -4038,6 +4122,24 @@
       "duration_ms": 189473,
       "name": "Lipeka",
       "url": "https://open.spotify.com/track/5Q92Lz6MiwfmIIly1vs9ar"
+    },
+    {
+      "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/5MeWpAB3ROXkvIYnQ7rc1x"
+      },
+      "artists": [
+        {
+          "name": "DM Saninga",
+          "url": "https://open.spotify.com/artist/4MbqH0v14aKW20x1bmTYMZ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212218,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/57GuM2WRpj1WgUhBemLmNp"
     },
     {
       "album": {
@@ -6318,7 +6420,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 156500,
       "name": "Posa na bina",
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
@@ -7249,6 +7351,28 @@
     },
     {
       "album": {
+        "name": "Je T'avais Dit, Non?",
+        "url": "https://open.spotify.com/album/7gZpTGhY7OkBZNWKEs4Kxw"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Tout Donner",
+      "url": "https://open.spotify.com/track/1HSZMFQHI8fsoz6nhKwy4L"
+    },
+    {
+      "album": {
         "name": "Tout Ira Bien (Be Alright)",
         "url": "https://open.spotify.com/album/5ZGCTVAdgLgfr4FyLqj2Dd"
       },
@@ -8022,7 +8146,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 152282,
       "name": "\u00c7a va",
       "url": "https://open.spotify.com/track/4FaBtmiYmRz9iyaI4IgGv5"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
+  "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
   "name": "Rock Urbano",
   "tracks": [
     {
@@ -434,7 +434,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 266160,
       "name": "Cuando t\u00fa no est\u00e1s",
       "url": "https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n"
@@ -2156,6 +2156,24 @@
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Ser Tu Celular",
+        "url": "https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214048,
+      "name": "Somos H\u00e9roes",
+      "url": "https://open.spotify.com/track/5cRwxk8vnQrINUbCnga9B3"
     },
     {
       "album": {

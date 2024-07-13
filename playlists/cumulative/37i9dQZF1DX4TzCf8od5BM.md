@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
 
-208 songs - 5 hr 22 min
+209 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Learn to Sound Out Words](https://open.spotify.com/track/2GdNTf6hDnVWWGHLPud87M) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 7](https://open.spotify.com/album/79VpYGoIAuFGH4UlxcE9fw) | 1:29 | 2022-03-18 |  |
 | [Let Love Overrule](https://open.spotify.com/track/2OWOuNfkVa0q39cK01WcM4) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 | 2022-03-18 | 2023-08-09 |
 | [Let's Explore Space!](https://open.spotify.com/track/5kSNgcL9H7rlZE6PXApxIm) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I), [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:28 | 2022-03-18 |  |
+| [Let's Play](https://open.spotify.com/track/4Ohi0kHSLouZNmqyp4ajtw) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Let's Play](https://open.spotify.com/album/2vijAF119YGvdaJpxHu5An) | 2:36 | 2024-07-12 |  |
 | [Life in the Pride Lands](https://open.spotify.com/track/0naLDQTAkKocazxCHTjNf3) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 1:38 | 2022-03-18 |  |
 | [Listening Ears](https://open.spotify.com/track/58j2ntc4hoiNcm9HhsEzMX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 4](https://open.spotify.com/album/2TkZI64E1Lzw2fqZeOdrWB) | 1:26 | 2022-03-18 |  |
 | [Livin' the Scream \- From "Vampirina"](https://open.spotify.com/track/3pSi8RqsTOao8a1iL4CirM) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 1:40 | 2022-03-18 |  |

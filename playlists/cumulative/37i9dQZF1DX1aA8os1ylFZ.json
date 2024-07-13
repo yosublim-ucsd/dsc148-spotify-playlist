@@ -5781,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "Between Spaces",
+        "url": "https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123557,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O"
+    },
+    {
+      "album": {
         "name": "NASTY",
         "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
       },
@@ -8558,7 +8576,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 147790,
       "name": "Today",
       "url": "https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D"

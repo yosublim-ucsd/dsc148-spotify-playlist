@@ -666,10 +666,32 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 221240,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0aCYLOpEoSmdEBoKrNCuVd"
+    },
+    {
+      "album": {
+        "name": "Girl Problems",
+        "url": "https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq"
+      },
+      "artists": [
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/40EouT4GbFzSTyxs447pBv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
+  "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
   "name": "Tantra",
   "tracks": [
     {
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 246027,
       "name": "Ay",
       "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
@@ -6968,7 +6968,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 220013,
       "name": "Legion",
       "url": "https://open.spotify.com/track/3zWiwM4jf8Mqzv6a5TklJ7"
@@ -8124,7 +8124,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 221784,
       "name": "Medieval - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1"
@@ -8762,6 +8762,28 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u"
     },
     {
       "album": {
@@ -10279,6 +10301,32 @@
     },
     {
       "album": {
+        "name": "Perreo",
+        "url": "https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4"
+      },
+      "artists": [
+        {
+          "name": "Quentro",
+          "url": "https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup"
+        },
+        {
+          "name": "Kuntay Cevizci",
+          "url": "https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Perreo",
+      "url": "https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ"
+    },
+    {
+      "album": {
         "name": "Peru (Peace Control Remix)",
         "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
       },
@@ -11466,7 +11514,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 185365,
       "name": "Scilla E Cariddi - TR3NACRIA Remix",
       "url": "https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L"
@@ -13955,6 +14003,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
+      },
+      "artists": [
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298125,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
+    },
+    {
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/6qqH0iIEkz9tsrjjuyESDT"
       },
@@ -14132,7 +14198,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 200655,
       "name": "Wala",
       "url": "https://open.spotify.com/track/0GJv9BBqz7MqQCFv8FdO64"
@@ -14383,6 +14449,32 @@
     },
     {
       "album": {
+        "name": "Where's The Music Gone",
+        "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        },
+        {
+          "name": "Paul Rogers",
+          "url": "https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228496,
+      "name": "Where's The Music Gone",
+      "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
+    },
+    {
+      "album": {
         "name": "Whistleman EP",
         "url": "https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70"
       },
@@ -14420,6 +14512,32 @@
       "duration_ms": 231989,
       "name": "Who Loves The Sun - (Everyone\u2019s Mix)",
       "url": "https://open.spotify.com/track/2app5d9EcNuXOyYV6s25mg"
+    },
+    {
+      "album": {
+        "name": "Who's That Girl (JL & Afterman Mix)",
+        "url": "https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7"
+      },
+      "artists": [
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Afterman",
+          "url": "https://open.spotify.com/artist/7bU8y1gp9Kz9zpoMCVENvD"
+        },
+        {
+          "name": "Jl & Afterman",
+          "url": "https://open.spotify.com/artist/4KvIoQiPcOkNMzHfBGO5Oa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320624,
+      "name": "Who's That Girl - JL & Afterman Mix",
+      "url": "https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs"
     },
     {
       "album": {

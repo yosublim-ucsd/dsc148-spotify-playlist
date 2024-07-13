@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,839 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,918 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 |
 | 2 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
-| 3 | [All I Ever Wonder](https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [All I Ever Wonder](https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD) | 3:36 |
-| 4 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
-| 5 | [Take Me There](https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Pasadena](https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l) | 4:45 |
-| 6 | [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 |
-| 7 | [See Me Cry](https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [See Me Cry](https://open.spotify.com/album/2CC09WRdIOsoPU0S3vCBxL) | 5:12 |
-| 8 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
-| 9 | [Strawberry Hill](https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Human Decency](https://open.spotify.com/album/7wASaUQhuevPwNzNICAvGG) | 4:06 |
-| 10 | [Baptist](https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Flawed by Design](https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT) | 5:02 |
-| 11 | [What More Can I Do](https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [What More Can I Do](https://open.spotify.com/album/4d0s8nBxKeOgJPTDylVz2j) | 2:17 |
-| 12 | [Fill My Cup](https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Fill My Cup](https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ) | 3:48 |
+| 3 | [Sharpen Your Shovel](https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/6C8U1GaZoEocQR4CqvW9SK) | 2:58 |
+| 4 | [All I Ever Wonder](https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [All I Ever Wonder](https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD) | 3:36 |
+| 5 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
+| 6 | [Take Me There](https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Pasadena](https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l) | 4:45 |
+| 7 | [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 |
+| 8 | [See Me Cry](https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [See Me Cry](https://open.spotify.com/album/2CC09WRdIOsoPU0S3vCBxL) | 5:12 |
+| 9 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
+| 10 | [Strawberry Hill](https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Human Decency](https://open.spotify.com/album/7wASaUQhuevPwNzNICAvGG) | 4:06 |
+| 11 | [Baptist](https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Flawed by Design](https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT) | 5:02 |
+| 12 | [What More Can I Do](https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [What More Can I Do](https://open.spotify.com/album/4d0s8nBxKeOgJPTDylVz2j) | 2:17 |
 | 13 | [Forever Young](https://open.spotify.com/track/0Ya0RaQ2OOpwNR3oTxAuBt) | [Brian Owens](https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Dylan McDonald](https://open.spotify.com/artist/6N45Hme7I09LsLQSf62Fzf), [Thomas Owens](https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F) | [Forever Young](https://open.spotify.com/album/0n7OYKGvADJxCOHeos5MlR) | 4:52 |
 | 14 | [Somebody Please](https://open.spotify.com/track/7rMjPAJAibm5Ks6CxhewCd) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Somebody Please](https://open.spotify.com/album/1oWbGMwVqGsTIW0xk5gIRq) | 3:10 |
 | 15 | [Be My Own Man](https://open.spotify.com/track/5wOthUe5Zx1FdIB9GSFvBd) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Be My Own Man](https://open.spotify.com/album/1Eboy7GftOfgKfFofBdW6O) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 | 100 | [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 |
 
-Snapshot ID: `ZoVp/QAAAAA06TJHNEWvHqgQU6c8inX7`
+Snapshot ID: `ZpCqQAAAAAB9N5+jH0mrXBD4ImgJYoe3`

@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 165201,
       "name": "All That's Left Is A Song",
       "url": "https://open.spotify.com/track/5TDRgPEY4sMWQsMuR6Yj6K"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 353773,
       "name": "Answer Me",
       "url": "https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 188862,
       "name": "Dextereous",
       "url": "https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 260540,
       "name": "I Saw The Sun",
       "url": "https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1"
@@ -4446,7 +4446,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 170784,
       "name": "Jazz Odyssey",
       "url": "https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT"
@@ -4698,7 +4698,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 163677,
       "name": "Land Between the Lakes",
       "url": "https://open.spotify.com/track/6lFwLd1nlzrdVIAlB5goJo"
@@ -5044,6 +5044,24 @@
       "duration_ms": 270123,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/7g7Vv0WnwNwOFnrdHVVepW"
+    },
+    {
+      "album": {
+        "name": "Live Apart",
+        "url": "https://open.spotify.com/album/1U82CHlzsOh8YPoW4eEH26"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135569,
+      "name": "Live Apart",
+      "url": "https://open.spotify.com/track/69ijCnLmC5LIefYwgjGRj8"
     },
     {
       "album": {
@@ -7396,7 +7414,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 200823,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n"
@@ -7594,7 +7612,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 217971,
       "name": "She's A Class Act",
       "url": "https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis"
@@ -8082,7 +8100,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 218974,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/1Iup2scUgNLhmq4q7rLG6l"
@@ -8287,6 +8305,24 @@
     },
     {
       "album": {
+        "name": "Spring is Here",
+        "url": "https://open.spotify.com/album/61XyR36yXeJeLEws0h6cBc"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201625,
+      "name": "Spring is Here",
+      "url": "https://open.spotify.com/track/691OLPPJwrHLCPsvryQpOh"
+    },
+    {
+      "album": {
         "name": "Spring Is Here",
         "url": "https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV"
       },
@@ -8460,7 +8496,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 214569,
       "name": "Strawberry Snow Cones For Two",
       "url": "https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD"
@@ -8712,7 +8748,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 331267,
       "name": "The Bar Next Door",
       "url": "https://open.spotify.com/track/61b4hjXWxJs9jCYMIntPpX"
@@ -10393,6 +10429,24 @@
     },
     {
       "album": {
+        "name": "Whispers In Velvet",
+        "url": "https://open.spotify.com/album/5lYQQpMUEwIDu3BN2jcZad"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173443,
+      "name": "Whispers In Velvet",
+      "url": "https://open.spotify.com/track/3N4u1pOBRedwtXjTob7Pku"
+    },
+    {
+      "album": {
         "name": "Whispers of the Forest",
         "url": "https://open.spotify.com/album/6j4y9U6qH8AiJPOudBRWLR"
       },
@@ -10422,7 +10476,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-13",
       "duration_ms": 219615,
       "name": "Who Can Tell",
       "url": "https://open.spotify.com/track/6GpJYnZJXbi8BRZgUxa5Pt"

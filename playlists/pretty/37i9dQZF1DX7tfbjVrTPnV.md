@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,583 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,653 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 36 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 |
 | 37 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 |
 | 38 | [The Way It Goes](https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 4:01 |
-| 39 | [My Favorite Picture Of You](https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [My Favorite Picture Of You](https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo) | 3:32 |
-| 40 | [Iowa \(Traveling, Pt\. 3\)](https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG) | 4:47 |
+| 39 | [Iowa \(Traveling, Pt\. 3\)](https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG) | 4:47 |
+| 40 | [My Favorite Picture Of You](https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [My Favorite Picture Of You](https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo) | 3:32 |
 | 41 | [Who You Thought I Was](https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 3:09 |
 | 42 | [Can't Let Go](https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 3:28 |
 | 43 | [Copper Canteen](https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Complicated Game](https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly) | 4:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 45 | [Johnson Blvd](https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mountains Of Sorrow, Rivers Of Song \(Deluxe\)](https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx) | 4:15 |
 | 46 | [A Feather's Not A Bird](https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread](https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys) | 3:18 |
 | 47 | [Things That I Lean On](https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 3:40 |
-| 48 | [Shine a Different Way](https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Servant of Love](https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e) | 5:17 |
-| 49 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 |
+| 48 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 |
+| 49 | [Shine a Different Way](https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Servant of Love](https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e) | 5:17 |
 | 50 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 |
 | 51 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:49 |
 | 52 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [Southern Family](https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi) | 6:13 |

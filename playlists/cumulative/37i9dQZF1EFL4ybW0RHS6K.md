@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-78 songs - 3 hr 38 min
+79 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Even Dansen](https://open.spotify.com/track/0UL7sqcqwf0YxIlant21G3) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Defano Holwijn](https://open.spotify.com/artist/5pGeI9pmfUEoHGn9w3NjqM) | [Chase](https://open.spotify.com/album/3IB6wQmGa8n1AzZMJ7LECv) | 3:13 | 2024-01-29 |  |
 | [Eén Foto](https://open.spotify.com/track/0rUSDftSf4fodYCFBTReQM) | [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Nieuwe Kunst](https://open.spotify.com/album/52va1rCOlsCToUUuLOdWb5) | 2:14 | 2024-01-29 |  |
 | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/track/5VsPGOcT3E1SE13DzmEuVa) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Whiteboy](https://open.spotify.com/artist/4SePiClNpVeSglyNsTvmAD), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/album/6I4uvK9tXIaSpWCEqKBhhO) | 3:47 | 2024-01-29 |  |
+| [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-12 |  |
 | [Gone](https://open.spotify.com/track/4SD9rX9fCnWiSrV0e8z2Jt) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1) | [Gone](https://open.spotify.com/album/07x7ouNUiAFvUPiAxvsoTA) | 2:43 | 2024-01-29 |  |
 | [Grote Beurt](https://open.spotify.com/track/22IsWgcSkQahpBsAAqAV6r) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Grote Beurt](https://open.spotify.com/album/0g9It2xph0256veS65oe8H) | 2:22 | 2024-01-29 |  |
 | [Gwoaning](https://open.spotify.com/track/6iE8AzhOvnQ5zhdvXUHRs2) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gwoaning](https://open.spotify.com/album/1o9Izzo7LSJZKbKYb7vOAJ) | 1:57 | 2024-01-29 |  |

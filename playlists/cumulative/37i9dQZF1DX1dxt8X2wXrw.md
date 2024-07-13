@@ -2,7 +2,7 @@
 
 ### [crush](https://open.spotify.com/playlist/37i9dQZF1DX1dxt8X2wXrw)
 
-> catch a  vibe 🌹
+> catch a vibe 🌹
 
 75 songs - 4 hr 9 min
 
