@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Lou Phelps
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,087 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,098 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 34 | [Call Up](https://open.spotify.com/track/7iC5Gt9OkhwLfXgOiFftAl) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu), [Monté](https://open.spotify.com/artist/27T8rDsJFITeo6NpVElIQJ), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Call Up](https://open.spotify.com/album/5zhyaW2p7hyMZc94QojSVU) | 3:56 |
 | 35 | [Talk My Shit](https://open.spotify.com/track/4KRxwVcCvgybdQvoRC1VO2) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Talk My Shit](https://open.spotify.com/album/6oQIu057GL27SpPjVzwaxu) | 2:45 |
 | 36 | [The Eternal Now](https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7) | 3:25 |
-| 37 | [3 Words](https://open.spotify.com/track/16TccLFGxzvyK8KAA6Oupx) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Adam Bomb](https://open.spotify.com/artist/650e8jHbjj1ZXEFrT14KcD) | [3 Words](https://open.spotify.com/album/4xteeki2Iz7KCLH9i1Tctr) | 3:46 |
+| 37 | [3 Words](https://open.spotify.com/track/16TccLFGxzvyK8KAA6Oupx) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [The Legend Adam Bomb](https://open.spotify.com/artist/68JHSowx4ruM9EOTnaKjei) | [3 Words](https://open.spotify.com/album/4xteeki2Iz7KCLH9i1Tctr) | 3:46 |
 | 38 | [Tightrope](https://open.spotify.com/track/2YxMNoRWXaMa7dPkZmkrh2) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK) | [Tightrope](https://open.spotify.com/album/7aLA32eOd8SiwQ3U256Qkr) | 3:35 |
 | 39 | [DWTD](https://open.spotify.com/track/55Nt8AUYziz5UqJn2LHXJW) | [Coach](https://open.spotify.com/artist/7uLSgJTZ8P4jR0WhAVf5O3), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [DWTD](https://open.spotify.com/album/0LYGTHXSxyQ9evgM3mkAqb) | 2:34 |
 | 40 | [THE FUNCTION \(feat\. WESTSIDE BOOGIE\)](https://open.spotify.com/track/7o1xrPEcz0HCAdPvzKos0d) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [THE FUNCTION \(feat\. WESTSIDE BOOGIE\)](https://open.spotify.com/album/1ctqV6jphrC0PBvG6DveL0) | 2:38 |

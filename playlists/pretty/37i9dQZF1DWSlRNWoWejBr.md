@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > mae q q vc escutava qndo era mais nova? .
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,495 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,780 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 20 | [CAFÉ DA MANHÃ](https://open.spotify.com/track/1R85eEfjDiNYD2M04uqpik) | [DJ Martins 011](https://open.spotify.com/artist/67jo9baxf5no2c3MCgw1aq), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP) | [CAFÉ DA MANHÃ](https://open.spotify.com/album/0z7zlM25RbfIxTrBcLmNB5) | 2:26 |
 | 21 | [Liga Pros Tralha](https://open.spotify.com/track/7aWxNKi3sycttLY7wR6Smp) | [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Liga Pros Tralha](https://open.spotify.com/album/0YRtTfeCv5x6wfCtyRNi11) | 2:56 |
 | 22 | [MTG Xote das Meninas](https://open.spotify.com/track/1CAVKFwmyMZuSPwBWSKb6A) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [MTG Xote das Meninas](https://open.spotify.com/album/2CrXn0F662BovtysexmHcn) | 2:14 |
-| 23 | [Mtg Toca Aquela 24 por 48](https://open.spotify.com/track/7B6z78yDDaj96EE9G5JW0W) | [DJ 4F](https://open.spotify.com/artist/4vulVeP4vQ0VxG81QCCiSQ) | [Mtg Toca Aquela 24 por 48](https://open.spotify.com/album/0Uimy4Ev8lRxZ7qeGQ8PkO) | 2:03 |
+| 23 | [Mtg Toca Aquela 24 por 48](https://open.spotify.com/track/7B6z78yDDaj96EE9G5JW0W) | [DJ 4F](https://open.spotify.com/artist/4vulVeP4vQ0VxG81QCCiSQ), [mc kezin](https://open.spotify.com/artist/7njFlY0PtkDVBLBz77RrnC), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [DJ Gonzaga](https://open.spotify.com/artist/76JquyReIY1aDo76rzgkWR) | [Mtg Toca Aquela 24 por 48](https://open.spotify.com/album/0Uimy4Ev8lRxZ7qeGQ8PkO) | 2:03 |
 | 24 | [Bonde das Oncinhas](https://open.spotify.com/track/3UceMFR2MPAC4sCGfmCspe) | [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE), [DJ RD DA DZ7](https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj), [DJ KLP OFC](https://open.spotify.com/artist/7klY8pRrv9CWCdMqu534yC), [Mc Vuk Vuk](https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx) | [Bonde das Oncinhas](https://open.spotify.com/album/4VjMuQ9SnC2KC5oPsHHCse) | 2:14 |
 | 25 | [Mtg Forró e Desmantelo](https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV) | [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Mtg Forró e Desmantelo](https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc) | 2:29 |
 | 26 | [Deixa Eu Botar](https://open.spotify.com/track/7bBD12XmRKP577rmXmcyho) | [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz), [dj andreoli](https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Deixa Eu Botar](https://open.spotify.com/album/6qrfUroN8CeYDn87ORpFcc) | 1:44 |

@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-417 songs - 1 day 2 hr 10 min
+418 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Confrontations](https://open.spotify.com/track/0p1ijCxJxAmEUm9OfTM4mX) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Confrontations](https://open.spotify.com/album/2Q9h5oFtFuMJhWydJSbfW2) | 5:19 | 2022-01-14 | 2022-07-20 |
 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 | 2022-01-14 | 2022-06-19 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-03 | 2024-05-18 |
-| [Dancing Down The Path](https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ) | [The Coney Island Rhythm Band](https://open.spotify.com/artist/5kml8KV4qmcGVDF4Co2tAi), [Jerk Boy](https://open.spotify.com/artist/4w5bgvbaOepmRv2CQ0x1iA) | [Dancing Down The Path](https://open.spotify.com/album/35wPcnLcQuxqDIV0VlfELS) | 6:21 | 2024-02-23 |  |
+| [Dancing Down The Path](https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ) | [The Coney Island Rhythm Band](https://open.spotify.com/artist/5kml8KV4qmcGVDF4Co2tAi), [Jerk Boy](https://open.spotify.com/artist/4w5bgvbaOepmRv2CQ0x1iA) | [Dancing Down The Path](https://open.spotify.com/album/35wPcnLcQuxqDIV0VlfELS) | 6:21 | 2024-02-23 | 2024-07-14 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-06-09 |  |
 | [Dare Myself](https://open.spotify.com/track/5dshM1MWptTNO28moXy3OL) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Amy Douglas](https://open.spotify.com/artist/6lm52aALA9NKQv1ChQmSBr) | [Dare Myself](https://open.spotify.com/album/7r3ElS2Mx1qcnqAkSRb0Tc) | 3:19 | 2024-05-17 | 2024-06-01 |
 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 | 2024-01-12 | 2024-05-03 |
@@ -169,6 +169,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-01-12 | 2024-06-22 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 |  |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2022-01-14 | 2024-07-13 |
+| [I DON'T MIND](https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [I DON'T MIND](https://open.spotify.com/album/2chmCC4pZhBaPwsev516jz) | 2:58 | 2024-07-05 |  |
 | [I Don't Need a Reason To](https://open.spotify.com/track/37t1rRJG7BrNbuMRg2bAeM) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [I Don't Need a Reason To](https://open.spotify.com/album/0hHVDDxmL6AuHqmfqFaEn0) | 3:59 | 2024-07-05 |  |
 | [I LUV U \(Sunny\)](https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [BLENDER](https://open.spotify.com/artist/6IwTZTN2WX3s6jmbSHoBNS), [Ragdoll](https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl) | [I LUV U \(Sunny\)](https://open.spotify.com/album/3TT7K751J6hjcElJckpc9J) | 2:44 | 2024-05-24 |  |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2022-01-14 |  |

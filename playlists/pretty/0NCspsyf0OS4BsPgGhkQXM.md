@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,020,260 likes - 150 songs - 7 hr 32 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,020,381 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 38 | [DNA](https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [DNA](https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY) | 1:28 |
 | 39 | [Sexy Back](https://open.spotify.com/track/7fqNZnJ5s8TVEPnESyvegl) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sexy Back](https://open.spotify.com/album/7wKZ6MbC1akIUv08gEm57Q) | 2:18 |
 | 40 | [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/track/7qqZLIcRL8BTXh12vOBgYQ) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/album/3IZA0CxZOrAHBVfJmZFnFo) | 5:58 |
-| 41 | [After Dark](https://open.spotify.com/track/3PeeEUukuSrEBUkpsr0dSk) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [After Dark](https://open.spotify.com/album/7kAwn79OktPUYnKVZekIPD) | 3:55 |
-| 42 | [Just A Mirage](https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [ILLUSIO](https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp) | [Just A Mirage](https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr) | 4:48 |
-| 43 | [PLUS VIBE](https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [PLUS VIBE](https://open.spotify.com/album/514moM4LlO4shbYdRXNRrl) | 1:42 |
-| 44 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
-| 45 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
+| 41 | [Whine in Brazil](https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [Whine in Brazil](https://open.spotify.com/album/7AMtOQ4omSoq5q74aZPxdS) | 1:40 |
+| 42 | [After Dark](https://open.spotify.com/track/3PeeEUukuSrEBUkpsr0dSk) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [After Dark](https://open.spotify.com/album/7kAwn79OktPUYnKVZekIPD) | 3:55 |
+| 43 | [Just A Mirage](https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [ILLUSIO](https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp) | [Just A Mirage](https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr) | 4:48 |
+| 44 | [PLUS VIBE](https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [PLUS VIBE](https://open.spotify.com/album/514moM4LlO4shbYdRXNRrl) | 1:42 |
+| 45 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
 | 46 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
 | 47 | [Annihilation](https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n) | [Annihilation](https://open.spotify.com/album/07GNUhyyXfJFfDhhD2vcL5) | 3:08 |
 | 48 | [Poker Face](https://open.spotify.com/track/7tQPXgC9h5m7XyzSpRCYkD) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Poker Face](https://open.spotify.com/album/3S0E6XgBZZEHwtMK4Gq7vO) | 2:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 149 | [Lets Go Crazy](https://open.spotify.com/track/2obmNTgEVv9V26rz3yu9ia) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [Lets Go Crazy](https://open.spotify.com/album/1b6Rmgv2JpHTNAwFudVtWB) | 1:43 |
 | 150 | [Embers](https://open.spotify.com/track/67lyxsvzzzHKSKfh0rSSMo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 3:33 |
 
-Snapshot ID: `AAA5bIlw1HRARIfanpZosp82YzTZE/bC`
+Snapshot ID: `AAA5b7mD3BnZJOVxBskEALAoUFMpmxvw`

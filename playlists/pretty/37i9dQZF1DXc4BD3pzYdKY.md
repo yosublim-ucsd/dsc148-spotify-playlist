@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:78DvQP3rczGqfgEiLfFnCD">Torey D'Shaun</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,090 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,162 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 4 | [SHIESTY](https://open.spotify.com/track/6YeFC0Ei50v9IXAOXKTPuu) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [SHIESTY](https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv) | 2:30 |
 | 5 | [Dirty laundry](https://open.spotify.com/track/5dWPoXqF06jY1QrycchWCd) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Dirty laundry](https://open.spotify.com/album/4rOOFnTXV9OA83yPPVLxqs) | 2:30 |
 | 6 | [For The Culture](https://open.spotify.com/track/2A79tZ3PSZCLyhdlQNkvnE) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [For The Culture](https://open.spotify.com/album/333VjYbRgxWvRDwexNOlfT) | 2:55 |
-| 7 | [Love Never Fails](https://open.spotify.com/track/25gkv8mqBDL5yRMm49Tj46) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Melodic B](https://open.spotify.com/artist/3cqKDmXmxRtgdmRlH7wery) | [Love Never Fails](https://open.spotify.com/album/5nvm4mHWKAwFuubIm4nusU) | 2:11 |
+| 7 | [Love Never Fails](https://open.spotify.com/track/25gkv8mqBDL5yRMm49Tj46) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Melodicb](https://open.spotify.com/artist/13B7Yh5BjSEwNj40HapGcM) | [Love Never Fails](https://open.spotify.com/album/5nvm4mHWKAwFuubIm4nusU) | 2:11 |
 | 8 | [CERTIFIED](https://open.spotify.com/track/5QryHzfnnT9eIzHac8gUHm) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [SIDE B: LULLABIES](https://open.spotify.com/album/6Y6ZqPCCkfbH5lNK7bZjnB) | 3:26 |
 | 9 | [The One](https://open.spotify.com/track/1GBlabEpgiuypZd1zC9mOp) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [The One](https://open.spotify.com/album/6mE09Y1Bb70nt4P3q6hYC9) | 2:46 |
 | 10 | [God's Hands On Me](https://open.spotify.com/track/4drgNbGrdSy1HoPgDBfxSd) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [God's Hands On Me](https://open.spotify.com/album/4iDBoQ3T18y4Ovr8DKehoO) | 2:56 |

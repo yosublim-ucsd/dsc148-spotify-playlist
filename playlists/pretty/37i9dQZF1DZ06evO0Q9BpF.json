@@ -1,12 +1,12 @@
 {
   "description": "This Is Generaci\u00f3n 12. Los temas esenciales, todos en una lista.",
-  "num_followers": 40935,
+  "num_followers": 40958,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo8ggAAAAADzltltbNUJAVxM3YcTc/H8",
+  "snapshot_id": "ZpByAAAAAAByBJ/rX/oiOINv0R3BD8ju",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Somos M\u00e1s Fuertes",
-        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 256305,
-      "name": "Unidos Somos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como En El Cielo (feat. Marcos Brunet)",
         "url": "https://open.spotify.com/album/4u09zmFvxmof6OfmgZNQkn"
       },
@@ -251,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios Conmigo Est\u00e1s",
-        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
+        "name": "Unidos Somos M\u00e1s Fuertes",
+        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 352500,
-      "name": "Dios Conmigo Est\u00e1s",
-      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
+      "duration_ms": 256305,
+      "name": "Unidos Somos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
       "duration_ms": 433084,
       "name": "Baut\u00edzame (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/0IA4UvCV1k0ODw3lrrPvHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dios Conmigo Est\u00e1s",
+        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Dios Conmigo Est\u00e1s",
+      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
     },
     {
       "added_at": null,
@@ -586,11 +586,15 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 260221,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu"
+      "duration_ms": 469537,
+      "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
+      "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
     },
     {
       "added_at": null,
@@ -619,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 272857,
-      "name": "Yo Te Seguir\u00e9",
-      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
@@ -655,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 272857,
+      "name": "Yo Te Seguir\u00e9",
+      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
@@ -662,15 +666,11 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 469537,
-      "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
-      "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
+      "duration_ms": 260221,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 411440,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 616226,
       "name": "\u00c9l Me Am\u00f3 Primero",
       "url": "https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411440,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 349186,
-      "name": "Encuentro Glorioso",
-      "url": "https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esto Es un Avivamiento",
         "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 345973,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 349186,
+      "name": "Encuentro Glorioso",
+      "url": "https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V"
     },
     {
       "added_at": null,

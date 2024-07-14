@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
+  "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
   "name": "This Is Chalino Sanchez",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 219997,
       "name": "Coquio Castro",
       "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"

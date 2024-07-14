@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 血肉果汁機 \(Fresh Juicer\)
 
-232 songs - 13 hr 22 min
+234 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [去你的科技執法](https://open.spotify.com/track/1GN9dXtX0Sq5w2OhEKoR4M) | [Jumbo 江柏翰](https://open.spotify.com/artist/1M56cc6rUn4p1mzHdkJMEp) | [去你的科技執法](https://open.spotify.com/album/0qeBT1CToMxDa57SL88qfN) | 2:58 | 2024-06-27 | 2024-07-12 |
 | [去北極忘記你](https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [去北極忘記你](https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK) | 4:11 | 2024-06-27 | 2024-07-12 |
 | [反正我願意](https://open.spotify.com/track/5OsUCYVz6vPZ5u50XgAyhe) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX), [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [反正我願意](https://open.spotify.com/album/6brp086LRoC8nGX6fyHHnK) | 2:44 | 2024-06-27 | 2024-07-05 |
+| [发疯](https://open.spotify.com/track/1TvdRjXqQw0PgfIMoZ9l8B) | [Ty.](https://open.spotify.com/artist/2GFsWXpTIn6G1kRjW3RAQX), [KKECHO](https://open.spotify.com/artist/6yhdWGnuqiOcdb5Twh4z6U) | [发疯](https://open.spotify.com/album/7ItWGX3ibN3Y6am5Xtc4aB) | 2:30 | 2024-07-11 |  |
 | [台南400](https://open.spotify.com/track/47JHQpCfBo1T1XiNYLKqjE) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA) | [台南400](https://open.spotify.com/album/0GMJtIbI2lv3xvTPy1DQAf) | 2:47 | 2024-06-27 | 2024-07-12 |
 | [向前向前（電視劇《向前一步》勵志曲）](https://open.spotify.com/track/5SjVwZIGGYodQ2sQEuCOP6) | [邓佳坤](https://open.spotify.com/artist/764x7A12TQnsgH3bwA2SZT) | [《向前一步》影視劇原聲帶](https://open.spotify.com/album/2dGVueSTMiqgMnvDM1jZP5) | 3:43 | 2024-07-11 |  |
 | [周處長除三害](https://open.spotify.com/track/3ucR4eVFddAjoJxr68du38) | [Jonsom Lee](https://open.spotify.com/artist/7D922kvb7JKuCWJNrmo72i) | [周處長除三害](https://open.spotify.com/album/6flcTPZXmOd0wvrIC29kDr) | 2:49 | 2024-07-04 | 2024-07-12 |
@@ -221,6 +222,7 @@
 | [訂閱冥想 \- Live Session](https://open.spotify.com/track/4xQqbDjI2eDtvxw8jJUm0F) | [Echo](https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy) | [訂閱冥想 \(Live Session\)](https://open.spotify.com/album/7gi9kTbyN9fyMHly1SHBY9) | 4:45 | 2024-07-04 |  |
 | [記號](https://open.spotify.com/track/4pFIB3ZYK9nkAJi0NktgC6) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [記號](https://open.spotify.com/album/7DxfklhKiZzRJGKA2qzno9) | 2:44 | 2024-06-27 | 2024-07-05 |
 | [語畢，請再一遍](https://open.spotify.com/track/3630b4gewzNGNuw0HcmLdv) | [BabyGrape格蕾普](https://open.spotify.com/artist/3OAaEtoIFea0Ecmdczb9t3), [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [雙重溫柔](https://open.spotify.com/album/1Ml9lk0jpkwPHBaJ8i2kZy) | 3:02 | 2024-06-27 | 2024-07-05 |
+| [诚实 \(Honesty）](https://open.spotify.com/track/32SUbqjAiA2t1vrNdAjVsX) | [Neo Red](https://open.spotify.com/artist/6vMvynbpxylVPF9ZitcNsz) | [诚实 \(Honesty）](https://open.spotify.com/album/4XKpbyZh2ibDIlsoslzWj1) | 2:22 | 2024-07-11 |  |
 | [負極先生](https://open.spotify.com/track/5JL15K0RdDfTusp5pwuJty) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [負極先生](https://open.spotify.com/album/4lvK8Ry3lQuQviMGwS9LPi) | 4:05 | 2024-07-04 |  |
 | [財神](https://open.spotify.com/track/4A12dAYwYK9FkXZ0rf2NwO) | [呆寶靜](https://open.spotify.com/artist/49YEt5IeimTLeIXaMKnCJO), [徐真真](https://open.spotify.com/artist/64ywHynl1UIFcpwJP0f1yF) | [財神](https://open.spotify.com/album/361HPNqNC1jFpBs89xOKmg) | 2:21 | 2024-06-27 | 2024-07-12 |
 | [贝壳](https://open.spotify.com/track/1lu1eZgQCVSQTXvSLAcrAa) | [謝春花](https://open.spotify.com/artist/0gYt4XG9A0hyZW7rt745ZY) | [贝壳](https://open.spotify.com/album/30GE7zjiN79Os0lnuVgyAU) | 3:42 | 2024-06-27 | 2024-07-12 |

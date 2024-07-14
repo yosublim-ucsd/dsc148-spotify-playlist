@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 133335,
+  "num_followers": 133383,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Delight (Live)",
-        "url": "https://open.spotify.com/album/48xxySi0XEuNzVJlWym9F4"
+        "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
+        "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj"
+        },
+        {
+          "name": "Lloyd Nicks",
+          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
         }
       ],
-      "duration_ms": 254489,
-      "name": "Delight - Live",
-      "url": "https://open.spotify.com/track/0WK6J7a3CMql3y82IYQdba"
+      "duration_ms": 225946,
+      "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
+      "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -339,26 +347,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
-        "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
+        "name": "Delight (Live)",
+        "url": "https://open.spotify.com/album/48xxySi0XEuNzVJlWym9F4"
       },
       "artists": [
         {
-          "name": "BRIGHT",
-          "url": "https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj"
-        },
-        {
-          "name": "Lloyd Nicks",
-          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
-        },
-        {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 225946,
-      "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
-      "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
+      "duration_ms": 254489,
+      "name": "Delight - Live",
+      "url": "https://open.spotify.com/track/0WK6J7a3CMql3y82IYQdba"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Till the Earth",
+        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
+      },
+      "artists": [
+        {
+          "name": "Southview Worship",
+          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
+        },
+        {
+          "name": "B. Cooper",
+          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
+        }
+      ],
+      "duration_ms": 208411,
+      "name": "Till the Earth",
+      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Battle Belongs (Reyer & Retain Remix)",
         "url": "https://open.spotify.com/album/0iszENrvkQKnEeap9o0RSK"
       },
@@ -723,42 +743,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Till the Earth",
-        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
-      },
-      "artists": [
-        {
-          "name": "Southview Worship",
-          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
-        },
-        {
-          "name": "B. Cooper",
-          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
-        }
-      ],
-      "duration_ms": 208411,
-      "name": "Till the Earth",
-      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Out With The Old (Live)",
         "url": "https://open.spotify.com/album/4ol0uz7qLTMUVytyNIzTCW"
       },
@@ -771,22 +755,6 @@
       "duration_ms": 226513,
       "name": "Out With The Old - Live",
       "url": "https://open.spotify.com/track/2vAuPGpj2b2yOBW61If0E0"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Found in You",
-        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
-      },
-      "artists": [
-        {
-          "name": "Royal Company",
-          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
-        }
-      ],
-      "duration_ms": 194335,
-      "name": "Found in You",
-      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -807,6 +775,38 @@
       "duration_ms": 235580,
       "name": "Break Out - Studio Single",
       "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
+      },
+      "artists": [
+        {
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
+        }
+      ],
+      "duration_ms": 194335,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Standing In Your Light",
         "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 212040,
       "name": "Standing In Your Light",
       "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy"
-      },
-      "artists": [
-        {
-          "name": "FRVR FREE",
-          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "New Life",
-      "url": "https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/0C8IetiUJZpIa1mArhWgpQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 280733,
       "name": "So Close - Studio",
       "url": "https://open.spotify.com/track/5qEDNdBR6WTI8PccUZVGZT"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy"
+      },
+      "artists": [
+        {
+          "name": "FRVR FREE",
+          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Eyes Up - EP",
+        "url": "https://open.spotify.com/album/6IQ0BcQsPrHltvsgP1Mbpv"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "duration_ms": 156589,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/3Y1DoxV2IIPeiOkAB2YHp0"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Take up My Cross",
         "url": "https://open.spotify.com/album/57anwGoRcq8db6qLSp5XB9"
       },
@@ -1243,22 +1263,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Eyes Up - EP",
-        "url": "https://open.spotify.com/album/6IQ0BcQsPrHltvsgP1Mbpv"
+        "name": "Paradigms (Live)",
+        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
       },
       "artists": [
         {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+          "name": "Life Church Music",
+          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
         }
       ],
-      "duration_ms": 156589,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/3Y1DoxV2IIPeiOkAB2YHp0"
+      "duration_ms": 200687,
+      "name": "Heaven Calling - Live",
+      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1295,22 +1311,6 @@
       "duration_ms": 212727,
       "name": "You Got Me - Radio Version",
       "url": "https://open.spotify.com/track/5JanbpCjPtVo9AK6DfZYjB"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Paradigms (Live)",
-        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
-      },
-      "artists": [
-        {
-          "name": "Life Church Music",
-          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
-        }
-      ],
-      "duration_ms": 200687,
-      "name": "Heaven Calling - Live",
-      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
     },
     {
       "added_at": "2024-06-25 03:27:03",

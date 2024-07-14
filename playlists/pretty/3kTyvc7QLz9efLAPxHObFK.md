@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,501 songs - 3 day 9 hr 49 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,502 songs - 3 day 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1509,5 +1509,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1499 | [My Favourite Type](https://open.spotify.com/track/5OJrPi0575DImlCfSqFuBf) | [Versattchio](https://open.spotify.com/artist/0p5MbT7aHCmCZfQkDFnMFu), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [My Favourite Type EP](https://open.spotify.com/album/4snMEnGQdNBfhDS2QaZbbo) | 2:47 |
 | 1500 | [Infinite Illusion](https://open.spotify.com/track/7odMAp2ymp0nLDAiHajlv7) | [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh), [Iris Goes](https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2) | [Infinite Illusion](https://open.spotify.com/album/5KWuRSmUowCqMSxL7betOY) | 2:15 |
 | 1501 | [Ravezone](https://open.spotify.com/track/0TW3GBsONmL949IKaqUWg1) | [Udow](https://open.spotify.com/artist/0ks7tKbD7vxmutoXPuwxnB) | [Ravezone](https://open.spotify.com/album/31YEuBxERsTwHaDClZn2l4) | 3:10 |
+| 1502 | [SUNRISE](https://open.spotify.com/track/58TysJF02YhYfil4RZCYNF) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1), [Teal](https://open.spotify.com/artist/1rZTUrXEHSOC6Q5nn3484A) | [SUNRISE](https://open.spotify.com/album/5dropy21yZ1x5VBmYu6ca1) | 2:46 |
 
-Snapshot ID: `AAAGCh2zs9DYZRY3KTozmXUiiS/ggT/R`
+Snapshot ID: `AAAGC3tHXqa73QXua6hY6fzolqY/a/Lo`

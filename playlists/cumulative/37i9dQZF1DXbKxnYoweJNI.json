@@ -1975,6 +1975,28 @@
     },
     {
       "album": {
+        "name": "\u53d1\u75af",
+        "url": "https://open.spotify.com/album/7ItWGX3ibN3Y6am5Xtc4aB"
+      },
+      "artists": [
+        {
+          "name": "Ty.",
+          "url": "https://open.spotify.com/artist/2GFsWXpTIn6G1kRjW3RAQX"
+        },
+        {
+          "name": "KKECHO",
+          "url": "https://open.spotify.com/artist/6yhdWGnuqiOcdb5Twh4z6U"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150541,
+      "name": "\u53d1\u75af",
+      "url": "https://open.spotify.com/track/1TvdRjXqQw0PgfIMoZ9l8B"
+    },
+    {
+      "album": {
         "name": "\u53f0\u5357400",
         "url": "https://open.spotify.com/album/0GMJtIbI2lv3xvTPy1DQAf"
       },
@@ -4120,6 +4142,24 @@
       "duration_ms": 182000,
       "name": "\u8a9e\u7562\uff0c\u8acb\u518d\u4e00\u904d",
       "url": "https://open.spotify.com/track/3630b4gewzNGNuw0HcmLdv"
+    },
+    {
+      "album": {
+        "name": "\u8bda\u5b9e (Honesty\uff09",
+        "url": "https://open.spotify.com/album/4XKpbyZh2ibDIlsoslzWj1"
+      },
+      "artists": [
+        {
+          "name": "Neo Red",
+          "url": "https://open.spotify.com/artist/6vMvynbpxylVPF9ZitcNsz"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "\u8bda\u5b9e (Honesty\uff09",
+      "url": "https://open.spotify.com/track/32SUbqjAiA2t1vrNdAjVsX"
     },
     {
       "album": {

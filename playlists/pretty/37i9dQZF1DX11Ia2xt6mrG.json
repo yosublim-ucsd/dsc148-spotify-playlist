@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mau Moctezuma en portada.",
-  "num_followers": 57997,
+  "num_followers": 58018,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "ADICTO",
         "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
       },
@@ -627,22 +647,6 @@
       "duration_ms": 140000,
       "name": "ADICTO",
       "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Body Movin",
-        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
-      },
-      "artists": [
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Body Movin",
-      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+        "name": "Body Movin",
+        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
         }
       ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+      "duration_ms": 168000,
+      "name": "Body Movin",
+      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Rebote",
         "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 148400,
       "name": "Rebote",
       "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "MASERATI",
-        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "MASERATI",
-      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "BOOM SHAKALAKA",
         "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 155600,
       "name": "BOOM SHAKALAKA",
       "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Leave It On The Floor",
-        "url": "https://open.spotify.com/album/6UT8pdpkuzzbRAnwhUiIDY"
+        "name": "Forever (Tonga Conga Remix)",
+        "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
       },
       "artists": [
         {
-          "name": "Sunsets",
-          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
         },
         {
-          "name": "KTLN",
-          "url": "https://open.spotify.com/artist/5i4N8QFXPLaqgFiORTSnol"
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
         }
       ],
-      "duration_ms": 164516,
-      "name": "Leave It On The Floor",
-      "url": "https://open.spotify.com/track/4vNmu3Z3KNJoFF09zCqfZG"
+      "duration_ms": 332000,
+      "name": "Forever - Tonga Conga Remix",
+      "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1451,58 +1451,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Forever (Tonga Conga Remix)",
-        "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
+        "name": "Leave It On The Floor",
+        "url": "https://open.spotify.com/album/6UT8pdpkuzzbRAnwhUiIDY"
       },
       "artists": [
         {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+          "name": "Sunsets",
+          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
         },
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+          "name": "KTLN",
+          "url": "https://open.spotify.com/artist/5i4N8QFXPLaqgFiORTSnol"
         }
       ],
-      "duration_ms": 332000,
-      "name": "Forever - Tonga Conga Remix",
-      "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "COCAINA",
-        "url": "https://open.spotify.com/album/1ba3lXubHabmkatarlmItz"
-      },
-      "artists": [
-        {
-          "name": "BadWolf",
-          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
-        },
-        {
-          "name": "Adrian Bluper",
-          "url": "https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6"
-        }
-      ],
-      "duration_ms": 369284,
-      "name": "COCAINA",
-      "url": "https://open.spotify.com/track/5lrjVZWTc1ip6WolZmcd2t"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Mr.Pig",
-        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Asereje",
-      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
+      "duration_ms": 164516,
+      "name": "Leave It On The Floor",
+      "url": "https://open.spotify.com/track/4vNmu3Z3KNJoFF09zCqfZG"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1523,6 +1487,42 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mr.Pig",
+        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "COCAINA",
+        "url": "https://open.spotify.com/album/1ba3lXubHabmkatarlmItz"
+      },
+      "artists": [
+        {
+          "name": "BadWolf",
+          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
+        },
+        {
+          "name": "Adrian Bluper",
+          "url": "https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6"
+        }
+      ],
+      "duration_ms": 369284,
+      "name": "COCAINA",
+      "url": "https://open.spotify.com/track/5lrjVZWTc1ip6WolZmcd2t"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "La Cabeza",
-        "url": "https://open.spotify.com/album/0kIHGtdnn8QwT6ifUFr4II"
-      },
-      "artists": [
-        {
-          "name": "Theus Mago",
-          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
-        },
-        {
-          "name": "Mera De La Rosa",
-          "url": "https://open.spotify.com/artist/4DJaKma2q7hqKq8DVQAF4Q"
-        }
-      ],
-      "duration_ms": 348306,
-      "name": "La Cabeza",
-      "url": "https://open.spotify.com/track/7sbRDvqO2CikGlXefdO2y2"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
       },
@@ -1687,30 +1667,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "\u00a1Bang Bang!",
-        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
+        "name": "La Cabeza",
+        "url": "https://open.spotify.com/album/0kIHGtdnn8QwT6ifUFr4II"
       },
       "artists": [
         {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
         },
         {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "Barovier",
-          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "Mera De La Rosa",
+          "url": "https://open.spotify.com/artist/4DJaKma2q7hqKq8DVQAF4Q"
         }
       ],
-      "duration_ms": 167666,
-      "name": "\u00a1Bang Bang!",
-      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
+      "duration_ms": 348306,
+      "name": "La Cabeza",
+      "url": "https://open.spotify.com/track/7sbRDvqO2CikGlXefdO2y2"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1739,6 +1711,34 @@
       "duration_ms": 187317,
       "name": "Time (feat. Alexia Langis)",
       "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "\u00a1Bang Bang!",
+        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
+      },
+      "artists": [
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "\u00a1Bang Bang!",
+      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "GPI (Remix)",
-        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Deep Lies",
         "url": "https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "GPI (Remix)",
+        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
     }
   ],
   "unique_name": "EDM\u00e9xico",

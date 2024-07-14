@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Yami Safdie
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,155 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,173 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 4 | [Sorbos](https://open.spotify.com/track/3XssgGSQt4Hxvsd7ptioRs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Sorbos](https://open.spotify.com/album/6fvzrjd82SIXVwzLGff1T5) | 2:47 |
 | 5 | [Que Vuelvan Pronto](https://open.spotify.com/track/4vjVnjcWf23GqHqTGz7U5h) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Que Vuelvan Pronto](https://open.spotify.com/album/3pxVARa9WtkPQzvswvAP2b) | 3:30 |
 | 6 | [Por volverte a ver / Hermano mio / La huella / Te llame \- En Vivo](https://open.spotify.com/track/4W9vnshy4YIDNBm2g3Ic2B) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Por volverte a ver / Hermano mio / La huella / Te llame \(En Vivo\)](https://open.spotify.com/album/6Vvy1n1xLdILqiKJc9zBNP) | 10:03 |
-| 7 | [Vos de bebe](https://open.spotify.com/track/18QGtUiEkREzwBz0WbnNo6) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [EL PEPO \- SESSIONES CON PUBLICO \#10 \(SIN MIEDO : 1 "TIRO"\)](https://open.spotify.com/album/2uHThYsO36fD1sBQ47G4bT) | 2:22 |
+| 7 | [Vos de bebe](https://open.spotify.com/track/18QGtUiEkREzwBz0WbnNo6) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [EL PEPO \- SESSIONES CON PUBLICO \#10 \(SIN MIEDO: 1 "TIRO"\)](https://open.spotify.com/album/2uHThYsO36fD1sBQ47G4bT) | 2:22 |
 | 8 | [Ay Amor](https://open.spotify.com/track/29czCirGYs1NGXct1ouYLP) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Ay Amor](https://open.spotify.com/album/2aGDw9k4Ma4aeqNqV746rE) | 2:43 |
 | 9 | [Me Voy](https://open.spotify.com/track/23mG1foGJKjBmAgVMfVZ0Z) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Me Voy](https://open.spotify.com/album/6PYk6EfSUUqIbU9QLXvxGV) | 2:25 |
 | 10 | [Lávate la cara / La piel bien caliente / Contigo me gusta \- En vivo](https://open.spotify.com/track/2ndF6D7xJJVLiYmiVdfAR7) | [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Lávate la cara / La piel bien caliente / Contigo me gusta \(En Vivo\)](https://open.spotify.com/album/1dQ1TkbCDH7kiH9C0Ew2JC) | 3:46 |

@@ -2,9 +2,9 @@
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. The essential tracks, all in one playlist.
+> This is: Rashid\. Alle wichtigen Tracks in einer Playlist.
 
-69 songs - 4 hr 49 min
+70 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bilhete](https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Fióti](https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:24 | 2023-09-18 |  |
 | [Bilhete 2.0](https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:43 | 2023-09-18 |  |
 | [Bilhete 2.0 / Incidental: Uma Gota No Oceano \- Ao Vivo](https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:50 | 2023-09-18 |  |
+| [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 | 2024-07-14 |  |
 | [Casca](https://open.spotify.com/track/3cDLHS0s41HTWnhv8GhuJZ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 | 2023-09-18 | 2023-11-11 |
 | [Coisas Dessa Vida](https://open.spotify.com/track/74lRYKTgAjPfMrR7yOdfqq) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:47 | 2023-09-18 |  |
 | [Confundindo Sábios](https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [DJ Mr Brown](https://open.spotify.com/artist/5xPHfQJC5RKeURNJWmMfMR) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:58 | 2023-11-10 | 2023-12-14 |

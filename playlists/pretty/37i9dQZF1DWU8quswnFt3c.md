@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Lauren Aquilina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,699 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,971 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 43 | [palacio <3](https://open.spotify.com/track/3RcJUZQtUgjji0kWmARB0q) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [VISTO](https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR) | 2:36 |
 | 44 | [Grand Illusion](https://open.spotify.com/track/4ungm58VUft86geFgszTa6) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [The Rose Of Jericho](https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu) | 4:26 |
 | 45 | [idź](https://open.spotify.com/track/1vqahNTuy2YjW9Vywuog3w) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 3:31 |
-| 46 | [Szörny vagyok](https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Szörny vagyok](https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7) | 3:02 |
-| 47 | [La Patrona](https://open.spotify.com/track/1zXI7Opq1pA27A8EmwZg3s) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [THE DOLL](https://open.spotify.com/album/0mOQqR5D1UJQsJ8zBoTNMq) | 2:15 |
+| 46 | [La Patrona](https://open.spotify.com/track/1zXI7Opq1pA27A8EmwZg3s) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [THE DOLL](https://open.spotify.com/album/0mOQqR5D1UJQsJ8zBoTNMq) | 2:15 |
+| 47 | [Szörny vagyok](https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Szörny vagyok](https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7) | 3:02 |
 | 48 | [Afar](https://open.spotify.com/track/3RnXz9keNmkqSRAgZFK0b8) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:35 |
 | 49 | [forget](https://open.spotify.com/track/0DF8IsRDJFYtyv1DWi5j8N) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [stuck](https://open.spotify.com/album/3GrrxcBgbNRyWmLgKmLQfT) | 2:45 |
 | 50 | [IRON BEAT](https://open.spotify.com/track/42viWQggsj8HppF6bm5JmS) | [Ruslana](https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa) | [БУЙНА/IRON BEAT](https://open.spotify.com/album/5yX9JXQaJYFyKLLnY6RfVZ) | 3:52 |

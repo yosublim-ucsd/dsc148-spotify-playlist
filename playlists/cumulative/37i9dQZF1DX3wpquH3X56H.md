@@ -4,7 +4,7 @@
 
 > The most streamed Ambient X tracks in 2023\. ANNA on cover\. \#spotifywrapped
 
-213 songs - 16 hr 23 min
+214 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 | 2023-01-01 | 2023-11-30 |
 | [Mariana](https://open.spotify.com/track/1WwNkk5bVosrt4GUxPk5LB) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Mariana](https://open.spotify.com/album/4kUURmdy6COgPdtnKXrHE4) | 4:41 | 2023-11-29 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 | 2023-01-01 | 2023-11-30 |
+| [Migration Sun](https://open.spotify.com/track/36EIsCzOBJUlR0kRBczE2F) | [Sonant](https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY) | [Migration Sun](https://open.spotify.com/album/0T4TQpoQzyZtB9dHe2qEiq) | 4:38 | 2023-11-29 |  |
 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 | 2023-01-01 | 2023-11-30 |
 | [Monomom](https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Monomom](https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW) | 5:31 | 2023-01-01 | 2023-11-30 |
 | [Morning Tides](https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Nocturnes](https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI) | 1:58 | 2023-11-29 |  |

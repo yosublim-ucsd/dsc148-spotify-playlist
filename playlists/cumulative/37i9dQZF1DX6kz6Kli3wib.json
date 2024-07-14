@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Bubbles",
+        "url": "https://open.spotify.com/album/4PC2108IieVutwvKYuD6uI"
+      },
+      "artists": [
+        {
+          "name": "Distant Dan",
+          "url": "https://open.spotify.com/artist/6PxK9jl4Trg1lamb5Ee7lI"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2l75Ml2QDjaMfuQzEoesrk"
+    },
+    {
+      "album": {
         "name": "CA-SHING",
         "url": "https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE"
       },
@@ -1730,6 +1748,24 @@
       "duration_ms": 152121,
       "name": "Extramundane",
       "url": "https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s"
+    },
+    {
+      "album": {
+        "name": "Fade Tech",
+        "url": "https://open.spotify.com/album/0hRDmAmnfGAPIGk7WZsmlO"
+      },
+      "artists": [
+        {
+          "name": "Jo Lange",
+          "url": "https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165555,
+      "name": "Fade Tech",
+      "url": "https://open.spotify.com/track/4mJagNRdbOMSeqVdhhmlBO"
     },
     {
       "album": {
@@ -5240,6 +5276,24 @@
       "duration_ms": 188237,
       "name": "Techo Con Sol",
       "url": "https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS"
+    },
+    {
+      "album": {
+        "name": "TellMe",
+        "url": "https://open.spotify.com/album/27FaBzq2pdecgllkkzgOAv"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173166,
+      "name": "TellMe",
+      "url": "https://open.spotify.com/track/2LAi45qaADcEErJYMiY6mZ"
     },
     {
       "album": {

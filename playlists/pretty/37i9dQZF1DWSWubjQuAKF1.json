@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Paula Biskup",
-  "num_followers": 20421,
+  "num_followers": 20422,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        }
-      ],
-      "duration_ms": 142627,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 153402,
       "name": "Szcz\u0119\u015bliwa Wina",
       "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 142627,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "zabierz mnie nad morze",
+        "url": "https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck"
+      },
+      "artists": [
+        {
+          "name": "Lackluster",
+          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "zabierz mnie nad morze",
+      "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Nie by\u0142o \u017ale",
         "url": "https://open.spotify.com/album/27pwhbLxg3mslINMEudf6W"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "zabierz mnie nad morze",
-        "url": "https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck"
-      },
-      "artists": [
-        {
-          "name": "Lackluster",
-          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "zabierz mnie nad morze",
-      "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Teleranek",
         "url": "https://open.spotify.com/album/61C2QQjGxZioq1gyenC2GM"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 187434,
       "name": "teleranek",
       "url": "https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Terminal 3",
-        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
-      },
-      "artists": [
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "Kiss And Fly",
-      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -811,22 +795,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Deja vu",
-        "url": "https://open.spotify.com/album/2lJ2aDr2yOkUHOLBL0uOqG"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
-        }
-      ],
-      "duration_ms": 168967,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Fikcje",
         "url": "https://open.spotify.com/album/30272fiEqUNicMf5MoTo26"
       },
@@ -843,18 +811,34 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "MIAMI VICE",
-        "url": "https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU"
+        "name": "Terminal 3",
+        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
       },
       "artists": [
         {
-          "name": "NEL",
-          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
         }
       ],
-      "duration_ms": 134117,
-      "name": "MIAMI VICE",
-      "url": "https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w"
+      "duration_ms": 157384,
+      "name": "Kiss And Fly",
+      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Deja vu",
+        "url": "https://open.spotify.com/album/2lJ2aDr2yOkUHOLBL0uOqG"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
+        }
+      ],
+      "duration_ms": 168967,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 168002,
       "name": "Ju\u017c nie szkoda",
       "url": "https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "MIAMI VICE",
+        "url": "https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "MIAMI VICE",
+      "url": "https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Safe zone",
-        "url": "https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Safe Zone",
-      "url": "https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Kosmosy",
         "url": "https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7"
       },
@@ -975,22 +955,6 @@
       "duration_ms": 175758,
       "name": "Kosmosy",
       "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "AMORE",
-        "url": "https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i"
-      },
-      "artists": [
-        {
-          "name": "tomash",
-          "url": "https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "AMORE",
-      "url": "https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1011,22 +975,38 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "w co ty dzi\u015b grasz?",
-        "url": "https://open.spotify.com/album/0PVYr7Fh8V6IKXug2EUGQr"
+        "name": "AMORE",
+        "url": "https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i"
       },
       "artists": [
         {
-          "name": "Alicja",
-          "url": "https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb"
-        },
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+          "name": "tomash",
+          "url": "https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY"
         }
       ],
-      "duration_ms": 216500,
-      "name": "w co ty dzi\u015b grasz?",
-      "url": "https://open.spotify.com/track/0DotJtk7REWwFsZSTCTlw7"
+      "duration_ms": 161000,
+      "name": "AMORE",
+      "url": "https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Safe zone",
+        "url": "https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Safe Zone",
+      "url": "https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1043,6 +1023,26 @@
       "duration_ms": 208000,
       "name": "Ko\u0142o mnie",
       "url": "https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "w co ty dzi\u015b grasz?",
+        "url": "https://open.spotify.com/album/0PVYr7Fh8V6IKXug2EUGQr"
+      },
+      "artists": [
+        {
+          "name": "Alicja",
+          "url": "https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb"
+        },
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "w co ty dzi\u015b grasz?",
+      "url": "https://open.spotify.com/track/0DotJtk7REWwFsZSTCTlw7"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Najd\u0142u\u017cszy Dzie\u0144 w Tym Roku",
-        "url": "https://open.spotify.com/album/7Ci8l4QkTaj941tg4gqw8Z"
-      },
-      "artists": [
-        {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
-        }
-      ],
-      "duration_ms": 174705,
-      "name": "Najd\u0142u\u017cszy Dzie\u0144 w Tym Roku",
-      "url": "https://open.spotify.com/track/2p9Lo0e233bxNmbeJMA9Ey"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Pole namiotowe",
         "url": "https://open.spotify.com/album/6DPS1tx26SJVb7VHOPc340"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 184000,
       "name": "Pole namiotowe",
       "url": "https://open.spotify.com/track/4YQJAv6jwldSppTmbwdGYs"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Najd\u0142u\u017cszy Dzie\u0144 w Tym Roku",
+        "url": "https://open.spotify.com/album/7Ci8l4QkTaj941tg4gqw8Z"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "Najd\u0142u\u017cszy Dzie\u0144 w Tym Roku",
+      "url": "https://open.spotify.com/track/2p9Lo0e233bxNmbeJMA9Ey"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "czuje sie jak w orange county",
+        "url": "https://open.spotify.com/album/6RbfzOC39Tv7VwAozhJYb0"
+      },
+      "artists": [
+        {
+          "name": "wi\u015bniosz",
+          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
+        }
+      ],
+      "duration_ms": 188903,
+      "name": "czuje sie jak w orange county",
+      "url": "https://open.spotify.com/track/5NTx74dnDrvRbnGhiBAyoB"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Mam Gorszy Dzie\u0144",
         "url": "https://open.spotify.com/album/6tDYxxL22WMnRUeawRd38x"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 171873,
       "name": "Ambiwalencje",
       "url": "https://open.spotify.com/track/6jiBhMEv34yXWzqG1tEbCL"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "czuje sie jak w orange county",
-        "url": "https://open.spotify.com/album/6RbfzOC39Tv7VwAozhJYb0"
-      },
-      "artists": [
-        {
-          "name": "wi\u015bniosz",
-          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
-        }
-      ],
-      "duration_ms": 188903,
-      "name": "czuje sie jak w orange county",
-      "url": "https://open.spotify.com/track/5NTx74dnDrvRbnGhiBAyoB"
     },
     {
       "added_at": "2024-07-11 22:00:00",

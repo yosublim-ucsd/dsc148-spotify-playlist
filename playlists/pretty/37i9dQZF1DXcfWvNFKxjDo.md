@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Armin van Buuren, David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,294 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,368 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 40 | [Klopf Klopf](https://open.spotify.com/track/4qKHJRtVU7OeWbU4iGrDbK) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Klopf Klopf](https://open.spotify.com/album/3kN3Vxww1SOBYxA71DotRO) | 2:11 |
 | 41 | [Dancin](https://open.spotify.com/track/78FJBR9lTyw01OvzwmAZF3) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [KANVISE](https://open.spotify.com/artist/1c8bw1hMtl5RO92FZsxX1U), [ERCODES](https://open.spotify.com/artist/7IGjzO8HfG2fDHlAaYD4hx) | [Dancin](https://open.spotify.com/album/4kgUgZcbkZNLxJycQdS7sz) | 2:33 |
 | 42 | [I Would Like](https://open.spotify.com/track/2CvgUI5nA7nOcZolBCWSq0) | [Mannymore](https://open.spotify.com/artist/4nJ7nW0IQpvHymuih4y6OC) | [I Would Like](https://open.spotify.com/album/4MD4bWCkIB3hyqYKhhguam) | 2:36 |
-| 43 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
+| 43 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
 | 44 | [If I Die Young](https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [If I Die Young](https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93) | 2:11 |
 | 45 | [Adagio For Strings \(Bulletproof\)](https://open.spotify.com/track/6XBjUSSBhUyWwcXZPNhyTE) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Adagio For Strings \(Bulletproof\)](https://open.spotify.com/album/1XlbyHxgU1ijE5HwApbLXe) | 2:27 |
 | 46 | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT) | 3:07 |

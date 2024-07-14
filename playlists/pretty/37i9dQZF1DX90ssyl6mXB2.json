@@ -1,12 +1,12 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 116681,
+  "num_followers": 116736,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZogqiAAAAABicPRx1WfDX3vSrmtPtjxe",
+  "snapshot_id": "ZpH7wAAAAADQ1Gta5Sj1VUXn9+SvbIT+",
   "tracks": [
     {
       "added_at": "2024-07-05 17:16:56",
@@ -27,6 +27,22 @@
       "duration_ms": 220408,
       "name": "IMISSTORONTO (Been A While)",
       "url": "https://open.spotify.com/track/0EtT4Y1KYAx5oZgCzBOyo0"
+    },
+    {
+      "added_at": "2024-07-13 04:00:00",
+      "album": {
+        "name": "today",
+        "url": "https://open.spotify.com/album/0PKvX5TqcrWwadnfGDWe2r"
+      },
+      "artists": [
+        {
+          "name": "Kelz2busy",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "duration_ms": 95432,
+      "name": "today",
+      "url": "https://open.spotify.com/track/3CeObtgyBu5kGWo3T8QDxn"
     },
     {
       "added_at": "2024-06-07 11:39:15",

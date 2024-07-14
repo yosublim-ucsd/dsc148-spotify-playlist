@@ -2,7 +2,7 @@
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo\. The essential tracks, all in one playlist.
+> This is Marco Polo\. Todos os maiores hits em uma só playlist.
 
 85 songs - 4 hr 36 min
 
@@ -81,7 +81,7 @@
 | [Sunshine and Flowers](https://open.spotify.com/track/0S5BoYZUD0wfc6yK1PT62T) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 3:04 | 2023-12-13 |  |
 | [Swarm](https://open.spotify.com/track/1HJVvCidVjVdcv0epjRsq0) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 2:57 | 2023-12-13 |  |
 | [The Fight Song \(feat\. Pharoahe Monch\)](https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [A Breukelen Story](https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth) | 3:47 | 2023-12-13 |  |
-| [The Rub](https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Baker's Dozen: Marco Polo](https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt) | 2:41 | 2024-07-02 | 2024-07-09 |
+| [The Rub](https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Baker's Dozen: Marco Polo](https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt) | 2:41 | 2024-07-02 |  |
 | [The Veteran](https://open.spotify.com/track/0BgDyBZxY6Co2J1W7yf0a1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Grand Daddy I.U.](https://open.spotify.com/artist/1XMAYcdy0aZQTZ6S4deMUd) | [The Stupendous Adventures of Marco Polo](https://open.spotify.com/album/5r5uYvL1suWVjWoHZFDRrQ) | 3:05 | 2023-12-22 | 2024-01-28 |
 | [Three](https://open.spotify.com/track/5hsxLQQy068iKUjMMtapoQ) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [EMC](https://open.spotify.com/artist/0gLaGKA1vlqDqfHUxh67un) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 2:47 | 2024-02-09 | 2024-02-24 |
 | [Toi tu veux Djor](https://open.spotify.com/track/5ZWGEu5vqjdJwGL4Pq7GHW) | [ALX FIDJI](https://open.spotify.com/artist/6H0hJPDbTej7RXsnRAHqqD), [Widgunz](https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt), [Denzo](https://open.spotify.com/artist/1ZkZjE8TjYVFuZPDS5y52S), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Louzio](https://open.spotify.com/artist/5QVDXaYwMDBqCc8VZuTK19) | [Toi tu veux Djor](https://open.spotify.com/album/67ZqqqXNtB1FsfrJjFb6ug) | 2:43 | 2023-12-30 | 2024-01-13 |

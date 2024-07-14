@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313893,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/3P64GjuojhjHzJshxkWQI4"
+    },
+    {
+      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
       },
@@ -832,7 +850,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 385053,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
@@ -944,7 +962,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280762,
-      "name": "Lion and the Lamb",
+      "name": "Lion and the Lamb - Live",
       "url": "https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1"
     },
     {
@@ -982,14 +1000,14 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 248910,
       "name": "Luminosity",
       "url": "https://open.spotify.com/track/6ZLsrfSUuGQak9ZaWkoLCI"
     },
     {
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol",
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
       "artists": [
@@ -1006,7 +1024,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 291986,
-      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas - Live",
       "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     },
     {
@@ -1032,7 +1050,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 373691,
-      "name": "No Longer Slaves (Spontaneous) - Live",
+      "name": "No Longer Slaves - Live",
       "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
     },
     {
@@ -1077,7 +1095,7 @@
     },
     {
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol",
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
       "artists": [
@@ -1098,7 +1116,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 414280,
-      "name": "Padre Nuestro (Live)",
+      "name": "Padre Nuestro - Live",
       "url": "https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q"
     },
     {
@@ -1173,32 +1191,6 @@
     },
     {
       "album": {
-        "name": "Raise a Hallelujah (Studio Version)",
-        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "date_added": "2023-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244040,
-      "name": "Raise a Hallelujah (Studio Version)",
-      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
-    },
-    {
-      "album": {
         "name": "Victory (Live)",
         "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
       },
@@ -1222,6 +1214,32 @@
       "duration_ms": 470880,
       "name": "Raise a Hallelujah - Live",
       "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
+    },
+    {
+      "album": {
+        "name": "Raise a Hallelujah (Studio Version)",
+        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244040,
+      "name": "Raise a Hallelujah - Studio Version",
+      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
     },
     {
       "album": {
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 600035,
       "name": "Stand In Awe (Spontaneous) [Live]",
       "url": "https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW"
@@ -1633,7 +1651,7 @@
     },
     {
       "album": {
-        "name": "For the Sake of the World",
+        "name": "For The Sake of The World",
         "url": "https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86"
       },
       "artists": [
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 281506,
       "name": "We Dance - Live",
       "url": "https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW"
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 366160,
       "name": "You Make Me Brave - Live",
       "url": "https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ"

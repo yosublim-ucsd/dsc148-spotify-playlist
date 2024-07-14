@@ -2,7 +2,7 @@
 
 ### [This Is Kierra Sheard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EDOAw)
 
-> This is Kierra Sheard\. The essential tracks, all in one playlist.
+> This is Kierra Sheard\. Track\-track unggulan, semuanya dalam satu playlist.
 
 81 songs - 6 hr 36 min
 
@@ -47,7 +47,7 @@
 | [Love Like Crazy](https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:47 | 2023-03-04 |  |
 | [Making A Way \(feat\. Adia\)](https://open.spotify.com/track/4GUsJS1Y63xlv8w1C3Y4wq) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Making A Way \(feat\. Adia\)](https://open.spotify.com/album/4qx5I6vvqoQgssHapDeMEq) | 5:35 | 2023-03-04 | 2023-03-14 |
 | [Making A Way \(feat\. Adia\)](https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 5:35 | 2023-03-13 |  |
-| [Miracle Worker](https://open.spotify.com/track/1YuiA6ATEd9nhwYeALwhuj) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 8:39 | 2024-03-01 |  |
+| [Miracle Worker](https://open.spotify.com/track/1YuiA6ATEd9nhwYeALwhuj) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 8:39 | 2024-03-01 | 2024-07-14 |
 | [Miracle Worker](https://open.spotify.com/track/7AR39XjLPz25foAZ4dvz4f) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 8:39 | 2023-03-04 | 2023-03-06 |
 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD) | 5:58 | 2023-03-04 | 2023-12-19 |
 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/2U14rkj4rTCJuvZAtgx39d) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 5:59 | 2023-12-18 |  |
@@ -88,6 +88,6 @@
 | [You Don't Know](https://open.spotify.com/track/67hq3HyYwvRuhBftnm80NP) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 3:51 | 2023-03-04 |  |
 | [You Loved Me \(feat\. Kierra "Kiki" Sheard\)](https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Heavens Are Telling](https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO) | 6:43 | 2023-03-04 |  |
 | [You Must Break \- Live](https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 9:07 | 2023-03-04 |  |
-| [Your Spirit](https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 7:51 | 2023-03-04 | 2024-07-13 |
+| [Your Spirit](https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 7:51 | 2023-03-04 |  |
 
 \*This playlist was first scraped on 2023-03-05. Prior content cannot be recovered.

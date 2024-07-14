@@ -25081,6 +25081,32 @@
     },
     {
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/5dropy21yZ1x5VBmYu6ca1"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Strictly Business",
+          "url": "https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1"
+        },
+        {
+          "name": "Teal",
+          "url": "https://open.spotify.com/artist/1rZTUrXEHSOC6Q5nn3484A"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "SUNRISE",
+      "url": "https://open.spotify.com/track/58TysJF02YhYfil4RZCYNF"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/7irIrFNmusLs4zBtAImJe4"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials\. Cover: <a href="spotify:artist:03qM4LmPCrR7CuHTE0WAIW">Koryn Hawthorne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,462 likes - 63 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,511 likes - 63 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 35 | [Jesus Saves \- Radio Edit](https://open.spotify.com/track/2v7dnH7l6d1U2TlYDCTwRd) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW), [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Jesus Saves \(Radio Edit\)](https://open.spotify.com/album/7pGZ0zHUVWhOerkRWaqFbC) | 4:22 |
 | 36 | [Faithful You Are \- Live](https://open.spotify.com/track/2tU3bE9LQStyHhrDmu3Ams) | [Montrae Tisdale and The Friends Chorale](https://open.spotify.com/artist/6coWqEDygWVo2aVKcN8Ep2), [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [The Faith Journey \(Live\)](https://open.spotify.com/album/50IACast23ezf8MlYV2ayt) | 5:43 |
 | 37 | [Release Control \(Radio\)](https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW) | [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx) | [Release Control \(Radio\)](https://open.spotify.com/album/1B1QidNr812ZThlu69dmr2) | 3:59 |
-| 38 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Michael Alexander Todd](https://open.spotify.com/artist/1SaSo4qJjNigo7YNwLyxPV) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
+| 38 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Mike Todd](https://open.spotify.com/artist/4cismFyP7xPVkee8c4agtb) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
 | 39 | [Accolades](https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Accolades](https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm) | 2:38 |
 | 40 | [My Rock \- Live](https://open.spotify.com/track/1RIe8oYvgnDTUrfUiYIRxd) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Geoffrey Golden](https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p), [Shantell Hankerson](https://open.spotify.com/artist/3rfqGC7HD6lnVC0GNlRJpi) | [My Rock \(Live\)](https://open.spotify.com/album/509COrmWJ9clEOulht5bxA) | 6:44 |
 | 41 | [WE WIN](https://open.spotify.com/track/2TyuOEMOSZf7I523X6ZqYz) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [WE WIN](https://open.spotify.com/album/0FsoY0yxDj0Qg5NOnvFX2Y) | 4:02 |

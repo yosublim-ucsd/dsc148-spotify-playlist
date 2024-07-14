@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 229720,
+  "num_followers": 229843,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-26 19:13:54",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2024-06-26 19:13:54",
-      "album": {
         "name": "Alice In Chains",
         "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 327893,
       "name": "Heaven Beside You",
       "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
+    },
+    {
+      "added_at": "2024-06-26 19:13:54",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2024-06-26 19:13:54",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-26 19:13:54",
       "album": {
-        "name": "Rites Of Passage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
-      },
-      "artists": [
-        {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
-    },
-    {
-      "added_at": "2024-06-26 19:13:54",
-      "album": {
         "name": "Fizzy Fuzzy Big & Buzzy",
         "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 257200,
       "name": "Banditos",
       "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
+    },
+    {
+      "added_at": "2024-06-26 19:13:54",
+      "album": {
+        "name": "Rites Of Passage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
+      },
+      "artists": [
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
     },
     {
       "added_at": "2024-06-26 19:13:54",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-06-26 19:13:54",
       "album": {
+        "name": "Regretfully Yours",
+        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
+      },
+      "artists": [
+        {
+          "name": "Superdrag",
+          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Sucked Out",
+      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
+    },
+    {
+      "added_at": "2024-06-26 19:13:54",
+      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 259872,
       "name": "Iron Man",
       "url": "https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m"
-    },
-    {
-      "added_at": "2024-06-26 19:13:54",
-      "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Galaxie / Hello, Goodbye",
-      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
     },
     {
       "added_at": "2024-06-26 19:13:54",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-06-26 19:13:54",
       "album": {
-        "name": "Regretfully Yours",
-        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
       },
       "artists": [
         {
-          "name": "Superdrag",
-          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Sucked Out",
-      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
+      "duration_ms": 211000,
+      "name": "Galaxie / Hello, Goodbye",
+      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
     },
     {
       "added_at": "2024-06-26 19:13:54",

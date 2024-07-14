@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Migration Sun",
+        "url": "https://open.spotify.com/album/0T4TQpoQzyZtB9dHe2qEiq"
+      },
+      "artists": [
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278541,
+      "name": "Migration Sun",
+      "url": "https://open.spotify.com/track/36EIsCzOBJUlR0kRBczE2F"
+    },
+    {
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC"
       },

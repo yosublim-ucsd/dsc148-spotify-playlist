@@ -907,6 +907,32 @@
     },
     {
       "album": {
+        "name": "Not for Sale",
+        "url": "https://open.spotify.com/album/08ek7ue7YhzLp8zAlqV6ZA"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182694,
+      "name": "The Hook Up",
+      "url": "https://open.spotify.com/track/4PfNWkawoKLFY2YYMxHZTy"
+    },
+    {
+      "album": {
         "name": "The Visitor",
         "url": "https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP"
       },

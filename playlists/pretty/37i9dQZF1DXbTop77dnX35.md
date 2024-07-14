@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema, Ice Spice, Tay Iwar and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,048 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,161 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 7 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 |
 | 8 | [Pray For Me](https://open.spotify.com/track/65H0lpUE33k4Ma7fl4nF8c) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Pray For Me](https://open.spotify.com/album/6lcaP3rX2rQbT70fXJmRUp) | 10:00 |
 | 9 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 |
-| 10 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
+| 10 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [London](https://open.spotify.com/artist/4ZdNtKnlL3IJhkOeJaNz8D) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
 | 11 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 |
 | 12 | [Spell](https://open.spotify.com/track/6NWiVGfM7MmJkx2R5KJNgp) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:08 |
 | 13 | [Conquer](https://open.spotify.com/track/0KJI0836GUL4JT258Y5v4z) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Conquer](https://open.spotify.com/album/5qoAudHr7rBpuEH7Z8wlQt) | 3:36 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 36 | [Kick Weh](https://open.spotify.com/track/2XTshtNnXeQkmepyznnbJo) | [Rude Link](https://open.spotify.com/artist/72BXOZZwwz08M1QK7mPzIa), [Ben Anansi](https://open.spotify.com/artist/4yZB6c2Ig5tAc6tH9gX18P), [Marlon Easy](https://open.spotify.com/artist/7tdybeEAiPEAHnpxUl9A5I) | [Kick Weh](https://open.spotify.com/album/6NUcD00VzMs6R25dWQOHMJ) | 3:19 |
 | 37 | [Whine me](https://open.spotify.com/track/3wSbRJLlnSYmLWGupghNpk) | [spice priezt](https://open.spotify.com/artist/3S3OGoSI9qmOcEEflGFZX6), [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [DYDX](https://open.spotify.com/artist/5VpeAIK3uO8pnA9XMfrBCo) | [Whine me](https://open.spotify.com/album/0Kez0CdscY6Ku4vM25acSN) | 2:45 |
 | 38 | [MY G](https://open.spotify.com/track/0NC8KDbueqd1eUXDhfJORD) | [David Meli](https://open.spotify.com/artist/4ZALWwBr7dwXOhlyiYRMd1) | [ONE FOR THE BOOKS](https://open.spotify.com/album/4tiHV8RYKmM8FhWJOnRgzM) | 2:33 |
-| 39 | [Interlude \(You I Want\)](https://open.spotify.com/track/2eIpK10QeAt17U6O0fqH1L) | [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Interlude \(You I Want\)](https://open.spotify.com/album/5fyIcJCm0TKB3Wh6hyJ8Fs) | 1:57 |
+| 39 | [Interlude \(You I Want\)](https://open.spotify.com/track/2eIpK10QeAt17U6O0fqH1L) | [Buchi](https://open.spotify.com/artist/5gBQFJRsin1OvAoBSed6HU) | [Interlude \(You I Want\)](https://open.spotify.com/album/5fyIcJCm0TKB3Wh6hyJ8Fs) | 1:57 |
 | 40 | [Evergreen](https://open.spotify.com/track/52DqLFptFG7wouBCwbPnfr) | [Duncan Daniels](https://open.spotify.com/artist/4Hbx82x5pU9EiWxl91BXmL), [Clayrocksu](https://open.spotify.com/artist/4y3cAqb2AntF9Fa0EyEj2Y) | [Evergreen](https://open.spotify.com/album/28AJBBO0gPdP3dyzn980NE) | 3:57 |
 | 41 | [Summ](https://open.spotify.com/track/12BczFND7LuUYPoaan4Cy6) | [Tutipsy](https://open.spotify.com/artist/0LY2ULdbf59X4QJjZfEnW3), [Rezman](https://open.spotify.com/artist/4Crxp8L5gXKFMBayR53sVS), [Niickii](https://open.spotify.com/artist/00Q1FQCLJdmpaQ2D3JVH0N) | [Summ](https://open.spotify.com/album/0TN8Zi6ZzXfJIesTVHFRzR) | 2:27 |
 | 42 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 |

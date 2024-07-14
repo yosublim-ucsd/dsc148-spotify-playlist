@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Malcolm Jiyane Tree\-O\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,671 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,726 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 3 | [Window Sill Song](https://open.spotify.com/track/1q5VaTlGL7OBkcYO0CNlAo) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj), [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5), [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Window Sill Song](https://open.spotify.com/album/3BzeYCJBnoRRXeLwefBehS) | 2:03 |
 | 4 | [LISTEN TO THE LIGHT](https://open.spotify.com/track/5UzV8jo9BSozNIf7mESn4p) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [OPEN THE GATES](https://open.spotify.com/album/1p4XxRbVTvKp9uGmOLi3qC) | 2:48 |
 | 5 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
-| 6 | [Until I See You Again](https://open.spotify.com/track/5LgKohqhX8LwJtAd0FRCo2) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Until I See You Again](https://open.spotify.com/album/5eUlJQADurMPkv9rCBMPuA) | 4:59 |
+| 6 | [Until I See You Again](https://open.spotify.com/track/5LgKohqhX8LwJtAd0FRCo2) | [Luther Allison](https://open.spotify.com/artist/6K8QOMTGa8UqH6iylaR0g2) | [Until I See You Again](https://open.spotify.com/album/5eUlJQADurMPkv9rCBMPuA) | 4:59 |
 | 7 | [Moon River](https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Moon River](https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr) | 3:37 |
 | 8 | [weird](https://open.spotify.com/track/5xnHCTo3Ia2QDNxcu6URPr) | [Solomon Fox](https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj) | [weird](https://open.spotify.com/album/1utJR0ualmXBUTM1ej4SrQ) | 1:35 |
 | 9 | [約束の風](https://open.spotify.com/track/0fxLzzQf4NbxVkfv2eVf8U) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [庸蔵](https://open.spotify.com/artist/55k1fTNHRJcW8oCDUTETjx) | [Where will we go?](https://open.spotify.com/album/1J2654gN9aWRQ7629RVCDy) | 3:45 |

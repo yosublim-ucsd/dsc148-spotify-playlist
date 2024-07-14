@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Sebastian Llosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,317 likes - 431 songs - 22 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,309 likes - 431 songs - 22 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 3 | [Mala Mía](https://open.spotify.com/track/5XpR29665OwDAWWsOpsgvk) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Para Olvidarte](https://open.spotify.com/album/3cW6ZvqNqnGHTmwrhO9ZlY) | 2:02 |
 | 4 | [3 PECADOS DESPUES…](https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 1:58 |
 | 5 | [LA TOLA Y EL VELERO](https://open.spotify.com/track/1O5bC1tfSdWMLT20MEwcE2) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 3:30 |
-| 6 | [I' AM](https://open.spotify.com/track/3e5gPPx7MTGoYffXH70Tqf) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 2:13 |
+| 6 | [I' AM](https://open.spotify.com/track/3e5gPPx7MTGoYffXH70Tqf) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 2:14 |
 | 7 | [VoLiBoL](https://open.spotify.com/track/6wJjx7L3ZFjl2fsFPr1qSz) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [TODO ESTÁ BIEN](https://open.spotify.com/album/2cIPrJj2wJupzUf2QGqAYN) | 2:37 |
 | 8 | [No Se CoRReR Sk8](https://open.spotify.com/track/0iwduaXw0x13iNHTn4tlvR) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [Ale](https://open.spotify.com/artist/5x3AEOU1LENDAj5TQv8x1s) | [TODO ESTÁ BIEN](https://open.spotify.com/album/2cIPrJj2wJupzUf2QGqAYN) | 4:14 |
 | 9 | [HuRaKán](https://open.spotify.com/track/174C2FX5fAZeYa1gyC38jx) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [TODO ESTÁ BIEN](https://open.spotify.com/album/2cIPrJj2wJupzUf2QGqAYN) | 2:39 |

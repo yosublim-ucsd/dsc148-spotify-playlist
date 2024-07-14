@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACN7D2CVZHTa0TVvsVC30uW",
+  "snapshot_id": "AAAAAAAAAACCT3ABxvtJrcI4sBWDZIf0",
   "tracks": [
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
-        }
-      ],
-      "duration_ms": 574634,
-      "name": "One (feat. Robert Trujillo) - Instrumental",
-      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -63,22 +43,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Fading Like A Rose - EP",
-        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Fading Like A Rose (Everytime Remix)",
-      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Se\u00f1or Tiempo",
         "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
@@ -99,18 +63,66 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Bask in the Blood of Our Demons - EP",
-        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS"
       },
       "artists": [
         {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        },
+        {
+          "name": "Pulpul",
+          "url": "https://open.spotify.com/artist/4W0hBPNHRP2ryMCEI0X4A2"
         }
       ],
-      "duration_ms": 185413,
-      "name": "Warrior Souls",
-      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
+      "duration_ms": 162493,
+      "name": "Carro\u00f1eros",
+      "url": "https://open.spotify.com/track/5oLYaER3SiprE8r5pc2feM"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "duration_ms": 574634,
+      "name": "One (feat. Robert Trujillo) - Instrumental",
+      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Cave We Fear To Enter",
+        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "The Cave We Fear to Enter",
+      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -135,54 +147,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Cave We Fear To Enter",
-        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
+        "name": "Bask in the Blood of Our Demons - EP",
+        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
         }
       ],
-      "duration_ms": 307000,
-      "name": "The Cave We Fear to Enter",
-      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
+      "duration_ms": 185413,
+      "name": "Warrior Souls",
+      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Mind Games (The Ultimate Collection)",
-        "url": "https://open.spotify.com/album/2rc7gJVR3Ne08WuaZ0l5Wf"
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
         }
       ],
-      "duration_ms": 252958,
-      "name": "Mind Games - Ultimate Mix",
-      "url": "https://open.spotify.com/track/4iL5reGSTy39GSpe1yd833"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -203,22 +195,6 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone) - Acoustic Version",
       "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -291,6 +267,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Forever Young [Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)]",
+        "url": "https://open.spotify.com/album/6FDX3LJoKuDKaM7clzvuDZ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 307653,
+      "name": "Forever Young - Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)",
+      "url": "https://open.spotify.com/track/3d8wAwAgFQn2oEIw8HI6Jb"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\"",
         "url": "https://open.spotify.com/album/3yFWMFIp37EDPdMl6lAZAW"
       },
@@ -311,18 +307,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
+        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -347,26 +347,6 @@
       "duration_ms": 159643,
       "name": "Lamento de la Sinfon\u00eda Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/00V77PXEGzYbCEEJqtsPq1"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Forever Young [Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)]",
-        "url": "https://open.spotify.com/album/6FDX3LJoKuDKaM7clzvuDZ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 307653,
-      "name": "Forever Young - Live at Seattle Center Coliseum, Seattle, WA - February 9, 1974 (Afternoon)",
-      "url": "https://open.spotify.com/track/3d8wAwAgFQn2oEIw8HI6Jb"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -411,30 +391,50 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS"
+        "name": "Pretty Good To Feel Something",
+        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
       },
       "artists": [
         {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        },
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        },
-        {
-          "name": "Pulpul",
-          "url": "https://open.spotify.com/artist/4W0hBPNHRP2ryMCEI0X4A2"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Carro\u00f1eros",
-      "url": "https://open.spotify.com/track/5oLYaER3SiprE8r5pc2feM"
+      "duration_ms": 186679,
+      "name": "Pretty Good To Feel Something",
+      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Mind Games (The Ultimate Collection)",
+        "url": "https://open.spotify.com/album/2rc7gJVR3Ne08WuaZ0l5Wf"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 252958,
+      "name": "Mind Games - Ultimate Mix",
+      "url": "https://open.spotify.com/track/4iL5reGSTy39GSpe1yd833"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Fading Like A Rose - EP",
+        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Fading Like A Rose (Everytime Remix)",
+      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -471,22 +471,6 @@
       "duration_ms": 220506,
       "name": "Lazy Sod",
       "url": "https://open.spotify.com/track/6hHEAgRuoIu879fOsczCwM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Paradigm (Live)",
-        "url": "https://open.spotify.com/album/36UFz7d3yhZgMSI3XeaerU"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 329199,
-      "name": "Jesus Christ Pose - Live 1992",
-      "url": "https://open.spotify.com/track/1ZwwG24SBYZMpQJHr5ob2w"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -563,22 +547,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
-        "url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216268,
-      "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
-      "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -595,6 +563,22 @@
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
+        "url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216268,
+      "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
+      "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -667,70 +651,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "R3SPAWNED Radio 001 (DJ Mix)",
-        "url": "https://open.spotify.com/album/3UBeqM5jQ2o4E6nPRE110h"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Thank You (Not So Bad) (Mixed)",
-      "url": "https://open.spotify.com/track/4OlWmoKNiP3A0HejJmzSXb"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Attack Phase (Live Los Angeles '84)",
-        "url": "https://open.spotify.com/album/2MkLcXpAaiTCW6Uas7bpCN"
-      },
-      "artists": [
-        {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
-        }
-      ],
-      "duration_ms": 249139,
-      "name": "Wound Up - Live",
-      "url": "https://open.spotify.com/track/5e1HmPZkfie8e1HMeiLhqm"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Linger (Iain Cook Remix)",
-        "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        {
-          "name": "Iain Cook",
-          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
-        }
-      ],
-      "duration_ms": 376094,
-      "name": "Linger - Iain Cook Remix",
-      "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Black Bear Don't Care (Gothminister Remix)",
         "url": "https://open.spotify.com/album/1ywke8AocVQU2LYdj250BX"
       },
@@ -767,6 +687,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Linger (Iain Cook Remix)",
+        "url": "https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Iain Cook",
+          "url": "https://open.spotify.com/artist/5oTYAFr7Prs5cmCumId5CQ"
+        }
+      ],
+      "duration_ms": 376094,
+      "name": "Linger - Iain Cook Remix",
+      "url": "https://open.spotify.com/track/5p77oRvGJ57vzlhjw8pqtq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Higher (Live At Freeman Coliseum / 1999)",
         "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
       },
@@ -799,22 +739,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/2ZB3oyrG9aDyb6hFOOuYnd"
       },
@@ -827,6 +751,22 @@
       "duration_ms": 195555,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/73EIurQGydymTCrHuxYt3q"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -875,26 +815,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
-        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
-      },
-      "artists": [
-        {
-          "name": "E.Cais",
-          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Omnisciencia",
-      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
         "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
       },
@@ -911,22 +831,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Early Daze",
-        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
+        "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
+        "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+          "name": "E.Cais",
+          "url": "https://open.spotify.com/artist/0qZXdjvKdYbQgxUPVdsaGF"
         },
         {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
+      "duration_ms": 236419,
+      "name": "Omnisciencia",
+      "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -959,6 +879,26 @@
       "duration_ms": 256417,
       "name": "Agua un regalo del cielo (feat. Pollo Gonz\u00e1lez, Evelyn Cornejo, Coco Leon & El Pacha)",
       "url": "https://open.spotify.com/track/4c0KDHLLWVZgtlJLdt2ZDr"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Early Daze",
+        "url": "https://open.spotify.com/album/7g0CYkdgqH0t7LJN2FiSlQ"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/3UCjlVtxpkyUkilBgihN6G"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1031,22 +971,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "7 Screaming Diz-Busters (Live)",
-        "url": "https://open.spotify.com/album/37YpFvRfNqmJm5HYwesE2u"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 421648,
-      "name": "7 Screaming Diz-Busters - Live",
-      "url": "https://open.spotify.com/track/3c85MmYaJkGPhHEJFZ8vZv"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "lofi chill vibes with korn",
         "url": "https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC"
       },
@@ -1063,22 +987,6 @@
       "duration_ms": 151578,
       "name": "freak on a leash - lofi",
       "url": "https://open.spotify.com/track/68Y09eztj5gaGcY6jJBdpV"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Cuarto",
-        "url": "https://open.spotify.com/album/57rUsa5oTRdwbgKbCHSNQb"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "Somos Errantes",
-      "url": "https://open.spotify.com/track/0HapbnDdUPdVHT0C6jHGV9"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1187,74 +1095,6 @@
       "duration_ms": 267314,
       "name": "Moon River / Audrey\u2019s Letter",
       "url": "https://open.spotify.com/track/6g7uwja1iFcOEPFHWEZN8I"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Rock 'n' Roll Star!",
-        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 104690,
-      "name": "So Long 60s - San Francisco Hotel Recording",
-      "url": "https://open.spotify.com/track/4atQJpxhZKQQ7iHSRUpNDY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/74Fi5fLSHlxRhveI7HMLHz"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 231769,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/5URlaiX8c6XtrpI2ucYxpK"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "One Hand Clapping",
-        "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Soily - One Hand Clapping Sessions",
-      "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

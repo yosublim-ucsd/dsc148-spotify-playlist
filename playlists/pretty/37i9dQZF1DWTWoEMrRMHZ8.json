@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Samuel Rosa",
-  "num_followers": 345337,
+  "num_followers": 345350,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
+    },
+    {
+      "added_at": "2024-07-12 19:18:27",
+      "album": {
         "name": "Quem dir\u00e1?",
         "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+        "name": "Casa de Boneca",
+        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
+      "duration_ms": 159230,
+      "name": "Casa de Boneca",
+      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
     },
     {
       "added_at": "2024-07-12 19:18:27",
@@ -639,22 +655,6 @@
       "duration_ms": 212300,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-07-12 19:18:27",
-      "album": {
-        "name": "Casa de Boneca",
-        "url": "https://open.spotify.com/album/2HKCooq58CYNbgVnVlZka2"
-      },
-      "artists": [
-        {
-          "name": "Nina Oliveira",
-          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Casa de Boneca",
-      "url": "https://open.spotify.com/track/4RD4FUbGQqHE8nMnv3inYJ"
     },
     {
       "added_at": "2024-07-12 19:18:27",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
+        "name": "PROIBIDO N\u00c3O GOSTAR",
+        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
+      },
+      "artists": [
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "added_at": "2024-07-12 19:18:27",
+      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -755,6 +775,26 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
+    },
+    {
+      "added_at": "2024-07-12 19:18:27",
+      "album": {
         "name": "N\u00e3o vejo a hora",
         "url": "https://open.spotify.com/album/4iuOtGlTt5485mrjYelXSA"
       },
@@ -767,26 +807,6 @@
       "duration_ms": 196602,
       "name": "N\u00e3o vejo a hora",
       "url": "https://open.spotify.com/track/6Wn7IS6IfsbhmmhZJmurKf"
-    },
-    {
-      "added_at": "2024-07-12 19:18:27",
-      "album": {
-        "name": "PROIBIDO N\u00c3O GOSTAR",
-        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
-      },
-      "artists": [
-        {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
     },
     {
       "added_at": "2024-07-12 19:18:27",
@@ -819,26 +839,6 @@
       "duration_ms": 186000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
-    },
-    {
-      "added_at": "2024-07-12 19:18:27",
-      "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
     },
     {
       "added_at": "2024-07-12 19:18:27",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
+        "name": "Malandragem",
+        "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Malandragem",
+      "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
+    },
+    {
+      "added_at": "2024-07-12 19:18:27",
+      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
-        "name": "Caminho de Quem Passa",
-        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 208572,
-      "name": "Caminho de Quem Passa",
-      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
-    },
-    {
-      "added_at": "2024-07-12 19:18:27",
-      "album": {
         "name": "Sou Eu Que Vou Trabalhar",
         "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
       },
@@ -1275,6 +1275,42 @@
       "duration_ms": 167713,
       "name": "Sou Eu Que Vou Trabalhar",
       "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
+    },
+    {
+      "added_at": "2024-07-12 19:18:27",
+      "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/24KDILHIpRPBcxAN9S4tXz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Orlando Morais",
+          "url": "https://open.spotify.com/artist/5fjNNMiS4xA9ri50gHSHPv"
+        }
+      ],
+      "duration_ms": 256049,
+      "name": "Sentido",
+      "url": "https://open.spotify.com/track/47p6zm9vtMTgqVljgyH5wT"
+    },
+    {
+      "added_at": "2024-07-12 19:18:27",
+      "album": {
+        "name": "Caminho de Quem Passa",
+        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 208572,
+      "name": "Caminho de Quem Passa",
+      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
     },
     {
       "added_at": "2024-07-12 19:18:27",
@@ -1343,22 +1379,6 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
-        "name": "J\u00e3o",
-        "url": "https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1"
-      },
-      "artists": [
-        {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
-        }
-      ],
-      "duration_ms": 300225,
-      "name": "J\u00e3o",
-      "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
-    },
-    {
-      "added_at": "2024-07-12 19:18:27",
-      "album": {
         "name": "Multicolorida",
         "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
       },
@@ -1371,6 +1391,22 @@
       "duration_ms": 256344,
       "name": "Multicolorida",
       "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
+    },
+    {
+      "added_at": "2024-07-12 19:18:27",
+      "album": {
+        "name": "J\u00e3o",
+        "url": "https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1"
+      },
+      "artists": [
+        {
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+        }
+      ],
+      "duration_ms": 300225,
+      "name": "J\u00e3o",
+      "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
     },
     {
       "added_at": "2024-07-12 19:18:27",
@@ -1391,38 +1427,46 @@
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/24KDILHIpRPBcxAN9S4tXz"
+        "name": "Tem Barata Voadora Que Se Acha Borboleta",
+        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
       },
       "artists": [
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "NAT\u00d6",
+          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
         },
         {
-          "name": "Orlando Morais",
-          "url": "https://open.spotify.com/artist/5fjNNMiS4xA9ri50gHSHPv"
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "CRIS.",
+          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
         }
       ],
-      "duration_ms": 256049,
-      "name": "Sentido",
-      "url": "https://open.spotify.com/track/47p6zm9vtMTgqVljgyH5wT"
+      "duration_ms": 181276,
+      "name": "Tem Barata Voadora Que Se Acha Borboleta",
+      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
     },
     {
       "added_at": "2024-07-12 19:18:27",
       "album": {
-        "name": "Malandragem",
-        "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
+        "name": "Fascina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4y2gkqcYkMseR49a2PzDal"
       },
       "artists": [
         {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/36wFIGOzilPz03RSfP5Rl7"
+        },
+        {
+          "name": "Marcello Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/3meY1PqyH0j5oWNNeknkZO"
         }
       ],
-      "duration_ms": 231648,
-      "name": "Malandragem",
-      "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
+      "duration_ms": 184500,
+      "name": "Fascina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3WNTi4K0O6oaK306nHDNm0"
     },
     {
       "added_at": "2024-07-12 19:18:27",
@@ -1459,50 +1503,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
-    },
-    {
-      "added_at": "2024-07-12 19:18:27",
-      "album": {
-        "name": "Fascina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4y2gkqcYkMseR49a2PzDal"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/36wFIGOzilPz03RSfP5Rl7"
-        },
-        {
-          "name": "Marcello Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/3meY1PqyH0j5oWNNeknkZO"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Fascina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3WNTi4K0O6oaK306nHDNm0"
-    },
-    {
-      "added_at": "2024-07-12 19:18:27",
-      "album": {
-        "name": "Tem Barata Voadora Que Se Acha Borboleta",
-        "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
-      },
-      "artists": [
-        {
-          "name": "NAT\u00d6",
-          "url": "https://open.spotify.com/artist/5tcibVee711ANTnnmW4gr6"
-        },
-        {
-          "name": "Skeeter Beats",
-          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
-        },
-        {
-          "name": "CRIS.",
-          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "Tem Barata Voadora Que Se Acha Borboleta",
-      "url": "https://open.spotify.com/track/58oLSDXQwxHVb7SAVtSgpg"
     }
   ],
   "unique_name": "Divina MPB",

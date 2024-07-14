@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-474 songs - 23 hr 21 min
+478 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 | 2022-04-05 |  |
 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 | 2022-08-19 |  |
 | [Beam](https://open.spotify.com/track/4oH3QxN1Gu6nQSaXnXxhdG) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Beam](https://open.spotify.com/album/4d9jrv1alGZIhLlijW8ZVZ) | 2:16 | 2023-01-13 |  |
+| [Beams](https://open.spotify.com/track/1xWpyI8pySBJ3J7mcEePds) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Beams](https://open.spotify.com/album/7MEG6yK0KeAsPmruLlSU2Y) | 3:25 | 2024-07-14 |  |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2022-04-05 |  |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2022-04-05 |  |
 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2022-04-05 |  |
@@ -79,6 +80,7 @@
 | [Century 21](https://open.spotify.com/track/2YoXYKyPI7tzCACr6lfG2S) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Century 21](https://open.spotify.com/album/1t5AdYrBVeg9YmWnSUuStP) | 3:46 | 2022-10-28 | 2024-02-27 |
 | [Ceylon Drift](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Ceylon Drift / Vindby](https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA) | 2:51 | 2022-04-15 |  |
 | [champagne and kisses](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [champagne and kisses](https://open.spotify.com/album/5iFj47fk9OPPC1kw4eI9ul) | 4:01 | 2023-01-20 |  |
+| [Champagne Breakfast](https://open.spotify.com/track/33QH3fO3g9s5NFi62p8TDr) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [Champagne Breakfast](https://open.spotify.com/album/0kKIbm5JkdMPvwot6bZOEN) | 3:04 | 2024-07-14 |  |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-04-05 |  |
 | [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 | 2023-07-07 |  |
@@ -378,6 +380,7 @@
 | [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 | 2023-05-22 |  |
 | [shade](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [shade](https://open.spotify.com/album/4quQww8KbK6FVuv4EPwZP4) | 2:20 | 2022-08-12 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-05 |  |
+| [Shytsù](https://open.spotify.com/track/3pM4JILCyD5mEVAjVzsMho) | [Ayaxei](https://open.spotify.com/artist/77RjwHifvgmjjcxr8LcJDV) | [Shytsù](https://open.spotify.com/album/2fR93b0reIyf0USAcAMg1J) | 2:21 | 2024-07-14 |  |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2022-04-05 | 2022-07-29 |
 | [Silent Night](https://open.spotify.com/track/2ukFKTsfS4BNWuTlaNMNJr) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/4Tb62CXMnvRIAcZ0KaRa42) | 2:50 | 2024-02-27 | 2024-04-19 |
 | [Silent Night](https://open.spotify.com/track/76sSclBbZk7dmGAqsHIbhx) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/5ALVrxBQN7xyMyeOF7DToQ) | 2:50 | 2022-10-28 |  |
@@ -434,6 +437,7 @@
 | [teque](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [teque](https://open.spotify.com/album/4HsO0EPeFW6f4934ic9DDU) | 3:08 | 2022-10-28 |  |
 | [The Feels](https://open.spotify.com/track/12ZDfHYGroYkrsxSSolen1) | [Peqasus](https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD) | [The Feels](https://open.spotify.com/album/1vAkH3vVYpYh4p1O6XLVir) | 2:17 | 2024-06-11 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-04-05 |  |
+| [The Walking Lights](https://open.spotify.com/track/1YA6h3296OZrrdVC7Fz1in) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [The Walking Lights](https://open.spotify.com/album/2Cb9A2Vwbo7TXYEOljCFHD) | 2:10 | 2024-07-14 |  |
 | [Those Hazel Eyes](https://open.spotify.com/track/2KK10rRx9UrGc2ryjsL2Jh) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Those Hazel Eyes](https://open.spotify.com/album/0hPDBdazEBgdE8dS2Ch5SN) | 2:27 | 2022-04-05 | 2022-07-29 |
 | [Time & Space](https://open.spotify.com/track/65PJ7AIFK8gAp1XxDYO1Hl) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Time and Space](https://open.spotify.com/album/5RQA3FWGZs8f6S90umCeDA) | 4:02 | 2022-04-05 |  |
 | [time to cry](https://open.spotify.com/track/6LqDDloFVL2RkcV1ImAyW2) | [robi](https://open.spotify.com/artist/2yRQV9I2707gOoMNQWyEva) | [dreamin' II](https://open.spotify.com/album/1wAVW1mM6A3VDa0KKdT9xb) | 3:14 | 2022-04-05 | 2022-07-29 |

@@ -2,7 +2,7 @@
 
 ### [This Is zebrahead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO441VhO)
 
-> This is zebrahead\. The essential tracks, all in one playlist.
+> This is zebrahead\. Track\-track unggulan, semuanya dalam satu playlist.
 
 83 songs - 4 hr 26 min
 

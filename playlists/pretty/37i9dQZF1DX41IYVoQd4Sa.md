@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,744 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,753 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 40 | [עד שתחזור, עד שתשובי](https://open.spotify.com/track/6tqTHljogFwHapPUv1vW73) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [עד שתחזור, עד שתשובי](https://open.spotify.com/album/1PR83IYAtqHfQswH731Jdw) | 3:56 |
 | 41 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 |
 | 42 | [שיר](https://open.spotify.com/track/2AUzygfHvqOIfd3W9uViro) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:57 |
-| 43 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
-| 44 | [Another Life](https://open.spotify.com/track/5ehKFubjMlzscWxQOZXU1Y) | [Metropolin](https://open.spotify.com/artist/2CH9N0ISuyCkZ2q3XEY2V0), [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [Another Life](https://open.spotify.com/album/5q3coMph1VFaQTZliJZJIA) | 3:32 |
+| 43 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 |
+| 44 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
 | 45 | [Shot Shot Cherry](https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe) | 2:32 |
-| 46 | [כישוף](https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/2AYNaul3xaYy6bh4aVaXHE) | 3:23 |
-| 47 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 |
+| 46 | [Another Life](https://open.spotify.com/track/5ehKFubjMlzscWxQOZXU1Y) | [Metropolin](https://open.spotify.com/artist/2CH9N0ISuyCkZ2q3XEY2V0), [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [Another Life](https://open.spotify.com/album/5q3coMph1VFaQTZliJZJIA) | 3:32 |
+| 47 | [כישוף](https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/2AYNaul3xaYy6bh4aVaXHE) | 3:23 |
 | 48 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 |
 | 49 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
 | 50 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 53 | [אפוקליפסה](https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg) | 3:17 |
 | 54 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
 | 55 | [Wishing Girl \- Lola Marsh Cover](https://open.spotify.com/track/7tiXgnhKPsHDxYvfe85paQ) | [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7), [Maor Shvartzberg](https://open.spotify.com/artist/0lQpHeiH1mC9GkSPSQvj65) | [Singles](https://open.spotify.com/album/2fXHQgcncO7Em0PcRKTE05) | 3:59 |
-| 56 | [שיר אהבה אינדיאני](https://open.spotify.com/track/7hAU0v73HDHE4XQPvL1xVH) | [Barak Biton](https://open.spotify.com/artist/4jk2OJYfUVhgPigfQpb2mh), [Alma Zohar](https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9), [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM) | [שיר אהבה אינדיאני](https://open.spotify.com/album/1aEuZGohsPhpxjUIR0HMVm) | 3:15 |
-| 57 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
+| 56 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
+| 57 | [שיר אהבה אינדיאני](https://open.spotify.com/track/7hAU0v73HDHE4XQPvL1xVH) | [Barak Biton](https://open.spotify.com/artist/4jk2OJYfUVhgPigfQpb2mh), [Alma Zohar](https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9), [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM) | [שיר אהבה אינדיאני](https://open.spotify.com/album/1aEuZGohsPhpxjUIR0HMVm) | 3:15 |
 | 58 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
-| 59 | [כל החיים](https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [כל החיים](https://open.spotify.com/album/7lIHyWYs1wRbk1GxAIY7oG) | 3:43 |
-| 60 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 |
+| 59 | [צ'ופ צ'ופ](https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T) | [סלון קורטינה](https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [צ'ופ צ'ופ](https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs) | 2:37 |
+| 60 | [כל החיים](https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [כל החיים](https://open.spotify.com/album/7lIHyWYs1wRbk1GxAIY7oG) | 3:43 |
 
 Snapshot ID: `ZpEe1AAAAABGc8H8Cu14UpSNtrDSy5hi`

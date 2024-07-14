@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Y'akoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,486 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,484 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [nie vorbei](https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [nie vorbei](https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no) | 2:36 |
 | 19 | [Willkommen in der Realität](https://open.spotify.com/track/2aoIcx6nhScB6ZSNUzKvrT) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Willkommen in der Realität](https://open.spotify.com/album/0ZO0M7qo0BHEBbJQ1zIUzJ) | 2:59 |
 | 20 | [Keine Liebe \(Nobody to love\)](https://open.spotify.com/track/42t1Kkx0evqAGJMIXpoEKV) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Keine Liebe \(Nobody to love\)](https://open.spotify.com/album/2bCFNHpzFkvJJkKjBN8OHk) | 2:38 |
-| 21 | [Fensterbank](https://open.spotify.com/track/2ajrVWff8PZUzeRF6xSwku) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Fensterbank](https://open.spotify.com/album/3KnjmQv2UbPFlhuscvieV2) | 2:44 |
-| 22 | [Cumshot](https://open.spotify.com/track/3rkvPrlGZimE8x9VEQeTtI) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Cumshot](https://open.spotify.com/album/0jDEbTx2HflVGLelrIRKUM) | 2:02 |
-| 23 | [Wenn du gehst](https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Wenn du gehst](https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK) | 2:30 |
+| 21 | [Cumshot](https://open.spotify.com/track/3rkvPrlGZimE8x9VEQeTtI) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Cumshot](https://open.spotify.com/album/0jDEbTx2HflVGLelrIRKUM) | 2:02 |
+| 22 | [Wenn du gehst](https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Wenn du gehst](https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK) | 2:30 |
+| 23 | [Fensterbank](https://open.spotify.com/track/2ajrVWff8PZUzeRF6xSwku) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Fensterbank](https://open.spotify.com/album/3KnjmQv2UbPFlhuscvieV2) | 2:44 |
 | 24 | [Fool Me Once](https://open.spotify.com/track/76wyTlJOQYwn69IMyIqOVb) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mermaid Blues](https://open.spotify.com/album/2vZ8pNSUd9uRF4tTgLIBQc) | 3:53 |
 | 25 | [Cöp](https://open.spotify.com/track/0UHhs3pzejxiostXGLnNPH) | [Leyla Karims](https://open.spotify.com/artist/7C9SOLYb9mIZPYVyRR5Owz) | [Cöp](https://open.spotify.com/album/5RlAz9c1qzY0ncGQ86tzr9) | 2:06 |
 | 26 | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/track/7M6917K5sAg3aejbjooySB) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l) | 2:48 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
 | 34 | [Der Blick / Dein Herz ist zu](https://open.spotify.com/track/398X3qX9xuvuPuaXODYnBr) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Der Blick / Dein Herz ist zu](https://open.spotify.com/album/07WtXAuOvj44EZLaPcOzRl) | 2:21 |
 | 35 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 |
-| 36 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 |
+| 36 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
 | 37 | [What's Good](https://open.spotify.com/track/655afr1nexUYljRZzlB64D) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [What's Good](https://open.spotify.com/album/3YLIB4TbUC73jhq8fhNmfU) | 2:43 |
-| 38 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 38 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 |
 | 39 | [wir trafen uns in einem garten](https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [wir trafen uns in einem garten](https://open.spotify.com/album/58Ew6pCPqw2w2eYYGI2waN) | 2:58 |
 | 40 | [Mic Check \(Boomerang\)](https://open.spotify.com/track/1sm4d41wnhIcFSOKr0Rd9I) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [Mic Check \(Boomerang\)](https://open.spotify.com/album/4Z6swtt0kdqgkInJzksVGx) | 2:27 |
 | 41 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 |

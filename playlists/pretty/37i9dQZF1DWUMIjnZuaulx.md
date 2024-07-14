@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:76dDIM8amCY58U3uvr1Rw1">Karen Clark Sheard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,703 likes - 90 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,746 likes - 90 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 37 | [Praise Medley \- Live](https://open.spotify.com/track/3YvkrCWErGF7GxO5N0li38) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Praise Medley \(Live\)](https://open.spotify.com/album/6YDEvsjgkutYte6aGDqKHJ) | 8:44 |
 | 38 | [Grateful](https://open.spotify.com/track/0RamNJ3yMsYouJLTFBCgX5) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Grateful](https://open.spotify.com/album/5R7bp4VDiSkXWd7BfW1BiW) | 4:13 |
 | 39 | [Baptize](https://open.spotify.com/track/0stdRf8zV7vRZwoZaZ2HIK) | [Me’Kayla](https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Prelude](https://open.spotify.com/album/4z0FehXygMCLEITDShMYQG) | 2:14 |
-| 40 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Michael Alexander Todd](https://open.spotify.com/artist/1SaSo4qJjNigo7YNwLyxPV) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
+| 40 | [Dominion](https://open.spotify.com/track/3Uqb5F6LJOCI9WipwCoTHV) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Mike Todd](https://open.spotify.com/artist/4cismFyP7xPVkee8c4agtb) | [Dominion](https://open.spotify.com/album/3UADIpMjM3Dl9W8QWTqm1v) | 8:36 |
 | 41 | [Love it All](https://open.spotify.com/track/6o31q8H6s4AnIGqw88kQ7N) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Dia Day](https://open.spotify.com/artist/1VlVqLddJC57GJqavMynQ6), [Dedani](https://open.spotify.com/artist/0nWi63z95UXZNmC3wurMfP) | [Love it All](https://open.spotify.com/album/46sVbAB7JHfIMLgAxu2eZs) | 3:17 |
 | 42 | [Up Up Up \- Single Version](https://open.spotify.com/track/08Gac8vZ7kfxJSkDXFqXa8) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Up Up Up](https://open.spotify.com/album/0CylFxmZ1kFfUKmkyemBb7) | 3:28 |
 | 43 | [Nobody Can Take It](https://open.spotify.com/track/7yDmnwq3n1bwBMmOIRDRlG) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Nobody Can Take It](https://open.spotify.com/album/4TTwu8jBdghzgoOLimQjpl) | 2:59 |

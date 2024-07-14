@@ -2,7 +2,7 @@
 
 ### [This Is Timaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iGtt9)
 
-> This is Timaya\. The essential tracks, all in one playlist.
+> This is: Timaya\. Alle wichtigen Tracks in einer Playlist.
 
 103 songs - 5 hr 46 min
 

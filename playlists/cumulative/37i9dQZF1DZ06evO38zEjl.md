@@ -2,7 +2,7 @@
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. The essential tracks, all in one playlist.
+> This Is Jon Hassell\. Los temas esenciales, todos en una lista.
 
 132 songs - 13 hr 14 min
 
@@ -20,7 +20,7 @@
 | [Al Kongo Udu](https://open.spotify.com/track/6ShYYoQkpI5wmGl8jKGudv) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 5:12 | 2023-02-13 |  |
 | [Amsterdam Blue](https://open.spotify.com/track/718TYrpVu69StJUaZZs3j3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Gregg Arreguin](https://open.spotify.com/artist/4xWxgTlKaelqQD3eEz172U), [Jamie Muhoberac](https://open.spotify.com/artist/3qL4si8YoeX67fbX9wCabM), [Peter Freeman](https://open.spotify.com/artist/030PQQ3lkozUv87jzb6QGi) | [Amsterdam Blue](https://open.spotify.com/album/5WV1lwUFJ83ePkhZQtGwWC) | 9:19 | 2024-04-13 |  |
 | [Aurora](https://open.spotify.com/track/1h8mF0iwlMSf9BCoUP9sX6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 5:22 | 2022-05-29 |  |
-| [Ayshyin Raquin](https://open.spotify.com/track/4w72TCoWaoE11mynCinysb) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:16 | 2022-08-31 | 2024-07-12 |
+| [Ayshyin Raquin](https://open.spotify.com/track/4w72TCoWaoE11mynCinysb) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:16 | 2022-08-31 |  |
 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 | 2022-05-29 |  |
 | [Balia](https://open.spotify.com/track/2sqjeTEr4oFDnMA4478E3M) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 4:40 | 2023-09-25 | 2023-11-11 |
 | [Balia](https://open.spotify.com/track/2zzfAe9dSic2L9MGTCDxPk) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:40 | 2022-06-07 | 2023-01-18 |
@@ -53,7 +53,7 @@
 | [Emerald City](https://open.spotify.com/track/09bEaFophDjQMFCUcHSjL6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:08 | 2023-04-08 | 2024-05-04 |
 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 | 2022-05-29 |  |
 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 | 2022-05-30 |  |
-| [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 | 2022-05-29 |  |
+| [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 | 2022-05-29 | 2024-07-14 |
 | [Empire IV](https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 5:13 | 2022-05-29 | 2024-07-11 |
 | [Empire V](https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 3:40 | 2022-05-29 |  |
 | [Favela](https://open.spotify.com/track/5c5stvn9idPulAh0dy4xHD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:55 | 2023-04-14 | 2024-07-11 |

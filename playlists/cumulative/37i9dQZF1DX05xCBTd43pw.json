@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 183453,
       "name": "bad times",
       "url": "https://open.spotify.com/track/72hh4nkhvz4iC6mXpJZ9oL"
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "i'm sry i love u",
+        "url": "https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195655,
+      "name": "i'm sry i love u",
+      "url": "https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI"
+    },
+    {
+      "album": {
         "name": "If You Call",
         "url": "https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol"
       },
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
@@ -864,7 +882,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 176086,
       "name": "Mi Mundo",
       "url": "https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT"

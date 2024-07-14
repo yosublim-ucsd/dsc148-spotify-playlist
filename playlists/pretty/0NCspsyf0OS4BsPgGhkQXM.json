@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2020260,
+  "num_followers": 2020381,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5bIlw1HRARIfanpZosp82YzTZE/bC",
+  "snapshot_id": "AAA5b7mD3BnZJOVxBskEALAoUFMpmxvw",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/7qqZLIcRL8BTXh12vOBgYQ"
     },
     {
+      "added_at": "2024-07-13 21:10:28",
+      "album": {
+        "name": "Whine in Brazil",
+        "url": "https://open.spotify.com/album/7AMtOQ4omSoq5q74aZPxdS"
+      },
+      "artists": [
+        {
+          "name": "Ichiss",
+          "url": "https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl"
+        }
+      ],
+      "duration_ms": 100008,
+      "name": "Whine in Brazil",
+      "url": "https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "After Dark",
@@ -811,26 +827,6 @@
       "duration_ms": 131076,
       "name": "I am a Machine",
       "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
-    },
-    {
-      "added_at": "2024-05-10 21:38:50",
-      "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
-      },
-      "artists": [
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
-        },
-        {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
-        }
-      ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2024-02-13 23:00:52",

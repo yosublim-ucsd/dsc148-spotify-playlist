@@ -1,6 +1,6 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f Lana Del Rey",
-  "num_followers": 14956,
+  "num_followers": 14965,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Je te laisserai des mots",
-        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Je te laisserai des mots",
-      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 223266,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 338053,
+      "name": "Frou-frou Foxes in Midsummer Fires",
+      "url": "https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
         "name": "Locket",
         "url": "https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR"
       },
@@ -939,38 +955,6 @@
       "duration_ms": 135453,
       "name": "I'd Like To Walk Around In Your Mind",
       "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
-        "name": "Journey (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn"
-      },
-      "artists": [
-        {
-          "name": "Austin Wintory",
-          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
-        }
-      ],
-      "duration_ms": 106960,
-      "name": "Nascence",
-      "url": "https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 338053,
-      "name": "Frou-frou Foxes in Midsummer Fires",
-      "url": "https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
+        "name": "Journey (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn"
+      },
+      "artists": [
+        {
+          "name": "Austin Wintory",
+          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        }
+      ],
+      "duration_ms": 106960,
+      "name": "Nascence",
+      "url": "https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 222920,
       "name": "Part III",
       "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
     },
     {
       "added_at": "2024-05-07 00:40:46",

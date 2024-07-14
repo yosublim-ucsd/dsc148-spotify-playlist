@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "93 Dreaming",
+        "url": "https://open.spotify.com/album/0L0MxFYjZPp7I0GwQplpne"
+      },
+      "artists": [
+        {
+          "name": "The Trainman",
+          "url": "https://open.spotify.com/artist/5NLkK1NEe2JzDagD3N2Odi"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267130,
+      "name": "93 Dreaming",
+      "url": "https://open.spotify.com/track/2FyPqSpyIslwSwyZ6hfbPR"
+    },
+    {
+      "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/0OVETjyjXzU4JDklDCybyw"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
@@ -5761,6 +5779,28 @@
     },
     {
       "album": {
+        "name": "KRUSH TEST",
+        "url": "https://open.spotify.com/album/5Es4o9KMLc6Gkq81TU2UGr"
+      },
+      "artists": [
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        },
+        {
+          "name": "acronym.",
+          "url": "https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "KRUSH TEST",
+      "url": "https://open.spotify.com/track/0jwyhaH8WxUADdHJPqZyP7"
+    },
+    {
+      "album": {
         "name": "krushcore",
         "url": "https://open.spotify.com/album/2jdO1GP9QHK4UTNWNk5nxy"
       },
@@ -9244,6 +9284,24 @@
       "duration_ms": 173296,
       "name": "Shadow Lady - DePaul Remix",
       "url": "https://open.spotify.com/track/41wpYulxmi9TURWSFVgo4c"
+    },
+    {
+      "album": {
+        "name": "SHAKE!",
+        "url": "https://open.spotify.com/album/46gwIc4bEr4kGqkxXeIu4G"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97443,
+      "name": "SHAKE!",
+      "url": "https://open.spotify.com/track/0upH1e9VplDGtb1cnFNGma"
     },
     {
       "album": {

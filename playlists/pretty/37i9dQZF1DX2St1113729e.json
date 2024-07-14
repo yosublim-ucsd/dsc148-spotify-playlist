@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Espineli, LVL1",
-  "num_followers": 216223,
+  "num_followers": 216194,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -31,26 +31,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Los Sue\u00f1os De Nube",
-        "url": "https://open.spotify.com/album/0ERo8VtTm8Xjputhv6WtTN"
-      },
-      "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        },
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        }
-      ],
-      "duration_ms": 216402,
-      "name": "Coraz\u00f3n De Nube",
-      "url": "https://open.spotify.com/track/3d399pzUaweyFAPKYsIO4k"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "MIAU",
         "url": "https://open.spotify.com/album/4myIYFgyU6L1hXHVkpdTvP"
       },
@@ -75,6 +55,26 @@
       "duration_ms": 188812,
       "name": "MIAU",
       "url": "https://open.spotify.com/track/56yrg4v6jR84zWgfmp7Vnw"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Los Sue\u00f1os De Nube",
+        "url": "https://open.spotify.com/album/0ERo8VtTm8Xjputhv6WtTN"
+      },
+      "artists": [
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        },
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "duration_ms": 216402,
+      "name": "Coraz\u00f3n De Nube",
+      "url": "https://open.spotify.com/track/3d399pzUaweyFAPKYsIO4k"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -799,50 +799,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Oni Chan",
-        "url": "https://open.spotify.com/album/6pamDkLxoyI6o0XIjd81Jv"
-      },
-      "artists": [
-        {
-          "name": "Euskoprincess",
-          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
-        },
-        {
-          "name": "GlorySixVain",
-          "url": "https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Oni Chan",
-      "url": "https://open.spotify.com/track/3nkujAQ9G6VHdHc5f0ZD0n"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "ADULTA Y FUNCIONAL",
-        "url": "https://open.spotify.com/album/7JUCkoquPjHPJN3AVy9b5u"
-      },
-      "artists": [
-        {
-          "name": "Rakky Ripper",
-          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
-        },
-        {
-          "name": "Marta Sango",
-          "url": "https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv"
-        },
-        {
-          "name": "eurosanto",
-          "url": "https://open.spotify.com/artist/0UDkMW0MDYYjQpPx0v7pBP"
-        }
-      ],
-      "duration_ms": 173775,
-      "name": "ADULTA Y FUNCIONAL",
-      "url": "https://open.spotify.com/track/7cMPEH5WqRvID3ovjYgy17"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Torero (feat. alequi, BLNCO, Cma, Delgao, Fran Laoren, Mar\u00eda Escarmiento, Shy Kolbe & SUOB)",
         "url": "https://open.spotify.com/album/1PLDs8TC0e8UPD0fuiRQhZ"
       },
@@ -887,6 +843,50 @@
       "duration_ms": 223777,
       "name": "Torero (feat. alequi, BLNCO, Cma, Delgao, Fran Laoren, Mar\u00eda Escarmiento, Shy Kolbe & SUOB)",
       "url": "https://open.spotify.com/track/7s4EGtj1mpWN3no66tSAEw"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Oni Chan",
+        "url": "https://open.spotify.com/album/6pamDkLxoyI6o0XIjd81Jv"
+      },
+      "artists": [
+        {
+          "name": "Euskoprincess",
+          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
+        },
+        {
+          "name": "GlorySixVain",
+          "url": "https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Oni Chan",
+      "url": "https://open.spotify.com/track/3nkujAQ9G6VHdHc5f0ZD0n"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "ADULTA Y FUNCIONAL",
+        "url": "https://open.spotify.com/album/7JUCkoquPjHPJN3AVy9b5u"
+      },
+      "artists": [
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        },
+        {
+          "name": "Marta Sango",
+          "url": "https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv"
+        },
+        {
+          "name": "eurosanto",
+          "url": "https://open.spotify.com/artist/0UDkMW0MDYYjQpPx0v7pBP"
+        }
+      ],
+      "duration_ms": 173775,
+      "name": "ADULTA Y FUNCIONAL",
+      "url": "https://open.spotify.com/track/7cMPEH5WqRvID3ovjYgy17"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Crazy Cheap / Really Hot",
-        "url": "https://open.spotify.com/album/1jVgINsEd6mok8qposd6Yc"
-      },
-      "artists": [
-        {
-          "name": "Babymorocco",
-          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
-        },
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Crazy Cheap",
-      "url": "https://open.spotify.com/track/3BvwN0lAegXbVBEyVcLTlw"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "guardian angel",
         "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 106666,
       "name": "guardian angel",
       "url": "https://open.spotify.com/track/7FvUAQmTuhOOYaDjuL0jdy"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Crazy Cheap / Really Hot",
+        "url": "https://open.spotify.com/album/1jVgINsEd6mok8qposd6Yc"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        },
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Crazy Cheap",
+      "url": "https://open.spotify.com/track/3BvwN0lAegXbVBEyVcLTlw"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Cuando Te Veo Pasar",
+        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 134697,
+      "name": "Cuando Te Veo Pasar",
+      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "POP!",
         "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 147682,
       "name": "HOY ES UN MAL D\u00cdA",
       "url": "https://open.spotify.com/track/2AyF7X6ZwS1001Z5qGsYDw"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Cuando Te Veo Pasar",
-        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 134697,
-      "name": "Cuando Te Veo Pasar",
-      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1415,6 +1415,30 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Rave Generator (feat. DJ Flapjack)",
+        "url": "https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX"
+      },
+      "artists": [
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        },
+        {
+          "name": "DJ Final Boss",
+          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
+        },
+        {
+          "name": "DJ Flapjack",
+          "url": "https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Rave Generator (feat. DJ Flapjack)",
+      "url": "https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "MIEDO MADRID",
         "url": "https://open.spotify.com/album/3RzZDssgztAD1xg2YCyuc6"
       },
@@ -1491,30 +1515,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "2 perdices",
-        "url": "https://open.spotify.com/album/6Sam76k7K4MD0bh4wEIEpY"
-      },
-      "artists": [
-        {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
-        },
-        {
-          "name": "Delgao",
-          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
-        },
-        {
-          "name": "BLNCO",
-          "url": "https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p"
-        }
-      ],
-      "duration_ms": 150795,
-      "name": "2 perdices",
-      "url": "https://open.spotify.com/track/4hKgioVmJ74290mQLo70vb"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "LOVE 003",
         "url": "https://open.spotify.com/album/1tCti1oIrfocCG2CIGLVc4"
       },
@@ -1535,18 +1535,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "INSTINTO",
-        "url": "https://open.spotify.com/album/0ChCGKi2O4XaC0TAocD7qM"
+        "name": "2 perdices",
+        "url": "https://open.spotify.com/album/6Sam76k7K4MD0bh4wEIEpY"
       },
       "artists": [
         {
-          "name": "Ali Abell\u00e1n",
-          "url": "https://open.spotify.com/artist/0a18ktjMgJiky88B6D4ToL"
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+        },
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        },
+        {
+          "name": "BLNCO",
+          "url": "https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p"
         }
       ],
-      "duration_ms": 174055,
-      "name": "INSTINTO",
-      "url": "https://open.spotify.com/track/1oNzAosrVjzc4xP9CgYDia"
+      "duration_ms": 150795,
+      "name": "2 perdices",
+      "url": "https://open.spotify.com/track/4hKgioVmJ74290mQLo70vb"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1579,6 +1587,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "INSTINTO",
+        "url": "https://open.spotify.com/album/0ChCGKi2O4XaC0TAocD7qM"
+      },
+      "artists": [
+        {
+          "name": "Ali Abell\u00e1n",
+          "url": "https://open.spotify.com/artist/0a18ktjMgJiky88B6D4ToL"
+        }
+      ],
+      "duration_ms": 174055,
+      "name": "INSTINTO",
+      "url": "https://open.spotify.com/track/1oNzAosrVjzc4xP9CgYDia"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "2005 a. A.",
         "url": "https://open.spotify.com/album/6XvEWWwGd7grI27bFKMDcu"
       },
@@ -1595,6 +1619,26 @@
       "duration_ms": 157714,
       "name": "hoy amaneci\u00f3 nublado",
       "url": "https://open.spotify.com/track/2LtQ0EE4CwuDWiLb5uLt9r"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "PENROSE",
+        "url": "https://open.spotify.com/album/5nLPjBn032PXESRcknb4VT"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        },
+        {
+          "name": "curtice",
+          "url": "https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq"
+        }
+      ],
+      "duration_ms": 121193,
+      "name": "PENROSE",
+      "url": "https://open.spotify.com/track/6DE6GQb7LcoNlDufJhdRlz"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1627,26 +1671,6 @@
       "duration_ms": 120636,
       "name": "mverdeme^^",
       "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "PENROSE",
-        "url": "https://open.spotify.com/album/5nLPjBn032PXESRcknb4VT"
-      },
-      "artists": [
-        {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
-        },
-        {
-          "name": "curtice",
-          "url": "https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq"
-        }
-      ],
-      "duration_ms": 121193,
-      "name": "PENROSE",
-      "url": "https://open.spotify.com/track/6DE6GQb7LcoNlDufJhdRlz"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1719,26 +1743,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Purgatorio_RMX",
-        "url": "https://open.spotify.com/album/3I3pOaFLUOtxtDgKvQk8BQ"
-      },
-      "artists": [
-        {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
-        },
-        {
-          "name": "BAZOFIA",
-          "url": "https://open.spotify.com/artist/1imn2WUN95p3MbeAGUP7gK"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "almaenpena_rmx128bpm",
-      "url": "https://open.spotify.com/track/04OGJPfNNwkp5GOMmY5dVE"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Enfermedad",
         "url": "https://open.spotify.com/album/4T0TvG4am4yq4kX1EV5lx7"
       },
@@ -1775,6 +1779,26 @@
       "duration_ms": 132350,
       "name": "cute//p#!@",
       "url": "https://open.spotify.com/track/2sKNWpiRzJzKKlHZCQlQum"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Purgatorio_RMX",
+        "url": "https://open.spotify.com/album/3I3pOaFLUOtxtDgKvQk8BQ"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        },
+        {
+          "name": "BAZOFIA",
+          "url": "https://open.spotify.com/artist/1imn2WUN95p3MbeAGUP7gK"
+        }
+      ],
+      "duration_ms": 230624,
+      "name": "almaenpena_rmx128bpm",
+      "url": "https://open.spotify.com/track/04OGJPfNNwkp5GOMmY5dVE"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1819,30 +1843,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Rave Generator (feat. DJ Flapjack)",
-        "url": "https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX"
-      },
-      "artists": [
-        {
-          "name": "LVL1",
-          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
-        },
-        {
-          "name": "DJ Final Boss",
-          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
-        },
-        {
-          "name": "DJ Flapjack",
-          "url": "https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Rave Generator (feat. DJ Flapjack)",
-      "url": "https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "hannah montana",
         "url": "https://open.spotify.com/album/3D0cC6o8loxckFJOX9ytkv"
       },
@@ -1859,26 +1859,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "SANGRANDO ROSA",
-        "url": "https://open.spotify.com/album/0TizfMc2yg4Pd9YqOk7iQh"
+        "name": "C me apag\u00f3 el coso",
+        "url": "https://open.spotify.com/album/7y9G19YJdQI4nbfRZxEloG"
       },
       "artists": [
         {
-          "name": "albwhisp",
-          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
+          "name": "dinastia",
+          "url": "https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp"
         },
         {
-          "name": "whitelxck",
-          "url": "https://open.spotify.com/artist/1dLGd3gjAIcrI4Qhd7YGBf"
-        },
-        {
-          "name": "Collision.Is.Imminent",
-          "url": "https://open.spotify.com/artist/04vav5UwauNxotY32xFmq8"
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
         }
       ],
-      "duration_ms": 208125,
-      "name": "zoo de kristal",
-      "url": "https://open.spotify.com/track/7eHCPMFBHvkPtaJ56d33bC"
+      "duration_ms": 123410,
+      "name": "C me apag\u00f3 el coso",
+      "url": "https://open.spotify.com/track/33hPveqI2sVkwHGm0vrWGQ"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1911,6 +1907,30 @@
       "duration_ms": 113600,
       "name": "irl.angel",
       "url": "https://open.spotify.com/track/0BGC0CP8fHM2rVKZDwNrZL"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "SANGRANDO ROSA",
+        "url": "https://open.spotify.com/album/0TizfMc2yg4Pd9YqOk7iQh"
+      },
+      "artists": [
+        {
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
+        },
+        {
+          "name": "whitelxck",
+          "url": "https://open.spotify.com/artist/1dLGd3gjAIcrI4Qhd7YGBf"
+        },
+        {
+          "name": "Collision.Is.Imminent",
+          "url": "https://open.spotify.com/artist/04vav5UwauNxotY32xFmq8"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "zoo de kristal",
+      "url": "https://open.spotify.com/track/7eHCPMFBHvkPtaJ56d33bC"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1979,30 +1999,6 @@
       "duration_ms": 116742,
       "name": "PRST1",
       "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Girl!",
-        "url": "https://open.spotify.com/album/1ply2s263uFYyGKghfuviG"
-      },
-      "artists": [
-        {
-          "name": "notfloren",
-          "url": "https://open.spotify.com/artist/6AisXyk1tlCJViRgTeH8gT"
-        },
-        {
-          "name": "Aldaz Ck",
-          "url": "https://open.spotify.com/artist/4cz8G9FOMExuC8FvbUFwek"
-        },
-        {
-          "name": "Diimalo",
-          "url": "https://open.spotify.com/artist/4vnbIcoFaq9rmVlg0y5kA0"
-        }
-      ],
-      "duration_ms": 197468,
-      "name": "Girl!",
-      "url": "https://open.spotify.com/track/17vLq7x19C5eMphdQNJDD5"
     }
   ],
   "unique_name": "helium",

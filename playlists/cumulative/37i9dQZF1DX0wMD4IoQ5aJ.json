@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7x5q1o2SGr2Ma8Z174ruAQ"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133875,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/6ViUBQnJXa6NV3Clju2PCb"
+    },
+    {
+      "album": {
         "name": "Bright Red",
         "url": "https://open.spotify.com/album/5iCbtIfeGRbmuVLkhd1YnO"
       },
@@ -1910,6 +1928,24 @@
       "duration_ms": 138947,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/5nN9ez4MrKn2eeJW5EQIZx"
+    },
+    {
+      "album": {
+        "name": "Emerald Sky",
+        "url": "https://open.spotify.com/album/7F61boMnuwOFGWQbo8GbuO"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181291,
+      "name": "Emerald Sky",
+      "url": "https://open.spotify.com/track/3O8sB7BrsIYL1UB7x48759"
     },
     {
       "album": {
@@ -3214,6 +3250,24 @@
       "duration_ms": 181224,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh"
+    },
+    {
+      "album": {
+        "name": "Le Majestic",
+        "url": "https://open.spotify.com/album/7roNBblubAyzT7VxcAIqnn"
+      },
+      "artists": [
+        {
+          "name": "Lou Kil",
+          "url": "https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144041,
+      "name": "Le Majestic",
+      "url": "https://open.spotify.com/track/6KpyF2ZhYUs1m2Sr4xWHqn"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is ReoNa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F3ObS)
 
-> This is: ReoNa\. Alle wichtigen Tracks in einer Playlist.
+> This is ReoNa\. The essential tracks, all in one playlist.
 
 90 songs - 6 hr 49 min
 

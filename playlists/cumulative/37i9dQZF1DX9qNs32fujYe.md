@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-919 songs - 2 day 19 hr 36 min
+920 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 | 2022-07-08 | 2022-09-24 |
 | [Dark Incarnation \(Mother of the Night\)](https://open.spotify.com/track/1eBaXrKKuV93993Bljd1u2) | [Helstar](https://open.spotify.com/artist/4AqUiufKqVihh6uAMonwCv) | [Dark Incarnation \(Mother of the Night\)](https://open.spotify.com/album/0jmPXk7B7VHyPD8ZzE0sgK) | 6:12 | 2021-12-29 | 2022-04-21 |
 | [Darkbloom](https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/3wJZuEnCzcyFbRM2Q5tZw3) | 3:48 | 2022-07-13 |  |
+| [Darkenguard](https://open.spotify.com/track/7IfWPCto2sF1s2J7snFDjm) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Darkenguard](https://open.spotify.com/album/2Pz9nX3wMVPSnLBYITUe5J) | 8:31 | 2024-07-12 |  |
 | [Darkest Hour](https://open.spotify.com/track/7ybnH1YldJRE2lVyQAl4Tn) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Darkest Hour](https://open.spotify.com/album/6b70Uf4v6jiTPGjLaJN4LC) | 5:31 | 2024-05-31 | 2024-07-09 |
 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-08-19 |  |
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2021-12-17 |  |
@@ -553,7 +554,7 @@
 | [Offering to the Void](https://open.spotify.com/track/645e2PzMglhBceqVpQOSoI) | [Lords of the Trident](https://open.spotify.com/artist/1C11hnl3RZ7hadyMv5g5gm) | [The Offering](https://open.spotify.com/album/5ua43Gmyv5TaewII4LnmGZ) | 4:32 | 2022-04-01 | 2022-04-28 |
 | [On Broken Glass](https://open.spotify.com/track/77UdkFXVaGnfR3epYo909A) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [On Broken Glass](https://open.spotify.com/album/6ChvfZE1Hnp7lPItx73v63) | 4:27 | 2022-03-22 | 2022-04-21 |
 | [On the Other Side of Tonight](https://open.spotify.com/track/0Fwgk7r48uJpO4Hjb6NGmY) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Make It Rain / On the Other Side of Tonight](https://open.spotify.com/album/13NYRk93Aood9uaAvGnDkI) | 3:22 | 2024-03-22 |  |
-| [One and Only](https://open.spotify.com/track/4ijo2kmM3aelgDPYwfGXb1) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [One And Only](https://open.spotify.com/album/4LsvGxgJRdunFLaI5kIBpG) | 3:59 | 2024-07-12 |  |
+| [One and Only](https://open.spotify.com/track/4ijo2kmM3aelgDPYwfGXb1) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [One And Only](https://open.spotify.com/album/4LsvGxgJRdunFLaI5kIBpG) | 3:59 | 2024-07-12 | 2024-07-14 |
 | [One Foot In The Grave](https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [One Foot In The Grave](https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw) | 3:42 | 2024-05-31 |  |
 | [One Heart One Soul](https://open.spotify.com/track/0XJ91I6smUYRzRCGbU2N4b) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:56 | 2021-12-17 | 2022-05-28 |
 | [One Night in Tokyo](https://open.spotify.com/track/2TZtQt10Ajm3wB4MoqluZj) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:07 | 2022-07-08 | 2022-08-20 |

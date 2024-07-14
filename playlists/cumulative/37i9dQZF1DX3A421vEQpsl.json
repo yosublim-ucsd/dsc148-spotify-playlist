@@ -2219,6 +2219,40 @@
     },
     {
       "album": {
+        "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/2pyoVGd8LlX9pVdkUPyYMt"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182369,
+      "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/3yxUi5nDZSWcYKi1C2xmLd"
+    },
+    {
+      "album": {
         "name": "Mirchi Lagi Toh (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/2Nf1dk0hiHHlPoWxm1Ujre"
       },
@@ -2554,7 +2588,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 282078,
       "name": "Papa Kehte Hain (From \"Srikanth\")",
       "url": "https://open.spotify.com/track/7cAdIlAHmaWooLpqzPdTxI"

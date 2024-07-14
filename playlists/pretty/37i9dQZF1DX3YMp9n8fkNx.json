@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1328688,
+  "num_followers": 1329211,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Welcome to Wherever You Are",
-        "url": "https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Beautiful Girl",
-      "url": "https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Travelogue: Blues Traveler Classics",
         "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 280093,
       "name": "Run-Around",
       "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Welcome to Wherever You Are",
+        "url": "https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI"
     },
     {
       "added_at": "2024-06-26 02:07:58",

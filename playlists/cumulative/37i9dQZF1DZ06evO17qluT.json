@@ -1307,6 +1307,32 @@
     },
     {
       "album": {
+        "name": "Planos / Sem Ningu\u00e9m (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59b7Cdu8sfOYUbNkpt0eDP"
+      },
+      "artists": [
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250540,
+      "name": "Planos / Sem Ningu\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oRpFzCG4NOdOzizfxa3G3"
+    },
+    {
+      "album": {
         "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
         "url": "https://open.spotify.com/album/6XzpdOdLfRWWpH1Eh5rra8"
       },

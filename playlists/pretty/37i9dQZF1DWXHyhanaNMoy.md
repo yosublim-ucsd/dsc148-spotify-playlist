@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,074 likes - 69 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,098 likes - 69 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

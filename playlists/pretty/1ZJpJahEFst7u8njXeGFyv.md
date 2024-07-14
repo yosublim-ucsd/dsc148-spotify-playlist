@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 307,370 likes - 242 songs - 15 hr 59 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 307,350 likes - 242 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 78 | [Respiro 3](https://open.spotify.com/track/15y6K1TTpceurenY3mnIcD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Respiro 3](https://open.spotify.com/album/12H3VCzTH2Y4IqFTaoBTpf) | 2:38 |
 | 79 | [Scavengers](https://open.spotify.com/track/1iN4TKMdkHXWTBlzmzIUKu) | [Nicolas Snyder](https://open.spotify.com/artist/7KJ48VkA4FWRAGXsreKJYe) | [Scavengers Reign \(Original Max Series Soundtrack\)](https://open.spotify.com/album/2MQLrzNVTgzSTlj2SqQXH7) | 2:01 |
 | 80 | [Rituals of Peace](https://open.spotify.com/track/4Bs4Rmrbp2gnbWjN2SLdfW) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The Depths of Winter](https://open.spotify.com/album/4esowhE2QG5btJkM1blB31) | 3:05 |
-| 81 | [Violin Concerto in E Major, BWV 1042/II\. Adagio](https://open.spotify.com/track/00Rn6Rj9GYAJWN1hi3tTxK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn), [The Apollon Ensemble](https://open.spotify.com/artist/67cIsIGXOAG57meLiyxRVL) | [Violin Concerto in E Major, BWV 1042/II\. Adagio](https://open.spotify.com/album/37GLY1MP5ji3lqn5ODibKP) | 6:02 |
+| 81 | [Violin Concerto in E Major, BWV 1042: II\. Adagio](https://open.spotify.com/track/00Rn6Rj9GYAJWN1hi3tTxK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn), [The Apollon Ensemble](https://open.spotify.com/artist/67cIsIGXOAG57meLiyxRVL) | [Violin Concerto in E Major, BWV 1042/II\. Adagio](https://open.spotify.com/album/37GLY1MP5ji3lqn5ODibKP) | 6:02 |
 | 82 | [The Departure](https://open.spotify.com/track/4ibru27nXSYHDyaoTziYRS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Winter](https://open.spotify.com/album/330jzGK1FrCQAxTyTXT8KN) | 2:30 |
 | 83 | [Go, Crystal Tears](https://open.spotify.com/track/0uNrmdWVjW1oaK23z7ylUN) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Azul Lima](https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3) | [Go, Crystal Tears](https://open.spotify.com/album/5hNslTXrKaVf7C0WcZsQ6Q) | 3:13 |
 | 84 | [On a Still Night](https://open.spotify.com/track/38riKFmKqlhg1v7G9mDY2F) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [On a Still Night](https://open.spotify.com/album/6Y0FXpiTHYI1GB1tjNVVIv) | 2:35 |

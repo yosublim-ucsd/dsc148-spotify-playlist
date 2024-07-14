@@ -4,12 +4,12 @@
 
 > Future & melodic bass\. Cover: CloZee and LSDREAM
 
-612 songs - 1 day 12 hr 39 min
+613 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21](https://open.spotify.com/track/3ZoLqdyYnMNIYi4iMTD17u) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [21](https://open.spotify.com/album/09wrAjWGZP8kWnJroh5Etq) | 3:37 | 2024-02-06 |  |
-| [22](https://open.spotify.com/track/5E0aFvTnbphYsrMezpj96G) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [22](https://open.spotify.com/album/5ee1vg38qA50ASyoEx7n6A) | 4:05 | 2024-05-31 |  |
+| [22](https://open.spotify.com/track/5E0aFvTnbphYsrMezpj96G) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [22](https://open.spotify.com/album/5ee1vg38qA50ASyoEx7n6A) | 4:05 | 2024-05-31 | 2024-07-14 |
 | [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-09 | 2023-11-18 |
 | [7\-DS](https://open.spotify.com/track/3KAHkivOxoBLPeWMiPwYjO) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [7\-DS](https://open.spotify.com/album/4zyyVHaWLaQw0vyYTKV77E) | 2:31 | 2023-08-25 |  |
 | [A Better World](https://open.spotify.com/track/7MARy6sJ24UhLfbEsVs7a0) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [A Better World](https://open.spotify.com/album/5WfRc0e7iFhENKMyD8jOxO) | 3:50 | 2024-03-15 |  |
@@ -375,6 +375,7 @@
 | [Metamorphosis](https://open.spotify.com/track/7oHf1iLw7AAbXYB50n6Q7M) | [Salvo](https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b) | [Metamorphosis](https://open.spotify.com/album/0zTcs77JHwvvAUOCuZBBAC) | 3:36 | 2024-06-18 |  |
 | [Metamorphosis](https://open.spotify.com/track/1vOstxjW8HHwi9YgX5FQKl) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [VARI](https://open.spotify.com/artist/3cWBRCln1EAqNqI7E0wMlA) | [Metamorphosis](https://open.spotify.com/album/3YKlKDJgDHAZfHNTLGBGUF) | 4:49 | 2024-06-07 | 2024-07-13 |
 | [Metanoia](https://open.spotify.com/track/6d5N6bhv8CR4hvyZ0pcLe3) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [SOLARIA](https://open.spotify.com/artist/3y9HEtE9lgjgcIxA9ANatY) | [Metanoia](https://open.spotify.com/album/6E0aKtWeBMNXsWvggpEiFE) | 5:36 | 2024-03-01 | 2024-04-20 |
+| [Mine To Lose](https://open.spotify.com/track/05cMfYOfz4cq9XhRuwomRI) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO) | [Mine To Lose](https://open.spotify.com/album/5BDJfCwn3zbGKxJR6Dwg9s) | 3:15 | 2024-07-12 |  |
 | [Mirage](https://open.spotify.com/track/5qAL96n2U89Nhuo0EjwiDq) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT) | [Mirage](https://open.spotify.com/album/6kRox5GbU9QFlqSzwZYc5j) | 3:34 | 2024-02-16 | 2024-03-02 |
 | [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 |  |
 | [MISS U AGAIN](https://open.spotify.com/track/6AFESCtuUjE4vfi2OFKKn6) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [MISS U AGAIN](https://open.spotify.com/album/0b5hRsDSSnWPaw8ViQ1uJ4) | 2:57 | 2024-04-26 |  |

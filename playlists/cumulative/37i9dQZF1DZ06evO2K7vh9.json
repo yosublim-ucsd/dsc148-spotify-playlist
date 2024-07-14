@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Lil Tecca. Los temas esenciales, todos en una lista.",
+  "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
   "name": "This Is Lil Tecca",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 117426,
       "name": "Actin Up",
       "url": "https://open.spotify.com/track/6VJzxfMybfnOm4Te1hqUk3"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 180234,
       "name": "All Star (with Lil Tjay)",
       "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 123573,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/4ESyocZUQ3fOlCbNP6n17i"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 133333,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 179813,
       "name": "Dolly (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 121877,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 135572,
       "name": "Falsetto",
       "url": "https://open.spotify.com/track/6OFeW7smNQqrIMfYlMSUdD"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 165161,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 117013,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 166875,
       "name": "SHOW ME UP",
       "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 105693,
       "name": "Treesha",
       "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 193013,
       "name": "When You Down (with Polo G feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 137547,
       "name": "Yves",
       "url": "https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei"

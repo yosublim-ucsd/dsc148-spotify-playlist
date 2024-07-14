@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Cigarettes After Sex
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,481 likes - 176 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,585 likes - 176 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

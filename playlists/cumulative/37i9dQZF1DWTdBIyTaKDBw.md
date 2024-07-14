@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-305 songs - 17 hr 27 min
+306 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 | 2022-07-22 | 2024-06-22 |
 | [After The Rain 비가 그치고 나면](https://open.spotify.com/track/6e6tVmCBpFAWopWgnclcqs) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [After The Rain 비가 그치고 나면](https://open.spotify.com/album/3KcaS52WFgBYfGenr0eAZ2) | 4:14 | 2022-05-03 | 2022-07-29 |
 | [Afternoon Calm](https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU) | 2:45 | 2024-07-02 |  |
-| [Agria](https://open.spotify.com/track/7nSmRv5o9XRQ1ZZfrcrAXF) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Agria](https://open.spotify.com/album/2GcTomwrthJ7v5Aw2PYcnV) | 1:52 | 2024-07-02 | 2024-07-12 |
+| [Agria](https://open.spotify.com/track/7nSmRv5o9XRQ1ZZfrcrAXF) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Agria](https://open.spotify.com/album/2GcTomwrthJ7v5Aw2PYcnV) | 1:52 | 2024-07-02 |  |
 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 | 2022-05-03 | 2024-07-03 |
 | [AmoneThat'sCapone \(Feat\. Sunwoojunga\)](https://open.spotify.com/track/4uUKu2XgCqX6YzM5vrqT0q) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:59 | 2022-05-03 | 2022-07-24 |
 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 | 2024-07-02 |  |
@@ -160,6 +160,7 @@
 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 | 2023-01-25 | 2024-06-22 |
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-03 | 2022-07-29 |
 | [Mind Pool](https://open.spotify.com/track/4imLlC6vDXkcrQAngZkcac) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Time In Motion](https://open.spotify.com/album/0Nf8o7le6bPuEi27tuEYSL) | 1:34 | 2024-07-02 |  |
+| [miracle](https://open.spotify.com/track/47mAzBWrGWnIUs3WEiGF5O) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Planet Zen](https://open.spotify.com/album/2sgyPMR2h2mYJMAb8Xbg6F) | 3:30 | 2024-07-02 |  |
 | [Miso](https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa) | [Shiitaki](https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8) | [Miso](https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6) | 2:09 | 2024-07-02 |  |
 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 | 2022-05-03 | 2024-07-03 |
 | [Modern Times](https://open.spotify.com/track/5fClGwV57GC2efm64bJ5Mm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:25 | 2022-05-03 | 2022-09-09 |
@@ -171,9 +172,9 @@
 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-06-20 | 2024-06-22 |
 | [My Universe \(Seungmin, I.N Feat\. Changbin\)](https://open.spotify.com/track/4wMKQGoS7TwkGMvPk9lcHG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:23 | 2022-05-03 | 2022-07-29 |
 | [My Universe \(Seungmin, I.N\)](https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:23 | 2022-07-22 | 2022-09-09 |
-| [Naevys](https://open.spotify.com/track/2MbQ2PuPkCiESkmFc0VGPZ) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Lightsaber Bar](https://open.spotify.com/album/2yPvrBHrqMxbd5U3nrC5WL) | 2:14 | 2024-07-02 |  |
+| [Naevys](https://open.spotify.com/track/2MbQ2PuPkCiESkmFc0VGPZ) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Lightsaber Bar](https://open.spotify.com/album/2yPvrBHrqMxbd5U3nrC5WL) | 2:14 | 2024-07-02 | 2024-07-14 |
 | [Narrow Road](https://open.spotify.com/track/5yd8kwPtXxkKpqN9PSR1Eu) | [Tosso](https://open.spotify.com/artist/0pYbYmiGEC2nEe02Npg4bp), [Yotsugi](https://open.spotify.com/artist/3nHodZxQw99Ewvb9v9x48u) | [Narrow Road](https://open.spotify.com/album/4UNTRdYFqVCz2veOtIhALs) | 2:16 | 2024-07-02 |  |
-| [Natsumi](https://open.spotify.com/track/2qjyjsCWMqcbjrh7FPr56m) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Natsumi](https://open.spotify.com/album/6a1umpLyPbF6iWNl2WUS0V) | 3:05 | 2024-07-02 |  |
+| [Natsumi](https://open.spotify.com/track/2qjyjsCWMqcbjrh7FPr56m) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Natsumi](https://open.spotify.com/album/6a1umpLyPbF6iWNl2WUS0V) | 3:05 | 2024-07-02 | 2024-07-14 |
 | [New Beginnings](https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [New Beginnings](https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC) | 2:15 | 2024-07-02 |  |
 | [Nightingale](https://open.spotify.com/track/2Ne4JIzUtbBE2FupJc1zGF) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightingale](https://open.spotify.com/album/1g4MhZvlALeI44Qenem2kG) | 2:37 | 2024-07-02 |  |
 | [No place to retreat \(Feat\. 10CM\)](https://open.spotify.com/track/0KaYLNGkiQ0IeEia3SIm9x) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:20 | 2022-05-03 | 2024-07-03 |

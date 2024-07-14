@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-800 songs - 1 day 20 hr 41 min
+804 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Breathe](https://open.spotify.com/track/3qDTfBuKrM54QbY32Z5uCE) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Breathe](https://open.spotify.com/album/6piFBPJMY6zdODPpOwAkbp) | 2:43 | 2020-04-03\* | 2021-05-06 |
 | [Breeze](https://open.spotify.com/track/2u64mCX07czQKLrjkQ7ZJD) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Breeze](https://open.spotify.com/album/6cTbwrLHI97yvxpYljT08L) | 2:19 | 2022-10-14 |  |
 | [Breezin](https://open.spotify.com/track/3wUHfX5JyU1ipP9BOXBLB5) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [Breezin](https://open.spotify.com/album/1OiSBgpilimYhIUmfuOpuZ) | 3:08 | 2020-04-03\* | 2021-03-25 |
+| [Breezy](https://open.spotify.com/track/5Z14IXjRGU5EMmh8xFzj3g) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Breezy](https://open.spotify.com/album/5bYFENIUCQ3YJt5v0f2BSD) | 2:13 | 2024-07-14 |  |
 | [Brigante \- Nhar Remix](https://open.spotify.com/track/2ff87EDRvp1GIY60XVLxwp) | [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ), [Nhar](https://open.spotify.com/artist/3jBKevKXny3azNKbbYH5Wx) | [Classic Trick Remixes](https://open.spotify.com/album/3dt8hfbp81UuduKrLSKGCA) | 6:00 | 2020-04-03\* | 2021-03-06 |
 | [bright and breezy](https://open.spotify.com/track/1uRStsqQYCBXd1X8fc9n4u) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [bright and breezy](https://open.spotify.com/album/2PDJRNkV7vxrNz1Icyajji) | 2:17 | 2024-03-04 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2021-08-20 |  |
@@ -152,6 +153,7 @@
 | [Colors of You](https://open.spotify.com/track/0fVisMBg8MPemjOxLj3Jeu) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Bluebells](https://open.spotify.com/album/1SqKWpy6qU65qhVHUjw1LA) | 3:34 | 2021-03-18 | 2022-10-07 |
 | [Comrate](https://open.spotify.com/track/3Rd69TLNlUD1LRlq5rx2th) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Comrate](https://open.spotify.com/album/6r9zacxDV2W6TeWIbowOQY) | 2:09 | 2024-04-08 |  |
 | [Connectivity Dub](https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Resonance](https://open.spotify.com/album/1LXSTaP6BPL4ywBG3nZYEd) | 6:46 | 2021-08-20 | 2021-09-22 |
+| [cookie crumbs](https://open.spotify.com/track/3Kw2Aj0lEPnCXbkOWXdKTP) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [cookie crumbs](https://open.spotify.com/album/763bZkMX3tLOULMzPfsRYY) | 2:31 | 2024-07-14 |  |
 | [Cooking](https://open.spotify.com/track/7jUPFQuuEgrmae7d3nsHVO) | [frotteee](https://open.spotify.com/artist/2mKzge5uoouLNQlK8kzzVp) | [Cooking](https://open.spotify.com/album/5ZDE91xtdyjMFqQJBXaxEc) | 2:18 | 2024-02-13 |  |
 | [Copacabana](https://open.spotify.com/track/7m3TmUwQJYQkJvzvomijDd) | [Alex Caipirinha](https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv) | [Copacabana](https://open.spotify.com/album/2VcIx9AWHOSRanlFEnvSup) | 2:45 | 2021-04-15 | 2021-08-20 |
 | [Copenhagen](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Copenhagen](https://open.spotify.com/album/0AwequrjSToDDbsFWhI2H1) | 2:46 | 2022-11-25 |  |
@@ -392,6 +394,7 @@
 | [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 |  |
 | [Lifelike](https://open.spotify.com/track/4LmgY8iN3SqkDOPCNxmaGX) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Lifelike](https://open.spotify.com/album/3aFsP5L0bi65KCip5gyghd) | 2:36 | 2023-07-14 |  |
 | [Like Water](https://open.spotify.com/track/2ift2AgfPD8mCOjxIfg58t) | [Atlantis Dove](https://open.spotify.com/artist/4lWGfxuk3gXKG0v4fI4mqi) | [Like Water](https://open.spotify.com/album/73FvBQLSD3kC9tR8rH7wMe) | 2:47 | 2020-04-03\* | 2020-07-22 |
+| [limoncello sorbet](https://open.spotify.com/track/4wL1KCrkyI3h7B3313xl9q) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [limoncello sorbet](https://open.spotify.com/album/7iVGCtCT75oWAEH4pLVuWG) | 2:51 | 2024-07-14 |  |
 | [Liquid Dust](https://open.spotify.com/track/1dLB5DEAqbjUPc9C8W7Nfb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Liquid Dust](https://open.spotify.com/album/5C6uyXdkPilcqLLEvmkSi2) | 3:33 | 2022-08-19 |  |
 | [Lofi Nights](https://open.spotify.com/track/1G56aVJLUwhQVO0Ke6QwWD) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Lofi Nights](https://open.spotify.com/album/2dhHvSNxPaA9laI6oyAHaC) | 4:25 | 2020-11-19 | 2021-04-15 |
 | [Lol Over You](https://open.spotify.com/track/3WnsqyQchQ5gdc6AxWG9Wk) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lol Over You](https://open.spotify.com/album/5xNwSY1JpyQVN0V08TRMLr) | 3:28 | 2022-07-22 | 2022-07-29 |
@@ -686,6 +689,7 @@
 | [Sunday](https://open.spotify.com/track/5u4dNVgfChjREYJ6KeNuJ4) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG) | [Sunday](https://open.spotify.com/album/2gSV7HKvVIXMgo8ZgpDPwm) | 3:58 | 2020-04-14 | 2021-03-25 |
 | [Sundown](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW) | [Coconut & Palm Trees](https://open.spotify.com/artist/5BLqpPJJkxoP3M03obHi1K) | [Sundown](https://open.spotify.com/album/26X1IbQSHXNSFmRCZTuz03) | 2:57 | 2020-12-02 | 2022-06-24 |
 | [Sundrops](https://open.spotify.com/track/52IP2gussRMFDPay7Ww5xv) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Sundrops](https://open.spotify.com/album/0BWBsXcUuMzjcUpWC5ofNh) | 5:03 | 2022-05-13 | 2022-05-27 |
+| [Sunflower](https://open.spotify.com/track/0CXDewCNTSPql9OhPtLkS2) | [Peqasus](https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD) | [Sunflower](https://open.spotify.com/album/3bkMvNfEsMOGSKkiB1UGwD) | 2:03 | 2024-07-14 |  |
 | [Sunny Daydream](https://open.spotify.com/track/3YqJWoEXBf9UQ0vxbB39av) | [Ocean Lights](https://open.spotify.com/artist/2rCoNCmsCtzV7fQyhKvQ8Z) | [Sunny Daydream](https://open.spotify.com/album/404mBSjQ9FRsqQoejpLaUe) | 2:46 | 2021-08-20 | 2023-06-03 |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2021-11-08 | 2022-09-02 |
 | [Sunrider](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP) | [Relŭm](https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo) | [Sunrider](https://open.spotify.com/album/4TKpipN1yJhJO53XX1H9RA) | 2:08 | 2022-05-13 |  |

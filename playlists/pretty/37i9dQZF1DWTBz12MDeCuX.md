@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,105 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,215 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 19 | [Dreh dich](https://open.spotify.com/track/0BDBqFamXRIPzQpiyS6Ooa) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [DAY 21](https://open.spotify.com/artist/2a2flGskk8PMFs0vYikoPo), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Dreh dich](https://open.spotify.com/album/3vW7g6aDk27P1T0WiRnLXT) | 2:30 |
 | 20 | [Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP), [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [Liebe in Stereo](https://open.spotify.com/album/7kbl4KadCrLMyjJYvIlZVh) | 3:10 |
 | 21 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 |
-| 22 | [MÄNNERGEFÜHLE \(feat\. IKKIMEL\)](https://open.spotify.com/track/3rWBE5yBZtCVTr4BbvuFp3) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [UHD](https://open.spotify.com/artist/6ZG6KpFv5D9Qoahey7k91x), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [MÄNNERGEFÜHLE \(feat\. IKKIMEL\)](https://open.spotify.com/album/7yTXeBh8mXYSqdOB6EYcyT) | 2:19 |
+| 22 | [MÄNNERGEFÜHLE](https://open.spotify.com/track/3rWBE5yBZtCVTr4BbvuFp3) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [UHD](https://open.spotify.com/artist/6ZG6KpFv5D9Qoahey7k91x), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [MÄNNERGEFÜHLE](https://open.spotify.com/album/7yTXeBh8mXYSqdOB6EYcyT) | 2:19 |
 | 23 | [blackout in der gegend](https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blackout in der gegend](https://open.spotify.com/album/5IFoofVHSlPBwUEgHGMqKu) | 2:32 |
 | 24 | [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [Willst du](https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3) | 2:56 |
 | 25 | [Fall für dich](https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Fall für dich](https://open.spotify.com/album/3X9IY5t8zZpEwualD62LIn) | 2:38 |

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7662,
+  "num_followers": 7673,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Gold Dust Woman",
-        "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
+        "name": "Life's A Beach & 3 Acoustic Songs",
+        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
       },
       "artists": [
         {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        },
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        },
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+          "name": "Robert Weston",
+          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
         }
       ],
-      "duration_ms": 180466,
-      "name": "Gold Dust Woman",
-      "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
+      "duration_ms": 203487,
+      "name": "When You Know You Know - Acoustic",
+      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -643,34 +635,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Life's A Beach & 3 Acoustic Songs",
-        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
+        "name": "Gold Dust Woman",
+        "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
       },
       "artists": [
         {
-          "name": "Robert Weston",
-          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
-        }
-      ],
-      "duration_ms": 203487,
-      "name": "When You Know You Know - Acoustic",
-      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        },
         {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+      "duration_ms": 180466,
+      "name": "Gold Dust Woman",
+      "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 196426,
       "name": "It's So Easy",
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Love to See You Cry",
-        "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
-      },
-      "artists": [
-        {
-          "name": "Robbert Duijf",
-          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
-        }
-      ],
-      "duration_ms": 262286,
-      "name": "Love to See You Cry",
-      "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "How Did We Get To Goodbye",
         "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224133,
       "name": "To The Darkness",
       "url": "https://open.spotify.com/track/1jFWYCpLlz6FqPOxSKIaZo"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Love to See You Cry",
+        "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
+      },
+      "artists": [
+        {
+          "name": "Robbert Duijf",
+          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
+        }
+      ],
+      "duration_ms": 262286,
+      "name": "Love to See You Cry",
+      "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
     },
     {
       "added_at": "2024-07-11 22:00:00",

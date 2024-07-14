@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 533648,
+  "num_followers": 533751,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1813,22 +1813,6 @@
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
-      "added_at": "2024-05-03 19:24:46",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/56ALbArb98jRcfSITJ4xsP"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245980,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/7L33BfYhHwlQM8QqE1Fy3D"
-    },
-    {
       "added_at": "2024-04-19 04:40:02",
       "album": {
         "name": "Bodies",
@@ -1847,6 +1831,22 @@
       "duration_ms": 209293,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
+    },
+    {
+      "added_at": "2024-04-19 04:40:02",
+      "album": {
+        "name": "comic relief",
+        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "<3 beat",
+      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     }
   ],
   "unique_name": "golden hour",

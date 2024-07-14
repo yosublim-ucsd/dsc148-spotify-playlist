@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 147330,
       "name": "Algo Tonto",
       "url": "https://open.spotify.com/track/6V1fjhv6qcnQF24bgZvVDx"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 235078,
       "name": "Batalla Del Movimiento",
       "url": "https://open.spotify.com/track/378eyMlYg74cVXt9oXbOd1"
@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "100% Mexican Groovy: Batalla Estelar",
+        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
+      },
+      "artists": [
+        {
+          "name": "El Piporro",
+          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145789,
+      "name": "El Abuelo Ye Ye",
+      "url": "https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
       },
@@ -762,6 +780,24 @@
       "duration_ms": 160496,
       "name": "El Rock Del Bebe",
       "url": "https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd"
+    },
+    {
+      "album": {
+        "name": "100% Mexican Groovy: Batalla Estelar",
+        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
+      },
+      "artists": [
+        {
+          "name": "Los Camisas Negras",
+          "url": "https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167926,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/23MPu8Zp0HPhSVtNSTixMc"
     },
     {
       "album": {

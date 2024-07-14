@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 223524,
+  "num_followers": 223578,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "The Order of the Rain",
         "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 196891,
       "name": "The Fountain",
       "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+        "name": "Vajranala",
+        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Senyawa",
+          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
         }
       ],
-      "duration_ms": 187861,
-      "name": "Cloudbreath",
-      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+      "duration_ms": 522000,
+      "name": "Vajranala",
+      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Vajranala",
-        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
       "artists": [
         {
-          "name": "Senyawa",
-          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
         }
       ],
-      "duration_ms": 522000,
-      "name": "Vajranala",
-      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
+      "duration_ms": 187861,
+      "name": "Cloudbreath",
+      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Karada",
-        "url": "https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk"
+        "name": "Wanci",
+        "url": "https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS"
       },
       "artists": [
         {
-          "name": "Marina Herlop",
-          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+          "name": "Tarawangsawelas",
+          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
         }
       ],
-      "duration_ms": 278830,
-      "name": "Karada",
-      "url": "https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq"
+      "duration_ms": 344074,
+      "name": "Selalu",
+      "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"
     }
   ],
   "unique_name": "Terra Incognita",

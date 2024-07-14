@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,573 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,643 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 94 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 95 | [Stand on Trial](https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Stand on Trial](https://open.spotify.com/album/4i9qgLAuUYMjocxgpoTg65) | 3:04 |
 | 96 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
-| 97 | [Higher Levels](https://open.spotify.com/track/2dBZk3EXFu4uUJidPzoT1H) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [Sara Lugo](https://open.spotify.com/artist/3DQQA7JVJvdcdcKArfwitT), [Dan Amozig](https://open.spotify.com/artist/1cS3HtoL7qTOOLQrIc349t) | [Higher Levels](https://open.spotify.com/album/5vxQJCFU3sXmObdLB2o1uA) | 3:29 |
+| 97 | [Higher Levels](https://open.spotify.com/track/2dBZk3EXFu4uUJidPzoT1H) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [Sara Lugo](https://open.spotify.com/artist/3DQQA7JVJvdcdcKArfwitT) | [Higher Levels](https://open.spotify.com/album/5vxQJCFU3sXmObdLB2o1uA) | 3:29 |
 | 98 | [Hardest Part \- Single Edit](https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Hardest Part](https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO) | 3:03 |
 | 99 | [That Is You](https://open.spotify.com/track/7BBfnVKkoE5LwkcWqh8ixg) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [That Is You](https://open.spotify.com/album/1iMbj8BIe2irAJc7iUyr4X) | 3:46 |
 | 100 | [Two Step](https://open.spotify.com/track/0sftTHro9CcZ1vR6xDvVPC) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Two Step](https://open.spotify.com/album/6RZsHSRYUMM4ynG2dSkPHH) | 3:56 |

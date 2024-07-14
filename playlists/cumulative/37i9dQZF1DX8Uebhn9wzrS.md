@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,991 songs - 3 day 3 hr 50 min
+1,992 songs - 3 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1198,7 +1198,7 @@
 | [No Ice](https://open.spotify.com/track/0Ki80etD1qrDyTHXR9Ufaw) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [No Ice](https://open.spotify.com/album/4z75LOO80h08jNgo4vPuDK) | 2:17 | 2022-04-15 | 2023-03-09 |
 | [No Need To Cry](https://open.spotify.com/track/2dWOhDo5tYBvEbbZHi9SVH) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [No Need To Cry](https://open.spotify.com/album/1RbJCiIwOVuMsRf6c59B1C) | 2:23 | 2023-04-03 |  |
 | [no rain today](https://open.spotify.com/track/0EJ4R1FWyczgGsdlIKgjyX) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [no rain today](https://open.spotify.com/album/0m36fSjMw8zlqjdJH2VQYg) | 1:24 | 2023-01-06 |  |
-| [No Saintz](https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [No Saintz](https://open.spotify.com/album/1S3RYqAldSKsGhupkolVOc) | 1:52 | 2022-10-07 |  |
+| [No Saintz](https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [No Saintz](https://open.spotify.com/album/1S3RYqAldSKsGhupkolVOc) | 1:52 | 2022-10-07 | 2024-07-14 |
 | [No Signal](https://open.spotify.com/track/7pawJCUMhambr79ohofk0A) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [No Signal](https://open.spotify.com/album/1ZmJBdbfQGKI6MacQ816JQ) | 2:30 | 2022-12-02 | 2023-09-16 |
 | [no time to die theme \(lofi edit\)](https://open.spotify.com/track/2BGeZzI6GY9ocwqqhDqQ9L) | [lofi.tv](https://open.spotify.com/artist/2DgpLnyZqCKZDfDjBT4RPS), [bond77](https://open.spotify.com/artist/49mTgwH8hAlNZXzJuocS3c) | [no time to die theme \(lofi edit\)](https://open.spotify.com/album/1nfUnpZbqz9C7BRW7mpVON) | 2:54 | 2022-07-22 | 2022-08-19 |
 | [No Way](https://open.spotify.com/track/0sVba9uh8Nu49q6AjERawP) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [No Way](https://open.spotify.com/album/1w7VFffQi2JXgLUljXarHm) | 1:36 | 2023-03-08 | 2024-02-09 |
@@ -1242,6 +1242,7 @@
 | [Ola](https://open.spotify.com/track/16COXSGDWDje1zmcyexR7g) | [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07) | [Ola](https://open.spotify.com/album/2bDPlMeNryYBFSGPp8wfnY) | 2:01 | 2022-11-11 | 2023-09-14 |
 | [Old School Love](https://open.spotify.com/track/6eNdKA73IIJr2SU4AbFzDf) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [Cinematic Lofi](https://open.spotify.com/album/6ckc7Vooz6ZBurIesj3G2V) | 2:46 | 2022-04-15 | 2023-03-02 |
 | [Old Shoe Dreams](https://open.spotify.com/track/0NO9VHwfvXUQDgvh9aRacG) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Old Shoe Dreams](https://open.spotify.com/album/0qqDozkEvIXaytPt0uClE9) | 1:55 | 2024-02-02 |  |
+| [olive oil](https://open.spotify.com/track/17520et6mlj3SsxJUZ0RbZ) | [Sötma](https://open.spotify.com/artist/37oFJAxUb7MyB7ask0oirs) | [olive oil](https://open.spotify.com/album/2XqnMnyZPBONwj1TUFsBEP) | 1:58 | 2024-07-12 |  |
 | [omw](https://open.spotify.com/track/46PM3cvVVSpFnco90yU4zk) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [omw](https://open.spotify.com/album/15NdTmSabOkFfnm7b9fgCf) | 2:12 | 2024-06-28 |  |
 | [on and off](https://open.spotify.com/track/0im5PdKDz2raraDknVtn8F) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [on and off](https://open.spotify.com/album/3JwndlcwuI3X2eZFWHOC0r) | 2:06 | 2024-01-19 |  |
 | [On Demand](https://open.spotify.com/track/5xDZcCoD5lenLkc3IUM2YR) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [On Demand](https://open.spotify.com/album/72LlNQkCRr0myzBUSsmNCX) | 1:56 | 2023-02-06 | 2023-09-29 |

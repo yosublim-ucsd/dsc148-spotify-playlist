@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Wargasm
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,628 likes - 160 songs - 9 hr 35 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,629 likes - 160 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 |
 | 2 | [Prevention of Peace](https://open.spotify.com/track/3IkvK1H8WkOHrrox5XgHjw) | [LICE](https://open.spotify.com/artist/7mIukH2sODEJQnUhty5lkF) | [World of Greed](https://open.spotify.com/album/1IvCS6EqVjHvazVuG4i5IV) | 2:11 |
-| 3 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villian](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 |
+| 3 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 |
 | 4 | [Give Me The Painkiller](https://open.spotify.com/track/29W2lycHz4sExfoA11Yiph) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Give Me The Painkiller](https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh) | 2:44 |
 | 5 | [Turbulence](https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Turbulence](https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8) | 3:20 |
 | 6 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 |

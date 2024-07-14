@@ -2,7 +2,7 @@
 
 ### [This Is Midian Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO150czC)
 
-> This Is Midian Lima\. Los temas esenciales, todos en una lista.
+> This is Midian Lima\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 59 songs - 4 hr 54 min
 

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 344386,
+  "num_followers": 344491,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "High Notes",
-        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "High Notes",
-      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "High Notes",
+        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "High Notes",
+      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 174065,
       "name": "People",
       "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/446qidglPF9sSPnz5jjS0u"
+      },
+      "artists": [
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "duration_ms": 143807,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/16rTopi2DigEpazGkQLSrD"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "Big Bad Mood (feat. Miraa May)",
         "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/446qidglPF9sSPnz5jjS0u"
-      },
-      "artists": [
-        {
-          "name": "tendai",
-          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
-        }
-      ],
-      "duration_ms": 143807,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/16rTopi2DigEpazGkQLSrD"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Mae Hannon",
-          "url": "https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc"
-        }
-      ],
-      "duration_ms": 186397,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Say Yes (feat. Rona Ray)",
         "url": "https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 157134,
       "name": "Say Yes (feat. Rona Ray)",
       "url": "https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "o shit!",
+        "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 136822,
+      "name": "o shit!",
+      "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
     },
     {
       "added_at": "2024-06-14 14:50:20",

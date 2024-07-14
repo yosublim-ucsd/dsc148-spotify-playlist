@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "today",
+        "url": "https://open.spotify.com/album/0PKvX5TqcrWwadnfGDWe2r"
+      },
+      "artists": [
+        {
+          "name": "Kelz2busy",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95432,
+      "name": "today",
+      "url": "https://open.spotify.com/track/3CeObtgyBu5kGWo3T8QDxn"
+    },
+    {
+      "album": {
         "name": "Too Deep",
         "url": "https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN"
       },

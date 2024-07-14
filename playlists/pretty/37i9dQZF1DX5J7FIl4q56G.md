@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Graphic Nature
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,673 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,738 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 16 | [DUST TO BONE \(FEAT\. CITY AND COLOUR\)](https://open.spotify.com/track/0bIid2yO2LDG8JxeIeKW2R) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [DUST TO BONE \(FEAT\. CITY AND COLOUR\)](https://open.spotify.com/album/4RI2wMyQ16CYJ5X5Lr2n8R) | 3:43 |
 | 17 | [Darkenguard](https://open.spotify.com/track/7IfWPCto2sF1s2J7snFDjm) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Darkenguard](https://open.spotify.com/album/2Pz9nX3wMVPSnLBYITUe5J) | 8:31 |
 | 18 | [Rock and Stone](https://open.spotify.com/track/23rQSLXdUAHv6gb1kta7lf) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Rock and Stone](https://open.spotify.com/album/23YJYm5AEF1WStMrMf4N2Y) | 5:05 |
-| 19 | [Blackout feat\. Arankai](https://open.spotify.com/track/3waxqQRqhvwix0jPAqvQ5L) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9), [Arankai](https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX), [Dustin Hansen](https://open.spotify.com/artist/0I4rZo0qX3B7JtkhbFt8MP) | [Blackout feat\. Arankai](https://open.spotify.com/album/0qrYhEuhf3yh5Su2xc3clC) | 3:02 |
+| 19 | [Blackout feat\. Arankai](https://open.spotify.com/track/3waxqQRqhvwix0jPAqvQ5L) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9), [Arankai](https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX) | [Blackout feat\. Arankai](https://open.spotify.com/album/0qrYhEuhf3yh5Su2xc3clC) | 3:02 |
 | 20 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 |
 | 21 | [The Price of Pain](https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [The Price of Pain](https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75) | 3:40 |
 | 22 | [Filth](https://open.spotify.com/track/3TfhwZ31X0uSGWJMxegtr0) | [A Killer's Confession](https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM) | [Filth](https://open.spotify.com/album/7uLZgqLSygesMWGLPzLSrZ) | 3:15 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 30 | [Death Protocol](https://open.spotify.com/track/37tYNJ1a4nc2DYorfven8g) | [A Night In Texas](https://open.spotify.com/artist/4Fsg1Qph71iuRg07o5rFAS) | [Death Protocol](https://open.spotify.com/album/7m3VctiRqQGTXfMugChJP5) | 4:18 |
 | 31 | [Give Me The Painkiller](https://open.spotify.com/track/29W2lycHz4sExfoA11Yiph) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Give Me The Painkiller](https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh) | 2:44 |
 | 32 | [Evenfall](https://open.spotify.com/track/15RGQRE1XBzWL6RLncD5Lw) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H) | [Evenfall](https://open.spotify.com/album/6vnH6OAOT6uLuGMTODFoKN) | 4:03 |
-| 33 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villian](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 |
+| 33 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 |
 | 34 | [All for Nothing](https://open.spotify.com/track/6yiS30wp78hd0hntTQ8iyV) | [Entheos](https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI) | [All for Nothing](https://open.spotify.com/album/7qXG2NmdAUlMloJ11Qh2Bt) | 3:33 |
 | 35 | [To Strike with Secret Fang](https://open.spotify.com/track/4aXUtUOyTkEEciloBToyRo) | [Nile](https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE) | [To Strike with Secret Fang](https://open.spotify.com/album/3kAXM4GkoIFwEqy8AxVNEM) | 1:58 |
 | 36 | [What We Used To Be](https://open.spotify.com/track/0n6WWdRZl5LJFTTxoVYO2m) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [What We Used To Be](https://open.spotify.com/album/50kRbJkLFfYyaTQZogUtsU) | 3:03 |

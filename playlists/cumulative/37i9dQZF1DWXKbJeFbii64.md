@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-162 songs - 7 hr 36 min
+163 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Thunder Rolling](https://open.spotify.com/track/0zZjakYi9HUjkOc4vHnXfA) | [Lycro Sale](https://open.spotify.com/artist/5F3VOYcGYByzeuoUCn11My) | [Thunderstorm Serenade](https://open.spotify.com/album/6CVhlRudKSObIqgPJTkG76) | 2:43 | 2023-09-20 | 2024-06-13 |
 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 | 2022-10-28 |  |
 | [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-01-13 |  |
-| [Thunderbolt Blitz](https://open.spotify.com/track/7tn4tHgB0yfNVv1hoS2RKg) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Electrifying Thunder](https://open.spotify.com/album/4vXUtxHGMiwqsYXVRxt9fT) | 3:06 | 2024-03-11 |  |
+| [Thunderbolt Blitz](https://open.spotify.com/track/7tn4tHgB0yfNVv1hoS2RKg) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Electrifying Thunder](https://open.spotify.com/album/4vXUtxHGMiwqsYXVRxt9fT) | 3:06 | 2024-03-11 | 2024-07-14 |
 | [Thundering Heights](https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:10 | 2023-01-13 |  |
 | [Thunderstorm at Night](https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 1:37 | 2022-12-09 |  |
 | [Thunderstorm Dreams](https://open.spotify.com/track/1OLPJ23bUhdDSHXrUs5Tbj) | [Lycro Sale](https://open.spotify.com/artist/5F3VOYcGYByzeuoUCn11My) | [Thunderstorm Serenade](https://open.spotify.com/album/6CVhlRudKSObIqgPJTkG76) | 2:55 | 2023-09-20 | 2023-12-21 |
@@ -166,6 +166,7 @@
 | [Tropical Queensland Storm](https://open.spotify.com/track/0x6PMqz9jSDPDPqKwRhUjj) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Thunderstorm Symphony](https://open.spotify.com/album/4XekPC0v7XEE3i8JVZM6qk) | 3:25 | 2024-04-15 |  |
 | [Tumult Weather](https://open.spotify.com/track/0MACB4R2mVmzfoNDJlgGeI) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Tumult Weather](https://open.spotify.com/album/42P8aCd9vU9wAr98WeklKs) | 2:06 | 2022-10-28 |  |
 | [Under The Umbrella \- Seamless](https://open.spotify.com/track/4XtdcXBOp3tFW3mUtBvTCx) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Under The Umbrella](https://open.spotify.com/album/5JLXavSqFrPocNKfXVqmLy) | 2:55 | 2023-09-20 |  |
+| [Verdant Dreamland](https://open.spotify.com/track/375sTVKVgMi8pAc6UQGTXr) | [Lauren Whyatt](https://open.spotify.com/artist/6VrqstTqqTtV7nG13WRvrx) | [Verdant Dreamland](https://open.spotify.com/album/4IxDsU15b0fETy7T7lXHQl) | 4:51 | 2024-06-10 |  |
 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 | 2023-02-13 |  |
 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 | 2022-10-28 |  |
 | [Wonderstorm](https://open.spotify.com/track/7HMk44LhajDJ3urDcVZQNB) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [All About Thunder](https://open.spotify.com/album/1tU9mBLSohVCwKVQHNHGzp) | 2:40 | 2023-09-20 |  |

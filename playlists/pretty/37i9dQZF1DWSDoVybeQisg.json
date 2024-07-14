@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1164812,
+  "num_followers": 1165023,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Younger Than Yesterday",
-        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "My Back Pages",
-      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Time Has Come: The Best Of The Chambers Brothers",
         "url": "https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 290933,
       "name": "Time Has Come Today",
       "url": "https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Younger Than Yesterday",
+        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "My Back Pages",
+      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
-        "url": "https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Dark Star - Single Version",
-      "url": "https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Gris Gris",
         "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 180600,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
+        "url": "https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Dark Star - Single Version",
+      "url": "https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw"
     },
     {
       "added_at": "2024-07-12 17:17:21",

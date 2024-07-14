@@ -1,12 +1,12 @@
 {
-  "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 23809,
+  "description": "This Is Pedro Su\u00e1rez-V\u00e9rtiz. Los temas esenciales, todos en una lista.",
+  "num_followers": 23817,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo8ggAAAAAAjH/xSgHwunjKoCG6lflcH",
+  "snapshot_id": "ZpByAAAAAABA7me7d0GL4sNmUl2h4cF8",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
       "artists": [
-        {
-          "name": "Libido",
-          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
-        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
+      "duration_ms": 317933,
+      "name": "Marilo\u0301",
+      "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
     },
     {
       "added_at": null,
@@ -631,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Marilo\u0301",
-      "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        },
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talk Show",
         "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
       },
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 262773,
-      "name": "El Triunfo Tan So\u00f1ado",
-      "url": "https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70"
+      "duration_ms": 136946,
+      "name": "Rara Soledad",
+      "url": "https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 136946,
-      "name": "Rara Soledad",
-      "url": "https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK"
+      "duration_ms": 262773,
+      "name": "El Triunfo Tan So\u00f1ado",
+      "url": "https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: juan karlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,184 likes - 78 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,297 likes - 78 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

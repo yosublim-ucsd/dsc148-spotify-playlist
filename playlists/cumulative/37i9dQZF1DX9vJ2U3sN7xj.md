@@ -4,7 +4,7 @@
 
 > nos fuimos de fiesta con Myke Towers\. 🎉
 
-494 songs - 1 day 4 hr 22 min
+495 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2023-05-26 | 2023-10-07 |
 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 | 2023-05-08 |  |
 | [Puro 3 Letras](https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4) | [Gabriel Silva](https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE) | [Puro 3 Letras](https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt) | 3:06 | 2023-10-30 | 2023-11-18 |
-| [Pusilinda](https://open.spotify.com/track/0RungHeGccQ9MJEtWqxOXl) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Pusilinda](https://open.spotify.com/album/1rwTRscbRHSCaDki0VkS8c) | 2:59 | 2024-07-12 |  |
+| [Pusilinda](https://open.spotify.com/track/1M3KKYQ3zE0XZp8qkUetTo) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Pusilinda](https://open.spotify.com/album/3EuOv81O9nJxOPrCTxkFjE) | 2:59 | 2024-07-13 |  |
+| [Pusilinda](https://open.spotify.com/track/0RungHeGccQ9MJEtWqxOXl) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Pusilinda](https://open.spotify.com/album/1rwTRscbRHSCaDki0VkS8c) | 2:59 | 2024-07-12 | 2024-07-14 |
 | [QLONA](https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:52 | 2023-09-08 | 2024-07-13 |
 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:49 | 2022-05-27 | 2023-05-09 |
 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/66anfXsSmYJQ9Zbmz8kQTM) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Que Calor](https://open.spotify.com/album/0Kc2lsJeDb1bZj17QSaEcb) | 2:49 | 2022-11-12 | 2022-11-13 |

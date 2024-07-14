@@ -3352,7 +3352,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 168968,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
@@ -3606,6 +3606,24 @@
       "duration_ms": 209280,
       "name": "No Ordinary Love (Live at Eddie's Attic)",
       "url": "https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj"
+    },
+    {
+      "album": {
+        "name": "Nobody Dies Anymore",
+        "url": "https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238049,
+      "name": "Nobody Dies Anymore",
+      "url": "https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W"
     },
     {
       "album": {

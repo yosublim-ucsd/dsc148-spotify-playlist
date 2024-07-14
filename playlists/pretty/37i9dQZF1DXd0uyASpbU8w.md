@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=\-6c54oSKR9mHh41ok7g5RQ">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,367 likes - 63 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,431 likes - 63 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 19 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 20 | [Imali \(feat\. Brandon Dhludhlu\)](https://open.spotify.com/track/75n7RBL3lZhjopFs9SXM5G) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Brandon Dhludhlu](https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV) | [Imali \(feat\. Brandon Dhludhlu\)](https://open.spotify.com/album/6UZI8el89nTwidPXsd08Hy) | 6:12 |
 | 21 | [Your Presence \- Prayer Mix](https://open.spotify.com/track/7tMXGjfSfQC0kLJq3Qwuv7) | [AndileAndy](https://open.spotify.com/artist/6PcHusHP9ow3HrIvqRJDua) | [Reflection Of Hope](https://open.spotify.com/album/5HPUOmNRpSgGHHtcKCKMV9) | 7:13 |
-| 22 | [Yesterday](https://open.spotify.com/track/28dHlagXsJDxrsqhA9Dtbr) | [Reed](https://open.spotify.com/artist/3Mc4l3jbHlfPf4cUomYBJv), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Zadok](https://open.spotify.com/artist/3Y8nWJCJ6ehzX3o5vDgBFa) | [Yesterday](https://open.spotify.com/album/3qcjMH8C71Pdu5dAb0ooLq) | 6:50 |
+| 22 | [Yesterday](https://open.spotify.com/track/28dHlagXsJDxrsqhA9Dtbr) | [Reed](https://open.spotify.com/artist/3Mc4l3jbHlfPf4cUomYBJv), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea) | [Yesterday](https://open.spotify.com/album/3qcjMH8C71Pdu5dAb0ooLq) | 6:50 |
 | 23 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 24 | [Love Generation \- Reimagined](https://open.spotify.com/track/0XNmVc3Q1wVIgY4hRAYaTv) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Reimagined\)](https://open.spotify.com/album/1ulfBxeNo0QvBBgkO8mALO) | 3:41 |
 | 25 | [Maneye feat\. Sofiya Nzau](https://open.spotify.com/track/0rF4ASFVywWVt8IG7hueiR) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Maneye feat\. Sofiya Nzau](https://open.spotify.com/album/5R6dQ95TypjuWVa4HjC7km) | 3:06 |

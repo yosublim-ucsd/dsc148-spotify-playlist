@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Tim Lyre & Kold AF
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,732 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,779 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 21 | [Pain and Pleasure](https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o) | [Iyke Parker](https://open.spotify.com/artist/05CCsFubGf9UpnbXp0iAWr), [LeonardoDDJ](https://open.spotify.com/artist/25Q3IQWJ78bRWV15GOQyYV), [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Pain and Pleasure](https://open.spotify.com/album/17tb3wkAv9Kqbu5VLWgIcJ) | 2:34 |
 | 22 | [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 |
 | 23 | [Tempo](https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Tempo](https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE) | 2:49 |
-| 24 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
+| 24 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [London](https://open.spotify.com/artist/4ZdNtKnlL3IJhkOeJaNz8D) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
 | 25 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 |
 | 26 | [Star](https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [Star](https://open.spotify.com/album/611t57rkpgi1z9kF76QnW0) | 2:18 |
 | 27 | [CHANEL](https://open.spotify.com/track/6BYjJobgPPKpO61Ry4HyQp) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:48 |

@@ -2,7 +2,7 @@
 
 ### [This Is Bruna Karla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vKEsk)
 
-> This Is Bruna Karla\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Bruna Karla\. The essential tracks, all in one playlist.
 
 72 songs - 6 hr 5 min
 

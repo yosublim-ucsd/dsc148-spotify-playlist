@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-117 songs - 5 hr 32 min
+118 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [That's Tough](https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [That's Tough](https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V) | 2:24 | 2024-03-29 |  |
 | [THATS MY BABY](https://open.spotify.com/track/4JwYLiyUMUDtvOG5w6AnRq) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ghosts Need Love 2](https://open.spotify.com/album/7pqfjSqeoEdlaZbcu1vmzq) | 4:32 | 2024-02-02 |  |
 | [The Life](https://open.spotify.com/track/2HzSHAtrNZfiLpNtYv4HUc) | [SAINT PARIS BABY](https://open.spotify.com/artist/7E26m6GE0DFcwrJLEIjBYA), [Prod\. Dior](https://open.spotify.com/artist/5QLOODQPj9ibFM4ZwhKY94) | [CALIFORNIA RELOADED](https://open.spotify.com/album/1KsUmwbhJlBiwun5XapWs8) | 2:14 | 2024-04-26 |  |
+| [today](https://open.spotify.com/track/3CeObtgyBu5kGWo3T8QDxn) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [today](https://open.spotify.com/album/0PKvX5TqcrWwadnfGDWe2r) | 1:35 | 2024-07-13 |  |
 | [Too Deep](https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Too Deep](https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN) | 2:19 | 2024-03-15 |  |
 | [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 | 2024-06-21 |  |
 | [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2024-02-02 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Rammstein](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW)
 
-> This is Rammstein\. The essential tracks, all in one playlist.
+> This Is Rammstein\. Все лучшие треки в одном плейлисте.
 
 58 songs - 4 hr 1 min
 

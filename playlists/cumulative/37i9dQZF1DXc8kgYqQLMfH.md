@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,173 songs - 1 day 20 hr 36 min
+1,174 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [blind spot](https://open.spotify.com/track/2I18znGi0ssGoWmIugOcjK) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [blind spot](https://open.spotify.com/album/4aN4CpFSuRQQN22f4zk02q) | 2:38 | 2023-07-13 |  |
 | [Bliss](https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Bliss](https://open.spotify.com/album/2nC5R4NmZBOwXZivGLLIDD) | 3:15 | 2023-02-07 | 2023-10-23 |
 | [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 | 2024-05-14 |
-| [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 |  |
+| [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 | 2024-07-14 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 | 2022-10-28 | 2023-10-06 |
 | [blue jacket](https://open.spotify.com/track/7AaALYPKTkyXODP4YU72Jq) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [blue jacket](https://open.spotify.com/album/771iUXmzwZbihDdCWUmIV9) | 2:09 | 2021-11-10 | 2022-05-27 |
@@ -267,6 +267,7 @@
 | [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 | 2023-02-16 |
 | [down the street](https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo) | 1:50 | 2023-02-07 | 2024-04-19 |
 | [Downer](https://open.spotify.com/track/0TPzDCw6QUzz3dYPeKpWT2) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Downer](https://open.spotify.com/album/0xaHTyClq6XBNIZLbyxnr8) | 2:04 | 2022-07-01 |  |
+| [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 | 2024-07-11 |  |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
 | [Dreamer](https://open.spotify.com/track/6usANlGhQzHC3lS8ifgHaN) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Dreamer](https://open.spotify.com/album/0UCeKLcZGrPDMVKzB6MnMH) | 1:42 | 2022-09-16 | 2024-06-05 |
 | [Dreaming With You](https://open.spotify.com/track/2115fUeXfK3FnW12CHHdIx) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Dreaming With You](https://open.spotify.com/album/2N4MV7TYlQcAbdj6rkP9iK) | 2:19 | 2022-08-05 | 2022-10-29 |
@@ -397,7 +398,7 @@
 | [gallery](https://open.spotify.com/track/1PNjgT1UgvI2ZbBNEi1MZf) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [gallery](https://open.spotify.com/album/6oyJOJvkJbfV7K5GXZeQDV) | 1:46 | 2022-10-01 |  |
 | [garden bed](https://open.spotify.com/track/1l52MnASg7swhbLFtBhVJb) | [orcanite](https://open.spotify.com/artist/3dGc9ZNUwjtjtug9qAomYS) | [garden bed](https://open.spotify.com/album/1a1QguNAJiFe3mDVzipzY3) | 1:55 | 2021-11-10 | 2023-03-02 |
 | [Gardening On Mars](https://open.spotify.com/track/79i8XMKhu0RGMFV9ppZF8n) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gardening On Mars](https://open.spotify.com/album/7HSs5riFuaFuhqXm914Gb0) | 1:50 | 2023-09-01 | 2023-10-23 |
-| [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 | 2022-12-09 | 2024-05-14 |
+| [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 | 2022-12-09 |  |
 | [Get Me Z](https://open.spotify.com/track/4ZFVMtqtJe1vnPXe3jKEx0) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Floshi Mosh](https://open.spotify.com/album/5guGYkjMzLGu1ut2woB33o) | 1:29 | 2023-03-16 |  |
 | [Getaway Shack](https://open.spotify.com/track/2g5p0HAHft0wEphhZGFrS1) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Getaway Shack](https://open.spotify.com/album/7hToZsaSWSKNzKYF8hLsFv) | 2:16 | 2024-05-13 |  |
 | [Ghostboy](https://open.spotify.com/track/3gTqbgP4Kq4i1p27vCpiL8) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Ghostboy](https://open.spotify.com/album/4XBaiclHrnTRyY3OV02aPi) | 1:46 | 2022-04-15 | 2023-09-16 |
@@ -728,7 +729,7 @@
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-09-01 |  |
 | [Night Walk](https://open.spotify.com/track/7xzikC3nNzN0NEM8M9oD8p) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo) | [Night Walk](https://open.spotify.com/album/3EC2kOMzMFAHL4TwSGIRjY) | 2:03 | 2022-04-15 | 2023-04-28 |
 | [night walk](https://open.spotify.com/track/4X9OLjeDCUTr39baLOSMlQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [night walk](https://open.spotify.com/album/6HXpBu0Dk9XuJ0zkicvFIr) | 1:48 | 2021-11-10 | 2022-08-19 |
-| [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 |  |
+| [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 | 2024-07-14 |
 | [Nightfall](https://open.spotify.com/track/1zBbaX88WI9bPXochk6Uw3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightfall](https://open.spotify.com/album/1sp1kOcBZv60kZMRNmxsLJ) | 2:27 | 2022-09-02 | 2023-08-04 |
 | [nirwana](https://open.spotify.com/track/7Iu0d7ORgRU1CcDymzVPck) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [nirwana](https://open.spotify.com/album/2plF1M083P6jysg6ODjBNj) | 2:17 | 2021-11-10 | 2022-10-15 |
 | [no breeze](https://open.spotify.com/track/0T2BGpjb7qVrNCtFXJYNkf) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [no breeze](https://open.spotify.com/album/0DdVswYFDxvGtMwiuExn8e) | 2:06 | 2022-10-28 | 2024-06-01 |

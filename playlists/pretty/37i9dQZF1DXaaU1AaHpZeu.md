@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Girl Ultra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,610 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,616 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 40 | [Algo Nuevo](https://open.spotify.com/track/5inx7jLc2w5ypAEp2zir2L) | [Bob Crous](https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE), [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [pain’t](https://open.spotify.com/album/0oJ81Hld66457CqXHkyw7b) | 3:46 |
 | 41 | [Cosmos](https://open.spotify.com/track/0rl0FMGUKQ2DjK67GHqMY9) | [Ona](https://open.spotify.com/artist/3bfQHgnjOeXb7EcypUNZeC) | [DIÁFANA](https://open.spotify.com/album/2erqhbLAtRLKhvSfvwcoS9) | 3:36 |
 | 42 | [CUANDO GRANDE](https://open.spotify.com/track/3pOIFENLnTMNFAchNJnNOp) | [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Goldyne](https://open.spotify.com/artist/6ZRH8GMlxhpZidSYj52Nwy) | [LA CARITA DEL DIABLO](https://open.spotify.com/album/15zOGIXKNrFPzitPOy3Uve) | 2:03 |
-| 43 | [No Hay Tiquete E' Regreso](https://open.spotify.com/track/4aGK22lwQ1QJCgWwmkliDz) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [No Hay Tiquete E' Regreso](https://open.spotify.com/album/1jlDdKhsl1oqAg7o85UWQJ) | 2:12 |
+| 43 | [No Hay Tiquete De Regreso](https://open.spotify.com/track/4aGK22lwQ1QJCgWwmkliDz) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [No Hay Tiquete De Regreso](https://open.spotify.com/album/1jlDdKhsl1oqAg7o85UWQJ) | 2:12 |
 | 44 | [quiero creer que tienes un buen corazón](https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [quiero creer que tienes un buen corazón](https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw) | 3:36 |
 | 45 | [PASARELA](https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [PASARELA](https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti) | 2:44 |
 | 46 | [Aquello que llaman amor](https://open.spotify.com/track/2mRhNjLh1qflTjUPsn92of) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Aquello que llaman amor](https://open.spotify.com/album/1bULNS6QwGROWbeoxgUU2X) | 3:15 |

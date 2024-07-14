@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 118000,
       "name": "BRUV",
       "url": "https://open.spotify.com/track/5cs4km2N4KB865tIb59PHZ"
@@ -3716,6 +3716,24 @@
       "duration_ms": 227786,
       "name": "Claw Machine",
       "url": "https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc"
+    },
+    {
+      "album": {
+        "name": "Clean It Up (Zenless Zone Zero Von Lycaon Song)",
+        "url": "https://open.spotify.com/album/3OlIy3zPmNVxgaC4tjDw6d"
+      },
+      "artists": [
+        {
+          "name": "LongestSoloEver",
+          "url": "https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161915,
+      "name": "Clean It Up - Sped Up Version",
+      "url": "https://open.spotify.com/track/2CVcdgVWqI1wkVL0PaZoQm"
     },
     {
       "album": {
@@ -6530,7 +6548,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 182098,
       "name": "Find A Way (feat. Suli Breaks)",
       "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
@@ -7344,6 +7362,28 @@
       "duration_ms": 192000,
       "name": "Getting No Sleep",
       "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
+    },
+    {
+      "album": {
+        "name": "Ghetto Boyz",
+        "url": "https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133708,
+      "name": "Ghetto Boyz",
+      "url": "https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1"
     },
     {
       "album": {
@@ -8995,6 +9035,24 @@
     },
     {
       "album": {
+        "name": "I Could Get Into It",
+        "url": "https://open.spotify.com/album/10TlQ4PM3DixSkwTRRioPw"
+      },
+      "artists": [
+        {
+          "name": "Jazz Emu",
+          "url": "https://open.spotify.com/artist/69W52X4tUONDDDb6FmGtl6"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154703,
+      "name": "I Could Get Into It",
+      "url": "https://open.spotify.com/track/2lTSgGJNGERxeD3LsrwNID"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Wait (Acoustic)",
         "url": "https://open.spotify.com/album/3ICGn2SlvLwgYDN8i7bWR0"
       },
@@ -9304,7 +9362,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 169098,
       "name": "I'm Not Getting Better",
       "url": "https://open.spotify.com/track/5ZOh8soFtf3Fye1n8Vu6JE"
@@ -9952,7 +10010,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 133488,
       "name": "Just Getting By, Pt. 2",
       "url": "https://open.spotify.com/track/1UgGL75FJDEWMowAzILMOx"
@@ -12838,7 +12896,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 142148,
       "name": "No Question",
       "url": "https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u"
@@ -13463,6 +13521,32 @@
     },
     {
       "album": {
+        "name": "Outta Control",
+        "url": "https://open.spotify.com/album/22DheNkxDrBrmLBTvSiGpO"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135697,
+      "name": "Outta Control",
+      "url": "https://open.spotify.com/track/6qUJzmFlxY1E9QmQ9jI1M4"
+    },
+    {
+      "album": {
         "name": "Outta Pocket",
         "url": "https://open.spotify.com/album/1tAqAkfzPyObLDw7SB5AiG"
       },
@@ -13486,6 +13570,24 @@
       "duration_ms": 131231,
       "name": "Outta Pocket",
       "url": "https://open.spotify.com/track/6NEaH3J6X4G93qq8od3wGB"
+    },
+    {
+      "album": {
+        "name": "Outta There",
+        "url": "https://open.spotify.com/album/2vYEXF5x4W5Ns3tSWwlAOO"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215595,
+      "name": "Outta There",
+      "url": "https://open.spotify.com/track/6sHkE2T4aajGIgasxsZvNW"
     },
     {
       "album": {
@@ -14629,6 +14731,24 @@
     },
     {
       "album": {
+        "name": "Ready To Die",
+        "url": "https://open.spotify.com/album/26yFKvc6tCM4ybNlHYHYyh"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127134,
+      "name": "Ready To Die",
+      "url": "https://open.spotify.com/track/2fYuhushMMyanwXYQIaE2D"
+    },
+    {
+      "album": {
         "name": "Real Geeker",
         "url": "https://open.spotify.com/album/6bPxUeJ7kJzkJe0jOVd7kt"
       },
@@ -14934,6 +15054,24 @@
       "duration_ms": 165687,
       "name": "Riots",
       "url": "https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU"
+    },
+    {
+      "album": {
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "album": {
@@ -17308,7 +17446,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 174697,
       "name": "SUNSHINE DAY",
       "url": "https://open.spotify.com/track/6jLO5iokd96cQ7zx47jGLJ"
@@ -17504,7 +17642,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 164783,
       "name": "Take It Or Leave It",
       "url": "https://open.spotify.com/track/4jyTj9zkWix1Csl79uizh0"
@@ -17811,6 +17949,28 @@
     },
     {
       "album": {
+        "name": "That Was Very Ugly of You, Iri",
+        "url": "https://open.spotify.com/album/3ZNoRxEDDkjsyOhLBh97or"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "That Was Very Ugly of You, Iri",
+      "url": "https://open.spotify.com/track/6Fe6XkbsQfACxdzsqSoLJn"
+    },
+    {
+      "album": {
         "name": "That's Us/Wild Combination",
         "url": "https://open.spotify.com/album/3ifBjWe4ziDBImGZaapF4f"
       },
@@ -18036,6 +18196,24 @@
       "duration_ms": 184270,
       "name": "The Dance - Edit",
       "url": "https://open.spotify.com/track/2pTBAVg24tndoL4MJePTwK"
+    },
+    {
+      "album": {
+        "name": "The Forest for the Trees",
+        "url": "https://open.spotify.com/album/5csTZhZ27JDNdECJnXVvQm"
+      },
+      "artists": [
+        {
+          "name": "Chonny Jash",
+          "url": "https://open.spotify.com/artist/2hvntb0GuCXAFKwgc7X0o5"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "The Forest for the Trees",
+      "url": "https://open.spotify.com/track/1gjqz42guoRsNaxjOTZCVu"
     },
     {
       "album": {
@@ -18766,7 +18944,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 226500,
       "name": "To Be Alright - The Sanctuary Remix",
       "url": "https://open.spotify.com/track/4M6kQiwzt3KReDMfSnfV8P"
@@ -20566,7 +20744,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 221744,
       "name": "Yacht Party",
       "url": "https://open.spotify.com/track/2LOoUMTCzJrEuY2OH4HfdQ"

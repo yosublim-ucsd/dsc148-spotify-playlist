@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-204 songs - 9 hr 37 min
+207 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Chuva](https://open.spotify.com/track/7knFmwt8bh2YmMNd4noQtd) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Chuva](https://open.spotify.com/album/4kJzbCXoNly7cLZuyFRVGW) | 1:48 | 2022-03-21 | 2022-08-13 |
 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 | 2022-03-21 | 2022-09-07 |
 | [Clear Sight](https://open.spotify.com/track/2APpB3CYW0XThDZtaGFpQ9) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Clear Sight](https://open.spotify.com/album/1jiA5TfiHFMVrmdXhGDX90) | 2:13 | 2022-03-21 |  |
+| [Closer and Farther](https://open.spotify.com/track/6wTDO6mse4f5CGL5eHcfeY) | [Lucas Benjamin James](https://open.spotify.com/artist/27h3INNZCgUeXUmPpurKRn) | [Closer and Farther](https://open.spotify.com/album/1Hc0V6eDXresne94x1ZcLg) | 2:29 | 2024-07-13 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-03-21 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-03-21 |  |
 | [Comfort](https://open.spotify.com/track/46iE5py9jK5Oxxtqp3IwBI) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Comfort](https://open.spotify.com/album/6GnVpoGbHb2Qoha334e1e9) | 2:13 | 2022-03-21 |  |
@@ -195,6 +196,7 @@
 | [Twilight](https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Twilight](https://open.spotify.com/album/6DqVZ8vsZhFFBMQ5VY9nMe) | 2:44 | 2022-03-21 |  |
 | [Two Soon](https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/1b56Njt19KHgniIzWNWaYf) | 5:03 | 2022-03-21 |  |
 | [Two Soon](https://open.spotify.com/track/7D1WYWKWix6WOSnxbtI8sn) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/2SPnHtMaCIMyg6pkU68BkZ) | 5:03 | 2022-07-08 | 2024-04-19 |
+| [Ukiyo](https://open.spotify.com/track/7lno5cIJ2azVHyX0LHbeM5) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [Ukiyo](https://open.spotify.com/album/00Vl5X8fKO8IjXb14K3ypH) | 2:27 | 2024-07-13 |  |
 | [Unknown](https://open.spotify.com/track/0CBVAaE1crsiQgrYui9qEg) | [DREAMY charlie](https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808) | [Spectrum](https://open.spotify.com/album/3HUqYyfkP0i5CqCAf2m1dM) | 2:33 | 2022-03-21 |  |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2022-03-21 | 2023-07-29 |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2022-03-21 | 2022-05-06 |
@@ -210,6 +212,7 @@
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-03-21 |  |
 | [Weightless Moments](https://open.spotify.com/track/430S5jXFtVzLvDY14M8UiM) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [Weightless Moments](https://open.spotify.com/album/0hlW6PxO25DJR95MLLWxFd) | 2:41 | 2024-04-07 |  |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2022-03-21 | 2022-08-13 |
+| [Winds of Wonder](https://open.spotify.com/track/2prKrojFxMm6Ctp1OfyCXl) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Present Patience](https://open.spotify.com/album/0Ka3k88d56pHMtyjt7vU6n) | 3:24 | 2024-07-13 |  |
 | [With Hope](https://open.spotify.com/track/5ROmMRpdkiYdBM26Xt9ea4) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [With Hope](https://open.spotify.com/album/7GQddjmAKOMZBFHdKFIKnA) | 2:25 | 2022-03-21 |  |
 | [Wondermoon](https://open.spotify.com/track/2HkggkwifZ4BstTMCN7i6T) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Wondermoon](https://open.spotify.com/album/5nNIdDaPuKlISdz250fmjU) | 2:57 | 2022-03-21 |  |
 

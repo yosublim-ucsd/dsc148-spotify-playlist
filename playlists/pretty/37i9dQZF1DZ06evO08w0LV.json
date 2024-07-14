@@ -1,12 +1,12 @@
 {
-  "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
+  "description": "This Is M\u00e5neskin. Los temas esenciales, todos en una lista.",
   "num_followers": 5114,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo8ggAAAAACWlikOlV6My+H05XGcALSm",
+  "snapshot_id": "ZpByAAAAAAAoAwi8jjiYijG7tGxSWnhr",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 300413,
-      "name": "CORALINE",
-      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+      "duration_ms": 300413,
+      "name": "CORALINE",
+      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 150695,
-      "name": "READ YOUR DIARY",
-      "url": "https://open.spotify.com/track/16HsEMkim07LboMyhR81eu"
+      "duration_ms": 179631,
+      "name": "TIMEZONE",
+      "url": "https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 179631,
-      "name": "TIMEZONE",
-      "url": "https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB"
+      "duration_ms": 150695,
+      "name": "READ YOUR DIARY",
+      "url": "https://open.spotify.com/track/16HsEMkim07LboMyhR81eu"
     },
     {
       "added_at": null,

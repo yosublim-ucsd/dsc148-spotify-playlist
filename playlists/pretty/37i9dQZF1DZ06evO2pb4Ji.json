@@ -1,12 +1,12 @@
 {
-  "description": "This is League of Legends\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 387950,
+  "description": "This is League of Legends. The essential tracks, all in one playlist.",
+  "num_followers": 387965,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo8ggAAAAADhCe2b5bJH/lQxJk2Qgp//",
+  "snapshot_id": "ZpByAAAAAAAkGn0Q4gcg0hAmTS+UQkJ5",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        },
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POP/STARS",
         "url": "https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ"
       },
@@ -239,6 +215,30 @@
       "duration_ms": 191100,
       "name": "POP/STARS",
       "url": "https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
     },
     {
       "added_at": null,
@@ -1199,6 +1199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of League of Legends Vol. 1",
+        "url": "https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 239538,
+      "name": "The Curse of the Sad Mummy",
+      "url": "https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes of Light",
         "url": "https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 205529,
       "name": "I'll Find a Way",
       "url": "https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of League of Legends Vol. 1",
-        "url": "https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 239538,
-      "name": "The Curse of the Sad Mummy",
-      "url": "https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx"
     }
   ],
   "unique_name": "This Is League of Legends",

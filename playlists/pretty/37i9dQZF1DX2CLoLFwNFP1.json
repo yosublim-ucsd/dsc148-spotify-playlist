@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 39181,
+  "num_followers": 39206,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Show Me the Money 5 Episode 4",
-        "url": "https://open.spotify.com/album/7ffxjfHRGAZc4mwGCJN4Wr"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209019,
-      "name": "Day Day",
-      "url": "https://open.spotify.com/track/4RVnBOCRhSg9acr4LjrSe5"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Sho Nuff",
         "url": "https://open.spotify.com/album/3ctHqP7nJeRqoBstrgGhcR"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 164250,
       "name": "Sho Nuff",
       "url": "https://open.spotify.com/track/5AugHJXAcrjcHIMeU2oWAo"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Show Me the Money 5 Episode 4",
+        "url": "https://open.spotify.com/album/7ffxjfHRGAZc4mwGCJN4Wr"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209019,
+      "name": "Day Day",
+      "url": "https://open.spotify.com/track/4RVnBOCRhSg9acr4LjrSe5"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
-        "url": "https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL"
-      },
-      "artists": [
-        {
-          "name": "SGBOYZ (Jay Park, Don Mills, Loco, Nucksal)",
-          "url": "https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw"
-        }
-      ],
-      "duration_ms": 256437,
-      "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "B.A.R.S (Vol. 1)",
         "url": "https://open.spotify.com/album/2kEVMjMVLWxZJWpFgIxX8T"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 180811,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/5wz4SsrEjTJSBa18myF349"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
+        "url": "https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL"
+      },
+      "artists": [
+        {
+          "name": "SGBOYZ (Jay Park, Don Mills, Loco, Nucksal)",
+          "url": "https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw"
+        }
+      ],
+      "duration_ms": 256437,
+      "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC"
     },
     {
       "added_at": "2024-07-02 08:45:37",

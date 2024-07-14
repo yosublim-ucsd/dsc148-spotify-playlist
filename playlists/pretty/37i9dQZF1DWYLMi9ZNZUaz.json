@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Karik",
-  "num_followers": 94113,
+  "num_followers": 94132,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
+      },
+      "artists": [
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
+      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
+    },
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
         "name": "An Th\u1ea7n",
         "url": "https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
-        "name": "B\u1eacT N\u00d3 L\u00caN",
-        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
-      },
-      "artists": [
-        {
-          "name": "SOOBIN",
-          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
-      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
     },
     {
       "added_at": "2024-07-11 14:53:00",
@@ -255,30 +255,6 @@
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
-      },
-      "artists": [
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
-        }
-      ],
-      "duration_ms": 226993,
-      "name": "\u0110\u00e1nh \u0110\u1ed5i (ft. RPT MCK)",
-      "url": "https://open.spotify.com/track/2doGmsaPLdot51o80juiYU"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
         "name": "Don't C\u00f4i",
         "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
+    },
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "duration_ms": 226993,
+      "name": "\u0110\u00e1nh \u0110\u1ed5i (ft. RPT MCK)",
+      "url": "https://open.spotify.com/track/2doGmsaPLdot51o80juiYU"
     },
     {
       "added_at": "2024-07-11 14:53:00",
@@ -691,26 +691,18 @@
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+        "name": "N\u00f3i D\u1ed1i",
+        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
       },
       "artists": [
         {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "L\u0103ng LD",
-          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
-        },
-        {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 184615,
-      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
-      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
+      "duration_ms": 206139,
+      "name": "N\u00f3i D\u1ed1i",
+      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
     },
     {
       "added_at": "2024-07-11 14:53:00",
@@ -739,34 +731,26 @@
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
-        "name": "N\u00f3i D\u1ed1i",
-        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
       "artists": [
         {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 206139,
-      "name": "N\u00f3i D\u1ed1i",
-      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
-        "name": "Thanh Xu\u00e2n",
-        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
-      },
-      "artists": [
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
         {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+          "name": "L\u0103ng LD",
+          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
+        },
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
         }
       ],
-      "duration_ms": 220509,
-      "name": "Thanh Xu\u00e2n",
-      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
+      "duration_ms": 184615,
+      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
+      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
     },
     {
       "added_at": "2024-07-11 14:53:00",
@@ -791,6 +775,22 @@
       "duration_ms": 222000,
       "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
       "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
+    },
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
+        "name": "Thanh Xu\u00e2n",
+        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 220509,
+      "name": "Thanh Xu\u00e2n",
+      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
     },
     {
       "added_at": "2024-07-11 14:53:00",
@@ -835,6 +835,42 @@
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
+        "name": "N\u1ea5u \u0103n cho em",
+        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+        }
+      ],
+      "duration_ms": 241340,
+      "name": "N\u1ea5u \u0103n cho em",
+      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
+    },
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
+        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 167970,
+      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
+    },
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
         "name": "Ch\u00ecm S\u00e2u",
         "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
       },
@@ -871,42 +907,6 @@
       "duration_ms": 224175,
       "name": "Tell the kids i love them (ft. Shiki)",
       "url": "https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
-        "name": "N\u1ea5u \u0103n cho em",
-        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
-      },
-      "artists": [
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
-        }
-      ],
-      "duration_ms": 241340,
-      "name": "N\u1ea5u \u0103n cho em",
-      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
-        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 167970,
-      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
     },
     {
       "added_at": "2024-07-11 14:53:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-07-11 14:53:00",
       "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
-      },
-      "artists": [
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
-        }
-      ],
-      "duration_ms": 188256,
-      "name": "S\u00e0i G\u00f2n \u01a1i",
-      "url": "https://open.spotify.com/track/5BE96iX1TLgVHFDJPcKpkp"
-    },
-    {
-      "added_at": "2024-07-11 14:53:00",
-      "album": {
         "name": "TOKYO Cypher",
         "url": "https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 242433,
       "name": "Nh\u1eadt K\u00fd V\u00e0o \u0110\u1eddi",
       "url": "https://open.spotify.com/track/1DkYLzjwHaesQYObT2c3X2"
+    },
+    {
+      "added_at": "2024-07-11 14:53:00",
+      "album": {
+        "name": "FRIENDSHIP",
+        "url": "https://open.spotify.com/album/44itOM9agplK3ycJcPgH9T"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL"
+        }
+      ],
+      "duration_ms": 294997,
+      "name": "FRIENDSHIP",
+      "url": "https://open.spotify.com/track/1ZSwYD21wiQCx3VYrnQHMm"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

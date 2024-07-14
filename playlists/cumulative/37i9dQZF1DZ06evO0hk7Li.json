@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 203500,
       "name": "Broken Chandeliers",
       "url": "https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 142546,
       "name": "Coffee (feat. Jacob Banks)",
       "url": "https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW"
@@ -468,6 +468,24 @@
       "duration_ms": 195752,
       "name": "Found",
       "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+    },
+    {
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53853,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5ujvilUlDY0p6VMWshWsnS"
     },
     {
       "album": {
@@ -786,6 +804,24 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+    },
+    {
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51880,
+      "name": "Lovely Nanna",
+      "url": "https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU"
     },
     {
       "album": {
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 222483,
       "name": "SOMEONE ELSE (featuring Jacob Banks)",
       "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
@@ -1364,6 +1400,28 @@
       "duration_ms": 162076,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI"
+    },
+    {
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84800,
+      "name": "Take My Hand Precious Lord - Intro",
+      "url": "https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy"
     },
     {
       "album": {

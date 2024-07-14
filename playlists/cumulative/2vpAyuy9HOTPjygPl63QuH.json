@@ -6727,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/2w3FqJMpVWGQdb4G5UuCtv"
+      },
+      "artists": [
+        {
+          "name": "Brainwreck",
+          "url": "https://open.spotify.com/artist/75sHHShEfaCIc74cP4gVWk"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138495,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/5dpzswkHtHBQdBuXz5TJqW"
+    },
+    {
+      "album": {
         "name": "Dancefloor",
         "url": "https://open.spotify.com/album/5CwckvXFNzKTSKGQjdgewn"
       },

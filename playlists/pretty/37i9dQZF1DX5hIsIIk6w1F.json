@@ -1,6 +1,6 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Standly",
-  "num_followers": 401835,
+  "num_followers": 401963,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
@@ -378,6 +378,10 @@
         {
           "name": "Easykid",
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "duration_ms": 152133,

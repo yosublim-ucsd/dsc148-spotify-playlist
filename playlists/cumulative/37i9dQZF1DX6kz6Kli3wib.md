@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-340 songs - 16 hr 11 min
+343 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-11 | 2022-04-06 |
 | [Branches](https://open.spotify.com/track/1sI1OCmoBg5Ty1xN1PRAHs) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Branches](https://open.spotify.com/album/4yU8TPNB2El1nZW23uU1LH) | 2:13 | 2023-02-24 |  |
 | [Broken Like Me](https://open.spotify.com/track/6y6opfYOZ0PQMV4cLVtCcr) | [Midnight Side Eye](https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3) | [Broken Like Me](https://open.spotify.com/album/0MSaRnZ9MKvn7Yk1tMNs3B) | 2:28 | 2024-03-26 |  |
+| [Bubbles](https://open.spotify.com/track/2l75Ml2QDjaMfuQzEoesrk) | [Distant Dan](https://open.spotify.com/artist/6PxK9jl4Trg1lamb5Ee7lI) | [Bubbles](https://open.spotify.com/album/4PC2108IieVutwvKYuD6uI) | 2:32 | 2024-07-14 |  |
 | [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 |  |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2021-11-11 | 2022-07-01 |
 | [Canvas](https://open.spotify.com/track/2LvlbxgPyiHwjUNMF97RRg) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Canvas](https://open.spotify.com/album/5TuBrI1k6zsizfbkBM2Pjb) | 2:19 | 2024-03-04 |  |
@@ -104,6 +105,7 @@
 | [energy binding](https://open.spotify.com/track/1ekjdpd7bEd2uOmoLSePQQ) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [energy binding](https://open.spotify.com/album/0T8F9M1ujRoiX81PAXr25d) | 2:25 | 2024-01-19 |  |
 | [Escarpment](https://open.spotify.com/track/5CcHSH8zYIIeqCtLeQDt49) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Escarpment](https://open.spotify.com/album/0bcBdGbBUsCbUVwoiBlzcA) | 2:37 | 2021-11-11 |  |
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2021-11-11 | 2023-02-25 |
+| [Fade Tech](https://open.spotify.com/track/4mJagNRdbOMSeqVdhhmlBO) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Fade Tech](https://open.spotify.com/album/0hRDmAmnfGAPIGk7WZsmlO) | 2:45 | 2024-07-14 |  |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
 | [farina](https://open.spotify.com/track/53ibawjOdKtlKz20x65Exi) | [niitoo](https://open.spotify.com/artist/51MgdPvDhbrdA9vZQqxgBO) | [farina](https://open.spotify.com/album/76Zb1ucvt6szBMwEUl3EtZ) | 2:34 | 2024-03-26 |  |
 | [Fast Lane](https://open.spotify.com/track/1Px8Qwp440BpyKaP4d6a7h) | [racktor](https://open.spotify.com/artist/2pp14NS0R9fZR1Ih9PvOKI) | [Fast Lane](https://open.spotify.com/album/0ppanrtAHzX9U9fAwlTGGc) | 2:00 | 2024-02-13 |  |
@@ -299,6 +301,7 @@
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2021-11-11 |  |
 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 | 2021-11-11 | 2022-04-06 |
 | [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
+| [TellMe](https://open.spotify.com/track/2LAi45qaADcEErJYMiY6mZ) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [TellMe](https://open.spotify.com/album/27FaBzq2pdecgllkkzgOAv) | 2:53 | 2024-07-14 |  |
 | [Tenacious Aura](https://open.spotify.com/track/5KNESkEEm92UTYQ5psdIK6) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [Tenacious Aura](https://open.spotify.com/album/445wpYYsV11OvhiMIcIjLJ) | 4:09 | 2022-05-20 | 2022-07-29 |
 | [Thanks To You](https://open.spotify.com/track/1a3kjYRNW9vrvn8VG7wmv5) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [Thanks To You](https://open.spotify.com/album/0lHve23h4PTqyf9L9b53Uy) | 3:07 | 2023-03-10 |  |
 | [The Lagoon](https://open.spotify.com/track/4IMYKdOmUjOxsYKHZ4Ufbl) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [The Lagoon](https://open.spotify.com/album/014h15avf8lcxBMYKl1rA4) | 2:56 | 2023-09-08 |  |

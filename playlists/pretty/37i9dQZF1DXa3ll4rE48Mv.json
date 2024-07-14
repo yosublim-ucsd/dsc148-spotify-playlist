@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 195289,
+  "num_followers": 195331,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Arnos Vale",
-        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
-      },
-      "artists": [
-        {
-          "name": "Personal Best",
-          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
-        }
-      ],
-      "duration_ms": 223889,
-      "name": "This Is What We Look Like",
-      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "What You Do for Love",
         "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200934,
       "name": "What You Do for Love",
       "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Arnos Vale",
+        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
+      },
+      "artists": [
+        {
+          "name": "Personal Best",
+          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
+        }
+      ],
+      "duration_ms": 223889,
+      "name": "This Is What We Look Like",
+      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
-      },
-      "artists": [
-        {
-          "name": "LIINES",
-          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
-        }
-      ],
-      "duration_ms": 144170,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Stupid Rich Boy",
         "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 263546,
       "name": "Stupid Rich Boy",
       "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
+      },
+      "artists": [
+        {
+          "name": "LIINES",
+          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
+        }
+      ],
+      "duration_ms": 144170,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Steady Damage",
-        "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
-      },
-      "artists": [
-        {
-          "name": "Fit For Rivals",
-          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Fences",
         "url": "https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Steady Damage",
+        "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Maggot",
         "url": "https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 170930,
       "name": "Wet",
       "url": "https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2"
+      },
+      "artists": [
+        {
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
+        }
+      ],
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 125935,
       "name": "I Hate the Weekend",
       "url": "https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Friends. Lovers. Favorites",
-        "url": "https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8"
-      },
-      "artists": [
-        {
-          "name": "The Hirs Collective",
-          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
-        }
-      ],
-      "duration_ms": 63466,
-      "name": "It's Ok to Be Sick",
-      "url": "https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY"
     }
   ],
   "unique_name": "Queercore",

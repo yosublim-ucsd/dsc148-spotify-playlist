@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi",
-  "num_followers": 31446,
+  "num_followers": 31445,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -755,18 +755,26 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "As Ta Leme Kala",
-        "url": "https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz"
+        "name": "Evaisthisies",
+        "url": "https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ"
       },
       "artists": [
         {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Anastasios Rammos",
+          "url": "https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
         }
       ],
-      "duration_ms": 173307,
-      "name": "As Ta Leme Kala",
-      "url": "https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz"
+      "duration_ms": 240000,
+      "name": "Evaisthisies",
+      "url": "https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -803,26 +811,18 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "Evaisthisies",
-        "url": "https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ"
+        "name": "As Ta Leme Kala",
+        "url": "https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz"
       },
       "artists": [
         {
-          "name": "Katy Garbi",
-          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
-        },
-        {
-          "name": "Anastasios Rammos",
-          "url": "https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF"
-        },
-        {
-          "name": "Foivos",
-          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Evaisthisies",
-      "url": "https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW"
+      "duration_ms": 173307,
+      "name": "As Ta Leme Kala",
+      "url": "https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz"
     },
     {
       "added_at": "2024-07-11 21:00:00",

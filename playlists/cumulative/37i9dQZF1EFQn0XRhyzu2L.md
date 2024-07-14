@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-502 songs - 1 day 3 hr 36 min
+503 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Invite Only](https://open.spotify.com/track/0udENxYpB3n6uK7Lb5JP91) | [Great Dane](https://open.spotify.com/artist/6AKWjx5wmOI3bCeLrxFjgv) | [Alpha Dog](https://open.spotify.com/album/3kQ8dpxBFQGumdFBO2j20l) | 2:38 | 2024-02-27 |  |
 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 | 2024-02-27 |  |
 | [it's not u it's me](https://open.spotify.com/track/7cLm450e9XaPrEZTSTsfwU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [it's not u it's me](https://open.spotify.com/album/2H7CLWulZOueBe1Hjtznm1) | 3:14 | 2024-02-27 |  |
-| [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/1U4jHPRjnjBPhVcAXw3skP) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 | 2024-02-27 |  |
+| [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 | 2024-02-27 |  |
 | [Jesus Medley](https://open.spotify.com/track/79ZtLci35I1Ni1K7GG7Wdd) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Songs From The Heart](https://open.spotify.com/album/7vVXGHz6POqaUM7y4Y5RCn) | 8:38 | 2024-02-27 |  |
 | [Jinx](https://open.spotify.com/track/5SSOj3aJM1Vfee50grKpdp) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/47QfGuT6GNz7RLEyiJ6CLt) | 3:37 | 2024-02-27 |  |
 | [Jump \(with Trippie Redd\)](https://open.spotify.com/track/2OvV4NjEBRE9v8Oo7QeUCq) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Jump \(with Trippie Redd\)](https://open.spotify.com/album/2CH8od3NBJpsvqTdY3H1HH) | 3:27 | 2024-02-27 |  |
@@ -343,6 +343,7 @@
 | [Only](https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:00 | 2024-02-27 |  |
 | [Only Time of Year](https://open.spotify.com/track/2SI7uQa7rugjxIrDM2czso) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:58 | 2024-02-27 |  |
 | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU) | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM) | 3:25 | 2024-02-27 |  |
+| [Otro Level](https://open.spotify.com/track/0QTNqESiTNtNZpakyN1sek) | [clonakz](https://open.spotify.com/artist/0ou7NMwZ7JMtAUoV0uSF8k) | [Otro Level](https://open.spotify.com/album/5L3AEt8GfYwdQ6DYF4mYau) | 1:59 | 2024-07-13 |  |
 | [Otro Level](https://open.spotify.com/track/30bos35PKdBqeSMgVFsia5) | [zxtyy](https://open.spotify.com/artist/5K2mfHnYfV0ONVRHRy2DSR), [reiiki](https://open.spotify.com/artist/5B68mBRgTMDaNza1wiz3cw) | [sYrup!](https://open.spotify.com/album/1IqtsopYsIEaj4dLgsSKxM) | 2:02 | 2024-05-19 | 2024-05-21 |
 | [Our Word](https://open.spotify.com/track/0uDB1q0UqgRFBl8hI4Qbf7) | [36 Questions](https://open.spotify.com/artist/1lZ55BBi0fylEBR9qOFk2x), [Jessie Shelton](https://open.spotify.com/artist/2fpFaqhr6d1JZ47hlYuIcs) | [36 Questions: The Deluxe Album](https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7) | 5:17 | 2024-02-27 |  |
 | [Outsiders](https://open.spotify.com/track/1iwQdUngDyaxhq0s2PqVUx) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Outsiders](https://open.spotify.com/album/29E3D3LWKCGqGanmEjeO5E) | 3:49 | 2024-02-27 |  |

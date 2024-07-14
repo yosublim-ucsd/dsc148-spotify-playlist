@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 203468,
+  "num_followers": 203470,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2024-07-12 17:06:05",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 177658,
       "name": "What A Mystery",
       "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2024-07-12 17:06:05",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2024-07-12 17:06:05",
-      "album": {
         "name": "NATIVE TONGUE",
         "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 125598,
       "name": "YOU'RE THE ONE I WANT",
       "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2024-07-12 17:06:05",
+      "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
-    },
-    {
-      "added_at": "2024-07-12 17:06:05",
-      "album": {
         "name": "Here for You",
         "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 152600,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
+    },
+    {
+      "added_at": "2024-07-12 17:06:05",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
+        "name": "For the Soul",
+        "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
+      },
+      "artists": [
+        {
+          "name": "Erica Mason",
+          "url": "https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz"
+        },
+        {
+          "name": "Hymn Logic",
+          "url": "https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH"
+        }
+      ],
+      "duration_ms": 199298,
+      "name": "Remind You",
+      "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
+    },
+    {
+      "added_at": "2024-07-12 17:06:05",
+      "album": {
         "name": "The One You Need",
         "url": "https://open.spotify.com/album/6QemBl6QEG7Lt9W2ALuctj"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 275135,
       "name": "OMM (On My Mind) [Remix]",
       "url": "https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3"
-    },
-    {
-      "added_at": "2024-07-12 17:06:05",
-      "album": {
-        "name": "For the Soul",
-        "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
-      },
-      "artists": [
-        {
-          "name": "Erica Mason",
-          "url": "https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz"
-        },
-        {
-          "name": "Hymn Logic",
-          "url": "https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH"
-        }
-      ],
-      "duration_ms": 199298,
-      "name": "Remind You",
-      "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/0OoN6mpdxCzQs6Iq5b26aF"
-      },
-      "artists": [
-        {
-          "name": "Cattle & Cane",
-          "url": "https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc"
-        }
-      ],
-      "duration_ms": 218454,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/042ILs7k3vS7HDtUgBU8nl"
-    },
-    {
-      "added_at": "2024-07-12 17:06:05",
-      "album": {
         "name": "Floodplain",
         "url": "https://open.spotify.com/album/4xa65s9NcXYzUN72tYJnLP"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 261306,
       "name": "I Feel the Love Between Us",
       "url": "https://open.spotify.com/track/5qMT6T7uAU8KqJjPSXAEjE"
+    },
+    {
+      "added_at": "2024-07-12 17:06:05",
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/0OoN6mpdxCzQs6Iq5b26aF"
+      },
+      "artists": [
+        {
+          "name": "Cattle & Cane",
+          "url": "https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/042ILs7k3vS7HDtUgBU8nl"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
-        "name": "Band of Gold // Summer Sessions",
-        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Band of Gold // Summer Sessions",
-      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
-    },
-    {
-      "added_at": "2024-07-12 17:06:05",
-      "album": {
         "name": "Fall in Love with You.",
         "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
+    },
+    {
+      "added_at": "2024-07-12 17:06:05",
+      "album": {
+        "name": "Band of Gold // Summer Sessions",
+        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Band of Gold // Summer Sessions",
+      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -2379,18 +2379,18 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
-        "name": "More Than Me",
-        "url": "https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD"
+        "name": "Oh How I Love You",
+        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
         }
       ],
-      "duration_ms": 211200,
-      "name": "More Than Me",
-      "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
+      "duration_ms": 233050,
+      "name": "Oh How I Love You - R&B Version",
+      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
+        "name": "More Than Me",
+        "url": "https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "More Than Me",
+      "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
+    },
+    {
+      "added_at": "2024-07-12 17:06:05",
+      "album": {
         "name": "Here's to Second Chances",
         "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
-    },
-    {
-      "added_at": "2024-07-12 17:06:05",
-      "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/2nrcquoo8aHqdrZyx6kdPb"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dancing In The Minefields",
-      "url": "https://open.spotify.com/track/1pDYCsbY4NkeQb8AvanZMj"
     },
     {
       "added_at": "2024-07-12 17:06:05",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2024-07-12 17:06:05",
       "album": {
-        "name": "Oh How I Love You",
-        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/2nrcquoo8aHqdrZyx6kdPb"
       },
       "artists": [
         {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
         }
       ],
-      "duration_ms": 233050,
-      "name": "Oh How I Love You - R&B Version",
-      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+      "duration_ms": 210372,
+      "name": "Dancing In The Minefields",
+      "url": "https://open.spotify.com/track/1pDYCsbY4NkeQb8AvanZMj"
     },
     {
       "added_at": "2024-07-12 17:06:05",

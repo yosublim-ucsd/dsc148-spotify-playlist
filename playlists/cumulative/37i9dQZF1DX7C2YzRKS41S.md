@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-428 songs - 1 day 1 hr 22 min
+429 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Fé Na Estrada](https://open.spotify.com/track/4uQ4Le1tuIfpbzWUfuSxiq) | [Corcel](https://open.spotify.com/artist/2rmYEYiyVt1woOjwXsqRIF) | [Antes de Tudo](https://open.spotify.com/album/0QJemuiryXNUFo22OVhvMu) | 4:40 | 2021-12-24 | 2022-07-27 |
 | [Girassol](https://open.spotify.com/track/21H1eJPxpVI9FiOTY3tj9i) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Girassol](https://open.spotify.com/album/0yd3vEnTX37FDYVaWlqZsa) | 2:58 | 2022-03-25 | 2022-04-15 |
 | [Girl From the North Country](https://open.spotify.com/track/2hs1jv3m6B5z4nwbkFcifr) | [Phillip Long](https://open.spotify.com/artist/26FGaBmX3yqXeFp3rTPWyp) | [Girl From the North Country](https://open.spotify.com/album/28qGDte17Wrf6Pyvar0xeH) | 3:58 | 2022-03-25 | 2022-04-20 |
-| [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-04-06 |  |
+| [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-04-06 | 2024-07-14 |
 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 | 2024-02-23 | 2024-04-19 |
 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 | 2024-03-08 |  |
 | [Green Eyes](https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:43 | 2022-03-25 |  |
@@ -371,6 +371,7 @@
 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-03-08 |  |
 | [Stars](https://open.spotify.com/track/0IR7vgkswrIXuFNEyinMoH) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC), [Clara Gurjão](https://open.spotify.com/artist/2crvpY41nDEZIQp3Po3j4H) | [Stars](https://open.spotify.com/album/42wFYqAd8stbXgHy388s8t) | 4:02 | 2022-03-25 | 2022-04-19 |
 | [Stay Alive](https://open.spotify.com/track/4MUvy2JhahEbfpWuGvhqlz) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/7fddgN7eLxI79dLIk9qlLh) | 3:01 | 2022-03-25 | 2022-04-15 |
+| [Still What I'm Looking For](https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Still What I'm Looking For](https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE) | 3:07 | 2024-07-12 |  |
 | [Strange Overtones](https://open.spotify.com/track/2YtMGbb7bAEPbxgQ6au4EP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Strange Overtones](https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj) | 3:26 | 2022-04-06 | 2022-04-19 |
 | [Só](https://open.spotify.com/track/2V73RYtUrq30bnlJbN9NA8) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Só](https://open.spotify.com/album/703I4PI5I6thxB7Td6Wbg9) | 3:20 | 2021-12-24 | 2022-03-30 |
 | [Só Penso em Você](https://open.spotify.com/track/4gfxor1ZE1jhQky49hMbCf) | [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Só Penso em Você](https://open.spotify.com/album/46DpgCKQ1g2HbXolkiMzbI) | 2:54 | 2021-12-24 | 2022-07-29 |

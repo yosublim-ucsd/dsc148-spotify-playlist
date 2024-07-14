@@ -1,13 +1,29 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8131,
+  "num_followers": 8132,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo8ggAAAAAC31fQCl8gvvw/SMsKVE46h",
+  "snapshot_id": "ZpByAAAAAABH7rVqOUZbUiYJrV37HFHm",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Unsung",
+      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
+    },
     {
       "added_at": null,
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 173066,
       "name": "Biscuits For Smut",
       "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
     },
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 233000,
       "name": "Milquetoast",
       "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Iron Head",
-      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX"
     },
     {
       "added_at": null,
@@ -123,22 +123,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unsung: The Best Of Helmet 1991-1997",
-        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
           "name": "Helmet",
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        },
-        {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
         }
       ],
-      "duration_ms": 262160,
-      "name": "Just Another Victim",
-      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
+      "duration_ms": 238999,
+      "name": "Milktoast",
+      "url": "https://open.spotify.com/track/0EV6881kagOULo42517dMX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Iron Head",
+      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX"
     },
     {
       "added_at": null,
@@ -159,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "FBLA II",
-      "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -191,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
       },
       "artists": [
         {
@@ -200,9 +196,25 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 238999,
-      "name": "Milktoast",
-      "url": "https://open.spotify.com/track/0EV6881kagOULo42517dMX"
+      "duration_ms": 226720,
+      "name": "See You Dead",
+      "url": "https://open.spotify.com/track/3TA6HhnAnQP5t6xBpxgpOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "FBLA II",
+      "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
     },
     {
       "added_at": null,
@@ -219,22 +231,6 @@
       "duration_ms": 234533,
       "name": "Wilma's Rainbow",
       "url": "https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Give It",
-      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
     },
     {
       "added_at": null,
@@ -264,9 +260,25 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 226720,
-      "name": "See You Dead",
-      "url": "https://open.spotify.com/track/3TA6HhnAnQP5t6xBpxgpOX"
+      "duration_ms": 224560,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Give It",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
     },
     {
       "added_at": null,
@@ -287,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Turned Out",
-      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -319,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Size Matters",
-        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
       },
       "artists": [
         {
@@ -328,9 +324,25 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 224560,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l"
+      "duration_ms": 133733,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Turned Out",
+      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq"
     },
     {
       "added_at": null,
@@ -347,22 +359,6 @@
       "duration_ms": 220266,
       "name": "Tic",
       "url": "https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4zifCcliaROnRc1r35F6KN"
     },
     {
       "added_at": null,
@@ -392,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 133733,
-      "name": "Bad Mood",
-      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
+      "duration_ms": 199360,
+      "name": "Blacktop",
+      "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
     },
     {
       "added_at": null,
@@ -415,70 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born Annoying",
-        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 113400,
-      "name": "Taken",
-      "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Blacktop",
-      "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Size Matters",
-        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Unwound",
-      "url": "https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stick It Out (Live)",
         "url": "https://open.spotify.com/album/1elfukGNR4DbU7FH6j1G0D"
       },
@@ -495,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Annoying",
-        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
       },
       "artists": [
         {
@@ -504,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 137400,
-      "name": "No Nicky No",
-      "url": "https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl"
+      "duration_ms": 230080,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy"
     },
     {
       "added_at": null,
@@ -536,15 +468,15 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 224120,
-      "name": "Throwing Punches",
-      "url": "https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE"
+      "duration_ms": 252146,
+      "name": "Unwound",
+      "url": "https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LEFT",
-        "url": "https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH"
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
       },
       "artists": [
         {
@@ -552,57 +484,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 209882,
-      "name": "Gun Fluf",
-      "url": "https://open.spotify.com/track/3d3s4k7Si5iF1Zr3qosz6r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "FBLA",
-      "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 168856,
-      "name": "Make-Up",
-      "url": "https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+      "duration_ms": 113400,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
     },
     {
       "added_at": null,
@@ -632,9 +516,41 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Make Room",
-      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
+      "duration_ms": 159640,
+      "name": "FBLA",
+      "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Throwing Punches",
+      "url": "https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "No Nicky No",
+      "url": "https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl"
     },
     {
       "added_at": null,
@@ -651,6 +567,70 @@
       "duration_ms": 101539,
       "name": "Reprise",
       "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEFT",
+        "url": "https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 209882,
+      "name": "Gun Fluf",
+      "url": "https://open.spotify.com/track/3d3s4k7Si5iF1Zr3qosz6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 168856,
+      "name": "Make-Up",
+      "url": "https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD"
     }
   ],
   "unique_name": "This Is Helmet",

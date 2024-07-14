@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Git Some Balls / Air Con",
+        "url": "https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146578,
+      "name": "Git Some Balls",
+      "url": "https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi"
+    },
+    {
+      "album": {
         "name": "God Speed (feat. WARGASM (UK))",
         "url": "https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ"
       },
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 268146,
       "name": "Mother",
       "url": "https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM"

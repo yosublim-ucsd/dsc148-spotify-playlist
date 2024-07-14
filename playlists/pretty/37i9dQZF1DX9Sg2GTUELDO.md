@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover：Sammi 鄭秀文
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,085 likes - 331 songs - 20 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,093 likes - 331 songs - 20 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

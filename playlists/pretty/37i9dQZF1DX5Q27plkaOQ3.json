@@ -1,6 +1,6 @@
 {
   "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Flux Pavillion",
-  "num_followers": 970165,
+  "num_followers": 970183,
   "original_name": "Dubstep Don",
   "owner": {
     "name": "Spotify",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "ANGELS IN HELL",
+        "url": "https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        },
+        {
+          "name": "Gomey",
+          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
+        }
+      ],
+      "duration_ms": 234350,
+      "name": "ANGELS IN HELL",
+      "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Thicc Boi Mega VIP",
         "url": "https://open.spotify.com/album/5EMXlmp3WKweMXx43ikNFL"
       },
@@ -1999,22 +2019,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "ANGELS IN HELL",
-        "url": "https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF"
+        "name": "Tactix",
+        "url": "https://open.spotify.com/album/3cfVMh4rTeeJZbeHRjoWCV"
       },
       "artists": [
         {
-          "name": "Ryan Nevis",
-          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
         },
         {
-          "name": "Gomey",
-          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
         }
       ],
-      "duration_ms": 234350,
-      "name": "ANGELS IN HELL",
-      "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
+      "duration_ms": 244965,
+      "name": "Tactix",
+      "url": "https://open.spotify.com/track/4qx3idnPftLmV1XmDWiIGP"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2039,26 +2059,6 @@
       "duration_ms": 174400,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/172fEHxGJMdwxcD2ZR1er6"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Tactix",
-        "url": "https://open.spotify.com/album/3cfVMh4rTeeJZbeHRjoWCV"
-      },
-      "artists": [
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        },
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        }
-      ],
-      "duration_ms": 244965,
-      "name": "Tactix",
-      "url": "https://open.spotify.com/track/4qx3idnPftLmV1XmDWiIGP"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2265,6 +2265,26 @@
       "url": "https://open.spotify.com/track/1V2gN3aisB9mQRH8hWEbwY"
     },
     {
+      "added_at": "2024-07-05 17:28:34",
+      "album": {
+        "name": "estrondo da morte",
+        "url": "https://open.spotify.com/album/5UodKGwqbLfKsWTywDy2oo"
+      },
+      "artists": [
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "estrondo da morte",
+      "url": "https://open.spotify.com/track/4U0tBHpKjvXEEXsovQvOkx"
+    },
+    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "NO FEAR",
@@ -2287,22 +2307,6 @@
       "duration_ms": 174400,
       "name": "NO FEAR",
       "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/1YZLSIwKqC5Z7x5c3ThUEh"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Take Me Higher",
-      "url": "https://open.spotify.com/track/2BiqLx4Aibr5iElQ7DCq3J"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2343,6 +2347,22 @@
       "duration_ms": 224000,
       "name": "The Power of Everything",
       "url": "https://open.spotify.com/track/0QCTSPch7uVA344JWcNlIu"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/1YZLSIwKqC5Z7x5c3ThUEh"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/2BiqLx4Aibr5iElQ7DCq3J"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2393,26 +2413,6 @@
       "url": "https://open.spotify.com/track/51MgUt5ZhEP3FSMpt5cEZu"
     },
     {
-      "added_at": "2024-07-05 17:28:34",
-      "album": {
-        "name": "estrondo da morte",
-        "url": "https://open.spotify.com/album/5UodKGwqbLfKsWTywDy2oo"
-      },
-      "artists": [
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "estrondo da morte",
-      "url": "https://open.spotify.com/track/4U0tBHpKjvXEEXsovQvOkx"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Oh Dang!",
@@ -2453,24 +2453,24 @@
       "url": "https://open.spotify.com/track/6JKyHmlmKDCEbudFvf9pB0"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-28 06:54:36",
       "album": {
-        "name": "Heavy Bass Design Vol. 3 (Sample Pack Demo)",
-        "url": "https://open.spotify.com/album/2NfKTKzOnnLkEtQeFfb0m4"
+        "name": "Arcane Ooze",
+        "url": "https://open.spotify.com/album/5HaumgNDl9GdaTB91Sokkt"
       },
       "artists": [
         {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
         },
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/7a3OvvhvAvZ1FZE928i3Lk"
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Heavy Bass Design Vol. 3 - Sample Pack Demo",
-      "url": "https://open.spotify.com/track/1oYuQU9DXJ8ucOdmfBzzMF"
+      "duration_ms": 211200,
+      "name": "Arcane Ooze",
+      "url": "https://open.spotify.com/track/2nsC5w9pVl93uG80vanP5j"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2499,6 +2499,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Heavy Bass Design Vol. 3 (Sample Pack Demo)",
+        "url": "https://open.spotify.com/album/2NfKTKzOnnLkEtQeFfb0m4"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/7a3OvvhvAvZ1FZE928i3Lk"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Heavy Bass Design Vol. 3 - Sample Pack Demo",
+      "url": "https://open.spotify.com/track/1oYuQU9DXJ8ucOdmfBzzMF"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL"
       },
@@ -2515,26 +2535,6 @@
       "duration_ms": 219428,
       "name": "Certified",
       "url": "https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE"
-    },
-    {
-      "added_at": "2024-06-28 06:54:36",
-      "album": {
-        "name": "Arcane Ooze",
-        "url": "https://open.spotify.com/album/5HaumgNDl9GdaTB91Sokkt"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Arcane Ooze",
-      "url": "https://open.spotify.com/track/2nsC5w9pVl93uG80vanP5j"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2579,6 +2579,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "STORM THE CASTLE",
+        "url": "https://open.spotify.com/album/5qf28OdwrlsMhXWTuRQVob"
+      },
+      "artists": [
+        {
+          "name": "LAYZ",
+          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
+        },
+        {
+          "name": "Kliptic",
+          "url": "https://open.spotify.com/artist/5y6O9vl8dOVvL0CCSGrrCc"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "STORM THE CASTLE",
+      "url": "https://open.spotify.com/track/26x6tpt8ZG8mMJGrh0A8CR"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "CYBERHELL",
         "url": "https://open.spotify.com/album/4RSJumbiZSV7L7IWOuov3E"
       },
@@ -2591,22 +2611,6 @@
       "duration_ms": 231724,
       "name": "CYBERHELL",
       "url": "https://open.spotify.com/track/2NfAq9xX1bEVWueNRDZh7n"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Sonic Beef",
-        "url": "https://open.spotify.com/album/6A4dA3DHUvVBavZOOWrOZK"
-      },
-      "artists": [
-        {
-          "name": "Spag Heddy",
-          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Sonic Beef",
-      "url": "https://open.spotify.com/track/5ge5D4RdUvclju1DBaTFcM"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2627,22 +2631,38 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "STORM THE CASTLE",
-        "url": "https://open.spotify.com/album/5qf28OdwrlsMhXWTuRQVob"
+        "name": "Sonic Beef",
+        "url": "https://open.spotify.com/album/6A4dA3DHUvVBavZOOWrOZK"
       },
       "artists": [
         {
-          "name": "LAYZ",
-          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
-        },
-        {
-          "name": "Kliptic",
-          "url": "https://open.spotify.com/artist/5y6O9vl8dOVvL0CCSGrrCc"
+          "name": "Spag Heddy",
+          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
         }
       ],
-      "duration_ms": 160000,
-      "name": "STORM THE CASTLE",
-      "url": "https://open.spotify.com/track/26x6tpt8ZG8mMJGrh0A8CR"
+      "duration_ms": 193866,
+      "name": "Sonic Beef",
+      "url": "https://open.spotify.com/track/5ge5D4RdUvclju1DBaTFcM"
+    },
+    {
+      "added_at": "2024-06-28 06:54:36",
+      "album": {
+        "name": "Daisy Dukes and Cowboy Boots",
+        "url": "https://open.spotify.com/album/6C56niFWWLOFPzU56g7C3n"
+      },
+      "artists": [
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        },
+        {
+          "name": "Lil Skritt",
+          "url": "https://open.spotify.com/artist/1ArSucFv3GjsqMHBtt4w5u"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Daisy Dukes and Cowboy Boots",
+      "url": "https://open.spotify.com/track/19lsjagjf7Cidnrw9HXqxu"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2687,42 +2707,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Gangstalkers",
-        "url": "https://open.spotify.com/album/6TKQCqnm2XUYdUvvpoIthP"
-      },
-      "artists": [
-        {
-          "name": "Dack Janiels",
-          "url": "https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Gangstalkers",
-      "url": "https://open.spotify.com/track/2UGCMLvQ7kGdkif2dZ9sZr"
-    },
-    {
-      "added_at": "2024-06-28 06:54:36",
-      "album": {
-        "name": "Daisy Dukes and Cowboy Boots",
-        "url": "https://open.spotify.com/album/6C56niFWWLOFPzU56g7C3n"
-      },
-      "artists": [
-        {
-          "name": "TVBOO",
-          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
-        },
-        {
-          "name": "Lil Skritt",
-          "url": "https://open.spotify.com/artist/1ArSucFv3GjsqMHBtt4w5u"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Daisy Dukes and Cowboy Boots",
-      "url": "https://open.spotify.com/track/19lsjagjf7Cidnrw9HXqxu"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "FINAL BOSS",
         "url": "https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 172800,
       "name": "FINAL BOSS",
       "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Gangstalkers",
+        "url": "https://open.spotify.com/album/6TKQCqnm2XUYdUvvpoIthP"
+      },
+      "artists": [
+        {
+          "name": "Dack Janiels",
+          "url": "https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Gangstalkers",
+      "url": "https://open.spotify.com/track/2UGCMLvQ7kGdkif2dZ9sZr"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2777,6 +2777,22 @@
       "url": "https://open.spotify.com/track/4vUP3RvK7Sk0RpGvHsLYLr"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "GLITCH",
+        "url": "https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "GLITCH",
+      "url": "https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799"
+    },
+    {
       "added_at": "2024-06-21 14:43:39",
       "album": {
         "name": "Eternal",
@@ -2811,22 +2827,6 @@
       "duration_ms": 148965,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "GLITCH",
-        "url": "https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "GLITCH",
-      "url": "https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2935,26 +2935,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
-        "url": "https://open.spotify.com/album/7miivDg7VzTXy7WUpgkztg"
-      },
-      "artists": [
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
-      "url": "https://open.spotify.com/track/5kZV6vNbRzNAgRWWP4XKPi"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Fall Apart (GHENGAR Remix)",
         "url": "https://open.spotify.com/album/6fIBa7iKh7dbFt9m13o35N"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 230400,
       "name": "PUSH EM",
       "url": "https://open.spotify.com/track/5x4LUgrOxhstYk5557PO3t"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
+        "url": "https://open.spotify.com/album/7miivDg7VzTXy7WUpgkztg"
+      },
+      "artists": [
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
+      "url": "https://open.spotify.com/track/5kZV6vNbRzNAgRWWP4XKPi"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3169,24 +3169,20 @@
       "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-21 14:43:39",
       "album": {
-        "name": "Fire At Will",
-        "url": "https://open.spotify.com/album/2rJrZ74og7KjpKnnwKuoQs"
+        "name": "Third Eye Vision",
+        "url": "https://open.spotify.com/album/4x9v3IPqnl8YFexbrnL8by"
       },
       "artists": [
         {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
         }
       ],
-      "duration_ms": 151874,
-      "name": "Fire At Will",
-      "url": "https://open.spotify.com/track/6MarmzdQIRqzg06Ecshzx9"
+      "duration_ms": 296571,
+      "name": "Third Eye Vision",
+      "url": "https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3213,20 +3209,24 @@
       "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA"
     },
     {
-      "added_at": "2024-06-21 14:43:39",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Third Eye Vision",
-        "url": "https://open.spotify.com/album/4x9v3IPqnl8YFexbrnL8by"
+        "name": "Fire At Will",
+        "url": "https://open.spotify.com/album/2rJrZ74og7KjpKnnwKuoQs"
       },
       "artists": [
         {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
         }
       ],
-      "duration_ms": 296571,
-      "name": "Third Eye Vision",
-      "url": "https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb"
+      "duration_ms": 151874,
+      "name": "Fire At Will",
+      "url": "https://open.spotify.com/track/6MarmzdQIRqzg06Ecshzx9"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3243,26 +3243,6 @@
       "duration_ms": 169714,
       "name": "Be Kind, Rewind",
       "url": "https://open.spotify.com/track/3AlizcdWe1hKHrSgnwZYSp"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "WRATH OF THE WICKED - Remixes",
-        "url": "https://open.spotify.com/album/0JGzk0KXvrLNoznenUrvbH"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        }
-      ],
-      "duration_ms": 204814,
-      "name": "MIND CONTROL (EDDIE Remix)",
-      "url": "https://open.spotify.com/track/44hbzdovYYuLzLuQspQ84x"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3295,6 +3275,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "WRATH OF THE WICKED - Remixes",
+        "url": "https://open.spotify.com/album/0JGzk0KXvrLNoznenUrvbH"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "duration_ms": 204814,
+      "name": "MIND CONTROL (EDDIE Remix)",
+      "url": "https://open.spotify.com/track/44hbzdovYYuLzLuQspQ84x"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Tekno Music",
         "url": "https://open.spotify.com/album/4v5KqMr3m9Q3g8PGl9FvlX"
       },
@@ -3311,6 +3311,22 @@
       "duration_ms": 197142,
       "name": "Tekno Music",
       "url": "https://open.spotify.com/track/28lZSKBhkzduEmBQQPy4PV"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/5niK10Dhrs2bp6u6ovz9rO"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0M0l4xJeXukyttZTQkYF8O"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3339,18 +3355,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/5niK10Dhrs2bp6u6ovz9rO"
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
       },
       "artists": [
         {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0M0l4xJeXukyttZTQkYF8O"
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3371,22 +3387,6 @@
       "duration_ms": 219427,
       "name": "Rude Boy - EAZYBAKED Remix",
       "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3427,42 +3427,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "On The Rocks",
-        "url": "https://open.spotify.com/album/6GgVFimVPQwycH7VTdtM5B"
-      },
-      "artists": [
-        {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "On The Rocks",
-      "url": "https://open.spotify.com/track/7ur5EWuxtY92yC8yasYhZg"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Caffeine Induced Psychosis",
-        "url": "https://open.spotify.com/album/3tuRzYthWtWZB3BsqBYQWA"
-      },
-      "artists": [
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "Quackson",
-          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Caffeine Induced Psychosis",
-      "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG"
       },
@@ -3475,6 +3439,22 @@
       "duration_ms": 210322,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "On The Rocks",
+        "url": "https://open.spotify.com/album/6GgVFimVPQwycH7VTdtM5B"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "On The Rocks",
+      "url": "https://open.spotify.com/track/7ur5EWuxtY92yC8yasYhZg"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3495,6 +3475,26 @@
       "duration_ms": 256000,
       "name": "Big Boss - Zomboy Remix",
       "url": "https://open.spotify.com/track/22HbOaQNUoOQ9jQ5TRpvkD"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Caffeine Induced Psychosis",
+        "url": "https://open.spotify.com/album/3tuRzYthWtWZB3BsqBYQWA"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Caffeine Induced Psychosis",
+      "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3595,26 +3595,38 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "TOTAL CHAOS",
-        "url": "https://open.spotify.com/album/7JXFzl3crMbjFyfKomVIHO"
+        "name": "Always Wanna Talk",
+        "url": "https://open.spotify.com/album/2UOWENmQspXrv17EzBqHK2"
       },
       "artists": [
         {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
         },
         {
-          "name": "SQISHI",
-          "url": "https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h"
-        },
-        {
-          "name": "GAWM",
-          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
         }
       ],
-      "duration_ms": 161777,
-      "name": "TOTAL CHAOS",
-      "url": "https://open.spotify.com/track/3yvhBol9Z36rchdml8zCUg"
+      "duration_ms": 171058,
+      "name": "Always Wanna Talk",
+      "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "ROBOTS",
+        "url": "https://open.spotify.com/album/5vcFpmsE5uaxLtaqZH2227"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "duration_ms": 160271,
+      "name": "ROBOTS",
+      "url": "https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3639,38 +3651,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Always Wanna Talk",
-        "url": "https://open.spotify.com/album/2UOWENmQspXrv17EzBqHK2"
+        "name": "TOTAL CHAOS",
+        "url": "https://open.spotify.com/album/7JXFzl3crMbjFyfKomVIHO"
       },
       "artists": [
         {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
         },
         {
-          "name": "Smoakland",
-          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
-        }
-      ],
-      "duration_ms": 171058,
-      "name": "Always Wanna Talk",
-      "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/1MXJEsVQtmzFWmGOUP067a"
-      },
-      "artists": [
+          "name": "SQISHI",
+          "url": "https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h"
+        },
         {
-          "name": "Slang Dogs",
-          "url": "https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj"
+          "name": "GAWM",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
         }
       ],
-      "duration_ms": 230500,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/0qFATOBCvb02tv7IzHKtEG"
+      "duration_ms": 161777,
+      "name": "TOTAL CHAOS",
+      "url": "https://open.spotify.com/track/3yvhBol9Z36rchdml8zCUg"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3691,34 +3691,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "ROBOTS",
-        "url": "https://open.spotify.com/album/5vcFpmsE5uaxLtaqZH2227"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/1MXJEsVQtmzFWmGOUP067a"
       },
       "artists": [
         {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+          "name": "Slang Dogs",
+          "url": "https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj"
         }
       ],
-      "duration_ms": 160271,
-      "name": "ROBOTS",
-      "url": "https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "NOPE",
-        "url": "https://open.spotify.com/album/6njyxhqm4g489876fqE1lF"
-      },
-      "artists": [
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "NOPE",
-      "url": "https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u"
+      "duration_ms": 230500,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/0qFATOBCvb02tv7IzHKtEG"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3743,54 +3727,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 01",
-        "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/6njyxhqm4g489876fqE1lF"
       },
       "artists": [
         {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
         }
       ],
-      "duration_ms": 175135,
-      "name": "ACHROMATIC (YOI)",
-      "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Ruin U",
-        "url": "https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Ruin U",
-      "url": "https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Technicolour Psychic Vision",
-        "url": "https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Technicolour Psychic Vision",
-      "url": "https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE"
+      "duration_ms": 146571,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u"
     },
     {
       "added_at": "2024-07-05 17:28:34",
@@ -3815,18 +3763,54 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Native Curse",
-        "url": "https://open.spotify.com/album/16Jqck10W8Ba0GTggCQa2s"
+        "name": "MIDHEAVEN: OPUS 01",
+        "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
       },
       "artists": [
         {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Native Curse",
-      "url": "https://open.spotify.com/track/3f93sYaZnHwVjNBt0RPO0W"
+      "duration_ms": 175135,
+      "name": "ACHROMATIC (YOI)",
+      "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Technicolour Psychic Vision",
+        "url": "https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Technicolour Psychic Vision",
+      "url": "https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Ruin U",
+        "url": "https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Ruin U",
+      "url": "https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3843,6 +3827,22 @@
       "duration_ms": 230800,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Native Curse",
+        "url": "https://open.spotify.com/album/16Jqck10W8Ba0GTggCQa2s"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Native Curse",
+      "url": "https://open.spotify.com/track/3f93sYaZnHwVjNBt0RPO0W"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3879,34 +3879,6 @@
       "duration_ms": 184975,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/6RUTzFmBtIl5nRpkEXiIQ5"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "DISRESPECT",
-        "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Blakdout",
-          "url": "https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U"
-        },
-        {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
-        },
-        {
-          "name": "Gladez",
-          "url": "https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM"
-        },
-        {
-          "name": "Cam'ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "DISRESPECT",
-      "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -3951,6 +3923,34 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "DISRESPECT",
+        "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Blakdout",
+          "url": "https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U"
+        },
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Gladez",
+          "url": "https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM"
+        },
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "DISRESPECT",
+      "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Shibuya",
         "url": "https://open.spotify.com/album/1jKWlgK59zyCsxQQHHfesY"
       },
@@ -3971,18 +3971,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Treasure Hunt",
-        "url": "https://open.spotify.com/album/4R1oaIBodHS8l2fawrlrlm"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/62hbktNiahRLgciy8mgGRG"
       },
       "artists": [
         {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
         }
       ],
-      "duration_ms": 146013,
-      "name": "Treasure Hunt",
-      "url": "https://open.spotify.com/track/4uEhDgOVIEdT15SnHwKy6c"
+      "duration_ms": 224000,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/0kfXOuVx3xUjVgwvxQewcb"
     }
   ],
   "unique_name": "Dubstep Don",

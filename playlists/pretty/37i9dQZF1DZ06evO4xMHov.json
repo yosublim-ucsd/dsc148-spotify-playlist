@@ -1,12 +1,12 @@
 {
-  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 60831,
+  "description": "This Is N\u00edvea Soares. Los temas esenciales, todos en una lista.",
+  "num_followers": 60835,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo8ggAAAAADbPV4879weqGNNA1V4e9iA",
+  "snapshot_id": "ZpByAAAAAABYH8pp9De6rNm52kA3nhZX",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 437418,
-      "name": "Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 427917,
       "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 437418,
+      "name": "Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
-      },
-      "artists": [
-        {
-          "name": "Leo Fonseca",
-          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 538285,
-      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria E Aleluia",
         "url": "https://open.spotify.com/album/0GkqpHA93sH8c6uposgX0K"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 411029,
       "name": "Gl\u00f3ria E Aleluia",
       "url": "https://open.spotify.com/track/16srjrwXoQuKE1SQ95zSoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
+      },
+      "artists": [
+        {
+          "name": "Leo Fonseca",
+          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 538285,
+      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
+        "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 663370,
+      "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
+      "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu e a Minha Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 326840,
       "name": "Filho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
-        "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 663370,
-      "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
-      "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
     },
     {
       "added_at": null,

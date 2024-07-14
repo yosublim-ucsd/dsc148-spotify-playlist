@@ -4605,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Gotas de agua",
+        "url": "https://open.spotify.com/album/1WFg5iwtay9ovFMKGnGxD9"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214198,
+      "name": "Gotas de agua",
+      "url": "https://open.spotify.com/track/4V9NBrm7s5EKM7lQef94hO"
+    },
+    {
+      "album": {
         "name": "Caliu",
         "url": "https://open.spotify.com/album/5zli6Q5OHFwp7ACOI9bc9z"
       },
@@ -7326,7 +7344,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 190124,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO"
@@ -8011,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "O FE",
+        "url": "https://open.spotify.com/album/1qpanq2jhSzWfhiYTnTzCS"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123802,
+      "name": "O FE",
+      "url": "https://open.spotify.com/track/1tW2ry8Pfmx3cRhQjQt8iE"
+    },
+    {
+      "album": {
         "name": "O Paxaro",
         "url": "https://open.spotify.com/album/7EfWpdupPgcYi4X3XHc9gR"
       },
@@ -8664,7 +8700,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 183797,
       "name": "Piel de pantera",
       "url": "https://open.spotify.com/track/3HjGCQ1KQfIKc1IkNbrJVn"
@@ -10113,6 +10149,28 @@
     },
     {
       "album": {
+        "name": "Se\u00f1or Tiempo",
+        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340638,
+      "name": "Se\u00f1or Tiempo",
+      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
+    },
+    {
+      "album": {
         "name": "Si Entras T\u00fa",
         "url": "https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc"
       },
@@ -10182,7 +10240,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"

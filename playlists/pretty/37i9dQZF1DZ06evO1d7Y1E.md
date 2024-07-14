@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
+> This Is Mc Poze do Rodo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,973 likes - 47 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,062 likes - 47 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 46 | [Salve A Favela](https://open.spotify.com/track/63HYpMDcQo0Fryhmje08Bl) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Salve A Favela](https://open.spotify.com/album/6voO4re2hvr5NQVG7ho0Qs) | 5:00 |
 | 47 | [Mc Não É Bandido](https://open.spotify.com/track/6zLPHsrzyyrhkgENYhWdO5) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn) | [Mc Não É Bandido](https://open.spotify.com/album/7iiwUZJylFMoKaXSQ3rMS2) | 4:15 |
 
-Snapshot ID: `Zo8ggAAAAACqJbglLXl8i13nn/O4BZCG`
+Snapshot ID: `ZpByAAAAAACkmsaAdccsN9A/jOokZ1UD`

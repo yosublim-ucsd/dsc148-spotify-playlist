@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,476 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,586 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 6 | [Mountain Mama](https://open.spotify.com/track/0b2WuZiNNt7JXKKW3XRIjV) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Mountain Mama](https://open.spotify.com/album/3McAJj03SALW4lwcZCL1vB) | 4:21 |
 | 7 | [out of breath](https://open.spotify.com/track/16L5lEXtnJ3ahA3jE8aWKo) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [pretty lies and time machines](https://open.spotify.com/album/3P7Hup9ohD8gLSN6J2qQPw) | 3:19 |
 | 8 | [Sinner](https://open.spotify.com/track/2Lm7Qmm7UvlRojt0c8BFI1) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Sinner](https://open.spotify.com/album/0EKc0MQ8huSHiUm1ipjSD7) | 3:23 |
-| 9 | [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:28 |
+| 9 | [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:27 |
 | 10 | [Haymaker](https://open.spotify.com/track/07qmzofBow9aB4raGOafDz) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Haymaker](https://open.spotify.com/album/53hM1rBhTGK8uY3jdFZGwp) | 2:50 |
 | 11 | [Ocean](https://open.spotify.com/track/38rCgMdqt97TcHeSaYsydV) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [From the Dark](https://open.spotify.com/album/4svpgAaCeAaVLZ4KOA4jTo) | 2:47 |
 | 12 | [Black Monday](https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Black Monday](https://open.spotify.com/album/6OuwOOydUWhPmlz1PiL2zz) | 3:19 |

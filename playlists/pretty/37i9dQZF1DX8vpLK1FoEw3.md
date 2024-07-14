@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > sim rabudos também choram mas choram bonito levanta a cabeça bundude \#MeuSpotify com Thiago Pantaleão
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,507 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,545 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

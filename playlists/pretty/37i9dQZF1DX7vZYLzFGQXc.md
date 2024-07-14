@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: shyboiitobii\(샤이보이토비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,363 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,367 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 91 | [Bruiseboy](https://open.spotify.com/track/7wjTi8DCmzXBwHczU85gfY) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz) | [Bruiseboy](https://open.spotify.com/album/1rfuhI4oCbEpbv0DPcdzqy) | 3:28 |
 | 92 | [bad bad \(88\)](https://open.spotify.com/track/14cRSCgh1q841S3aPyO8pO) | [Yuja](https://open.spotify.com/artist/2gQ5AJZbeVZ9aeZcH3JBqf) | [bad bad \(88\)](https://open.spotify.com/album/5HQMGnjRBEgYfy6ArXHj0E) | 3:17 |
 | 93 | [SIN](https://open.spotify.com/track/6PnE28OG9uIjXIbZBimVoB) | [Yuki](https://open.spotify.com/artist/78pRuJRoXLLFQvhUZVHMiN) | [SIN](https://open.spotify.com/album/5lTLq9DhHzkuu7ghbh2oj7) | 1:31 |
-| 94 | [No Regret \(feat.ilipp&JINA\)](https://open.spotify.com/track/5O3595bWbkFLbmWvDujPS2) | [Cauli Flower](https://open.spotify.com/artist/4voLiLn1NMfmRW6nsCknvP), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA), [JINA](https://open.spotify.com/artist/67Lpb2sKUJmRfIep7vZ9k6) | [No Regret](https://open.spotify.com/album/21Jvkkkv08jADXq5nebxN2) | 2:46 |
+| 94 | [No Regret \(feat.ilipp&JINA\)](https://open.spotify.com/track/5O3595bWbkFLbmWvDujPS2) | [Cauli Flower](https://open.spotify.com/artist/4voLiLn1NMfmRW6nsCknvP), [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA), [JINA](https://open.spotify.com/artist/67Lpb2sKUJmRfIep7vZ9k6) | [No Regret](https://open.spotify.com/album/21Jvkkkv08jADXq5nebxN2) | 2:46 |
 | 95 | [throw stones](https://open.spotify.com/track/1S2sUuKKWSjjxXeXn081eN) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [throw stones](https://open.spotify.com/album/4dsxfb1jkCRsmQiy8ExDXA) | 3:46 |
 | 96 | [escape!](https://open.spotify.com/track/4ix5jmVDu4kpiNgtNs2Ker) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [escape!](https://open.spotify.com/album/0Y0Y6c1vKM0rO2PpUGJPV1) | 3:29 |
 | 97 | [Ribbon Love ∞](https://open.spotify.com/track/7o8BCyeBH2fZLut4gW2IAd) | [강예영](https://open.spotify.com/artist/0Rwpm36PpiOlYZiY3mZByf) | [Ribbon Love ∞](https://open.spotify.com/album/7LlhQhqEwDajm63r6wmEbc) | 3:03 |

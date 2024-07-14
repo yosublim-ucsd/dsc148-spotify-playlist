@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 316878,
+  "num_followers": 316954,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Pelo mundo",
-        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 196642,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Caf\u00e9 da MaLu, Vol. 04",
         "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 163076,
       "name": "P\u00e9 na Areia",
       "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Pelo mundo",
+        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "LEVE",
-        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
-        }
-      ],
-      "duration_ms": 143023,
-      "name": "LEVE",
-      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 125186,
       "name": "Acordo Cedo",
       "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "LEVE",
+        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+        }
+      ],
+      "duration_ms": 143023,
+      "name": "LEVE",
+      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
         "name": "Cai\u00e7ara",
         "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 174622,
       "name": "Cai\u00e7ara",
       "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        }
+      ],
+      "duration_ms": 164150,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -755,22 +771,6 @@
       "duration_ms": 219538,
       "name": "Vou Agradecer",
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
-      },
-      "artists": [
-        {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
-        }
-      ],
-      "duration_ms": 164150,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "O Que te Faz Viver",
-        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
-      },
-      "artists": [
-        {
-          "name": "Kallibre",
-          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "O Que te Faz Viver",
-      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Avenida da Paix\u00e3o",
         "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 152934,
       "name": "Avenida da Paix\u00e3o",
       "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "O Que te Faz Viver",
+        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
+      },
+      "artists": [
+        {
+          "name": "Kallibre",
+          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "O Que te Faz Viver",
+      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Jah Bless",
-        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
-      },
-      "artists": [
-        {
-          "name": "Gaiuna",
-          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
-        }
-      ],
-      "duration_ms": 207345,
-      "name": "Jah Bless",
-      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Sou T\u00e3o Eu",
         "url": "https://open.spotify.com/album/10MBQILKvvQw5dnoC2fI7x"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203333,
       "name": "Sou T\u00e3o Eu",
       "url": "https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Jah Bless",
+        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
+      },
+      "artists": [
+        {
+          "name": "Gaiuna",
+          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
+        }
+      ],
+      "duration_ms": 207345,
+      "name": "Jah Bless",
+      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Abre a Janela",
-        "url": "https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os"
-      },
-      "artists": [
-        {
-          "name": "Maresia Ragga Surf",
-          "url": "https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx"
-        }
-      ],
-      "duration_ms": 282560,
-      "name": "Abre a Janela",
-      "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
         "name": "Na Positiva",
         "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
+        "name": "Abre a Janela",
+        "url": "https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os"
+      },
+      "artists": [
+        {
+          "name": "Maresia Ragga Surf",
+          "url": "https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Abre a Janela",
+      "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
         "name": "O Amor Venceu",
         "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 187884,
       "name": "O Amor Venceu",
       "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+    },
+    {
+      "added_at": "2024-07-05 13:48:30",
+      "album": {
+        "name": "Clareza",
+        "url": "https://open.spotify.com/album/72PbniAoRMR2dY3X6bpvju"
+      },
+      "artists": [
+        {
+          "name": "Lacerda Canta",
+          "url": "https://open.spotify.com/artist/1Zzc5eVfg8mxTItATqjZiq"
+        }
+      ],
+      "duration_ms": 178916,
+      "name": "Clareza",
+      "url": "https://open.spotify.com/track/5ZjNs81TkLa6LA2TZK6nP8"
     },
     {
       "added_at": "2024-07-05 13:48:30",
@@ -1031,34 +1047,18 @@
     {
       "added_at": "2024-07-05 13:48:30",
       "album": {
-        "name": "Clareza",
-        "url": "https://open.spotify.com/album/72PbniAoRMR2dY3X6bpvju"
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
       },
       "artists": [
         {
-          "name": "Lacerda Canta",
-          "url": "https://open.spotify.com/artist/1Zzc5eVfg8mxTItATqjZiq"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 178916,
-      "name": "Clareza",
-      "url": "https://open.spotify.com/track/5ZjNs81TkLa6LA2TZK6nP8"
-    },
-    {
-      "added_at": "2024-07-05 13:48:30",
-      "album": {
-        "name": "Carne de Caju",
-        "url": "https://open.spotify.com/album/6P48TpohpwNU2mtxZooUgI"
-      },
-      "artists": [
-        {
-          "name": "Momboj\u00f3",
-          "url": "https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Romance da Bela In\u00eas",
-      "url": "https://open.spotify.com/track/6u4uFHf37BbkV8q5aEtHxx"
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     }
   ],
   "unique_name": "Praiana",

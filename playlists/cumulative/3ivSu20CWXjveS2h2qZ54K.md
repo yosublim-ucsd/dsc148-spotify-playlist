@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-833 songs - 1 day 21 hr 39 min
+834 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [De Tanto Quererte](https://open.spotify.com/track/2zlWsRv98IClZ5fktD0bBg) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A) | [De Tanto Quererte](https://open.spotify.com/album/0BES7hp5tnRoF3gio547Zi) | 2:51 | 2024-06-21 | 2024-06-29 |
 | [De vuelta a casa](https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [De vuelta a casa](https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30) | 4:26 | 2024-05-10 | 2024-05-18 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-31 | 2024-06-12 |
+| [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 | 2024-07-13 |  |
 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 | 2024-06-06 | 2024-06-15 |
 | [Del Revés x Alizzz](https://open.spotify.com/track/5oShYSeT7V43Oai54SrqGE) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Del Revés x Alizzz](https://open.spotify.com/album/5KB54KsYHoNQD7aMMLBu0a) | 2:47 | 2024-06-21 | 2024-06-29 |
 | [Delirio](https://open.spotify.com/track/2yieEZhp3n3xTNiqthVaui) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Delirio](https://open.spotify.com/album/5lK4VPMoMSmF10tiBcY9Lp) | 2:05 | 2024-07-05 | 2024-07-13 |

@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-349 songs - 17 hr 58 min
+352 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-15 |  |
 | [Bored of Amsterdam](https://open.spotify.com/track/2yoNkyAIcjMORYpu1S6Vi0) | [ice bather](https://open.spotify.com/artist/74gUv2wBKXAG2Ad1hGJlps) | [Bored of Amsterdam](https://open.spotify.com/album/2ItmmMWBeNdf6aI0hWFTBn) | 2:28 | 2022-04-15 |  |
 | [Boudins](https://open.spotify.com/track/54yOwjZUJzNWVISgpvQfCz) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Boudins](https://open.spotify.com/album/29bFiImSwSuF4ib3WpcThS) | 2:06 | 2022-12-09 |  |
+| [Breakthrough](https://open.spotify.com/track/6ViUBQnJXa6NV3Clju2PCb) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Breakthrough](https://open.spotify.com/album/7x5q1o2SGr2Ma8Z174ruAQ) | 2:13 | 2024-07-14 |  |
 | [Bright Red](https://open.spotify.com/track/306wpz1gZioEodOsqyc16i) | [Palos Azules](https://open.spotify.com/artist/4sk8WgXLP5T8ATvv3QuGfw) | [Bright Red](https://open.spotify.com/album/5iCbtIfeGRbmuVLkhd1YnO) | 2:00 | 2022-04-15 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2022-04-15 |  |
 | [Burrata](https://open.spotify.com/track/1wsjU5AYe7xxt7SCa2f6G4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Burrata](https://open.spotify.com/album/7lwCGt3pUCdPhJnxhvOMBp) | 2:39 | 2022-10-28 | 2023-07-15 |
@@ -114,6 +115,7 @@
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2022-04-15 | 2022-06-10 |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-15 | 2022-05-11 |
 | [Elephant](https://open.spotify.com/track/5nN9ez4MrKn2eeJW5EQIZx) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Elephant](https://open.spotify.com/album/2urEyKFkHVefwU34yJhee1) | 2:18 | 2023-01-06 | 2023-03-25 |
+| [Emerald Sky](https://open.spotify.com/track/3O8sB7BrsIYL1UB7x48759) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Emerald Sky](https://open.spotify.com/album/7F61boMnuwOFGWQbo8GbuO) | 3:01 | 2024-07-14 |  |
 | [Encounters](https://open.spotify.com/track/39PAf5P83sN0HQfFFe4OnM) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Encounters](https://open.spotify.com/album/4NbBt1t3SETGwzJKZ3urx6) | 2:46 | 2023-01-20 |  |
 | [Enigma](https://open.spotify.com/track/1FcUfCutL1B7b9sOtU7t86) | [In Love Mearas](https://open.spotify.com/artist/5jHQIRcl8h1pnEfuqxL7y9) | [Enigma](https://open.spotify.com/album/5DbpAYJgwZlPxiSNlb3e78) | 2:20 | 2024-03-21 |  |
 | [Essence](https://open.spotify.com/track/5gENF7x1MgvHgSwKUcdtEH) | [Ali Neroli](https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR) | [Essence](https://open.spotify.com/album/2NmHyH7YC9ONvbZng9o1rY) | 2:08 | 2024-04-08 |  |
@@ -186,6 +188,7 @@
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-15 | 2023-02-10 |
 | [Kombucha](https://open.spotify.com/track/7MgpmVCLJjJ7xNoeCiOF3N) | [Pascal Marcel](https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW) | [Kombucha](https://open.spotify.com/album/3DP6CHxBf79fwqTVNQDZiM) | 2:26 | 2024-05-11 |  |
 | [Lazy](https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Lazy](https://open.spotify.com/album/1WBLkmlmYyxPMqnQii3s05) | 3:01 | 2023-03-24 |  |
+| [Le Majestic](https://open.spotify.com/track/6KpyF2ZhYUs1m2Sr4xWHqn) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Le Majestic](https://open.spotify.com/album/7roNBblubAyzT7VxcAIqnn) | 2:24 | 2024-07-14 |  |
 | [Leaving Lunar](https://open.spotify.com/track/79KsCHxDvK6ZSd17fJoqMU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Goodbye Earth](https://open.spotify.com/album/1cJHB1ed0mwUMTbthrNsih) | 3:51 | 2023-03-10 |  |
 | [Lemonizer](https://open.spotify.com/track/43LcXaogf7ipLmh99BvNLo) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Lemonizer](https://open.spotify.com/album/18kPVbdNaBNVYhaskekjg6) | 2:06 | 2024-06-11 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 | 2022-09-02 |

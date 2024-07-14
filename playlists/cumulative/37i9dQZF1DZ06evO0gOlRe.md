@@ -2,7 +2,7 @@
 
 ### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This is Alexander Stewart\. أغاني روعة في قايمة أغاني واحدة.
+> This Is Alexander Stewart\. Los temas esenciales, todos en una lista.
 
 59 songs - 2 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: <a href="spotify:artist:2miffAnnUvKSyB9ykA2su9">Living</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,231 likes - 65 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,328 likes - 65 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 28 | [Mi Shalom](https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r) | [Mi Shalom](https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz) | 7:00 |
 | 29 | [Donde Tú Estás \(feat\. Rebeca Zamorano\)](https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Donde Tú Estás](https://open.spotify.com/album/66jgmPscSa5lrA8yBm90ar) | 8:54 |
 | 30 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 |
-| 31 | [Padre Nuestro \(Live\)](https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 6:54 |
+| 31 | [Padre Nuestro \- Live](https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 6:54 |
 | 32 | [Gracias, Señor](https://open.spotify.com/track/1cY9JMcp8IYAvdBWrDC4PI) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu), [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE) | [Gracias, Señor](https://open.spotify.com/album/1grv9kyTHNQyLdlkrExSj5) | 5:05 |
 | 33 | [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 |
 | 34 | [Océanos \(Donde Mis Pies Pueden Fallar\)](https://open.spotify.com/track/6nK1x5xWT3x1N1gzhSB7gw) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Océanos \(Donde Mis Pies Pueden Fallar\)](https://open.spotify.com/album/2f2T1EMqrwWbpAeT7iWzfP) | 4:19 |

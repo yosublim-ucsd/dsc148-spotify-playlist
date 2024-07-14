@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: FKJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,395 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,407 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 32 | [Ms\. Ebony Brown](https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Ms\. Ebony Brown](https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz) | 3:18 |
 | 33 | [My Love](https://open.spotify.com/track/7njHcOQdmC3YVk9eIrL4dQ) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [My Love](https://open.spotify.com/album/3Ggmu1fcnkBEhCG8UHEVRG) | 2:48 |
 | 34 | [\(K\)no\(w\) Better](https://open.spotify.com/track/23jEUEJ8S4S5w9ULfKGQxP) | [Vice Beats](https://open.spotify.com/artist/0IIyN8h6bhn7pzkR0SbAS8), [Mac Lloyd](https://open.spotify.com/artist/1LwgWZaHMmRVyu2fIglu3l) | [\(K\)no\(w\) Better](https://open.spotify.com/album/0DUQ0jMsZqTpWt2lEnI9x7) | 3:16 |
-| 35 | [Higher Levels](https://open.spotify.com/track/2dBZk3EXFu4uUJidPzoT1H) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [Sara Lugo](https://open.spotify.com/artist/3DQQA7JVJvdcdcKArfwitT), [Dan Amozig](https://open.spotify.com/artist/1cS3HtoL7qTOOLQrIc349t) | [Higher Levels](https://open.spotify.com/album/5vxQJCFU3sXmObdLB2o1uA) | 3:29 |
+| 35 | [Higher Levels](https://open.spotify.com/track/2dBZk3EXFu4uUJidPzoT1H) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [Sara Lugo](https://open.spotify.com/artist/3DQQA7JVJvdcdcKArfwitT) | [Higher Levels](https://open.spotify.com/album/5vxQJCFU3sXmObdLB2o1uA) | 3:29 |
 | 36 | [Love Is That Space](https://open.spotify.com/track/3kx9tSMW5WfgiUf8tdTv8e) | [Cellz](https://open.spotify.com/artist/5BFEr8AvjXPRGzf1hZyel3), [POLY POLY](https://open.spotify.com/artist/4MdhWtwr2EGHOn80cSM380) | [Love Is That Space](https://open.spotify.com/album/6hbj733uaSXWinzZaFBLQy) | 3:16 |
 | 37 | [In The Fire](https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [In The Fire](https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE) | 3:57 |
 | 38 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |

@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-349 songs - 1 day 4 hr 40 min
+350 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 | 2023-07-14 |  |
 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 | 2023-03-03 | 2023-06-14 |
 | [euphoric.](https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '22](https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q) | 6:37 | 2022-11-11 | 2022-12-14 |
-| [Express Yourself](https://open.spotify.com/track/4VvCoy9PDFq3Y8E2XONvf5) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02) | [Express Yourself](https://open.spotify.com/album/4WlAI1jYrcdXuQ8QH1X5Fd) | 6:45 | 2024-05-03 |  |
+| [Express Yourself](https://open.spotify.com/track/4VvCoy9PDFq3Y8E2XONvf5) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02) | [Express Yourself](https://open.spotify.com/album/4WlAI1jYrcdXuQ8QH1X5Fd) | 6:45 | 2024-05-03 | 2024-07-14 |
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-22 |  |
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 | 2023-05-27 |
 | [Fia](https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Fia](https://open.spotify.com/album/7DgEWcG8Ra9VtejKVfxw7t) | 8:03 | 2022-06-03 | 2022-07-29 |
@@ -263,6 +263,7 @@
 | [Small Things](https://open.spotify.com/track/11fsAfyLE6m6j1Zay5hpvF) | [Steve Darko](https://open.spotify.com/artist/7h9yW5sJS4vddfJ8nBSpxP), [Nik Thrine](https://open.spotify.com/artist/0CCV0w2pytcnTSGanKFJxB) | [Small Things](https://open.spotify.com/album/69kWU5hSeKRyZkhsh5snWS) | 4:49 | 2022-06-03 | 2023-05-27 |
 | [Snap, Crackle & Pop](https://open.spotify.com/track/7hXec0ZsWTIyyKRqj6EDbM) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv), [Sam Dexter](https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty), [Tom Savage](https://open.spotify.com/artist/6mTbAkUgtIjaYiqHIpxwRd) | [Snap, Crackle & Pop](https://open.spotify.com/album/038YicJOoNn0WR1e9WbJbb) | 2:28 | 2024-04-12 |  |
 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 | 2024-03-08 |  |
+| [So Good \- Heat Mix](https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Good \(Heat Mix\)](https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW) | 4:00 | 2024-07-12 |  |
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-06-03 | 2022-09-30 |
 | [So Sweet \- Matthias Tanzmann Remix](https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [So Sweet \(Matthias Tanzmann Remix\)](https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5) | 5:33 | 2022-11-11 | 2022-12-31 |
 | [Sometimes](https://open.spotify.com/track/6ThwZtNrwEzvhk1VBx0UpL) | [Golan](https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW) | [III](https://open.spotify.com/album/3ilL1rqFRKvSYKLuUrUEPX) | 4:07 | 2024-03-15 | 2024-05-25 |

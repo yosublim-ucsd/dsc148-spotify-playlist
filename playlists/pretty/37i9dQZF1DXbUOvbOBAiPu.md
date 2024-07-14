@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,613 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,626 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 69 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 |
 | 70 | [We Zijn Zo Jong](https://open.spotify.com/track/2WLeRA7JmcfiNTEmwVPvaR) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE) | [We Zijn Zo Jong](https://open.spotify.com/album/3UXzxYxaNa79mgiMXMjLvH) | 3:47 |
 | 71 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 |
-| 72 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
+| 72 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
 | 73 | [Boys Like Girls](https://open.spotify.com/track/3j9tZ93BYN3NDM0JLlNXaU) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Origin Stories](https://open.spotify.com/album/5ZrJnvV06aW25U0UBQefe2) | 2:33 |
 | 74 | [Nobody Knows](https://open.spotify.com/track/6r1dG3TW8wpYMt9vSVAO3w) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Nobody Knows](https://open.spotify.com/album/54zYvqlh1tgWoe5edGHC8r) | 2:51 |
 | 75 | [Monaco](https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Monaco](https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN) | 2:38 |

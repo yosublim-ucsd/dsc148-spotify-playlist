@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,257 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,279 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 41 | [100 KM/H](https://open.spotify.com/track/6xnfGwgYOWFmeo0UwK5ZfB) | [Unge Lama](https://open.spotify.com/artist/17FU6Qmo3DRxs1xxyxbUOd), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [100 KM/H](https://open.spotify.com/album/6TbUA8Qbxi2SYYDSgPCoZk) | 1:22 |
 | 42 | [Darkest Hour](https://open.spotify.com/track/0HME5zuqS2bjsqI07fhvSk) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Darkest Hour](https://open.spotify.com/album/322MAOM8hv8sYGu0SdspXH) | 2:16 |
 | 43 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
-| 44 | [To Be Alright \- The Sanctuary Remix](https://open.spotify.com/track/4M6kQiwzt3KReDMfSnfV8P) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Sanctuary](https://open.spotify.com/artist/7CZHkMIN9Kd5Z38q8BVKOe) | [To Be Alright \(The Sanctuary Remix\)](https://open.spotify.com/album/4m70X7IkAYrpARFMzhx82U) | 3:46 |
+| 44 | [To Be Alright \- The Sanctuary Remix](https://open.spotify.com/track/4M6kQiwzt3KReDMfSnfV8P) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [To Be Alright \(The Sanctuary Remix\)](https://open.spotify.com/album/4m70X7IkAYrpARFMzhx82U) | 3:46 |
 | 45 | [Supermodell \(DumDum Boys\)](https://open.spotify.com/track/2yR9P49gdDVNc5Tn02WMLj) | [Klikkmonopolet](https://open.spotify.com/artist/49801AhfB2xOoOqtRZXv4H), [Clöben](https://open.spotify.com/artist/6SFJ1zh51RDH7rTfx036cW) | [Supermodell \(DumDum Boys\)](https://open.spotify.com/album/18XKogIhPpGAoxwIeikPr0) | 1:48 |
 | 46 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 47 | [Listen To Your Heart](https://open.spotify.com/track/7e3mQDMCil8G4EQMwWuiHp) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Derek Cate](https://open.spotify.com/artist/6obanUFiN0hVgGy3Nng7FQ), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [Listen To Your Heart](https://open.spotify.com/album/5HwUADTE6Lw4BPIGMeJ5DS) | 2:48 |

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,080 songs - 2 day 7 hr 56 min
+1,081 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,7 +579,7 @@
 | [Mangata](https://open.spotify.com/track/1OsLotSGCI2cjCHyWf0EXz) | [Dubsound](https://open.spotify.com/artist/0EEKO8nxCteilleD2pOJrY) | [Mangata](https://open.spotify.com/album/35Cm4qdNpJhymmb7v5iFsI) | 3:06 | 2023-11-03 | 2023-12-19 |
 | [Mantra \- Nitepunk Remix](https://open.spotify.com/track/5d5udPR6Nk6j5wSXwfA6OM) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [The Resonance IV](https://open.spotify.com/album/4VdfzUeCyXd3z6CDGNRbmP) | 3:56 | 2022-12-16 | 2022-12-27 |
 | [Mars](https://open.spotify.com/track/0qe82vcK8qrhxysdMQpBrt) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Mars](https://open.spotify.com/album/4TIkvjDU9QucXlfKgvV899) | 2:35 | 2022-01-14 | 2022-02-17 |
-| [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-05-10 |  |
+| [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-05-10 | 2024-07-14 |
 | [Masquerade \(RudeLies Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/11e6MOFGfxbRWKAJTx2DD2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Masquerade \(RudeLies Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/4YaZOkNrKjzvPpaUHAVUC7) | 3:07 | 2022-09-21 | 2022-11-05 |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 | 2023-09-23 |
 | [Maybe It's a Ghost](https://open.spotify.com/track/5Qx3oA5TH3jS8xN3zuJrru) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n) | [Quiet in the Backseat](https://open.spotify.com/album/3YA5f5g1PcuDczlfY9oZJj) | 3:16 | 2024-02-16 |  |
@@ -1047,6 +1047,7 @@
 | [When You Were Mine](https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [When You Were Mine](https://open.spotify.com/album/4qH0ODF72DZORJwJU698p7) | 3:31 | 2023-09-22 | 2023-12-19 |
 | [Where Are You Now](https://open.spotify.com/track/5hv2wCXlAWX4IospgC1xJI) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [DiFi](https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL), [CASSIE](https://open.spotify.com/artist/1vOxtZLlDyrdReqWrm9oMr) | [Where Are You Now](https://open.spotify.com/album/4uQ0CbHLd5PbJA3cmqiDnH) | 2:22 | 2022-09-30 | 2022-10-29 |
 | [While We're Young \- Marze Remix](https://open.spotify.com/track/0B5jpdoINneNjnPZ8yAzCu) | [Josh Rivera](https://open.spotify.com/artist/1MPWHkKtgL5X61RI8JS6cn), [Marze](https://open.spotify.com/artist/6JoNplNFJPDvDHBB4WRq7T) | [While We're Young \(Marze Remix\)](https://open.spotify.com/album/62JCkNsrR5gweeEM5ySIWA) | 2:57 | 2022-08-26 | 2022-10-22 |
+| [Whine in Brazil](https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [Whine in Brazil](https://open.spotify.com/album/7AMtOQ4omSoq5q74aZPxdS) | 1:40 | 2024-07-13 |  |
 | [Who Will Save Us \- hyperforms Remix](https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [The Remixes \(Vol\. 2\)](https://open.spotify.com/album/7o9Q8Gcu9ALGjs1gJ1hUcX) | 2:37 | 2022-01-25 | 2022-02-26 |
 | [Why](https://open.spotify.com/track/2woXOL3Lh25Bs3HwHJDC8Q) | [Mad Miguel](https://open.spotify.com/artist/21fqKfKRAPydpw3u8KPtRr) | [Why](https://open.spotify.com/album/4A66DpGB7QfaCcG7KzsO3P) | 2:55 | 2023-04-28 | 2023-05-03 |
 | [Why Don't You](https://open.spotify.com/track/4y7OSoFuXiXXqg1CViM2NM) | [Thorgan](https://open.spotify.com/artist/4h222pRnmurJxvcdpOa5wZ) | [Why Don't You](https://open.spotify.com/album/1MdX85on6xJmZPviX0hDlm) | 2:48 | 2024-01-05 | 2024-06-01 |

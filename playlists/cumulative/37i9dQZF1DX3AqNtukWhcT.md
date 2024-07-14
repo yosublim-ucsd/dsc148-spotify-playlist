@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-195 songs - 10 hr 6 min
+200 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Drums of Shamanic Ritual](https://open.spotify.com/track/0zbUcJfHT0cvEpxOmIlKNx) | [Relaxing Zen Music Therapy](https://open.spotify.com/artist/1uWS5oGawRMbrNpjVFOqAp) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 3:43 | 2022-09-02 | 2022-10-26 |
 | [Détente \(Hang drum\)](https://open.spotify.com/track/799kB7l9LSSlsz4MMaoaok) | [Yoga Exercices Club](https://open.spotify.com/artist/5NlewSfsj9UeVhTKJrNip9) | [Yoga del Mar – Cours de Yoga et Pilates, musique d'ambience et ambient lounge pour Hatha Yoga et Power Pilates](https://open.spotify.com/album/3JXmupCoVuKGHGL2ji1Xbg) | 5:26 | 2022-09-02 | 2023-01-21 |
 | [Edasi](https://open.spotify.com/track/7ytnlVd8PmIQKbIz0xDEls) | [Lõhmus](https://open.spotify.com/artist/3TybHE2vGmjjIgpEpoogjE) | [Edasi](https://open.spotify.com/album/60g34Dm8jNth4tptfiYAr4) | 3:42 | 2022-09-02 |  |
+| [Elementals](https://open.spotify.com/track/2xDUTGpKLX8RsHoOYAV7vQ) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elementals](https://open.spotify.com/album/6V4U7sqbuCzrgPxRgXqr0w) | 2:59 | 2024-07-13 |  |
 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 | 2022-09-22 |  |
 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 | 2022-09-02 |  |
 | [Eretinda](https://open.spotify.com/track/3iSbAOqTZp5DKYP82hJ9nO) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Eretinda / The Chakra Movement](https://open.spotify.com/album/1FlSZCcXYMB3GZAZrI1Yu4) | 3:33 | 2023-01-20 |  |
@@ -82,6 +83,7 @@
 | [Heal Within](https://open.spotify.com/track/1eb7d59xruOhOO88ihuDfA) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Heal Within](https://open.spotify.com/album/2ZTHiYTgXmvdVF6WgwlQqT) | 3:32 | 2023-08-11 |  |
 | [Healing Forest](https://open.spotify.com/track/3IHG0LxWiwcRQRDJZBYmPB) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [Healing Forest](https://open.spotify.com/album/6f6O581b2i2giL3jRJ8sVb) | 3:08 | 2023-06-21 |  |
 | [Healing In Motion](https://open.spotify.com/track/07VngjCOcIk1bYIpLhvscU) | [Rag Nally](https://open.spotify.com/artist/2uSPSc1IHPt7fv6ve5jRQK) | [Bright View](https://open.spotify.com/album/5VV9ouPNjWngNXa2tCUKlS) | 2:06 | 2023-06-21 |  |
+| [Healing Stimulation EMDR](https://open.spotify.com/track/2RjGzoH1RfTGNJZ0DkvJZp) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Gentle Nightfall EMDR](https://open.spotify.com/album/4TCgsgkFG00h5mYCbhcYSS) | 2:36 | 2024-07-13 |  |
 | [Holy River](https://open.spotify.com/track/6aheaZ49wM9pdc21shDoaO) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy River](https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2) | 3:03 | 2022-11-25 | 2023-08-12 |
 | [Holy Stone](https://open.spotify.com/track/3IWbiwMkaA8wlNd4zuaK6K) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy Stone](https://open.spotify.com/album/7bLljlzayEIE59YxJ92qX2) | 2:37 | 2022-09-02 | 2023-06-22 |
 | [Indian Sunset](https://open.spotify.com/track/6Oa6dSEDkopm9UsfZ6tVH8) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 3:40 | 2022-10-25 |  |
@@ -118,6 +120,7 @@
 | [Ning's Garden](https://open.spotify.com/track/7Bv6U3feaLTl2LRCEYMy6D) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [Ning's Garden](https://open.spotify.com/album/6n677UbXTQfUGW6TKSYIKH) | 2:54 | 2023-06-21 |  |
 | [Niva\-Trance Beat](https://open.spotify.com/track/45MhmdfNmO9EQSqDL0ccLe) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Niva\-Trance Beat](https://open.spotify.com/album/5lh4L1MJ2INnzd7LltXRjB) | 3:30 | 2022-09-02 | 2022-10-26 |
 | [Oceans Anahata](https://open.spotify.com/track/7D3XzDFwR1BYnzcQ5Yl6P2) | [Surya](https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD) | [Oceans Anahata](https://open.spotify.com/album/6geVgdN6Ik1nG3YF4Vex51) | 3:22 | 2022-10-25 |  |
+| [Open Mind](https://open.spotify.com/track/3IlFvhJa7yFZXhN7bkGtXa) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Open Mind](https://open.spotify.com/album/0hKWla6AJkI5W4IJSzKcuv) | 3:20 | 2024-07-13 |  |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2022-09-02 | 2023-06-22 |
 | [Perfect Pace](https://open.spotify.com/track/5zlVHMRwqJ4L7Z4b5W0oD3) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [Perfect Pace](https://open.spotify.com/album/4j3SzFdQMJ0zuDhrzpxdAV) | 2:44 | 2022-09-02 |  |
 | [Phanari Sunrise](https://open.spotify.com/track/5kTcSaf7HAHHKAXWDZ4w50) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [A Red Dream](https://open.spotify.com/album/2ZmaiChMVmFhyJshZ4YRzk) | 2:52 | 2023-06-21 |  |
@@ -146,6 +149,7 @@
 | [Sand of the Desert](https://open.spotify.com/track/3vvRalqHBwE90YlukV71Qm) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Dances: Shamanic Meditation Journey, Indian Spirit, Ethnic Drums, African Relaxation](https://open.spotify.com/album/3R2yCJSvzc8BREIV3e0ym0) | 3:34 | 2022-09-02 | 2023-01-21 |
 | [Savitri](https://open.spotify.com/track/5vjexs7Iu9LZksyyLAQ1JF) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Savitri](https://open.spotify.com/album/0DoI5SafFqC5cdAw7cxiwT) | 2:53 | 2022-09-22 |  |
 | [Secrets of Silver Sand](https://open.spotify.com/track/3a6fUC6DXs6ZalBRDYX2Lm) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Zen \- Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music](https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs) | 3:44 | 2022-09-02 |  |
+| [See Your Soul](https://open.spotify.com/track/6y2eyzErKLtELPBktMxsZB) | [Amir Ashtone](https://open.spotify.com/artist/3zM2r81M5h4O3CvvMlxn6z) | [See Your Soul](https://open.spotify.com/album/7uh49Rv1icJC5uMODFxuZo) | 3:01 | 2024-07-13 |  |
 | [Shamanic Serenity](https://open.spotify.com/track/40WTJ18XppTxQFceBkvkxS) | [Natural Healing Music Zone](https://open.spotify.com/artist/7yrrBoat3imi8RJTlmYXfz) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:45 | 2022-09-02 |  |
 | [Sharanda](https://open.spotify.com/track/3YctIlrwFAmE5i6IHqSppU) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [Tangerine Sky](https://open.spotify.com/album/4VZgKvPE7z12njOZhDsrUS) | 2:45 | 2022-11-25 |  |
 | [Shimmer in the Morning](https://open.spotify.com/track/5A2bqoIAVDTkSiJAf1VCxn) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Shimmer in the Morning](https://open.spotify.com/album/3js5Q3SdvGgWRp5g93oBUO) | 1:52 | 2022-09-02 | 2023-06-22 |
@@ -165,6 +169,7 @@
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-09-02 | 2023-08-12 |
 | [Straight](https://open.spotify.com/track/3S157arhUxGRk5KMXQoH5I) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:21 | 2022-09-02 | 2023-08-12 |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-09-02 | 2022-11-26 |
+| [Summer Rain](https://open.spotify.com/track/2UkYVdcEStyKcLJy97Fcyb) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Summer Rain](https://open.spotify.com/album/7GJb0jmfVGvtepXZflXny5) | 2:30 | 2024-07-13 |  |
 | [Summer Sun](https://open.spotify.com/track/1GEWUEFm1XZeJc96Md6jIy) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Summer Sun](https://open.spotify.com/album/3ziksW8z4ispPgY7aRuXWe) | 2:20 | 2022-09-02 |  |
 | [Sun Prayer](https://open.spotify.com/track/0KHcH20cePIP8078vLJljF) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Sun Prayer](https://open.spotify.com/album/2lJ6lbA5YHvcx9WM12Dnhr) | 3:32 | 2022-09-02 | 2023-01-21 |
 | [Sun Stone Water](https://open.spotify.com/track/3mYFJjXpU2cqfbqmjWA2gN) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Sun Stone Water](https://open.spotify.com/album/3MVgmsLN5ktGGqKIzHI45D) | 2:57 | 2023-06-21 |  |

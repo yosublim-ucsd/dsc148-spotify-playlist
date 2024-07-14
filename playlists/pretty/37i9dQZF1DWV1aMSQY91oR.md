@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest hip\-hop, refreshed weekly\. Cover: Ice Spice & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,131 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,158 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 |
 | 29 | [A7X](https://open.spotify.com/track/7fywVRxevIbDGLWeNEz77I) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [A7X](https://open.spotify.com/album/0IsfDSHweRg9g6AsZYhjFW) | 2:31 |
 | 30 | [Amnesia \- Slim\. Remix](https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [Still Nothing Still \(Deluxe\)](https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C) | 3:06 |
-| 31 | [3 Words](https://open.spotify.com/track/16TccLFGxzvyK8KAA6Oupx) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Adam Bomb](https://open.spotify.com/artist/650e8jHbjj1ZXEFrT14KcD) | [3 Words](https://open.spotify.com/album/4xteeki2Iz7KCLH9i1Tctr) | 3:46 |
+| 31 | [3 Words](https://open.spotify.com/track/16TccLFGxzvyK8KAA6Oupx) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [The Legend Adam Bomb](https://open.spotify.com/artist/68JHSowx4ruM9EOTnaKjei) | [3 Words](https://open.spotify.com/album/4xteeki2Iz7KCLH9i1Tctr) | 3:46 |
 | 32 | [Grind Some More](https://open.spotify.com/track/5RCi95eVECzjgQkf5lD61P) | [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ), [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Grind Some More](https://open.spotify.com/album/2B9xUbo6rhP9ORxyHHOwGE) | 2:46 |
 | 33 | [Where The Monstaz Be](https://open.spotify.com/track/1jUI2y8qzlfQt8In2ECZFX) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu) | [Where The Monstaz Be](https://open.spotify.com/album/02FyoPBdWFvTqUYjVEFKGw) | 3:27 |
 | 34 | [Desire](https://open.spotify.com/track/36NJB0N0ilryqZX4ZGRb34) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Desire](https://open.spotify.com/album/4HPic51RCTg2xnHJfTStMw) | 2:49 |

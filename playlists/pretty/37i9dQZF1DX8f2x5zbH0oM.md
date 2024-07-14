@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,744 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,742 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
 | 2 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
-| 3 | [The Message \- Majid Jordan Remix](https://open.spotify.com/track/5nRNx6Gs12LDlLWbl8dVRq) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Message \(Majid Jordan Remix\)](https://open.spotify.com/album/2XFeeHCCqtklVfPuFysGTB) | 7:12 |
+| 3 | [The Message \(Majid Jordan Remix\)](https://open.spotify.com/track/5nRNx6Gs12LDlLWbl8dVRq) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Message \(Majid Jordan Remix\)](https://open.spotify.com/album/2XFeeHCCqtklVfPuFysGTB) | 7:12 |
 | 4 | [Still \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:14 |
 | 5 | [In My Head](https://open.spotify.com/track/6VBNhjwLvHkpQmhlhofBGX) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [In My Head](https://open.spotify.com/album/4DocDEGzuG9MzMzRUY6Fuy) | 2:04 |
 | 6 | [À la Hauteur](https://open.spotify.com/track/5m5CDDkDfHWSKdYnFUN5LR) | [Pbl](https://open.spotify.com/artist/2ErtP3QGjQ4j7qQk3ORl3j), [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6) | [À la Hauteur](https://open.spotify.com/album/5uvkYiiMMRpFE5DjoJC41t) | 2:44 |

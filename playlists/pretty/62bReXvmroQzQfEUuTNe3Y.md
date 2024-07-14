@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,301,307 likes - 150 songs - 8 hr 4 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,302,445 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 76 | [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 |
 | 77 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 78 | [Hold You Back](https://open.spotify.com/track/4d2aMvOMJPy0KCfslxNq9q) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Hold You Back](https://open.spotify.com/album/1HBCbOUgsLJ7qrRRWThdLe) | 2:47 |
-| 79 | [Fade \(feat\. SHELLS\)](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 |
+| 79 | [Fade](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 |
 | 80 | [Come Down](https://open.spotify.com/track/11smJO5UiLwBpzPakBZNpK) | [VLLN](https://open.spotify.com/artist/69tUOHpGh5PNsmZlvw4AOx), [DOGMA](https://open.spotify.com/artist/7JLm1GmY8hYbrtJT0O2gUn), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN) | [Come Down](https://open.spotify.com/album/0JZlyivWtLub23BG9UISix) | 2:29 |
 | 81 | [Wildflowers](https://open.spotify.com/track/5xl0p7WkEry8QAOxTs28kY) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Zimmer](https://open.spotify.com/album/5iri9jAHcyXZ3fD0gUoXMO) | 3:37 |
 | 82 | [Lie](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP) | [BRETSN](https://open.spotify.com/artist/0q1KWQ2KDqSA6neWGPi2Mm), [SANDMO](https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF) | [Lie](https://open.spotify.com/album/1GvBsRk5yQfKPShCSFH88g) | 2:50 |

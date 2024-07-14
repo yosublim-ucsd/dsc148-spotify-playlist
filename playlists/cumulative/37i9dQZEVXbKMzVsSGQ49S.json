@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 106730,
       "name": "A Request",
       "url": "https://open.spotify.com/track/2heaum0CGW1p081AAB0mrb"
@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314226,
+      "name": "Antichrist",
+      "url": "https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 113414,
       "name": "At First",
       "url": "https://open.spotify.com/track/3Mg1DBkvmGuzxN5spXGDfb"
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 211231,
       "name": "At the Bottom of the Can",
       "url": "https://open.spotify.com/track/1epQVLhIdYW2M0p2k9UOLo"
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -4198,7 +4216,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 132371,
       "name": "Blood Flow",
       "url": "https://open.spotify.com/track/3opbVvzByRseFPVQOJHmwE"
@@ -4652,6 +4670,24 @@
       "duration_ms": 167960,
       "name": "Bo\u00eete \u00e0 Gants",
       "url": "https://open.spotify.com/track/0074XGa4ytWx2s1o48jO3y"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206649,
+      "name": "Brand New Dance",
+      "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
     },
     {
       "album": {
@@ -5110,7 +5146,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 175403,
       "name": "B\u00edum b\u00edum bambal\u00f3",
       "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
@@ -6284,7 +6320,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 113798,
       "name": "Cold Foam",
       "url": "https://open.spotify.com/track/1kaQnHfgnOK1PpsJSSSDbb"
@@ -6380,7 +6416,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 138260,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/6AQ1AQreVRlhL4tLtxP3NQ"
@@ -7186,6 +7222,24 @@
       "duration_ms": 189521,
       "name": "Dansa\u00f0u vindur",
       "url": "https://open.spotify.com/track/1wmdTFyiyJGJWV41rmJ66I"
+    },
+    {
+      "album": {
+        "name": "Dansgu\u00f0inn",
+        "url": "https://open.spotify.com/album/0BjnXF4pU53yQLzll6rUwS"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Dansgu\u00f0inn",
+      "url": "https://open.spotify.com/track/0k4KDdYLCqITK6EOZ0EtBb"
     },
     {
       "album": {
@@ -9070,7 +9124,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 100739,
       "name": "Ednalva",
       "url": "https://open.spotify.com/track/5TlLCLcIJmvZIhJ9j9bCpB"
@@ -9824,7 +9878,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 84062,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/3Az1LEarMu5oE2o3TL1VaQ"
@@ -10412,6 +10466,24 @@
       "duration_ms": 141360,
       "name": "Everything Hit",
       "url": "https://open.spotify.com/track/3unMLNT5wyJaQL8v8jktQb"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230358,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9"
     },
     {
       "album": {
@@ -12131,6 +12203,28 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213646,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -12438,7 +12532,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 118095,
       "name": "F\u00f6ssari",
       "url": "https://open.spotify.com/track/1yQ2qCTb2MNV415l2Iq8Q3"
@@ -13596,7 +13690,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -13748,7 +13842,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 104486,
       "name": "Greater Good",
       "url": "https://open.spotify.com/track/26OZ6JQQi34XAuPYEQIrBY"
@@ -13922,6 +14016,24 @@
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325531,
+      "name": "Guilty Conscience 2",
+      "url": "https://open.spotify.com/track/3LkXOTWDwskwciQoARFDzu"
     },
     {
       "album": {
@@ -14152,6 +14264,28 @@
       "duration_ms": 180000,
       "name": "G\u00fasti Jr. (feat. Ingi Bauer)",
       "url": "https://open.spotify.com/track/2AfcELgWIOXfN0QS4KluNT"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "White Gold",
+          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298384,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
     },
     {
       "album": {
@@ -15468,7 +15602,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 139691,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/58PgItARJ0e57YzSAodNvl"
@@ -15709,6 +15843,24 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227032,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
@@ -15720,7 +15872,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
@@ -15888,7 +16040,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 119520,
       "name": "HubbaBubba",
       "url": "https://open.spotify.com/track/3qWnKB22BGrKCTTBRAfkb3"
@@ -17120,7 +17272,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 114169,
       "name": "I'm the Best for You",
       "url": "https://open.spotify.com/track/3T1sSEvN2b0ycx1R7G6JMI"
@@ -17338,7 +17490,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 210480,
       "name": "Ilove is Island",
       "url": "https://open.spotify.com/track/7sRasVCxRtXK49G7tPeHOZ"
@@ -17578,7 +17730,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 79386,
       "name": "Infinite Affection",
       "url": "https://open.spotify.com/track/3AxDEWKkCuMtK6zmaikt99"
@@ -19312,7 +19464,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 151593,
       "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
       "url": "https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB"
@@ -19330,7 +19482,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 195464,
       "name": "Krumla",
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
@@ -20386,7 +20538,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 198120,
       "name": "Lifa af",
       "url": "https://open.spotify.com/track/5cFYLpNErj9k9JjjZL8Vft"
@@ -20834,7 +20986,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 197137,
       "name": "Lj\u00f3s",
       "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
@@ -21525,6 +21677,28 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Sly Pyper",
+          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261758,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/50No7LiVffAJCWIChZodmU"
+    },
+    {
+      "album": {
         "name": "Lucrar",
         "url": "https://open.spotify.com/album/5jxpjh3sQhqedYuz4OhdOB"
       },
@@ -21572,7 +21746,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -21954,7 +22128,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 220000,
       "name": "Magic Moonlight",
       "url": "https://open.spotify.com/track/2oPldDo8zVZJeKVkolqiSU"
@@ -23318,7 +23492,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 180320,
       "name": "Moonlight Dreams",
       "url": "https://open.spotify.com/track/41AlgewPTFVjxODx9qq1rC"
@@ -23456,7 +23630,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 147977,
       "name": "Morning Sun - Live",
       "url": "https://open.spotify.com/track/5WZVDMbdLHJ9zst2kBtHEj"
@@ -23684,7 +23858,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 140109,
       "name": "My Black",
       "url": "https://open.spotify.com/track/5rT1dhF1dhwqTzufqr0Ea8"
@@ -23738,7 +23912,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 126804,
       "name": "My Decision",
       "url": "https://open.spotify.com/track/5sSC4CgKJPWxgdJtuxlaUB"
@@ -24434,7 +24608,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 110155,
       "name": "New Age",
       "url": "https://open.spotify.com/track/7dWE1Hi4x7fOcXS7cqOi78"
@@ -24602,7 +24776,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -28792,7 +28966,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 98908,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WnzKbjauGF1zProsbRPlx"
@@ -28814,6 +28988,24 @@
       "duration_ms": 198613,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98152,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
     },
     {
       "album": {
@@ -31856,7 +32048,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 150883,
       "name": "Sofa urtub\u00f6rn",
       "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
@@ -32498,7 +32690,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 152777,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/1Cb1O5uhVVlPbrcd1owreG"
@@ -33112,7 +33304,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -33556,7 +33748,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 194000,
       "name": "Sunshine Dreams",
       "url": "https://open.spotify.com/track/3LMNx2BXox49xBGyDAlgQO"
@@ -34212,7 +34404,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 186040,
       "name": "S\u00f3linni",
       "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
@@ -34492,7 +34684,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 142013,
       "name": "Tamirez",
       "url": "https://open.spotify.com/track/2tq2oWDht87i4WJDZim55B"
@@ -35246,7 +35438,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 236160,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/6N4nwFs8HwL04P7O2PzKL7"
@@ -35304,7 +35496,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 120000,
       "name": "The Source of Living Water",
       "url": "https://open.spotify.com/track/1fTtxhxbQLDzDkBjBYUxIz"
@@ -35795,6 +35987,32 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284903,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP"
+    },
+    {
+      "album": {
         "name": "X Cross",
         "url": "https://open.spotify.com/album/0yUfPZEQhKiVbYE24v7hd8"
       },
@@ -36246,7 +36464,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 122142,
       "name": "Tranquil Dawn - Live",
       "url": "https://open.spotify.com/track/7w7GEO5y8OcQJ0KxerQ8L1"
@@ -36413,6 +36631,24 @@
     },
     {
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41487,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -36446,7 +36682,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 123895,
       "name": "True Love",
       "url": "https://open.spotify.com/track/43yuZOuaaLd1INTsMWjvxQ"
@@ -39858,7 +40094,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 113040,
       "name": "Zen Tranquility - Live",
       "url": "https://open.spotify.com/track/6rLClFfKtZGSfAWecsEI4T"
@@ -39986,6 +40222,28 @@
       "duration_ms": 235578,
       "name": "\u00c1 sama t\u00edma, \u00e1 sama sta\u00f0",
       "url": "https://open.spotify.com/track/66ucII0C46uKXVFqDuDhfu"
+    },
+    {
+      "album": {
+        "name": "\u00c1fram stelpur (allar sigra)",
+        "url": "https://open.spotify.com/album/7kfWXPjZKDpMPlkTNsuWN4"
+      },
+      "artists": [
+        {
+          "name": "S\u00edminn",
+          "url": "https://open.spotify.com/artist/0CyvT2VQcN11tq7t6RkftE"
+        },
+        {
+          "name": "Sigga \u00d3zk",
+          "url": "https://open.spotify.com/artist/73J7dlqdZeEGsO1yEU1c47"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180142,
+      "name": "\u00c1fram stelpur (allar sigra)",
+      "url": "https://open.spotify.com/track/19oWq6Op7BObIqZ1nSxxAO"
     },
     {
       "album": {
@@ -40436,7 +40694,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 191332,
       "name": "\u00c6vint\u00fdral\u00f6nd",
       "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
@@ -41026,7 +41284,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 99613,
       "name": "\u00d3skasteinar",
       "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"

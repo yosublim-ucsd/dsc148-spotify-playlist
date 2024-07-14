@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\.  Cover: keshi.
 
-836 songs - 1 day 19 hr 10 min
+838 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8) | 3:38 | 2022-05-27 | 2023-08-12 |
 | [Diving Woman](https://open.spotify.com/track/6V7c8Dd40BKFqWIYS5zTXx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 6:32 | 2023-09-01 | 2023-09-23 |
 | [Dizzy](https://open.spotify.com/track/5JLSZoonTDUwaMdoptjPWe) | [oksami](https://open.spotify.com/artist/1b0Xogb0sa1XfgUXFWPb26), [Julian Blu](https://open.spotify.com/artist/6BsjFgYJowKhLY39sTcyrC) | [Dizzy](https://open.spotify.com/album/6TRF2Nocx2RnqthSu6bFlK) | 2:54 | 2022-05-27 | 2022-09-19 |
-| [DND](https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ) | [DND](https://open.spotify.com/album/5o1cuob7TMEd7oAKuffRHK) | 2:41 | 2024-03-29 |  |
+| [DND](https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ) | [DND](https://open.spotify.com/album/5o1cuob7TMEd7oAKuffRHK) | 2:41 | 2024-03-29 | 2024-07-14 |
 | [do it right \(feat\. Aminé\)](https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [do it right \(feat\. Aminé\)](https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP) | 2:49 | 2022-05-27 | 2023-05-13 |
 | [Do You Like That?](https://open.spotify.com/track/4iPDeH7j5ukp65ru6Vf7OQ) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Do You Like That?](https://open.spotify.com/album/1godwceDz9lC2nR3euqNmz) | 2:17 | 2023-08-18 | 2024-03-23 |
 | [Doesn't Matter](https://open.spotify.com/track/4WFIPUgCBQdDpg4S5lvrKl) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Doesn't Matter](https://open.spotify.com/album/7EQam9angfCYD0jnTwiurs) | 3:01 | 2023-07-07 | 2023-08-20 |
@@ -266,6 +266,7 @@
 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 | 2023-09-01 | 2023-09-23 |
 | [Freaky \(RGB\)](https://open.spotify.com/track/6x74a97yVVRskQeOm787SG) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1) | 1:49 | 2023-06-16 | 2023-07-01 |
 | [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-05-27 | 2023-06-10 |
+| [Free Fall](https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Free Fall](https://open.spotify.com/album/4v4laRp7zrtGDtnDuHYh8f) | 2:44 | 2024-07-12 |  |
 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 | 2022-05-27 | 2023-08-12 |
 | [Friendzone](https://open.spotify.com/track/3EucONkQ7sCKKJaaOFXiuW) | [EDEN KAI](https://open.spotify.com/artist/2vSFtalWyx07nEqzKyqMuL) | [Friendzone](https://open.spotify.com/album/24g9dIUljRjz8sxpwHnfRP) | 4:07 | 2022-05-27 | 2022-07-29 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 | 2024-02-24 |
@@ -305,7 +306,7 @@
 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 | 2024-04-19 | 2024-06-15 |
 | [Grateful](https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 3:40 | 2024-01-26 | 2024-04-19 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-30 | 2024-02-24 |
-| [ground in your hands](https://open.spotify.com/track/3rpwGidGWLzwiYlXRbNwk6) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [ground in your hands](https://open.spotify.com/album/31uZjQ9LuuTWIXe940bAIA) | 4:01 | 2024-06-14 |  |
+| [ground in your hands](https://open.spotify.com/track/3rpwGidGWLzwiYlXRbNwk6) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [ground in your hands](https://open.spotify.com/album/31uZjQ9LuuTWIXe940bAIA) | 4:01 | 2024-06-14 | 2024-07-14 |
 | [hair down](https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [hair down](https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5) | 3:30 | 2024-04-12 |  |
 | [HAPPY ENDING](https://open.spotify.com/track/6OGaQWSZCskbFH9CgldHTQ) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [whatislove2u?](https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3) | 1:55 | 2024-04-05 |  |
 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-11 | 2024-04-19 |
@@ -675,6 +676,7 @@
 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 | 2023-08-11 | 2023-08-27 |
 | [Stop Talking \(stfu\)](https://open.spotify.com/track/5oKcaRM3zDLo8l6NIBB8JE) | [Lukpeach](https://open.spotify.com/artist/61uCmA6xLc4E7zuns8HyJK) | [Guilty Pleasure](https://open.spotify.com/album/3VB0h9yR5BCy6kpPynwj0Z) | 3:40 | 2022-05-27 | 2022-06-23 |
 | [Storm \- English Version](https://open.spotify.com/track/4YiLuz7hZ6ysG5iJxNlDmX) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Storm \(English Version\)](https://open.spotify.com/album/7EAjWBnTZCl6QgQDNnPWLf) | 3:49 | 2023-05-05 | 2023-09-02 |
+| [strange](https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [small love](https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB) | 3:24 | 2024-07-12 |  |
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2022-05-27 | 2023-02-18 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \- Dabin Remix](https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \[Dabin Remix\]](https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw) | 2:28 | 2024-04-12 |  |
 | [Subliminal](https://open.spotify.com/track/1IPeE85kJknYfd3tHNdb95) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Subliminal](https://open.spotify.com/album/4UXMYpJ0LmcG6ng47zxfNh) | 3:00 | 2022-05-27 | 2022-07-29 |

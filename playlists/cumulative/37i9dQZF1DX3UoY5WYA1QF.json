@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165482,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/1LSjVTaiRNOLNotHUIYqYU"
+    },
+    {
+      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 178066,
       "name": "Me Dueles",
       "url": "https://open.spotify.com/track/2j3goI4D6w6SGqQEJYzO0s"
@@ -1896,6 +1914,24 @@
       "duration_ms": 207586,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+    },
+    {
+      "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217536,
+      "name": "Me La Escondieron Sus Padres",
+      "url": "https://open.spotify.com/track/59fL7G4mCumnpSm77HwT6M"
     },
     {
       "album": {
@@ -3036,7 +3072,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 205907,
       "name": "Volv\u00ed Pa'l Pueblo",
       "url": "https://open.spotify.com/track/1KrrQARol7JPxCvvPenGKI"

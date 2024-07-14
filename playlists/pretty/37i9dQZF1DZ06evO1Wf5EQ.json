@@ -1,12 +1,12 @@
 {
-  "description": "This is Carlos Rafael Rivera. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "description": "This is Carlos Rafael Rivera. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 528,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo8ggAAAAABacZLNgN+Dwcr5npgVQA9O",
+  "snapshot_id": "ZpByAAAAAACkQ49vJnk5EJrD7JWMfruZ",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 161529,
-      "name": "Last Letter",
-      "url": "https://open.spotify.com/track/04tnxnuNA5FbR2Uzqlabs0"
+      "duration_ms": 83131,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 94133,
       "name": "The Hug",
       "url": "https://open.spotify.com/track/15bUmSZRN7XnH8p3ipCQgt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hacks: Season 1 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 124424,
-      "name": "Young Deb When She Was Happy",
-      "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

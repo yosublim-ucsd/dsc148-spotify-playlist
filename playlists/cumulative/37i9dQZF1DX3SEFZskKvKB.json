@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Altostratus (Momentary Version)",
+        "url": "https://open.spotify.com/album/3uJQuj7mCBAzFX97b4u5S1"
+      },
+      "artists": [
+        {
+          "name": "Justin Wiggan",
+          "url": "https://open.spotify.com/artist/1RJ2rVaj5ZGVYcNUVrKwFk"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209191,
+      "name": "Altostratus - Momentary Version",
+      "url": "https://open.spotify.com/track/7tICchlCqr7b8pZq76ydwJ"
+    },
+    {
+      "album": {
         "name": "Ambient Motion",
         "url": "https://open.spotify.com/album/7IYI6B0YtAV5kXpuyIOwTK"
       },
@@ -787,6 +805,24 @@
     },
     {
       "album": {
+        "name": "From the Past",
+        "url": "https://open.spotify.com/album/37sb9tnzDbTkDx1q4teo98"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137482,
+      "name": "From the Past",
+      "url": "https://open.spotify.com/track/1weI87bDnkEbA5fOJdEVJH"
+    },
+    {
+      "album": {
         "name": "Fuji",
         "url": "https://open.spotify.com/album/06aTTkyS7arBbMekxtFQsr"
       },
@@ -1144,7 +1180,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 153061,
       "name": "Inner strength",
       "url": "https://open.spotify.com/track/4hFqdUzPDMDDOKWaKTKsBq"
@@ -1256,6 +1292,24 @@
       "duration_ms": 246153,
       "name": "Kalimba Lullaby",
       "url": "https://open.spotify.com/track/0CvcNslgnm7nuNC5i7c48N"
+    },
+    {
+      "album": {
+        "name": "Law of Attraction",
+        "url": "https://open.spotify.com/album/1RWGo6cBMk8UIuCA2xqcml"
+      },
+      "artists": [
+        {
+          "name": "Eon Weaver",
+          "url": "https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Law of Attraction",
+      "url": "https://open.spotify.com/track/7Dd6lHMGsfo9y0wDibwXZ0"
     },
     {
       "album": {

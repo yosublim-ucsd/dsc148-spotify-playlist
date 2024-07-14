@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-318 songs - 15 hr 30 min
+321 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Looking Up](https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 2:32 | 2021-12-23 | 2023-08-25 |
 | [Lorimar](https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:42 | 2021-12-23 | 2022-09-03 |
 | [Lost](https://open.spotify.com/track/3O1AqwrqIwVoAr0GET75SY) | [Janae Milligan](https://open.spotify.com/artist/7fXVjzJEkTzPsCman3hBFu) | [Lost](https://open.spotify.com/album/5PGFQeWWIrlxj9fQzSwkRp) | 2:26 | 2021-12-23 |  |
+| [Lucid](https://open.spotify.com/track/6k2qIIgIppx8lAZXkPM6IG) | [Louis Cid & Vivian Id](https://open.spotify.com/artist/5XWHjtiZUlt948l3OSkjXw) | [Lucid](https://open.spotify.com/album/1L8BHIknSHJKbSTIqeNoBq) | 2:55 | 2024-07-13 |  |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-23 | 2023-07-14 |
 | [Längtan](https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Längtan](https://open.spotify.com/album/1Ct1me1fiNQ2c37OyvTnku) | 3:55 | 2022-09-02 | 2023-10-13 |
 | [líquido](https://open.spotify.com/track/6UlSa5WUahJzFVSRCUt8K3) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [líquido](https://open.spotify.com/album/4MXpvYR7qsNouiXC5bP6ar) | 2:24 | 2021-12-23 | 2023-06-17 |
@@ -228,6 +229,7 @@
 | [Purity](https://open.spotify.com/track/0jVoM3xPCje84qve763Zoq) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Way of Life](https://open.spotify.com/album/2WJ3Et6BMjC0ePyPbsEAQc) | 4:28 | 2021-12-23 | 2023-08-05 |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2021-12-23 |  |
 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 | 2022-03-03 |  |
+| [Radiant Sky](https://open.spotify.com/track/3cLEIE3V6M2PAXXKDbIiPT) | [Starchaserz](https://open.spotify.com/artist/5MIBtP87scZ53LF7IYtBvT) | [Radiant Sky](https://open.spotify.com/album/6sWOxjzHtY3qCEsy1P9jZv) | 3:00 | 2024-07-13 |  |
 | [Reality](https://open.spotify.com/track/6610gii04R3zRuWpa38XzY) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:06 | 2021-12-23 | 2023-08-05 |
 | [Reawake](https://open.spotify.com/track/5Aew5mU2PX5VffgzLKcBrv) | [Alex Sunita](https://open.spotify.com/artist/2NQR3z3RiaO9vSSMAgbOlw) | [Reawake](https://open.spotify.com/album/02Zc1AlasloNJ7EomEUOIO) | 3:10 | 2022-03-03 |  |
 | [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2022-09-13 |  |
@@ -283,6 +285,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 | 2021-12-23 | 2023-06-17 |
 | [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
+| [The Brightest Sounds](https://open.spotify.com/track/4akqjA2RA7RaUJwv4SC9Eq) | [Blue Sky Vessel](https://open.spotify.com/artist/1jSsVXneTHXf7cC54Bh3oV) | [The Brightest Sounds](https://open.spotify.com/album/6J63OnOs5iKPOWX2dAbGyv) | 3:00 | 2024-07-13 |  |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2021-12-23 | 2023-07-14 |
 | [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 | 2021-12-23 | 2022-12-10 |
 | [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 | 2022-11-11 |  |

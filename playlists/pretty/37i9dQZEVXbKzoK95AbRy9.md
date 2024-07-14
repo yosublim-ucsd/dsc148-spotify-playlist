@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,109 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,167 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Tigrinho](https://open.spotify.com/track/6fORpZeVACbxNYPILlldfZ) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Guerra Neto](https://open.spotify.com/artist/06BpHz4LyxvDFHPYron5jO) | [Tigrinho](https://open.spotify.com/album/05OsrGORxKEKWXziKlgYKV) | 2:00 |
 | 50 | [Como Um Beijo](https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8) | [Como Um Beijo](https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4) | 3:25 |
 
-Snapshot ID: `LiSVGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LiXo8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

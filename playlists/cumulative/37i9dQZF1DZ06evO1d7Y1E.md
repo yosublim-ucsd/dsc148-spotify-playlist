@@ -2,7 +2,7 @@
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
+> This Is Mc Poze do Rodo\. Los temas esenciales, todos en una lista.
 
 58 songs - 3 hr 51 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Thiag\u00e3o, Pregador Luo",
-  "num_followers": 170553,
+  "num_followers": 170603,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -667,18 +667,26 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
+        "name": "Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/1UeoqagDPl2CtvyQ4JtMKc"
       },
       "artists": [
         {
           "name": "Brunno Ramos",
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
-      "duration_ms": 184102,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
+      "duration_ms": 188852,
+      "name": "Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/2hd4gRebmcGg4Tf5akivTg"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -719,6 +727,22 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
+        "name": "Sonhei um Dia",
+        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Sonhei um Dia",
+      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
         "name": "Amor \u00c1gape",
         "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
@@ -743,42 +767,18 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Sonhei um Dia",
-        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Sonhei um Dia",
-      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
-        "name": "Aben\u00e7oado",
-        "url": "https://open.spotify.com/album/1UeoqagDPl2CtvyQ4JtMKc"
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
       },
       "artists": [
         {
           "name": "Brunno Ramos",
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
-      "duration_ms": 188852,
-      "name": "Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/2hd4gRebmcGg4Tf5akivTg"
+      "duration_ms": 184102,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -851,6 +851,30 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
+        "name": "Doming\u00e3o",
+        "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
+      },
+      "artists": [
+        {
+          "name": "Kael",
+          "url": "https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 143114,
+      "name": "Doming\u00e3o",
+      "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
         "name": "A Gl\u00f3ria da Segunda Casa",
         "url": "https://open.spotify.com/album/2OOHzHaoKmp8KRWOv8sOui"
       },
@@ -879,42 +903,18 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Doming\u00e3o",
-        "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
       },
       "artists": [
         {
-          "name": "Kael",
-          "url": "https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         }
       ],
-      "duration_ms": 143114,
-      "name": "Doming\u00e3o",
-      "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
-        "name": "Bra\u00e7o Forte",
-        "url": "https://open.spotify.com/album/3yJlUXevXnAMhtdxLmJl4X"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        }
-      ],
-      "duration_ms": 168112,
-      "name": "Bra\u00e7o Forte",
-      "url": "https://open.spotify.com/track/4rFV6vZRBeot4BBEz4TbZk"
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+        "name": "Bra\u00e7o Forte",
+        "url": "https://open.spotify.com/album/3yJlUXevXnAMhtdxLmJl4X"
       },
       "artists": [
         {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+      "duration_ms": 168112,
+      "name": "Bra\u00e7o Forte",
+      "url": "https://open.spotify.com/track/4rFV6vZRBeot4BBEz4TbZk"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Com Jesus Eu Ganho",
-        "url": "https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u"
-      },
-      "artists": [
-        {
-          "name": "SALMAZO",
-          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Com Jesus Eu Ganho",
-      "url": "https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "My Bro",
         "url": "https://open.spotify.com/album/4zJ01agDEwmu7hPEm9LqzA"
       },
@@ -1071,22 +1055,18 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+        "name": "Com Jesus Eu Ganho",
+        "url": "https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u"
       },
       "artists": [
         {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        },
-        {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+          "name": "SALMAZO",
+          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
         }
       ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+      "duration_ms": 138947,
+      "name": "Com Jesus Eu Ganho",
+      "url": "https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1163,6 +1143,26 @@
       "duration_ms": 208116,
       "name": "Vibe de Crente",
       "url": "https://open.spotify.com/track/50u3Op8SstB8REO0iMCL2w"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+      },
+      "artists": [
+        {
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        },
+        {
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "B\u00edblia no Jeans",
-        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
-      },
-      "artists": [
-        {
-          "name": "Kinho",
-          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "B\u00edblia no Jeans",
-      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "Alvo Mais Que a Neve",
         "url": "https://open.spotify.com/album/2XUFbreYQecQ93Ob5pu3xQ"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 139070,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/1XVAsW855uWEQsSXxcSQNO"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "B\u00edblia no Jeans",
+        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
+      },
+      "artists": [
+        {
+          "name": "Kinho",
+          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "B\u00edblia no Jeans",
+      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1499,42 +1499,42 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Paulo & Silas",
-        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
+        "name": "Fui Liberto",
+        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
       },
       "artists": [
         {
-          "name": "Tutuzin",
-          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
+          "name": "Nicole Gomes",
+          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
         },
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+          "name": "Gospel Beat Brasil",
+          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
         }
       ],
-      "duration_ms": 173222,
-      "name": "Paulo & Silas",
-      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
+      "duration_ms": 153333,
+      "name": "Fui Liberto",
+      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
     },
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Paracetamol (Divisa de Fogo)",
-        "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        },
+        {
+          "name": "DJ Richa",
+          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
         }
       ],
-      "duration_ms": 161701,
-      "name": "Paracetamol (Divisa de Fogo)",
-      "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
+      "duration_ms": 171428,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1559,22 +1559,42 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Meu Primeiro Amor",
-        "url": "https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg"
+        "name": "Paulo & Silas",
+        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+          "name": "Tutuzin",
+          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
         },
         {
-          "name": "Azero",
-          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg"
+      "duration_ms": 173222,
+      "name": "Paulo & Silas",
+      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 187950,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1607,26 +1627,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Fui Liberto",
-        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Gomes",
-          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
-        },
-        {
-          "name": "Gospel Beat Brasil",
-          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Fui Liberto",
-      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "Rasgou o V\u00e9u",
         "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
       },
@@ -1647,24 +1647,8 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 187950,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi"
+        "name": "Paracetamol (Divisa de Fogo)",
+        "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
       },
       "artists": [
         {
@@ -1672,29 +1656,29 @@
           "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
         }
       ],
-      "duration_ms": 120245,
-      "name": "C\u00e9u",
-      "url": "https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI"
+      "duration_ms": 161701,
+      "name": "Paracetamol (Divisa de Fogo)",
+      "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
     },
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
+        "name": "Meu Primeiro Amor",
+        "url": "https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg"
       },
       "artists": [
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
         },
         {
-          "name": "DJ Richa",
-          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
+          "name": "Azero",
+          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+      "duration_ms": 180000,
+      "name": "Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 180000,
       "name": "Cristo Faz a Wave",
       "url": "https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 120245,
+      "name": "C\u00e9u",
+      "url": "https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI"
     },
     {
       "added_at": "2024-07-12 03:01:00",

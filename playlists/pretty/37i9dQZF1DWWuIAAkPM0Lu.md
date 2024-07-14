@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:03IbEiokQjTDfvdyIYV5D4">ida laurberg</a> x <a href="spotify:artist:5FwWkrkqRy9Qmny3vqxYUe">Tina Dickow</a> 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,728 likes - 82 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,733 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 12 | [Astralis](https://open.spotify.com/track/7C7PFBbwFC3e0XQF4utbQX) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [ASTRALIS](https://open.spotify.com/album/5IN3zS8PZ2uabDDKzVqJtS) | 2:36 |
 | 13 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 |
 | 14 | [Giv Mig Lys](https://open.spotify.com/track/3iU6AAryTKjHIF7eJFnb0w) | [mp.oxford](https://open.spotify.com/artist/3NvMrkn2Jw23Z3oCSR3SdD) | [Giv Mig Lys](https://open.spotify.com/album/3LUbZe5oWp0w4hDtvrvz81) | 2:46 |
-| 15 | [Lullaby](https://open.spotify.com/track/0YuLMpdDhj3y0WziwZTiVk) | [Benjamin Lasnier](https://open.spotify.com/artist/3N7RhH3YAHpYa9PC4SGuA0) | [Lullaby](https://open.spotify.com/album/2bXIzyIJmka1mdKrorIbvG) | 2:28 |
+| 15 | [Lullaby](https://open.spotify.com/track/0YuLMpdDhj3y0WziwZTiVk) | [Benjamin Lasnier](https://open.spotify.com/artist/3N7RhH3YAHpYa9PC4SGuA0) | [Lullaby / LoveLoveLove](https://open.spotify.com/album/2bXIzyIJmka1mdKrorIbvG) | 2:28 |
 | 16 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 |
 | 17 | [Move On](https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Move On](https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA) | 3:13 |
 | 18 | [100](https://open.spotify.com/track/0KrdsdaL0mtnRo9maH1xYr) | [Jeys](https://open.spotify.com/artist/50b8LqIHlARTTTV70DfkWe) | [100](https://open.spotify.com/album/5Yu34yUWzrlTr0SxIc9mI6) | 2:44 |

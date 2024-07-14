@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: WIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,770 likes - 114 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,816 likes - 114 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

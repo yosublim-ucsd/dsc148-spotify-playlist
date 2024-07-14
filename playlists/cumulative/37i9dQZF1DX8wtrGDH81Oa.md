@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-287 songs - 14 hr 9 min
+291 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Afterhours](https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V) | [Distoboy](https://open.spotify.com/artist/5zSSGSjrk520cIm34tIVl9) | [Afterhours](https://open.spotify.com/album/5nADnmAxQlymDe79TktjB0) | 2:10 | 2023-11-24 |  |
 | [Aganu](https://open.spotify.com/track/1jHnCxpBLbjRpvnBKQv0Wn) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Aganu](https://open.spotify.com/album/6mNexagJqu1jK84JjxYEYD) | 2:55 | 2022-11-25 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2022-04-15 |  |
+| [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 | 2024-07-14 |  |
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
 | [Amalfi](https://open.spotify.com/track/2BfwEdLt4TWg97w6GBbyRs) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Amalfi](https://open.spotify.com/album/6FmCT0T8CChRDUXJMyhcjI) | 2:28 | 2023-04-21 |  |
 | [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 | 2023-04-14 |  |
@@ -173,6 +174,7 @@
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2022-04-15 | 2023-06-20 |
 | [Mountain High](https://open.spotify.com/track/6KlwKBHBnWTm825JMgR6Ds) | [liily day](https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN) | [Mountain High](https://open.spotify.com/album/6CQfHfGvHqlPjugeC5yVgE) | 2:39 | 2024-02-26 |  |
 | [move over](https://open.spotify.com/track/7rIBhcLO7nWvDuhxhkWXWj) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [move over](https://open.spotify.com/album/5n1V7Kc7BUM5WCFd7fTMdX) | 2:06 | 2024-03-26 |  |
+| [Nature Plucks](https://open.spotify.com/track/75rVcvOseaI1SMZZgcwqSM) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Nature Plucks](https://open.spotify.com/album/4ZaClNu61vJTzuRG7orxBJ) | 2:52 | 2024-07-14 |  |
 | [New Horizon](https://open.spotify.com/track/5FAKB08xt0bFpcPmqlZ3iP) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [New Horizon](https://open.spotify.com/album/76kOvwW3oYtzslnhGBkmqs) | 2:41 | 2024-06-11 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 |  |
 | [nightlife](https://open.spotify.com/track/7atU7r3R9tYis2RZEHgXpx) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [nightlife](https://open.spotify.com/album/6Ydjw4eDdTCFMHiK41q8tm) | 3:39 | 2022-11-25 |  |
@@ -189,6 +191,7 @@
 | [Palm Tree](https://open.spotify.com/track/6nalAQtGzYV2PGBdHLrz9p) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Palm Tree](https://open.spotify.com/album/1iQXVdRUs2eJ0wDwpvStIl) | 5:48 | 2022-04-15 | 2022-08-19 |
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-04-15 | 2023-04-07 |
 | [Paradisio](https://open.spotify.com/track/7GbmFwC2i0P5kqkDdMPmhz) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Paradisio](https://open.spotify.com/album/4E6olUhJDgeSKnXPDTsTd7) | 2:51 | 2022-04-15 | 2022-05-11 |
+| [Parasol](https://open.spotify.com/track/07iih2ReFv0Fjs5bftyMCq) | [Zeyn Mont](https://open.spotify.com/artist/0lySKTNxvsJvalP2ByB507) | [Parasol](https://open.spotify.com/album/2FI6aZ9bzMr9YEs06BVLSL) | 2:15 | 2024-07-14 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-15 |  |
 | [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2022-04-15 | 2023-06-20 |
 | [Phase Off](https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Phase Off EP](https://open.spotify.com/album/2iEyHd5HSBeKQlRpHZMnar) | 3:32 | 2022-04-15 | 2023-06-20 |
@@ -285,6 +288,7 @@
 | [Vienna](https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Vienna](https://open.spotify.com/album/0yvjAGN26SS2v1GeCiySAu) | 2:51 | 2022-06-17 |  |
 | [Vows](https://open.spotify.com/track/3YM22gJuH8VgRP59PbNyV1) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Vows](https://open.spotify.com/album/2Uh8FuQj3xWmCOvYImInB3) | 2:17 | 2022-07-22 |  |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2022-04-15 |  |
+| [We are all set](https://open.spotify.com/track/4Ur74ub8L8gsi9l7nC71NB) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [We are all set](https://open.spotify.com/album/5heDEgf9pKFcrhzVinMs1M) | 2:55 | 2024-07-14 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-04-15 |  |
 | [When the lights are out](https://open.spotify.com/track/0dHjcYFbChsnfp1gD1leue) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Night Vibes](https://open.spotify.com/album/2MJHtNfn9mlrogJJ7seBJO) | 2:40 | 2022-08-19 |  |
 | [When We Were Suns](https://open.spotify.com/track/51LgENjsl5N0jRYYBSOT0R) | [Uki Luki](https://open.spotify.com/artist/34Uphq1taQuTAZxXEOiVjp) | [When We Were Suns](https://open.spotify.com/album/5Bp6FT43h0t2qI3X0ayuT1) | 4:15 | 2022-04-15 | 2022-07-08 |

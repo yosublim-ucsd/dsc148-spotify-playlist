@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > hey swifties, ci vediamo questo weekend a san siro? 🦋🌟👗🧣🏙🐍💘🪩🍷✨🖊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,988 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,199 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

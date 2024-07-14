@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,899 songs - 4 day 11 hr 42 min
+1,900 songs - 4 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2024-01-05 | 2024-01-28 |
 | [Dance Tonight](https://open.spotify.com/track/5V0nDLCWc9j2Sl38eg87SZ) | [Smith & Sorren](https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A), [Jaymalina](https://open.spotify.com/artist/4UkH5E9SoHWdIIpmlBAcvb) | [Dance Tonight](https://open.spotify.com/album/6HJVtfxGUMvRLv1u7rB4F0) | 3:20 | 2023-12-16 | 2023-12-23 |
 | [Dance with Me](https://open.spotify.com/track/1twGsEDffBMQ5zoftqG1Lw) | [Mirko Di Florio](https://open.spotify.com/artist/4B9TNYzqv1ClVclflVWMic) | [Dance with Me](https://open.spotify.com/album/6n5gAyPw5RcOalTYLogKoQ) | 3:20 | 2023-01-13 | 2023-01-22 |
+| [Dance With You](https://open.spotify.com/track/5dpzswkHtHBQdBuXz5TJqW) | [Brainwreck](https://open.spotify.com/artist/75sHHShEfaCIc74cP4gVWk) | [Dance With You](https://open.spotify.com/album/2w3FqJMpVWGQdb4G5UuCtv) | 2:18 | 2024-07-13 |  |
 | [Dancefloor](https://open.spotify.com/track/4JNKU2FqqmCiSESJkl4Jnx) | [Promise Land](https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW) | [Dancefloor](https://open.spotify.com/album/5CwckvXFNzKTSKGQjdgewn) | 3:41 | 2023-09-15 | 2023-09-23 |
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-09-08 | 2023-09-16 |
 | [Dancing In The Dark](https://open.spotify.com/track/5gpRsnKyHiP3UbA6gc0we8) | [Reverbate](https://open.spotify.com/artist/28mV8D13MSDEvlzCwTnqLS) | [Dancing In The Dark](https://open.spotify.com/album/4vbuMK0F24xZ6H7pvxcHmO) | 3:38 | 2022-06-04 | 2022-06-25 |

@@ -4,7 +4,7 @@
 
 > 
 
-1,502 songs - 3 day 9 hr 53 min
+1,503 songs - 3 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,6 +1220,7 @@
 | [Summer Secrets](https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [Summer Secrets](https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6) | 3:17 | 2023-04-21 |  |
 | [Summer SZN](https://open.spotify.com/track/4UtWFn5sFfQUT8xbYbjTwU) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [Summer SZN](https://open.spotify.com/album/7LkbdAPrjF6WZocfiVxqCm) | 2:53 | 2024-04-05 |  |
 | [Sunrise](https://open.spotify.com/track/2J9ttXlJoW4yo0eSH8asIf) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Sunrise](https://open.spotify.com/album/0Epjh2uppKZdPz2ooy7svA) | 3:34 | 2024-04-01 |  |
+| [SUNRISE](https://open.spotify.com/track/58TysJF02YhYfil4RZCYNF) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Strictly Business](https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1), [Teal](https://open.spotify.com/artist/1rZTUrXEHSOC6Q5nn3484A) | [SUNRISE](https://open.spotify.com/album/5dropy21yZ1x5VBmYu6ca1) | 2:46 | 2024-07-14 |  |
 | [Sunset](https://open.spotify.com/track/08a3cM7fEDeNawtydaxuOi) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Sunset](https://open.spotify.com/album/7irIrFNmusLs4zBtAImJe4) | 3:08 | 2023-06-02 |  |
 | [SUPER LIBRARIES](https://open.spotify.com/track/20LhBIsrznZeBUwJ3eqeRu) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [HiTNEX\-X](https://open.spotify.com/artist/6gtzMTR0gRV6BYYyo0z7AN) | [SUPER KEY GENERATOR](https://open.spotify.com/album/0QQVwPaGD5Vr33bYXy60lY) | 3:08 | 2023-05-02 |  |
 | [Super Nova](https://open.spotify.com/track/76mCCIqDCMZVAvkLB8QNNF) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i), [iMeiden](https://open.spotify.com/artist/7zWpS8VvVTkIb7oWP3scCQ) | [Bright Green](https://open.spotify.com/album/0G8zdiHMaxQRWJu1JzzS6N) | 3:13 | 2022-02-22 |  |

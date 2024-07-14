@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 478195,
+  "num_followers": 478208,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
-      },
-      "artists": [
-        {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "La lettre",
-      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
         "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
         "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 207040,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
         "name": "Chambre 12",
         "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 185280,
       "name": "Avenir - Radio Edit",
       "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2024-05-28 13:20:54",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-05-28 13:20:54",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Help Myself (Nous Ne Faisons Que Passer)",
-      "url": "https://open.spotify.com/track/2bwbKylFWjIeRNVuUWdYFN"
-    },
-    {
-      "added_at": "2024-05-28 13:20:54",
-      "album": {
         "name": "Calog3ro",
         "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 268746,
       "name": "Place des grands hommes",
       "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
+    },
+    {
+      "added_at": "2024-05-28 13:20:54",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Help Myself (Nous Ne Faisons Que Passer)",
+      "url": "https://open.spotify.com/track/2bwbKylFWjIeRNVuUWdYFN"
     },
     {
       "added_at": "2024-05-28 13:20:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,395 likes - 104 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,404 likes - 104 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 71 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 |
 | 72 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
 | 73 | [Party All The Time](https://open.spotify.com/track/1bEffCg7FCiWpTmDngK47T) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Party All The Time](https://open.spotify.com/album/12ee2m0pKTOW53V7kAfh2q) | 3:05 |
-| 74 | [Wieviel kostet eine Träne 💧](https://open.spotify.com/track/7imzSIOY954XHmkCVNQGbz) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Wieviel kostet eine Träne 💧](https://open.spotify.com/album/365QPJNTJU5FCJmsVFFQuw) | 2:08 |
+| 74 | [Wie viel kostet eine Träne 💧](https://open.spotify.com/track/7imzSIOY954XHmkCVNQGbz) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Wie viel kostet eine Träne 💧](https://open.spotify.com/album/365QPJNTJU5FCJmsVFFQuw) | 2:08 |
 | 75 | [Let You Go](https://open.spotify.com/track/3RqPJp2pcpynzspWEr4CIY) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Let You Go](https://open.spotify.com/album/4V9exvbjEuYT1opPXYcBdx) | 2:22 |
 | 76 | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa) | 3:03 |
 | 77 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 85 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 |
 | 86 | [Find A Way \(feat\. Suli Breaks\)](https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Find A Way \(feat\. Suli Breaks\)](https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW) | 3:02 |
 | 87 | [Nie betrunken schreiben !!!!](https://open.spotify.com/track/4PEpN6SoOYPMLIHeM4Kks0) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Nie betrunken schreiben !!!!](https://open.spotify.com/album/3XjPWj6iBM8mz3VKoxAHUD) | 2:24 |
-| 88 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
+| 88 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
 | 89 | [Kill The Lonely](https://open.spotify.com/track/09umJrRF0nvpGuar0OIRoc) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Kill The Lonely](https://open.spotify.com/album/52crtY5BcHSeO2Oq8mFiIs) | 3:18 |
 | 90 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
 | 91 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 |

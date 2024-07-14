@@ -77,6 +77,42 @@
     },
     {
       "album": {
+        "name": "a million oceans",
+        "url": "https://open.spotify.com/album/6jzVLccbqo1TxYBgnyOvGH"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168107,
+      "name": "a million oceans",
+      "url": "https://open.spotify.com/track/6IwiV73LesH8azaGFVDVyv"
+    },
+    {
+      "album": {
+        "name": "A Secret Spot",
+        "url": "https://open.spotify.com/album/3ZmAOJdDscZeVtthloHuiZ"
+      },
+      "artists": [
+        {
+          "name": "Portal Plan",
+          "url": "https://open.spotify.com/artist/01yE7EbTF9j8IQAN0VA1Wi"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137027,
+      "name": "A Secret Spot",
+      "url": "https://open.spotify.com/track/6HgcrhhE8h1NWz6iON5cuC"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd"
       },
@@ -92,6 +128,24 @@
       "duration_ms": 135636,
       "name": "A Silver Lining",
       "url": "https://open.spotify.com/track/1f5neDqYLk7K0ocvlbbbWF"
+    },
+    {
+      "album": {
+        "name": "A Timeless Moment",
+        "url": "https://open.spotify.com/album/4jLbk2NEnD0eSi52a2URVq"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155103,
+      "name": "A Timeless Moment",
+      "url": "https://open.spotify.com/track/24BgHz19CZcbSkDzHRwWER"
     },
     {
       "album": {
@@ -236,6 +290,24 @@
       "duration_ms": 136601,
       "name": "Airglow",
       "url": "https://open.spotify.com/track/3YMYq87kCu0qFlqtof3q8E"
+    },
+    {
+      "album": {
+        "name": "All across the Globe",
+        "url": "https://open.spotify.com/album/13uxP2KvlBtwe08xh7eFvM"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157607,
+      "name": "All across the Globe",
+      "url": "https://open.spotify.com/track/45wivOLIh3TwUciPUMPN0W"
     },
     {
       "album": {
@@ -873,6 +945,24 @@
     },
     {
       "album": {
+        "name": "behind the line",
+        "url": "https://open.spotify.com/album/2UldJ69I6v0AJCCfdR5nXb"
+      },
+      "artists": [
+        {
+          "name": "Haltura Arnadottir",
+          "url": "https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "behind the line",
+      "url": "https://open.spotify.com/track/19jSDyt7tXlyQD8ezMNhds"
+    },
+    {
+      "album": {
         "name": "Clear Language",
         "url": "https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T"
       },
@@ -924,6 +1014,24 @@
       "duration_ms": 162479,
       "name": "bewildered",
       "url": "https://open.spotify.com/track/3YszK66xCFReY90ys3jP6o"
+    },
+    {
+      "album": {
+        "name": "Beyond the Horizon",
+        "url": "https://open.spotify.com/album/1O9EJgkynNkGesK9E4XPXn"
+      },
+      "artists": [
+        {
+          "name": "Polar Desert",
+          "url": "https://open.spotify.com/artist/60nt5g7LSpkK5WvFushwsg"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142312,
+      "name": "Beyond the Horizon",
+      "url": "https://open.spotify.com/track/4tv08WgmJDOuwsVw7F2MJ7"
     },
     {
       "album": {
@@ -1490,6 +1598,24 @@
       "duration_ms": 153112,
       "name": "Burleson, TX",
       "url": "https://open.spotify.com/track/3E9oQBH768xYj5YuZ9WIH7"
+    },
+    {
+      "album": {
+        "name": "buzzwords",
+        "url": "https://open.spotify.com/album/1RimGDzGR1e4g2G05mxS6h"
+      },
+      "artists": [
+        {
+          "name": "Tall Towers",
+          "url": "https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168881,
+      "name": "buzzwords",
+      "url": "https://open.spotify.com/track/1PofF2jadGOzUdq8b0Oh8t"
     },
     {
       "album": {
@@ -4017,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/1flOVF904j5QpmdTNtRIbf"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148458,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/3uALD35YHxjpwELVEYbMOU"
+    },
+    {
+      "album": {
         "name": "Mind games",
         "url": "https://open.spotify.com/album/3LRCWo4BAlXhTnbc2FFpbk"
       },
@@ -5497,6 +5641,24 @@
     },
     {
       "album": {
+        "name": "Juneau",
+        "url": "https://open.spotify.com/album/5ZMPRlBendagy0WbmPjCLs"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Juneau",
+      "url": "https://open.spotify.com/track/0mWbY7Dev7yg5ZRfaUMoK1"
+    },
+    {
+      "album": {
         "name": "Junifer",
         "url": "https://open.spotify.com/album/7p1Aod0Uxw4Mc1lJQ47ixQ"
       },
@@ -5674,6 +5836,24 @@
       "duration_ms": 173255,
       "name": "Las Violetas",
       "url": "https://open.spotify.com/track/0e6hnhvUX5KpXdemJtdkuk"
+    },
+    {
+      "album": {
+        "name": "Last Days of Summer",
+        "url": "https://open.spotify.com/album/3d2pMgpfiojbm4sQTTLeGP"
+      },
+      "artists": [
+        {
+          "name": "Montague Sound Lab",
+          "url": "https://open.spotify.com/artist/5auPQl53Vi2cQMqkKjhxAe"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167110,
+      "name": "Last Days of Summer",
+      "url": "https://open.spotify.com/track/23SCGnQIcRJPs35tI5JQsD"
     },
     {
       "album": {
@@ -6469,6 +6649,24 @@
     },
     {
       "album": {
+        "name": "Matter of Facts",
+        "url": "https://open.spotify.com/album/24SjvgdCTOxMGhiJ2vftjv"
+      },
+      "artists": [
+        {
+          "name": "Niveous",
+          "url": "https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187683,
+      "name": "Matter of Facts",
+      "url": "https://open.spotify.com/track/516ueJ433DvtNtARecOzkF"
+    },
+    {
+      "album": {
         "name": "NAIT",
         "url": "https://open.spotify.com/album/1sTfSpdRjN1B4JGRkugZej"
       },
@@ -6502,6 +6700,24 @@
       "duration_ms": 188919,
       "name": "Me, My Brother, the Sunset",
       "url": "https://open.spotify.com/track/1qT2lYDnB1VrwA2Nz1tl2y"
+    },
+    {
+      "album": {
+        "name": "Meadows",
+        "url": "https://open.spotify.com/album/4bGesTzW1f6jZN5oMAGBuB"
+      },
+      "artists": [
+        {
+          "name": "Halcyon",
+          "url": "https://open.spotify.com/artist/6uKnnABqlxCnC40GjvgkP1"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173618,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/02ssEFV2TFLeNo5KZivt0W"
     },
     {
       "album": {
@@ -6977,6 +7193,24 @@
     },
     {
       "album": {
+        "name": "Mountain Tops",
+        "url": "https://open.spotify.com/album/3Lg7K7vbyYHvQUn08HmnR7"
+      },
+      "artists": [
+        {
+          "name": "Agnes Lundh",
+          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179489,
+      "name": "Mountain Tops",
+      "url": "https://open.spotify.com/track/3IdMFnguTvZQXYgky9xFUj"
+    },
+    {
+      "album": {
         "name": "My World Is Changing",
         "url": "https://open.spotify.com/album/4cugHOMPDn5NlDijNiSXCf"
       },
@@ -7319,6 +7553,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/3rhyGeZdj1chwYFoq1nvMs"
+      },
+      "artists": [
+        {
+          "name": "Savione",
+          "url": "https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123066,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5TNwSw69tLLBS330aaAXo2"
+    },
+    {
+      "album": {
         "name": "Dawning",
         "url": "https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh"
       },
@@ -7424,6 +7676,24 @@
       "duration_ms": 103177,
       "name": "Nuraxi",
       "url": "https://open.spotify.com/track/0jgfH1TWoXIC0Qk5x0Uerw"
+    },
+    {
+      "album": {
+        "name": "Objectives",
+        "url": "https://open.spotify.com/album/1qzmak9oiFxLYWqRYJOnjG"
+      },
+      "artists": [
+        {
+          "name": "Imala Zir",
+          "url": "https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177624,
+      "name": "Objectives",
+      "url": "https://open.spotify.com/track/3qsd9hDguLgfOh8C7v95tH"
     },
     {
       "album": {
@@ -7640,6 +7910,24 @@
       "duration_ms": 282677,
       "name": "Opening the Gates",
       "url": "https://open.spotify.com/track/0JqBTf4ImzOf3TNR5wgefk"
+    },
+    {
+      "album": {
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/5irMonX20bXIAKdNoX4JPK"
+      },
+      "artists": [
+        {
+          "name": "Skeru",
+          "url": "https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Oracle",
+      "url": "https://open.spotify.com/track/1tm6URF161bSIZvr2N0N67"
     },
     {
       "album": {
@@ -9267,6 +9555,24 @@
     },
     {
       "album": {
+        "name": "Sierra Madre",
+        "url": "https://open.spotify.com/album/73Xp6fBw0t30gR2s5bMHLf"
+      },
+      "artists": [
+        {
+          "name": "Jaimie Escalera",
+          "url": "https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139426,
+      "name": "Sierra Madre",
+      "url": "https://open.spotify.com/track/3iEbEWizH6wbeKzop4Yz6b"
+    },
+    {
+      "album": {
         "name": "Sightings",
         "url": "https://open.spotify.com/album/2eFYrjiNHYBvkz1DPa2ffx"
       },
@@ -9570,6 +9876,24 @@
       "duration_ms": 151916,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/6zTbtySCRStJOv5xA4XvRE"
+    },
+    {
+      "album": {
+        "name": "So I've Heard",
+        "url": "https://open.spotify.com/album/2nrIW5EOv6BNhvJMq6TyUm"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky",
+          "url": "https://open.spotify.com/artist/6DH3SvRzxgISukfWiREIre"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184261,
+      "name": "So I've Heard",
+      "url": "https://open.spotify.com/track/3Ze8fdUddv5DCVoqHkoumS"
     },
     {
       "album": {
@@ -9944,7 +10268,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 195270,
       "name": "Status Update",
       "url": "https://open.spotify.com/track/5n3dl9d3unwH31VgeyJpX0"
@@ -10182,6 +10506,24 @@
       "duration_ms": 169687,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/0tgMoWV59lNPjuenr5mqvt"
+    },
+    {
+      "album": {
+        "name": "Sunset Lake",
+        "url": "https://open.spotify.com/album/0uvhMpXODkLIPRkRpujnu9"
+      },
+      "artists": [
+        {
+          "name": "Stellar Luminous",
+          "url": "https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134773,
+      "name": "Sunset Lake",
+      "url": "https://open.spotify.com/track/2xqU2c2BdHhKpDMHCK8I2f"
     },
     {
       "album": {
@@ -10492,6 +10834,24 @@
       "duration_ms": 194000,
       "name": "The Chosen One",
       "url": "https://open.spotify.com/track/3Jd4MNurRgeTF61GpVTIpb"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/4eau6pH7JuzenMV9UzJFDM"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166024,
+      "name": "The Collection",
+      "url": "https://open.spotify.com/track/1fcLdpNHknoDarCIFj21du"
     },
     {
       "album": {
@@ -11327,6 +11687,24 @@
     },
     {
       "album": {
+        "name": "time to call",
+        "url": "https://open.spotify.com/album/6GU8rSb9uYC3OwTAXDJ1z7"
+      },
+      "artists": [
+        {
+          "name": "Dreams Ahead",
+          "url": "https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165087,
+      "name": "time to call",
+      "url": "https://open.spotify.com/track/4YN4jJWuq6gg5xpsLvomj3"
+    },
+    {
+      "album": {
         "name": "Rooftops",
         "url": "https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa"
       },
@@ -11598,6 +11976,24 @@
       "duration_ms": 175090,
       "name": "Undeniable",
       "url": "https://open.spotify.com/track/3aQlVIegX4nPS2igYBFllB"
+    },
+    {
+      "album": {
+        "name": "under different circumstances",
+        "url": "https://open.spotify.com/album/6yw2NvGu3abomj4Jl74NVr"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky",
+          "url": "https://open.spotify.com/artist/6DH3SvRzxgISukfWiREIre"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185633,
+      "name": "under different circumstances",
+      "url": "https://open.spotify.com/track/30p8UwlOKRisHMdIsPm2oB"
     },
     {
       "album": {
@@ -12231,6 +12627,24 @@
     },
     {
       "album": {
+        "name": "What's New?",
+        "url": "https://open.spotify.com/album/3W1K9U1ZQOWZV5xgPhV2oB"
+      },
+      "artists": [
+        {
+          "name": "Niveous",
+          "url": "https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "What's New?",
+      "url": "https://open.spotify.com/track/7tKykwFj1C5Qe0q52vwtNr"
+    },
+    {
+      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF"
       },
@@ -12718,6 +13132,24 @@
       "duration_ms": 179000,
       "name": "You\u2019re So Very Far Away",
       "url": "https://open.spotify.com/track/6IhFOgNP7YeQ3PoI8kcRLn"
+    },
+    {
+      "album": {
+        "name": "Zenith",
+        "url": "https://open.spotify.com/album/1OHHeEpsoOVNDvVF9tFr24"
+      },
+      "artists": [
+        {
+          "name": "We, the Navigators",
+          "url": "https://open.spotify.com/artist/2yD5ItKzHsyWvV4PKWBNND"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/2X723VEq2bLRKj188wFNl2"
     },
     {
       "album": {

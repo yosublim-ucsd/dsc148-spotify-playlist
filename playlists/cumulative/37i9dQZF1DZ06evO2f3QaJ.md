@@ -2,7 +2,7 @@
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. The essential tracks, all in one playlist.
+> This is: Zudizilla\. Alle wichtigen Tracks in einer Playlist.
 
 69 songs - 4 hr 15 min
 

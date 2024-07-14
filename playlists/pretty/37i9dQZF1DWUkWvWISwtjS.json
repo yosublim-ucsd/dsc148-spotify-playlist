@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 442479,
+  "num_followers": 442469,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Made In Studio",
         "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Ant\u00eddoto - Ao Vivo",
+      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Ant\u00eddoto - Ao Vivo",
-      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Quem Ensinou Fui Eu",
         "url": "https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH"
       },
@@ -951,26 +951,6 @@
       "duration_ms": 151082,
       "name": "Quem Ensinou Fui Eu",
       "url": "https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Ele N\u00e3o Tem",
-        "url": "https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy"
-      },
-      "artists": [
-        {
-          "name": "Jonas Esticado",
-          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 212192,
-      "name": "Ele N\u00e3o Tem",
-      "url": "https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -991,6 +971,26 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ele N\u00e3o Tem",
+        "url": "https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy"
+      },
+      "artists": [
+        {
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 212192,
+      "name": "Ele N\u00e3o Tem",
+      "url": "https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Surra de Cama",
-        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 178216,
-      "name": "Surra de Cama",
-      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Short Jeans (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 180500,
       "name": "Short Jeans - Ao Vivo",
       "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Surra de Cama",
+        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 178216,
+      "name": "Surra de Cama",
+      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "De Copo Em Copo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 153756,
       "name": "Segue O Plano - Ao Vivo",
       "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 152778,
-      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Esquece de Me Esquecer",
         "url": "https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 180905,
       "name": "Esquece de Me Esquecer",
       "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
+        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 152778,
+      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
+      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
     },
     {
       "added_at": "2023-10-13 11:44:55",

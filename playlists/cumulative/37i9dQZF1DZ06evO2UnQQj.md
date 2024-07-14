@@ -2,7 +2,7 @@
 
 ### [This Is Clara Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UnQQj)
 
-> This is Clara Lima\. The essential tracks, all in one playlist.
+> This is Clara Lima\. Track\-track unggulan, semuanya dalam satu playlist.
 
 86 songs - 4 hr 53 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,267 likes - 105 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,270 likes - 105 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

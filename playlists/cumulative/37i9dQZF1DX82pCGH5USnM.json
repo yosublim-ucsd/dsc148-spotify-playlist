@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/5bYFENIUCQ3YJt5v0f2BSD"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133541,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/5Z14IXjRGU5EMmh8xFzj3g"
+    },
+    {
+      "album": {
         "name": "Classic Trick Remixes",
         "url": "https://open.spotify.com/album/3dt8hfbp81UuduKrLSKGCA"
       },
@@ -2646,6 +2664,24 @@
       "duration_ms": 406539,
       "name": "Connectivity Dub",
       "url": "https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47"
+    },
+    {
+      "album": {
+        "name": "cookie crumbs",
+        "url": "https://open.spotify.com/album/763bZkMX3tLOULMzPfsRYY"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151625,
+      "name": "cookie crumbs",
+      "url": "https://open.spotify.com/track/3Kw2Aj0lEPnCXbkOWXdKTP"
     },
     {
       "album": {
@@ -6998,6 +7034,24 @@
       "duration_ms": 167008,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/2ift2AgfPD8mCOjxIfg58t"
+    },
+    {
+      "album": {
+        "name": "limoncello sorbet",
+        "url": "https://open.spotify.com/album/7iVGCtCT75oWAEH4pLVuWG"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "limoncello sorbet",
+      "url": "https://open.spotify.com/track/4wL1KCrkyI3h7B3313xl9q"
     },
     {
       "album": {
@@ -12338,6 +12392,24 @@
       "duration_ms": 303422,
       "name": "Sundrops",
       "url": "https://open.spotify.com/track/52IP2gussRMFDPay7Ww5xv"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3bkMvNfEsMOGSKkiB1UGwD"
+      },
+      "artists": [
+        {
+          "name": "Peqasus",
+          "url": "https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123260,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0CXDewCNTSPql9OhPtLkS2"
     },
     {
       "album": {

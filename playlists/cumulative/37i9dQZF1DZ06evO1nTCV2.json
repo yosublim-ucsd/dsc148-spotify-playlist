@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Sin City (Live from Bensalem, PA. 2023)",
+        "url": "https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211713,
+      "name": "Sin City - Live from Bensalem, PA. 2023",
+      "url": "https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj"
+    },
+    {
+      "album": {
         "name": "Rock N Roll",
         "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },

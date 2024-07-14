@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 169000,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/7Bsto1OgpD4l41Ag2iZf6R"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 125300,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/4jF0w3rpoQki2asXn2N2Aa"
@@ -4130,6 +4130,32 @@
       "duration_ms": 161995,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/7FamXhIzUQfZksaeBVLyxg"
+    },
+    {
+      "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/0GFW4pgmxE3yX0zwzUa2CU"
+      },
+      "artists": [
+        {
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        },
+        {
+          "name": "Majesto",
+          "url": "https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI"
+        },
+        {
+          "name": "Beachlife",
+          "url": "https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116166,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/0FSQnNreMgesQQOMF1IVae"
     },
     {
       "album": {
@@ -4515,6 +4541,28 @@
     },
     {
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/1ZwbE0LzvhUrMAQHyQ6GRi"
+      },
+      "artists": [
+        {
+          "name": "Viva La Panda",
+          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+        },
+        {
+          "name": "Her Majesty",
+          "url": "https://open.spotify.com/artist/4a8Lrkd7Ca9gdqytlXXU6X"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126285,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/0aLMSHpqhgKWZGtMLgK1G8"
+    },
+    {
+      "album": {
         "name": "Kiss Me Girl",
         "url": "https://open.spotify.com/album/46opZlguyLrMQkXVW5GXec"
       },
@@ -4718,7 +4766,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 165000,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/3owgz3c95U6wdY3TlSdknQ"
@@ -5669,6 +5717,24 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/6FTTNTI66J6TDulSeVwYbO"
+      },
+      "artists": [
+        {
+          "name": "Muted Mind",
+          "url": "https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/1Rlsm9AnDtAK4g7WeXcNw5"
+    },
+    {
+      "album": {
         "name": "Make It Up To You",
         "url": "https://open.spotify.com/album/3mqqgH5xFQva15hTeR2i5R"
       },
@@ -5944,7 +6010,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 166451,
       "name": "Missing You Tonight",
       "url": "https://open.spotify.com/track/5iwBlTItm9brcyD9gkd95x"
@@ -6344,10 +6410,32 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 150000,
       "name": "Now I'm Gone",
       "url": "https://open.spotify.com/track/15hgvY0km8TmpJbFLe9X7k"
+    },
+    {
+      "album": {
+        "name": "Nowhere To Go",
+        "url": "https://open.spotify.com/album/64xMBNeyIilz6sU5GGFhwr"
+      },
+      "artists": [
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        },
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Nowhere To Go",
+      "url": "https://open.spotify.com/track/4xSQow8DRpIJZCjqyvXKDM"
     },
     {
       "album": {
@@ -6656,7 +6744,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 141774,
       "name": "Over You",
       "url": "https://open.spotify.com/track/1ug22meh3YgHra1l314WLA"
@@ -6752,7 +6840,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 177096,
       "name": "Persephone",
       "url": "https://open.spotify.com/track/5JHr64NGbfzD8pj8o5BQ2g"
@@ -7656,7 +7744,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 162580,
       "name": "Smell The Roses",
       "url": "https://open.spotify.com/track/7nQ74Lp7FvDTCzmP4CXzpy"
@@ -7768,7 +7856,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 129050,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/7EkqgNhGFI93Qqiv9099q5"
@@ -9140,7 +9228,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 158571,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6FpR4RVPTLP7BHVca9Lkve"
@@ -9431,6 +9519,28 @@
     },
     {
       "album": {
+        "name": "When You Say Nothing At All",
+        "url": "https://open.spotify.com/album/67zfrviWrmvLtJYSv78qAd"
+      },
+      "artists": [
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        },
+        {
+          "name": "Daniel Santoro",
+          "url": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0QHaoHqQjO5mOnQS0J4Siq"
+    },
+    {
+      "album": {
         "name": "Where Do I Go From Here",
         "url": "https://open.spotify.com/album/2lXM51nk4xyrKOT5afJl9X"
       },
@@ -9626,7 +9736,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 191050,
       "name": "Will You Be Mine",
       "url": "https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz"
@@ -9882,7 +9992,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-14",
       "duration_ms": 203225,
       "name": "You Might",
       "url": "https://open.spotify.com/track/1oinzBaNm1f9ekaMB3dfKs"
@@ -9974,6 +10084,28 @@
       "duration_ms": 153466,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/2esaWj2n6a6u8lgJTHErlH"
+    },
+    {
+      "album": {
+        "name": "Your Love's Not Wasted",
+        "url": "https://open.spotify.com/album/6a92sVEH9NRJWTpLbJfO9L"
+      },
+      "artists": [
+        {
+          "name": "Jako Diaz",
+          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
+        },
+        {
+          "name": "Jakke",
+          "url": "https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240018,
+      "name": "Your Love's Not Wasted",
+      "url": "https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR"
     },
     {
       "album": {

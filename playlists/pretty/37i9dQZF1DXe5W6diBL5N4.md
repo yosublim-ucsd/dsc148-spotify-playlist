@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEYEON\(태연\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,257 likes - 317 songs - 17 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,368 likes - 317 songs - 17 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 14 | [Rainy Day](https://open.spotify.com/track/1M6C1J4oiKAPYIIQyIviuS) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [Rainy Day](https://open.spotify.com/album/7fJpKAM1OhyCwOW62xRIh4) | 3:48 |
 | 15 | [Love Is](https://open.spotify.com/track/6iadtKn1Kn1hKz7f08qyKB) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [Love Is](https://open.spotify.com/album/4dTEoB1OHXAhRpRlpEhiCL) | 3:47 |
 | 16 | [SUNCREAM](https://open.spotify.com/track/0EdcMqGtgRNN6qaJkt1fhm) | [suvi](https://open.spotify.com/artist/7LL9jFoJ9wdQYIst4Z5e8v) | [SUNCREAM](https://open.spotify.com/album/6MTiFtlWaHxaIuDXgxUAPc) | 3:19 |
-| 17 | [My Soul is A Wasteland](https://open.spotify.com/track/580nGvjr9i8z8NjVAe2e8v) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Wasteland 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/2NSXYtnc9HwWTOUuieCIhw) | 5:52 |
+| 17 | [My Soul is A Wasteland](https://open.spotify.com/track/580nGvjr9i8z8NjVAe2e8v) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [My Soul is A Wasteland〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/2NSXYtnc9HwWTOUuieCIhw) | 5:52 |
 | 18 | [T.P.O](https://open.spotify.com/track/31s5a2hYqlmZrMmehWghop) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [T.P.O](https://open.spotify.com/album/12vGwyaO2JGjox5fKiAteN) | 3:13 |
 | 19 | [Serious](https://open.spotify.com/track/4nzNbC3d0LGPQ0g814BftR) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Serious](https://open.spotify.com/album/56Xd5wZcEsTF32XuuCVNcj) | 3:06 |
 | 20 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 |
@@ -208,7 +208,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 198 | [Don't go](https://open.spotify.com/track/48IIgUXrdpKkr14AWVZWWj) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Beauty and Romantic OST Part.14 \(Soundtrack\)](https://open.spotify.com/album/4FQB7B9yL8vGejVJ8qeTSQ) | 3:56 |
 | 199 | [Star](https://open.spotify.com/track/0y76u5wVRMVHPsrshJ9MeB) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Dreaming of a Freaking Fairy Tale, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/46Ckepk3wqEXyJ8QjVgAuV) | 4:09 |
 | 200 | [Sunbed](https://open.spotify.com/track/6IoGyWorMf9VWq8jzCMh9G) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Sunbed](https://open.spotify.com/album/5bUB20XzixElq7N7lIcL1L) | 2:51 |
-| 201 | [Do You Think It's Love?](https://open.spotify.com/track/10PhUdvs3IAiTtnPPowjAV) | [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Playlist Vol\. 1](https://open.spotify.com/album/0z6WZO4TBJQaL3I6hZTLyi) | 2:52 |
+| 201 | [Do You Think It's Love?](https://open.spotify.com/track/10PhUdvs3IAiTtnPPowjAV) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Playlist Vol\. 1](https://open.spotify.com/album/0z6WZO4TBJQaL3I6hZTLyi) | 2:52 |
 | 202 | [Remained scent \- Band Version](https://open.spotify.com/track/6wFJ3brL7FkAnlraTIlPrA) | [Option](https://open.spotify.com/artist/0vRLS4Q68chVJeEGar8342) | [Remained scent](https://open.spotify.com/album/0SrE9P5BBqGET3aN3aO0Pp) | 3:15 |
 | 203 | [Bye bye my old days](https://open.spotify.com/track/40AvTbZtMwmwaxH8rhHGld) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [Bye bye my old days](https://open.spotify.com/album/6iwh9tmGbZ7fSZbT77jldf) | 3:02 |
 | 204 | [The Night Hat Embroidered You \(Feat\. EunByeol\)](https://open.spotify.com/track/3XXcSHqaBTWOhOIdVv6WaP) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [The Night Hat Embroidered You \(Feat\. EunByeol\)](https://open.spotify.com/album/7vaSexoqn1YNaDI1xjY2Bs) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,096 likes - 80 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,282 likes - 80 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 10 | [Honest](https://open.spotify.com/track/14tG1j1nDdzXFWm3w5fc0C) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 4:33 |
 | 11 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
 | 12 | [It Is So](https://open.spotify.com/track/7rVrwI6qusX75vKxGK2dyv) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0TBqCB0ewjzi2eYmCJuFpq) | 5:50 |
-| 13 | [Driven by Love \(Live\)](https://open.spotify.com/track/181meJmk2QVQJnPsagVreh) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Driven by Love \(Live\)](https://open.spotify.com/album/4hJ17XEc1Ra7tEcP5aBJrl) | 5:05 |
+| 13 | [Driven by Love \- Live](https://open.spotify.com/track/181meJmk2QVQJnPsagVreh) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Driven by Love \(Live\)](https://open.spotify.com/album/4hJ17XEc1Ra7tEcP5aBJrl) | 5:05 |
 | 14 | [Show Love \- Extended Version](https://open.spotify.com/track/1JHlpXVIJTSQA6F8KMrpjc) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7), [Morgan Harper Nichols](https://open.spotify.com/artist/5dKutHiJLCpYIfbgFNrg4z) | [Show Love \(Extended Version\)](https://open.spotify.com/album/4BDD2UOBMncG2ffhFIS81t) | 4:28 |
 | 15 | [Jesus Only You \(Alternate Version\)](https://open.spotify.com/track/699GLhTtqC2mAMcgyAenm6) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/5mPZqbtst7cZ8yzyXjaQ6z) | 3:27 |
 | 16 | [Calvary's Shadow \(Runway Sessions\)](https://open.spotify.com/track/253dHGyxumrI3EAYCvtcpL) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes: Deconstructed](https://open.spotify.com/album/0UIHG1HtWfex8dTQVBHNaS) | 5:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,911 likes - 118 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,932 likes - 118 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 52 | [one before the one](https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [lover boy](https://open.spotify.com/album/2KvPFsQl591kXKkhhEtnMe) | 3:05 |
 | 53 | [In The End](https://open.spotify.com/track/4yRyjnMFwqltWzsYew0eRL) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [In The End](https://open.spotify.com/album/0sQVaFnxg1emo37Zee9jTK) | 3:37 |
 | 54 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 |
-| 55 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
+| 55 | [Lucky Strike](https://open.spotify.com/track/2QpQFp8IXze65yzEMqLrtj) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Lucky Strike](https://open.spotify.com/album/1z5iwM8KsPsC6ngaDwLKCH) | 3:06 |
 | 56 | [LANDET](https://open.spotify.com/track/7hSpglLTMgdxC1m3XYCkki) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [LANDET](https://open.spotify.com/album/5pTBREKeyz67ijf9FfLw6O) | 2:52 |
 | 57 | [KANSAS](https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [KANSAS](https://open.spotify.com/album/2FP92TJw2nTs1FsPFHXQC6) | 3:01 |
 | 58 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
